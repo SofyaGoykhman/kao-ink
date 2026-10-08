@@ -1,0 +1,18 @@
+---
+import Base from '../../layouts/Base.astro';
+import { langs, sections, useTranslations, type Lang, type Section } from '../../i18n/ui';
+
+export function getStaticPaths() {
+  return langs.flatMap((lang) => sections.map((section) => ({ params: { lang, section } })));
+}
+
+const lang = Astro.params.lang as Lang;
+const section = Astro.params.section as Section;
+const t = useTranslations(lang);
+---
+
+<Base lang={lang} title={t(`nav.${section}`)} description={t(`${section}.lead`)}>
+  <h1>{t(`nav.${section}`)}</h1>
+  <p>{t(`${section}.lead`)}</p>
+  <pre class="muted">(￣▽￣)ノ  {t('section.soon')}</pre>
+</Base>

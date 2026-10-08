@@ -1,0 +1,16 @@
+{
+  "name": "@kaomoji/ascii-core",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "build": "tsc --noEmit",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "get-east-asian-width": "^1.7.0"
+  }
+}

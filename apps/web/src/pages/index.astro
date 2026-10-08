@@ -1,0 +1,20 @@
+---
+// Static root: send visitors to their language, Russian by default.
+---
+
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content="0; url=/ru/" />
+    <link rel="canonical" href="/ru/" />
+    <script is:inline>
+      const lang = (navigator.languages?.[0] ?? navigator.language ?? '').toLowerCase();
+      location.replace(lang.startsWith('ru') ? '/ru/' : '/en/');
+    </script>
+    <title>Kao.ink</title>
+  </head>
+  <body>
+    <a href="/ru/">Русский</a> · <a href="/en/">English</a>
+  </body>
+</html>
