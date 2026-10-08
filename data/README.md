@@ -10,7 +10,10 @@
 - `categories.json` — таксономия тегов: `[{ "slug": "joy", "group": "emotion", "ru": "Радость", "en": "Joy" }]`.
 - `kaomoji.json` — `[{ "id": "joy-001", "text": "(◕‿◕)", "tags": ["joy", "cute"], "source": "original" }]`.
   `tags` — только slug из `categories.json`, первый тег основной. `source` — id источника из `SOURCES.md` или `original`.
-- `parts.json` — части для конструктора: `{ "faces": [...], "eyes": [...], "mouths": [...], "arms": [...], "cheeks": [...], "extras": [...] }`.
+- `parts.json` — части для конструктора. Парные части (`faces`, `eyes`, `arms`, `cheeks`) — `{ "id", "left", "right" }`; `mouths` — `{ "id", "text" }`; `extras` — `{ "id", "text", "position": "left" | "right" }`. Руки стоят снаружи рамки лица, одна сторона может быть пустой; полностью пустой может быть только рамка (лицо без скобок).
+- `build.mjs` — пересобирает `kaomoji.json` из источников (закреплённые коммиты) и `originals.json`; `--report` показывает отброшенные записи.
+- `originals.json` — собственные kaomoji проекта по тегам.
+- `licenses/` — тексты MIT-лицензий источников (показываются на странице лицензий).
 - `validate.mjs` — проверка схемы, дубликатов, NFC, тегов.
 
 ## Unicode — `data/unicode/`

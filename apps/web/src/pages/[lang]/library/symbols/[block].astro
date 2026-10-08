@@ -1,0 +1,113 @@
+---
+import Crumbs from '../../../../components/Crumbs.astro';
+import Base from '../../../../layouts/Base.astro';
+import { langs, useTranslations, type Lang } from '../../../../i18n/ui';
+import { blocks, formatCodePoint, loadBlockChars } from '../../../../data/unicode';
+
+export function getStaticPaths() {
+  return langs.flatMap((lang) =>
+    blocks.filter((b) => !b.lazy).map((b) => ({ params: { lang, block: b.id } })),
+  );
+}
+
+const lang = Astro.params.lang as Lang;
+const t = useTranslations(lang);
+const block = blocks.find((b) => b.id === Astro.params.block)!;
+const chars = await loadBlockChars(block.id);
+const title = lang === 'ru' ? block.ru : block.name;
+const label = (c: (typeof chars)[number]) =>
+  (lang === 'ru' ? (c.ru ?? c.en) : c.en) ?? c.name.toLowerCase();
+---
+
+<Base
+  lang={lang}
+  title={title}
+  description={`${title}: ${block.count} ${t('symbols.chars')}. ${t('symbols.copyHint')}`}
+>
+  <Crumbs
+    items={[
+      { href: `/${lang}/library/`, label: t('nav.library') },
+      { href: `/${lang}/library/symbols/`, label: t('library.symbols') },
+    ]}
+  />
+  <h1>{title}</h1>
+  <p class="muted mono">
+    {`${formatCodePoint(block.range[0])}–${formatCodePoint(block.range[1])} · ${block.count} ${t('symbols.chars')} · ${t(`group.${block.group}`)}`}
+  </p>
+  <input
+    class="filter"
+    type="search"
+    placeholder={t('symbols.filter')}
+    aria-label={t('symbols.filter')}
+  />
+  <p class="muted">{t('symbols.copyHint')}</p>
+  <ul class="grid">
+    {chars.map((c) => (
+      <li
+        data-search={[c.name, c.ru, c.en, ...c.keywords.ru, ...c.keywords.en, formatCodePoint(c.cp)]
+          .filter(Boolean)
+          .join(' ')
+          .toLowerCase()}
+      >
+        <button type="button" data-copy={c.char} title={`${label(c)} · ${formatCodePoint(c.cp)}`}>
+          <span class="char">{c.char}</span>
+          <span class="code mono">{c.cp.toString(16).toUpperCase().padStart(4, '0')}</span>
+        </button>
+      </li>
+    ))}
+  </ul>
+</Base>
+
+<script>
+  const input = document.querySelector<HTMLInputElement>('.filter');
+  const items = Array.from(document.querySelectorAll<HTMLElement>('.grid li'));
+  input?.addEventListener('input', () => {
+    const query = input.value.trim().toLowerCase();
+    for (const item of items) item.hidden = query !== '' && !item.dataset.search?.includes(query);
+  });
+</script>
+
+<style>
+  .filter {
+    width: 100%;
+    max-width: 360px;
+    padding: var(--space-2);
+    background: var(--surface);
+    color: var(--fg);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    font-size: 1rem;
+  }
+  .grid {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(64px, 1fr));
+    gap: var(--space-1);
+  }
+  .grid button {
+    width: 100%;
+    aspect-ratio: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2px;
+    background: var(--surface);
+    color: var(--fg);
+    border: 1px solid transparent;
+    border-radius: var(--radius);
+    cursor: pointer;
+  }
+  .grid button:hover {
+    border-color: var(--fg);
+  }
+  .char {
+    font-size: 1.6rem;
+    line-height: 1;
+  }
+  .code {
+    font-size: 0.65rem;
+    color: var(--muted);
+  }
+</style>

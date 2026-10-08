@@ -1,0 +1,46 @@
+---
+import type { Kaomoji } from '../data/kaomoji';
+
+interface Props {
+  items: Kaomoji[];
+}
+
+const { items } = Astro.props;
+---
+
+<ul class="kaomoji-grid">
+  {items.map((k) => (
+    <li>
+      <button type="button" data-copy={k.text}>
+        {k.text}
+      </button>
+    </li>
+  ))}
+</ul>
+
+<style>
+  .kaomoji-grid {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: var(--space-1);
+  }
+  button {
+    width: 100%;
+    min-height: 52px;
+    padding: var(--space-2);
+    background: var(--surface);
+    color: var(--fg);
+    border: 1px solid transparent;
+    border-radius: var(--radius);
+    font-size: 1.05rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    cursor: pointer;
+  }
+  button:hover {
+    border-color: var(--fg);
+  }
+</style>

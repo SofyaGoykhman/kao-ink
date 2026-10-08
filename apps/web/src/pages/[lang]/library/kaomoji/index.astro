@@ -1,0 +1,82 @@
+---
+import Crumbs from '../../../../components/Crumbs.astro';
+import Base from '../../../../layouts/Base.astro';
+import KaomojiGrid from '../../../../components/KaomojiGrid.astro';
+import { langs, useTranslations, type Lang } from '../../../../i18n/ui';
+import { categories, kaomoji, kaomojiGroups, kaomojiIn } from '../../../../data/kaomoji';
+
+export function getStaticPaths() {
+  return langs.map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as Lang;
+const t = useTranslations(lang);
+const PREVIEW = 12;
+---
+
+<Base lang={lang} title={t('library.kaomoji')} description={t('library.kaomoji.lead')}>
+  <Crumbs items={[{ href: `/${lang}/library/`, label: t('nav.library') }]} />
+  <h1>{t('library.kaomoji')}</h1>
+  <p class="muted">
+    {`${t('library.kaomoji.lead')} ${kaomoji.length} ${t('kaomoji.count')}. ${t('kaomoji.copyHint')}`}
+  </p>
+  {kaomojiGroups.map((group) => (
+    <section>
+      <h2>{t(`kaomoji.group.${group}`)}</h2>
+      <ul class="chips">
+        {categories
+          .filter((c) => c.group === group)
+          .map((c) => (
+            <li>
+              <a href={`#${c.slug}`}>{c[lang]}</a>
+            </li>
+          ))}
+      </ul>
+      {categories
+        .filter((c) => c.group === group)
+        .map((c) => {
+          const items = kaomojiIn(c.slug);
+          return (
+            <div class="category" id={c.slug}>
+              <h3>
+                <a href={`/${lang}/library/kaomoji/${c.slug}/`}>{c[lang]}</a>{' '}
+                <small class="muted">
+                  · {t('kaomoji.all')} {items.length} →
+                </small>
+              </h3>
+              <KaomojiGrid items={items.slice(0, PREVIEW)} />
+            </div>
+          );
+        })}
+    </section>
+  ))}
+</Base>
+
+<style>
+  h2 {
+    margin-top: var(--space-5);
+  }
+  .chips {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-1) var(--space-3);
+  }
+  .chips a {
+    color: var(--muted);
+  }
+  .category {
+    scroll-margin-top: var(--space-3);
+  }
+  h3 {
+    font-size: 1rem;
+    margin: var(--space-4) 0 var(--space-2);
+  }
+  h3 a {
+    text-decoration: none;
+  }
+  h3 a:hover {
+    text-decoration: underline;
+  }
+</style>

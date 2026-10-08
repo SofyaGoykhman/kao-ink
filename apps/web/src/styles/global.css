@@ -124,3 +124,68 @@ h2 {
   margin: 0;
   color: var(--muted);
 }
+
+/* Fancy text */
+.fancy {
+  display: grid;
+  gap: var(--space-3);
+}
+.fancy label {
+  display: grid;
+  gap: var(--space-1);
+  max-width: 640px;
+}
+.fancy textarea {
+  width: 100%;
+  padding: var(--space-2);
+  background: var(--surface);
+  color: var(--fg);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  font-size: 1.1rem;
+  resize: vertical;
+}
+.fancy ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: var(--space-2);
+}
+.fancy li {
+  padding: var(--space-2) var(--space-3);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  min-width: 0;
+}
+.fancy .head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.85rem;
+}
+.fancy .head button {
+  background: none;
+  border: 0;
+  color: var(--accent);
+  cursor: pointer;
+  font-size: 0.85rem;
+}
+.fancy .output {
+  display: block;
+  width: 100%;
+  margin: var(--space-1) 0 0;
+  padding: 0;
+  background: none;
+  border: 0;
+  color: var(--fg);
+  font-size: 1.4rem;
+  text-align: left;
+  overflow-wrap: anywhere;
+  cursor: pointer;
+}
+.fancy .warning {
+  margin: var(--space-1) 0 0;
+  font-size: 0.8rem;
+}

@@ -1,0 +1,64 @@
+---
+import Crumbs from '../../../../components/Crumbs.astro';
+import Base from '../../../../layouts/Base.astro';
+import KaomojiGrid from '../../../../components/KaomojiGrid.astro';
+import { langs, useTranslations, type Lang } from '../../../../i18n/ui';
+import { categories, kaomojiIn } from '../../../../data/kaomoji';
+
+export function getStaticPaths() {
+  return langs.flatMap((lang) => categories.map((c) => ({ params: { lang, category: c.slug } })));
+}
+
+const lang = Astro.params.lang as Lang;
+const t = useTranslations(lang);
+const category = categories.find((c) => c.slug === Astro.params.category)!;
+const items = kaomojiIn(category.slug);
+const title = `${t('library.kaomoji')}: ${category[lang].toLowerCase()}`;
+const related = categories.filter((c) => c.group === category.group && c.slug !== category.slug);
+---
+
+<Base
+  lang={lang}
+  title={title}
+  description={`${items.length} kaomoji · ${category[lang]} · ${items
+    .slice(0, 5)
+    .map((k) => k.text)
+    .join(' ')}`}
+>
+  <Crumbs
+    items={[
+      { href: `/${lang}/library/`, label: t('nav.library') },
+      { href: `/${lang}/library/kaomoji/`, label: t('library.kaomoji') },
+    ]}
+  />
+  <h1>{title}</h1>
+  <p class="muted">
+    {items.length} {t('kaomoji.count')}. {t('kaomoji.copyHint')}
+  </p>
+  <KaomojiGrid items={items} />
+  <h2>{t(`kaomoji.group.${category.group}`)}</h2>
+  <ul class="chips">
+    {related.map((c) => (
+      <li>
+        <a href={`/${lang}/library/kaomoji/${c.slug}/`}>{c[lang]}</a>
+      </li>
+    ))}
+  </ul>
+</Base>
+
+<style>
+  h2 {
+    font-size: 1.1rem;
+    margin-top: var(--space-5);
+  }
+  .chips {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-1) var(--space-3);
+  }
+  .chips a {
+    color: var(--muted);
+  }
+</style>
