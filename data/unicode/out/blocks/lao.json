@@ -1,0 +1,666 @@
+[
+  {
+    "cp": 3713,
+    "char": "ກ",
+    "name": "LAO LETTER KO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3714,
+    "char": "ຂ",
+    "name": "LAO LETTER KHO SUNG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3716,
+    "char": "ຄ",
+    "name": "LAO LETTER KHO TAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3718,
+    "char": "ຆ",
+    "name": "LAO LETTER PALI GHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3719,
+    "char": "ງ",
+    "name": "LAO LETTER NGO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3720,
+    "char": "ຈ",
+    "name": "LAO LETTER CO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3721,
+    "char": "ຉ",
+    "name": "LAO LETTER PALI CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3722,
+    "char": "ຊ",
+    "name": "LAO LETTER SO TAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3724,
+    "char": "ຌ",
+    "name": "LAO LETTER PALI JHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3725,
+    "char": "ຍ",
+    "name": "LAO LETTER NYO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3726,
+    "char": "ຎ",
+    "name": "LAO LETTER PALI NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3727,
+    "char": "ຏ",
+    "name": "LAO LETTER PALI TTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3728,
+    "char": "ຐ",
+    "name": "LAO LETTER PALI TTHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3729,
+    "char": "ຑ",
+    "name": "LAO LETTER PALI DDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3730,
+    "char": "ຒ",
+    "name": "LAO LETTER PALI DDHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3731,
+    "char": "ຓ",
+    "name": "LAO LETTER PALI NNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3732,
+    "char": "ດ",
+    "name": "LAO LETTER DO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3733,
+    "char": "ຕ",
+    "name": "LAO LETTER TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3734,
+    "char": "ຖ",
+    "name": "LAO LETTER THO SUNG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3735,
+    "char": "ທ",
+    "name": "LAO LETTER THO TAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3736,
+    "char": "ຘ",
+    "name": "LAO LETTER PALI DHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3737,
+    "char": "ນ",
+    "name": "LAO LETTER NO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3738,
+    "char": "ບ",
+    "name": "LAO LETTER BO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3739,
+    "char": "ປ",
+    "name": "LAO LETTER PO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3740,
+    "char": "ຜ",
+    "name": "LAO LETTER PHO SUNG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3741,
+    "char": "ຝ",
+    "name": "LAO LETTER FO TAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3742,
+    "char": "ພ",
+    "name": "LAO LETTER PHO TAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3743,
+    "char": "ຟ",
+    "name": "LAO LETTER FO SUNG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3744,
+    "char": "ຠ",
+    "name": "LAO LETTER PALI BHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3745,
+    "char": "ມ",
+    "name": "LAO LETTER MO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3746,
+    "char": "ຢ",
+    "name": "LAO LETTER YO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3747,
+    "char": "ຣ",
+    "name": "LAO LETTER LO LING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3749,
+    "char": "ລ",
+    "name": "LAO LETTER LO LOOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3751,
+    "char": "ວ",
+    "name": "LAO LETTER WO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3752,
+    "char": "ຨ",
+    "name": "LAO LETTER SANSKRIT SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3753,
+    "char": "ຩ",
+    "name": "LAO LETTER SANSKRIT SSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3754,
+    "char": "ສ",
+    "name": "LAO LETTER SO SUNG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3755,
+    "char": "ຫ",
+    "name": "LAO LETTER HO SUNG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3756,
+    "char": "ຬ",
+    "name": "LAO LETTER PALI LLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3757,
+    "char": "ອ",
+    "name": "LAO LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3758,
+    "char": "ຮ",
+    "name": "LAO LETTER HO TAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3759,
+    "char": "ຯ",
+    "name": "LAO ELLIPSIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3760,
+    "char": "ະ",
+    "name": "LAO VOWEL SIGN A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3761,
+    "char": "ັ",
+    "name": "LAO VOWEL SIGN MAI KAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3762,
+    "char": "າ",
+    "name": "LAO VOWEL SIGN AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3763,
+    "char": "ຳ",
+    "name": "LAO VOWEL SIGN AM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3764,
+    "char": "ິ",
+    "name": "LAO VOWEL SIGN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3765,
+    "char": "ີ",
+    "name": "LAO VOWEL SIGN II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3766,
+    "char": "ຶ",
+    "name": "LAO VOWEL SIGN Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3767,
+    "char": "ື",
+    "name": "LAO VOWEL SIGN YY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3768,
+    "char": "ຸ",
+    "name": "LAO VOWEL SIGN U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3769,
+    "char": "ູ",
+    "name": "LAO VOWEL SIGN UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3770,
+    "char": "຺",
+    "name": "LAO SIGN PALI VIRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3771,
+    "char": "ົ",
+    "name": "LAO VOWEL SIGN MAI KON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3772,
+    "char": "ຼ",
+    "name": "LAO SEMIVOWEL SIGN LO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3773,
+    "char": "ຽ",
+    "name": "LAO SEMIVOWEL SIGN NYO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3776,
+    "char": "ເ",
+    "name": "LAO VOWEL SIGN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3777,
+    "char": "ແ",
+    "name": "LAO VOWEL SIGN EI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3778,
+    "char": "ໂ",
+    "name": "LAO VOWEL SIGN O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3779,
+    "char": "ໃ",
+    "name": "LAO VOWEL SIGN AY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3780,
+    "char": "ໄ",
+    "name": "LAO VOWEL SIGN AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3782,
+    "char": "ໆ",
+    "name": "LAO KO LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3784,
+    "char": "່",
+    "name": "LAO TONE MAI EK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3785,
+    "char": "້",
+    "name": "LAO TONE MAI THO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3786,
+    "char": "໊",
+    "name": "LAO TONE MAI TI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3787,
+    "char": "໋",
+    "name": "LAO TONE MAI CATAWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3788,
+    "char": "໌",
+    "name": "LAO CANCELLATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3789,
+    "char": "ໍ",
+    "name": "LAO NIGGAHITA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3790,
+    "char": "໎",
+    "name": "LAO YAMAKKAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3792,
+    "char": "໐",
+    "name": "LAO DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3793,
+    "char": "໑",
+    "name": "LAO DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3794,
+    "char": "໒",
+    "name": "LAO DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3795,
+    "char": "໓",
+    "name": "LAO DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3796,
+    "char": "໔",
+    "name": "LAO DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3797,
+    "char": "໕",
+    "name": "LAO DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3798,
+    "char": "໖",
+    "name": "LAO DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3799,
+    "char": "໗",
+    "name": "LAO DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3800,
+    "char": "໘",
+    "name": "LAO DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3801,
+    "char": "໙",
+    "name": "LAO DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3804,
+    "char": "ໜ",
+    "name": "LAO HO NO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3805,
+    "char": "ໝ",
+    "name": "LAO HO MO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3806,
+    "char": "ໞ",
+    "name": "LAO LETTER KHMU GO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3807,
+    "char": "ໟ",
+    "name": "LAO LETTER KHMU NYO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

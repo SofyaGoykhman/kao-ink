@@ -1,0 +1,642 @@
+[
+  {
+    "cp": 70528,
+    "char": "𑎀",
+    "name": "TULU-TIGALARI LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70529,
+    "char": "𑎁",
+    "name": "TULU-TIGALARI LETTER AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70530,
+    "char": "𑎂",
+    "name": "TULU-TIGALARI LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70531,
+    "char": "𑎃",
+    "name": "TULU-TIGALARI LETTER II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70532,
+    "char": "𑎄",
+    "name": "TULU-TIGALARI LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70533,
+    "char": "𑎅",
+    "name": "TULU-TIGALARI LETTER UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70534,
+    "char": "𑎆",
+    "name": "TULU-TIGALARI LETTER VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70535,
+    "char": "𑎇",
+    "name": "TULU-TIGALARI LETTER VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70536,
+    "char": "𑎈",
+    "name": "TULU-TIGALARI LETTER VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70537,
+    "char": "𑎉",
+    "name": "TULU-TIGALARI LETTER VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70539,
+    "char": "𑎋",
+    "name": "TULU-TIGALARI LETTER EE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70542,
+    "char": "𑎎",
+    "name": "TULU-TIGALARI LETTER AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70544,
+    "char": "𑎐",
+    "name": "TULU-TIGALARI LETTER OO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70545,
+    "char": "𑎑",
+    "name": "TULU-TIGALARI LETTER AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70546,
+    "char": "𑎒",
+    "name": "TULU-TIGALARI LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70547,
+    "char": "𑎓",
+    "name": "TULU-TIGALARI LETTER KHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70548,
+    "char": "𑎔",
+    "name": "TULU-TIGALARI LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70549,
+    "char": "𑎕",
+    "name": "TULU-TIGALARI LETTER GHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70550,
+    "char": "𑎖",
+    "name": "TULU-TIGALARI LETTER NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70551,
+    "char": "𑎗",
+    "name": "TULU-TIGALARI LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70552,
+    "char": "𑎘",
+    "name": "TULU-TIGALARI LETTER CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70553,
+    "char": "𑎙",
+    "name": "TULU-TIGALARI LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70554,
+    "char": "𑎚",
+    "name": "TULU-TIGALARI LETTER JHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70555,
+    "char": "𑎛",
+    "name": "TULU-TIGALARI LETTER NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70556,
+    "char": "𑎜",
+    "name": "TULU-TIGALARI LETTER TTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70557,
+    "char": "𑎝",
+    "name": "TULU-TIGALARI LETTER TTHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70558,
+    "char": "𑎞",
+    "name": "TULU-TIGALARI LETTER DDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70559,
+    "char": "𑎟",
+    "name": "TULU-TIGALARI LETTER DDHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70560,
+    "char": "𑎠",
+    "name": "TULU-TIGALARI LETTER NNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70561,
+    "char": "𑎡",
+    "name": "TULU-TIGALARI LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70562,
+    "char": "𑎢",
+    "name": "TULU-TIGALARI LETTER THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70563,
+    "char": "𑎣",
+    "name": "TULU-TIGALARI LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70564,
+    "char": "𑎤",
+    "name": "TULU-TIGALARI LETTER DHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70565,
+    "char": "𑎥",
+    "name": "TULU-TIGALARI LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70566,
+    "char": "𑎦",
+    "name": "TULU-TIGALARI LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70567,
+    "char": "𑎧",
+    "name": "TULU-TIGALARI LETTER PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70568,
+    "char": "𑎨",
+    "name": "TULU-TIGALARI LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70569,
+    "char": "𑎩",
+    "name": "TULU-TIGALARI LETTER BHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70570,
+    "char": "𑎪",
+    "name": "TULU-TIGALARI LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70571,
+    "char": "𑎫",
+    "name": "TULU-TIGALARI LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70572,
+    "char": "𑎬",
+    "name": "TULU-TIGALARI LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70573,
+    "char": "𑎭",
+    "name": "TULU-TIGALARI LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70574,
+    "char": "𑎮",
+    "name": "TULU-TIGALARI LETTER VA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70575,
+    "char": "𑎯",
+    "name": "TULU-TIGALARI LETTER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70576,
+    "char": "𑎰",
+    "name": "TULU-TIGALARI LETTER SSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70577,
+    "char": "𑎱",
+    "name": "TULU-TIGALARI LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70578,
+    "char": "𑎲",
+    "name": "TULU-TIGALARI LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70579,
+    "char": "𑎳",
+    "name": "TULU-TIGALARI LETTER LLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70580,
+    "char": "𑎴",
+    "name": "TULU-TIGALARI LETTER RRA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70581,
+    "char": "𑎵",
+    "name": "TULU-TIGALARI LETTER LLLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70583,
+    "char": "𑎷",
+    "name": "TULU-TIGALARI SIGN AVAGRAHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70584,
+    "char": "𑎸",
+    "name": "TULU-TIGALARI VOWEL SIGN AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70585,
+    "char": "𑎹",
+    "name": "TULU-TIGALARI VOWEL SIGN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70586,
+    "char": "𑎺",
+    "name": "TULU-TIGALARI VOWEL SIGN II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70587,
+    "char": "𑎻",
+    "name": "TULU-TIGALARI VOWEL SIGN U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70588,
+    "char": "𑎼",
+    "name": "TULU-TIGALARI VOWEL SIGN UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70589,
+    "char": "𑎽",
+    "name": "TULU-TIGALARI VOWEL SIGN VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70590,
+    "char": "𑎾",
+    "name": "TULU-TIGALARI VOWEL SIGN VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70591,
+    "char": "𑎿",
+    "name": "TULU-TIGALARI VOWEL SIGN VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70592,
+    "char": "𑏀",
+    "name": "TULU-TIGALARI VOWEL SIGN VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70594,
+    "char": "𑏂",
+    "name": "TULU-TIGALARI VOWEL SIGN EE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70597,
+    "char": "𑏅",
+    "name": "TULU-TIGALARI VOWEL SIGN AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70599,
+    "char": "𑏇",
+    "name": "TULU-TIGALARI VOWEL SIGN OO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70600,
+    "char": "𑏈",
+    "name": "TULU-TIGALARI VOWEL SIGN AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70601,
+    "char": "𑏉",
+    "name": "TULU-TIGALARI AU LENGTH MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70602,
+    "char": "𑏊",
+    "name": "TULU-TIGALARI SIGN CANDRA ANUNASIKA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70604,
+    "char": "𑏌",
+    "name": "TULU-TIGALARI SIGN ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70605,
+    "char": "𑏍",
+    "name": "TULU-TIGALARI SIGN VISARGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70606,
+    "char": "𑏎",
+    "name": "TULU-TIGALARI SIGN VIRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70607,
+    "char": "𑏏",
+    "name": "TULU-TIGALARI SIGN LOOPED VIRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70608,
+    "char": "𑏐",
+    "name": "TULU-TIGALARI CONJOINER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70609,
+    "char": "𑏑",
+    "name": "TULU-TIGALARI REPHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70610,
+    "char": "𑏒",
+    "name": "TULU-TIGALARI GEMINATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70611,
+    "char": "𑏓",
+    "name": "TULU-TIGALARI SIGN PLUTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70612,
+    "char": "𑏔",
+    "name": "TULU-TIGALARI DANDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70613,
+    "char": "𑏕",
+    "name": "TULU-TIGALARI DOUBLE DANDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70615,
+    "char": "𑏗",
+    "name": "TULU-TIGALARI SIGN OM PUSHPIKA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70616,
+    "char": "𑏘",
+    "name": "TULU-TIGALARI SIGN SHRII PUSHPIKA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70625,
+    "char": "𑏡",
+    "name": "TULU-TIGALARI VEDIC TONE SVARITA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70626,
+    "char": "𑏢",
+    "name": "TULU-TIGALARI VEDIC TONE ANUDATTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

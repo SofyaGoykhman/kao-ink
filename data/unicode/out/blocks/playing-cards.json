@@ -1,0 +1,658 @@
+[
+  {
+    "cp": 127136,
+    "char": "🂠",
+    "name": "PLAYING CARD BACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127137,
+    "char": "🂡",
+    "name": "PLAYING CARD ACE OF SPADES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127138,
+    "char": "🂢",
+    "name": "PLAYING CARD TWO OF SPADES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127139,
+    "char": "🂣",
+    "name": "PLAYING CARD THREE OF SPADES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127140,
+    "char": "🂤",
+    "name": "PLAYING CARD FOUR OF SPADES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127141,
+    "char": "🂥",
+    "name": "PLAYING CARD FIVE OF SPADES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127142,
+    "char": "🂦",
+    "name": "PLAYING CARD SIX OF SPADES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127143,
+    "char": "🂧",
+    "name": "PLAYING CARD SEVEN OF SPADES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127144,
+    "char": "🂨",
+    "name": "PLAYING CARD EIGHT OF SPADES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127145,
+    "char": "🂩",
+    "name": "PLAYING CARD NINE OF SPADES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127146,
+    "char": "🂪",
+    "name": "PLAYING CARD TEN OF SPADES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127147,
+    "char": "🂫",
+    "name": "PLAYING CARD JACK OF SPADES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127148,
+    "char": "🂬",
+    "name": "PLAYING CARD KNIGHT OF SPADES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127149,
+    "char": "🂭",
+    "name": "PLAYING CARD QUEEN OF SPADES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127150,
+    "char": "🂮",
+    "name": "PLAYING CARD KING OF SPADES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127153,
+    "char": "🂱",
+    "name": "PLAYING CARD ACE OF HEARTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127154,
+    "char": "🂲",
+    "name": "PLAYING CARD TWO OF HEARTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127155,
+    "char": "🂳",
+    "name": "PLAYING CARD THREE OF HEARTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127156,
+    "char": "🂴",
+    "name": "PLAYING CARD FOUR OF HEARTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127157,
+    "char": "🂵",
+    "name": "PLAYING CARD FIVE OF HEARTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127158,
+    "char": "🂶",
+    "name": "PLAYING CARD SIX OF HEARTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127159,
+    "char": "🂷",
+    "name": "PLAYING CARD SEVEN OF HEARTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127160,
+    "char": "🂸",
+    "name": "PLAYING CARD EIGHT OF HEARTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127161,
+    "char": "🂹",
+    "name": "PLAYING CARD NINE OF HEARTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127162,
+    "char": "🂺",
+    "name": "PLAYING CARD TEN OF HEARTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127163,
+    "char": "🂻",
+    "name": "PLAYING CARD JACK OF HEARTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127164,
+    "char": "🂼",
+    "name": "PLAYING CARD KNIGHT OF HEARTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127165,
+    "char": "🂽",
+    "name": "PLAYING CARD QUEEN OF HEARTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127166,
+    "char": "🂾",
+    "name": "PLAYING CARD KING OF HEARTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127167,
+    "char": "🂿",
+    "name": "PLAYING CARD RED JOKER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127169,
+    "char": "🃁",
+    "name": "PLAYING CARD ACE OF DIAMONDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127170,
+    "char": "🃂",
+    "name": "PLAYING CARD TWO OF DIAMONDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127171,
+    "char": "🃃",
+    "name": "PLAYING CARD THREE OF DIAMONDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127172,
+    "char": "🃄",
+    "name": "PLAYING CARD FOUR OF DIAMONDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127173,
+    "char": "🃅",
+    "name": "PLAYING CARD FIVE OF DIAMONDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127174,
+    "char": "🃆",
+    "name": "PLAYING CARD SIX OF DIAMONDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127175,
+    "char": "🃇",
+    "name": "PLAYING CARD SEVEN OF DIAMONDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127176,
+    "char": "🃈",
+    "name": "PLAYING CARD EIGHT OF DIAMONDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127177,
+    "char": "🃉",
+    "name": "PLAYING CARD NINE OF DIAMONDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127178,
+    "char": "🃊",
+    "name": "PLAYING CARD TEN OF DIAMONDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127179,
+    "char": "🃋",
+    "name": "PLAYING CARD JACK OF DIAMONDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127180,
+    "char": "🃌",
+    "name": "PLAYING CARD KNIGHT OF DIAMONDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127181,
+    "char": "🃍",
+    "name": "PLAYING CARD QUEEN OF DIAMONDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127182,
+    "char": "🃎",
+    "name": "PLAYING CARD KING OF DIAMONDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127183,
+    "char": "🃏",
+    "name": "PLAYING CARD BLACK JOKER",
+    "ru": "джокер",
+    "en": "joker",
+    "keywords": { "ru": ["джокер", "игра", "карты"], "en": ["card", "game", "joker", "wildcard"] }
+  },
+  {
+    "cp": 127185,
+    "char": "🃑",
+    "name": "PLAYING CARD ACE OF CLUBS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127186,
+    "char": "🃒",
+    "name": "PLAYING CARD TWO OF CLUBS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127187,
+    "char": "🃓",
+    "name": "PLAYING CARD THREE OF CLUBS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127188,
+    "char": "🃔",
+    "name": "PLAYING CARD FOUR OF CLUBS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127189,
+    "char": "🃕",
+    "name": "PLAYING CARD FIVE OF CLUBS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127190,
+    "char": "🃖",
+    "name": "PLAYING CARD SIX OF CLUBS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127191,
+    "char": "🃗",
+    "name": "PLAYING CARD SEVEN OF CLUBS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127192,
+    "char": "🃘",
+    "name": "PLAYING CARD EIGHT OF CLUBS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127193,
+    "char": "🃙",
+    "name": "PLAYING CARD NINE OF CLUBS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127194,
+    "char": "🃚",
+    "name": "PLAYING CARD TEN OF CLUBS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127195,
+    "char": "🃛",
+    "name": "PLAYING CARD JACK OF CLUBS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127196,
+    "char": "🃜",
+    "name": "PLAYING CARD KNIGHT OF CLUBS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127197,
+    "char": "🃝",
+    "name": "PLAYING CARD QUEEN OF CLUBS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127198,
+    "char": "🃞",
+    "name": "PLAYING CARD KING OF CLUBS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127199,
+    "char": "🃟",
+    "name": "PLAYING CARD WHITE JOKER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127200,
+    "char": "🃠",
+    "name": "PLAYING CARD FOOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127201,
+    "char": "🃡",
+    "name": "PLAYING CARD TRUMP-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127202,
+    "char": "🃢",
+    "name": "PLAYING CARD TRUMP-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127203,
+    "char": "🃣",
+    "name": "PLAYING CARD TRUMP-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127204,
+    "char": "🃤",
+    "name": "PLAYING CARD TRUMP-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127205,
+    "char": "🃥",
+    "name": "PLAYING CARD TRUMP-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127206,
+    "char": "🃦",
+    "name": "PLAYING CARD TRUMP-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127207,
+    "char": "🃧",
+    "name": "PLAYING CARD TRUMP-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127208,
+    "char": "🃨",
+    "name": "PLAYING CARD TRUMP-8",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127209,
+    "char": "🃩",
+    "name": "PLAYING CARD TRUMP-9",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127210,
+    "char": "🃪",
+    "name": "PLAYING CARD TRUMP-10",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127211,
+    "char": "🃫",
+    "name": "PLAYING CARD TRUMP-11",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127212,
+    "char": "🃬",
+    "name": "PLAYING CARD TRUMP-12",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127213,
+    "char": "🃭",
+    "name": "PLAYING CARD TRUMP-13",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127214,
+    "char": "🃮",
+    "name": "PLAYING CARD TRUMP-14",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127215,
+    "char": "🃯",
+    "name": "PLAYING CARD TRUMP-15",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127216,
+    "char": "🃰",
+    "name": "PLAYING CARD TRUMP-16",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127217,
+    "char": "🃱",
+    "name": "PLAYING CARD TRUMP-17",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127218,
+    "char": "🃲",
+    "name": "PLAYING CARD TRUMP-18",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127219,
+    "char": "🃳",
+    "name": "PLAYING CARD TRUMP-19",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127220,
+    "char": "🃴",
+    "name": "PLAYING CARD TRUMP-20",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 127221,
+    "char": "🃵",
+    "name": "PLAYING CARD TRUMP-21",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "cp": 9216,
+    "char": "␀",
+    "name": "SYMBOL FOR NULL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9217,
+    "char": "␁",
+    "name": "SYMBOL FOR START OF HEADING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9218,
+    "char": "␂",
+    "name": "SYMBOL FOR START OF TEXT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9219,
+    "char": "␃",
+    "name": "SYMBOL FOR END OF TEXT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9220,
+    "char": "␄",
+    "name": "SYMBOL FOR END OF TRANSMISSION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9221,
+    "char": "␅",
+    "name": "SYMBOL FOR ENQUIRY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9222,
+    "char": "␆",
+    "name": "SYMBOL FOR ACKNOWLEDGE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9223,
+    "char": "␇",
+    "name": "SYMBOL FOR BELL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9224,
+    "char": "␈",
+    "name": "SYMBOL FOR BACKSPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9225,
+    "char": "␉",
+    "name": "SYMBOL FOR HORIZONTAL TABULATION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9226,
+    "char": "␊",
+    "name": "SYMBOL FOR LINE FEED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9227,
+    "char": "␋",
+    "name": "SYMBOL FOR VERTICAL TABULATION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9228,
+    "char": "␌",
+    "name": "SYMBOL FOR FORM FEED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9229,
+    "char": "␍",
+    "name": "SYMBOL FOR CARRIAGE RETURN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9230,
+    "char": "␎",
+    "name": "SYMBOL FOR SHIFT OUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9231,
+    "char": "␏",
+    "name": "SYMBOL FOR SHIFT IN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9232,
+    "char": "␐",
+    "name": "SYMBOL FOR DATA LINK ESCAPE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9233,
+    "char": "␑",
+    "name": "SYMBOL FOR DEVICE CONTROL ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9234,
+    "char": "␒",
+    "name": "SYMBOL FOR DEVICE CONTROL TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9235,
+    "char": "␓",
+    "name": "SYMBOL FOR DEVICE CONTROL THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9236,
+    "char": "␔",
+    "name": "SYMBOL FOR DEVICE CONTROL FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9237,
+    "char": "␕",
+    "name": "SYMBOL FOR NEGATIVE ACKNOWLEDGE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9238,
+    "char": "␖",
+    "name": "SYMBOL FOR SYNCHRONOUS IDLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9239,
+    "char": "␗",
+    "name": "SYMBOL FOR END OF TRANSMISSION BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9240,
+    "char": "␘",
+    "name": "SYMBOL FOR CANCEL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9241,
+    "char": "␙",
+    "name": "SYMBOL FOR END OF MEDIUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9242,
+    "char": "␚",
+    "name": "SYMBOL FOR SUBSTITUTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9243,
+    "char": "␛",
+    "name": "SYMBOL FOR ESCAPE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9244,
+    "char": "␜",
+    "name": "SYMBOL FOR FILE SEPARATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9245,
+    "char": "␝",
+    "name": "SYMBOL FOR GROUP SEPARATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9246,
+    "char": "␞",
+    "name": "SYMBOL FOR RECORD SEPARATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9247,
+    "char": "␟",
+    "name": "SYMBOL FOR UNIT SEPARATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9248,
+    "char": "␠",
+    "name": "SYMBOL FOR SPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9249,
+    "char": "␡",
+    "name": "SYMBOL FOR DELETE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9250,
+    "char": "␢",
+    "name": "BLANK SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9251,
+    "char": "␣",
+    "name": "OPEN BOX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9252,
+    "char": "␤",
+    "name": "SYMBOL FOR NEWLINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9253,
+    "char": "␥",
+    "name": "SYMBOL FOR DELETE FORM TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9254,
+    "char": "␦",
+    "name": "SYMBOL FOR SUBSTITUTE FORM TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9255,
+    "char": "␧",
+    "name": "SYMBOL FOR DELETE SQUARE CHECKER BOARD FORM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9256,
+    "char": "␨",
+    "name": "SYMBOL FOR DELETE RECTANGULAR CHECKER BOARD FORM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9257,
+    "char": "␩",
+    "name": "SYMBOL FOR DELETE MEDIUM SHADE FORM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

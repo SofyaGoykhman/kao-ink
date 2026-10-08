@@ -1,0 +1,5122 @@
+[
+  {
+    "cp": 5120,
+    "char": "᐀",
+    "name": "CANADIAN SYLLABICS HYPHEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5121,
+    "char": "ᐁ",
+    "name": "CANADIAN SYLLABICS E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5122,
+    "char": "ᐂ",
+    "name": "CANADIAN SYLLABICS AAI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5123,
+    "char": "ᐃ",
+    "name": "CANADIAN SYLLABICS I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5124,
+    "char": "ᐄ",
+    "name": "CANADIAN SYLLABICS II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5125,
+    "char": "ᐅ",
+    "name": "CANADIAN SYLLABICS O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5126,
+    "char": "ᐆ",
+    "name": "CANADIAN SYLLABICS OO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5127,
+    "char": "ᐇ",
+    "name": "CANADIAN SYLLABICS Y-CREE OO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5128,
+    "char": "ᐈ",
+    "name": "CANADIAN SYLLABICS CARRIER EE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5129,
+    "char": "ᐉ",
+    "name": "CANADIAN SYLLABICS CARRIER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5130,
+    "char": "ᐊ",
+    "name": "CANADIAN SYLLABICS A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5131,
+    "char": "ᐋ",
+    "name": "CANADIAN SYLLABICS AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5132,
+    "char": "ᐌ",
+    "name": "CANADIAN SYLLABICS WE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5133,
+    "char": "ᐍ",
+    "name": "CANADIAN SYLLABICS WEST-CREE WE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5134,
+    "char": "ᐎ",
+    "name": "CANADIAN SYLLABICS WI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5135,
+    "char": "ᐏ",
+    "name": "CANADIAN SYLLABICS WEST-CREE WI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5136,
+    "char": "ᐐ",
+    "name": "CANADIAN SYLLABICS WII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5137,
+    "char": "ᐑ",
+    "name": "CANADIAN SYLLABICS WEST-CREE WII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5138,
+    "char": "ᐒ",
+    "name": "CANADIAN SYLLABICS WO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5139,
+    "char": "ᐓ",
+    "name": "CANADIAN SYLLABICS WEST-CREE WO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5140,
+    "char": "ᐔ",
+    "name": "CANADIAN SYLLABICS WOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5141,
+    "char": "ᐕ",
+    "name": "CANADIAN SYLLABICS WEST-CREE WOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5142,
+    "char": "ᐖ",
+    "name": "CANADIAN SYLLABICS NASKAPI WOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5143,
+    "char": "ᐗ",
+    "name": "CANADIAN SYLLABICS WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5144,
+    "char": "ᐘ",
+    "name": "CANADIAN SYLLABICS WEST-CREE WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5145,
+    "char": "ᐙ",
+    "name": "CANADIAN SYLLABICS WAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5146,
+    "char": "ᐚ",
+    "name": "CANADIAN SYLLABICS WEST-CREE WAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5147,
+    "char": "ᐛ",
+    "name": "CANADIAN SYLLABICS NASKAPI WAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5148,
+    "char": "ᐜ",
+    "name": "CANADIAN SYLLABICS AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5149,
+    "char": "ᐝ",
+    "name": "CANADIAN SYLLABICS Y-CREE W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5150,
+    "char": "ᐞ",
+    "name": "CANADIAN SYLLABICS GLOTTAL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5151,
+    "char": "ᐟ",
+    "name": "CANADIAN SYLLABICS FINAL ACUTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5152,
+    "char": "ᐠ",
+    "name": "CANADIAN SYLLABICS FINAL GRAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5153,
+    "char": "ᐡ",
+    "name": "CANADIAN SYLLABICS FINAL BOTTOM HALF RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5154,
+    "char": "ᐢ",
+    "name": "CANADIAN SYLLABICS FINAL TOP HALF RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5155,
+    "char": "ᐣ",
+    "name": "CANADIAN SYLLABICS FINAL RIGHT HALF RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5156,
+    "char": "ᐤ",
+    "name": "CANADIAN SYLLABICS FINAL RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5157,
+    "char": "ᐥ",
+    "name": "CANADIAN SYLLABICS FINAL DOUBLE ACUTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5158,
+    "char": "ᐦ",
+    "name": "CANADIAN SYLLABICS FINAL DOUBLE SHORT VERTICAL STROKES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5159,
+    "char": "ᐧ",
+    "name": "CANADIAN SYLLABICS FINAL MIDDLE DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5160,
+    "char": "ᐨ",
+    "name": "CANADIAN SYLLABICS FINAL SHORT HORIZONTAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5161,
+    "char": "ᐩ",
+    "name": "CANADIAN SYLLABICS FINAL PLUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5162,
+    "char": "ᐪ",
+    "name": "CANADIAN SYLLABICS FINAL DOWN TACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5163,
+    "char": "ᐫ",
+    "name": "CANADIAN SYLLABICS EN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5164,
+    "char": "ᐬ",
+    "name": "CANADIAN SYLLABICS IN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5165,
+    "char": "ᐭ",
+    "name": "CANADIAN SYLLABICS ON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5166,
+    "char": "ᐮ",
+    "name": "CANADIAN SYLLABICS AN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5167,
+    "char": "ᐯ",
+    "name": "CANADIAN SYLLABICS PE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5168,
+    "char": "ᐰ",
+    "name": "CANADIAN SYLLABICS PAAI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5169,
+    "char": "ᐱ",
+    "name": "CANADIAN SYLLABICS PI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5170,
+    "char": "ᐲ",
+    "name": "CANADIAN SYLLABICS PII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5171,
+    "char": "ᐳ",
+    "name": "CANADIAN SYLLABICS PO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5172,
+    "char": "ᐴ",
+    "name": "CANADIAN SYLLABICS POO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5173,
+    "char": "ᐵ",
+    "name": "CANADIAN SYLLABICS Y-CREE POO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5174,
+    "char": "ᐶ",
+    "name": "CANADIAN SYLLABICS CARRIER HEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5175,
+    "char": "ᐷ",
+    "name": "CANADIAN SYLLABICS CARRIER HI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5176,
+    "char": "ᐸ",
+    "name": "CANADIAN SYLLABICS PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5177,
+    "char": "ᐹ",
+    "name": "CANADIAN SYLLABICS PAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5178,
+    "char": "ᐺ",
+    "name": "CANADIAN SYLLABICS PWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5179,
+    "char": "ᐻ",
+    "name": "CANADIAN SYLLABICS WEST-CREE PWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5180,
+    "char": "ᐼ",
+    "name": "CANADIAN SYLLABICS PWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5181,
+    "char": "ᐽ",
+    "name": "CANADIAN SYLLABICS WEST-CREE PWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5182,
+    "char": "ᐾ",
+    "name": "CANADIAN SYLLABICS PWII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5183,
+    "char": "ᐿ",
+    "name": "CANADIAN SYLLABICS WEST-CREE PWII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5184,
+    "char": "ᑀ",
+    "name": "CANADIAN SYLLABICS PWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5185,
+    "char": "ᑁ",
+    "name": "CANADIAN SYLLABICS WEST-CREE PWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5186,
+    "char": "ᑂ",
+    "name": "CANADIAN SYLLABICS PWOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5187,
+    "char": "ᑃ",
+    "name": "CANADIAN SYLLABICS WEST-CREE PWOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5188,
+    "char": "ᑄ",
+    "name": "CANADIAN SYLLABICS PWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5189,
+    "char": "ᑅ",
+    "name": "CANADIAN SYLLABICS WEST-CREE PWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5190,
+    "char": "ᑆ",
+    "name": "CANADIAN SYLLABICS PWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5191,
+    "char": "ᑇ",
+    "name": "CANADIAN SYLLABICS WEST-CREE PWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5192,
+    "char": "ᑈ",
+    "name": "CANADIAN SYLLABICS Y-CREE PWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5193,
+    "char": "ᑉ",
+    "name": "CANADIAN SYLLABICS P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5194,
+    "char": "ᑊ",
+    "name": "CANADIAN SYLLABICS WEST-CREE P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5195,
+    "char": "ᑋ",
+    "name": "CANADIAN SYLLABICS CARRIER H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5196,
+    "char": "ᑌ",
+    "name": "CANADIAN SYLLABICS TE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5197,
+    "char": "ᑍ",
+    "name": "CANADIAN SYLLABICS TAAI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5198,
+    "char": "ᑎ",
+    "name": "CANADIAN SYLLABICS TI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5199,
+    "char": "ᑏ",
+    "name": "CANADIAN SYLLABICS TII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5200,
+    "char": "ᑐ",
+    "name": "CANADIAN SYLLABICS TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5201,
+    "char": "ᑑ",
+    "name": "CANADIAN SYLLABICS TOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5202,
+    "char": "ᑒ",
+    "name": "CANADIAN SYLLABICS Y-CREE TOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5203,
+    "char": "ᑓ",
+    "name": "CANADIAN SYLLABICS CARRIER DEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5204,
+    "char": "ᑔ",
+    "name": "CANADIAN SYLLABICS CARRIER DI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5205,
+    "char": "ᑕ",
+    "name": "CANADIAN SYLLABICS TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5206,
+    "char": "ᑖ",
+    "name": "CANADIAN SYLLABICS TAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5207,
+    "char": "ᑗ",
+    "name": "CANADIAN SYLLABICS TWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5208,
+    "char": "ᑘ",
+    "name": "CANADIAN SYLLABICS WEST-CREE TWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5209,
+    "char": "ᑙ",
+    "name": "CANADIAN SYLLABICS TWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5210,
+    "char": "ᑚ",
+    "name": "CANADIAN SYLLABICS WEST-CREE TWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5211,
+    "char": "ᑛ",
+    "name": "CANADIAN SYLLABICS TWII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5212,
+    "char": "ᑜ",
+    "name": "CANADIAN SYLLABICS WEST-CREE TWII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5213,
+    "char": "ᑝ",
+    "name": "CANADIAN SYLLABICS TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5214,
+    "char": "ᑞ",
+    "name": "CANADIAN SYLLABICS WEST-CREE TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5215,
+    "char": "ᑟ",
+    "name": "CANADIAN SYLLABICS TWOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5216,
+    "char": "ᑠ",
+    "name": "CANADIAN SYLLABICS WEST-CREE TWOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5217,
+    "char": "ᑡ",
+    "name": "CANADIAN SYLLABICS TWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5218,
+    "char": "ᑢ",
+    "name": "CANADIAN SYLLABICS WEST-CREE TWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5219,
+    "char": "ᑣ",
+    "name": "CANADIAN SYLLABICS TWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5220,
+    "char": "ᑤ",
+    "name": "CANADIAN SYLLABICS WEST-CREE TWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5221,
+    "char": "ᑥ",
+    "name": "CANADIAN SYLLABICS NASKAPI TWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5222,
+    "char": "ᑦ",
+    "name": "CANADIAN SYLLABICS T",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5223,
+    "char": "ᑧ",
+    "name": "CANADIAN SYLLABICS TTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5224,
+    "char": "ᑨ",
+    "name": "CANADIAN SYLLABICS TTI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5225,
+    "char": "ᑩ",
+    "name": "CANADIAN SYLLABICS TTO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5226,
+    "char": "ᑪ",
+    "name": "CANADIAN SYLLABICS TTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5227,
+    "char": "ᑫ",
+    "name": "CANADIAN SYLLABICS KE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5228,
+    "char": "ᑬ",
+    "name": "CANADIAN SYLLABICS KAAI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5229,
+    "char": "ᑭ",
+    "name": "CANADIAN SYLLABICS KI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5230,
+    "char": "ᑮ",
+    "name": "CANADIAN SYLLABICS KII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5231,
+    "char": "ᑯ",
+    "name": "CANADIAN SYLLABICS KO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5232,
+    "char": "ᑰ",
+    "name": "CANADIAN SYLLABICS KOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5233,
+    "char": "ᑱ",
+    "name": "CANADIAN SYLLABICS Y-CREE KOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5234,
+    "char": "ᑲ",
+    "name": "CANADIAN SYLLABICS KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5235,
+    "char": "ᑳ",
+    "name": "CANADIAN SYLLABICS KAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5236,
+    "char": "ᑴ",
+    "name": "CANADIAN SYLLABICS KWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5237,
+    "char": "ᑵ",
+    "name": "CANADIAN SYLLABICS WEST-CREE KWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5238,
+    "char": "ᑶ",
+    "name": "CANADIAN SYLLABICS KWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5239,
+    "char": "ᑷ",
+    "name": "CANADIAN SYLLABICS WEST-CREE KWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5240,
+    "char": "ᑸ",
+    "name": "CANADIAN SYLLABICS KWII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5241,
+    "char": "ᑹ",
+    "name": "CANADIAN SYLLABICS WEST-CREE KWII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5242,
+    "char": "ᑺ",
+    "name": "CANADIAN SYLLABICS KWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5243,
+    "char": "ᑻ",
+    "name": "CANADIAN SYLLABICS WEST-CREE KWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5244,
+    "char": "ᑼ",
+    "name": "CANADIAN SYLLABICS KWOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5245,
+    "char": "ᑽ",
+    "name": "CANADIAN SYLLABICS WEST-CREE KWOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5246,
+    "char": "ᑾ",
+    "name": "CANADIAN SYLLABICS KWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5247,
+    "char": "ᑿ",
+    "name": "CANADIAN SYLLABICS WEST-CREE KWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5248,
+    "char": "ᒀ",
+    "name": "CANADIAN SYLLABICS KWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5249,
+    "char": "ᒁ",
+    "name": "CANADIAN SYLLABICS WEST-CREE KWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5250,
+    "char": "ᒂ",
+    "name": "CANADIAN SYLLABICS NASKAPI KWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5251,
+    "char": "ᒃ",
+    "name": "CANADIAN SYLLABICS K",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5252,
+    "char": "ᒄ",
+    "name": "CANADIAN SYLLABICS KW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5253,
+    "char": "ᒅ",
+    "name": "CANADIAN SYLLABICS SOUTH-SLAVEY KEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5254,
+    "char": "ᒆ",
+    "name": "CANADIAN SYLLABICS SOUTH-SLAVEY KIH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5255,
+    "char": "ᒇ",
+    "name": "CANADIAN SYLLABICS SOUTH-SLAVEY KOH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5256,
+    "char": "ᒈ",
+    "name": "CANADIAN SYLLABICS SOUTH-SLAVEY KAH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5257,
+    "char": "ᒉ",
+    "name": "CANADIAN SYLLABICS CE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5258,
+    "char": "ᒊ",
+    "name": "CANADIAN SYLLABICS CAAI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5259,
+    "char": "ᒋ",
+    "name": "CANADIAN SYLLABICS CI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5260,
+    "char": "ᒌ",
+    "name": "CANADIAN SYLLABICS CII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5261,
+    "char": "ᒍ",
+    "name": "CANADIAN SYLLABICS CO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5262,
+    "char": "ᒎ",
+    "name": "CANADIAN SYLLABICS COO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5263,
+    "char": "ᒏ",
+    "name": "CANADIAN SYLLABICS Y-CREE COO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5264,
+    "char": "ᒐ",
+    "name": "CANADIAN SYLLABICS CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5265,
+    "char": "ᒑ",
+    "name": "CANADIAN SYLLABICS CAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5266,
+    "char": "ᒒ",
+    "name": "CANADIAN SYLLABICS CWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5267,
+    "char": "ᒓ",
+    "name": "CANADIAN SYLLABICS WEST-CREE CWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5268,
+    "char": "ᒔ",
+    "name": "CANADIAN SYLLABICS CWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5269,
+    "char": "ᒕ",
+    "name": "CANADIAN SYLLABICS WEST-CREE CWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5270,
+    "char": "ᒖ",
+    "name": "CANADIAN SYLLABICS CWII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5271,
+    "char": "ᒗ",
+    "name": "CANADIAN SYLLABICS WEST-CREE CWII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5272,
+    "char": "ᒘ",
+    "name": "CANADIAN SYLLABICS CWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5273,
+    "char": "ᒙ",
+    "name": "CANADIAN SYLLABICS WEST-CREE CWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5274,
+    "char": "ᒚ",
+    "name": "CANADIAN SYLLABICS CWOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5275,
+    "char": "ᒛ",
+    "name": "CANADIAN SYLLABICS WEST-CREE CWOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5276,
+    "char": "ᒜ",
+    "name": "CANADIAN SYLLABICS CWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5277,
+    "char": "ᒝ",
+    "name": "CANADIAN SYLLABICS WEST-CREE CWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5278,
+    "char": "ᒞ",
+    "name": "CANADIAN SYLLABICS CWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5279,
+    "char": "ᒟ",
+    "name": "CANADIAN SYLLABICS WEST-CREE CWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5280,
+    "char": "ᒠ",
+    "name": "CANADIAN SYLLABICS NASKAPI CWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5281,
+    "char": "ᒡ",
+    "name": "CANADIAN SYLLABICS C",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5282,
+    "char": "ᒢ",
+    "name": "CANADIAN SYLLABICS SAYISI TH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5283,
+    "char": "ᒣ",
+    "name": "CANADIAN SYLLABICS ME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5284,
+    "char": "ᒤ",
+    "name": "CANADIAN SYLLABICS MAAI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5285,
+    "char": "ᒥ",
+    "name": "CANADIAN SYLLABICS MI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5286,
+    "char": "ᒦ",
+    "name": "CANADIAN SYLLABICS MII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5287,
+    "char": "ᒧ",
+    "name": "CANADIAN SYLLABICS MO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5288,
+    "char": "ᒨ",
+    "name": "CANADIAN SYLLABICS MOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5289,
+    "char": "ᒩ",
+    "name": "CANADIAN SYLLABICS Y-CREE MOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5290,
+    "char": "ᒪ",
+    "name": "CANADIAN SYLLABICS MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5291,
+    "char": "ᒫ",
+    "name": "CANADIAN SYLLABICS MAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5292,
+    "char": "ᒬ",
+    "name": "CANADIAN SYLLABICS MWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5293,
+    "char": "ᒭ",
+    "name": "CANADIAN SYLLABICS WEST-CREE MWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5294,
+    "char": "ᒮ",
+    "name": "CANADIAN SYLLABICS MWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5295,
+    "char": "ᒯ",
+    "name": "CANADIAN SYLLABICS WEST-CREE MWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5296,
+    "char": "ᒰ",
+    "name": "CANADIAN SYLLABICS MWII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5297,
+    "char": "ᒱ",
+    "name": "CANADIAN SYLLABICS WEST-CREE MWII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5298,
+    "char": "ᒲ",
+    "name": "CANADIAN SYLLABICS MWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5299,
+    "char": "ᒳ",
+    "name": "CANADIAN SYLLABICS WEST-CREE MWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5300,
+    "char": "ᒴ",
+    "name": "CANADIAN SYLLABICS MWOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5301,
+    "char": "ᒵ",
+    "name": "CANADIAN SYLLABICS WEST-CREE MWOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5302,
+    "char": "ᒶ",
+    "name": "CANADIAN SYLLABICS MWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5303,
+    "char": "ᒷ",
+    "name": "CANADIAN SYLLABICS WEST-CREE MWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5304,
+    "char": "ᒸ",
+    "name": "CANADIAN SYLLABICS MWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5305,
+    "char": "ᒹ",
+    "name": "CANADIAN SYLLABICS WEST-CREE MWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5306,
+    "char": "ᒺ",
+    "name": "CANADIAN SYLLABICS NASKAPI MWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5307,
+    "char": "ᒻ",
+    "name": "CANADIAN SYLLABICS M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5308,
+    "char": "ᒼ",
+    "name": "CANADIAN SYLLABICS WEST-CREE M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5309,
+    "char": "ᒽ",
+    "name": "CANADIAN SYLLABICS MH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5310,
+    "char": "ᒾ",
+    "name": "CANADIAN SYLLABICS ATHAPASCAN M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5311,
+    "char": "ᒿ",
+    "name": "CANADIAN SYLLABICS SAYISI M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5312,
+    "char": "ᓀ",
+    "name": "CANADIAN SYLLABICS NE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5313,
+    "char": "ᓁ",
+    "name": "CANADIAN SYLLABICS NAAI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5314,
+    "char": "ᓂ",
+    "name": "CANADIAN SYLLABICS NI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5315,
+    "char": "ᓃ",
+    "name": "CANADIAN SYLLABICS NII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5316,
+    "char": "ᓄ",
+    "name": "CANADIAN SYLLABICS NO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5317,
+    "char": "ᓅ",
+    "name": "CANADIAN SYLLABICS NOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5318,
+    "char": "ᓆ",
+    "name": "CANADIAN SYLLABICS Y-CREE NOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5319,
+    "char": "ᓇ",
+    "name": "CANADIAN SYLLABICS NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5320,
+    "char": "ᓈ",
+    "name": "CANADIAN SYLLABICS NAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5321,
+    "char": "ᓉ",
+    "name": "CANADIAN SYLLABICS NWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5322,
+    "char": "ᓊ",
+    "name": "CANADIAN SYLLABICS WEST-CREE NWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5323,
+    "char": "ᓋ",
+    "name": "CANADIAN SYLLABICS NWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5324,
+    "char": "ᓌ",
+    "name": "CANADIAN SYLLABICS WEST-CREE NWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5325,
+    "char": "ᓍ",
+    "name": "CANADIAN SYLLABICS NWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5326,
+    "char": "ᓎ",
+    "name": "CANADIAN SYLLABICS WEST-CREE NWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5327,
+    "char": "ᓏ",
+    "name": "CANADIAN SYLLABICS NASKAPI NWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5328,
+    "char": "ᓐ",
+    "name": "CANADIAN SYLLABICS N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5329,
+    "char": "ᓑ",
+    "name": "CANADIAN SYLLABICS CARRIER NG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5330,
+    "char": "ᓒ",
+    "name": "CANADIAN SYLLABICS NH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5331,
+    "char": "ᓓ",
+    "name": "CANADIAN SYLLABICS LE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5332,
+    "char": "ᓔ",
+    "name": "CANADIAN SYLLABICS LAAI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5333,
+    "char": "ᓕ",
+    "name": "CANADIAN SYLLABICS LI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5334,
+    "char": "ᓖ",
+    "name": "CANADIAN SYLLABICS LII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5335,
+    "char": "ᓗ",
+    "name": "CANADIAN SYLLABICS LO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5336,
+    "char": "ᓘ",
+    "name": "CANADIAN SYLLABICS LOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5337,
+    "char": "ᓙ",
+    "name": "CANADIAN SYLLABICS Y-CREE LOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5338,
+    "char": "ᓚ",
+    "name": "CANADIAN SYLLABICS LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5339,
+    "char": "ᓛ",
+    "name": "CANADIAN SYLLABICS LAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5340,
+    "char": "ᓜ",
+    "name": "CANADIAN SYLLABICS LWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5341,
+    "char": "ᓝ",
+    "name": "CANADIAN SYLLABICS WEST-CREE LWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5342,
+    "char": "ᓞ",
+    "name": "CANADIAN SYLLABICS LWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5343,
+    "char": "ᓟ",
+    "name": "CANADIAN SYLLABICS WEST-CREE LWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5344,
+    "char": "ᓠ",
+    "name": "CANADIAN SYLLABICS LWII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5345,
+    "char": "ᓡ",
+    "name": "CANADIAN SYLLABICS WEST-CREE LWII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5346,
+    "char": "ᓢ",
+    "name": "CANADIAN SYLLABICS LWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5347,
+    "char": "ᓣ",
+    "name": "CANADIAN SYLLABICS WEST-CREE LWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5348,
+    "char": "ᓤ",
+    "name": "CANADIAN SYLLABICS LWOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5349,
+    "char": "ᓥ",
+    "name": "CANADIAN SYLLABICS WEST-CREE LWOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5350,
+    "char": "ᓦ",
+    "name": "CANADIAN SYLLABICS LWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5351,
+    "char": "ᓧ",
+    "name": "CANADIAN SYLLABICS WEST-CREE LWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5352,
+    "char": "ᓨ",
+    "name": "CANADIAN SYLLABICS LWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5353,
+    "char": "ᓩ",
+    "name": "CANADIAN SYLLABICS WEST-CREE LWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5354,
+    "char": "ᓪ",
+    "name": "CANADIAN SYLLABICS L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5355,
+    "char": "ᓫ",
+    "name": "CANADIAN SYLLABICS WEST-CREE L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5356,
+    "char": "ᓬ",
+    "name": "CANADIAN SYLLABICS MEDIAL L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5357,
+    "char": "ᓭ",
+    "name": "CANADIAN SYLLABICS SE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5358,
+    "char": "ᓮ",
+    "name": "CANADIAN SYLLABICS SAAI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5359,
+    "char": "ᓯ",
+    "name": "CANADIAN SYLLABICS SI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5360,
+    "char": "ᓰ",
+    "name": "CANADIAN SYLLABICS SII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5361,
+    "char": "ᓱ",
+    "name": "CANADIAN SYLLABICS SO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5362,
+    "char": "ᓲ",
+    "name": "CANADIAN SYLLABICS SOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5363,
+    "char": "ᓳ",
+    "name": "CANADIAN SYLLABICS Y-CREE SOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5364,
+    "char": "ᓴ",
+    "name": "CANADIAN SYLLABICS SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5365,
+    "char": "ᓵ",
+    "name": "CANADIAN SYLLABICS SAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5366,
+    "char": "ᓶ",
+    "name": "CANADIAN SYLLABICS SWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5367,
+    "char": "ᓷ",
+    "name": "CANADIAN SYLLABICS WEST-CREE SWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5368,
+    "char": "ᓸ",
+    "name": "CANADIAN SYLLABICS SWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5369,
+    "char": "ᓹ",
+    "name": "CANADIAN SYLLABICS WEST-CREE SWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5370,
+    "char": "ᓺ",
+    "name": "CANADIAN SYLLABICS SWII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5371,
+    "char": "ᓻ",
+    "name": "CANADIAN SYLLABICS WEST-CREE SWII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5372,
+    "char": "ᓼ",
+    "name": "CANADIAN SYLLABICS SWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5373,
+    "char": "ᓽ",
+    "name": "CANADIAN SYLLABICS WEST-CREE SWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5374,
+    "char": "ᓾ",
+    "name": "CANADIAN SYLLABICS SWOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5375,
+    "char": "ᓿ",
+    "name": "CANADIAN SYLLABICS WEST-CREE SWOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5376,
+    "char": "ᔀ",
+    "name": "CANADIAN SYLLABICS SWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5377,
+    "char": "ᔁ",
+    "name": "CANADIAN SYLLABICS WEST-CREE SWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5378,
+    "char": "ᔂ",
+    "name": "CANADIAN SYLLABICS SWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5379,
+    "char": "ᔃ",
+    "name": "CANADIAN SYLLABICS WEST-CREE SWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5380,
+    "char": "ᔄ",
+    "name": "CANADIAN SYLLABICS NASKAPI SWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5381,
+    "char": "ᔅ",
+    "name": "CANADIAN SYLLABICS S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5382,
+    "char": "ᔆ",
+    "name": "CANADIAN SYLLABICS ATHAPASCAN S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5383,
+    "char": "ᔇ",
+    "name": "CANADIAN SYLLABICS SW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5384,
+    "char": "ᔈ",
+    "name": "CANADIAN SYLLABICS BLACKFOOT S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5385,
+    "char": "ᔉ",
+    "name": "CANADIAN SYLLABICS MOOSE-CREE SK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5386,
+    "char": "ᔊ",
+    "name": "CANADIAN SYLLABICS NASKAPI SKW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5387,
+    "char": "ᔋ",
+    "name": "CANADIAN SYLLABICS NASKAPI S-W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5388,
+    "char": "ᔌ",
+    "name": "CANADIAN SYLLABICS NASKAPI SPWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5389,
+    "char": "ᔍ",
+    "name": "CANADIAN SYLLABICS NASKAPI STWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5390,
+    "char": "ᔎ",
+    "name": "CANADIAN SYLLABICS NASKAPI SKWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5391,
+    "char": "ᔏ",
+    "name": "CANADIAN SYLLABICS NASKAPI SCWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5392,
+    "char": "ᔐ",
+    "name": "CANADIAN SYLLABICS SHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5393,
+    "char": "ᔑ",
+    "name": "CANADIAN SYLLABICS SHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5394,
+    "char": "ᔒ",
+    "name": "CANADIAN SYLLABICS SHII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5395,
+    "char": "ᔓ",
+    "name": "CANADIAN SYLLABICS SHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5396,
+    "char": "ᔔ",
+    "name": "CANADIAN SYLLABICS SHOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5397,
+    "char": "ᔕ",
+    "name": "CANADIAN SYLLABICS SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5398,
+    "char": "ᔖ",
+    "name": "CANADIAN SYLLABICS SHAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5399,
+    "char": "ᔗ",
+    "name": "CANADIAN SYLLABICS SHWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5400,
+    "char": "ᔘ",
+    "name": "CANADIAN SYLLABICS WEST-CREE SHWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5401,
+    "char": "ᔙ",
+    "name": "CANADIAN SYLLABICS SHWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5402,
+    "char": "ᔚ",
+    "name": "CANADIAN SYLLABICS WEST-CREE SHWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5403,
+    "char": "ᔛ",
+    "name": "CANADIAN SYLLABICS SHWII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5404,
+    "char": "ᔜ",
+    "name": "CANADIAN SYLLABICS WEST-CREE SHWII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5405,
+    "char": "ᔝ",
+    "name": "CANADIAN SYLLABICS SHWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5406,
+    "char": "ᔞ",
+    "name": "CANADIAN SYLLABICS WEST-CREE SHWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5407,
+    "char": "ᔟ",
+    "name": "CANADIAN SYLLABICS SHWOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5408,
+    "char": "ᔠ",
+    "name": "CANADIAN SYLLABICS WEST-CREE SHWOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5409,
+    "char": "ᔡ",
+    "name": "CANADIAN SYLLABICS SHWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5410,
+    "char": "ᔢ",
+    "name": "CANADIAN SYLLABICS WEST-CREE SHWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5411,
+    "char": "ᔣ",
+    "name": "CANADIAN SYLLABICS SHWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5412,
+    "char": "ᔤ",
+    "name": "CANADIAN SYLLABICS WEST-CREE SHWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5413,
+    "char": "ᔥ",
+    "name": "CANADIAN SYLLABICS SH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5414,
+    "char": "ᔦ",
+    "name": "CANADIAN SYLLABICS YE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5415,
+    "char": "ᔧ",
+    "name": "CANADIAN SYLLABICS YAAI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5416,
+    "char": "ᔨ",
+    "name": "CANADIAN SYLLABICS YI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5417,
+    "char": "ᔩ",
+    "name": "CANADIAN SYLLABICS YII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5418,
+    "char": "ᔪ",
+    "name": "CANADIAN SYLLABICS YO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5419,
+    "char": "ᔫ",
+    "name": "CANADIAN SYLLABICS YOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5420,
+    "char": "ᔬ",
+    "name": "CANADIAN SYLLABICS Y-CREE YOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5421,
+    "char": "ᔭ",
+    "name": "CANADIAN SYLLABICS YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5422,
+    "char": "ᔮ",
+    "name": "CANADIAN SYLLABICS YAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5423,
+    "char": "ᔯ",
+    "name": "CANADIAN SYLLABICS YWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5424,
+    "char": "ᔰ",
+    "name": "CANADIAN SYLLABICS WEST-CREE YWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5425,
+    "char": "ᔱ",
+    "name": "CANADIAN SYLLABICS YWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5426,
+    "char": "ᔲ",
+    "name": "CANADIAN SYLLABICS WEST-CREE YWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5427,
+    "char": "ᔳ",
+    "name": "CANADIAN SYLLABICS YWII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5428,
+    "char": "ᔴ",
+    "name": "CANADIAN SYLLABICS WEST-CREE YWII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5429,
+    "char": "ᔵ",
+    "name": "CANADIAN SYLLABICS YWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5430,
+    "char": "ᔶ",
+    "name": "CANADIAN SYLLABICS WEST-CREE YWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5431,
+    "char": "ᔷ",
+    "name": "CANADIAN SYLLABICS YWOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5432,
+    "char": "ᔸ",
+    "name": "CANADIAN SYLLABICS WEST-CREE YWOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5433,
+    "char": "ᔹ",
+    "name": "CANADIAN SYLLABICS YWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5434,
+    "char": "ᔺ",
+    "name": "CANADIAN SYLLABICS WEST-CREE YWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5435,
+    "char": "ᔻ",
+    "name": "CANADIAN SYLLABICS YWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5436,
+    "char": "ᔼ",
+    "name": "CANADIAN SYLLABICS WEST-CREE YWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5437,
+    "char": "ᔽ",
+    "name": "CANADIAN SYLLABICS NASKAPI YWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5438,
+    "char": "ᔾ",
+    "name": "CANADIAN SYLLABICS Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5439,
+    "char": "ᔿ",
+    "name": "CANADIAN SYLLABICS BIBLE-CREE Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5440,
+    "char": "ᕀ",
+    "name": "CANADIAN SYLLABICS WEST-CREE Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5441,
+    "char": "ᕁ",
+    "name": "CANADIAN SYLLABICS SAYISI YI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5442,
+    "char": "ᕂ",
+    "name": "CANADIAN SYLLABICS RE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5443,
+    "char": "ᕃ",
+    "name": "CANADIAN SYLLABICS R-CREE RE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5444,
+    "char": "ᕄ",
+    "name": "CANADIAN SYLLABICS WEST-CREE LE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5445,
+    "char": "ᕅ",
+    "name": "CANADIAN SYLLABICS RAAI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5446,
+    "char": "ᕆ",
+    "name": "CANADIAN SYLLABICS RI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5447,
+    "char": "ᕇ",
+    "name": "CANADIAN SYLLABICS RII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5448,
+    "char": "ᕈ",
+    "name": "CANADIAN SYLLABICS RO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5449,
+    "char": "ᕉ",
+    "name": "CANADIAN SYLLABICS ROO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5450,
+    "char": "ᕊ",
+    "name": "CANADIAN SYLLABICS WEST-CREE LO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5451,
+    "char": "ᕋ",
+    "name": "CANADIAN SYLLABICS RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5452,
+    "char": "ᕌ",
+    "name": "CANADIAN SYLLABICS RAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5453,
+    "char": "ᕍ",
+    "name": "CANADIAN SYLLABICS WEST-CREE LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5454,
+    "char": "ᕎ",
+    "name": "CANADIAN SYLLABICS RWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5455,
+    "char": "ᕏ",
+    "name": "CANADIAN SYLLABICS WEST-CREE RWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5456,
+    "char": "ᕐ",
+    "name": "CANADIAN SYLLABICS R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5457,
+    "char": "ᕑ",
+    "name": "CANADIAN SYLLABICS WEST-CREE R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5458,
+    "char": "ᕒ",
+    "name": "CANADIAN SYLLABICS MEDIAL R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5459,
+    "char": "ᕓ",
+    "name": "CANADIAN SYLLABICS FE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5460,
+    "char": "ᕔ",
+    "name": "CANADIAN SYLLABICS FAAI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5461,
+    "char": "ᕕ",
+    "name": "CANADIAN SYLLABICS FI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5462,
+    "char": "ᕖ",
+    "name": "CANADIAN SYLLABICS FII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5463,
+    "char": "ᕗ",
+    "name": "CANADIAN SYLLABICS FO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5464,
+    "char": "ᕘ",
+    "name": "CANADIAN SYLLABICS FOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5465,
+    "char": "ᕙ",
+    "name": "CANADIAN SYLLABICS FA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5466,
+    "char": "ᕚ",
+    "name": "CANADIAN SYLLABICS FAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5467,
+    "char": "ᕛ",
+    "name": "CANADIAN SYLLABICS FWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5468,
+    "char": "ᕜ",
+    "name": "CANADIAN SYLLABICS WEST-CREE FWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5469,
+    "char": "ᕝ",
+    "name": "CANADIAN SYLLABICS F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5470,
+    "char": "ᕞ",
+    "name": "CANADIAN SYLLABICS THE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5471,
+    "char": "ᕟ",
+    "name": "CANADIAN SYLLABICS N-CREE THE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5472,
+    "char": "ᕠ",
+    "name": "CANADIAN SYLLABICS THI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5473,
+    "char": "ᕡ",
+    "name": "CANADIAN SYLLABICS N-CREE THI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5474,
+    "char": "ᕢ",
+    "name": "CANADIAN SYLLABICS THII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5475,
+    "char": "ᕣ",
+    "name": "CANADIAN SYLLABICS N-CREE THII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5476,
+    "char": "ᕤ",
+    "name": "CANADIAN SYLLABICS THO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5477,
+    "char": "ᕥ",
+    "name": "CANADIAN SYLLABICS THOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5478,
+    "char": "ᕦ",
+    "name": "CANADIAN SYLLABICS THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5479,
+    "char": "ᕧ",
+    "name": "CANADIAN SYLLABICS THAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5480,
+    "char": "ᕨ",
+    "name": "CANADIAN SYLLABICS THWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5481,
+    "char": "ᕩ",
+    "name": "CANADIAN SYLLABICS WEST-CREE THWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5482,
+    "char": "ᕪ",
+    "name": "CANADIAN SYLLABICS TH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5483,
+    "char": "ᕫ",
+    "name": "CANADIAN SYLLABICS TTHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5484,
+    "char": "ᕬ",
+    "name": "CANADIAN SYLLABICS TTHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5485,
+    "char": "ᕭ",
+    "name": "CANADIAN SYLLABICS TTHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5486,
+    "char": "ᕮ",
+    "name": "CANADIAN SYLLABICS TTHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5487,
+    "char": "ᕯ",
+    "name": "CANADIAN SYLLABICS TTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5488,
+    "char": "ᕰ",
+    "name": "CANADIAN SYLLABICS TYE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5489,
+    "char": "ᕱ",
+    "name": "CANADIAN SYLLABICS TYI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5490,
+    "char": "ᕲ",
+    "name": "CANADIAN SYLLABICS TYO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5491,
+    "char": "ᕳ",
+    "name": "CANADIAN SYLLABICS TYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5492,
+    "char": "ᕴ",
+    "name": "CANADIAN SYLLABICS NUNAVIK HE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5493,
+    "char": "ᕵ",
+    "name": "CANADIAN SYLLABICS NUNAVIK HI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5494,
+    "char": "ᕶ",
+    "name": "CANADIAN SYLLABICS NUNAVIK HII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5495,
+    "char": "ᕷ",
+    "name": "CANADIAN SYLLABICS NUNAVIK HO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5496,
+    "char": "ᕸ",
+    "name": "CANADIAN SYLLABICS NUNAVIK HOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5497,
+    "char": "ᕹ",
+    "name": "CANADIAN SYLLABICS NUNAVIK HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5498,
+    "char": "ᕺ",
+    "name": "CANADIAN SYLLABICS NUNAVIK HAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5499,
+    "char": "ᕻ",
+    "name": "CANADIAN SYLLABICS NUNAVIK H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5500,
+    "char": "ᕼ",
+    "name": "CANADIAN SYLLABICS NUNAVUT H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5501,
+    "char": "ᕽ",
+    "name": "CANADIAN SYLLABICS HK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5502,
+    "char": "ᕾ",
+    "name": "CANADIAN SYLLABICS QAAI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5503,
+    "char": "ᕿ",
+    "name": "CANADIAN SYLLABICS QI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5504,
+    "char": "ᖀ",
+    "name": "CANADIAN SYLLABICS QII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5505,
+    "char": "ᖁ",
+    "name": "CANADIAN SYLLABICS QO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5506,
+    "char": "ᖂ",
+    "name": "CANADIAN SYLLABICS QOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5507,
+    "char": "ᖃ",
+    "name": "CANADIAN SYLLABICS QA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5508,
+    "char": "ᖄ",
+    "name": "CANADIAN SYLLABICS QAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5509,
+    "char": "ᖅ",
+    "name": "CANADIAN SYLLABICS Q",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5510,
+    "char": "ᖆ",
+    "name": "CANADIAN SYLLABICS TLHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5511,
+    "char": "ᖇ",
+    "name": "CANADIAN SYLLABICS TLHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5512,
+    "char": "ᖈ",
+    "name": "CANADIAN SYLLABICS TLHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5513,
+    "char": "ᖉ",
+    "name": "CANADIAN SYLLABICS TLHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5514,
+    "char": "ᖊ",
+    "name": "CANADIAN SYLLABICS WEST-CREE RE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5515,
+    "char": "ᖋ",
+    "name": "CANADIAN SYLLABICS WEST-CREE RI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5516,
+    "char": "ᖌ",
+    "name": "CANADIAN SYLLABICS WEST-CREE RO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5517,
+    "char": "ᖍ",
+    "name": "CANADIAN SYLLABICS WEST-CREE RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5518,
+    "char": "ᖎ",
+    "name": "CANADIAN SYLLABICS NGAAI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5519,
+    "char": "ᖏ",
+    "name": "CANADIAN SYLLABICS NGI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5520,
+    "char": "ᖐ",
+    "name": "CANADIAN SYLLABICS NGII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5521,
+    "char": "ᖑ",
+    "name": "CANADIAN SYLLABICS NGO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5522,
+    "char": "ᖒ",
+    "name": "CANADIAN SYLLABICS NGOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5523,
+    "char": "ᖓ",
+    "name": "CANADIAN SYLLABICS NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5524,
+    "char": "ᖔ",
+    "name": "CANADIAN SYLLABICS NGAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5525,
+    "char": "ᖕ",
+    "name": "CANADIAN SYLLABICS NG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5526,
+    "char": "ᖖ",
+    "name": "CANADIAN SYLLABICS NNG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5527,
+    "char": "ᖗ",
+    "name": "CANADIAN SYLLABICS SAYISI SHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5528,
+    "char": "ᖘ",
+    "name": "CANADIAN SYLLABICS SAYISI SHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5529,
+    "char": "ᖙ",
+    "name": "CANADIAN SYLLABICS SAYISI SHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5530,
+    "char": "ᖚ",
+    "name": "CANADIAN SYLLABICS SAYISI SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5531,
+    "char": "ᖛ",
+    "name": "CANADIAN SYLLABICS WOODS-CREE THE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5532,
+    "char": "ᖜ",
+    "name": "CANADIAN SYLLABICS WOODS-CREE THI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5533,
+    "char": "ᖝ",
+    "name": "CANADIAN SYLLABICS WOODS-CREE THO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5534,
+    "char": "ᖞ",
+    "name": "CANADIAN SYLLABICS WOODS-CREE THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5535,
+    "char": "ᖟ",
+    "name": "CANADIAN SYLLABICS WOODS-CREE TH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5536,
+    "char": "ᖠ",
+    "name": "CANADIAN SYLLABICS LHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5537,
+    "char": "ᖡ",
+    "name": "CANADIAN SYLLABICS LHII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5538,
+    "char": "ᖢ",
+    "name": "CANADIAN SYLLABICS LHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5539,
+    "char": "ᖣ",
+    "name": "CANADIAN SYLLABICS LHOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5540,
+    "char": "ᖤ",
+    "name": "CANADIAN SYLLABICS LHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5541,
+    "char": "ᖥ",
+    "name": "CANADIAN SYLLABICS LHAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5542,
+    "char": "ᖦ",
+    "name": "CANADIAN SYLLABICS LH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5543,
+    "char": "ᖧ",
+    "name": "CANADIAN SYLLABICS TH-CREE THE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5544,
+    "char": "ᖨ",
+    "name": "CANADIAN SYLLABICS TH-CREE THI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5545,
+    "char": "ᖩ",
+    "name": "CANADIAN SYLLABICS TH-CREE THII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5546,
+    "char": "ᖪ",
+    "name": "CANADIAN SYLLABICS TH-CREE THO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5547,
+    "char": "ᖫ",
+    "name": "CANADIAN SYLLABICS TH-CREE THOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5548,
+    "char": "ᖬ",
+    "name": "CANADIAN SYLLABICS TH-CREE THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5549,
+    "char": "ᖭ",
+    "name": "CANADIAN SYLLABICS TH-CREE THAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5550,
+    "char": "ᖮ",
+    "name": "CANADIAN SYLLABICS TH-CREE TH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5551,
+    "char": "ᖯ",
+    "name": "CANADIAN SYLLABICS AIVILIK B",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5552,
+    "char": "ᖰ",
+    "name": "CANADIAN SYLLABICS BLACKFOOT E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5553,
+    "char": "ᖱ",
+    "name": "CANADIAN SYLLABICS BLACKFOOT I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5554,
+    "char": "ᖲ",
+    "name": "CANADIAN SYLLABICS BLACKFOOT O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5555,
+    "char": "ᖳ",
+    "name": "CANADIAN SYLLABICS BLACKFOOT A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5556,
+    "char": "ᖴ",
+    "name": "CANADIAN SYLLABICS BLACKFOOT WE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5557,
+    "char": "ᖵ",
+    "name": "CANADIAN SYLLABICS BLACKFOOT WI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5558,
+    "char": "ᖶ",
+    "name": "CANADIAN SYLLABICS BLACKFOOT WO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5559,
+    "char": "ᖷ",
+    "name": "CANADIAN SYLLABICS BLACKFOOT WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5560,
+    "char": "ᖸ",
+    "name": "CANADIAN SYLLABICS BLACKFOOT NE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5561,
+    "char": "ᖹ",
+    "name": "CANADIAN SYLLABICS BLACKFOOT NI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5562,
+    "char": "ᖺ",
+    "name": "CANADIAN SYLLABICS BLACKFOOT NO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5563,
+    "char": "ᖻ",
+    "name": "CANADIAN SYLLABICS BLACKFOOT NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5564,
+    "char": "ᖼ",
+    "name": "CANADIAN SYLLABICS BLACKFOOT KE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5565,
+    "char": "ᖽ",
+    "name": "CANADIAN SYLLABICS BLACKFOOT KI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5566,
+    "char": "ᖾ",
+    "name": "CANADIAN SYLLABICS BLACKFOOT KO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5567,
+    "char": "ᖿ",
+    "name": "CANADIAN SYLLABICS BLACKFOOT KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5568,
+    "char": "ᗀ",
+    "name": "CANADIAN SYLLABICS SAYISI HE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5569,
+    "char": "ᗁ",
+    "name": "CANADIAN SYLLABICS SAYISI HI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5570,
+    "char": "ᗂ",
+    "name": "CANADIAN SYLLABICS SAYISI HO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5571,
+    "char": "ᗃ",
+    "name": "CANADIAN SYLLABICS SAYISI HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5572,
+    "char": "ᗄ",
+    "name": "CANADIAN SYLLABICS CARRIER GHU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5573,
+    "char": "ᗅ",
+    "name": "CANADIAN SYLLABICS CARRIER GHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5574,
+    "char": "ᗆ",
+    "name": "CANADIAN SYLLABICS CARRIER GHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5575,
+    "char": "ᗇ",
+    "name": "CANADIAN SYLLABICS CARRIER GHEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5576,
+    "char": "ᗈ",
+    "name": "CANADIAN SYLLABICS CARRIER GHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5577,
+    "char": "ᗉ",
+    "name": "CANADIAN SYLLABICS CARRIER GHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5578,
+    "char": "ᗊ",
+    "name": "CANADIAN SYLLABICS CARRIER RU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5579,
+    "char": "ᗋ",
+    "name": "CANADIAN SYLLABICS CARRIER RO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5580,
+    "char": "ᗌ",
+    "name": "CANADIAN SYLLABICS CARRIER RE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5581,
+    "char": "ᗍ",
+    "name": "CANADIAN SYLLABICS CARRIER REE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5582,
+    "char": "ᗎ",
+    "name": "CANADIAN SYLLABICS CARRIER RI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5583,
+    "char": "ᗏ",
+    "name": "CANADIAN SYLLABICS CARRIER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5584,
+    "char": "ᗐ",
+    "name": "CANADIAN SYLLABICS CARRIER WU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5585,
+    "char": "ᗑ",
+    "name": "CANADIAN SYLLABICS CARRIER WO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5586,
+    "char": "ᗒ",
+    "name": "CANADIAN SYLLABICS CARRIER WE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5587,
+    "char": "ᗓ",
+    "name": "CANADIAN SYLLABICS CARRIER WEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5588,
+    "char": "ᗔ",
+    "name": "CANADIAN SYLLABICS CARRIER WI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5589,
+    "char": "ᗕ",
+    "name": "CANADIAN SYLLABICS CARRIER WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5590,
+    "char": "ᗖ",
+    "name": "CANADIAN SYLLABICS CARRIER HWU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5591,
+    "char": "ᗗ",
+    "name": "CANADIAN SYLLABICS CARRIER HWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5592,
+    "char": "ᗘ",
+    "name": "CANADIAN SYLLABICS CARRIER HWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5593,
+    "char": "ᗙ",
+    "name": "CANADIAN SYLLABICS CARRIER HWEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5594,
+    "char": "ᗚ",
+    "name": "CANADIAN SYLLABICS CARRIER HWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5595,
+    "char": "ᗛ",
+    "name": "CANADIAN SYLLABICS CARRIER HWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5596,
+    "char": "ᗜ",
+    "name": "CANADIAN SYLLABICS CARRIER THU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5597,
+    "char": "ᗝ",
+    "name": "CANADIAN SYLLABICS CARRIER THO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5598,
+    "char": "ᗞ",
+    "name": "CANADIAN SYLLABICS CARRIER THE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5599,
+    "char": "ᗟ",
+    "name": "CANADIAN SYLLABICS CARRIER THEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5600,
+    "char": "ᗠ",
+    "name": "CANADIAN SYLLABICS CARRIER THI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5601,
+    "char": "ᗡ",
+    "name": "CANADIAN SYLLABICS CARRIER THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5602,
+    "char": "ᗢ",
+    "name": "CANADIAN SYLLABICS CARRIER TTU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5603,
+    "char": "ᗣ",
+    "name": "CANADIAN SYLLABICS CARRIER TTO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5604,
+    "char": "ᗤ",
+    "name": "CANADIAN SYLLABICS CARRIER TTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5605,
+    "char": "ᗥ",
+    "name": "CANADIAN SYLLABICS CARRIER TTEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5606,
+    "char": "ᗦ",
+    "name": "CANADIAN SYLLABICS CARRIER TTI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5607,
+    "char": "ᗧ",
+    "name": "CANADIAN SYLLABICS CARRIER TTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5608,
+    "char": "ᗨ",
+    "name": "CANADIAN SYLLABICS CARRIER PU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5609,
+    "char": "ᗩ",
+    "name": "CANADIAN SYLLABICS CARRIER PO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5610,
+    "char": "ᗪ",
+    "name": "CANADIAN SYLLABICS CARRIER PE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5611,
+    "char": "ᗫ",
+    "name": "CANADIAN SYLLABICS CARRIER PEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5612,
+    "char": "ᗬ",
+    "name": "CANADIAN SYLLABICS CARRIER PI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5613,
+    "char": "ᗭ",
+    "name": "CANADIAN SYLLABICS CARRIER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5614,
+    "char": "ᗮ",
+    "name": "CANADIAN SYLLABICS CARRIER P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5615,
+    "char": "ᗯ",
+    "name": "CANADIAN SYLLABICS CARRIER GU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5616,
+    "char": "ᗰ",
+    "name": "CANADIAN SYLLABICS CARRIER GO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5617,
+    "char": "ᗱ",
+    "name": "CANADIAN SYLLABICS CARRIER GE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5618,
+    "char": "ᗲ",
+    "name": "CANADIAN SYLLABICS CARRIER GEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5619,
+    "char": "ᗳ",
+    "name": "CANADIAN SYLLABICS CARRIER GI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5620,
+    "char": "ᗴ",
+    "name": "CANADIAN SYLLABICS CARRIER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5621,
+    "char": "ᗵ",
+    "name": "CANADIAN SYLLABICS CARRIER KHU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5622,
+    "char": "ᗶ",
+    "name": "CANADIAN SYLLABICS CARRIER KHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5623,
+    "char": "ᗷ",
+    "name": "CANADIAN SYLLABICS CARRIER KHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5624,
+    "char": "ᗸ",
+    "name": "CANADIAN SYLLABICS CARRIER KHEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5625,
+    "char": "ᗹ",
+    "name": "CANADIAN SYLLABICS CARRIER KHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5626,
+    "char": "ᗺ",
+    "name": "CANADIAN SYLLABICS CARRIER KHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5627,
+    "char": "ᗻ",
+    "name": "CANADIAN SYLLABICS CARRIER KKU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5628,
+    "char": "ᗼ",
+    "name": "CANADIAN SYLLABICS CARRIER KKO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5629,
+    "char": "ᗽ",
+    "name": "CANADIAN SYLLABICS CARRIER KKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5630,
+    "char": "ᗾ",
+    "name": "CANADIAN SYLLABICS CARRIER KKEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5631,
+    "char": "ᗿ",
+    "name": "CANADIAN SYLLABICS CARRIER KKI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5632,
+    "char": "ᘀ",
+    "name": "CANADIAN SYLLABICS CARRIER KKA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5633,
+    "char": "ᘁ",
+    "name": "CANADIAN SYLLABICS CARRIER KK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5634,
+    "char": "ᘂ",
+    "name": "CANADIAN SYLLABICS CARRIER NU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5635,
+    "char": "ᘃ",
+    "name": "CANADIAN SYLLABICS CARRIER NO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5636,
+    "char": "ᘄ",
+    "name": "CANADIAN SYLLABICS CARRIER NE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5637,
+    "char": "ᘅ",
+    "name": "CANADIAN SYLLABICS CARRIER NEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5638,
+    "char": "ᘆ",
+    "name": "CANADIAN SYLLABICS CARRIER NI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5639,
+    "char": "ᘇ",
+    "name": "CANADIAN SYLLABICS CARRIER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5640,
+    "char": "ᘈ",
+    "name": "CANADIAN SYLLABICS CARRIER MU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5641,
+    "char": "ᘉ",
+    "name": "CANADIAN SYLLABICS CARRIER MO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5642,
+    "char": "ᘊ",
+    "name": "CANADIAN SYLLABICS CARRIER ME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5643,
+    "char": "ᘋ",
+    "name": "CANADIAN SYLLABICS CARRIER MEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5644,
+    "char": "ᘌ",
+    "name": "CANADIAN SYLLABICS CARRIER MI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5645,
+    "char": "ᘍ",
+    "name": "CANADIAN SYLLABICS CARRIER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5646,
+    "char": "ᘎ",
+    "name": "CANADIAN SYLLABICS CARRIER YU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5647,
+    "char": "ᘏ",
+    "name": "CANADIAN SYLLABICS CARRIER YO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5648,
+    "char": "ᘐ",
+    "name": "CANADIAN SYLLABICS CARRIER YE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5649,
+    "char": "ᘑ",
+    "name": "CANADIAN SYLLABICS CARRIER YEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5650,
+    "char": "ᘒ",
+    "name": "CANADIAN SYLLABICS CARRIER YI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5651,
+    "char": "ᘓ",
+    "name": "CANADIAN SYLLABICS CARRIER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5652,
+    "char": "ᘔ",
+    "name": "CANADIAN SYLLABICS CARRIER JU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5653,
+    "char": "ᘕ",
+    "name": "CANADIAN SYLLABICS SAYISI JU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5654,
+    "char": "ᘖ",
+    "name": "CANADIAN SYLLABICS CARRIER JO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5655,
+    "char": "ᘗ",
+    "name": "CANADIAN SYLLABICS CARRIER JE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5656,
+    "char": "ᘘ",
+    "name": "CANADIAN SYLLABICS CARRIER JEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5657,
+    "char": "ᘙ",
+    "name": "CANADIAN SYLLABICS CARRIER JI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5658,
+    "char": "ᘚ",
+    "name": "CANADIAN SYLLABICS SAYISI JI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5659,
+    "char": "ᘛ",
+    "name": "CANADIAN SYLLABICS CARRIER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5660,
+    "char": "ᘜ",
+    "name": "CANADIAN SYLLABICS CARRIER JJU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5661,
+    "char": "ᘝ",
+    "name": "CANADIAN SYLLABICS CARRIER JJO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5662,
+    "char": "ᘞ",
+    "name": "CANADIAN SYLLABICS CARRIER JJE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5663,
+    "char": "ᘟ",
+    "name": "CANADIAN SYLLABICS CARRIER JJEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5664,
+    "char": "ᘠ",
+    "name": "CANADIAN SYLLABICS CARRIER JJI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5665,
+    "char": "ᘡ",
+    "name": "CANADIAN SYLLABICS CARRIER JJA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5666,
+    "char": "ᘢ",
+    "name": "CANADIAN SYLLABICS CARRIER LU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5667,
+    "char": "ᘣ",
+    "name": "CANADIAN SYLLABICS CARRIER LO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5668,
+    "char": "ᘤ",
+    "name": "CANADIAN SYLLABICS CARRIER LE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5669,
+    "char": "ᘥ",
+    "name": "CANADIAN SYLLABICS CARRIER LEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5670,
+    "char": "ᘦ",
+    "name": "CANADIAN SYLLABICS CARRIER LI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5671,
+    "char": "ᘧ",
+    "name": "CANADIAN SYLLABICS CARRIER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5672,
+    "char": "ᘨ",
+    "name": "CANADIAN SYLLABICS CARRIER DLU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5673,
+    "char": "ᘩ",
+    "name": "CANADIAN SYLLABICS CARRIER DLO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5674,
+    "char": "ᘪ",
+    "name": "CANADIAN SYLLABICS CARRIER DLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5675,
+    "char": "ᘫ",
+    "name": "CANADIAN SYLLABICS CARRIER DLEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5676,
+    "char": "ᘬ",
+    "name": "CANADIAN SYLLABICS CARRIER DLI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5677,
+    "char": "ᘭ",
+    "name": "CANADIAN SYLLABICS CARRIER DLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5678,
+    "char": "ᘮ",
+    "name": "CANADIAN SYLLABICS CARRIER LHU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5679,
+    "char": "ᘯ",
+    "name": "CANADIAN SYLLABICS CARRIER LHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5680,
+    "char": "ᘰ",
+    "name": "CANADIAN SYLLABICS CARRIER LHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5681,
+    "char": "ᘱ",
+    "name": "CANADIAN SYLLABICS CARRIER LHEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5682,
+    "char": "ᘲ",
+    "name": "CANADIAN SYLLABICS CARRIER LHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5683,
+    "char": "ᘳ",
+    "name": "CANADIAN SYLLABICS CARRIER LHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5684,
+    "char": "ᘴ",
+    "name": "CANADIAN SYLLABICS CARRIER TLHU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5685,
+    "char": "ᘵ",
+    "name": "CANADIAN SYLLABICS CARRIER TLHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5686,
+    "char": "ᘶ",
+    "name": "CANADIAN SYLLABICS CARRIER TLHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5687,
+    "char": "ᘷ",
+    "name": "CANADIAN SYLLABICS CARRIER TLHEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5688,
+    "char": "ᘸ",
+    "name": "CANADIAN SYLLABICS CARRIER TLHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5689,
+    "char": "ᘹ",
+    "name": "CANADIAN SYLLABICS CARRIER TLHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5690,
+    "char": "ᘺ",
+    "name": "CANADIAN SYLLABICS CARRIER TLU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5691,
+    "char": "ᘻ",
+    "name": "CANADIAN SYLLABICS CARRIER TLO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5692,
+    "char": "ᘼ",
+    "name": "CANADIAN SYLLABICS CARRIER TLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5693,
+    "char": "ᘽ",
+    "name": "CANADIAN SYLLABICS CARRIER TLEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5694,
+    "char": "ᘾ",
+    "name": "CANADIAN SYLLABICS CARRIER TLI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5695,
+    "char": "ᘿ",
+    "name": "CANADIAN SYLLABICS CARRIER TLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5696,
+    "char": "ᙀ",
+    "name": "CANADIAN SYLLABICS CARRIER ZU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5697,
+    "char": "ᙁ",
+    "name": "CANADIAN SYLLABICS CARRIER ZO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5698,
+    "char": "ᙂ",
+    "name": "CANADIAN SYLLABICS CARRIER ZE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5699,
+    "char": "ᙃ",
+    "name": "CANADIAN SYLLABICS CARRIER ZEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5700,
+    "char": "ᙄ",
+    "name": "CANADIAN SYLLABICS CARRIER ZI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5701,
+    "char": "ᙅ",
+    "name": "CANADIAN SYLLABICS CARRIER ZA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5702,
+    "char": "ᙆ",
+    "name": "CANADIAN SYLLABICS CARRIER Z",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5703,
+    "char": "ᙇ",
+    "name": "CANADIAN SYLLABICS CARRIER INITIAL Z",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5704,
+    "char": "ᙈ",
+    "name": "CANADIAN SYLLABICS CARRIER DZU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5705,
+    "char": "ᙉ",
+    "name": "CANADIAN SYLLABICS CARRIER DZO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5706,
+    "char": "ᙊ",
+    "name": "CANADIAN SYLLABICS CARRIER DZE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5707,
+    "char": "ᙋ",
+    "name": "CANADIAN SYLLABICS CARRIER DZEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5708,
+    "char": "ᙌ",
+    "name": "CANADIAN SYLLABICS CARRIER DZI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5709,
+    "char": "ᙍ",
+    "name": "CANADIAN SYLLABICS CARRIER DZA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5710,
+    "char": "ᙎ",
+    "name": "CANADIAN SYLLABICS CARRIER SU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5711,
+    "char": "ᙏ",
+    "name": "CANADIAN SYLLABICS CARRIER SO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5712,
+    "char": "ᙐ",
+    "name": "CANADIAN SYLLABICS CARRIER SE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5713,
+    "char": "ᙑ",
+    "name": "CANADIAN SYLLABICS CARRIER SEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5714,
+    "char": "ᙒ",
+    "name": "CANADIAN SYLLABICS CARRIER SI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5715,
+    "char": "ᙓ",
+    "name": "CANADIAN SYLLABICS CARRIER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5716,
+    "char": "ᙔ",
+    "name": "CANADIAN SYLLABICS CARRIER SHU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5717,
+    "char": "ᙕ",
+    "name": "CANADIAN SYLLABICS CARRIER SHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5718,
+    "char": "ᙖ",
+    "name": "CANADIAN SYLLABICS CARRIER SHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5719,
+    "char": "ᙗ",
+    "name": "CANADIAN SYLLABICS CARRIER SHEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5720,
+    "char": "ᙘ",
+    "name": "CANADIAN SYLLABICS CARRIER SHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5721,
+    "char": "ᙙ",
+    "name": "CANADIAN SYLLABICS CARRIER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5722,
+    "char": "ᙚ",
+    "name": "CANADIAN SYLLABICS CARRIER SH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5723,
+    "char": "ᙛ",
+    "name": "CANADIAN SYLLABICS CARRIER TSU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5724,
+    "char": "ᙜ",
+    "name": "CANADIAN SYLLABICS CARRIER TSO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5725,
+    "char": "ᙝ",
+    "name": "CANADIAN SYLLABICS CARRIER TSE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5726,
+    "char": "ᙞ",
+    "name": "CANADIAN SYLLABICS CARRIER TSEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5727,
+    "char": "ᙟ",
+    "name": "CANADIAN SYLLABICS CARRIER TSI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5728,
+    "char": "ᙠ",
+    "name": "CANADIAN SYLLABICS CARRIER TSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5729,
+    "char": "ᙡ",
+    "name": "CANADIAN SYLLABICS CARRIER CHU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5730,
+    "char": "ᙢ",
+    "name": "CANADIAN SYLLABICS CARRIER CHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5731,
+    "char": "ᙣ",
+    "name": "CANADIAN SYLLABICS CARRIER CHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5732,
+    "char": "ᙤ",
+    "name": "CANADIAN SYLLABICS CARRIER CHEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5733,
+    "char": "ᙥ",
+    "name": "CANADIAN SYLLABICS CARRIER CHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5734,
+    "char": "ᙦ",
+    "name": "CANADIAN SYLLABICS CARRIER CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5735,
+    "char": "ᙧ",
+    "name": "CANADIAN SYLLABICS CARRIER TTSU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5736,
+    "char": "ᙨ",
+    "name": "CANADIAN SYLLABICS CARRIER TTSO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5737,
+    "char": "ᙩ",
+    "name": "CANADIAN SYLLABICS CARRIER TTSE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5738,
+    "char": "ᙪ",
+    "name": "CANADIAN SYLLABICS CARRIER TTSEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5739,
+    "char": "ᙫ",
+    "name": "CANADIAN SYLLABICS CARRIER TTSI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5740,
+    "char": "ᙬ",
+    "name": "CANADIAN SYLLABICS CARRIER TTSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5741,
+    "char": "᙭",
+    "name": "CANADIAN SYLLABICS CHI SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5742,
+    "char": "᙮",
+    "name": "CANADIAN SYLLABICS FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5743,
+    "char": "ᙯ",
+    "name": "CANADIAN SYLLABICS QAI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5744,
+    "char": "ᙰ",
+    "name": "CANADIAN SYLLABICS NGAI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5745,
+    "char": "ᙱ",
+    "name": "CANADIAN SYLLABICS NNGI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5746,
+    "char": "ᙲ",
+    "name": "CANADIAN SYLLABICS NNGII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5747,
+    "char": "ᙳ",
+    "name": "CANADIAN SYLLABICS NNGO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5748,
+    "char": "ᙴ",
+    "name": "CANADIAN SYLLABICS NNGOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5749,
+    "char": "ᙵ",
+    "name": "CANADIAN SYLLABICS NNGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5750,
+    "char": "ᙶ",
+    "name": "CANADIAN SYLLABICS NNGAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5751,
+    "char": "ᙷ",
+    "name": "CANADIAN SYLLABICS WOODS-CREE THWEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5752,
+    "char": "ᙸ",
+    "name": "CANADIAN SYLLABICS WOODS-CREE THWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5753,
+    "char": "ᙹ",
+    "name": "CANADIAN SYLLABICS WOODS-CREE THWII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5754,
+    "char": "ᙺ",
+    "name": "CANADIAN SYLLABICS WOODS-CREE THWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5755,
+    "char": "ᙻ",
+    "name": "CANADIAN SYLLABICS WOODS-CREE THWOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5756,
+    "char": "ᙼ",
+    "name": "CANADIAN SYLLABICS WOODS-CREE THWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5757,
+    "char": "ᙽ",
+    "name": "CANADIAN SYLLABICS WOODS-CREE THWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5758,
+    "char": "ᙾ",
+    "name": "CANADIAN SYLLABICS WOODS-CREE FINAL TH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 5759,
+    "char": "ᙿ",
+    "name": "CANADIAN SYLLABICS BLACKFOOT W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

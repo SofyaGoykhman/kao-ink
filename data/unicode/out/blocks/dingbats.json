@@ -1,0 +1,1671 @@
+[
+  {
+    "cp": 9984,
+    "char": "✀",
+    "name": "BLACK SAFETY SCISSORS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9985,
+    "char": "✁",
+    "name": "UPPER BLADE SCISSORS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9986,
+    "char": "✂",
+    "name": "BLACK SCISSORS",
+    "ru": "ножницы",
+    "en": "scissors",
+    "keywords": {
+      "ru": ["инструмент", "ножницы", "резать"],
+      "en": ["cut", "cutting", "paper", "scissors", "tool"]
+    }
+  },
+  {
+    "cp": 9987,
+    "char": "✃",
+    "name": "LOWER BLADE SCISSORS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9988,
+    "char": "✄",
+    "name": "WHITE SCISSORS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9989,
+    "char": "✅",
+    "name": "WHITE HEAVY CHECK MARK",
+    "ru": "белая галочка",
+    "en": "check mark button",
+    "keywords": {
+      "ru": ["белая", "галочка", "готово", "знак", "проверено", "проверка", "сделано"],
+      "en": [
+        "✓",
+        "button",
+        "check",
+        "checked",
+        "checkmark",
+        "complete",
+        "completed",
+        "done",
+        "fixed",
+        "mark",
+        "tick"
+      ]
+    }
+  },
+  {
+    "cp": 9990,
+    "char": "✆",
+    "name": "TELEPHONE LOCATION SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9991,
+    "char": "✇",
+    "name": "TAPE DRIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9992,
+    "char": "✈",
+    "name": "AIRPLANE",
+    "ru": "самолет",
+    "en": "airplane",
+    "keywords": {
+      "ru": ["воздух", "крылья", "перевозки", "самолет"],
+      "en": ["aeroplane", "airplane", "fly", "flying", "jet", "plane", "travel"]
+    }
+  },
+  {
+    "cp": 9993,
+    "char": "✉",
+    "name": "ENVELOPE",
+    "ru": "конверт",
+    "en": "envelope",
+    "keywords": {
+      "ru": ["конверт", "письмо", "почта", "сообщение", "электронное"],
+      "en": ["e-mail", "email", "envelope", "letter"]
+    }
+  },
+  {
+    "cp": 9994,
+    "char": "✊",
+    "name": "RAISED FIST",
+    "ru": "поднятый кулак",
+    "en": "raised fist",
+    "keywords": {
+      "ru": ["кулак", "пальцы", "поднятый кулак", "рука", "удар"],
+      "en": ["clenched", "fist", "hand", "punch", "raised", "solidarity"]
+    }
+  },
+  {
+    "cp": 9995,
+    "char": "✋",
+    "name": "RAISED HAND",
+    "ru": "поднятая ладонь",
+    "en": "raised hand",
+    "keywords": {
+      "ru": ["вверх", "ладонь", "пальцы", "поднятая", "пять", "рука", "стоп"],
+      "en": ["5", "five", "hand", "high", "raised", "stop"]
+    }
+  },
+  {
+    "cp": 9996,
+    "char": "✌",
+    "name": "VICTORY HAND",
+    "ru": "жест V",
+    "en": "victory hand",
+    "keywords": {
+      "ru": ["виктория", "жест", "мир", "пальцы", "победа", "рука"],
+      "en": ["hand", "peace", "v", "victory"]
+    }
+  },
+  {
+    "cp": 9997,
+    "char": "✍",
+    "name": "WRITING HAND",
+    "ru": "пишущая рука",
+    "en": "writing hand",
+    "keywords": {
+      "ru": ["бумага", "написать", "писать", "письмо", "пишет", "пишу", "пишущая", "рука", "ручка"],
+      "en": ["hand", "write", "writing"]
+    }
+  },
+  {
+    "cp": 9998,
+    "char": "✎",
+    "name": "LOWER RIGHT PENCIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9999,
+    "char": "✏",
+    "name": "PENCIL",
+    "ru": "карандаш",
+    "en": "pencil",
+    "keywords": { "ru": ["грифель", "карандаш", "простой", "рисовать"], "en": ["pencil"] }
+  },
+  {
+    "cp": 10000,
+    "char": "✐",
+    "name": "UPPER RIGHT PENCIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10001,
+    "char": "✑",
+    "name": "WHITE NIB",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10002,
+    "char": "✒",
+    "name": "BLACK NIB",
+    "ru": "перьевой наконечник",
+    "en": "black nib",
+    "keywords": {
+      "ru": ["кончик пера", "перо", "перьевая ручка", "перьевой наконечник", "письмо", "ручка"],
+      "en": ["black", "nib", "pen"]
+    }
+  },
+  {
+    "cp": 10003,
+    "char": "✓",
+    "name": "CHECK MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10004,
+    "char": "✔",
+    "name": "HEAVY CHECK MARK",
+    "ru": "галочка",
+    "en": "check mark",
+    "keywords": {
+      "ru": [
+        "галка",
+        "галочка",
+        "готово",
+        "знак",
+        "значок",
+        "отметка",
+        "отмечено",
+        "помечено",
+        "черная галочка",
+        "черный"
+      ],
+      "en": ["✓", "check", "checked", "checkmark", "done", "heavy", "mark", "tick"]
+    }
+  },
+  {
+    "cp": 10005,
+    "char": "✕",
+    "name": "MULTIPLICATION X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10006,
+    "char": "✖",
+    "name": "HEAVY MULTIPLICATION X",
+    "ru": "знак умножения",
+    "en": "multiply",
+    "keywords": {
+      "ru": ["знак", "отмена", "отмены", "умножение", "умножения", "х"],
+      "en": ["×", "cancel", "multiplication", "multiply", "sign", "x"]
+    }
+  },
+  {
+    "cp": 10007,
+    "char": "✗",
+    "name": "BALLOT X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10008,
+    "char": "✘",
+    "name": "HEAVY BALLOT X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10009,
+    "char": "✙",
+    "name": "OUTLINED GREEK CROSS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10010,
+    "char": "✚",
+    "name": "HEAVY GREEK CROSS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10011,
+    "char": "✛",
+    "name": "OPEN CENTRE CROSS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10012,
+    "char": "✜",
+    "name": "HEAVY OPEN CENTRE CROSS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10013,
+    "char": "✝",
+    "name": "LATIN CROSS",
+    "ru": "латинский крест",
+    "en": "latin cross",
+    "keywords": {
+      "ru": ["крест", "латинский", "религия", "христианский", "христианство"],
+      "en": ["christ", "Christian", "cross", "latin", "religion"]
+    }
+  },
+  {
+    "cp": 10014,
+    "char": "✞",
+    "name": "SHADOWED WHITE LATIN CROSS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10015,
+    "char": "✟",
+    "name": "OUTLINED LATIN CROSS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10016,
+    "char": "✠",
+    "name": "MALTESE CROSS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10017,
+    "char": "✡",
+    "name": "STAR OF DAVID",
+    "ru": "звезда Давида",
+    "en": "star of David",
+    "keywords": {
+      "ru": ["вера", "давид", "еврей", "звезда", "иудаизм", "религия", "шестиконечная"],
+      "en": ["David", "Jew", "Jewish", "judaism", "religion", "star"]
+    }
+  },
+  {
+    "cp": 10018,
+    "char": "✢",
+    "name": "FOUR TEARDROP-SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10019,
+    "char": "✣",
+    "name": "FOUR BALLOON-SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10020,
+    "char": "✤",
+    "name": "HEAVY FOUR BALLOON-SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10021,
+    "char": "✥",
+    "name": "FOUR CLUB-SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10022,
+    "char": "✦",
+    "name": "BLACK FOUR POINTED STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10023,
+    "char": "✧",
+    "name": "WHITE FOUR POINTED STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10024,
+    "char": "✨",
+    "name": "SPARKLES",
+    "ru": "блестки",
+    "en": "sparkles",
+    "keywords": {
+      "ru": ["блестка", "блестки", "звезда", "звезды", "искры", "мерцание", "свет"],
+      "en": ["*", "magic", "sparkle", "sparkles", "star"]
+    }
+  },
+  {
+    "cp": 10025,
+    "char": "✩",
+    "name": "STRESS OUTLINED WHITE STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10026,
+    "char": "✪",
+    "name": "CIRCLED WHITE STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10027,
+    "char": "✫",
+    "name": "OPEN CENTRE BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10028,
+    "char": "✬",
+    "name": "BLACK CENTRE WHITE STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10029,
+    "char": "✭",
+    "name": "OUTLINED BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10030,
+    "char": "✮",
+    "name": "HEAVY OUTLINED BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10031,
+    "char": "✯",
+    "name": "PINWHEEL STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10032,
+    "char": "✰",
+    "name": "SHADOWED WHITE STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10033,
+    "char": "✱",
+    "name": "HEAVY ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10034,
+    "char": "✲",
+    "name": "OPEN CENTRE ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10035,
+    "char": "✳",
+    "name": "EIGHT SPOKED ASTERISK",
+    "ru": "восьмиконечная звездочка",
+    "en": "eight-spoked asterisk",
+    "keywords": {
+      "ru": ["восьмиконечная", "звезда", "звездочка"],
+      "en": ["*", "asterisk", "eight-spoked"]
+    }
+  },
+  {
+    "cp": 10036,
+    "char": "✴",
+    "name": "EIGHT POINTED BLACK STAR",
+    "ru": "восьмиконечная звезда",
+    "en": "eight-pointed star",
+    "keywords": { "ru": ["восьмиконечная", "звезда"], "en": ["*", "eight-pointed", "star"] }
+  },
+  {
+    "cp": 10037,
+    "char": "✵",
+    "name": "EIGHT POINTED PINWHEEL STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10038,
+    "char": "✶",
+    "name": "SIX POINTED BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10039,
+    "char": "✷",
+    "name": "EIGHT POINTED RECTILINEAR BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10040,
+    "char": "✸",
+    "name": "HEAVY EIGHT POINTED RECTILINEAR BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10041,
+    "char": "✹",
+    "name": "TWELVE POINTED BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10042,
+    "char": "✺",
+    "name": "SIXTEEN POINTED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10043,
+    "char": "✻",
+    "name": "TEARDROP-SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10044,
+    "char": "✼",
+    "name": "OPEN CENTRE TEARDROP-SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10045,
+    "char": "✽",
+    "name": "HEAVY TEARDROP-SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10046,
+    "char": "✾",
+    "name": "SIX PETALLED BLACK AND WHITE FLORETTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10047,
+    "char": "✿",
+    "name": "BLACK FLORETTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10048,
+    "char": "❀",
+    "name": "WHITE FLORETTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10049,
+    "char": "❁",
+    "name": "EIGHT PETALLED OUTLINED BLACK FLORETTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10050,
+    "char": "❂",
+    "name": "CIRCLED OPEN CENTRE EIGHT POINTED STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10051,
+    "char": "❃",
+    "name": "HEAVY TEARDROP-SPOKED PINWHEEL ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10052,
+    "char": "❄",
+    "name": "SNOWFLAKE",
+    "ru": "снежинка",
+    "en": "snowflake",
+    "keywords": {
+      "ru": ["зима", "небо", "рисунок", "снег", "снежинка", "снежок", "холод", "холодно"],
+      "en": ["cold", "snow", "snowflake", "weather"]
+    }
+  },
+  {
+    "cp": 10053,
+    "char": "❅",
+    "name": "TIGHT TRIFOLIATE SNOWFLAKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10054,
+    "char": "❆",
+    "name": "HEAVY CHEVRON SNOWFLAKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10055,
+    "char": "❇",
+    "name": "SPARKLE",
+    "ru": "искра",
+    "en": "sparkle",
+    "keywords": { "ru": ["искра", "мерцание"], "en": ["*", "sparkle"] }
+  },
+  {
+    "cp": 10056,
+    "char": "❈",
+    "name": "HEAVY SPARKLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10057,
+    "char": "❉",
+    "name": "BALLOON-SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10058,
+    "char": "❊",
+    "name": "EIGHT TEARDROP-SPOKED PROPELLER ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10059,
+    "char": "❋",
+    "name": "HEAVY EIGHT TEARDROP-SPOKED PROPELLER ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10060,
+    "char": "❌",
+    "name": "CROSS MARK",
+    "ru": "крестик",
+    "en": "cross mark",
+    "keywords": {
+      "ru": ["закрытие", "значок", "крестик", "отмена", "умножение"],
+      "en": ["×", "cancel", "cross", "mark", "multiplication", "multiply", "x"]
+    }
+  },
+  {
+    "cp": 10061,
+    "char": "❍",
+    "name": "SHADOWED WHITE CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10062,
+    "char": "❎",
+    "name": "NEGATIVE SQUARED CROSS MARK",
+    "ru": "кнопка «крестик»",
+    "en": "cross mark button",
+    "keywords": {
+      "ru": [
+        "закрытие",
+        "квадрат",
+        "кнопка",
+        "кнопка \"крестик\"",
+        "кнопка «крестик»",
+        "крестик",
+        "умножение"
+      ],
+      "en": ["×", "button", "cross", "mark", "multiplication", "multiply", "square", "x"]
+    }
+  },
+  {
+    "cp": 10063,
+    "char": "❏",
+    "name": "LOWER RIGHT DROP-SHADOWED WHITE SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10064,
+    "char": "❐",
+    "name": "UPPER RIGHT DROP-SHADOWED WHITE SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10065,
+    "char": "❑",
+    "name": "LOWER RIGHT SHADOWED WHITE SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10066,
+    "char": "❒",
+    "name": "UPPER RIGHT SHADOWED WHITE SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10067,
+    "char": "❓",
+    "name": "BLACK QUESTION MARK ORNAMENT",
+    "ru": "красный вопросительный знак",
+    "en": "red question mark",
+    "keywords": {
+      "ru": ["вопрос", "вопроса", "вопросительный", "знак", "красный", "пунктуация"],
+      "en": ["?", "mark", "punctuation", "question", "red"]
+    }
+  },
+  {
+    "cp": 10068,
+    "char": "❔",
+    "name": "WHITE QUESTION MARK ORNAMENT",
+    "ru": "белый вопросительный знак",
+    "en": "white question mark",
+    "keywords": {
+      "ru": ["?", "белый", "вопрос", "вопросительный", "знак", "пунктуация"],
+      "en": ["?", "mark", "outlined", "punctuation", "question", "white"]
+    }
+  },
+  {
+    "cp": 10069,
+    "char": "❕",
+    "name": "WHITE EXCLAMATION MARK ORNAMENT",
+    "ru": "белый восклицательный знак",
+    "en": "white exclamation mark",
+    "keywords": {
+      "ru": [
+        "белый",
+        "белый восклицательный знак",
+        "восклицание",
+        "восклицательный знак",
+        "восклицать",
+        "знак",
+        "пунктуация"
+      ],
+      "en": ["!", "exclamation", "mark", "outlined", "punctuation", "white"]
+    }
+  },
+  {
+    "cp": 10070,
+    "char": "❖",
+    "name": "BLACK DIAMOND MINUS WHITE X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10071,
+    "char": "❗",
+    "name": "HEAVY EXCLAMATION MARK SYMBOL",
+    "ru": "красный восклицательный знак",
+    "en": "red exclamation mark",
+    "keywords": {
+      "ru": ["восклицание", "восклицательный знак", "знак", "красный", "пунктуация"],
+      "en": ["!", "exclamation", "mark", "punctuation", "red"]
+    }
+  },
+  {
+    "cp": 10072,
+    "char": "❘",
+    "name": "LIGHT VERTICAL BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10073,
+    "char": "❙",
+    "name": "MEDIUM VERTICAL BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10074,
+    "char": "❚",
+    "name": "HEAVY VERTICAL BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10075,
+    "char": "❛",
+    "name": "HEAVY SINGLE TURNED COMMA QUOTATION MARK ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10076,
+    "char": "❜",
+    "name": "HEAVY SINGLE COMMA QUOTATION MARK ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10077,
+    "char": "❝",
+    "name": "HEAVY DOUBLE TURNED COMMA QUOTATION MARK ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10078,
+    "char": "❞",
+    "name": "HEAVY DOUBLE COMMA QUOTATION MARK ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10079,
+    "char": "❟",
+    "name": "HEAVY LOW SINGLE COMMA QUOTATION MARK ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10080,
+    "char": "❠",
+    "name": "HEAVY LOW DOUBLE COMMA QUOTATION MARK ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10081,
+    "char": "❡",
+    "name": "CURVED STEM PARAGRAPH SIGN ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10082,
+    "char": "❢",
+    "name": "HEAVY EXCLAMATION MARK ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10083,
+    "char": "❣",
+    "name": "HEAVY HEART EXCLAMATION MARK ORNAMENT",
+    "ru": "восклицательный знак в виде сердца",
+    "en": "heart exclamation",
+    "keywords": {
+      "ru": [
+        "восклицание",
+        "восклицательный знак в виде сердца",
+        "знак",
+        "препинания",
+        "сердце",
+        "сердце в виде восклицательного знака"
+      ],
+      "en": ["exclamation", "heart", "heavy", "mark", "punctuation"]
+    }
+  },
+  {
+    "cp": 10084,
+    "char": "❤",
+    "name": "HEAVY BLACK HEART",
+    "ru": "алое сердце",
+    "en": "red heart",
+    "keywords": {
+      "ru": ["красное", "любовь", "свидание", "сердце", "чувства", "эмоции"],
+      "en": ["emotion", "heart", "love", "red"]
+    }
+  },
+  {
+    "cp": 10085,
+    "char": "❥",
+    "name": "ROTATED HEAVY BLACK HEART BULLET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10086,
+    "char": "❦",
+    "name": "FLORAL HEART",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10087,
+    "char": "❧",
+    "name": "ROTATED FLORAL HEART BULLET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10088,
+    "char": "❨",
+    "name": "MEDIUM LEFT PARENTHESIS ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10089,
+    "char": "❩",
+    "name": "MEDIUM RIGHT PARENTHESIS ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10090,
+    "char": "❪",
+    "name": "MEDIUM FLATTENED LEFT PARENTHESIS ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10091,
+    "char": "❫",
+    "name": "MEDIUM FLATTENED RIGHT PARENTHESIS ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10092,
+    "char": "❬",
+    "name": "MEDIUM LEFT-POINTING ANGLE BRACKET ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10093,
+    "char": "❭",
+    "name": "MEDIUM RIGHT-POINTING ANGLE BRACKET ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10094,
+    "char": "❮",
+    "name": "HEAVY LEFT-POINTING ANGLE QUOTATION MARK ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10095,
+    "char": "❯",
+    "name": "HEAVY RIGHT-POINTING ANGLE QUOTATION MARK ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10096,
+    "char": "❰",
+    "name": "HEAVY LEFT-POINTING ANGLE BRACKET ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10097,
+    "char": "❱",
+    "name": "HEAVY RIGHT-POINTING ANGLE BRACKET ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10098,
+    "char": "❲",
+    "name": "LIGHT LEFT TORTOISE SHELL BRACKET ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10099,
+    "char": "❳",
+    "name": "LIGHT RIGHT TORTOISE SHELL BRACKET ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10100,
+    "char": "❴",
+    "name": "MEDIUM LEFT CURLY BRACKET ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10101,
+    "char": "❵",
+    "name": "MEDIUM RIGHT CURLY BRACKET ORNAMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10102,
+    "char": "❶",
+    "name": "DINGBAT NEGATIVE CIRCLED DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10103,
+    "char": "❷",
+    "name": "DINGBAT NEGATIVE CIRCLED DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10104,
+    "char": "❸",
+    "name": "DINGBAT NEGATIVE CIRCLED DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10105,
+    "char": "❹",
+    "name": "DINGBAT NEGATIVE CIRCLED DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10106,
+    "char": "❺",
+    "name": "DINGBAT NEGATIVE CIRCLED DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10107,
+    "char": "❻",
+    "name": "DINGBAT NEGATIVE CIRCLED DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10108,
+    "char": "❼",
+    "name": "DINGBAT NEGATIVE CIRCLED DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10109,
+    "char": "❽",
+    "name": "DINGBAT NEGATIVE CIRCLED DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10110,
+    "char": "❾",
+    "name": "DINGBAT NEGATIVE CIRCLED DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10111,
+    "char": "❿",
+    "name": "DINGBAT NEGATIVE CIRCLED NUMBER TEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10112,
+    "char": "➀",
+    "name": "DINGBAT CIRCLED SANS-SERIF DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10113,
+    "char": "➁",
+    "name": "DINGBAT CIRCLED SANS-SERIF DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10114,
+    "char": "➂",
+    "name": "DINGBAT CIRCLED SANS-SERIF DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10115,
+    "char": "➃",
+    "name": "DINGBAT CIRCLED SANS-SERIF DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10116,
+    "char": "➄",
+    "name": "DINGBAT CIRCLED SANS-SERIF DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10117,
+    "char": "➅",
+    "name": "DINGBAT CIRCLED SANS-SERIF DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10118,
+    "char": "➆",
+    "name": "DINGBAT CIRCLED SANS-SERIF DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10119,
+    "char": "➇",
+    "name": "DINGBAT CIRCLED SANS-SERIF DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10120,
+    "char": "➈",
+    "name": "DINGBAT CIRCLED SANS-SERIF DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10121,
+    "char": "➉",
+    "name": "DINGBAT CIRCLED SANS-SERIF NUMBER TEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10122,
+    "char": "➊",
+    "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10123,
+    "char": "➋",
+    "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10124,
+    "char": "➌",
+    "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10125,
+    "char": "➍",
+    "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10126,
+    "char": "➎",
+    "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10127,
+    "char": "➏",
+    "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10128,
+    "char": "➐",
+    "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10129,
+    "char": "➑",
+    "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10130,
+    "char": "➒",
+    "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10131,
+    "char": "➓",
+    "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF NUMBER TEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10132,
+    "char": "➔",
+    "name": "HEAVY WIDE-HEADED RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10133,
+    "char": "➕",
+    "name": "HEAVY PLUS SIGN",
+    "ru": "знак сложения",
+    "en": "plus",
+    "keywords": {
+      "ru": ["добавить", "знак", "плюс", "прибавить", "сложение", "сложения"],
+      "en": ["+", "plus"]
+    }
+  },
+  {
+    "cp": 10134,
+    "char": "➖",
+    "name": "HEAVY MINUS SIGN",
+    "ru": "знак вычитания",
+    "en": "minus",
+    "keywords": {
+      "ru": ["вычесть", "вычитание", "вычитания", "знак", "минус", "отнять"],
+      "en": ["-", "−", "heavy", "math", "minus", "sign"]
+    }
+  },
+  {
+    "cp": 10135,
+    "char": "➗",
+    "name": "HEAVY DIVISION SIGN",
+    "ru": "знак деления",
+    "en": "divide",
+    "keywords": {
+      "ru": ["деление", "деления", "делить", "знак", "разделить"],
+      "en": ["÷", "divide", "division", "heavy", "math", "sign"]
+    }
+  },
+  {
+    "cp": 10136,
+    "char": "➘",
+    "name": "HEAVY SOUTH EAST ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10137,
+    "char": "➙",
+    "name": "HEAVY RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10138,
+    "char": "➚",
+    "name": "HEAVY NORTH EAST ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10139,
+    "char": "➛",
+    "name": "DRAFTING POINT RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10140,
+    "char": "➜",
+    "name": "HEAVY ROUND-TIPPED RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10141,
+    "char": "➝",
+    "name": "TRIANGLE-HEADED RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10142,
+    "char": "➞",
+    "name": "HEAVY TRIANGLE-HEADED RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10143,
+    "char": "➟",
+    "name": "DASHED TRIANGLE-HEADED RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10144,
+    "char": "➠",
+    "name": "HEAVY DASHED TRIANGLE-HEADED RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10145,
+    "char": "➡",
+    "name": "BLACK RIGHTWARDS ARROW",
+    "ru": "стрелка вправо",
+    "en": "right arrow",
+    "keywords": {
+      "ru": ["восток", "вправо", "направление", "стрелка"],
+      "en": ["arrow", "cardinal", "direction", "east", "right"]
+    }
+  },
+  {
+    "cp": 10146,
+    "char": "➢",
+    "name": "THREE-D TOP-LIGHTED RIGHTWARDS ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10147,
+    "char": "➣",
+    "name": "THREE-D BOTTOM-LIGHTED RIGHTWARDS ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10148,
+    "char": "➤",
+    "name": "BLACK RIGHTWARDS ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10149,
+    "char": "➥",
+    "name": "HEAVY BLACK CURVED DOWNWARDS AND RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10150,
+    "char": "➦",
+    "name": "HEAVY BLACK CURVED UPWARDS AND RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10151,
+    "char": "➧",
+    "name": "SQUAT BLACK RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10152,
+    "char": "➨",
+    "name": "HEAVY CONCAVE-POINTED BLACK RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10153,
+    "char": "➩",
+    "name": "RIGHT-SHADED WHITE RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10154,
+    "char": "➪",
+    "name": "LEFT-SHADED WHITE RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10155,
+    "char": "➫",
+    "name": "BACK-TILTED SHADOWED WHITE RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10156,
+    "char": "➬",
+    "name": "FRONT-TILTED SHADOWED WHITE RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10157,
+    "char": "➭",
+    "name": "HEAVY LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10158,
+    "char": "➮",
+    "name": "HEAVY UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10159,
+    "char": "➯",
+    "name": "NOTCHED LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10160,
+    "char": "➰",
+    "name": "CURLY LOOP",
+    "ru": "петля",
+    "en": "curly loop",
+    "keywords": { "ru": ["значок", "петелька", "петля"], "en": ["curl", "curly", "loop"] }
+  },
+  {
+    "cp": 10161,
+    "char": "➱",
+    "name": "NOTCHED UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10162,
+    "char": "➲",
+    "name": "CIRCLED HEAVY WHITE RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10163,
+    "char": "➳",
+    "name": "WHITE-FEATHERED RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10164,
+    "char": "➴",
+    "name": "BLACK-FEATHERED SOUTH EAST ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10165,
+    "char": "➵",
+    "name": "BLACK-FEATHERED RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10166,
+    "char": "➶",
+    "name": "BLACK-FEATHERED NORTH EAST ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10167,
+    "char": "➷",
+    "name": "HEAVY BLACK-FEATHERED SOUTH EAST ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10168,
+    "char": "➸",
+    "name": "HEAVY BLACK-FEATHERED RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10169,
+    "char": "➹",
+    "name": "HEAVY BLACK-FEATHERED NORTH EAST ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10170,
+    "char": "➺",
+    "name": "TEARDROP-BARBED RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10171,
+    "char": "➻",
+    "name": "HEAVY TEARDROP-SHANKED RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10172,
+    "char": "➼",
+    "name": "WEDGE-TAILED RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10173,
+    "char": "➽",
+    "name": "HEAVY WEDGE-TAILED RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10174,
+    "char": "➾",
+    "name": "OPEN-OUTLINED RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10175,
+    "char": "➿",
+    "name": "DOUBLE CURLY LOOP",
+    "ru": "двойная петля",
+    "en": "double curly loop",
+    "keywords": {
+      "ru": ["две", "двойная", "петелька", "петельки", "петли", "петля"],
+      "en": ["curl", "curly", "double", "loop"]
+    }
+  }
+]

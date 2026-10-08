@@ -1,0 +1,24 @@
+{
+  "unicodeVersion": "18.0.0",
+  "cldrVersion": "48.2.3",
+  "blockCount": 347,
+  "lazyBlockCount": 21,
+  "charCount": 172808,
+  "lazyCharCount": 137457,
+  "groups": [
+    "arrows",
+    "box-drawing",
+    "cjk",
+    "emoji",
+    "games",
+    "math",
+    "other",
+    "punctuation",
+    "scripts",
+    "shapes",
+    "symbols",
+    "technical"
+  ],
+  "totalBytes": 6083457,
+  "largestFile": { "file": "blocks/miscellaneous-symbols-and-pictographs.json", "bytes": 267428 }
+}

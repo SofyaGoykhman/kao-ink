@@ -1,0 +1,667 @@
+[
+  {
+    "cp": 8448,
+    "char": "℀",
+    "name": "ACCOUNT OF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8449,
+    "char": "℁",
+    "name": "ADDRESSED TO THE SUBJECT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8450,
+    "char": "ℂ",
+    "name": "DOUBLE-STRUCK CAPITAL C",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8451,
+    "char": "℃",
+    "name": "DEGREE CELSIUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8452,
+    "char": "℄",
+    "name": "CENTRE LINE SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8453,
+    "char": "℅",
+    "name": "CARE OF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8454,
+    "char": "℆",
+    "name": "CADA UNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8455,
+    "char": "ℇ",
+    "name": "EULER CONSTANT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8456,
+    "char": "℈",
+    "name": "SCRUPLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8457,
+    "char": "℉",
+    "name": "DEGREE FAHRENHEIT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8458,
+    "char": "ℊ",
+    "name": "SCRIPT SMALL G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8459,
+    "char": "ℋ",
+    "name": "SCRIPT CAPITAL H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8460,
+    "char": "ℌ",
+    "name": "BLACK-LETTER CAPITAL H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8461,
+    "char": "ℍ",
+    "name": "DOUBLE-STRUCK CAPITAL H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8462,
+    "char": "ℎ",
+    "name": "PLANCK CONSTANT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8463,
+    "char": "ℏ",
+    "name": "PLANCK CONSTANT OVER TWO PI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8464,
+    "char": "ℐ",
+    "name": "SCRIPT CAPITAL I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8465,
+    "char": "ℑ",
+    "name": "BLACK-LETTER CAPITAL I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8466,
+    "char": "ℒ",
+    "name": "SCRIPT CAPITAL L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8467,
+    "char": "ℓ",
+    "name": "SCRIPT SMALL L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8468,
+    "char": "℔",
+    "name": "L B BAR SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8469,
+    "char": "ℕ",
+    "name": "DOUBLE-STRUCK CAPITAL N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8470,
+    "char": "№",
+    "name": "NUMERO SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8471,
+    "char": "℗",
+    "name": "SOUND RECORDING COPYRIGHT",
+    "ru": "авторское право на музыку",
+    "en": "sound recording copyright",
+    "keywords": {
+      "ru": [
+        "авторские права",
+        "авторское право",
+        "авторское право на музыку",
+        "запись",
+        "копирайт",
+        "музыка"
+      ],
+      "en": ["copyright", "recording", "sound"]
+    }
+  },
+  {
+    "cp": 8472,
+    "char": "℘",
+    "name": "SCRIPT CAPITAL P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8473,
+    "char": "ℙ",
+    "name": "DOUBLE-STRUCK CAPITAL P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8474,
+    "char": "ℚ",
+    "name": "DOUBLE-STRUCK CAPITAL Q",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8475,
+    "char": "ℛ",
+    "name": "SCRIPT CAPITAL R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8476,
+    "char": "ℜ",
+    "name": "BLACK-LETTER CAPITAL R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8477,
+    "char": "ℝ",
+    "name": "DOUBLE-STRUCK CAPITAL R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8478,
+    "char": "℞",
+    "name": "PRESCRIPTION TAKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8479,
+    "char": "℟",
+    "name": "RESPONSE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8480,
+    "char": "℠",
+    "name": "SERVICE MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8481,
+    "char": "℡",
+    "name": "TELEPHONE SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8482,
+    "char": "™",
+    "name": "TRADE MARK SIGN",
+    "ru": "товарный знак",
+    "en": "trade mark",
+    "keywords": {
+      "ru": ["ТМ", "товарная марка", "товарный знак", "торговая марка", "торговый знак"],
+      "en": ["mark", "TM", "trade", "trademark"]
+    }
+  },
+  {
+    "cp": 8483,
+    "char": "℣",
+    "name": "VERSICLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8484,
+    "char": "ℤ",
+    "name": "DOUBLE-STRUCK CAPITAL Z",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8485,
+    "char": "℥",
+    "name": "OUNCE SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8486,
+    "char": "Ω",
+    "name": "OHM SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8487,
+    "char": "℧",
+    "name": "INVERTED OHM SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8488,
+    "char": "ℨ",
+    "name": "BLACK-LETTER CAPITAL Z",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8489,
+    "char": "℩",
+    "name": "TURNED GREEK SMALL LETTER IOTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8490,
+    "char": "K",
+    "name": "KELVIN SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8491,
+    "char": "Å",
+    "name": "ANGSTROM SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8492,
+    "char": "ℬ",
+    "name": "SCRIPT CAPITAL B",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8493,
+    "char": "ℭ",
+    "name": "BLACK-LETTER CAPITAL C",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8494,
+    "char": "℮",
+    "name": "ESTIMATED SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8495,
+    "char": "ℯ",
+    "name": "SCRIPT SMALL E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8496,
+    "char": "ℰ",
+    "name": "SCRIPT CAPITAL E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8497,
+    "char": "ℱ",
+    "name": "SCRIPT CAPITAL F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8498,
+    "char": "Ⅎ",
+    "name": "TURNED CAPITAL F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8499,
+    "char": "ℳ",
+    "name": "SCRIPT CAPITAL M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8500,
+    "char": "ℴ",
+    "name": "SCRIPT SMALL O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8501,
+    "char": "ℵ",
+    "name": "ALEF SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8502,
+    "char": "ℶ",
+    "name": "BET SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8503,
+    "char": "ℷ",
+    "name": "GIMEL SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8504,
+    "char": "ℸ",
+    "name": "DALET SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8505,
+    "char": "ℹ",
+    "name": "INFORMATION SOURCE",
+    "ru": "значок информации",
+    "en": "information",
+    "keywords": {
+      "ru": [
+        "значок",
+        "инфо",
+        "информации",
+        "информация",
+        "подробнее",
+        "сведения",
+        "справка",
+        "справки"
+      ],
+      "en": ["I", "information"]
+    }
+  },
+  {
+    "cp": 8506,
+    "char": "℺",
+    "name": "ROTATED CAPITAL Q",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8507,
+    "char": "℻",
+    "name": "FACSIMILE SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8508,
+    "char": "ℼ",
+    "name": "DOUBLE-STRUCK SMALL PI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8509,
+    "char": "ℽ",
+    "name": "DOUBLE-STRUCK SMALL GAMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8510,
+    "char": "ℾ",
+    "name": "DOUBLE-STRUCK CAPITAL GAMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8511,
+    "char": "ℿ",
+    "name": "DOUBLE-STRUCK CAPITAL PI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8512,
+    "char": "⅀",
+    "name": "DOUBLE-STRUCK N-ARY SUMMATION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8513,
+    "char": "⅁",
+    "name": "TURNED SANS-SERIF CAPITAL G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8514,
+    "char": "⅂",
+    "name": "TURNED SANS-SERIF CAPITAL L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8515,
+    "char": "⅃",
+    "name": "REVERSED SANS-SERIF CAPITAL L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8516,
+    "char": "⅄",
+    "name": "TURNED SANS-SERIF CAPITAL Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8517,
+    "char": "ⅅ",
+    "name": "DOUBLE-STRUCK ITALIC CAPITAL D",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8518,
+    "char": "ⅆ",
+    "name": "DOUBLE-STRUCK ITALIC SMALL D",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8519,
+    "char": "ⅇ",
+    "name": "DOUBLE-STRUCK ITALIC SMALL E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8520,
+    "char": "ⅈ",
+    "name": "DOUBLE-STRUCK ITALIC SMALL I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8521,
+    "char": "ⅉ",
+    "name": "DOUBLE-STRUCK ITALIC SMALL J",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8522,
+    "char": "⅊",
+    "name": "PROPERTY LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8523,
+    "char": "⅋",
+    "name": "TURNED AMPERSAND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8524,
+    "char": "⅌",
+    "name": "PER SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8525,
+    "char": "⅍",
+    "name": "AKTIESELSKAB",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8526,
+    "char": "ⅎ",
+    "name": "TURNED SMALL F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8527,
+    "char": "⅏",
+    "name": "SYMBOL FOR SAMARITAN SOURCE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

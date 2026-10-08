@@ -1,0 +1,658 @@
+[
+  {
+    "cp": 70784,
+    "char": "𑒀",
+    "name": "TIRHUTA ANJI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70785,
+    "char": "𑒁",
+    "name": "TIRHUTA LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70786,
+    "char": "𑒂",
+    "name": "TIRHUTA LETTER AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70787,
+    "char": "𑒃",
+    "name": "TIRHUTA LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70788,
+    "char": "𑒄",
+    "name": "TIRHUTA LETTER II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70789,
+    "char": "𑒅",
+    "name": "TIRHUTA LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70790,
+    "char": "𑒆",
+    "name": "TIRHUTA LETTER UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70791,
+    "char": "𑒇",
+    "name": "TIRHUTA LETTER VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70792,
+    "char": "𑒈",
+    "name": "TIRHUTA LETTER VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70793,
+    "char": "𑒉",
+    "name": "TIRHUTA LETTER VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70794,
+    "char": "𑒊",
+    "name": "TIRHUTA LETTER VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70795,
+    "char": "𑒋",
+    "name": "TIRHUTA LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70796,
+    "char": "𑒌",
+    "name": "TIRHUTA LETTER AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70797,
+    "char": "𑒍",
+    "name": "TIRHUTA LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70798,
+    "char": "𑒎",
+    "name": "TIRHUTA LETTER AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70799,
+    "char": "𑒏",
+    "name": "TIRHUTA LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70800,
+    "char": "𑒐",
+    "name": "TIRHUTA LETTER KHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70801,
+    "char": "𑒑",
+    "name": "TIRHUTA LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70802,
+    "char": "𑒒",
+    "name": "TIRHUTA LETTER GHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70803,
+    "char": "𑒓",
+    "name": "TIRHUTA LETTER NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70804,
+    "char": "𑒔",
+    "name": "TIRHUTA LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70805,
+    "char": "𑒕",
+    "name": "TIRHUTA LETTER CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70806,
+    "char": "𑒖",
+    "name": "TIRHUTA LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70807,
+    "char": "𑒗",
+    "name": "TIRHUTA LETTER JHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70808,
+    "char": "𑒘",
+    "name": "TIRHUTA LETTER NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70809,
+    "char": "𑒙",
+    "name": "TIRHUTA LETTER TTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70810,
+    "char": "𑒚",
+    "name": "TIRHUTA LETTER TTHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70811,
+    "char": "𑒛",
+    "name": "TIRHUTA LETTER DDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70812,
+    "char": "𑒜",
+    "name": "TIRHUTA LETTER DDHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70813,
+    "char": "𑒝",
+    "name": "TIRHUTA LETTER NNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70814,
+    "char": "𑒞",
+    "name": "TIRHUTA LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70815,
+    "char": "𑒟",
+    "name": "TIRHUTA LETTER THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70816,
+    "char": "𑒠",
+    "name": "TIRHUTA LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70817,
+    "char": "𑒡",
+    "name": "TIRHUTA LETTER DHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70818,
+    "char": "𑒢",
+    "name": "TIRHUTA LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70819,
+    "char": "𑒣",
+    "name": "TIRHUTA LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70820,
+    "char": "𑒤",
+    "name": "TIRHUTA LETTER PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70821,
+    "char": "𑒥",
+    "name": "TIRHUTA LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70822,
+    "char": "𑒦",
+    "name": "TIRHUTA LETTER BHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70823,
+    "char": "𑒧",
+    "name": "TIRHUTA LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70824,
+    "char": "𑒨",
+    "name": "TIRHUTA LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70825,
+    "char": "𑒩",
+    "name": "TIRHUTA LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70826,
+    "char": "𑒪",
+    "name": "TIRHUTA LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70827,
+    "char": "𑒫",
+    "name": "TIRHUTA LETTER VA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70828,
+    "char": "𑒬",
+    "name": "TIRHUTA LETTER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70829,
+    "char": "𑒭",
+    "name": "TIRHUTA LETTER SSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70830,
+    "char": "𑒮",
+    "name": "TIRHUTA LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70831,
+    "char": "𑒯",
+    "name": "TIRHUTA LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70832,
+    "char": "𑒰",
+    "name": "TIRHUTA VOWEL SIGN AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70833,
+    "char": "𑒱",
+    "name": "TIRHUTA VOWEL SIGN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70834,
+    "char": "𑒲",
+    "name": "TIRHUTA VOWEL SIGN II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70835,
+    "char": "𑒳",
+    "name": "TIRHUTA VOWEL SIGN U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70836,
+    "char": "𑒴",
+    "name": "TIRHUTA VOWEL SIGN UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70837,
+    "char": "𑒵",
+    "name": "TIRHUTA VOWEL SIGN VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70838,
+    "char": "𑒶",
+    "name": "TIRHUTA VOWEL SIGN VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70839,
+    "char": "𑒷",
+    "name": "TIRHUTA VOWEL SIGN VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70840,
+    "char": "𑒸",
+    "name": "TIRHUTA VOWEL SIGN VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70841,
+    "char": "𑒹",
+    "name": "TIRHUTA VOWEL SIGN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70842,
+    "char": "𑒺",
+    "name": "TIRHUTA VOWEL SIGN SHORT E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70843,
+    "char": "𑒻",
+    "name": "TIRHUTA VOWEL SIGN AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70844,
+    "char": "𑒼",
+    "name": "TIRHUTA VOWEL SIGN O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70845,
+    "char": "𑒽",
+    "name": "TIRHUTA VOWEL SIGN SHORT O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70846,
+    "char": "𑒾",
+    "name": "TIRHUTA VOWEL SIGN AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70847,
+    "char": "𑒿",
+    "name": "TIRHUTA SIGN CANDRABINDU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70848,
+    "char": "𑓀",
+    "name": "TIRHUTA SIGN ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70849,
+    "char": "𑓁",
+    "name": "TIRHUTA SIGN VISARGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70850,
+    "char": "𑓂",
+    "name": "TIRHUTA SIGN VIRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70851,
+    "char": "𑓃",
+    "name": "TIRHUTA SIGN NUKTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70852,
+    "char": "𑓄",
+    "name": "TIRHUTA SIGN AVAGRAHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70853,
+    "char": "𑓅",
+    "name": "TIRHUTA GVANG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70854,
+    "char": "𑓆",
+    "name": "TIRHUTA ABBREVIATION SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70855,
+    "char": "𑓇",
+    "name": "TIRHUTA OM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70864,
+    "char": "𑓐",
+    "name": "TIRHUTA DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70865,
+    "char": "𑓑",
+    "name": "TIRHUTA DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70866,
+    "char": "𑓒",
+    "name": "TIRHUTA DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70867,
+    "char": "𑓓",
+    "name": "TIRHUTA DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70868,
+    "char": "𑓔",
+    "name": "TIRHUTA DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70869,
+    "char": "𑓕",
+    "name": "TIRHUTA DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70870,
+    "char": "𑓖",
+    "name": "TIRHUTA DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70871,
+    "char": "𑓗",
+    "name": "TIRHUTA DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70872,
+    "char": "𑓘",
+    "name": "TIRHUTA DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70873,
+    "char": "𑓙",
+    "name": "TIRHUTA DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

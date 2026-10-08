@@ -1,0 +1,773 @@
+[
+  {
+    "cp": 12448,
+    "char": "゠",
+    "name": "KATAKANA-HIRAGANA DOUBLE HYPHEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12449,
+    "char": "ァ",
+    "name": "KATAKANA LETTER SMALL A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12450,
+    "char": "ア",
+    "name": "KATAKANA LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12451,
+    "char": "ィ",
+    "name": "KATAKANA LETTER SMALL I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12452,
+    "char": "イ",
+    "name": "KATAKANA LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12453,
+    "char": "ゥ",
+    "name": "KATAKANA LETTER SMALL U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12454,
+    "char": "ウ",
+    "name": "KATAKANA LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12455,
+    "char": "ェ",
+    "name": "KATAKANA LETTER SMALL E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12456,
+    "char": "エ",
+    "name": "KATAKANA LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12457,
+    "char": "ォ",
+    "name": "KATAKANA LETTER SMALL O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12458,
+    "char": "オ",
+    "name": "KATAKANA LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12459,
+    "char": "カ",
+    "name": "KATAKANA LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12460,
+    "char": "ガ",
+    "name": "KATAKANA LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12461,
+    "char": "キ",
+    "name": "KATAKANA LETTER KI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12462,
+    "char": "ギ",
+    "name": "KATAKANA LETTER GI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12463,
+    "char": "ク",
+    "name": "KATAKANA LETTER KU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12464,
+    "char": "グ",
+    "name": "KATAKANA LETTER GU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12465,
+    "char": "ケ",
+    "name": "KATAKANA LETTER KE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12466,
+    "char": "ゲ",
+    "name": "KATAKANA LETTER GE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12467,
+    "char": "コ",
+    "name": "KATAKANA LETTER KO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12468,
+    "char": "ゴ",
+    "name": "KATAKANA LETTER GO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12469,
+    "char": "サ",
+    "name": "KATAKANA LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12470,
+    "char": "ザ",
+    "name": "KATAKANA LETTER ZA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12471,
+    "char": "シ",
+    "name": "KATAKANA LETTER SI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12472,
+    "char": "ジ",
+    "name": "KATAKANA LETTER ZI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12473,
+    "char": "ス",
+    "name": "KATAKANA LETTER SU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12474,
+    "char": "ズ",
+    "name": "KATAKANA LETTER ZU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12475,
+    "char": "セ",
+    "name": "KATAKANA LETTER SE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12476,
+    "char": "ゼ",
+    "name": "KATAKANA LETTER ZE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12477,
+    "char": "ソ",
+    "name": "KATAKANA LETTER SO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12478,
+    "char": "ゾ",
+    "name": "KATAKANA LETTER ZO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12479,
+    "char": "タ",
+    "name": "KATAKANA LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12480,
+    "char": "ダ",
+    "name": "KATAKANA LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12481,
+    "char": "チ",
+    "name": "KATAKANA LETTER TI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12482,
+    "char": "ヂ",
+    "name": "KATAKANA LETTER DI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12483,
+    "char": "ッ",
+    "name": "KATAKANA LETTER SMALL TU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12484,
+    "char": "ツ",
+    "name": "KATAKANA LETTER TU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12485,
+    "char": "ヅ",
+    "name": "KATAKANA LETTER DU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12486,
+    "char": "テ",
+    "name": "KATAKANA LETTER TE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12487,
+    "char": "デ",
+    "name": "KATAKANA LETTER DE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12488,
+    "char": "ト",
+    "name": "KATAKANA LETTER TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12489,
+    "char": "ド",
+    "name": "KATAKANA LETTER DO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12490,
+    "char": "ナ",
+    "name": "KATAKANA LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12491,
+    "char": "ニ",
+    "name": "KATAKANA LETTER NI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12492,
+    "char": "ヌ",
+    "name": "KATAKANA LETTER NU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12493,
+    "char": "ネ",
+    "name": "KATAKANA LETTER NE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12494,
+    "char": "ノ",
+    "name": "KATAKANA LETTER NO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12495,
+    "char": "ハ",
+    "name": "KATAKANA LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12496,
+    "char": "バ",
+    "name": "KATAKANA LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12497,
+    "char": "パ",
+    "name": "KATAKANA LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12498,
+    "char": "ヒ",
+    "name": "KATAKANA LETTER HI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12499,
+    "char": "ビ",
+    "name": "KATAKANA LETTER BI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12500,
+    "char": "ピ",
+    "name": "KATAKANA LETTER PI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12501,
+    "char": "フ",
+    "name": "KATAKANA LETTER HU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12502,
+    "char": "ブ",
+    "name": "KATAKANA LETTER BU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12503,
+    "char": "プ",
+    "name": "KATAKANA LETTER PU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12504,
+    "char": "ヘ",
+    "name": "KATAKANA LETTER HE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12505,
+    "char": "ベ",
+    "name": "KATAKANA LETTER BE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12506,
+    "char": "ペ",
+    "name": "KATAKANA LETTER PE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12507,
+    "char": "ホ",
+    "name": "KATAKANA LETTER HO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12508,
+    "char": "ボ",
+    "name": "KATAKANA LETTER BO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12509,
+    "char": "ポ",
+    "name": "KATAKANA LETTER PO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12510,
+    "char": "マ",
+    "name": "KATAKANA LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12511,
+    "char": "ミ",
+    "name": "KATAKANA LETTER MI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12512,
+    "char": "ム",
+    "name": "KATAKANA LETTER MU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12513,
+    "char": "メ",
+    "name": "KATAKANA LETTER ME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12514,
+    "char": "モ",
+    "name": "KATAKANA LETTER MO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12515,
+    "char": "ャ",
+    "name": "KATAKANA LETTER SMALL YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12516,
+    "char": "ヤ",
+    "name": "KATAKANA LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12517,
+    "char": "ュ",
+    "name": "KATAKANA LETTER SMALL YU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12518,
+    "char": "ユ",
+    "name": "KATAKANA LETTER YU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12519,
+    "char": "ョ",
+    "name": "KATAKANA LETTER SMALL YO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12520,
+    "char": "ヨ",
+    "name": "KATAKANA LETTER YO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12521,
+    "char": "ラ",
+    "name": "KATAKANA LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12522,
+    "char": "リ",
+    "name": "KATAKANA LETTER RI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12523,
+    "char": "ル",
+    "name": "KATAKANA LETTER RU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12524,
+    "char": "レ",
+    "name": "KATAKANA LETTER RE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12525,
+    "char": "ロ",
+    "name": "KATAKANA LETTER RO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12526,
+    "char": "ヮ",
+    "name": "KATAKANA LETTER SMALL WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12527,
+    "char": "ワ",
+    "name": "KATAKANA LETTER WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12528,
+    "char": "ヰ",
+    "name": "KATAKANA LETTER WI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12529,
+    "char": "ヱ",
+    "name": "KATAKANA LETTER WE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12530,
+    "char": "ヲ",
+    "name": "KATAKANA LETTER WO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12531,
+    "char": "ン",
+    "name": "KATAKANA LETTER N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12532,
+    "char": "ヴ",
+    "name": "KATAKANA LETTER VU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12533,
+    "char": "ヵ",
+    "name": "KATAKANA LETTER SMALL KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12534,
+    "char": "ヶ",
+    "name": "KATAKANA LETTER SMALL KE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12535,
+    "char": "ヷ",
+    "name": "KATAKANA LETTER VA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12536,
+    "char": "ヸ",
+    "name": "KATAKANA LETTER VI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12537,
+    "char": "ヹ",
+    "name": "KATAKANA LETTER VE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12538,
+    "char": "ヺ",
+    "name": "KATAKANA LETTER VO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12539,
+    "char": "・",
+    "name": "KATAKANA MIDDLE DOT",
+    "ru": "интерпункт катаканы",
+    "en": "katakana middle dot",
+    "keywords": {
+      "ru": ["интерпункт", "интерпункт катаканы", "катакана", "средняя точка", "точки"],
+      "en": ["dot", "dots", "interpunct", "katakana", "middle", "middot"]
+    }
+  },
+  {
+    "cp": 12540,
+    "char": "ー",
+    "name": "KATAKANA-HIRAGANA PROLONGED SOUND MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12541,
+    "char": "ヽ",
+    "name": "KATAKANA ITERATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12542,
+    "char": "ヾ",
+    "name": "KATAKANA VOICED ITERATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12543,
+    "char": "ヿ",
+    "name": "KATAKANA DIGRAPH KOTO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

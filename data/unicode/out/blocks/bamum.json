@@ -1,0 +1,706 @@
+[
+  {
+    "cp": 42656,
+    "char": "ꚠ",
+    "name": "BAMUM LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42657,
+    "char": "ꚡ",
+    "name": "BAMUM LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42658,
+    "char": "ꚢ",
+    "name": "BAMUM LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42659,
+    "char": "ꚣ",
+    "name": "BAMUM LETTER KU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42660,
+    "char": "ꚤ",
+    "name": "BAMUM LETTER EE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42661,
+    "char": "ꚥ",
+    "name": "BAMUM LETTER REE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42662,
+    "char": "ꚦ",
+    "name": "BAMUM LETTER TAE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42663,
+    "char": "ꚧ",
+    "name": "BAMUM LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42664,
+    "char": "ꚨ",
+    "name": "BAMUM LETTER NYI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42665,
+    "char": "ꚩ",
+    "name": "BAMUM LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42666,
+    "char": "ꚪ",
+    "name": "BAMUM LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42667,
+    "char": "ꚫ",
+    "name": "BAMUM LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42668,
+    "char": "ꚬ",
+    "name": "BAMUM LETTER RII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42669,
+    "char": "ꚭ",
+    "name": "BAMUM LETTER RIEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42670,
+    "char": "ꚮ",
+    "name": "BAMUM LETTER LEEEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42671,
+    "char": "ꚯ",
+    "name": "BAMUM LETTER MEEEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42672,
+    "char": "ꚰ",
+    "name": "BAMUM LETTER TAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42673,
+    "char": "ꚱ",
+    "name": "BAMUM LETTER NDAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42674,
+    "char": "ꚲ",
+    "name": "BAMUM LETTER NJAEM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42675,
+    "char": "ꚳ",
+    "name": "BAMUM LETTER M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42676,
+    "char": "ꚴ",
+    "name": "BAMUM LETTER SUU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42677,
+    "char": "ꚵ",
+    "name": "BAMUM LETTER MU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42678,
+    "char": "ꚶ",
+    "name": "BAMUM LETTER SHII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42679,
+    "char": "ꚷ",
+    "name": "BAMUM LETTER SI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42680,
+    "char": "ꚸ",
+    "name": "BAMUM LETTER SHEUX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42681,
+    "char": "ꚹ",
+    "name": "BAMUM LETTER SEUX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42682,
+    "char": "ꚺ",
+    "name": "BAMUM LETTER KYEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42683,
+    "char": "ꚻ",
+    "name": "BAMUM LETTER KET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42684,
+    "char": "ꚼ",
+    "name": "BAMUM LETTER NUAE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42685,
+    "char": "ꚽ",
+    "name": "BAMUM LETTER NU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42686,
+    "char": "ꚾ",
+    "name": "BAMUM LETTER NJUAE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42687,
+    "char": "ꚿ",
+    "name": "BAMUM LETTER YOQ",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42688,
+    "char": "ꛀ",
+    "name": "BAMUM LETTER SHU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42689,
+    "char": "ꛁ",
+    "name": "BAMUM LETTER YUQ",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42690,
+    "char": "ꛂ",
+    "name": "BAMUM LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42691,
+    "char": "ꛃ",
+    "name": "BAMUM LETTER NSHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42692,
+    "char": "ꛄ",
+    "name": "BAMUM LETTER KEUX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42693,
+    "char": "ꛅ",
+    "name": "BAMUM LETTER PEUX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42694,
+    "char": "ꛆ",
+    "name": "BAMUM LETTER NJEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42695,
+    "char": "ꛇ",
+    "name": "BAMUM LETTER NTEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42696,
+    "char": "ꛈ",
+    "name": "BAMUM LETTER PUE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42697,
+    "char": "ꛉ",
+    "name": "BAMUM LETTER WUE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42698,
+    "char": "ꛊ",
+    "name": "BAMUM LETTER PEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42699,
+    "char": "ꛋ",
+    "name": "BAMUM LETTER FEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42700,
+    "char": "ꛌ",
+    "name": "BAMUM LETTER RU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42701,
+    "char": "ꛍ",
+    "name": "BAMUM LETTER LU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42702,
+    "char": "ꛎ",
+    "name": "BAMUM LETTER MI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42703,
+    "char": "ꛏ",
+    "name": "BAMUM LETTER NI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42704,
+    "char": "ꛐ",
+    "name": "BAMUM LETTER REUX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42705,
+    "char": "ꛑ",
+    "name": "BAMUM LETTER RAE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42706,
+    "char": "ꛒ",
+    "name": "BAMUM LETTER KEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42707,
+    "char": "ꛓ",
+    "name": "BAMUM LETTER NGKWAEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42708,
+    "char": "ꛔ",
+    "name": "BAMUM LETTER NGGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42709,
+    "char": "ꛕ",
+    "name": "BAMUM LETTER NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42710,
+    "char": "ꛖ",
+    "name": "BAMUM LETTER SHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42711,
+    "char": "ꛗ",
+    "name": "BAMUM LETTER PUAE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42712,
+    "char": "ꛘ",
+    "name": "BAMUM LETTER FU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42713,
+    "char": "ꛙ",
+    "name": "BAMUM LETTER FOM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42714,
+    "char": "ꛚ",
+    "name": "BAMUM LETTER WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42715,
+    "char": "ꛛ",
+    "name": "BAMUM LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42716,
+    "char": "ꛜ",
+    "name": "BAMUM LETTER LI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42717,
+    "char": "ꛝ",
+    "name": "BAMUM LETTER PI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42718,
+    "char": "ꛞ",
+    "name": "BAMUM LETTER LOQ",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42719,
+    "char": "ꛟ",
+    "name": "BAMUM LETTER KO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42720,
+    "char": "ꛠ",
+    "name": "BAMUM LETTER MBEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42721,
+    "char": "ꛡ",
+    "name": "BAMUM LETTER REN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42722,
+    "char": "ꛢ",
+    "name": "BAMUM LETTER MEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42723,
+    "char": "ꛣ",
+    "name": "BAMUM LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42724,
+    "char": "ꛤ",
+    "name": "BAMUM LETTER TI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42725,
+    "char": "ꛥ",
+    "name": "BAMUM LETTER KI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42726,
+    "char": "ꛦ",
+    "name": "BAMUM LETTER MO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42727,
+    "char": "ꛧ",
+    "name": "BAMUM LETTER MBAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42728,
+    "char": "ꛨ",
+    "name": "BAMUM LETTER TET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42729,
+    "char": "ꛩ",
+    "name": "BAMUM LETTER KPA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42730,
+    "char": "ꛪ",
+    "name": "BAMUM LETTER TEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42731,
+    "char": "ꛫ",
+    "name": "BAMUM LETTER NTUU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42732,
+    "char": "ꛬ",
+    "name": "BAMUM LETTER SAMBA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42733,
+    "char": "ꛭ",
+    "name": "BAMUM LETTER FAAMAE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42734,
+    "char": "ꛮ",
+    "name": "BAMUM LETTER KOVUU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42735,
+    "char": "ꛯ",
+    "name": "BAMUM LETTER KOGHOM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42736,
+    "char": "꛰",
+    "name": "BAMUM COMBINING MARK KOQNDON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42737,
+    "char": "꛱",
+    "name": "BAMUM COMBINING MARK TUKWENTIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42738,
+    "char": "꛲",
+    "name": "BAMUM NJAEMLI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42739,
+    "char": "꛳",
+    "name": "BAMUM FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42740,
+    "char": "꛴",
+    "name": "BAMUM COLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42741,
+    "char": "꛵",
+    "name": "BAMUM COMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42742,
+    "char": "꛶",
+    "name": "BAMUM SEMICOLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42743,
+    "char": "꛷",
+    "name": "BAMUM QUESTION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

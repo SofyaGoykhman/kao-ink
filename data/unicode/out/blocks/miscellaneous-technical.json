@@ -1,0 +1,2152 @@
+[
+  {
+    "cp": 8960,
+    "char": "⌀",
+    "name": "DIAMETER SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8961,
+    "char": "⌁",
+    "name": "ELECTRIC ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8962,
+    "char": "⌂",
+    "name": "HOUSE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8963,
+    "char": "⌃",
+    "name": "UP ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8964,
+    "char": "⌄",
+    "name": "DOWN ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8965,
+    "char": "⌅",
+    "name": "PROJECTIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8966,
+    "char": "⌆",
+    "name": "PERSPECTIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8967,
+    "char": "⌇",
+    "name": "WAVY LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8968,
+    "char": "⌈",
+    "name": "LEFT CEILING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8969,
+    "char": "⌉",
+    "name": "RIGHT CEILING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8970,
+    "char": "⌊",
+    "name": "LEFT FLOOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8971,
+    "char": "⌋",
+    "name": "RIGHT FLOOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8972,
+    "char": "⌌",
+    "name": "BOTTOM RIGHT CROP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8973,
+    "char": "⌍",
+    "name": "BOTTOM LEFT CROP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8974,
+    "char": "⌎",
+    "name": "TOP RIGHT CROP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8975,
+    "char": "⌏",
+    "name": "TOP LEFT CROP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8976,
+    "char": "⌐",
+    "name": "REVERSED NOT SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8977,
+    "char": "⌑",
+    "name": "SQUARE LOZENGE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8978,
+    "char": "⌒",
+    "name": "ARC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8979,
+    "char": "⌓",
+    "name": "SEGMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8980,
+    "char": "⌔",
+    "name": "SECTOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8981,
+    "char": "⌕",
+    "name": "TELEPHONE RECORDER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8982,
+    "char": "⌖",
+    "name": "POSITION INDICATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8983,
+    "char": "⌗",
+    "name": "VIEWDATA SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8984,
+    "char": "⌘",
+    "name": "PLACE OF INTEREST SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8985,
+    "char": "⌙",
+    "name": "TURNED NOT SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8986,
+    "char": "⌚",
+    "name": "WATCH",
+    "ru": "наручные часы",
+    "en": "watch",
+    "keywords": {
+      "ru": ["время", "запястье", "наручные", "рука", "часы"],
+      "en": ["clock", "time", "watch"]
+    }
+  },
+  {
+    "cp": 8987,
+    "char": "⌛",
+    "name": "HOURGLASS",
+    "ru": "песочные часы",
+    "en": "hourglass done",
+    "keywords": {
+      "ru": ["время", "песок", "песочные часы", "часы"],
+      "en": ["done", "hourglass", "sand", "time", "timer"]
+    }
+  },
+  {
+    "cp": 8988,
+    "char": "⌜",
+    "name": "TOP LEFT CORNER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8989,
+    "char": "⌝",
+    "name": "TOP RIGHT CORNER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8990,
+    "char": "⌞",
+    "name": "BOTTOM LEFT CORNER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8991,
+    "char": "⌟",
+    "name": "BOTTOM RIGHT CORNER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8992,
+    "char": "⌠",
+    "name": "TOP HALF INTEGRAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8993,
+    "char": "⌡",
+    "name": "BOTTOM HALF INTEGRAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8994,
+    "char": "⌢",
+    "name": "FROWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8995,
+    "char": "⌣",
+    "name": "SMILE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8996,
+    "char": "⌤",
+    "name": "UP ARROWHEAD BETWEEN TWO HORIZONTAL BARS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8997,
+    "char": "⌥",
+    "name": "OPTION KEY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8998,
+    "char": "⌦",
+    "name": "ERASE TO THE RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8999,
+    "char": "⌧",
+    "name": "X IN A RECTANGLE BOX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9000,
+    "char": "⌨",
+    "name": "KEYBOARD",
+    "ru": "клавиатура",
+    "en": "keyboard",
+    "keywords": { "ru": ["клавиатура", "клавиши", "периферия"], "en": ["computer", "keyboard"] }
+  },
+  {
+    "cp": 9001,
+    "char": "〈",
+    "name": "LEFT-POINTING ANGLE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9002,
+    "char": "〉",
+    "name": "RIGHT-POINTING ANGLE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9003,
+    "char": "⌫",
+    "name": "ERASE TO THE LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9004,
+    "char": "⌬",
+    "name": "BENZENE RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9005,
+    "char": "⌭",
+    "name": "CYLINDRICITY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9006,
+    "char": "⌮",
+    "name": "ALL AROUND-PROFILE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9007,
+    "char": "⌯",
+    "name": "SYMMETRY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9008,
+    "char": "⌰",
+    "name": "TOTAL RUNOUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9009,
+    "char": "⌱",
+    "name": "DIMENSION ORIGIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9010,
+    "char": "⌲",
+    "name": "CONICAL TAPER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9011,
+    "char": "⌳",
+    "name": "SLOPE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9012,
+    "char": "⌴",
+    "name": "COUNTERBORE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9013,
+    "char": "⌵",
+    "name": "COUNTERSINK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9014,
+    "char": "⌶",
+    "name": "APL FUNCTIONAL SYMBOL I-BEAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9015,
+    "char": "⌷",
+    "name": "APL FUNCTIONAL SYMBOL SQUISH QUAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9016,
+    "char": "⌸",
+    "name": "APL FUNCTIONAL SYMBOL QUAD EQUAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9017,
+    "char": "⌹",
+    "name": "APL FUNCTIONAL SYMBOL QUAD DIVIDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9018,
+    "char": "⌺",
+    "name": "APL FUNCTIONAL SYMBOL QUAD DIAMOND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9019,
+    "char": "⌻",
+    "name": "APL FUNCTIONAL SYMBOL QUAD JOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9020,
+    "char": "⌼",
+    "name": "APL FUNCTIONAL SYMBOL QUAD CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9021,
+    "char": "⌽",
+    "name": "APL FUNCTIONAL SYMBOL CIRCLE STILE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9022,
+    "char": "⌾",
+    "name": "APL FUNCTIONAL SYMBOL CIRCLE JOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9023,
+    "char": "⌿",
+    "name": "APL FUNCTIONAL SYMBOL SLASH BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9024,
+    "char": "⍀",
+    "name": "APL FUNCTIONAL SYMBOL BACKSLASH BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9025,
+    "char": "⍁",
+    "name": "APL FUNCTIONAL SYMBOL QUAD SLASH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9026,
+    "char": "⍂",
+    "name": "APL FUNCTIONAL SYMBOL QUAD BACKSLASH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9027,
+    "char": "⍃",
+    "name": "APL FUNCTIONAL SYMBOL QUAD LESS-THAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9028,
+    "char": "⍄",
+    "name": "APL FUNCTIONAL SYMBOL QUAD GREATER-THAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9029,
+    "char": "⍅",
+    "name": "APL FUNCTIONAL SYMBOL LEFTWARDS VANE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9030,
+    "char": "⍆",
+    "name": "APL FUNCTIONAL SYMBOL RIGHTWARDS VANE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9031,
+    "char": "⍇",
+    "name": "APL FUNCTIONAL SYMBOL QUAD LEFTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9032,
+    "char": "⍈",
+    "name": "APL FUNCTIONAL SYMBOL QUAD RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9033,
+    "char": "⍉",
+    "name": "APL FUNCTIONAL SYMBOL CIRCLE BACKSLASH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9034,
+    "char": "⍊",
+    "name": "APL FUNCTIONAL SYMBOL DOWN TACK UNDERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9035,
+    "char": "⍋",
+    "name": "APL FUNCTIONAL SYMBOL DELTA STILE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9036,
+    "char": "⍌",
+    "name": "APL FUNCTIONAL SYMBOL QUAD DOWN CARET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9037,
+    "char": "⍍",
+    "name": "APL FUNCTIONAL SYMBOL QUAD DELTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9038,
+    "char": "⍎",
+    "name": "APL FUNCTIONAL SYMBOL DOWN TACK JOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9039,
+    "char": "⍏",
+    "name": "APL FUNCTIONAL SYMBOL UPWARDS VANE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9040,
+    "char": "⍐",
+    "name": "APL FUNCTIONAL SYMBOL QUAD UPWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9041,
+    "char": "⍑",
+    "name": "APL FUNCTIONAL SYMBOL UP TACK OVERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9042,
+    "char": "⍒",
+    "name": "APL FUNCTIONAL SYMBOL DEL STILE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9043,
+    "char": "⍓",
+    "name": "APL FUNCTIONAL SYMBOL QUAD UP CARET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9044,
+    "char": "⍔",
+    "name": "APL FUNCTIONAL SYMBOL QUAD DEL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9045,
+    "char": "⍕",
+    "name": "APL FUNCTIONAL SYMBOL UP TACK JOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9046,
+    "char": "⍖",
+    "name": "APL FUNCTIONAL SYMBOL DOWNWARDS VANE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9047,
+    "char": "⍗",
+    "name": "APL FUNCTIONAL SYMBOL QUAD DOWNWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9048,
+    "char": "⍘",
+    "name": "APL FUNCTIONAL SYMBOL QUOTE UNDERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9049,
+    "char": "⍙",
+    "name": "APL FUNCTIONAL SYMBOL DELTA UNDERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9050,
+    "char": "⍚",
+    "name": "APL FUNCTIONAL SYMBOL DIAMOND UNDERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9051,
+    "char": "⍛",
+    "name": "APL FUNCTIONAL SYMBOL JOT UNDERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9052,
+    "char": "⍜",
+    "name": "APL FUNCTIONAL SYMBOL CIRCLE UNDERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9053,
+    "char": "⍝",
+    "name": "APL FUNCTIONAL SYMBOL UP SHOE JOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9054,
+    "char": "⍞",
+    "name": "APL FUNCTIONAL SYMBOL QUOTE QUAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9055,
+    "char": "⍟",
+    "name": "APL FUNCTIONAL SYMBOL CIRCLE STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9056,
+    "char": "⍠",
+    "name": "APL FUNCTIONAL SYMBOL QUAD COLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9057,
+    "char": "⍡",
+    "name": "APL FUNCTIONAL SYMBOL UP TACK DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9058,
+    "char": "⍢",
+    "name": "APL FUNCTIONAL SYMBOL DEL DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9059,
+    "char": "⍣",
+    "name": "APL FUNCTIONAL SYMBOL STAR DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9060,
+    "char": "⍤",
+    "name": "APL FUNCTIONAL SYMBOL JOT DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9061,
+    "char": "⍥",
+    "name": "APL FUNCTIONAL SYMBOL CIRCLE DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9062,
+    "char": "⍦",
+    "name": "APL FUNCTIONAL SYMBOL DOWN SHOE STILE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9063,
+    "char": "⍧",
+    "name": "APL FUNCTIONAL SYMBOL LEFT SHOE STILE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9064,
+    "char": "⍨",
+    "name": "APL FUNCTIONAL SYMBOL TILDE DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9065,
+    "char": "⍩",
+    "name": "APL FUNCTIONAL SYMBOL GREATER-THAN DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9066,
+    "char": "⍪",
+    "name": "APL FUNCTIONAL SYMBOL COMMA BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9067,
+    "char": "⍫",
+    "name": "APL FUNCTIONAL SYMBOL DEL TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9068,
+    "char": "⍬",
+    "name": "APL FUNCTIONAL SYMBOL ZILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9069,
+    "char": "⍭",
+    "name": "APL FUNCTIONAL SYMBOL STILE TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9070,
+    "char": "⍮",
+    "name": "APL FUNCTIONAL SYMBOL SEMICOLON UNDERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9071,
+    "char": "⍯",
+    "name": "APL FUNCTIONAL SYMBOL QUAD NOT EQUAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9072,
+    "char": "⍰",
+    "name": "APL FUNCTIONAL SYMBOL QUAD QUESTION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9073,
+    "char": "⍱",
+    "name": "APL FUNCTIONAL SYMBOL DOWN CARET TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9074,
+    "char": "⍲",
+    "name": "APL FUNCTIONAL SYMBOL UP CARET TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9075,
+    "char": "⍳",
+    "name": "APL FUNCTIONAL SYMBOL IOTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9076,
+    "char": "⍴",
+    "name": "APL FUNCTIONAL SYMBOL RHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9077,
+    "char": "⍵",
+    "name": "APL FUNCTIONAL SYMBOL OMEGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9078,
+    "char": "⍶",
+    "name": "APL FUNCTIONAL SYMBOL ALPHA UNDERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9079,
+    "char": "⍷",
+    "name": "APL FUNCTIONAL SYMBOL EPSILON UNDERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9080,
+    "char": "⍸",
+    "name": "APL FUNCTIONAL SYMBOL IOTA UNDERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9081,
+    "char": "⍹",
+    "name": "APL FUNCTIONAL SYMBOL OMEGA UNDERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9082,
+    "char": "⍺",
+    "name": "APL FUNCTIONAL SYMBOL ALPHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9083,
+    "char": "⍻",
+    "name": "NOT CHECK MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9084,
+    "char": "⍼",
+    "name": "RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9085,
+    "char": "⍽",
+    "name": "SHOULDERED OPEN BOX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9086,
+    "char": "⍾",
+    "name": "BELL SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9087,
+    "char": "⍿",
+    "name": "VERTICAL LINE WITH MIDDLE DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9088,
+    "char": "⎀",
+    "name": "INSERTION SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9089,
+    "char": "⎁",
+    "name": "CONTINUOUS UNDERLINE SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9090,
+    "char": "⎂",
+    "name": "DISCONTINUOUS UNDERLINE SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9091,
+    "char": "⎃",
+    "name": "EMPHASIS SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9092,
+    "char": "⎄",
+    "name": "COMPOSITION SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9093,
+    "char": "⎅",
+    "name": "WHITE SQUARE WITH CENTRE VERTICAL LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9094,
+    "char": "⎆",
+    "name": "ENTER SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9095,
+    "char": "⎇",
+    "name": "ALTERNATIVE KEY SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9096,
+    "char": "⎈",
+    "name": "HELM SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9097,
+    "char": "⎉",
+    "name": "CIRCLED HORIZONTAL BAR WITH NOTCH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9098,
+    "char": "⎊",
+    "name": "CIRCLED TRIANGLE DOWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9099,
+    "char": "⎋",
+    "name": "BROKEN CIRCLE WITH NORTHWEST ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9100,
+    "char": "⎌",
+    "name": "UNDO SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9101,
+    "char": "⎍",
+    "name": "MONOSTABLE SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9102,
+    "char": "⎎",
+    "name": "HYSTERESIS SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9103,
+    "char": "⎏",
+    "name": "OPEN-CIRCUIT-OUTPUT H-TYPE SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9104,
+    "char": "⎐",
+    "name": "OPEN-CIRCUIT-OUTPUT L-TYPE SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9105,
+    "char": "⎑",
+    "name": "PASSIVE-PULL-DOWN-OUTPUT SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9106,
+    "char": "⎒",
+    "name": "PASSIVE-PULL-UP-OUTPUT SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9107,
+    "char": "⎓",
+    "name": "DIRECT CURRENT SYMBOL FORM TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9108,
+    "char": "⎔",
+    "name": "SOFTWARE-FUNCTION SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9109,
+    "char": "⎕",
+    "name": "APL FUNCTIONAL SYMBOL QUAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9110,
+    "char": "⎖",
+    "name": "DECIMAL SEPARATOR KEY SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9111,
+    "char": "⎗",
+    "name": "PREVIOUS PAGE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9112,
+    "char": "⎘",
+    "name": "NEXT PAGE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9113,
+    "char": "⎙",
+    "name": "PRINT SCREEN SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9114,
+    "char": "⎚",
+    "name": "CLEAR SCREEN SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9115,
+    "char": "⎛",
+    "name": "LEFT PARENTHESIS UPPER HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9116,
+    "char": "⎜",
+    "name": "LEFT PARENTHESIS EXTENSION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9117,
+    "char": "⎝",
+    "name": "LEFT PARENTHESIS LOWER HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9118,
+    "char": "⎞",
+    "name": "RIGHT PARENTHESIS UPPER HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9119,
+    "char": "⎟",
+    "name": "RIGHT PARENTHESIS EXTENSION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9120,
+    "char": "⎠",
+    "name": "RIGHT PARENTHESIS LOWER HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9121,
+    "char": "⎡",
+    "name": "LEFT SQUARE BRACKET UPPER CORNER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9122,
+    "char": "⎢",
+    "name": "LEFT SQUARE BRACKET EXTENSION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9123,
+    "char": "⎣",
+    "name": "LEFT SQUARE BRACKET LOWER CORNER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9124,
+    "char": "⎤",
+    "name": "RIGHT SQUARE BRACKET UPPER CORNER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9125,
+    "char": "⎥",
+    "name": "RIGHT SQUARE BRACKET EXTENSION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9126,
+    "char": "⎦",
+    "name": "RIGHT SQUARE BRACKET LOWER CORNER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9127,
+    "char": "⎧",
+    "name": "LEFT CURLY BRACKET UPPER HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9128,
+    "char": "⎨",
+    "name": "LEFT CURLY BRACKET MIDDLE PIECE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9129,
+    "char": "⎩",
+    "name": "LEFT CURLY BRACKET LOWER HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9130,
+    "char": "⎪",
+    "name": "CURLY BRACKET EXTENSION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9131,
+    "char": "⎫",
+    "name": "RIGHT CURLY BRACKET UPPER HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9132,
+    "char": "⎬",
+    "name": "RIGHT CURLY BRACKET MIDDLE PIECE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9133,
+    "char": "⎭",
+    "name": "RIGHT CURLY BRACKET LOWER HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9134,
+    "char": "⎮",
+    "name": "INTEGRAL EXTENSION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9135,
+    "char": "⎯",
+    "name": "HORIZONTAL LINE EXTENSION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9136,
+    "char": "⎰",
+    "name": "UPPER LEFT OR LOWER RIGHT CURLY BRACKET SECTION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9137,
+    "char": "⎱",
+    "name": "UPPER RIGHT OR LOWER LEFT CURLY BRACKET SECTION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9138,
+    "char": "⎲",
+    "name": "SUMMATION TOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9139,
+    "char": "⎳",
+    "name": "SUMMATION BOTTOM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9140,
+    "char": "⎴",
+    "name": "TOP SQUARE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9141,
+    "char": "⎵",
+    "name": "BOTTOM SQUARE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9142,
+    "char": "⎶",
+    "name": "BOTTOM SQUARE BRACKET OVER TOP SQUARE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9143,
+    "char": "⎷",
+    "name": "RADICAL SYMBOL BOTTOM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9144,
+    "char": "⎸",
+    "name": "LEFT VERTICAL BOX LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9145,
+    "char": "⎹",
+    "name": "RIGHT VERTICAL BOX LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9146,
+    "char": "⎺",
+    "name": "HORIZONTAL SCAN LINE-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9147,
+    "char": "⎻",
+    "name": "HORIZONTAL SCAN LINE-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9148,
+    "char": "⎼",
+    "name": "HORIZONTAL SCAN LINE-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9149,
+    "char": "⎽",
+    "name": "HORIZONTAL SCAN LINE-9",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9150,
+    "char": "⎾",
+    "name": "DENTISTRY SYMBOL LIGHT VERTICAL AND TOP RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9151,
+    "char": "⎿",
+    "name": "DENTISTRY SYMBOL LIGHT VERTICAL AND BOTTOM RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9152,
+    "char": "⏀",
+    "name": "DENTISTRY SYMBOL LIGHT VERTICAL WITH CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9153,
+    "char": "⏁",
+    "name": "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9154,
+    "char": "⏂",
+    "name": "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9155,
+    "char": "⏃",
+    "name": "DENTISTRY SYMBOL LIGHT VERTICAL WITH TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9156,
+    "char": "⏄",
+    "name": "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9157,
+    "char": "⏅",
+    "name": "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9158,
+    "char": "⏆",
+    "name": "DENTISTRY SYMBOL LIGHT VERTICAL AND WAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9159,
+    "char": "⏇",
+    "name": "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH WAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9160,
+    "char": "⏈",
+    "name": "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH WAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9161,
+    "char": "⏉",
+    "name": "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9162,
+    "char": "⏊",
+    "name": "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9163,
+    "char": "⏋",
+    "name": "DENTISTRY SYMBOL LIGHT VERTICAL AND TOP LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9164,
+    "char": "⏌",
+    "name": "DENTISTRY SYMBOL LIGHT VERTICAL AND BOTTOM LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9165,
+    "char": "⏍",
+    "name": "SQUARE FOOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9166,
+    "char": "⏎",
+    "name": "RETURN SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9167,
+    "char": "⏏",
+    "name": "EJECT SYMBOL",
+    "ru": "выброс",
+    "en": "eject button",
+    "keywords": { "ru": ["выброс", "кнопка"], "en": ["button", "eject"] }
+  },
+  {
+    "cp": 9168,
+    "char": "⏐",
+    "name": "VERTICAL LINE EXTENSION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9169,
+    "char": "⏑",
+    "name": "METRICAL BREVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9170,
+    "char": "⏒",
+    "name": "METRICAL LONG OVER SHORT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9171,
+    "char": "⏓",
+    "name": "METRICAL SHORT OVER LONG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9172,
+    "char": "⏔",
+    "name": "METRICAL LONG OVER TWO SHORTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9173,
+    "char": "⏕",
+    "name": "METRICAL TWO SHORTS OVER LONG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9174,
+    "char": "⏖",
+    "name": "METRICAL TWO SHORTS JOINED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9175,
+    "char": "⏗",
+    "name": "METRICAL TRISEME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9176,
+    "char": "⏘",
+    "name": "METRICAL TETRASEME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9177,
+    "char": "⏙",
+    "name": "METRICAL PENTASEME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9178,
+    "char": "⏚",
+    "name": "EARTH GROUND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9179,
+    "char": "⏛",
+    "name": "FUSE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9180,
+    "char": "⏜",
+    "name": "TOP PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9181,
+    "char": "⏝",
+    "name": "BOTTOM PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9182,
+    "char": "⏞",
+    "name": "TOP CURLY BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9183,
+    "char": "⏟",
+    "name": "BOTTOM CURLY BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9184,
+    "char": "⏠",
+    "name": "TOP TORTOISE SHELL BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9185,
+    "char": "⏡",
+    "name": "BOTTOM TORTOISE SHELL BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9186,
+    "char": "⏢",
+    "name": "WHITE TRAPEZIUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9187,
+    "char": "⏣",
+    "name": "BENZENE RING WITH CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9188,
+    "char": "⏤",
+    "name": "STRAIGHTNESS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9189,
+    "char": "⏥",
+    "name": "FLATNESS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9190,
+    "char": "⏦",
+    "name": "AC CURRENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9191,
+    "char": "⏧",
+    "name": "ELECTRICAL INTERSECTION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9192,
+    "char": "⏨",
+    "name": "DECIMAL EXPONENT SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9193,
+    "char": "⏩",
+    "name": "BLACK RIGHT-POINTING DOUBLE TRIANGLE",
+    "ru": "перемотка вперед",
+    "en": "fast-forward button",
+    "keywords": {
+      "ru": ["вперед", "вправо", "два", "кнопка", "перемотать", "перемотка", "треугольника"],
+      "en": ["arrow", "button", "double", "fast", "fast-forward", "forward"]
+    }
+  },
+  {
+    "cp": 9194,
+    "char": "⏪",
+    "name": "BLACK LEFT-POINTING DOUBLE TRIANGLE",
+    "ru": "перемотка назад",
+    "en": "fast reverse button",
+    "keywords": {
+      "ru": [
+        "влево",
+        "два треугольника",
+        "кнопка",
+        "назад",
+        "перемотать",
+        "перемотка назад",
+        "стрелка"
+      ],
+      "en": ["arrow", "button", "double", "fast", "reverse", "rewind"]
+    }
+  },
+  {
+    "cp": 9195,
+    "char": "⏫",
+    "name": "BLACK UP-POINTING DOUBLE TRIANGLE",
+    "ru": "два треугольника острием вверх",
+    "en": "fast up button",
+    "keywords": {
+      "ru": [
+        "вверх",
+        "два треугольника",
+        "два треугольника острием вверх",
+        "кнопка",
+        "стрелка",
+        "стрелки вверх"
+      ],
+      "en": ["arrow", "button", "double", "fast", "up"]
+    }
+  },
+  {
+    "cp": 9196,
+    "char": "⏬",
+    "name": "BLACK DOWN-POINTING DOUBLE TRIANGLE",
+    "ru": "два треугольника острием вниз",
+    "en": "fast down button",
+    "keywords": {
+      "ru": [
+        "вниз",
+        "два треугольника",
+        "два треугольника острием вниз",
+        "кнопка",
+        "стрелка",
+        "стрелки вниз"
+      ],
+      "en": ["arrow", "button", "double", "down", "fast"]
+    }
+  },
+  {
+    "cp": 9197,
+    "char": "⏭",
+    "name": "BLACK RIGHT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR",
+    "ru": "следующий трек",
+    "en": "next track button",
+    "keywords": {
+      "ru": [
+        "вперед",
+        "вправо",
+        "далее",
+        "два треугольника",
+        "дорожка",
+        "кнопка",
+        "композиция",
+        "перемотать",
+        "перемотка",
+        "песня",
+        "следующая",
+        "следующий",
+        "трек",
+        "черта"
+      ],
+      "en": ["arrow", "button", "next", "scene", "track", "triangle"]
+    }
+  },
+  {
+    "cp": 9198,
+    "char": "⏮",
+    "name": "BLACK LEFT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR",
+    "ru": "предыдущий трек",
+    "en": "last track button",
+    "keywords": {
+      "ru": [
+        "влево",
+        "два треугольника",
+        "перемотать назад",
+        "перемотка",
+        "перемотка назад",
+        "предыдущая дорожка",
+        "предыдущая композиция",
+        "предыдущий трек"
+      ],
+      "en": ["arrow", "button", "last", "previous", "scene", "track", "triangle"]
+    }
+  },
+  {
+    "cp": 9199,
+    "char": "⏯",
+    "name": "BLACK RIGHT-POINTING TRIANGLE WITH DOUBLE VERTICAL BAR",
+    "ru": "воспроизведение/пауза",
+    "en": "play or pause button",
+    "keywords": {
+      "ru": [
+        "воспроизведение",
+        "воспроизведение/пауза",
+        "воспроизвести",
+        "воспроизвещение",
+        "две черты",
+        "играть",
+        "кнопка",
+        "пауза",
+        "приостановить",
+        "треугольник"
+      ],
+      "en": ["arrow", "button", "pause", "play", "right", "triangle"]
+    }
+  },
+  {
+    "cp": 9200,
+    "char": "⏰",
+    "name": "ALARM CLOCK",
+    "ru": "будильник",
+    "en": "alarm clock",
+    "keywords": {
+      "ru": ["будильник", "время", "заводить", "звенит", "напоминание", "подъем", "сигнал", "часы"],
+      "en": ["alarm", "clock", "hours", "hrs", "late", "time", "waiting"]
+    }
+  },
+  {
+    "cp": 9201,
+    "char": "⏱",
+    "name": "STOPWATCH",
+    "ru": "секундомер",
+    "en": "stopwatch",
+    "keywords": {
+      "ru": ["время", "кнопка", "секундомер", "стрелки", "таймер", "точность", "часы"],
+      "en": ["clock", "stopwatch", "time"]
+    }
+  },
+  {
+    "cp": 9202,
+    "char": "⏲",
+    "name": "TIMER CLOCK",
+    "ru": "таймер",
+    "en": "timer clock",
+    "keywords": { "ru": ["время", "отсчет", "сигнал", "таймер", "часы"], "en": ["clock", "timer"] }
+  },
+  {
+    "cp": 9203,
+    "char": "⏳",
+    "name": "HOURGLASS WITH FLOWING SAND",
+    "ru": "время пошло",
+    "en": "hourglass not done",
+    "keywords": {
+      "ru": ["время", "время пошло", "песок", "песочные", "часы"],
+      "en": ["done", "flowing", "hourglass", "hours", "not", "sand", "timer", "waiting", "yolo"]
+    }
+  },
+  {
+    "cp": 9204,
+    "char": "⏴",
+    "name": "BLACK MEDIUM LEFT-POINTING TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9205,
+    "char": "⏵",
+    "name": "BLACK MEDIUM RIGHT-POINTING TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9206,
+    "char": "⏶",
+    "name": "BLACK MEDIUM UP-POINTING TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9207,
+    "char": "⏷",
+    "name": "BLACK MEDIUM DOWN-POINTING TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9208,
+    "char": "⏸",
+    "name": "DOUBLE VERTICAL BAR",
+    "ru": "пауза",
+    "en": "pause button",
+    "keywords": {
+      "ru": ["две черты", "кнопка", "кнопка паузы", "остановить", "пауза", "стоп"],
+      "en": ["bar", "button", "double", "pause", "vertical"]
+    }
+  },
+  {
+    "cp": 9209,
+    "char": "⏹",
+    "name": "BLACK SQUARE FOR STOP",
+    "ru": "стоп",
+    "en": "stop button",
+    "keywords": {
+      "ru": ["кнопка", "остановить", "остановка", "стоп"],
+      "en": ["button", "square", "stop"]
+    }
+  },
+  {
+    "cp": 9210,
+    "char": "⏺",
+    "name": "BLACK CIRCLE FOR RECORD",
+    "ru": "запись",
+    "en": "record button",
+    "keywords": {
+      "ru": ["записать", "запись", "кнопка", "круг", "начать запись"],
+      "en": ["button", "circle", "record"]
+    }
+  },
+  {
+    "cp": 9211,
+    "char": "⏻",
+    "name": "POWER SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9212,
+    "char": "⏼",
+    "name": "POWER ON-OFF SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9213,
+    "char": "⏽",
+    "name": "POWER ON SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9214,
+    "char": "⏾",
+    "name": "POWER SLEEP SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9215,
+    "char": "⏿",
+    "name": "OBSERVER EYE SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

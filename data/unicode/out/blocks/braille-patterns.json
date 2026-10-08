@@ -1,0 +1,2050 @@
+[
+  {
+    "cp": 10240,
+    "char": "⠀",
+    "name": "BRAILLE PATTERN BLANK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10241,
+    "char": "⠁",
+    "name": "BRAILLE PATTERN DOTS-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10242,
+    "char": "⠂",
+    "name": "BRAILLE PATTERN DOTS-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10243,
+    "char": "⠃",
+    "name": "BRAILLE PATTERN DOTS-12",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10244,
+    "char": "⠄",
+    "name": "BRAILLE PATTERN DOTS-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10245,
+    "char": "⠅",
+    "name": "BRAILLE PATTERN DOTS-13",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10246,
+    "char": "⠆",
+    "name": "BRAILLE PATTERN DOTS-23",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10247,
+    "char": "⠇",
+    "name": "BRAILLE PATTERN DOTS-123",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10248,
+    "char": "⠈",
+    "name": "BRAILLE PATTERN DOTS-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10249,
+    "char": "⠉",
+    "name": "BRAILLE PATTERN DOTS-14",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10250,
+    "char": "⠊",
+    "name": "BRAILLE PATTERN DOTS-24",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10251,
+    "char": "⠋",
+    "name": "BRAILLE PATTERN DOTS-124",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10252,
+    "char": "⠌",
+    "name": "BRAILLE PATTERN DOTS-34",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10253,
+    "char": "⠍",
+    "name": "BRAILLE PATTERN DOTS-134",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10254,
+    "char": "⠎",
+    "name": "BRAILLE PATTERN DOTS-234",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10255,
+    "char": "⠏",
+    "name": "BRAILLE PATTERN DOTS-1234",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10256,
+    "char": "⠐",
+    "name": "BRAILLE PATTERN DOTS-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10257,
+    "char": "⠑",
+    "name": "BRAILLE PATTERN DOTS-15",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10258,
+    "char": "⠒",
+    "name": "BRAILLE PATTERN DOTS-25",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10259,
+    "char": "⠓",
+    "name": "BRAILLE PATTERN DOTS-125",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10260,
+    "char": "⠔",
+    "name": "BRAILLE PATTERN DOTS-35",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10261,
+    "char": "⠕",
+    "name": "BRAILLE PATTERN DOTS-135",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10262,
+    "char": "⠖",
+    "name": "BRAILLE PATTERN DOTS-235",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10263,
+    "char": "⠗",
+    "name": "BRAILLE PATTERN DOTS-1235",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10264,
+    "char": "⠘",
+    "name": "BRAILLE PATTERN DOTS-45",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10265,
+    "char": "⠙",
+    "name": "BRAILLE PATTERN DOTS-145",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10266,
+    "char": "⠚",
+    "name": "BRAILLE PATTERN DOTS-245",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10267,
+    "char": "⠛",
+    "name": "BRAILLE PATTERN DOTS-1245",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10268,
+    "char": "⠜",
+    "name": "BRAILLE PATTERN DOTS-345",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10269,
+    "char": "⠝",
+    "name": "BRAILLE PATTERN DOTS-1345",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10270,
+    "char": "⠞",
+    "name": "BRAILLE PATTERN DOTS-2345",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10271,
+    "char": "⠟",
+    "name": "BRAILLE PATTERN DOTS-12345",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10272,
+    "char": "⠠",
+    "name": "BRAILLE PATTERN DOTS-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10273,
+    "char": "⠡",
+    "name": "BRAILLE PATTERN DOTS-16",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10274,
+    "char": "⠢",
+    "name": "BRAILLE PATTERN DOTS-26",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10275,
+    "char": "⠣",
+    "name": "BRAILLE PATTERN DOTS-126",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10276,
+    "char": "⠤",
+    "name": "BRAILLE PATTERN DOTS-36",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10277,
+    "char": "⠥",
+    "name": "BRAILLE PATTERN DOTS-136",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10278,
+    "char": "⠦",
+    "name": "BRAILLE PATTERN DOTS-236",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10279,
+    "char": "⠧",
+    "name": "BRAILLE PATTERN DOTS-1236",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10280,
+    "char": "⠨",
+    "name": "BRAILLE PATTERN DOTS-46",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10281,
+    "char": "⠩",
+    "name": "BRAILLE PATTERN DOTS-146",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10282,
+    "char": "⠪",
+    "name": "BRAILLE PATTERN DOTS-246",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10283,
+    "char": "⠫",
+    "name": "BRAILLE PATTERN DOTS-1246",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10284,
+    "char": "⠬",
+    "name": "BRAILLE PATTERN DOTS-346",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10285,
+    "char": "⠭",
+    "name": "BRAILLE PATTERN DOTS-1346",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10286,
+    "char": "⠮",
+    "name": "BRAILLE PATTERN DOTS-2346",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10287,
+    "char": "⠯",
+    "name": "BRAILLE PATTERN DOTS-12346",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10288,
+    "char": "⠰",
+    "name": "BRAILLE PATTERN DOTS-56",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10289,
+    "char": "⠱",
+    "name": "BRAILLE PATTERN DOTS-156",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10290,
+    "char": "⠲",
+    "name": "BRAILLE PATTERN DOTS-256",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10291,
+    "char": "⠳",
+    "name": "BRAILLE PATTERN DOTS-1256",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10292,
+    "char": "⠴",
+    "name": "BRAILLE PATTERN DOTS-356",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10293,
+    "char": "⠵",
+    "name": "BRAILLE PATTERN DOTS-1356",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10294,
+    "char": "⠶",
+    "name": "BRAILLE PATTERN DOTS-2356",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10295,
+    "char": "⠷",
+    "name": "BRAILLE PATTERN DOTS-12356",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10296,
+    "char": "⠸",
+    "name": "BRAILLE PATTERN DOTS-456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10297,
+    "char": "⠹",
+    "name": "BRAILLE PATTERN DOTS-1456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10298,
+    "char": "⠺",
+    "name": "BRAILLE PATTERN DOTS-2456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10299,
+    "char": "⠻",
+    "name": "BRAILLE PATTERN DOTS-12456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10300,
+    "char": "⠼",
+    "name": "BRAILLE PATTERN DOTS-3456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10301,
+    "char": "⠽",
+    "name": "BRAILLE PATTERN DOTS-13456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10302,
+    "char": "⠾",
+    "name": "BRAILLE PATTERN DOTS-23456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10303,
+    "char": "⠿",
+    "name": "BRAILLE PATTERN DOTS-123456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10304,
+    "char": "⡀",
+    "name": "BRAILLE PATTERN DOTS-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10305,
+    "char": "⡁",
+    "name": "BRAILLE PATTERN DOTS-17",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10306,
+    "char": "⡂",
+    "name": "BRAILLE PATTERN DOTS-27",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10307,
+    "char": "⡃",
+    "name": "BRAILLE PATTERN DOTS-127",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10308,
+    "char": "⡄",
+    "name": "BRAILLE PATTERN DOTS-37",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10309,
+    "char": "⡅",
+    "name": "BRAILLE PATTERN DOTS-137",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10310,
+    "char": "⡆",
+    "name": "BRAILLE PATTERN DOTS-237",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10311,
+    "char": "⡇",
+    "name": "BRAILLE PATTERN DOTS-1237",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10312,
+    "char": "⡈",
+    "name": "BRAILLE PATTERN DOTS-47",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10313,
+    "char": "⡉",
+    "name": "BRAILLE PATTERN DOTS-147",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10314,
+    "char": "⡊",
+    "name": "BRAILLE PATTERN DOTS-247",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10315,
+    "char": "⡋",
+    "name": "BRAILLE PATTERN DOTS-1247",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10316,
+    "char": "⡌",
+    "name": "BRAILLE PATTERN DOTS-347",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10317,
+    "char": "⡍",
+    "name": "BRAILLE PATTERN DOTS-1347",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10318,
+    "char": "⡎",
+    "name": "BRAILLE PATTERN DOTS-2347",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10319,
+    "char": "⡏",
+    "name": "BRAILLE PATTERN DOTS-12347",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10320,
+    "char": "⡐",
+    "name": "BRAILLE PATTERN DOTS-57",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10321,
+    "char": "⡑",
+    "name": "BRAILLE PATTERN DOTS-157",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10322,
+    "char": "⡒",
+    "name": "BRAILLE PATTERN DOTS-257",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10323,
+    "char": "⡓",
+    "name": "BRAILLE PATTERN DOTS-1257",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10324,
+    "char": "⡔",
+    "name": "BRAILLE PATTERN DOTS-357",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10325,
+    "char": "⡕",
+    "name": "BRAILLE PATTERN DOTS-1357",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10326,
+    "char": "⡖",
+    "name": "BRAILLE PATTERN DOTS-2357",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10327,
+    "char": "⡗",
+    "name": "BRAILLE PATTERN DOTS-12357",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10328,
+    "char": "⡘",
+    "name": "BRAILLE PATTERN DOTS-457",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10329,
+    "char": "⡙",
+    "name": "BRAILLE PATTERN DOTS-1457",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10330,
+    "char": "⡚",
+    "name": "BRAILLE PATTERN DOTS-2457",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10331,
+    "char": "⡛",
+    "name": "BRAILLE PATTERN DOTS-12457",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10332,
+    "char": "⡜",
+    "name": "BRAILLE PATTERN DOTS-3457",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10333,
+    "char": "⡝",
+    "name": "BRAILLE PATTERN DOTS-13457",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10334,
+    "char": "⡞",
+    "name": "BRAILLE PATTERN DOTS-23457",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10335,
+    "char": "⡟",
+    "name": "BRAILLE PATTERN DOTS-123457",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10336,
+    "char": "⡠",
+    "name": "BRAILLE PATTERN DOTS-67",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10337,
+    "char": "⡡",
+    "name": "BRAILLE PATTERN DOTS-167",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10338,
+    "char": "⡢",
+    "name": "BRAILLE PATTERN DOTS-267",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10339,
+    "char": "⡣",
+    "name": "BRAILLE PATTERN DOTS-1267",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10340,
+    "char": "⡤",
+    "name": "BRAILLE PATTERN DOTS-367",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10341,
+    "char": "⡥",
+    "name": "BRAILLE PATTERN DOTS-1367",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10342,
+    "char": "⡦",
+    "name": "BRAILLE PATTERN DOTS-2367",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10343,
+    "char": "⡧",
+    "name": "BRAILLE PATTERN DOTS-12367",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10344,
+    "char": "⡨",
+    "name": "BRAILLE PATTERN DOTS-467",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10345,
+    "char": "⡩",
+    "name": "BRAILLE PATTERN DOTS-1467",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10346,
+    "char": "⡪",
+    "name": "BRAILLE PATTERN DOTS-2467",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10347,
+    "char": "⡫",
+    "name": "BRAILLE PATTERN DOTS-12467",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10348,
+    "char": "⡬",
+    "name": "BRAILLE PATTERN DOTS-3467",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10349,
+    "char": "⡭",
+    "name": "BRAILLE PATTERN DOTS-13467",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10350,
+    "char": "⡮",
+    "name": "BRAILLE PATTERN DOTS-23467",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10351,
+    "char": "⡯",
+    "name": "BRAILLE PATTERN DOTS-123467",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10352,
+    "char": "⡰",
+    "name": "BRAILLE PATTERN DOTS-567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10353,
+    "char": "⡱",
+    "name": "BRAILLE PATTERN DOTS-1567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10354,
+    "char": "⡲",
+    "name": "BRAILLE PATTERN DOTS-2567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10355,
+    "char": "⡳",
+    "name": "BRAILLE PATTERN DOTS-12567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10356,
+    "char": "⡴",
+    "name": "BRAILLE PATTERN DOTS-3567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10357,
+    "char": "⡵",
+    "name": "BRAILLE PATTERN DOTS-13567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10358,
+    "char": "⡶",
+    "name": "BRAILLE PATTERN DOTS-23567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10359,
+    "char": "⡷",
+    "name": "BRAILLE PATTERN DOTS-123567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10360,
+    "char": "⡸",
+    "name": "BRAILLE PATTERN DOTS-4567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10361,
+    "char": "⡹",
+    "name": "BRAILLE PATTERN DOTS-14567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10362,
+    "char": "⡺",
+    "name": "BRAILLE PATTERN DOTS-24567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10363,
+    "char": "⡻",
+    "name": "BRAILLE PATTERN DOTS-124567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10364,
+    "char": "⡼",
+    "name": "BRAILLE PATTERN DOTS-34567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10365,
+    "char": "⡽",
+    "name": "BRAILLE PATTERN DOTS-134567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10366,
+    "char": "⡾",
+    "name": "BRAILLE PATTERN DOTS-234567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10367,
+    "char": "⡿",
+    "name": "BRAILLE PATTERN DOTS-1234567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10368,
+    "char": "⢀",
+    "name": "BRAILLE PATTERN DOTS-8",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10369,
+    "char": "⢁",
+    "name": "BRAILLE PATTERN DOTS-18",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10370,
+    "char": "⢂",
+    "name": "BRAILLE PATTERN DOTS-28",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10371,
+    "char": "⢃",
+    "name": "BRAILLE PATTERN DOTS-128",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10372,
+    "char": "⢄",
+    "name": "BRAILLE PATTERN DOTS-38",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10373,
+    "char": "⢅",
+    "name": "BRAILLE PATTERN DOTS-138",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10374,
+    "char": "⢆",
+    "name": "BRAILLE PATTERN DOTS-238",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10375,
+    "char": "⢇",
+    "name": "BRAILLE PATTERN DOTS-1238",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10376,
+    "char": "⢈",
+    "name": "BRAILLE PATTERN DOTS-48",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10377,
+    "char": "⢉",
+    "name": "BRAILLE PATTERN DOTS-148",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10378,
+    "char": "⢊",
+    "name": "BRAILLE PATTERN DOTS-248",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10379,
+    "char": "⢋",
+    "name": "BRAILLE PATTERN DOTS-1248",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10380,
+    "char": "⢌",
+    "name": "BRAILLE PATTERN DOTS-348",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10381,
+    "char": "⢍",
+    "name": "BRAILLE PATTERN DOTS-1348",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10382,
+    "char": "⢎",
+    "name": "BRAILLE PATTERN DOTS-2348",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10383,
+    "char": "⢏",
+    "name": "BRAILLE PATTERN DOTS-12348",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10384,
+    "char": "⢐",
+    "name": "BRAILLE PATTERN DOTS-58",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10385,
+    "char": "⢑",
+    "name": "BRAILLE PATTERN DOTS-158",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10386,
+    "char": "⢒",
+    "name": "BRAILLE PATTERN DOTS-258",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10387,
+    "char": "⢓",
+    "name": "BRAILLE PATTERN DOTS-1258",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10388,
+    "char": "⢔",
+    "name": "BRAILLE PATTERN DOTS-358",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10389,
+    "char": "⢕",
+    "name": "BRAILLE PATTERN DOTS-1358",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10390,
+    "char": "⢖",
+    "name": "BRAILLE PATTERN DOTS-2358",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10391,
+    "char": "⢗",
+    "name": "BRAILLE PATTERN DOTS-12358",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10392,
+    "char": "⢘",
+    "name": "BRAILLE PATTERN DOTS-458",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10393,
+    "char": "⢙",
+    "name": "BRAILLE PATTERN DOTS-1458",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10394,
+    "char": "⢚",
+    "name": "BRAILLE PATTERN DOTS-2458",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10395,
+    "char": "⢛",
+    "name": "BRAILLE PATTERN DOTS-12458",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10396,
+    "char": "⢜",
+    "name": "BRAILLE PATTERN DOTS-3458",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10397,
+    "char": "⢝",
+    "name": "BRAILLE PATTERN DOTS-13458",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10398,
+    "char": "⢞",
+    "name": "BRAILLE PATTERN DOTS-23458",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10399,
+    "char": "⢟",
+    "name": "BRAILLE PATTERN DOTS-123458",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10400,
+    "char": "⢠",
+    "name": "BRAILLE PATTERN DOTS-68",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10401,
+    "char": "⢡",
+    "name": "BRAILLE PATTERN DOTS-168",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10402,
+    "char": "⢢",
+    "name": "BRAILLE PATTERN DOTS-268",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10403,
+    "char": "⢣",
+    "name": "BRAILLE PATTERN DOTS-1268",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10404,
+    "char": "⢤",
+    "name": "BRAILLE PATTERN DOTS-368",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10405,
+    "char": "⢥",
+    "name": "BRAILLE PATTERN DOTS-1368",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10406,
+    "char": "⢦",
+    "name": "BRAILLE PATTERN DOTS-2368",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10407,
+    "char": "⢧",
+    "name": "BRAILLE PATTERN DOTS-12368",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10408,
+    "char": "⢨",
+    "name": "BRAILLE PATTERN DOTS-468",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10409,
+    "char": "⢩",
+    "name": "BRAILLE PATTERN DOTS-1468",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10410,
+    "char": "⢪",
+    "name": "BRAILLE PATTERN DOTS-2468",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10411,
+    "char": "⢫",
+    "name": "BRAILLE PATTERN DOTS-12468",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10412,
+    "char": "⢬",
+    "name": "BRAILLE PATTERN DOTS-3468",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10413,
+    "char": "⢭",
+    "name": "BRAILLE PATTERN DOTS-13468",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10414,
+    "char": "⢮",
+    "name": "BRAILLE PATTERN DOTS-23468",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10415,
+    "char": "⢯",
+    "name": "BRAILLE PATTERN DOTS-123468",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10416,
+    "char": "⢰",
+    "name": "BRAILLE PATTERN DOTS-568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10417,
+    "char": "⢱",
+    "name": "BRAILLE PATTERN DOTS-1568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10418,
+    "char": "⢲",
+    "name": "BRAILLE PATTERN DOTS-2568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10419,
+    "char": "⢳",
+    "name": "BRAILLE PATTERN DOTS-12568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10420,
+    "char": "⢴",
+    "name": "BRAILLE PATTERN DOTS-3568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10421,
+    "char": "⢵",
+    "name": "BRAILLE PATTERN DOTS-13568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10422,
+    "char": "⢶",
+    "name": "BRAILLE PATTERN DOTS-23568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10423,
+    "char": "⢷",
+    "name": "BRAILLE PATTERN DOTS-123568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10424,
+    "char": "⢸",
+    "name": "BRAILLE PATTERN DOTS-4568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10425,
+    "char": "⢹",
+    "name": "BRAILLE PATTERN DOTS-14568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10426,
+    "char": "⢺",
+    "name": "BRAILLE PATTERN DOTS-24568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10427,
+    "char": "⢻",
+    "name": "BRAILLE PATTERN DOTS-124568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10428,
+    "char": "⢼",
+    "name": "BRAILLE PATTERN DOTS-34568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10429,
+    "char": "⢽",
+    "name": "BRAILLE PATTERN DOTS-134568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10430,
+    "char": "⢾",
+    "name": "BRAILLE PATTERN DOTS-234568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10431,
+    "char": "⢿",
+    "name": "BRAILLE PATTERN DOTS-1234568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10432,
+    "char": "⣀",
+    "name": "BRAILLE PATTERN DOTS-78",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10433,
+    "char": "⣁",
+    "name": "BRAILLE PATTERN DOTS-178",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10434,
+    "char": "⣂",
+    "name": "BRAILLE PATTERN DOTS-278",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10435,
+    "char": "⣃",
+    "name": "BRAILLE PATTERN DOTS-1278",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10436,
+    "char": "⣄",
+    "name": "BRAILLE PATTERN DOTS-378",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10437,
+    "char": "⣅",
+    "name": "BRAILLE PATTERN DOTS-1378",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10438,
+    "char": "⣆",
+    "name": "BRAILLE PATTERN DOTS-2378",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10439,
+    "char": "⣇",
+    "name": "BRAILLE PATTERN DOTS-12378",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10440,
+    "char": "⣈",
+    "name": "BRAILLE PATTERN DOTS-478",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10441,
+    "char": "⣉",
+    "name": "BRAILLE PATTERN DOTS-1478",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10442,
+    "char": "⣊",
+    "name": "BRAILLE PATTERN DOTS-2478",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10443,
+    "char": "⣋",
+    "name": "BRAILLE PATTERN DOTS-12478",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10444,
+    "char": "⣌",
+    "name": "BRAILLE PATTERN DOTS-3478",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10445,
+    "char": "⣍",
+    "name": "BRAILLE PATTERN DOTS-13478",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10446,
+    "char": "⣎",
+    "name": "BRAILLE PATTERN DOTS-23478",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10447,
+    "char": "⣏",
+    "name": "BRAILLE PATTERN DOTS-123478",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10448,
+    "char": "⣐",
+    "name": "BRAILLE PATTERN DOTS-578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10449,
+    "char": "⣑",
+    "name": "BRAILLE PATTERN DOTS-1578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10450,
+    "char": "⣒",
+    "name": "BRAILLE PATTERN DOTS-2578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10451,
+    "char": "⣓",
+    "name": "BRAILLE PATTERN DOTS-12578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10452,
+    "char": "⣔",
+    "name": "BRAILLE PATTERN DOTS-3578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10453,
+    "char": "⣕",
+    "name": "BRAILLE PATTERN DOTS-13578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10454,
+    "char": "⣖",
+    "name": "BRAILLE PATTERN DOTS-23578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10455,
+    "char": "⣗",
+    "name": "BRAILLE PATTERN DOTS-123578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10456,
+    "char": "⣘",
+    "name": "BRAILLE PATTERN DOTS-4578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10457,
+    "char": "⣙",
+    "name": "BRAILLE PATTERN DOTS-14578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10458,
+    "char": "⣚",
+    "name": "BRAILLE PATTERN DOTS-24578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10459,
+    "char": "⣛",
+    "name": "BRAILLE PATTERN DOTS-124578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10460,
+    "char": "⣜",
+    "name": "BRAILLE PATTERN DOTS-34578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10461,
+    "char": "⣝",
+    "name": "BRAILLE PATTERN DOTS-134578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10462,
+    "char": "⣞",
+    "name": "BRAILLE PATTERN DOTS-234578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10463,
+    "char": "⣟",
+    "name": "BRAILLE PATTERN DOTS-1234578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10464,
+    "char": "⣠",
+    "name": "BRAILLE PATTERN DOTS-678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10465,
+    "char": "⣡",
+    "name": "BRAILLE PATTERN DOTS-1678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10466,
+    "char": "⣢",
+    "name": "BRAILLE PATTERN DOTS-2678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10467,
+    "char": "⣣",
+    "name": "BRAILLE PATTERN DOTS-12678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10468,
+    "char": "⣤",
+    "name": "BRAILLE PATTERN DOTS-3678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10469,
+    "char": "⣥",
+    "name": "BRAILLE PATTERN DOTS-13678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10470,
+    "char": "⣦",
+    "name": "BRAILLE PATTERN DOTS-23678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10471,
+    "char": "⣧",
+    "name": "BRAILLE PATTERN DOTS-123678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10472,
+    "char": "⣨",
+    "name": "BRAILLE PATTERN DOTS-4678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10473,
+    "char": "⣩",
+    "name": "BRAILLE PATTERN DOTS-14678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10474,
+    "char": "⣪",
+    "name": "BRAILLE PATTERN DOTS-24678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10475,
+    "char": "⣫",
+    "name": "BRAILLE PATTERN DOTS-124678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10476,
+    "char": "⣬",
+    "name": "BRAILLE PATTERN DOTS-34678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10477,
+    "char": "⣭",
+    "name": "BRAILLE PATTERN DOTS-134678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10478,
+    "char": "⣮",
+    "name": "BRAILLE PATTERN DOTS-234678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10479,
+    "char": "⣯",
+    "name": "BRAILLE PATTERN DOTS-1234678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10480,
+    "char": "⣰",
+    "name": "BRAILLE PATTERN DOTS-5678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10481,
+    "char": "⣱",
+    "name": "BRAILLE PATTERN DOTS-15678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10482,
+    "char": "⣲",
+    "name": "BRAILLE PATTERN DOTS-25678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10483,
+    "char": "⣳",
+    "name": "BRAILLE PATTERN DOTS-125678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10484,
+    "char": "⣴",
+    "name": "BRAILLE PATTERN DOTS-35678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10485,
+    "char": "⣵",
+    "name": "BRAILLE PATTERN DOTS-135678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10486,
+    "char": "⣶",
+    "name": "BRAILLE PATTERN DOTS-235678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10487,
+    "char": "⣷",
+    "name": "BRAILLE PATTERN DOTS-1235678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10488,
+    "char": "⣸",
+    "name": "BRAILLE PATTERN DOTS-45678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10489,
+    "char": "⣹",
+    "name": "BRAILLE PATTERN DOTS-145678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10490,
+    "char": "⣺",
+    "name": "BRAILLE PATTERN DOTS-245678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10491,
+    "char": "⣻",
+    "name": "BRAILLE PATTERN DOTS-1245678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10492,
+    "char": "⣼",
+    "name": "BRAILLE PATTERN DOTS-345678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10493,
+    "char": "⣽",
+    "name": "BRAILLE PATTERN DOTS-1345678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10494,
+    "char": "⣾",
+    "name": "BRAILLE PATTERN DOTS-2345678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10495,
+    "char": "⣿",
+    "name": "BRAILLE PATTERN DOTS-12345678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

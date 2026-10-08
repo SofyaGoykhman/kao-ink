@@ -1,0 +1,991 @@
+[
+  {
+    "cp": 9632,
+    "char": "■",
+    "name": "BLACK SQUARE",
+    "ru": "закрашенный квадрат",
+    "en": "filled square",
+    "keywords": { "ru": ["закрашенный квадрат"], "en": ["filled", "square"] }
+  },
+  {
+    "cp": 9633,
+    "char": "□",
+    "name": "WHITE SQUARE",
+    "ru": "полый квадрат",
+    "en": "hollow square",
+    "keywords": { "ru": ["полый квадрат"], "en": ["hollow", "square"] }
+  },
+  {
+    "cp": 9634,
+    "char": "▢",
+    "name": "WHITE SQUARE WITH ROUNDED CORNERS",
+    "ru": "полый квадрат с закругленными углами",
+    "en": "hollow square with rounded corners",
+    "keywords": {
+      "ru": ["полый квадрат с закругленными углами"],
+      "en": ["corners", "hollow", "rounded", "square", "with"]
+    }
+  },
+  {
+    "cp": 9635,
+    "char": "▣",
+    "name": "WHITE SQUARE CONTAINING BLACK SMALL SQUARE",
+    "ru": "закрашенный квадрат внутри полого квадрата",
+    "en": "hollow square containing filled square",
+    "keywords": {
+      "ru": ["закрашенный квадрат внутри полого квадрата"],
+      "en": ["containing", "filled", "hollow", "square"]
+    }
+  },
+  {
+    "cp": 9636,
+    "char": "▤",
+    "name": "SQUARE WITH HORIZONTAL FILL",
+    "ru": "квадрат с горизонтальной штриховкой",
+    "en": "square with horizontal fill",
+    "keywords": {
+      "ru": ["квадрат с горизонтальной штриховкой"],
+      "en": ["fill", "horizontal", "square", "with"]
+    }
+  },
+  {
+    "cp": 9637,
+    "char": "▥",
+    "name": "SQUARE WITH VERTICAL FILL",
+    "ru": "квадрат с вертикальной штриховкой",
+    "en": "square with vertical fill",
+    "keywords": {
+      "ru": ["квадрат с вертикальной штриховкой"],
+      "en": ["fill", "square", "vertical", "with"]
+    }
+  },
+  {
+    "cp": 9638,
+    "char": "▦",
+    "name": "SQUARE WITH ORTHOGONAL CROSSHATCH FILL",
+    "ru": "квадрат с ортогональной перекрестной штриховкой",
+    "en": "square orthogonal crosshatch fill",
+    "keywords": {
+      "ru": ["квадрат с ортогональной перекрестной штриховкой"],
+      "en": ["crosshatch", "fill", "orthogonal", "square"]
+    }
+  },
+  {
+    "cp": 9639,
+    "char": "▧",
+    "name": "SQUARE WITH UPPER LEFT TO LOWER RIGHT FILL",
+    "ru": "квадрат с диагональной штриховкой слева направо",
+    "en": "square upper left lower right fill",
+    "keywords": {
+      "ru": ["квадрат с диагональной штриховкой слева направо"],
+      "en": ["fill", "left", "lower", "right", "square", "upper"]
+    }
+  },
+  {
+    "cp": 9640,
+    "char": "▨",
+    "name": "SQUARE WITH UPPER RIGHT TO LOWER LEFT FILL",
+    "ru": "квадрат с диагональной штриховкой справа налево",
+    "en": "square upper right lower left fill",
+    "keywords": {
+      "ru": ["квадрат с диагональной штриховкой справа налево"],
+      "en": ["fill", "left", "lower", "right", "square", "upper"]
+    }
+  },
+  {
+    "cp": 9641,
+    "char": "▩",
+    "name": "SQUARE WITH DIAGONAL CROSSHATCH FILL",
+    "ru": "квадрат с диагональной перекрестной штриховкой",
+    "en": "square diagonal crosshatch fill",
+    "keywords": {
+      "ru": ["квадрат с диагональной перекрестной штриховкой"],
+      "en": ["crosshatch", "diagonal", "fill", "square"]
+    }
+  },
+  {
+    "cp": 9642,
+    "char": "▪",
+    "name": "BLACK SMALL SQUARE",
+    "ru": "черный квадратик",
+    "en": "black small square",
+    "keywords": {
+      "ru": ["геометрия", "квадрат", "квадратик", "маленький", "фигура", "черный"],
+      "en": ["black", "geometric", "small", "square"]
+    }
+  },
+  {
+    "cp": 9643,
+    "char": "▫",
+    "name": "WHITE SMALL SQUARE",
+    "ru": "белый квадратик",
+    "en": "white small square",
+    "keywords": {
+      "ru": ["белый", "геометрия", "квадрат", "квадратик", "маленький", "фигура"],
+      "en": ["geometric", "small", "square", "white"]
+    }
+  },
+  {
+    "cp": 9644,
+    "char": "▬",
+    "name": "BLACK RECTANGLE",
+    "ru": "закрашенный прямоугольник",
+    "en": "filled rectangle",
+    "keywords": {
+      "ru": ["закрашенный прямоугольник", "прямоугольник"],
+      "en": ["filled", "rectangle"]
+    }
+  },
+  {
+    "cp": 9645,
+    "char": "▭",
+    "name": "WHITE RECTANGLE",
+    "ru": "полый прямоугольник",
+    "en": "hollow rectangle",
+    "keywords": { "ru": ["полый прямоугольник"], "en": ["hollow", "rectangle"] }
+  },
+  {
+    "cp": 9646,
+    "char": "▮",
+    "name": "BLACK VERTICAL RECTANGLE",
+    "ru": "закрашенный вертикальный прямоугольник",
+    "en": "filled vertical rectangle",
+    "keywords": {
+      "ru": ["закрашенный вертикальный прямоугольник"],
+      "en": ["filled", "rectangle", "vertical"]
+    }
+  },
+  {
+    "cp": 9647,
+    "char": "▯",
+    "name": "WHITE VERTICAL RECTANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9648,
+    "char": "▰",
+    "name": "BLACK PARALLELOGRAM",
+    "ru": "закрашенный параллелограмм",
+    "en": "filled parallelogram",
+    "keywords": { "ru": ["закрашенный параллелограмм"], "en": ["filled", "parallelogram"] }
+  },
+  {
+    "cp": 9649,
+    "char": "▱",
+    "name": "WHITE PARALLELOGRAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9650,
+    "char": "▲",
+    "name": "BLACK UP-POINTING TRIANGLE",
+    "ru": "закрашенный треугольник вершиной вверх",
+    "en": "filled up-pointing triangle",
+    "keywords": {
+      "ru": [
+        "вверх",
+        "закрашенный",
+        "закрашенный треугольник вершиной вверх",
+        "стрелка",
+        "треугольник"
+      ],
+      "en": ["arrow", "filled", "triangle", "up", "up-pointing"]
+    }
+  },
+  {
+    "cp": 9651,
+    "char": "△",
+    "name": "WHITE UP-POINTING TRIANGLE",
+    "ru": "полый треугольник вершиной вверх",
+    "en": "hollow up-pointing triangle",
+    "keywords": {
+      "ru": ["полый треугольник вершиной вверх"],
+      "en": ["hollow", "triangle", "up-pointing"]
+    }
+  },
+  {
+    "cp": 9652,
+    "char": "▴",
+    "name": "BLACK UP-POINTING SMALL TRIANGLE",
+    "ru": "небольшой закрашенный треугольник вершиной вверх",
+    "en": "filled up-pointing small triangle",
+    "keywords": {
+      "ru": ["небольшой закрашенный треугольник вершиной вверх"],
+      "en": ["filled", "small", "triangle", "up-pointing"]
+    }
+  },
+  {
+    "cp": 9653,
+    "char": "▵",
+    "name": "WHITE UP-POINTING SMALL TRIANGLE",
+    "ru": "небольшой полый треугольник вершиной вверх",
+    "en": "hollow up-pointing small triangle",
+    "keywords": {
+      "ru": ["небольшой полый треугольник вершиной вверх"],
+      "en": ["hollow", "small", "triangle", "up-pointing"]
+    }
+  },
+  {
+    "cp": 9654,
+    "char": "▶",
+    "name": "BLACK RIGHT-POINTING TRIANGLE",
+    "ru": "воспроизведение",
+    "en": "play button",
+    "keywords": {
+      "ru": [
+        "воспроизведение",
+        "вперед",
+        "вправо",
+        "геометрия",
+        "кнопка",
+        "перемотать",
+        "перемотка",
+        "проигрывание",
+        "треугольник",
+        "фигура"
+      ],
+      "en": ["arrow", "button", "play", "right", "triangle"]
+    }
+  },
+  {
+    "cp": 9655,
+    "char": "▷",
+    "name": "WHITE RIGHT-POINTING TRIANGLE",
+    "ru": "полый треугольник вершиной вправо",
+    "en": "hollow right-pointing triangle",
+    "keywords": {
+      "ru": ["полый треугольник вершиной вправо"],
+      "en": ["hollow", "right-pointing", "triangle"]
+    }
+  },
+  {
+    "cp": 9656,
+    "char": "▸",
+    "name": "BLACK RIGHT-POINTING SMALL TRIANGLE",
+    "ru": "небольшой закрашенный треугольник вершиной вправо",
+    "en": "filled right-pointing small triangle",
+    "keywords": {
+      "ru": ["небольшой закрашенный треугольник вершиной вправо"],
+      "en": ["filled", "right-pointing", "small", "triangle"]
+    }
+  },
+  {
+    "cp": 9657,
+    "char": "▹",
+    "name": "WHITE RIGHT-POINTING SMALL TRIANGLE",
+    "ru": "небольшой полый треугольник вершиной вправо",
+    "en": "hollow right-pointing small triangle",
+    "keywords": {
+      "ru": ["небольшой полый треугольник вершиной вправо"],
+      "en": ["hollow", "right-pointing", "small", "triangle"]
+    }
+  },
+  {
+    "cp": 9658,
+    "char": "►",
+    "name": "BLACK RIGHT-POINTING POINTER",
+    "ru": "закрашенный указатель вправо",
+    "en": "filled right-pointing pointer",
+    "keywords": {
+      "ru": ["закрашенный указатель вправо"],
+      "en": ["filled", "pointer", "right-pointing"]
+    }
+  },
+  {
+    "cp": 9659,
+    "char": "▻",
+    "name": "WHITE RIGHT-POINTING POINTER",
+    "ru": "полый указатель вправо",
+    "en": "hollow right-pointing pointer",
+    "keywords": { "ru": ["полый указатель вправо"], "en": ["hollow", "pointer", "right-pointing"] }
+  },
+  {
+    "cp": 9660,
+    "char": "▼",
+    "name": "BLACK DOWN-POINTING TRIANGLE",
+    "ru": "закрашенный треугольник вершиной вниз",
+    "en": "filled down-pointing triangle",
+    "keywords": {
+      "ru": [
+        "вниз",
+        "закрашенный",
+        "закрашенный треугольник вершиной вниз",
+        "стрелка",
+        "треугольник"
+      ],
+      "en": ["arrow", "down", "down-pointing", "filled", "triangle"]
+    }
+  },
+  {
+    "cp": 9661,
+    "char": "▽",
+    "name": "WHITE DOWN-POINTING TRIANGLE",
+    "ru": "полый треугольник вершиной вниз",
+    "en": "hollow down-pointing triangle",
+    "keywords": {
+      "ru": ["полый треугольник вершиной вниз"],
+      "en": ["down-pointing", "hollow", "triangle"]
+    }
+  },
+  {
+    "cp": 9662,
+    "char": "▾",
+    "name": "BLACK DOWN-POINTING SMALL TRIANGLE",
+    "ru": "небольшой закрашенный треугольник вершиной вниз",
+    "en": "filled down-pointing small triangle",
+    "keywords": {
+      "ru": ["небольшой закрашенный треугольник вершиной вниз"],
+      "en": ["down-pointing", "filled", "small", "triangle"]
+    }
+  },
+  {
+    "cp": 9663,
+    "char": "▿",
+    "name": "WHITE DOWN-POINTING SMALL TRIANGLE",
+    "ru": "небольшой полый треугольник вершиной вниз",
+    "en": "hollow down-pointing small triangle",
+    "keywords": {
+      "ru": ["небольшой полый треугольник вершиной вниз"],
+      "en": ["down-pointing", "hollow", "small", "triangle"]
+    }
+  },
+  {
+    "cp": 9664,
+    "char": "◀",
+    "name": "BLACK LEFT-POINTING TRIANGLE",
+    "ru": "реверс",
+    "en": "reverse button",
+    "keywords": {
+      "ru": ["влево", "кнопка", "назад", "обратный", "реверс", "стрелка"],
+      "en": ["arrow", "button", "left", "reverse", "triangle"]
+    }
+  },
+  {
+    "cp": 9665,
+    "char": "◁",
+    "name": "WHITE LEFT-POINTING TRIANGLE",
+    "ru": "полый треугольник вершиной влево",
+    "en": "hollow left-pointing triangle",
+    "keywords": {
+      "ru": ["полый треугольник вершиной влево"],
+      "en": ["hollow", "left-pointing", "triangle"]
+    }
+  },
+  {
+    "cp": 9666,
+    "char": "◂",
+    "name": "BLACK LEFT-POINTING SMALL TRIANGLE",
+    "ru": "небольшой закрашенный треугольник вершиной влево",
+    "en": "filled left-pointing small triangle",
+    "keywords": {
+      "ru": ["небольшой закрашенный треугольник вершиной влево"],
+      "en": ["filled", "left-pointing", "small", "triangle"]
+    }
+  },
+  {
+    "cp": 9667,
+    "char": "◃",
+    "name": "WHITE LEFT-POINTING SMALL TRIANGLE",
+    "ru": "небольшой полый треугольник вершиной влево",
+    "en": "hollow left-pointing small triangle",
+    "keywords": {
+      "ru": ["небольшой полый треугольник вершиной влево"],
+      "en": ["hollow", "left-pointing", "small", "triangle"]
+    }
+  },
+  {
+    "cp": 9668,
+    "char": "◄",
+    "name": "BLACK LEFT-POINTING POINTER",
+    "ru": "закрашенный указатель влево",
+    "en": "filled left-pointing pointer",
+    "keywords": {
+      "ru": ["закрашенный указатель влево"],
+      "en": ["filled", "left-pointing", "pointer"]
+    }
+  },
+  {
+    "cp": 9669,
+    "char": "◅",
+    "name": "WHITE LEFT-POINTING POINTER",
+    "ru": "полый указатель влево",
+    "en": "hollow left-pointing pointer",
+    "keywords": { "ru": ["полый указатель влево"], "en": ["hollow", "left-pointing", "pointer"] }
+  },
+  {
+    "cp": 9670,
+    "char": "◆",
+    "name": "BLACK DIAMOND",
+    "ru": "закрашенный ромб",
+    "en": "filled diamond",
+    "keywords": { "ru": ["закрашенный ромб"], "en": ["diamond", "filled"] }
+  },
+  {
+    "cp": 9671,
+    "char": "◇",
+    "name": "WHITE DIAMOND",
+    "ru": "полый ромб",
+    "en": "hollow diamond",
+    "keywords": { "ru": ["полый ромб"], "en": ["diamond", "hollow"] }
+  },
+  {
+    "cp": 9672,
+    "char": "◈",
+    "name": "WHITE DIAMOND CONTAINING BLACK SMALL DIAMOND",
+    "ru": "закрашенный ромб внутри полого ромба",
+    "en": "hollow diamond containing filled diamond",
+    "keywords": {
+      "ru": ["закрашенный ромб внутри полого ромба"],
+      "en": ["containing", "diamond", "filled", "hollow"]
+    }
+  },
+  {
+    "cp": 9673,
+    "char": "◉",
+    "name": "FISHEYE",
+    "ru": "закрашенный круг внутри полого круга",
+    "en": "hollow circle containing filled circle",
+    "keywords": {
+      "ru": ["закрашенный круг внутри полого круга"],
+      "en": [
+        "cicles",
+        "circle",
+        "circled",
+        "concentric",
+        "containing",
+        "dot",
+        "filled",
+        "fisheye",
+        "hollow",
+        "ward"
+      ]
+    }
+  },
+  {
+    "cp": 9674,
+    "char": "◊",
+    "name": "LOZENGE",
+    "ru": "ромб",
+    "en": "lozenge",
+    "keywords": { "ru": ["бубны", "косоугольник", "ромб"], "en": ["diamond", "lozenge", "rhombus"] }
+  },
+  {
+    "cp": 9675,
+    "char": "○",
+    "name": "WHITE CIRCLE",
+    "ru": "незакрашенный круг",
+    "en": "hollow circle",
+    "keywords": {
+      "ru": ["круг", "незакрашенный круг", "полый", "пустой круг", "шар"],
+      "en": ["circle", "hollow", "ring"]
+    }
+  },
+  {
+    "cp": 9676,
+    "char": "◌",
+    "name": "DOTTED CIRCLE",
+    "ru": "пунктирный круг",
+    "en": "dotted circle",
+    "keywords": { "ru": ["пунктирный круг"], "en": ["circle", "dotted"] }
+  },
+  {
+    "cp": 9677,
+    "char": "◍",
+    "name": "CIRCLE WITH VERTICAL FILL",
+    "ru": "круг с вертикальной штриховкой",
+    "en": "circle with vertical fill",
+    "keywords": {
+      "ru": ["круг с вертикальной штриховкой"],
+      "en": ["circle", "fill", "vertical", "with"]
+    }
+  },
+  {
+    "cp": 9678,
+    "char": "◎",
+    "name": "BULLSEYE",
+    "ru": "концентрические круги",
+    "en": "concentric circles",
+    "keywords": {
+      "ru": ["двойной круг", "концентрические круги", "мишень"],
+      "en": ["circle", "circles", "concentric", "double", "target"]
+    }
+  },
+  {
+    "cp": 9679,
+    "char": "●",
+    "name": "BLACK CIRCLE",
+    "ru": "закрашенный круг",
+    "en": "filled circle",
+    "keywords": {
+      "ru": ["закрашенный круг", "заполненный круг", "круг", "шар"],
+      "en": ["circle", "filled"]
+    }
+  },
+  {
+    "cp": 9680,
+    "char": "◐",
+    "name": "CIRCLE WITH LEFT HALF BLACK",
+    "ru": "круг с закрашенной левой половиной",
+    "en": "circle left half filled",
+    "keywords": {
+      "ru": ["круг с закрашенной левой половиной"],
+      "en": ["circle", "filled", "half", "left"]
+    }
+  },
+  {
+    "cp": 9681,
+    "char": "◑",
+    "name": "CIRCLE WITH RIGHT HALF BLACK",
+    "ru": "круг с закрашенной правой половиной",
+    "en": "circle right half filled",
+    "keywords": {
+      "ru": ["круг с закрашенной правой половиной"],
+      "en": ["circle", "filled", "half", "right"]
+    }
+  },
+  {
+    "cp": 9682,
+    "char": "◒",
+    "name": "CIRCLE WITH LOWER HALF BLACK",
+    "ru": "круг с закрашенной нижней половиной",
+    "en": "circle lower half filled",
+    "keywords": {
+      "ru": ["круг с закрашенной нижней половиной"],
+      "en": ["circle", "filled", "half", "lower"]
+    }
+  },
+  {
+    "cp": 9683,
+    "char": "◓",
+    "name": "CIRCLE WITH UPPER HALF BLACK",
+    "ru": "круг с закрашенной верхней половиной",
+    "en": "circle upper half filled",
+    "keywords": {
+      "ru": ["круг с закрашенной верхней половиной"],
+      "en": ["circle", "filled", "half", "upper"]
+    }
+  },
+  {
+    "cp": 9684,
+    "char": "◔",
+    "name": "CIRCLE WITH UPPER RIGHT QUADRANT BLACK",
+    "ru": "круг с закрашенной верхней правой четвертью",
+    "en": "circle upper right quadrant filled",
+    "keywords": {
+      "ru": ["круг с закрашенной верхней правой четвертью"],
+      "en": ["circle", "filled", "quadrant", "right", "upper"]
+    }
+  },
+  {
+    "cp": 9685,
+    "char": "◕",
+    "name": "CIRCLE WITH ALL BUT UPPER LEFT QUADRANT BLACK",
+    "ru": "закрашенный круг с полой верхней левой четвертью",
+    "en": "circle all but upper left quadrant filled",
+    "keywords": {
+      "ru": ["закрашенный круг с полой верхней левой четвертью"],
+      "en": ["all", "but", "circle", "filled", "left", "quadrant", "upper"]
+    }
+  },
+  {
+    "cp": 9686,
+    "char": "◖",
+    "name": "LEFT HALF BLACK CIRCLE",
+    "ru": "закрашенная левая половина круга",
+    "en": "left half filled circle",
+    "keywords": {
+      "ru": ["закрашенная левая половина круга"],
+      "en": ["circle", "filled", "half", "left"]
+    }
+  },
+  {
+    "cp": 9687,
+    "char": "◗",
+    "name": "RIGHT HALF BLACK CIRCLE",
+    "ru": "закрашенная правая половина круга",
+    "en": "right half filled circle",
+    "keywords": {
+      "ru": ["закрашенная правая половина круга"],
+      "en": ["circle", "filled", "half", "right"]
+    }
+  },
+  {
+    "cp": 9688,
+    "char": "◘",
+    "name": "INVERSE BULLET",
+    "ru": "инвертированный маркер пункта в списке",
+    "en": "inverse bullet",
+    "keywords": { "ru": ["инвертированный маркер пункта в списке"], "en": ["bullet", "inverse"] }
+  },
+  {
+    "cp": 9689,
+    "char": "◙",
+    "name": "INVERSE WHITE CIRCLE",
+    "ru": "полый круг внутри закрашенного квадрата",
+    "en": "filled square containing hollow circle",
+    "keywords": {
+      "ru": ["полый круг внутри закрашенного квадрата"],
+      "en": ["circle", "containing", "filled", "hollow", "inverse", "square"]
+    }
+  },
+  {
+    "cp": 9690,
+    "char": "◚",
+    "name": "UPPER HALF INVERSE WHITE CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9691,
+    "char": "◛",
+    "name": "LOWER HALF INVERSE WHITE CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9692,
+    "char": "◜",
+    "name": "UPPER LEFT QUADRANT CIRCULAR ARC",
+    "ru": "дуга в верхней левой четверти",
+    "en": "upper left quadrant circular arc",
+    "keywords": {
+      "ru": ["дуга в верхней левой четверти"],
+      "en": ["arc", "circular", "left", "quadrant", "upper"]
+    }
+  },
+  {
+    "cp": 9693,
+    "char": "◝",
+    "name": "UPPER RIGHT QUADRANT CIRCULAR ARC",
+    "ru": "дуга в верхней правой четверти",
+    "en": "upper right quadrant circular arc",
+    "keywords": {
+      "ru": ["дуга в верхней правой четверти"],
+      "en": ["arc", "circular", "quadrant", "right", "upper"]
+    }
+  },
+  {
+    "cp": 9694,
+    "char": "◞",
+    "name": "LOWER RIGHT QUADRANT CIRCULAR ARC",
+    "ru": "дуга в нижней правой четверти",
+    "en": "lower right quadrant circular arc",
+    "keywords": {
+      "ru": ["дуга в нижней правой четверти"],
+      "en": ["arc", "circular", "lower", "quadrant", "right"]
+    }
+  },
+  {
+    "cp": 9695,
+    "char": "◟",
+    "name": "LOWER LEFT QUADRANT CIRCULAR ARC",
+    "ru": "дуга в нижней левой четверти",
+    "en": "lower left quadrant circular arc",
+    "keywords": {
+      "ru": ["дуга в нижней левой четверти"],
+      "en": ["arc", "circular", "left", "lower", "quadrant"]
+    }
+  },
+  {
+    "cp": 9696,
+    "char": "◠",
+    "name": "UPPER HALF CIRCLE",
+    "ru": "верхний полукруг",
+    "en": "upper half circle",
+    "keywords": { "ru": ["верхний полукруг"], "en": ["circle", "half", "upper"] }
+  },
+  {
+    "cp": 9697,
+    "char": "◡",
+    "name": "LOWER HALF CIRCLE",
+    "ru": "нижний полукруг",
+    "en": "lower half circle",
+    "keywords": { "ru": ["нижний полукруг"], "en": ["circle", "half", "lower"] }
+  },
+  {
+    "cp": 9698,
+    "char": "◢",
+    "name": "BLACK LOWER RIGHT TRIANGLE",
+    "ru": "закрашенный нижний правый треугольник",
+    "en": "filled lower right triangle",
+    "keywords": {
+      "ru": ["закрашенный нижний правый треугольник"],
+      "en": ["filled", "lower", "right", "triangle"]
+    }
+  },
+  {
+    "cp": 9699,
+    "char": "◣",
+    "name": "BLACK LOWER LEFT TRIANGLE",
+    "ru": "закрашенный нижний левый треугольник",
+    "en": "filled lower left triangle",
+    "keywords": {
+      "ru": ["закрашенный нижний левый треугольник"],
+      "en": ["filled", "left", "lower", "triangle"]
+    }
+  },
+  {
+    "cp": 9700,
+    "char": "◤",
+    "name": "BLACK UPPER LEFT TRIANGLE",
+    "ru": "закрашенный верхний левый треугольник",
+    "en": "filled upper left triangle",
+    "keywords": {
+      "ru": ["закрашенный верхний левый треугольник"],
+      "en": ["filled", "left", "triangle", "upper"]
+    }
+  },
+  {
+    "cp": 9701,
+    "char": "◥",
+    "name": "BLACK UPPER RIGHT TRIANGLE",
+    "ru": "закрашенный верхний правый треугольник",
+    "en": "filled upper right triangle",
+    "keywords": {
+      "ru": ["закрашенный верхний правый треугольник"],
+      "en": ["filled", "right", "triangle", "upper"]
+    }
+  },
+  {
+    "cp": 9702,
+    "char": "◦",
+    "name": "WHITE BULLET",
+    "ru": "полый маркер пункта в списке",
+    "en": "hollow bullet",
+    "keywords": { "ru": ["полый маркер пункта в списке"], "en": ["bullet", "hollow"] }
+  },
+  {
+    "cp": 9703,
+    "char": "◧",
+    "name": "SQUARE WITH LEFT HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9704,
+    "char": "◨",
+    "name": "SQUARE WITH RIGHT HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9705,
+    "char": "◩",
+    "name": "SQUARE WITH UPPER LEFT DIAGONAL HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9706,
+    "char": "◪",
+    "name": "SQUARE WITH LOWER RIGHT DIAGONAL HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9707,
+    "char": "◫",
+    "name": "WHITE SQUARE WITH VERTICAL BISECTING LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9708,
+    "char": "◬",
+    "name": "WHITE UP-POINTING TRIANGLE WITH DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9709,
+    "char": "◭",
+    "name": "UP-POINTING TRIANGLE WITH LEFT HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9710,
+    "char": "◮",
+    "name": "UP-POINTING TRIANGLE WITH RIGHT HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9711,
+    "char": "◯",
+    "name": "LARGE CIRCLE",
+    "ru": "большой незакрашенный круг",
+    "en": "large hollow circle",
+    "keywords": {
+      "ru": ["большой незакрашенный круг", "круг", "полый", "пустой", "шар"],
+      "en": ["circle", "hollow", "large", "ring"]
+    }
+  },
+  {
+    "cp": 9712,
+    "char": "◰",
+    "name": "WHITE SQUARE WITH UPPER LEFT QUADRANT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9713,
+    "char": "◱",
+    "name": "WHITE SQUARE WITH LOWER LEFT QUADRANT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9714,
+    "char": "◲",
+    "name": "WHITE SQUARE WITH LOWER RIGHT QUADRANT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9715,
+    "char": "◳",
+    "name": "WHITE SQUARE WITH UPPER RIGHT QUADRANT",
+    "ru": "полый квадрат с полой верхней правой четвертью",
+    "en": "hollow square upper right quadrant",
+    "keywords": {
+      "ru": ["полый квадрат с полой верхней правой четвертью"],
+      "en": ["hollow", "quadrant", "right", "square", "upper"]
+    }
+  },
+  {
+    "cp": 9716,
+    "char": "◴",
+    "name": "WHITE CIRCLE WITH UPPER LEFT QUADRANT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9717,
+    "char": "◵",
+    "name": "WHITE CIRCLE WITH LOWER LEFT QUADRANT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9718,
+    "char": "◶",
+    "name": "WHITE CIRCLE WITH LOWER RIGHT QUADRANT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9719,
+    "char": "◷",
+    "name": "WHITE CIRCLE WITH UPPER RIGHT QUADRANT",
+    "ru": "полый круг с полой верхней правой четвертью",
+    "en": "hollow circle with upper right quadrant",
+    "keywords": {
+      "ru": ["полый круг с полой верхней правой четвертью"],
+      "en": ["circle", "hollow", "quadrant", "right", "upper", "with"]
+    }
+  },
+  {
+    "cp": 9720,
+    "char": "◸",
+    "name": "UPPER LEFT TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9721,
+    "char": "◹",
+    "name": "UPPER RIGHT TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9722,
+    "char": "◺",
+    "name": "LOWER LEFT TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9723,
+    "char": "◻",
+    "name": "WHITE MEDIUM SQUARE",
+    "ru": "белый квадрат",
+    "en": "white medium square",
+    "keywords": {
+      "ru": ["белый", "геометрия", "квадрат", "фигура"],
+      "en": ["geometric", "medium", "square", "white"]
+    }
+  },
+  {
+    "cp": 9724,
+    "char": "◼",
+    "name": "BLACK MEDIUM SQUARE",
+    "ru": "черный квадрат",
+    "en": "black medium square",
+    "keywords": {
+      "ru": ["геометрия", "квадрат", "средний", "фигура", "черный"],
+      "en": ["black", "geometric", "medium", "square"]
+    }
+  },
+  {
+    "cp": 9725,
+    "char": "◽",
+    "name": "WHITE MEDIUM SMALL SQUARE",
+    "ru": "небольшой белый квадрат",
+    "en": "white medium-small square",
+    "keywords": {
+      "ru": [
+        "белый",
+        "геометрия",
+        "квадрат",
+        "небольшой белый квадрат",
+        "небольшой квадрат",
+        "фигура"
+      ],
+      "en": ["geometric", "medium-small", "square", "white"]
+    }
+  },
+  {
+    "cp": 9726,
+    "char": "◾",
+    "name": "BLACK MEDIUM SMALL SQUARE",
+    "ru": "небольшой черный квадрат",
+    "en": "black medium-small square",
+    "keywords": {
+      "ru": ["геометрия", "квадрат", "небольшой", "фигура", "черный"],
+      "en": ["black", "geometric", "medium-small", "square"]
+    }
+  },
+  {
+    "cp": 9727,
+    "char": "◿",
+    "name": "LOWER RIGHT TRIANGLE",
+    "ru": "нижний правый треугольник",
+    "en": "lower right triangle",
+    "keywords": { "ru": ["нижний правый треугольник"], "en": ["lower", "right", "triangle"] }
+  }
+]

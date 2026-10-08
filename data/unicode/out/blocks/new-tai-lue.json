@@ -1,0 +1,666 @@
+[
+  {
+    "cp": 6528,
+    "char": "ᦀ",
+    "name": "NEW TAI LUE LETTER HIGH QA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6529,
+    "char": "ᦁ",
+    "name": "NEW TAI LUE LETTER LOW QA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6530,
+    "char": "ᦂ",
+    "name": "NEW TAI LUE LETTER HIGH KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6531,
+    "char": "ᦃ",
+    "name": "NEW TAI LUE LETTER HIGH XA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6532,
+    "char": "ᦄ",
+    "name": "NEW TAI LUE LETTER HIGH NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6533,
+    "char": "ᦅ",
+    "name": "NEW TAI LUE LETTER LOW KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6534,
+    "char": "ᦆ",
+    "name": "NEW TAI LUE LETTER LOW XA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6535,
+    "char": "ᦇ",
+    "name": "NEW TAI LUE LETTER LOW NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6536,
+    "char": "ᦈ",
+    "name": "NEW TAI LUE LETTER HIGH TSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6537,
+    "char": "ᦉ",
+    "name": "NEW TAI LUE LETTER HIGH SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6538,
+    "char": "ᦊ",
+    "name": "NEW TAI LUE LETTER HIGH YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6539,
+    "char": "ᦋ",
+    "name": "NEW TAI LUE LETTER LOW TSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6540,
+    "char": "ᦌ",
+    "name": "NEW TAI LUE LETTER LOW SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6541,
+    "char": "ᦍ",
+    "name": "NEW TAI LUE LETTER LOW YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6542,
+    "char": "ᦎ",
+    "name": "NEW TAI LUE LETTER HIGH TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6543,
+    "char": "ᦏ",
+    "name": "NEW TAI LUE LETTER HIGH THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6544,
+    "char": "ᦐ",
+    "name": "NEW TAI LUE LETTER HIGH NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6545,
+    "char": "ᦑ",
+    "name": "NEW TAI LUE LETTER LOW TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6546,
+    "char": "ᦒ",
+    "name": "NEW TAI LUE LETTER LOW THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6547,
+    "char": "ᦓ",
+    "name": "NEW TAI LUE LETTER LOW NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6548,
+    "char": "ᦔ",
+    "name": "NEW TAI LUE LETTER HIGH PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6549,
+    "char": "ᦕ",
+    "name": "NEW TAI LUE LETTER HIGH PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6550,
+    "char": "ᦖ",
+    "name": "NEW TAI LUE LETTER HIGH MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6551,
+    "char": "ᦗ",
+    "name": "NEW TAI LUE LETTER LOW PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6552,
+    "char": "ᦘ",
+    "name": "NEW TAI LUE LETTER LOW PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6553,
+    "char": "ᦙ",
+    "name": "NEW TAI LUE LETTER LOW MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6554,
+    "char": "ᦚ",
+    "name": "NEW TAI LUE LETTER HIGH FA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6555,
+    "char": "ᦛ",
+    "name": "NEW TAI LUE LETTER HIGH VA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6556,
+    "char": "ᦜ",
+    "name": "NEW TAI LUE LETTER HIGH LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6557,
+    "char": "ᦝ",
+    "name": "NEW TAI LUE LETTER LOW FA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6558,
+    "char": "ᦞ",
+    "name": "NEW TAI LUE LETTER LOW VA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6559,
+    "char": "ᦟ",
+    "name": "NEW TAI LUE LETTER LOW LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6560,
+    "char": "ᦠ",
+    "name": "NEW TAI LUE LETTER HIGH HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6561,
+    "char": "ᦡ",
+    "name": "NEW TAI LUE LETTER HIGH DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6562,
+    "char": "ᦢ",
+    "name": "NEW TAI LUE LETTER HIGH BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6563,
+    "char": "ᦣ",
+    "name": "NEW TAI LUE LETTER LOW HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6564,
+    "char": "ᦤ",
+    "name": "NEW TAI LUE LETTER LOW DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6565,
+    "char": "ᦥ",
+    "name": "NEW TAI LUE LETTER LOW BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6566,
+    "char": "ᦦ",
+    "name": "NEW TAI LUE LETTER HIGH KVA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6567,
+    "char": "ᦧ",
+    "name": "NEW TAI LUE LETTER HIGH XVA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6568,
+    "char": "ᦨ",
+    "name": "NEW TAI LUE LETTER LOW KVA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6569,
+    "char": "ᦩ",
+    "name": "NEW TAI LUE LETTER LOW XVA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6570,
+    "char": "ᦪ",
+    "name": "NEW TAI LUE LETTER HIGH SUA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6571,
+    "char": "ᦫ",
+    "name": "NEW TAI LUE LETTER LOW SUA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6576,
+    "char": "ᦰ",
+    "name": "NEW TAI LUE VOWEL SIGN VOWEL SHORTENER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6577,
+    "char": "ᦱ",
+    "name": "NEW TAI LUE VOWEL SIGN AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6578,
+    "char": "ᦲ",
+    "name": "NEW TAI LUE VOWEL SIGN II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6579,
+    "char": "ᦳ",
+    "name": "NEW TAI LUE VOWEL SIGN U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6580,
+    "char": "ᦴ",
+    "name": "NEW TAI LUE VOWEL SIGN UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6581,
+    "char": "ᦵ",
+    "name": "NEW TAI LUE VOWEL SIGN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6582,
+    "char": "ᦶ",
+    "name": "NEW TAI LUE VOWEL SIGN AE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6583,
+    "char": "ᦷ",
+    "name": "NEW TAI LUE VOWEL SIGN O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6584,
+    "char": "ᦸ",
+    "name": "NEW TAI LUE VOWEL SIGN OA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6585,
+    "char": "ᦹ",
+    "name": "NEW TAI LUE VOWEL SIGN UE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6586,
+    "char": "ᦺ",
+    "name": "NEW TAI LUE VOWEL SIGN AY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6587,
+    "char": "ᦻ",
+    "name": "NEW TAI LUE VOWEL SIGN AAY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6588,
+    "char": "ᦼ",
+    "name": "NEW TAI LUE VOWEL SIGN UY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6589,
+    "char": "ᦽ",
+    "name": "NEW TAI LUE VOWEL SIGN OY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6590,
+    "char": "ᦾ",
+    "name": "NEW TAI LUE VOWEL SIGN OAY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6591,
+    "char": "ᦿ",
+    "name": "NEW TAI LUE VOWEL SIGN UEY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6592,
+    "char": "ᧀ",
+    "name": "NEW TAI LUE VOWEL SIGN IY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6593,
+    "char": "ᧁ",
+    "name": "NEW TAI LUE LETTER FINAL V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6594,
+    "char": "ᧂ",
+    "name": "NEW TAI LUE LETTER FINAL NG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6595,
+    "char": "ᧃ",
+    "name": "NEW TAI LUE LETTER FINAL N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6596,
+    "char": "ᧄ",
+    "name": "NEW TAI LUE LETTER FINAL M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6597,
+    "char": "ᧅ",
+    "name": "NEW TAI LUE LETTER FINAL K",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6598,
+    "char": "ᧆ",
+    "name": "NEW TAI LUE LETTER FINAL D",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6599,
+    "char": "ᧇ",
+    "name": "NEW TAI LUE LETTER FINAL B",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6600,
+    "char": "ᧈ",
+    "name": "NEW TAI LUE TONE MARK-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6601,
+    "char": "ᧉ",
+    "name": "NEW TAI LUE TONE MARK-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6608,
+    "char": "᧐",
+    "name": "NEW TAI LUE DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6609,
+    "char": "᧑",
+    "name": "NEW TAI LUE DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6610,
+    "char": "᧒",
+    "name": "NEW TAI LUE DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6611,
+    "char": "᧓",
+    "name": "NEW TAI LUE DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6612,
+    "char": "᧔",
+    "name": "NEW TAI LUE DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6613,
+    "char": "᧕",
+    "name": "NEW TAI LUE DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6614,
+    "char": "᧖",
+    "name": "NEW TAI LUE DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6615,
+    "char": "᧗",
+    "name": "NEW TAI LUE DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6616,
+    "char": "᧘",
+    "name": "NEW TAI LUE DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6617,
+    "char": "᧙",
+    "name": "NEW TAI LUE DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6618,
+    "char": "᧚",
+    "name": "NEW TAI LUE THAM DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6622,
+    "char": "᧞",
+    "name": "NEW TAI LUE SIGN LAE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6623,
+    "char": "᧟",
+    "name": "NEW TAI LUE SIGN LAEV",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

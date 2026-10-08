@@ -1,0 +1,2470 @@
+[
+  {
+    "cp": 9728,
+    "char": "☀",
+    "name": "BLACK SUN WITH RAYS",
+    "ru": "солнце",
+    "en": "sun",
+    "keywords": {
+      "ru": ["жарко", "лучи", "планета", "погода", "солнце"],
+      "en": ["bright", "rays", "space", "sun", "sunny", "weather"]
+    }
+  },
+  {
+    "cp": 9729,
+    "char": "☁",
+    "name": "CLOUD",
+    "ru": "облако",
+    "en": "cloud",
+    "keywords": { "ru": ["небо", "облако", "туча"], "en": ["cloud", "weather"] }
+  },
+  {
+    "cp": 9730,
+    "char": "☂",
+    "name": "UMBRELLA",
+    "ru": "зонт",
+    "en": "umbrella",
+    "keywords": {
+      "ru": ["вода", "дождь", "зонт", "зонтик", "осадки", "открытый зонт", "погода"],
+      "en": ["clothing", "rain", "umbrella"]
+    }
+  },
+  {
+    "cp": 9731,
+    "char": "☃",
+    "name": "SNOWMAN",
+    "ru": "снеговик под снегом",
+    "en": "snowman",
+    "keywords": {
+      "ru": ["снег", "снеговик", "снеговик под снегом", "фигура", "человек", "человечек"],
+      "en": ["cold", "man", "snow", "snowman"]
+    }
+  },
+  {
+    "cp": 9732,
+    "char": "☄",
+    "name": "COMET",
+    "ru": "комета",
+    "en": "comet",
+    "keywords": {
+      "ru": ["комета", "космос", "метеор", "метеорит", "метеоритный дождь", "небо", "планета"],
+      "en": ["comet", "space"]
+    }
+  },
+  {
+    "cp": 9733,
+    "char": "★",
+    "name": "BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9734,
+    "char": "☆",
+    "name": "WHITE STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9735,
+    "char": "☇",
+    "name": "LIGHTNING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9736,
+    "char": "☈",
+    "name": "THUNDERSTORM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9737,
+    "char": "☉",
+    "name": "SUN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9738,
+    "char": "☊",
+    "name": "ASCENDING NODE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9739,
+    "char": "☋",
+    "name": "DESCENDING NODE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9740,
+    "char": "☌",
+    "name": "CONJUNCTION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9741,
+    "char": "☍",
+    "name": "OPPOSITION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9742,
+    "char": "☎",
+    "name": "BLACK TELEPHONE",
+    "ru": "телефон",
+    "en": "telephone",
+    "keywords": { "ru": ["аппарат", "линия", "телефон", "трубка"], "en": ["phone", "telephone"] }
+  },
+  {
+    "cp": 9743,
+    "char": "☏",
+    "name": "WHITE TELEPHONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9744,
+    "char": "☐",
+    "name": "BALLOT BOX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9745,
+    "char": "☑",
+    "name": "BALLOT BOX WITH CHECK",
+    "ru": "галочка в квадрате",
+    "en": "check box with check",
+    "keywords": {
+      "ru": [
+        "бюллетень",
+        "бюллетень с галочкой",
+        "выполнено",
+        "галочка",
+        "галочка в квадрате",
+        "голосование",
+        "готово",
+        "проверено",
+        "проверка",
+        "сделано"
+      ],
+      "en": ["✓", "ballot", "box", "check", "checked", "done", "off", "tick"]
+    }
+  },
+  {
+    "cp": 9746,
+    "char": "☒",
+    "name": "BALLOT BOX WITH X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9747,
+    "char": "☓",
+    "name": "SALTIRE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9748,
+    "char": "☔",
+    "name": "UMBRELLA WITH RAIN DROPS",
+    "ru": "зонт под дождем",
+    "en": "umbrella with rain drops",
+    "keywords": {
+      "ru": [
+        "зонт",
+        "зонт под дождем",
+        "зонтик",
+        "зонтик под дождем",
+        "капли",
+        "капля",
+        "ливень",
+        "погода",
+        "под дождем"
+      ],
+      "en": ["clothing", "drop", "drops", "rain", "umbrella", "weather"]
+    }
+  },
+  {
+    "cp": 9749,
+    "char": "☕",
+    "name": "HOT BEVERAGE",
+    "ru": "горячий напиток",
+    "en": "hot beverage",
+    "keywords": {
+      "ru": ["горячий", "кипяток", "кофе", "напиток", "пар", "чаепитие", "чай"],
+      "en": [
+        "beverage",
+        "cafe",
+        "caffeine",
+        "chai",
+        "coffee",
+        "drink",
+        "hot",
+        "morning",
+        "steaming",
+        "tea"
+      ]
+    }
+  },
+  {
+    "cp": 9750,
+    "char": "☖",
+    "name": "WHITE SHOGI PIECE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9751,
+    "char": "☗",
+    "name": "BLACK SHOGI PIECE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9752,
+    "char": "☘",
+    "name": "SHAMROCK",
+    "ru": "трилистник",
+    "en": "shamrock",
+    "keywords": {
+      "ru": ["Ирландия", "клевер", "растение", "трилистник"],
+      "en": ["irish", "plant", "shamrock"]
+    }
+  },
+  {
+    "cp": 9753,
+    "char": "☙",
+    "name": "REVERSED ROTATED FLORAL HEART BULLET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9754,
+    "char": "☚",
+    "name": "BLACK LEFT POINTING INDEX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9755,
+    "char": "☛",
+    "name": "BLACK RIGHT POINTING INDEX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9756,
+    "char": "☜",
+    "name": "WHITE LEFT POINTING INDEX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9757,
+    "char": "☝",
+    "name": "WHITE UP POINTING INDEX",
+    "ru": "указательный палец вверх",
+    "en": "index pointing up",
+    "keywords": {
+      "ru": ["вверх", "внимание", "направление", "палец", "послушайте", "рука", "указательный"],
+      "en": ["finger", "hand", "index", "point", "pointing", "this", "up"]
+    }
+  },
+  {
+    "cp": 9758,
+    "char": "☞",
+    "name": "WHITE RIGHT POINTING INDEX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9759,
+    "char": "☟",
+    "name": "WHITE DOWN POINTING INDEX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9760,
+    "char": "☠",
+    "name": "SKULL AND CROSSBONES",
+    "ru": "череп и кости",
+    "en": "skull and crossbones",
+    "keywords": {
+      "ru": ["конец", "кости", "метка", "опасно", "пират", "смерть", "умереть", "флаг", "череп"],
+      "en": ["bone", "crossbones", "dead", "death", "face", "monster", "skull"]
+    }
+  },
+  {
+    "cp": 9761,
+    "char": "☡",
+    "name": "CAUTION SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9762,
+    "char": "☢",
+    "name": "RADIOACTIVE SIGN",
+    "ru": "радиация",
+    "en": "radioactive",
+    "keywords": {
+      "ru": ["знак", "опасность", "радиация", "радиоактивность", "символ", "угроза"],
+      "en": ["radioactive", "sign"]
+    }
+  },
+  {
+    "cp": 9763,
+    "char": "☣",
+    "name": "BIOHAZARD SIGN",
+    "ru": "биологическая угроза",
+    "en": "biohazard",
+    "keywords": {
+      "ru": ["биологическая", "знак", "опасность", "угроза", "химическая"],
+      "en": ["biohazard", "sign"]
+    }
+  },
+  {
+    "cp": 9764,
+    "char": "☤",
+    "name": "CADUCEUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9765,
+    "char": "☥",
+    "name": "ANKH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9766,
+    "char": "☦",
+    "name": "ORTHODOX CROSS",
+    "ru": "православный крест",
+    "en": "orthodox cross",
+    "keywords": {
+      "ru": [
+        "вера",
+        "крест",
+        "православие",
+        "православный",
+        "религия",
+        "христианин",
+        "христианство"
+      ],
+      "en": ["Christian", "cross", "orthodox", "religion"]
+    }
+  },
+  {
+    "cp": 9767,
+    "char": "☧",
+    "name": "CHI RHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9768,
+    "char": "☨",
+    "name": "CROSS OF LORRAINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9769,
+    "char": "☩",
+    "name": "CROSS OF JERUSALEM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9770,
+    "char": "☪",
+    "name": "STAR AND CRESCENT",
+    "ru": "звезда и полумесяц",
+    "en": "star and crescent",
+    "keywords": {
+      "ru": [
+        "вера",
+        "звезда",
+        "ислам",
+        "мечеть",
+        "мусульманин",
+        "мусульманство",
+        "полумесяц",
+        "Рамадан",
+        "религия",
+        "символ"
+      ],
+      "en": ["crescent", "islam", "Muslim", "ramadan", "religion", "star"]
+    }
+  },
+  {
+    "cp": 9771,
+    "char": "☫",
+    "name": "FARSI SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9772,
+    "char": "☬",
+    "name": "ADI SHAKTI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9773,
+    "char": "☭",
+    "name": "HAMMER AND SICKLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9774,
+    "char": "☮",
+    "name": "PEACE SYMBOL",
+    "ru": "пацифик",
+    "en": "peace symbol",
+    "keywords": {
+      "ru": ["значок", "мир", "пацифизм", "пацифик", "символ"],
+      "en": ["healing", "peace", "peaceful", "symbol"]
+    }
+  },
+  {
+    "cp": 9775,
+    "char": "☯",
+    "name": "YIN YANG",
+    "ru": "инь-ян",
+    "en": "yin yang",
+    "keywords": {
+      "ru": ["вера", "инь", "инь-ян", "инь-янь", "религия", "символ", "тао", "таоизм", "ян", "янь"],
+      "en": ["difficult", "lives", "religion", "tao", "taoist", "total", "yang", "yin", "yinyang"]
+    }
+  },
+  {
+    "cp": 9776,
+    "char": "☰",
+    "name": "TRIGRAM FOR HEAVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9777,
+    "char": "☱",
+    "name": "TRIGRAM FOR LAKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9778,
+    "char": "☲",
+    "name": "TRIGRAM FOR FIRE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9779,
+    "char": "☳",
+    "name": "TRIGRAM FOR THUNDER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9780,
+    "char": "☴",
+    "name": "TRIGRAM FOR WIND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9781,
+    "char": "☵",
+    "name": "TRIGRAM FOR WATER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9782,
+    "char": "☶",
+    "name": "TRIGRAM FOR MOUNTAIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9783,
+    "char": "☷",
+    "name": "TRIGRAM FOR EARTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9784,
+    "char": "☸",
+    "name": "WHEEL OF DHARMA",
+    "ru": "колесо дхармы",
+    "en": "wheel of dharma",
+    "keywords": {
+      "ru": ["буддизм", "буддийский", "дхарма", "колесо", "религия"],
+      "en": ["Buddhist", "dharma", "religion", "wheel"]
+    }
+  },
+  {
+    "cp": 9785,
+    "char": "☹",
+    "name": "WHITE FROWNING FACE",
+    "ru": "грустит",
+    "en": "frowning face",
+    "keywords": {
+      "ru": [
+        "грустный",
+        "досада",
+        "недовольный",
+        "несчастный",
+        "очень",
+        "печаль",
+        "плохо",
+        "расстроен"
+      ],
+      "en": ["face", "frown", "frowning", "sad"]
+    }
+  },
+  {
+    "cp": 9786,
+    "char": "☺",
+    "name": "WHITE SMILING FACE",
+    "ru": "улыбается",
+    "en": "smiling face",
+    "keywords": {
+      "ru": [
+        "довольный",
+        "окей",
+        "радость",
+        "румянец",
+        "смайлик",
+        "счастье",
+        "улыбается",
+        "улыбка",
+        "хорошо"
+      ],
+      "en": ["face", "happy", "outlined", "relaxed", "smile", "smiling"]
+    }
+  },
+  {
+    "cp": 9787,
+    "char": "☻",
+    "name": "BLACK SMILING FACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9788,
+    "char": "☼",
+    "name": "WHITE SUN WITH RAYS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9789,
+    "char": "☽",
+    "name": "FIRST QUARTER MOON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9790,
+    "char": "☾",
+    "name": "LAST QUARTER MOON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9791,
+    "char": "☿",
+    "name": "MERCURY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9792,
+    "char": "♀",
+    "name": "FEMALE SIGN",
+    "ru": "женский символ",
+    "en": "female sign",
+    "keywords": {
+      "ru": ["венера", "женский символ", "женщина", "символ"],
+      "en": ["female", "sign", "woman"]
+    }
+  },
+  {
+    "cp": 9793,
+    "char": "♁",
+    "name": "EARTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9794,
+    "char": "♂",
+    "name": "MALE SIGN",
+    "ru": "мужской символ",
+    "en": "male sign",
+    "keywords": {
+      "ru": ["марс", "мужской символ", "мужчина", "символ"],
+      "en": ["male", "man", "sign"]
+    }
+  },
+  {
+    "cp": 9795,
+    "char": "♃",
+    "name": "JUPITER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9796,
+    "char": "♄",
+    "name": "SATURN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9797,
+    "char": "♅",
+    "name": "URANUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9798,
+    "char": "♆",
+    "name": "NEPTUNE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9799,
+    "char": "♇",
+    "name": "PLUTO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9800,
+    "char": "♈",
+    "name": "ARIES",
+    "ru": "знак зодиака Овен",
+    "en": "Aries",
+    "keywords": {
+      "ru": ["баран", "гороскоп", "знак", "зодиак", "овен", "овца"],
+      "en": ["Aries", "horoscope", "ram", "zodiac"]
+    }
+  },
+  {
+    "cp": 9801,
+    "char": "♉",
+    "name": "TAURUS",
+    "ru": "знак зодиака Телец",
+    "en": "Taurus",
+    "keywords": {
+      "ru": ["бык", "гороскоп", "знак", "зодиак", "теленок", "телец"],
+      "en": ["bull", "horoscope", "ox", "Taurus", "zodiac"]
+    }
+  },
+  {
+    "cp": 9802,
+    "char": "♊",
+    "name": "GEMINI",
+    "ru": "знак зодиака Близнецы",
+    "en": "Gemini",
+    "keywords": {
+      "ru": ["близнецы", "гороскоп", "знак", "зодиак"],
+      "en": ["Gemini", "horoscope", "twins", "zodiac"]
+    }
+  },
+  {
+    "cp": 9803,
+    "char": "♋",
+    "name": "CANCER",
+    "ru": "знак зодиака Рак",
+    "en": "Cancer",
+    "keywords": {
+      "ru": ["гороскоп", "знак", "зодиак", "рак"],
+      "en": ["Cancer", "crab", "horoscope", "zodiac"]
+    }
+  },
+  {
+    "cp": 9804,
+    "char": "♌",
+    "name": "LEO",
+    "ru": "знак зодиака Лев",
+    "en": "Leo",
+    "keywords": {
+      "ru": ["гороскоп", "знак", "зодиак", "лев"],
+      "en": ["horoscope", "Leo", "lion", "zodiac"]
+    }
+  },
+  {
+    "cp": 9805,
+    "char": "♍",
+    "name": "VIRGO",
+    "ru": "знак зодиака Дева",
+    "en": "Virgo",
+    "keywords": {
+      "ru": ["гороскоп", "дева", "знак", "зодиак"],
+      "en": ["horoscope", "Virgo", "zodiac"]
+    }
+  },
+  {
+    "cp": 9806,
+    "char": "♎",
+    "name": "LIBRA",
+    "ru": "знак зодиака Весы",
+    "en": "Libra",
+    "keywords": {
+      "ru": ["весы", "гороскоп", "знак", "зодиак"],
+      "en": ["balance", "horoscope", "justice", "Libra", "scales", "zodiac"]
+    }
+  },
+  {
+    "cp": 9807,
+    "char": "♏",
+    "name": "SCORPIUS",
+    "ru": "знак зодиака Скорпион",
+    "en": "Scorpio",
+    "keywords": {
+      "ru": ["гороскоп", "знак", "зодиак", "скорпион"],
+      "en": ["horoscope", "Scorpio", "scorpion", "Scorpius", "zodiac"]
+    }
+  },
+  {
+    "cp": 9808,
+    "char": "♐",
+    "name": "SAGITTARIUS",
+    "ru": "знак зодиака Стрелец",
+    "en": "Sagittarius",
+    "keywords": {
+      "ru": ["гороскоп", "знак", "зодиак", "стрелец"],
+      "en": ["archer", "horoscope", "Sagittarius", "zodiac"]
+    }
+  },
+  {
+    "cp": 9809,
+    "char": "♑",
+    "name": "CAPRICORN",
+    "ru": "знак зодиака Козерог",
+    "en": "Capricorn",
+    "keywords": {
+      "ru": ["гороскоп", "знак", "зодиак", "козерог"],
+      "en": ["Capricorn", "goat", "horoscope", "zodiac"]
+    }
+  },
+  {
+    "cp": 9810,
+    "char": "♒",
+    "name": "AQUARIUS",
+    "ru": "знак зодиака Водолей",
+    "en": "Aquarius",
+    "keywords": {
+      "ru": ["водолей", "гороскоп", "знак", "зодиак"],
+      "en": ["Aquarius", "bearer", "horoscope", "water", "zodiac"]
+    }
+  },
+  {
+    "cp": 9811,
+    "char": "♓",
+    "name": "PISCES",
+    "ru": "знак зодиака Рыбы",
+    "en": "Pisces",
+    "keywords": {
+      "ru": ["гороскоп", "знак", "зодиак", "рыба", "рыбы"],
+      "en": ["fish", "horoscope", "Pisces", "zodiac"]
+    }
+  },
+  {
+    "cp": 9812,
+    "char": "♔",
+    "name": "WHITE CHESS KING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9813,
+    "char": "♕",
+    "name": "WHITE CHESS QUEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9814,
+    "char": "♖",
+    "name": "WHITE CHESS ROOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9815,
+    "char": "♗",
+    "name": "WHITE CHESS BISHOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9816,
+    "char": "♘",
+    "name": "WHITE CHESS KNIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9817,
+    "char": "♙",
+    "name": "WHITE CHESS PAWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9818,
+    "char": "♚",
+    "name": "BLACK CHESS KING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9819,
+    "char": "♛",
+    "name": "BLACK CHESS QUEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9820,
+    "char": "♜",
+    "name": "BLACK CHESS ROOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9821,
+    "char": "♝",
+    "name": "BLACK CHESS BISHOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9822,
+    "char": "♞",
+    "name": "BLACK CHESS KNIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9823,
+    "char": "♟",
+    "name": "BLACK CHESS PAWN",
+    "ru": "пешка",
+    "en": "chess pawn",
+    "keywords": {
+      "ru": ["игра", "пешка", "фигура", "шахматная фигура", "шахматы"],
+      "en": ["chess", "dupe", "expendable", "pawn"]
+    }
+  },
+  {
+    "cp": 9824,
+    "char": "♠",
+    "name": "BLACK SPADE SUIT",
+    "ru": "пики",
+    "en": "spade suit",
+    "keywords": {
+      "ru": ["игра", "карты", "масть", "пики"],
+      "en": ["card", "game", "spade", "suit"]
+    }
+  },
+  {
+    "cp": 9825,
+    "char": "♡",
+    "name": "WHITE HEART SUIT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9826,
+    "char": "♢",
+    "name": "WHITE DIAMOND SUIT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9827,
+    "char": "♣",
+    "name": "BLACK CLUB SUIT",
+    "ru": "трефы",
+    "en": "club suit",
+    "keywords": {
+      "ru": ["игра", "карты", "масть", "трефы"],
+      "en": ["card", "club", "clubs", "game", "suit"]
+    }
+  },
+  {
+    "cp": 9828,
+    "char": "♤",
+    "name": "WHITE SPADE SUIT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9829,
+    "char": "♥",
+    "name": "BLACK HEART SUIT",
+    "ru": "червы",
+    "en": "heart suit",
+    "keywords": {
+      "ru": ["игра", "карты", "масть", "червы"],
+      "en": ["card", "emotion", "game", "heart", "hearts", "suit"]
+    }
+  },
+  {
+    "cp": 9830,
+    "char": "♦",
+    "name": "BLACK DIAMOND SUIT",
+    "ru": "бубны",
+    "en": "diamond suit",
+    "keywords": {
+      "ru": ["бубны", "игра", "карты", "масть"],
+      "en": ["card", "diamond", "game", "suit"]
+    }
+  },
+  {
+    "cp": 9831,
+    "char": "♧",
+    "name": "WHITE CLUB SUIT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9832,
+    "char": "♨",
+    "name": "HOT SPRINGS",
+    "ru": "горячие источники",
+    "en": "hot springs",
+    "keywords": {
+      "ru": ["гейзер", "горячие", "источники", "пар", "поток"],
+      "en": ["hot", "hotsprings", "springs", "steaming"]
+    }
+  },
+  {
+    "cp": 9833,
+    "char": "♩",
+    "name": "QUARTER NOTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9834,
+    "char": "♪",
+    "name": "EIGHTH NOTE",
+    "ru": "восьмая нота",
+    "en": "eighth note",
+    "keywords": { "ru": ["восьмая", "музыка", "нота"], "en": ["eighth", "music", "note"] }
+  },
+  {
+    "cp": 9835,
+    "char": "♫",
+    "name": "BEAMED EIGHTH NOTES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9836,
+    "char": "♬",
+    "name": "BEAMED SIXTEENTH NOTES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9837,
+    "char": "♭",
+    "name": "MUSIC FLAT SIGN",
+    "ru": "бемоль",
+    "en": "flat",
+    "keywords": { "ru": ["бемоль", "музыка", "нота"], "en": ["bemolle", "flat", "music", "note"] }
+  },
+  {
+    "cp": 9838,
+    "char": "♮",
+    "name": "MUSIC NATURAL SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9839,
+    "char": "♯",
+    "name": "MUSIC SHARP SIGN",
+    "ru": "диез",
+    "en": "sharp",
+    "keywords": {
+      "ru": ["диез", "музыка", "нота"],
+      "en": ["dièse", "diesis", "music", "note", "sharp"]
+    }
+  },
+  {
+    "cp": 9840,
+    "char": "♰",
+    "name": "WEST SYRIAC CROSS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9841,
+    "char": "♱",
+    "name": "EAST SYRIAC CROSS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9842,
+    "char": "♲",
+    "name": "UNIVERSAL RECYCLING SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9843,
+    "char": "♳",
+    "name": "RECYCLING SYMBOL FOR TYPE-1 PLASTICS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9844,
+    "char": "♴",
+    "name": "RECYCLING SYMBOL FOR TYPE-2 PLASTICS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9845,
+    "char": "♵",
+    "name": "RECYCLING SYMBOL FOR TYPE-3 PLASTICS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9846,
+    "char": "♶",
+    "name": "RECYCLING SYMBOL FOR TYPE-4 PLASTICS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9847,
+    "char": "♷",
+    "name": "RECYCLING SYMBOL FOR TYPE-5 PLASTICS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9848,
+    "char": "♸",
+    "name": "RECYCLING SYMBOL FOR TYPE-6 PLASTICS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9849,
+    "char": "♹",
+    "name": "RECYCLING SYMBOL FOR TYPE-7 PLASTICS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9850,
+    "char": "♺",
+    "name": "RECYCLING SYMBOL FOR GENERIC MATERIALS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9851,
+    "char": "♻",
+    "name": "BLACK UNIVERSAL RECYCLING SYMBOL",
+    "ru": "утилизация",
+    "en": "recycling symbol",
+    "keywords": {
+      "ru": ["мусор", "мусорный", "отходы", "переработка", "переработка отходов", "утилизация"],
+      "en": ["recycle", "recycling", "symbol"]
+    }
+  },
+  {
+    "cp": 9852,
+    "char": "♼",
+    "name": "RECYCLED PAPER SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9853,
+    "char": "♽",
+    "name": "PARTIALLY-RECYCLED PAPER SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9854,
+    "char": "♾",
+    "name": "PERMANENT PAPER SIGN",
+    "ru": "бесконечность",
+    "en": "infinity",
+    "keywords": {
+      "ru": ["бесконечность", "знак бесконечности", "навсегда", "постоянно"],
+      "en": ["forever", "infinity", "unbounded", "universal"]
+    }
+  },
+  {
+    "cp": 9855,
+    "char": "♿",
+    "name": "WHEELCHAIR SYMBOL",
+    "ru": "значок «для инвалидов»",
+    "en": "wheelchair symbol",
+    "keywords": {
+      "ru": ["возможности", "доступ", "значок", "инвалид", "инвалидная", "коляска"],
+      "en": ["access", "handicap", "symbol", "wheelchair"]
+    }
+  },
+  {
+    "cp": 9856,
+    "char": "⚀",
+    "name": "DIE FACE-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9857,
+    "char": "⚁",
+    "name": "DIE FACE-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9858,
+    "char": "⚂",
+    "name": "DIE FACE-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9859,
+    "char": "⚃",
+    "name": "DIE FACE-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9860,
+    "char": "⚄",
+    "name": "DIE FACE-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9861,
+    "char": "⚅",
+    "name": "DIE FACE-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9862,
+    "char": "⚆",
+    "name": "WHITE CIRCLE WITH DOT RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9863,
+    "char": "⚇",
+    "name": "WHITE CIRCLE WITH TWO DOTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9864,
+    "char": "⚈",
+    "name": "BLACK CIRCLE WITH WHITE DOT RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9865,
+    "char": "⚉",
+    "name": "BLACK CIRCLE WITH TWO WHITE DOTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9866,
+    "char": "⚊",
+    "name": "MONOGRAM FOR YANG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9867,
+    "char": "⚋",
+    "name": "MONOGRAM FOR YIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9868,
+    "char": "⚌",
+    "name": "DIGRAM FOR GREATER YANG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9869,
+    "char": "⚍",
+    "name": "DIGRAM FOR LESSER YIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9870,
+    "char": "⚎",
+    "name": "DIGRAM FOR LESSER YANG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9871,
+    "char": "⚏",
+    "name": "DIGRAM FOR GREATER YIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9872,
+    "char": "⚐",
+    "name": "WHITE FLAG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9873,
+    "char": "⚑",
+    "name": "BLACK FLAG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9874,
+    "char": "⚒",
+    "name": "HAMMER AND PICK",
+    "ru": "кирка и молот",
+    "en": "hammer and pick",
+    "keywords": {
+      "ru": [
+        "инструмент",
+        "кирка",
+        "кирка и молот",
+        "молот",
+        "молот и кирка",
+        "молоток",
+        "серп и молот",
+        "строитель",
+        "строить",
+        "шахта"
+      ],
+      "en": ["hammer", "pick", "tool"]
+    }
+  },
+  {
+    "cp": 9875,
+    "char": "⚓",
+    "name": "ANCHOR",
+    "ru": "якорь",
+    "en": "anchor",
+    "keywords": { "ru": ["корабль", "якорь"], "en": ["anchor", "ship", "tool"] }
+  },
+  {
+    "cp": 9876,
+    "char": "⚔",
+    "name": "CROSSED SWORDS",
+    "ru": "скрещенные мечи",
+    "en": "crossed swords",
+    "keywords": {
+      "ru": [
+        "битва",
+        "два меча",
+        "крестоносец",
+        "крестоносцы",
+        "мечи",
+        "оружие",
+        "рыцарь",
+        "скрещение мечей",
+        "скрещенные",
+        "холодное оружие"
+      ],
+      "en": ["crossed", "swords", "weapon"]
+    }
+  },
+  {
+    "cp": 9877,
+    "char": "⚕",
+    "name": "STAFF OF AESCULAPIUS",
+    "ru": "медицинский символ",
+    "en": "medical symbol",
+    "keywords": {
+      "ru": [
+        "аптека",
+        "асклепий",
+        "врачевание",
+        "жезл",
+        "лекарства",
+        "лекарство",
+        "лечение",
+        "медицина",
+        "медицинский символ",
+        "посох",
+        "посох со змеей"
+      ],
+      "en": ["aesculapius", "medical", "medicine", "staff", "symbol"]
+    }
+  },
+  {
+    "cp": 9878,
+    "char": "⚖",
+    "name": "SCALES",
+    "ru": "весы",
+    "en": "balance scale",
+    "keywords": {
+      "ru": ["весы", "взвешивание", "знак", "зодиак", "правосудие", "справедливость"],
+      "en": ["balance", "justice", "Libra", "scale", "scales", "tool", "weight", "zodiac"]
+    }
+  },
+  {
+    "cp": 9879,
+    "char": "⚗",
+    "name": "ALEMBIC",
+    "ru": "перегонный сосуд",
+    "en": "alembic",
+    "keywords": {
+      "ru": ["аппарат", "куб", "перегонный", "сосуд", "химия"],
+      "en": ["alembic", "chemistry", "tool"]
+    }
+  },
+  {
+    "cp": 9880,
+    "char": "⚘",
+    "name": "FLOWER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9881,
+    "char": "⚙",
+    "name": "GEAR",
+    "ru": "шестеренка",
+    "en": "gear",
+    "keywords": {
+      "ru": ["деталь", "зубчатое", "колесо", "шестеренка", "шестерня"],
+      "en": ["cog", "cogwheel", "gear", "tool"]
+    }
+  },
+  {
+    "cp": 9882,
+    "char": "⚚",
+    "name": "STAFF OF HERMES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9883,
+    "char": "⚛",
+    "name": "ATOM SYMBOL",
+    "ru": "символ атома",
+    "en": "atom symbol",
+    "keywords": {
+      "ru": ["атеизм", "атеист", "атом", "атомный", "символ", "частица"],
+      "en": ["atheist", "atom", "symbol"]
+    }
+  },
+  {
+    "cp": 9884,
+    "char": "⚜",
+    "name": "FLEUR-DE-LIS",
+    "ru": "геральдическая лилия",
+    "en": "fleur-de-lis",
+    "keywords": {
+      "ru": ["геральдика", "геральдическая лилия", "герб", "лилия", "фигура", "флер-де-лис"],
+      "en": ["fleur-de-lis", "knights"]
+    }
+  },
+  {
+    "cp": 9885,
+    "char": "⚝",
+    "name": "OUTLINED WHITE STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9886,
+    "char": "⚞",
+    "name": "THREE LINES CONVERGING RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9887,
+    "char": "⚟",
+    "name": "THREE LINES CONVERGING LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9888,
+    "char": "⚠",
+    "name": "WARNING SIGN",
+    "ru": "значок предупреждения",
+    "en": "warning",
+    "keywords": {
+      "ru": [
+        "восклицательный",
+        "желтый",
+        "знак",
+        "оповещение",
+        "осторожно",
+        "предупреждение",
+        "треугольный"
+      ],
+      "en": ["caution", "warning"]
+    }
+  },
+  {
+    "cp": 9889,
+    "char": "⚡",
+    "name": "HIGH VOLTAGE SIGN",
+    "ru": "высокое напряжение",
+    "en": "high voltage",
+    "keywords": {
+      "ru": [
+        "буря",
+        "высоковольтное",
+        "высокое напряжение",
+        "гром",
+        "молниеносный",
+        "молния",
+        "напряжение",
+        "опасность",
+        "электричество"
+      ],
+      "en": [
+        "danger",
+        "electric",
+        "electricity",
+        "high",
+        "lightning",
+        "nature",
+        "thunder",
+        "thunderbolt",
+        "voltage",
+        "zap"
+      ]
+    }
+  },
+  {
+    "cp": 9890,
+    "char": "⚢",
+    "name": "DOUBLED FEMALE SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9891,
+    "char": "⚣",
+    "name": "DOUBLED MALE SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9892,
+    "char": "⚤",
+    "name": "INTERLOCKED FEMALE AND MALE SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9893,
+    "char": "⚥",
+    "name": "MALE AND FEMALE SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9894,
+    "char": "⚦",
+    "name": "MALE WITH STROKE SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9895,
+    "char": "⚧",
+    "name": "MALE WITH STROKE AND MALE AND FEMALE SIGN",
+    "ru": "трансгендер",
+    "en": "transgender symbol",
+    "keywords": {
+      "ru": [
+        "символ",
+        "трансгендер",
+        "трансгендерная",
+        "трансгендерное",
+        "трансгендерные",
+        "трансгендерный"
+      ],
+      "en": ["symbol", "transgender"]
+    }
+  },
+  {
+    "cp": 9896,
+    "char": "⚨",
+    "name": "VERTICAL MALE WITH STROKE SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9897,
+    "char": "⚩",
+    "name": "HORIZONTAL MALE WITH STROKE SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9898,
+    "char": "⚪",
+    "name": "MEDIUM WHITE CIRCLE",
+    "ru": "белый круг",
+    "en": "white circle",
+    "keywords": {
+      "ru": ["белый", "геометрия", "круг", "фигура", "шар"],
+      "en": ["circle", "geometric", "white"]
+    }
+  },
+  {
+    "cp": 9899,
+    "char": "⚫",
+    "name": "MEDIUM BLACK CIRCLE",
+    "ru": "черный круг",
+    "en": "black circle",
+    "keywords": {
+      "ru": ["геометрия", "круг", "фигура", "черный", "шар"],
+      "en": ["black", "circle", "geometric"]
+    }
+  },
+  {
+    "cp": 9900,
+    "char": "⚬",
+    "name": "MEDIUM SMALL WHITE CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9901,
+    "char": "⚭",
+    "name": "MARRIAGE SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9902,
+    "char": "⚮",
+    "name": "DIVORCE SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9903,
+    "char": "⚯",
+    "name": "UNMARRIED PARTNERSHIP SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9904,
+    "char": "⚰",
+    "name": "COFFIN",
+    "ru": "гроб",
+    "en": "coffin",
+    "keywords": {
+      "ru": ["гибель", "гроб", "погребение", "похороны", "смерть"],
+      "en": ["coffin", "dead", "death", "vampire"]
+    }
+  },
+  {
+    "cp": 9905,
+    "char": "⚱",
+    "name": "FUNERAL URN",
+    "ru": "урна с прахом",
+    "en": "funeral urn",
+    "keywords": {
+      "ru": ["останки", "пепел", "похороны", "прах", "смерть", "урна", "урна с прахом"],
+      "en": ["ashes", "death", "funeral", "urn"]
+    }
+  },
+  {
+    "cp": 9906,
+    "char": "⚲",
+    "name": "NEUTER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9907,
+    "char": "⚳",
+    "name": "CERES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9908,
+    "char": "⚴",
+    "name": "PALLAS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9909,
+    "char": "⚵",
+    "name": "JUNO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9910,
+    "char": "⚶",
+    "name": "VESTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9911,
+    "char": "⚷",
+    "name": "CHIRON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9912,
+    "char": "⚸",
+    "name": "BLACK MOON LILITH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9913,
+    "char": "⚹",
+    "name": "SEXTILE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9914,
+    "char": "⚺",
+    "name": "SEMISEXTILE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9915,
+    "char": "⚻",
+    "name": "QUINCUNX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9916,
+    "char": "⚼",
+    "name": "SESQUIQUADRATE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9917,
+    "char": "⚽",
+    "name": "SOCCER BALL",
+    "ru": "футбол",
+    "en": "soccer ball",
+    "keywords": {
+      "ru": ["игра", "мяч", "спорт", "футбол", "футбольный"],
+      "en": ["ball", "football", "futbol", "soccer", "sport"]
+    }
+  },
+  {
+    "cp": 9918,
+    "char": "⚾",
+    "name": "BASEBALL",
+    "ru": "бейсбол",
+    "en": "baseball",
+    "keywords": {
+      "ru": ["бейсбол", "бейсбольный", "игра", "мяч", "спорт"],
+      "en": ["ball", "baseball", "sport"]
+    }
+  },
+  {
+    "cp": 9919,
+    "char": "⚿",
+    "name": "SQUARED KEY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9920,
+    "char": "⛀",
+    "name": "WHITE DRAUGHTS MAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9921,
+    "char": "⛁",
+    "name": "WHITE DRAUGHTS KING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9922,
+    "char": "⛂",
+    "name": "BLACK DRAUGHTS MAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9923,
+    "char": "⛃",
+    "name": "BLACK DRAUGHTS KING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9924,
+    "char": "⛄",
+    "name": "SNOWMAN WITHOUT SNOW",
+    "ru": "снеговик",
+    "en": "snowman without snow",
+    "keywords": {
+      "ru": [
+        "снег",
+        "снеговик",
+        "снеговичок",
+        "снежная баба",
+        "снежная скульптура",
+        "фигура",
+        "человек",
+        "человечек"
+      ],
+      "en": ["cold", "man", "snow", "snowman"]
+    }
+  },
+  {
+    "cp": 9925,
+    "char": "⛅",
+    "name": "SUN BEHIND CLOUD",
+    "ru": "солнце за облаками",
+    "en": "sun behind cloud",
+    "keywords": {
+      "ru": ["непогода", "облака", "облако", "облачно", "погода", "солнце", "солнце за облаками"],
+      "en": ["behind", "cloud", "cloudy", "sun", "weather"]
+    }
+  },
+  {
+    "cp": 9926,
+    "char": "⛆",
+    "name": "RAIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9927,
+    "char": "⛇",
+    "name": "BLACK SNOWMAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9928,
+    "char": "⛈",
+    "name": "THUNDER CLOUD AND RAIN",
+    "ru": "гроза",
+    "en": "cloud with lightning and rain",
+    "keywords": {
+      "ru": ["гроза", "гром", "дождь", "молния", "облако", "туча"],
+      "en": ["cloud", "lightning", "rain", "thunder", "thunderstorm"]
+    }
+  },
+  {
+    "cp": 9929,
+    "char": "⛉",
+    "name": "TURNED WHITE SHOGI PIECE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9930,
+    "char": "⛊",
+    "name": "TURNED BLACK SHOGI PIECE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9931,
+    "char": "⛋",
+    "name": "WHITE DIAMOND IN SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9932,
+    "char": "⛌",
+    "name": "CROSSING LANES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9933,
+    "char": "⛍",
+    "name": "DISABLED CAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9934,
+    "char": "⛎",
+    "name": "OPHIUCHUS",
+    "ru": "знак зодиака Змееносец",
+    "en": "Ophiuchus",
+    "keywords": {
+      "ru": ["гороскоп", "змееносец", "знак", "зодиак"],
+      "en": ["bearer", "Ophiuchus", "serpent", "snake", "zodiac"]
+    }
+  },
+  {
+    "cp": 9935,
+    "char": "⛏",
+    "name": "PICK",
+    "ru": "кирка",
+    "en": "pick",
+    "keywords": {
+      "ru": ["добыча", "инструмент", "кирка", "шахта"],
+      "en": ["hammer", "mining", "pick", "tool"]
+    }
+  },
+  {
+    "cp": 9936,
+    "char": "⛐",
+    "name": "CAR SLIDING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9937,
+    "char": "⛑",
+    "name": "HELMET WITH WHITE CROSS",
+    "ru": "каска с белым крестом",
+    "en": "rescue worker’s helmet",
+    "keywords": {
+      "ru": ["головной убор", "каска с белым крестом", "крест", "лицо", "спасатель", "шлем"],
+      "en": ["aid", "cross", "face", "hat", "helmet", "rescue", "worker’s"]
+    }
+  },
+  {
+    "cp": 9938,
+    "char": "⛒",
+    "name": "CIRCLED CROSSING LANES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9939,
+    "char": "⛓",
+    "name": "CHAINS",
+    "ru": "цепь",
+    "en": "chains",
+    "keywords": { "ru": ["звено", "звенья", "цепи", "цепочка", "цепь"], "en": ["chain", "chains"] }
+  },
+  {
+    "cp": 9940,
+    "char": "⛔",
+    "name": "NO ENTRY",
+    "ru": "въезд запрещен",
+    "en": "no entry",
+    "keywords": {
+      "ru": ["вход", "въезд", "запрещен", "запрещено", "кирпич", "красный", "круг", "нет", "стоп"],
+      "en": ["do", "entry", "fail", "forbidden", "no", "not", "pass", "prohibited", "traffic"]
+    }
+  },
+  {
+    "cp": 9941,
+    "char": "⛕",
+    "name": "ALTERNATE ONE-WAY LEFT WAY TRAFFIC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9942,
+    "char": "⛖",
+    "name": "BLACK TWO-WAY LEFT WAY TRAFFIC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9943,
+    "char": "⛗",
+    "name": "WHITE TWO-WAY LEFT WAY TRAFFIC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9944,
+    "char": "⛘",
+    "name": "BLACK LEFT LANE MERGE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9945,
+    "char": "⛙",
+    "name": "WHITE LEFT LANE MERGE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9946,
+    "char": "⛚",
+    "name": "DRIVE SLOW SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9947,
+    "char": "⛛",
+    "name": "HEAVY WHITE DOWN-POINTING TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9948,
+    "char": "⛜",
+    "name": "LEFT CLOSED ENTRY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9949,
+    "char": "⛝",
+    "name": "SQUARED SALTIRE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9950,
+    "char": "⛞",
+    "name": "FALLING DIAGONAL IN WHITE CIRCLE IN BLACK SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9951,
+    "char": "⛟",
+    "name": "BLACK TRUCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9952,
+    "char": "⛠",
+    "name": "RESTRICTED LEFT ENTRY-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9953,
+    "char": "⛡",
+    "name": "RESTRICTED LEFT ENTRY-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9954,
+    "char": "⛢",
+    "name": "ASTRONOMICAL SYMBOL FOR URANUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9955,
+    "char": "⛣",
+    "name": "HEAVY CIRCLE WITH STROKE AND TWO DOTS ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9956,
+    "char": "⛤",
+    "name": "PENTAGRAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9957,
+    "char": "⛥",
+    "name": "RIGHT-HANDED INTERLACED PENTAGRAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9958,
+    "char": "⛦",
+    "name": "LEFT-HANDED INTERLACED PENTAGRAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9959,
+    "char": "⛧",
+    "name": "INVERTED PENTAGRAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9960,
+    "char": "⛨",
+    "name": "BLACK CROSS ON SHIELD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9961,
+    "char": "⛩",
+    "name": "SHINTO SHRINE",
+    "ru": "синтоистский храм",
+    "en": "shinto shrine",
+    "keywords": {
+      "ru": ["религия", "святилище", "синто", "синтоизм", "синтоистский", "храм", "Япония"],
+      "en": ["religion", "shinto", "shrine"]
+    }
+  },
+  {
+    "cp": 9962,
+    "char": "⛪",
+    "name": "CHURCH",
+    "ru": "церковь",
+    "en": "church",
+    "keywords": {
+      "ru": ["здание", "монастырь", "религия", "собор", "храм", "христианство", "церковь"],
+      "en": ["bless", "chapel", "Christian", "church", "cross", "religion"]
+    }
+  },
+  {
+    "cp": 9963,
+    "char": "⛫",
+    "name": "CASTLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9964,
+    "char": "⛬",
+    "name": "HISTORIC SITE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9965,
+    "char": "⛭",
+    "name": "GEAR WITHOUT HUB",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9966,
+    "char": "⛮",
+    "name": "GEAR WITH HANDLES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9967,
+    "char": "⛯",
+    "name": "MAP SYMBOL FOR LIGHTHOUSE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9968,
+    "char": "⛰",
+    "name": "MOUNTAIN",
+    "ru": "гора",
+    "en": "mountain",
+    "keywords": { "ru": ["вершина", "гора", "пик"], "en": ["mountain"] }
+  },
+  {
+    "cp": 9969,
+    "char": "⛱",
+    "name": "UMBRELLA ON GROUND",
+    "ru": "пляжный зонт",
+    "en": "umbrella on ground",
+    "keywords": {
+      "ru": [
+        "аксессуар",
+        "дождь",
+        "защита",
+        "зонт",
+        "зонтик",
+        "непогода",
+        "пляж",
+        "пляжный зонт",
+        "солнце"
+      ],
+      "en": ["ground", "rain", "sun", "umbrella"]
+    }
+  },
+  {
+    "cp": 9970,
+    "char": "⛲",
+    "name": "FOUNTAIN",
+    "ru": "фонтан",
+    "en": "fountain",
+    "keywords": { "ru": ["брызги", "вода", "источник", "родник", "фонтан"], "en": ["fountain"] }
+  },
+  {
+    "cp": 9971,
+    "char": "⛳",
+    "name": "FLAG IN HOLE",
+    "ru": "гольф",
+    "en": "flag in hole",
+    "keywords": {
+      "ru": ["гольф", "игра", "лунка", "поле", "спорт", "флаг", "флажок"],
+      "en": ["flag", "golf", "hole", "sport"]
+    }
+  },
+  {
+    "cp": 9972,
+    "char": "⛴",
+    "name": "FERRY",
+    "ru": "паром",
+    "en": "ferry",
+    "keywords": { "ru": ["паром", "перевозки", "транспорт"], "en": ["boat", "ferry", "passenger"] }
+  },
+  {
+    "cp": 9973,
+    "char": "⛵",
+    "name": "SAILBOAT",
+    "ru": "парусник",
+    "en": "sailboat",
+    "keywords": {
+      "ru": ["кораблик", "лодка", "отдых", "парус", "парусник", "яхта"],
+      "en": ["boat", "resort", "sailboat", "sailing", "sea", "yacht"]
+    }
+  },
+  {
+    "cp": 9974,
+    "char": "⛶",
+    "name": "SQUARE FOUR CORNERS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9975,
+    "char": "⛷",
+    "name": "SKIER",
+    "ru": "горные лыжи",
+    "en": "skier",
+    "keywords": {
+      "ru": ["горнолыжный", "горные", "лыжи", "склон", "скорость", "спортсмен", "человек"],
+      "en": ["ski", "skier", "snow"]
+    }
+  },
+  {
+    "cp": 9976,
+    "char": "⛸",
+    "name": "ICE SKATE",
+    "ru": "коньки",
+    "en": "ice skate",
+    "keywords": {
+      "ru": [
+        "ботинок",
+        "катание",
+        "каток",
+        "конек",
+        "коньки",
+        "лед",
+        "лезвие",
+        "скорость",
+        "фигурное катание"
+      ],
+      "en": ["ice", "skate", "skating"]
+    }
+  },
+  {
+    "cp": 9977,
+    "char": "⛹",
+    "name": "PERSON WITH BALL",
+    "ru": "баскетболист",
+    "en": "person bouncing ball",
+    "keywords": {
+      "ru": ["баскетбол", "баскетболист", "ведение", "игра", "мяч"],
+      "en": [
+        "athletic",
+        "ball",
+        "basketball",
+        "bouncing",
+        "championship",
+        "dribble",
+        "net",
+        "person",
+        "player",
+        "throw"
+      ]
+    }
+  },
+  {
+    "cp": 9978,
+    "char": "⛺",
+    "name": "TENT",
+    "ru": "палатка",
+    "en": "tent",
+    "keywords": {
+      "ru": ["кемпинг", "лагерь", "палатка", "поход", "тент"],
+      "en": ["camping", "tent"]
+    }
+  },
+  {
+    "cp": 9979,
+    "char": "⛻",
+    "name": "JAPANESE BANK SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9980,
+    "char": "⛼",
+    "name": "HEADSTONE GRAVEYARD SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9981,
+    "char": "⛽",
+    "name": "FUEL PUMP",
+    "ru": "заправка",
+    "en": "fuel pump",
+    "keywords": {
+      "ru": [
+        "автозаправка",
+        "автозаправочная станция",
+        "АЗС",
+        "бензин",
+        "дизель",
+        "заправка",
+        "станция",
+        "топливо"
+      ],
+      "en": ["diesel", "fuel", "fuelpump", "gas", "gasoline", "pump", "station"]
+    }
+  },
+  {
+    "cp": 9982,
+    "char": "⛾",
+    "name": "CUP ON BLACK SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9983,
+    "char": "⛿",
+    "name": "WHITE FLAG WITH HORIZONTAL MIDDLE BLACK STRIPE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

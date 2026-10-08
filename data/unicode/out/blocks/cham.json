@@ -1,0 +1,666 @@
+[
+  {
+    "cp": 43520,
+    "char": "ꨀ",
+    "name": "CHAM LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43521,
+    "char": "ꨁ",
+    "name": "CHAM LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43522,
+    "char": "ꨂ",
+    "name": "CHAM LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43523,
+    "char": "ꨃ",
+    "name": "CHAM LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43524,
+    "char": "ꨄ",
+    "name": "CHAM LETTER AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43525,
+    "char": "ꨅ",
+    "name": "CHAM LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43526,
+    "char": "ꨆ",
+    "name": "CHAM LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43527,
+    "char": "ꨇ",
+    "name": "CHAM LETTER KHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43528,
+    "char": "ꨈ",
+    "name": "CHAM LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43529,
+    "char": "ꨉ",
+    "name": "CHAM LETTER GHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43530,
+    "char": "ꨊ",
+    "name": "CHAM LETTER NGUE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43531,
+    "char": "ꨋ",
+    "name": "CHAM LETTER NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43532,
+    "char": "ꨌ",
+    "name": "CHAM LETTER CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43533,
+    "char": "ꨍ",
+    "name": "CHAM LETTER CHHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43534,
+    "char": "ꨎ",
+    "name": "CHAM LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43535,
+    "char": "ꨏ",
+    "name": "CHAM LETTER JHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43536,
+    "char": "ꨐ",
+    "name": "CHAM LETTER NHUE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43537,
+    "char": "ꨑ",
+    "name": "CHAM LETTER NHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43538,
+    "char": "ꨒ",
+    "name": "CHAM LETTER NHJA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43539,
+    "char": "ꨓ",
+    "name": "CHAM LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43540,
+    "char": "ꨔ",
+    "name": "CHAM LETTER THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43541,
+    "char": "ꨕ",
+    "name": "CHAM LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43542,
+    "char": "ꨖ",
+    "name": "CHAM LETTER DHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43543,
+    "char": "ꨗ",
+    "name": "CHAM LETTER NUE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43544,
+    "char": "ꨘ",
+    "name": "CHAM LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43545,
+    "char": "ꨙ",
+    "name": "CHAM LETTER DDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43546,
+    "char": "ꨚ",
+    "name": "CHAM LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43547,
+    "char": "ꨛ",
+    "name": "CHAM LETTER PPA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43548,
+    "char": "ꨜ",
+    "name": "CHAM LETTER PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43549,
+    "char": "ꨝ",
+    "name": "CHAM LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43550,
+    "char": "ꨞ",
+    "name": "CHAM LETTER BHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43551,
+    "char": "ꨟ",
+    "name": "CHAM LETTER MUE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43552,
+    "char": "ꨠ",
+    "name": "CHAM LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43553,
+    "char": "ꨡ",
+    "name": "CHAM LETTER BBA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43554,
+    "char": "ꨢ",
+    "name": "CHAM LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43555,
+    "char": "ꨣ",
+    "name": "CHAM LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43556,
+    "char": "ꨤ",
+    "name": "CHAM LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43557,
+    "char": "ꨥ",
+    "name": "CHAM LETTER VA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43558,
+    "char": "ꨦ",
+    "name": "CHAM LETTER SSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43559,
+    "char": "ꨧ",
+    "name": "CHAM LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43560,
+    "char": "ꨨ",
+    "name": "CHAM LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43561,
+    "char": "ꨩ",
+    "name": "CHAM VOWEL SIGN AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43562,
+    "char": "ꨪ",
+    "name": "CHAM VOWEL SIGN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43563,
+    "char": "ꨫ",
+    "name": "CHAM VOWEL SIGN II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43564,
+    "char": "ꨬ",
+    "name": "CHAM VOWEL SIGN EI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43565,
+    "char": "ꨭ",
+    "name": "CHAM VOWEL SIGN U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43566,
+    "char": "ꨮ",
+    "name": "CHAM VOWEL SIGN OE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43567,
+    "char": "ꨯ",
+    "name": "CHAM VOWEL SIGN O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43568,
+    "char": "ꨰ",
+    "name": "CHAM VOWEL SIGN AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43569,
+    "char": "ꨱ",
+    "name": "CHAM VOWEL SIGN AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43570,
+    "char": "ꨲ",
+    "name": "CHAM VOWEL SIGN UE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43571,
+    "char": "ꨳ",
+    "name": "CHAM CONSONANT SIGN YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43572,
+    "char": "ꨴ",
+    "name": "CHAM CONSONANT SIGN RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43573,
+    "char": "ꨵ",
+    "name": "CHAM CONSONANT SIGN LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43574,
+    "char": "ꨶ",
+    "name": "CHAM CONSONANT SIGN WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43584,
+    "char": "ꩀ",
+    "name": "CHAM LETTER FINAL K",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43585,
+    "char": "ꩁ",
+    "name": "CHAM LETTER FINAL G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43586,
+    "char": "ꩂ",
+    "name": "CHAM LETTER FINAL NG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43587,
+    "char": "ꩃ",
+    "name": "CHAM CONSONANT SIGN FINAL NG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43588,
+    "char": "ꩄ",
+    "name": "CHAM LETTER FINAL CH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43589,
+    "char": "ꩅ",
+    "name": "CHAM LETTER FINAL T",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43590,
+    "char": "ꩆ",
+    "name": "CHAM LETTER FINAL N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43591,
+    "char": "ꩇ",
+    "name": "CHAM LETTER FINAL P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43592,
+    "char": "ꩈ",
+    "name": "CHAM LETTER FINAL Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43593,
+    "char": "ꩉ",
+    "name": "CHAM LETTER FINAL R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43594,
+    "char": "ꩊ",
+    "name": "CHAM LETTER FINAL L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43595,
+    "char": "ꩋ",
+    "name": "CHAM LETTER FINAL SS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43596,
+    "char": "ꩌ",
+    "name": "CHAM CONSONANT SIGN FINAL M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43597,
+    "char": "ꩍ",
+    "name": "CHAM CONSONANT SIGN FINAL H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43600,
+    "char": "꩐",
+    "name": "CHAM DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43601,
+    "char": "꩑",
+    "name": "CHAM DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43602,
+    "char": "꩒",
+    "name": "CHAM DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43603,
+    "char": "꩓",
+    "name": "CHAM DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43604,
+    "char": "꩔",
+    "name": "CHAM DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43605,
+    "char": "꩕",
+    "name": "CHAM DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43606,
+    "char": "꩖",
+    "name": "CHAM DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43607,
+    "char": "꩗",
+    "name": "CHAM DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43608,
+    "char": "꩘",
+    "name": "CHAM DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43609,
+    "char": "꩙",
+    "name": "CHAM DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43612,
+    "char": "꩜",
+    "name": "CHAM PUNCTUATION SPIRAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43613,
+    "char": "꩝",
+    "name": "CHAM PUNCTUATION DANDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43614,
+    "char": "꩞",
+    "name": "CHAM PUNCTUATION DOUBLE DANDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43615,
+    "char": "꩟",
+    "name": "CHAM PUNCTUATION TRIPLE DANDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "cp": 68928,
+    "char": "𐵀",
+    "name": "GARAY DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68929,
+    "char": "𐵁",
+    "name": "GARAY DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68930,
+    "char": "𐵂",
+    "name": "GARAY DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68931,
+    "char": "𐵃",
+    "name": "GARAY DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68932,
+    "char": "𐵄",
+    "name": "GARAY DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68933,
+    "char": "𐵅",
+    "name": "GARAY DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68934,
+    "char": "𐵆",
+    "name": "GARAY DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68935,
+    "char": "𐵇",
+    "name": "GARAY DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68936,
+    "char": "𐵈",
+    "name": "GARAY DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68937,
+    "char": "𐵉",
+    "name": "GARAY DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68938,
+    "char": "𐵊",
+    "name": "GARAY VOWEL SIGN A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68939,
+    "char": "𐵋",
+    "name": "GARAY VOWEL SIGN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68940,
+    "char": "𐵌",
+    "name": "GARAY VOWEL SIGN O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68941,
+    "char": "𐵍",
+    "name": "GARAY VOWEL SIGN EE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68942,
+    "char": "𐵎",
+    "name": "GARAY VOWEL LENGTH MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68943,
+    "char": "𐵏",
+    "name": "GARAY SUKUN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68944,
+    "char": "𐵐",
+    "name": "GARAY CAPITAL LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68945,
+    "char": "𐵑",
+    "name": "GARAY CAPITAL LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68946,
+    "char": "𐵒",
+    "name": "GARAY CAPITAL LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68947,
+    "char": "𐵓",
+    "name": "GARAY CAPITAL LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68948,
+    "char": "𐵔",
+    "name": "GARAY CAPITAL LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68949,
+    "char": "𐵕",
+    "name": "GARAY CAPITAL LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68950,
+    "char": "𐵖",
+    "name": "GARAY CAPITAL LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68951,
+    "char": "𐵗",
+    "name": "GARAY CAPITAL LETTER WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68952,
+    "char": "𐵘",
+    "name": "GARAY CAPITAL LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68953,
+    "char": "𐵙",
+    "name": "GARAY CAPITAL LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68954,
+    "char": "𐵚",
+    "name": "GARAY CAPITAL LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68955,
+    "char": "𐵛",
+    "name": "GARAY CAPITAL LETTER XA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68956,
+    "char": "𐵜",
+    "name": "GARAY CAPITAL LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68957,
+    "char": "𐵝",
+    "name": "GARAY CAPITAL LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68958,
+    "char": "𐵞",
+    "name": "GARAY CAPITAL LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68959,
+    "char": "𐵟",
+    "name": "GARAY CAPITAL LETTER NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68960,
+    "char": "𐵠",
+    "name": "GARAY CAPITAL LETTER FA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68961,
+    "char": "𐵡",
+    "name": "GARAY CAPITAL LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68962,
+    "char": "𐵢",
+    "name": "GARAY CAPITAL LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68963,
+    "char": "𐵣",
+    "name": "GARAY CAPITAL LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68964,
+    "char": "𐵤",
+    "name": "GARAY CAPITAL LETTER OLD KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68965,
+    "char": "𐵥",
+    "name": "GARAY CAPITAL LETTER OLD NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68969,
+    "char": "𐵩",
+    "name": "GARAY VOWEL SIGN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68970,
+    "char": "𐵪",
+    "name": "GARAY CONSONANT GEMINATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68971,
+    "char": "𐵫",
+    "name": "GARAY COMBINING DOT ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68972,
+    "char": "𐵬",
+    "name": "GARAY COMBINING DOUBLE DOT ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68973,
+    "char": "𐵭",
+    "name": "GARAY CONSONANT NASALIZATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68974,
+    "char": "𐵮",
+    "name": "GARAY HYPHEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68975,
+    "char": "𐵯",
+    "name": "GARAY REDUPLICATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68976,
+    "char": "𐵰",
+    "name": "GARAY SMALL LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68977,
+    "char": "𐵱",
+    "name": "GARAY SMALL LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68978,
+    "char": "𐵲",
+    "name": "GARAY SMALL LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68979,
+    "char": "𐵳",
+    "name": "GARAY SMALL LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68980,
+    "char": "𐵴",
+    "name": "GARAY SMALL LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68981,
+    "char": "𐵵",
+    "name": "GARAY SMALL LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68982,
+    "char": "𐵶",
+    "name": "GARAY SMALL LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68983,
+    "char": "𐵷",
+    "name": "GARAY SMALL LETTER WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68984,
+    "char": "𐵸",
+    "name": "GARAY SMALL LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68985,
+    "char": "𐵹",
+    "name": "GARAY SMALL LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68986,
+    "char": "𐵺",
+    "name": "GARAY SMALL LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68987,
+    "char": "𐵻",
+    "name": "GARAY SMALL LETTER XA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68988,
+    "char": "𐵼",
+    "name": "GARAY SMALL LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68989,
+    "char": "𐵽",
+    "name": "GARAY SMALL LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68990,
+    "char": "𐵾",
+    "name": "GARAY SMALL LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68991,
+    "char": "𐵿",
+    "name": "GARAY SMALL LETTER NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68992,
+    "char": "𐶀",
+    "name": "GARAY SMALL LETTER FA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68993,
+    "char": "𐶁",
+    "name": "GARAY SMALL LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68994,
+    "char": "𐶂",
+    "name": "GARAY SMALL LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68995,
+    "char": "𐶃",
+    "name": "GARAY SMALL LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68996,
+    "char": "𐶄",
+    "name": "GARAY SMALL LETTER OLD KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68997,
+    "char": "𐶅",
+    "name": "GARAY SMALL LETTER OLD NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69006,
+    "char": "𐶎",
+    "name": "GARAY PLUS SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69007,
+    "char": "𐶏",
+    "name": "GARAY MINUS SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

@@ -1,0 +1,986 @@
+[
+  {
+    "cp": 11392,
+    "char": "Ⲁ",
+    "name": "COPTIC CAPITAL LETTER ALFA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11393,
+    "char": "ⲁ",
+    "name": "COPTIC SMALL LETTER ALFA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11394,
+    "char": "Ⲃ",
+    "name": "COPTIC CAPITAL LETTER VIDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11395,
+    "char": "ⲃ",
+    "name": "COPTIC SMALL LETTER VIDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11396,
+    "char": "Ⲅ",
+    "name": "COPTIC CAPITAL LETTER GAMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11397,
+    "char": "ⲅ",
+    "name": "COPTIC SMALL LETTER GAMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11398,
+    "char": "Ⲇ",
+    "name": "COPTIC CAPITAL LETTER DALDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11399,
+    "char": "ⲇ",
+    "name": "COPTIC SMALL LETTER DALDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11400,
+    "char": "Ⲉ",
+    "name": "COPTIC CAPITAL LETTER EIE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11401,
+    "char": "ⲉ",
+    "name": "COPTIC SMALL LETTER EIE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11402,
+    "char": "Ⲋ",
+    "name": "COPTIC CAPITAL LETTER SOU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11403,
+    "char": "ⲋ",
+    "name": "COPTIC SMALL LETTER SOU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11404,
+    "char": "Ⲍ",
+    "name": "COPTIC CAPITAL LETTER ZATA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11405,
+    "char": "ⲍ",
+    "name": "COPTIC SMALL LETTER ZATA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11406,
+    "char": "Ⲏ",
+    "name": "COPTIC CAPITAL LETTER HATE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11407,
+    "char": "ⲏ",
+    "name": "COPTIC SMALL LETTER HATE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11408,
+    "char": "Ⲑ",
+    "name": "COPTIC CAPITAL LETTER THETHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11409,
+    "char": "ⲑ",
+    "name": "COPTIC SMALL LETTER THETHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11410,
+    "char": "Ⲓ",
+    "name": "COPTIC CAPITAL LETTER IAUDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11411,
+    "char": "ⲓ",
+    "name": "COPTIC SMALL LETTER IAUDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11412,
+    "char": "Ⲕ",
+    "name": "COPTIC CAPITAL LETTER KAPA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11413,
+    "char": "ⲕ",
+    "name": "COPTIC SMALL LETTER KAPA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11414,
+    "char": "Ⲗ",
+    "name": "COPTIC CAPITAL LETTER LAULA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11415,
+    "char": "ⲗ",
+    "name": "COPTIC SMALL LETTER LAULA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11416,
+    "char": "Ⲙ",
+    "name": "COPTIC CAPITAL LETTER MI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11417,
+    "char": "ⲙ",
+    "name": "COPTIC SMALL LETTER MI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11418,
+    "char": "Ⲛ",
+    "name": "COPTIC CAPITAL LETTER NI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11419,
+    "char": "ⲛ",
+    "name": "COPTIC SMALL LETTER NI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11420,
+    "char": "Ⲝ",
+    "name": "COPTIC CAPITAL LETTER KSI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11421,
+    "char": "ⲝ",
+    "name": "COPTIC SMALL LETTER KSI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11422,
+    "char": "Ⲟ",
+    "name": "COPTIC CAPITAL LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11423,
+    "char": "ⲟ",
+    "name": "COPTIC SMALL LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11424,
+    "char": "Ⲡ",
+    "name": "COPTIC CAPITAL LETTER PI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11425,
+    "char": "ⲡ",
+    "name": "COPTIC SMALL LETTER PI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11426,
+    "char": "Ⲣ",
+    "name": "COPTIC CAPITAL LETTER RO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11427,
+    "char": "ⲣ",
+    "name": "COPTIC SMALL LETTER RO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11428,
+    "char": "Ⲥ",
+    "name": "COPTIC CAPITAL LETTER SIMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11429,
+    "char": "ⲥ",
+    "name": "COPTIC SMALL LETTER SIMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11430,
+    "char": "Ⲧ",
+    "name": "COPTIC CAPITAL LETTER TAU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11431,
+    "char": "ⲧ",
+    "name": "COPTIC SMALL LETTER TAU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11432,
+    "char": "Ⲩ",
+    "name": "COPTIC CAPITAL LETTER UA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11433,
+    "char": "ⲩ",
+    "name": "COPTIC SMALL LETTER UA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11434,
+    "char": "Ⲫ",
+    "name": "COPTIC CAPITAL LETTER FI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11435,
+    "char": "ⲫ",
+    "name": "COPTIC SMALL LETTER FI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11436,
+    "char": "Ⲭ",
+    "name": "COPTIC CAPITAL LETTER KHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11437,
+    "char": "ⲭ",
+    "name": "COPTIC SMALL LETTER KHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11438,
+    "char": "Ⲯ",
+    "name": "COPTIC CAPITAL LETTER PSI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11439,
+    "char": "ⲯ",
+    "name": "COPTIC SMALL LETTER PSI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11440,
+    "char": "Ⲱ",
+    "name": "COPTIC CAPITAL LETTER OOU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11441,
+    "char": "ⲱ",
+    "name": "COPTIC SMALL LETTER OOU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11442,
+    "char": "Ⲳ",
+    "name": "COPTIC CAPITAL LETTER DIALECT-P ALEF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11443,
+    "char": "ⲳ",
+    "name": "COPTIC SMALL LETTER DIALECT-P ALEF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11444,
+    "char": "Ⲵ",
+    "name": "COPTIC CAPITAL LETTER OLD COPTIC AIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11445,
+    "char": "ⲵ",
+    "name": "COPTIC SMALL LETTER OLD COPTIC AIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11446,
+    "char": "Ⲷ",
+    "name": "COPTIC CAPITAL LETTER CRYPTOGRAMMIC EIE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11447,
+    "char": "ⲷ",
+    "name": "COPTIC SMALL LETTER CRYPTOGRAMMIC EIE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11448,
+    "char": "Ⲹ",
+    "name": "COPTIC CAPITAL LETTER DIALECT-P KAPA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11449,
+    "char": "ⲹ",
+    "name": "COPTIC SMALL LETTER DIALECT-P KAPA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11450,
+    "char": "Ⲻ",
+    "name": "COPTIC CAPITAL LETTER DIALECT-P NI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11451,
+    "char": "ⲻ",
+    "name": "COPTIC SMALL LETTER DIALECT-P NI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11452,
+    "char": "Ⲽ",
+    "name": "COPTIC CAPITAL LETTER CRYPTOGRAMMIC NI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11453,
+    "char": "ⲽ",
+    "name": "COPTIC SMALL LETTER CRYPTOGRAMMIC NI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11454,
+    "char": "Ⲿ",
+    "name": "COPTIC CAPITAL LETTER OLD COPTIC OOU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11455,
+    "char": "ⲿ",
+    "name": "COPTIC SMALL LETTER OLD COPTIC OOU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11456,
+    "char": "Ⳁ",
+    "name": "COPTIC CAPITAL LETTER SAMPI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11457,
+    "char": "ⳁ",
+    "name": "COPTIC SMALL LETTER SAMPI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11458,
+    "char": "Ⳃ",
+    "name": "COPTIC CAPITAL LETTER CROSSED SHEI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11459,
+    "char": "ⳃ",
+    "name": "COPTIC SMALL LETTER CROSSED SHEI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11460,
+    "char": "Ⳅ",
+    "name": "COPTIC CAPITAL LETTER OLD COPTIC SHEI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11461,
+    "char": "ⳅ",
+    "name": "COPTIC SMALL LETTER OLD COPTIC SHEI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11462,
+    "char": "Ⳇ",
+    "name": "COPTIC CAPITAL LETTER OLD COPTIC ESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11463,
+    "char": "ⳇ",
+    "name": "COPTIC SMALL LETTER OLD COPTIC ESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11464,
+    "char": "Ⳉ",
+    "name": "COPTIC CAPITAL LETTER AKHMIMIC KHEI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11465,
+    "char": "ⳉ",
+    "name": "COPTIC SMALL LETTER AKHMIMIC KHEI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11466,
+    "char": "Ⳋ",
+    "name": "COPTIC CAPITAL LETTER DIALECT-P HORI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11467,
+    "char": "ⳋ",
+    "name": "COPTIC SMALL LETTER DIALECT-P HORI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11468,
+    "char": "Ⳍ",
+    "name": "COPTIC CAPITAL LETTER OLD COPTIC HORI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11469,
+    "char": "ⳍ",
+    "name": "COPTIC SMALL LETTER OLD COPTIC HORI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11470,
+    "char": "Ⳏ",
+    "name": "COPTIC CAPITAL LETTER OLD COPTIC HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11471,
+    "char": "ⳏ",
+    "name": "COPTIC SMALL LETTER OLD COPTIC HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11472,
+    "char": "Ⳑ",
+    "name": "COPTIC CAPITAL LETTER L-SHAPED HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11473,
+    "char": "ⳑ",
+    "name": "COPTIC SMALL LETTER L-SHAPED HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11474,
+    "char": "Ⳓ",
+    "name": "COPTIC CAPITAL LETTER OLD COPTIC HEI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11475,
+    "char": "ⳓ",
+    "name": "COPTIC SMALL LETTER OLD COPTIC HEI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11476,
+    "char": "Ⳕ",
+    "name": "COPTIC CAPITAL LETTER OLD COPTIC HAT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11477,
+    "char": "ⳕ",
+    "name": "COPTIC SMALL LETTER OLD COPTIC HAT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11478,
+    "char": "Ⳗ",
+    "name": "COPTIC CAPITAL LETTER OLD COPTIC GANGIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11479,
+    "char": "ⳗ",
+    "name": "COPTIC SMALL LETTER OLD COPTIC GANGIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11480,
+    "char": "Ⳙ",
+    "name": "COPTIC CAPITAL LETTER OLD COPTIC DJA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11481,
+    "char": "ⳙ",
+    "name": "COPTIC SMALL LETTER OLD COPTIC DJA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11482,
+    "char": "Ⳛ",
+    "name": "COPTIC CAPITAL LETTER OLD COPTIC SHIMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11483,
+    "char": "ⳛ",
+    "name": "COPTIC SMALL LETTER OLD COPTIC SHIMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11484,
+    "char": "Ⳝ",
+    "name": "COPTIC CAPITAL LETTER OLD NUBIAN SHIMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11485,
+    "char": "ⳝ",
+    "name": "COPTIC SMALL LETTER OLD NUBIAN SHIMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11486,
+    "char": "Ⳟ",
+    "name": "COPTIC CAPITAL LETTER OLD NUBIAN NGI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11487,
+    "char": "ⳟ",
+    "name": "COPTIC SMALL LETTER OLD NUBIAN NGI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11488,
+    "char": "Ⳡ",
+    "name": "COPTIC CAPITAL LETTER OLD NUBIAN NYI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11489,
+    "char": "ⳡ",
+    "name": "COPTIC SMALL LETTER OLD NUBIAN NYI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11490,
+    "char": "Ⳣ",
+    "name": "COPTIC CAPITAL LETTER OLD NUBIAN WAU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11491,
+    "char": "ⳣ",
+    "name": "COPTIC SMALL LETTER OLD NUBIAN WAU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11492,
+    "char": "ⳤ",
+    "name": "COPTIC SYMBOL KAI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11493,
+    "char": "⳥",
+    "name": "COPTIC SYMBOL MI RO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11494,
+    "char": "⳦",
+    "name": "COPTIC SYMBOL PI RO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11495,
+    "char": "⳧",
+    "name": "COPTIC SYMBOL STAUROS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11496,
+    "char": "⳨",
+    "name": "COPTIC SYMBOL TAU RO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11497,
+    "char": "⳩",
+    "name": "COPTIC SYMBOL KHI RO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11498,
+    "char": "⳪",
+    "name": "COPTIC SYMBOL SHIMA SIMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11499,
+    "char": "Ⳬ",
+    "name": "COPTIC CAPITAL LETTER CRYPTOGRAMMIC SHEI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11500,
+    "char": "ⳬ",
+    "name": "COPTIC SMALL LETTER CRYPTOGRAMMIC SHEI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11501,
+    "char": "Ⳮ",
+    "name": "COPTIC CAPITAL LETTER CRYPTOGRAMMIC GANGIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11502,
+    "char": "ⳮ",
+    "name": "COPTIC SMALL LETTER CRYPTOGRAMMIC GANGIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11503,
+    "char": "⳯",
+    "name": "COPTIC COMBINING NI ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11504,
+    "char": "⳰",
+    "name": "COPTIC COMBINING SPIRITUS ASPER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11505,
+    "char": "⳱",
+    "name": "COPTIC COMBINING SPIRITUS LENIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11506,
+    "char": "Ⳳ",
+    "name": "COPTIC CAPITAL LETTER BOHAIRIC KHEI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11507,
+    "char": "ⳳ",
+    "name": "COPTIC SMALL LETTER BOHAIRIC KHEI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11513,
+    "char": "⳹",
+    "name": "COPTIC OLD NUBIAN FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11514,
+    "char": "⳺",
+    "name": "COPTIC OLD NUBIAN DIRECT QUESTION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11515,
+    "char": "⳻",
+    "name": "COPTIC OLD NUBIAN INDIRECT QUESTION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11516,
+    "char": "⳼",
+    "name": "COPTIC OLD NUBIAN VERSE DIVIDER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11517,
+    "char": "⳽",
+    "name": "COPTIC FRACTION ONE HALF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11518,
+    "char": "⳾",
+    "name": "COPTIC FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11519,
+    "char": "⳿",
+    "name": "COPTIC MORPHOLOGICAL DIVIDER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

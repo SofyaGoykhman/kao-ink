@@ -1,0 +1,818 @@
+[
+  {
+    "cp": 129536,
+    "char": "🨀",
+    "name": "NEUTRAL CHESS KING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129537,
+    "char": "🨁",
+    "name": "NEUTRAL CHESS QUEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129538,
+    "char": "🨂",
+    "name": "NEUTRAL CHESS ROOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129539,
+    "char": "🨃",
+    "name": "NEUTRAL CHESS BISHOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129540,
+    "char": "🨄",
+    "name": "NEUTRAL CHESS KNIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129541,
+    "char": "🨅",
+    "name": "NEUTRAL CHESS PAWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129542,
+    "char": "🨆",
+    "name": "WHITE CHESS KNIGHT ROTATED FORTY-FIVE DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129543,
+    "char": "🨇",
+    "name": "BLACK CHESS KNIGHT ROTATED FORTY-FIVE DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129544,
+    "char": "🨈",
+    "name": "NEUTRAL CHESS KNIGHT ROTATED FORTY-FIVE DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129545,
+    "char": "🨉",
+    "name": "WHITE CHESS KING ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129546,
+    "char": "🨊",
+    "name": "WHITE CHESS QUEEN ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129547,
+    "char": "🨋",
+    "name": "WHITE CHESS ROOK ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129548,
+    "char": "🨌",
+    "name": "WHITE CHESS BISHOP ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129549,
+    "char": "🨍",
+    "name": "WHITE CHESS KNIGHT ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129550,
+    "char": "🨎",
+    "name": "WHITE CHESS PAWN ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129551,
+    "char": "🨏",
+    "name": "BLACK CHESS KING ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129552,
+    "char": "🨐",
+    "name": "BLACK CHESS QUEEN ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129553,
+    "char": "🨑",
+    "name": "BLACK CHESS ROOK ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129554,
+    "char": "🨒",
+    "name": "BLACK CHESS BISHOP ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129555,
+    "char": "🨓",
+    "name": "BLACK CHESS KNIGHT ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129556,
+    "char": "🨔",
+    "name": "BLACK CHESS PAWN ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129557,
+    "char": "🨕",
+    "name": "NEUTRAL CHESS KING ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129558,
+    "char": "🨖",
+    "name": "NEUTRAL CHESS QUEEN ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129559,
+    "char": "🨗",
+    "name": "NEUTRAL CHESS ROOK ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129560,
+    "char": "🨘",
+    "name": "NEUTRAL CHESS BISHOP ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129561,
+    "char": "🨙",
+    "name": "NEUTRAL CHESS KNIGHT ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129562,
+    "char": "🨚",
+    "name": "NEUTRAL CHESS PAWN ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129563,
+    "char": "🨛",
+    "name": "WHITE CHESS KNIGHT ROTATED ONE HUNDRED THIRTY-FIVE DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129564,
+    "char": "🨜",
+    "name": "BLACK CHESS KNIGHT ROTATED ONE HUNDRED THIRTY-FIVE DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129565,
+    "char": "🨝",
+    "name": "NEUTRAL CHESS KNIGHT ROTATED ONE HUNDRED THIRTY-FIVE DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129566,
+    "char": "🨞",
+    "name": "WHITE CHESS TURNED KING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129567,
+    "char": "🨟",
+    "name": "WHITE CHESS TURNED QUEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129568,
+    "char": "🨠",
+    "name": "WHITE CHESS TURNED ROOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129569,
+    "char": "🨡",
+    "name": "WHITE CHESS TURNED BISHOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129570,
+    "char": "🨢",
+    "name": "WHITE CHESS TURNED KNIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129571,
+    "char": "🨣",
+    "name": "WHITE CHESS TURNED PAWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129572,
+    "char": "🨤",
+    "name": "BLACK CHESS TURNED KING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129573,
+    "char": "🨥",
+    "name": "BLACK CHESS TURNED QUEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129574,
+    "char": "🨦",
+    "name": "BLACK CHESS TURNED ROOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129575,
+    "char": "🨧",
+    "name": "BLACK CHESS TURNED BISHOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129576,
+    "char": "🨨",
+    "name": "BLACK CHESS TURNED KNIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129577,
+    "char": "🨩",
+    "name": "BLACK CHESS TURNED PAWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129578,
+    "char": "🨪",
+    "name": "NEUTRAL CHESS TURNED KING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129579,
+    "char": "🨫",
+    "name": "NEUTRAL CHESS TURNED QUEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129580,
+    "char": "🨬",
+    "name": "NEUTRAL CHESS TURNED ROOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129581,
+    "char": "🨭",
+    "name": "NEUTRAL CHESS TURNED BISHOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129582,
+    "char": "🨮",
+    "name": "NEUTRAL CHESS TURNED KNIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129583,
+    "char": "🨯",
+    "name": "NEUTRAL CHESS TURNED PAWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129584,
+    "char": "🨰",
+    "name": "WHITE CHESS KNIGHT ROTATED TWO HUNDRED TWENTY-FIVE DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129585,
+    "char": "🨱",
+    "name": "BLACK CHESS KNIGHT ROTATED TWO HUNDRED TWENTY-FIVE DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129586,
+    "char": "🨲",
+    "name": "NEUTRAL CHESS KNIGHT ROTATED TWO HUNDRED TWENTY-FIVE DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129587,
+    "char": "🨳",
+    "name": "WHITE CHESS KING ROTATED TWO HUNDRED SEVENTY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129588,
+    "char": "🨴",
+    "name": "WHITE CHESS QUEEN ROTATED TWO HUNDRED SEVENTY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129589,
+    "char": "🨵",
+    "name": "WHITE CHESS ROOK ROTATED TWO HUNDRED SEVENTY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129590,
+    "char": "🨶",
+    "name": "WHITE CHESS BISHOP ROTATED TWO HUNDRED SEVENTY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129591,
+    "char": "🨷",
+    "name": "WHITE CHESS KNIGHT ROTATED TWO HUNDRED SEVENTY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129592,
+    "char": "🨸",
+    "name": "WHITE CHESS PAWN ROTATED TWO HUNDRED SEVENTY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129593,
+    "char": "🨹",
+    "name": "BLACK CHESS KING ROTATED TWO HUNDRED SEVENTY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129594,
+    "char": "🨺",
+    "name": "BLACK CHESS QUEEN ROTATED TWO HUNDRED SEVENTY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129595,
+    "char": "🨻",
+    "name": "BLACK CHESS ROOK ROTATED TWO HUNDRED SEVENTY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129596,
+    "char": "🨼",
+    "name": "BLACK CHESS BISHOP ROTATED TWO HUNDRED SEVENTY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129597,
+    "char": "🨽",
+    "name": "BLACK CHESS KNIGHT ROTATED TWO HUNDRED SEVENTY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129598,
+    "char": "🨾",
+    "name": "BLACK CHESS PAWN ROTATED TWO HUNDRED SEVENTY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129599,
+    "char": "🨿",
+    "name": "NEUTRAL CHESS KING ROTATED TWO HUNDRED SEVENTY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129600,
+    "char": "🩀",
+    "name": "NEUTRAL CHESS QUEEN ROTATED TWO HUNDRED SEVENTY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129601,
+    "char": "🩁",
+    "name": "NEUTRAL CHESS ROOK ROTATED TWO HUNDRED SEVENTY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129602,
+    "char": "🩂",
+    "name": "NEUTRAL CHESS BISHOP ROTATED TWO HUNDRED SEVENTY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129603,
+    "char": "🩃",
+    "name": "NEUTRAL CHESS KNIGHT ROTATED TWO HUNDRED SEVENTY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129604,
+    "char": "🩄",
+    "name": "NEUTRAL CHESS PAWN ROTATED TWO HUNDRED SEVENTY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129605,
+    "char": "🩅",
+    "name": "WHITE CHESS KNIGHT ROTATED THREE HUNDRED FIFTEEN DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129606,
+    "char": "🩆",
+    "name": "BLACK CHESS KNIGHT ROTATED THREE HUNDRED FIFTEEN DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129607,
+    "char": "🩇",
+    "name": "NEUTRAL CHESS KNIGHT ROTATED THREE HUNDRED FIFTEEN DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129608,
+    "char": "🩈",
+    "name": "WHITE CHESS EQUIHOPPER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129609,
+    "char": "🩉",
+    "name": "BLACK CHESS EQUIHOPPER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129610,
+    "char": "🩊",
+    "name": "NEUTRAL CHESS EQUIHOPPER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129611,
+    "char": "🩋",
+    "name": "WHITE CHESS EQUIHOPPER ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129612,
+    "char": "🩌",
+    "name": "BLACK CHESS EQUIHOPPER ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129613,
+    "char": "🩍",
+    "name": "NEUTRAL CHESS EQUIHOPPER ROTATED NINETY DEGREES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129614,
+    "char": "🩎",
+    "name": "WHITE CHESS KNIGHT-QUEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129615,
+    "char": "🩏",
+    "name": "WHITE CHESS KNIGHT-ROOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129616,
+    "char": "🩐",
+    "name": "WHITE CHESS KNIGHT-BISHOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129617,
+    "char": "🩑",
+    "name": "BLACK CHESS KNIGHT-QUEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129618,
+    "char": "🩒",
+    "name": "BLACK CHESS KNIGHT-ROOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129619,
+    "char": "🩓",
+    "name": "BLACK CHESS KNIGHT-BISHOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129620,
+    "char": "🩔",
+    "name": "WHITE CHESS FERZ",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129621,
+    "char": "🩕",
+    "name": "WHITE CHESS ALFIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129622,
+    "char": "🩖",
+    "name": "BLACK CHESS FERZ",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129623,
+    "char": "🩗",
+    "name": "BLACK CHESS ALFIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129632,
+    "char": "🩠",
+    "name": "XIANGQI RED GENERAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129633,
+    "char": "🩡",
+    "name": "XIANGQI RED MANDARIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129634,
+    "char": "🩢",
+    "name": "XIANGQI RED ELEPHANT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129635,
+    "char": "🩣",
+    "name": "XIANGQI RED HORSE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129636,
+    "char": "🩤",
+    "name": "XIANGQI RED CHARIOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129637,
+    "char": "🩥",
+    "name": "XIANGQI RED CANNON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129638,
+    "char": "🩦",
+    "name": "XIANGQI RED SOLDIER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129639,
+    "char": "🩧",
+    "name": "XIANGQI BLACK GENERAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129640,
+    "char": "🩨",
+    "name": "XIANGQI BLACK MANDARIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129641,
+    "char": "🩩",
+    "name": "XIANGQI BLACK ELEPHANT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129642,
+    "char": "🩪",
+    "name": "XIANGQI BLACK HORSE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129643,
+    "char": "🩫",
+    "name": "XIANGQI BLACK CHARIOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129644,
+    "char": "🩬",
+    "name": "XIANGQI BLACK CANNON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129645,
+    "char": "🩭",
+    "name": "XIANGQI BLACK SOLDIER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

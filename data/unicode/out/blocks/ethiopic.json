@@ -1,0 +1,2866 @@
+[
+  {
+    "cp": 4608,
+    "char": "ሀ",
+    "name": "ETHIOPIC SYLLABLE HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4609,
+    "char": "ሁ",
+    "name": "ETHIOPIC SYLLABLE HU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4610,
+    "char": "ሂ",
+    "name": "ETHIOPIC SYLLABLE HI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4611,
+    "char": "ሃ",
+    "name": "ETHIOPIC SYLLABLE HAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4612,
+    "char": "ሄ",
+    "name": "ETHIOPIC SYLLABLE HEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4613,
+    "char": "ህ",
+    "name": "ETHIOPIC SYLLABLE HE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4614,
+    "char": "ሆ",
+    "name": "ETHIOPIC SYLLABLE HO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4615,
+    "char": "ሇ",
+    "name": "ETHIOPIC SYLLABLE HOA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4616,
+    "char": "ለ",
+    "name": "ETHIOPIC SYLLABLE LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4617,
+    "char": "ሉ",
+    "name": "ETHIOPIC SYLLABLE LU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4618,
+    "char": "ሊ",
+    "name": "ETHIOPIC SYLLABLE LI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4619,
+    "char": "ላ",
+    "name": "ETHIOPIC SYLLABLE LAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4620,
+    "char": "ሌ",
+    "name": "ETHIOPIC SYLLABLE LEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4621,
+    "char": "ል",
+    "name": "ETHIOPIC SYLLABLE LE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4622,
+    "char": "ሎ",
+    "name": "ETHIOPIC SYLLABLE LO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4623,
+    "char": "ሏ",
+    "name": "ETHIOPIC SYLLABLE LWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4624,
+    "char": "ሐ",
+    "name": "ETHIOPIC SYLLABLE HHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4625,
+    "char": "ሑ",
+    "name": "ETHIOPIC SYLLABLE HHU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4626,
+    "char": "ሒ",
+    "name": "ETHIOPIC SYLLABLE HHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4627,
+    "char": "ሓ",
+    "name": "ETHIOPIC SYLLABLE HHAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4628,
+    "char": "ሔ",
+    "name": "ETHIOPIC SYLLABLE HHEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4629,
+    "char": "ሕ",
+    "name": "ETHIOPIC SYLLABLE HHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4630,
+    "char": "ሖ",
+    "name": "ETHIOPIC SYLLABLE HHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4631,
+    "char": "ሗ",
+    "name": "ETHIOPIC SYLLABLE HHWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4632,
+    "char": "መ",
+    "name": "ETHIOPIC SYLLABLE MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4633,
+    "char": "ሙ",
+    "name": "ETHIOPIC SYLLABLE MU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4634,
+    "char": "ሚ",
+    "name": "ETHIOPIC SYLLABLE MI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4635,
+    "char": "ማ",
+    "name": "ETHIOPIC SYLLABLE MAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4636,
+    "char": "ሜ",
+    "name": "ETHIOPIC SYLLABLE MEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4637,
+    "char": "ም",
+    "name": "ETHIOPIC SYLLABLE ME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4638,
+    "char": "ሞ",
+    "name": "ETHIOPIC SYLLABLE MO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4639,
+    "char": "ሟ",
+    "name": "ETHIOPIC SYLLABLE MWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4640,
+    "char": "ሠ",
+    "name": "ETHIOPIC SYLLABLE SZA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4641,
+    "char": "ሡ",
+    "name": "ETHIOPIC SYLLABLE SZU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4642,
+    "char": "ሢ",
+    "name": "ETHIOPIC SYLLABLE SZI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4643,
+    "char": "ሣ",
+    "name": "ETHIOPIC SYLLABLE SZAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4644,
+    "char": "ሤ",
+    "name": "ETHIOPIC SYLLABLE SZEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4645,
+    "char": "ሥ",
+    "name": "ETHIOPIC SYLLABLE SZE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4646,
+    "char": "ሦ",
+    "name": "ETHIOPIC SYLLABLE SZO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4647,
+    "char": "ሧ",
+    "name": "ETHIOPIC SYLLABLE SZWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4648,
+    "char": "ረ",
+    "name": "ETHIOPIC SYLLABLE RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4649,
+    "char": "ሩ",
+    "name": "ETHIOPIC SYLLABLE RU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4650,
+    "char": "ሪ",
+    "name": "ETHIOPIC SYLLABLE RI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4651,
+    "char": "ራ",
+    "name": "ETHIOPIC SYLLABLE RAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4652,
+    "char": "ሬ",
+    "name": "ETHIOPIC SYLLABLE REE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4653,
+    "char": "ር",
+    "name": "ETHIOPIC SYLLABLE RE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4654,
+    "char": "ሮ",
+    "name": "ETHIOPIC SYLLABLE RO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4655,
+    "char": "ሯ",
+    "name": "ETHIOPIC SYLLABLE RWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4656,
+    "char": "ሰ",
+    "name": "ETHIOPIC SYLLABLE SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4657,
+    "char": "ሱ",
+    "name": "ETHIOPIC SYLLABLE SU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4658,
+    "char": "ሲ",
+    "name": "ETHIOPIC SYLLABLE SI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4659,
+    "char": "ሳ",
+    "name": "ETHIOPIC SYLLABLE SAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4660,
+    "char": "ሴ",
+    "name": "ETHIOPIC SYLLABLE SEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4661,
+    "char": "ስ",
+    "name": "ETHIOPIC SYLLABLE SE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4662,
+    "char": "ሶ",
+    "name": "ETHIOPIC SYLLABLE SO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4663,
+    "char": "ሷ",
+    "name": "ETHIOPIC SYLLABLE SWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4664,
+    "char": "ሸ",
+    "name": "ETHIOPIC SYLLABLE SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4665,
+    "char": "ሹ",
+    "name": "ETHIOPIC SYLLABLE SHU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4666,
+    "char": "ሺ",
+    "name": "ETHIOPIC SYLLABLE SHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4667,
+    "char": "ሻ",
+    "name": "ETHIOPIC SYLLABLE SHAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4668,
+    "char": "ሼ",
+    "name": "ETHIOPIC SYLLABLE SHEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4669,
+    "char": "ሽ",
+    "name": "ETHIOPIC SYLLABLE SHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4670,
+    "char": "ሾ",
+    "name": "ETHIOPIC SYLLABLE SHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4671,
+    "char": "ሿ",
+    "name": "ETHIOPIC SYLLABLE SHWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4672,
+    "char": "ቀ",
+    "name": "ETHIOPIC SYLLABLE QA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4673,
+    "char": "ቁ",
+    "name": "ETHIOPIC SYLLABLE QU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4674,
+    "char": "ቂ",
+    "name": "ETHIOPIC SYLLABLE QI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4675,
+    "char": "ቃ",
+    "name": "ETHIOPIC SYLLABLE QAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4676,
+    "char": "ቄ",
+    "name": "ETHIOPIC SYLLABLE QEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4677,
+    "char": "ቅ",
+    "name": "ETHIOPIC SYLLABLE QE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4678,
+    "char": "ቆ",
+    "name": "ETHIOPIC SYLLABLE QO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4679,
+    "char": "ቇ",
+    "name": "ETHIOPIC SYLLABLE QOA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4680,
+    "char": "ቈ",
+    "name": "ETHIOPIC SYLLABLE QWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4682,
+    "char": "ቊ",
+    "name": "ETHIOPIC SYLLABLE QWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4683,
+    "char": "ቋ",
+    "name": "ETHIOPIC SYLLABLE QWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4684,
+    "char": "ቌ",
+    "name": "ETHIOPIC SYLLABLE QWEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4685,
+    "char": "ቍ",
+    "name": "ETHIOPIC SYLLABLE QWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4688,
+    "char": "ቐ",
+    "name": "ETHIOPIC SYLLABLE QHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4689,
+    "char": "ቑ",
+    "name": "ETHIOPIC SYLLABLE QHU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4690,
+    "char": "ቒ",
+    "name": "ETHIOPIC SYLLABLE QHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4691,
+    "char": "ቓ",
+    "name": "ETHIOPIC SYLLABLE QHAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4692,
+    "char": "ቔ",
+    "name": "ETHIOPIC SYLLABLE QHEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4693,
+    "char": "ቕ",
+    "name": "ETHIOPIC SYLLABLE QHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4694,
+    "char": "ቖ",
+    "name": "ETHIOPIC SYLLABLE QHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4696,
+    "char": "ቘ",
+    "name": "ETHIOPIC SYLLABLE QHWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4698,
+    "char": "ቚ",
+    "name": "ETHIOPIC SYLLABLE QHWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4699,
+    "char": "ቛ",
+    "name": "ETHIOPIC SYLLABLE QHWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4700,
+    "char": "ቜ",
+    "name": "ETHIOPIC SYLLABLE QHWEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4701,
+    "char": "ቝ",
+    "name": "ETHIOPIC SYLLABLE QHWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4704,
+    "char": "በ",
+    "name": "ETHIOPIC SYLLABLE BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4705,
+    "char": "ቡ",
+    "name": "ETHIOPIC SYLLABLE BU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4706,
+    "char": "ቢ",
+    "name": "ETHIOPIC SYLLABLE BI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4707,
+    "char": "ባ",
+    "name": "ETHIOPIC SYLLABLE BAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4708,
+    "char": "ቤ",
+    "name": "ETHIOPIC SYLLABLE BEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4709,
+    "char": "ብ",
+    "name": "ETHIOPIC SYLLABLE BE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4710,
+    "char": "ቦ",
+    "name": "ETHIOPIC SYLLABLE BO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4711,
+    "char": "ቧ",
+    "name": "ETHIOPIC SYLLABLE BWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4712,
+    "char": "ቨ",
+    "name": "ETHIOPIC SYLLABLE VA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4713,
+    "char": "ቩ",
+    "name": "ETHIOPIC SYLLABLE VU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4714,
+    "char": "ቪ",
+    "name": "ETHIOPIC SYLLABLE VI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4715,
+    "char": "ቫ",
+    "name": "ETHIOPIC SYLLABLE VAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4716,
+    "char": "ቬ",
+    "name": "ETHIOPIC SYLLABLE VEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4717,
+    "char": "ቭ",
+    "name": "ETHIOPIC SYLLABLE VE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4718,
+    "char": "ቮ",
+    "name": "ETHIOPIC SYLLABLE VO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4719,
+    "char": "ቯ",
+    "name": "ETHIOPIC SYLLABLE VWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4720,
+    "char": "ተ",
+    "name": "ETHIOPIC SYLLABLE TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4721,
+    "char": "ቱ",
+    "name": "ETHIOPIC SYLLABLE TU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4722,
+    "char": "ቲ",
+    "name": "ETHIOPIC SYLLABLE TI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4723,
+    "char": "ታ",
+    "name": "ETHIOPIC SYLLABLE TAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4724,
+    "char": "ቴ",
+    "name": "ETHIOPIC SYLLABLE TEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4725,
+    "char": "ት",
+    "name": "ETHIOPIC SYLLABLE TE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4726,
+    "char": "ቶ",
+    "name": "ETHIOPIC SYLLABLE TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4727,
+    "char": "ቷ",
+    "name": "ETHIOPIC SYLLABLE TWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4728,
+    "char": "ቸ",
+    "name": "ETHIOPIC SYLLABLE CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4729,
+    "char": "ቹ",
+    "name": "ETHIOPIC SYLLABLE CU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4730,
+    "char": "ቺ",
+    "name": "ETHIOPIC SYLLABLE CI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4731,
+    "char": "ቻ",
+    "name": "ETHIOPIC SYLLABLE CAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4732,
+    "char": "ቼ",
+    "name": "ETHIOPIC SYLLABLE CEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4733,
+    "char": "ች",
+    "name": "ETHIOPIC SYLLABLE CE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4734,
+    "char": "ቾ",
+    "name": "ETHIOPIC SYLLABLE CO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4735,
+    "char": "ቿ",
+    "name": "ETHIOPIC SYLLABLE CWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4736,
+    "char": "ኀ",
+    "name": "ETHIOPIC SYLLABLE XA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4737,
+    "char": "ኁ",
+    "name": "ETHIOPIC SYLLABLE XU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4738,
+    "char": "ኂ",
+    "name": "ETHIOPIC SYLLABLE XI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4739,
+    "char": "ኃ",
+    "name": "ETHIOPIC SYLLABLE XAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4740,
+    "char": "ኄ",
+    "name": "ETHIOPIC SYLLABLE XEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4741,
+    "char": "ኅ",
+    "name": "ETHIOPIC SYLLABLE XE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4742,
+    "char": "ኆ",
+    "name": "ETHIOPIC SYLLABLE XO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4743,
+    "char": "ኇ",
+    "name": "ETHIOPIC SYLLABLE XOA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4744,
+    "char": "ኈ",
+    "name": "ETHIOPIC SYLLABLE XWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4746,
+    "char": "ኊ",
+    "name": "ETHIOPIC SYLLABLE XWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4747,
+    "char": "ኋ",
+    "name": "ETHIOPIC SYLLABLE XWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4748,
+    "char": "ኌ",
+    "name": "ETHIOPIC SYLLABLE XWEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4749,
+    "char": "ኍ",
+    "name": "ETHIOPIC SYLLABLE XWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4752,
+    "char": "ነ",
+    "name": "ETHIOPIC SYLLABLE NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4753,
+    "char": "ኑ",
+    "name": "ETHIOPIC SYLLABLE NU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4754,
+    "char": "ኒ",
+    "name": "ETHIOPIC SYLLABLE NI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4755,
+    "char": "ና",
+    "name": "ETHIOPIC SYLLABLE NAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4756,
+    "char": "ኔ",
+    "name": "ETHIOPIC SYLLABLE NEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4757,
+    "char": "ን",
+    "name": "ETHIOPIC SYLLABLE NE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4758,
+    "char": "ኖ",
+    "name": "ETHIOPIC SYLLABLE NO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4759,
+    "char": "ኗ",
+    "name": "ETHIOPIC SYLLABLE NWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4760,
+    "char": "ኘ",
+    "name": "ETHIOPIC SYLLABLE NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4761,
+    "char": "ኙ",
+    "name": "ETHIOPIC SYLLABLE NYU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4762,
+    "char": "ኚ",
+    "name": "ETHIOPIC SYLLABLE NYI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4763,
+    "char": "ኛ",
+    "name": "ETHIOPIC SYLLABLE NYAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4764,
+    "char": "ኜ",
+    "name": "ETHIOPIC SYLLABLE NYEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4765,
+    "char": "ኝ",
+    "name": "ETHIOPIC SYLLABLE NYE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4766,
+    "char": "ኞ",
+    "name": "ETHIOPIC SYLLABLE NYO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4767,
+    "char": "ኟ",
+    "name": "ETHIOPIC SYLLABLE NYWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4768,
+    "char": "አ",
+    "name": "ETHIOPIC SYLLABLE GLOTTAL A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4769,
+    "char": "ኡ",
+    "name": "ETHIOPIC SYLLABLE GLOTTAL U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4770,
+    "char": "ኢ",
+    "name": "ETHIOPIC SYLLABLE GLOTTAL I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4771,
+    "char": "ኣ",
+    "name": "ETHIOPIC SYLLABLE GLOTTAL AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4772,
+    "char": "ኤ",
+    "name": "ETHIOPIC SYLLABLE GLOTTAL EE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4773,
+    "char": "እ",
+    "name": "ETHIOPIC SYLLABLE GLOTTAL E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4774,
+    "char": "ኦ",
+    "name": "ETHIOPIC SYLLABLE GLOTTAL O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4775,
+    "char": "ኧ",
+    "name": "ETHIOPIC SYLLABLE GLOTTAL WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4776,
+    "char": "ከ",
+    "name": "ETHIOPIC SYLLABLE KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4777,
+    "char": "ኩ",
+    "name": "ETHIOPIC SYLLABLE KU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4778,
+    "char": "ኪ",
+    "name": "ETHIOPIC SYLLABLE KI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4779,
+    "char": "ካ",
+    "name": "ETHIOPIC SYLLABLE KAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4780,
+    "char": "ኬ",
+    "name": "ETHIOPIC SYLLABLE KEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4781,
+    "char": "ክ",
+    "name": "ETHIOPIC SYLLABLE KE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4782,
+    "char": "ኮ",
+    "name": "ETHIOPIC SYLLABLE KO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4783,
+    "char": "ኯ",
+    "name": "ETHIOPIC SYLLABLE KOA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4784,
+    "char": "ኰ",
+    "name": "ETHIOPIC SYLLABLE KWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4786,
+    "char": "ኲ",
+    "name": "ETHIOPIC SYLLABLE KWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4787,
+    "char": "ኳ",
+    "name": "ETHIOPIC SYLLABLE KWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4788,
+    "char": "ኴ",
+    "name": "ETHIOPIC SYLLABLE KWEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4789,
+    "char": "ኵ",
+    "name": "ETHIOPIC SYLLABLE KWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4792,
+    "char": "ኸ",
+    "name": "ETHIOPIC SYLLABLE KXA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4793,
+    "char": "ኹ",
+    "name": "ETHIOPIC SYLLABLE KXU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4794,
+    "char": "ኺ",
+    "name": "ETHIOPIC SYLLABLE KXI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4795,
+    "char": "ኻ",
+    "name": "ETHIOPIC SYLLABLE KXAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4796,
+    "char": "ኼ",
+    "name": "ETHIOPIC SYLLABLE KXEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4797,
+    "char": "ኽ",
+    "name": "ETHIOPIC SYLLABLE KXE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4798,
+    "char": "ኾ",
+    "name": "ETHIOPIC SYLLABLE KXO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4800,
+    "char": "ዀ",
+    "name": "ETHIOPIC SYLLABLE KXWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4802,
+    "char": "ዂ",
+    "name": "ETHIOPIC SYLLABLE KXWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4803,
+    "char": "ዃ",
+    "name": "ETHIOPIC SYLLABLE KXWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4804,
+    "char": "ዄ",
+    "name": "ETHIOPIC SYLLABLE KXWEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4805,
+    "char": "ዅ",
+    "name": "ETHIOPIC SYLLABLE KXWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4808,
+    "char": "ወ",
+    "name": "ETHIOPIC SYLLABLE WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4809,
+    "char": "ዉ",
+    "name": "ETHIOPIC SYLLABLE WU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4810,
+    "char": "ዊ",
+    "name": "ETHIOPIC SYLLABLE WI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4811,
+    "char": "ዋ",
+    "name": "ETHIOPIC SYLLABLE WAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4812,
+    "char": "ዌ",
+    "name": "ETHIOPIC SYLLABLE WEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4813,
+    "char": "ው",
+    "name": "ETHIOPIC SYLLABLE WE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4814,
+    "char": "ዎ",
+    "name": "ETHIOPIC SYLLABLE WO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4815,
+    "char": "ዏ",
+    "name": "ETHIOPIC SYLLABLE WOA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4816,
+    "char": "ዐ",
+    "name": "ETHIOPIC SYLLABLE PHARYNGEAL A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4817,
+    "char": "ዑ",
+    "name": "ETHIOPIC SYLLABLE PHARYNGEAL U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4818,
+    "char": "ዒ",
+    "name": "ETHIOPIC SYLLABLE PHARYNGEAL I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4819,
+    "char": "ዓ",
+    "name": "ETHIOPIC SYLLABLE PHARYNGEAL AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4820,
+    "char": "ዔ",
+    "name": "ETHIOPIC SYLLABLE PHARYNGEAL EE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4821,
+    "char": "ዕ",
+    "name": "ETHIOPIC SYLLABLE PHARYNGEAL E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4822,
+    "char": "ዖ",
+    "name": "ETHIOPIC SYLLABLE PHARYNGEAL O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4824,
+    "char": "ዘ",
+    "name": "ETHIOPIC SYLLABLE ZA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4825,
+    "char": "ዙ",
+    "name": "ETHIOPIC SYLLABLE ZU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4826,
+    "char": "ዚ",
+    "name": "ETHIOPIC SYLLABLE ZI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4827,
+    "char": "ዛ",
+    "name": "ETHIOPIC SYLLABLE ZAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4828,
+    "char": "ዜ",
+    "name": "ETHIOPIC SYLLABLE ZEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4829,
+    "char": "ዝ",
+    "name": "ETHIOPIC SYLLABLE ZE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4830,
+    "char": "ዞ",
+    "name": "ETHIOPIC SYLLABLE ZO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4831,
+    "char": "ዟ",
+    "name": "ETHIOPIC SYLLABLE ZWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4832,
+    "char": "ዠ",
+    "name": "ETHIOPIC SYLLABLE ZHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4833,
+    "char": "ዡ",
+    "name": "ETHIOPIC SYLLABLE ZHU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4834,
+    "char": "ዢ",
+    "name": "ETHIOPIC SYLLABLE ZHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4835,
+    "char": "ዣ",
+    "name": "ETHIOPIC SYLLABLE ZHAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4836,
+    "char": "ዤ",
+    "name": "ETHIOPIC SYLLABLE ZHEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4837,
+    "char": "ዥ",
+    "name": "ETHIOPIC SYLLABLE ZHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4838,
+    "char": "ዦ",
+    "name": "ETHIOPIC SYLLABLE ZHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4839,
+    "char": "ዧ",
+    "name": "ETHIOPIC SYLLABLE ZHWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4840,
+    "char": "የ",
+    "name": "ETHIOPIC SYLLABLE YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4841,
+    "char": "ዩ",
+    "name": "ETHIOPIC SYLLABLE YU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4842,
+    "char": "ዪ",
+    "name": "ETHIOPIC SYLLABLE YI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4843,
+    "char": "ያ",
+    "name": "ETHIOPIC SYLLABLE YAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4844,
+    "char": "ዬ",
+    "name": "ETHIOPIC SYLLABLE YEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4845,
+    "char": "ይ",
+    "name": "ETHIOPIC SYLLABLE YE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4846,
+    "char": "ዮ",
+    "name": "ETHIOPIC SYLLABLE YO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4847,
+    "char": "ዯ",
+    "name": "ETHIOPIC SYLLABLE YOA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4848,
+    "char": "ደ",
+    "name": "ETHIOPIC SYLLABLE DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4849,
+    "char": "ዱ",
+    "name": "ETHIOPIC SYLLABLE DU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4850,
+    "char": "ዲ",
+    "name": "ETHIOPIC SYLLABLE DI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4851,
+    "char": "ዳ",
+    "name": "ETHIOPIC SYLLABLE DAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4852,
+    "char": "ዴ",
+    "name": "ETHIOPIC SYLLABLE DEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4853,
+    "char": "ድ",
+    "name": "ETHIOPIC SYLLABLE DE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4854,
+    "char": "ዶ",
+    "name": "ETHIOPIC SYLLABLE DO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4855,
+    "char": "ዷ",
+    "name": "ETHIOPIC SYLLABLE DWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4856,
+    "char": "ዸ",
+    "name": "ETHIOPIC SYLLABLE DDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4857,
+    "char": "ዹ",
+    "name": "ETHIOPIC SYLLABLE DDU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4858,
+    "char": "ዺ",
+    "name": "ETHIOPIC SYLLABLE DDI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4859,
+    "char": "ዻ",
+    "name": "ETHIOPIC SYLLABLE DDAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4860,
+    "char": "ዼ",
+    "name": "ETHIOPIC SYLLABLE DDEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4861,
+    "char": "ዽ",
+    "name": "ETHIOPIC SYLLABLE DDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4862,
+    "char": "ዾ",
+    "name": "ETHIOPIC SYLLABLE DDO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4863,
+    "char": "ዿ",
+    "name": "ETHIOPIC SYLLABLE DDWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4864,
+    "char": "ጀ",
+    "name": "ETHIOPIC SYLLABLE JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4865,
+    "char": "ጁ",
+    "name": "ETHIOPIC SYLLABLE JU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4866,
+    "char": "ጂ",
+    "name": "ETHIOPIC SYLLABLE JI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4867,
+    "char": "ጃ",
+    "name": "ETHIOPIC SYLLABLE JAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4868,
+    "char": "ጄ",
+    "name": "ETHIOPIC SYLLABLE JEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4869,
+    "char": "ጅ",
+    "name": "ETHIOPIC SYLLABLE JE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4870,
+    "char": "ጆ",
+    "name": "ETHIOPIC SYLLABLE JO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4871,
+    "char": "ጇ",
+    "name": "ETHIOPIC SYLLABLE JWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4872,
+    "char": "ገ",
+    "name": "ETHIOPIC SYLLABLE GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4873,
+    "char": "ጉ",
+    "name": "ETHIOPIC SYLLABLE GU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4874,
+    "char": "ጊ",
+    "name": "ETHIOPIC SYLLABLE GI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4875,
+    "char": "ጋ",
+    "name": "ETHIOPIC SYLLABLE GAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4876,
+    "char": "ጌ",
+    "name": "ETHIOPIC SYLLABLE GEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4877,
+    "char": "ግ",
+    "name": "ETHIOPIC SYLLABLE GE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4878,
+    "char": "ጎ",
+    "name": "ETHIOPIC SYLLABLE GO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4879,
+    "char": "ጏ",
+    "name": "ETHIOPIC SYLLABLE GOA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4880,
+    "char": "ጐ",
+    "name": "ETHIOPIC SYLLABLE GWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4882,
+    "char": "ጒ",
+    "name": "ETHIOPIC SYLLABLE GWI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4883,
+    "char": "ጓ",
+    "name": "ETHIOPIC SYLLABLE GWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4884,
+    "char": "ጔ",
+    "name": "ETHIOPIC SYLLABLE GWEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4885,
+    "char": "ጕ",
+    "name": "ETHIOPIC SYLLABLE GWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4888,
+    "char": "ጘ",
+    "name": "ETHIOPIC SYLLABLE GGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4889,
+    "char": "ጙ",
+    "name": "ETHIOPIC SYLLABLE GGU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4890,
+    "char": "ጚ",
+    "name": "ETHIOPIC SYLLABLE GGI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4891,
+    "char": "ጛ",
+    "name": "ETHIOPIC SYLLABLE GGAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4892,
+    "char": "ጜ",
+    "name": "ETHIOPIC SYLLABLE GGEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4893,
+    "char": "ጝ",
+    "name": "ETHIOPIC SYLLABLE GGE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4894,
+    "char": "ጞ",
+    "name": "ETHIOPIC SYLLABLE GGO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4895,
+    "char": "ጟ",
+    "name": "ETHIOPIC SYLLABLE GGWAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4896,
+    "char": "ጠ",
+    "name": "ETHIOPIC SYLLABLE THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4897,
+    "char": "ጡ",
+    "name": "ETHIOPIC SYLLABLE THU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4898,
+    "char": "ጢ",
+    "name": "ETHIOPIC SYLLABLE THI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4899,
+    "char": "ጣ",
+    "name": "ETHIOPIC SYLLABLE THAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4900,
+    "char": "ጤ",
+    "name": "ETHIOPIC SYLLABLE THEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4901,
+    "char": "ጥ",
+    "name": "ETHIOPIC SYLLABLE THE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4902,
+    "char": "ጦ",
+    "name": "ETHIOPIC SYLLABLE THO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4903,
+    "char": "ጧ",
+    "name": "ETHIOPIC SYLLABLE THWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4904,
+    "char": "ጨ",
+    "name": "ETHIOPIC SYLLABLE CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4905,
+    "char": "ጩ",
+    "name": "ETHIOPIC SYLLABLE CHU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4906,
+    "char": "ጪ",
+    "name": "ETHIOPIC SYLLABLE CHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4907,
+    "char": "ጫ",
+    "name": "ETHIOPIC SYLLABLE CHAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4908,
+    "char": "ጬ",
+    "name": "ETHIOPIC SYLLABLE CHEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4909,
+    "char": "ጭ",
+    "name": "ETHIOPIC SYLLABLE CHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4910,
+    "char": "ጮ",
+    "name": "ETHIOPIC SYLLABLE CHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4911,
+    "char": "ጯ",
+    "name": "ETHIOPIC SYLLABLE CHWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4912,
+    "char": "ጰ",
+    "name": "ETHIOPIC SYLLABLE PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4913,
+    "char": "ጱ",
+    "name": "ETHIOPIC SYLLABLE PHU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4914,
+    "char": "ጲ",
+    "name": "ETHIOPIC SYLLABLE PHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4915,
+    "char": "ጳ",
+    "name": "ETHIOPIC SYLLABLE PHAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4916,
+    "char": "ጴ",
+    "name": "ETHIOPIC SYLLABLE PHEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4917,
+    "char": "ጵ",
+    "name": "ETHIOPIC SYLLABLE PHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4918,
+    "char": "ጶ",
+    "name": "ETHIOPIC SYLLABLE PHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4919,
+    "char": "ጷ",
+    "name": "ETHIOPIC SYLLABLE PHWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4920,
+    "char": "ጸ",
+    "name": "ETHIOPIC SYLLABLE TSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4921,
+    "char": "ጹ",
+    "name": "ETHIOPIC SYLLABLE TSU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4922,
+    "char": "ጺ",
+    "name": "ETHIOPIC SYLLABLE TSI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4923,
+    "char": "ጻ",
+    "name": "ETHIOPIC SYLLABLE TSAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4924,
+    "char": "ጼ",
+    "name": "ETHIOPIC SYLLABLE TSEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4925,
+    "char": "ጽ",
+    "name": "ETHIOPIC SYLLABLE TSE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4926,
+    "char": "ጾ",
+    "name": "ETHIOPIC SYLLABLE TSO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4927,
+    "char": "ጿ",
+    "name": "ETHIOPIC SYLLABLE TSWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4928,
+    "char": "ፀ",
+    "name": "ETHIOPIC SYLLABLE TZA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4929,
+    "char": "ፁ",
+    "name": "ETHIOPIC SYLLABLE TZU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4930,
+    "char": "ፂ",
+    "name": "ETHIOPIC SYLLABLE TZI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4931,
+    "char": "ፃ",
+    "name": "ETHIOPIC SYLLABLE TZAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4932,
+    "char": "ፄ",
+    "name": "ETHIOPIC SYLLABLE TZEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4933,
+    "char": "ፅ",
+    "name": "ETHIOPIC SYLLABLE TZE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4934,
+    "char": "ፆ",
+    "name": "ETHIOPIC SYLLABLE TZO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4935,
+    "char": "ፇ",
+    "name": "ETHIOPIC SYLLABLE TZOA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4936,
+    "char": "ፈ",
+    "name": "ETHIOPIC SYLLABLE FA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4937,
+    "char": "ፉ",
+    "name": "ETHIOPIC SYLLABLE FU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4938,
+    "char": "ፊ",
+    "name": "ETHIOPIC SYLLABLE FI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4939,
+    "char": "ፋ",
+    "name": "ETHIOPIC SYLLABLE FAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4940,
+    "char": "ፌ",
+    "name": "ETHIOPIC SYLLABLE FEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4941,
+    "char": "ፍ",
+    "name": "ETHIOPIC SYLLABLE FE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4942,
+    "char": "ፎ",
+    "name": "ETHIOPIC SYLLABLE FO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4943,
+    "char": "ፏ",
+    "name": "ETHIOPIC SYLLABLE FWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4944,
+    "char": "ፐ",
+    "name": "ETHIOPIC SYLLABLE PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4945,
+    "char": "ፑ",
+    "name": "ETHIOPIC SYLLABLE PU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4946,
+    "char": "ፒ",
+    "name": "ETHIOPIC SYLLABLE PI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4947,
+    "char": "ፓ",
+    "name": "ETHIOPIC SYLLABLE PAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4948,
+    "char": "ፔ",
+    "name": "ETHIOPIC SYLLABLE PEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4949,
+    "char": "ፕ",
+    "name": "ETHIOPIC SYLLABLE PE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4950,
+    "char": "ፖ",
+    "name": "ETHIOPIC SYLLABLE PO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4951,
+    "char": "ፗ",
+    "name": "ETHIOPIC SYLLABLE PWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4952,
+    "char": "ፘ",
+    "name": "ETHIOPIC SYLLABLE RYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4953,
+    "char": "ፙ",
+    "name": "ETHIOPIC SYLLABLE MYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4954,
+    "char": "ፚ",
+    "name": "ETHIOPIC SYLLABLE FYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4957,
+    "char": "፝",
+    "name": "ETHIOPIC COMBINING GEMINATION AND VOWEL LENGTH MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4958,
+    "char": "፞",
+    "name": "ETHIOPIC COMBINING VOWEL LENGTH MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4959,
+    "char": "፟",
+    "name": "ETHIOPIC COMBINING GEMINATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4960,
+    "char": "፠",
+    "name": "ETHIOPIC SECTION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4961,
+    "char": "፡",
+    "name": "ETHIOPIC WORDSPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4962,
+    "char": "።",
+    "name": "ETHIOPIC FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4963,
+    "char": "፣",
+    "name": "ETHIOPIC COMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4964,
+    "char": "፤",
+    "name": "ETHIOPIC SEMICOLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4965,
+    "char": "፥",
+    "name": "ETHIOPIC COLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4966,
+    "char": "፦",
+    "name": "ETHIOPIC PREFACE COLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4967,
+    "char": "፧",
+    "name": "ETHIOPIC QUESTION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4968,
+    "char": "፨",
+    "name": "ETHIOPIC PARAGRAPH SEPARATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4969,
+    "char": "፩",
+    "name": "ETHIOPIC DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4970,
+    "char": "፪",
+    "name": "ETHIOPIC DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4971,
+    "char": "፫",
+    "name": "ETHIOPIC DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4972,
+    "char": "፬",
+    "name": "ETHIOPIC DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4973,
+    "char": "፭",
+    "name": "ETHIOPIC DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4974,
+    "char": "፮",
+    "name": "ETHIOPIC DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4975,
+    "char": "፯",
+    "name": "ETHIOPIC DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4976,
+    "char": "፰",
+    "name": "ETHIOPIC DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4977,
+    "char": "፱",
+    "name": "ETHIOPIC DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4978,
+    "char": "፲",
+    "name": "ETHIOPIC NUMBER TEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4979,
+    "char": "፳",
+    "name": "ETHIOPIC NUMBER TWENTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4980,
+    "char": "፴",
+    "name": "ETHIOPIC NUMBER THIRTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4981,
+    "char": "፵",
+    "name": "ETHIOPIC NUMBER FORTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4982,
+    "char": "፶",
+    "name": "ETHIOPIC NUMBER FIFTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4983,
+    "char": "፷",
+    "name": "ETHIOPIC NUMBER SIXTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4984,
+    "char": "፸",
+    "name": "ETHIOPIC NUMBER SEVENTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4985,
+    "char": "፹",
+    "name": "ETHIOPIC NUMBER EIGHTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4986,
+    "char": "፺",
+    "name": "ETHIOPIC NUMBER NINETY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4987,
+    "char": "፻",
+    "name": "ETHIOPIC NUMBER HUNDRED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4988,
+    "char": "፼",
+    "name": "ETHIOPIC NUMBER TEN THOUSAND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

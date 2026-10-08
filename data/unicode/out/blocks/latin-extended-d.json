@@ -1,0 +1,1650 @@
+[
+  {
+    "cp": 42784,
+    "char": "꜠",
+    "name": "MODIFIER LETTER STRESS AND HIGH TONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42785,
+    "char": "꜡",
+    "name": "MODIFIER LETTER STRESS AND LOW TONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42786,
+    "char": "Ꜣ",
+    "name": "LATIN CAPITAL LETTER EGYPTOLOGICAL ALEF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42787,
+    "char": "ꜣ",
+    "name": "LATIN SMALL LETTER EGYPTOLOGICAL ALEF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42788,
+    "char": "Ꜥ",
+    "name": "LATIN CAPITAL LETTER EGYPTOLOGICAL AIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42789,
+    "char": "ꜥ",
+    "name": "LATIN SMALL LETTER EGYPTOLOGICAL AIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42790,
+    "char": "Ꜧ",
+    "name": "LATIN CAPITAL LETTER HENG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42791,
+    "char": "ꜧ",
+    "name": "LATIN SMALL LETTER HENG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42792,
+    "char": "Ꜩ",
+    "name": "LATIN CAPITAL LETTER TZ",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42793,
+    "char": "ꜩ",
+    "name": "LATIN SMALL LETTER TZ",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42794,
+    "char": "Ꜫ",
+    "name": "LATIN CAPITAL LETTER TRESILLO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42795,
+    "char": "ꜫ",
+    "name": "LATIN SMALL LETTER TRESILLO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42796,
+    "char": "Ꜭ",
+    "name": "LATIN CAPITAL LETTER CUATRILLO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42797,
+    "char": "ꜭ",
+    "name": "LATIN SMALL LETTER CUATRILLO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42798,
+    "char": "Ꜯ",
+    "name": "LATIN CAPITAL LETTER CUATRILLO WITH COMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42799,
+    "char": "ꜯ",
+    "name": "LATIN SMALL LETTER CUATRILLO WITH COMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42800,
+    "char": "ꜰ",
+    "name": "LATIN LETTER SMALL CAPITAL F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42801,
+    "char": "ꜱ",
+    "name": "LATIN LETTER SMALL CAPITAL S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42802,
+    "char": "Ꜳ",
+    "name": "LATIN CAPITAL LETTER AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42803,
+    "char": "ꜳ",
+    "name": "LATIN SMALL LETTER AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42804,
+    "char": "Ꜵ",
+    "name": "LATIN CAPITAL LETTER AO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42805,
+    "char": "ꜵ",
+    "name": "LATIN SMALL LETTER AO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42806,
+    "char": "Ꜷ",
+    "name": "LATIN CAPITAL LETTER AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42807,
+    "char": "ꜷ",
+    "name": "LATIN SMALL LETTER AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42808,
+    "char": "Ꜹ",
+    "name": "LATIN CAPITAL LETTER AV",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42809,
+    "char": "ꜹ",
+    "name": "LATIN SMALL LETTER AV",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42810,
+    "char": "Ꜻ",
+    "name": "LATIN CAPITAL LETTER AV WITH HORIZONTAL BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42811,
+    "char": "ꜻ",
+    "name": "LATIN SMALL LETTER AV WITH HORIZONTAL BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42812,
+    "char": "Ꜽ",
+    "name": "LATIN CAPITAL LETTER AY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42813,
+    "char": "ꜽ",
+    "name": "LATIN SMALL LETTER AY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42814,
+    "char": "Ꜿ",
+    "name": "LATIN CAPITAL LETTER REVERSED C WITH DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42815,
+    "char": "ꜿ",
+    "name": "LATIN SMALL LETTER REVERSED C WITH DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42816,
+    "char": "Ꝁ",
+    "name": "LATIN CAPITAL LETTER K WITH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42817,
+    "char": "ꝁ",
+    "name": "LATIN SMALL LETTER K WITH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42818,
+    "char": "Ꝃ",
+    "name": "LATIN CAPITAL LETTER K WITH DIAGONAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42819,
+    "char": "ꝃ",
+    "name": "LATIN SMALL LETTER K WITH DIAGONAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42820,
+    "char": "Ꝅ",
+    "name": "LATIN CAPITAL LETTER K WITH STROKE AND DIAGONAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42821,
+    "char": "ꝅ",
+    "name": "LATIN SMALL LETTER K WITH STROKE AND DIAGONAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42822,
+    "char": "Ꝇ",
+    "name": "LATIN CAPITAL LETTER BROKEN L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42823,
+    "char": "ꝇ",
+    "name": "LATIN SMALL LETTER BROKEN L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42824,
+    "char": "Ꝉ",
+    "name": "LATIN CAPITAL LETTER L WITH HIGH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42825,
+    "char": "ꝉ",
+    "name": "LATIN SMALL LETTER L WITH HIGH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42826,
+    "char": "Ꝋ",
+    "name": "LATIN CAPITAL LETTER O WITH LONG STROKE OVERLAY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42827,
+    "char": "ꝋ",
+    "name": "LATIN SMALL LETTER O WITH LONG STROKE OVERLAY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42828,
+    "char": "Ꝍ",
+    "name": "LATIN CAPITAL LETTER O WITH LOOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42829,
+    "char": "ꝍ",
+    "name": "LATIN SMALL LETTER O WITH LOOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42830,
+    "char": "Ꝏ",
+    "name": "LATIN CAPITAL LETTER OO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42831,
+    "char": "ꝏ",
+    "name": "LATIN SMALL LETTER OO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42832,
+    "char": "Ꝑ",
+    "name": "LATIN CAPITAL LETTER P WITH STROKE THROUGH DESCENDER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42833,
+    "char": "ꝑ",
+    "name": "LATIN SMALL LETTER P WITH STROKE THROUGH DESCENDER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42834,
+    "char": "Ꝓ",
+    "name": "LATIN CAPITAL LETTER P WITH FLOURISH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42835,
+    "char": "ꝓ",
+    "name": "LATIN SMALL LETTER P WITH FLOURISH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42836,
+    "char": "Ꝕ",
+    "name": "LATIN CAPITAL LETTER P WITH SQUIRREL TAIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42837,
+    "char": "ꝕ",
+    "name": "LATIN SMALL LETTER P WITH SQUIRREL TAIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42838,
+    "char": "Ꝗ",
+    "name": "LATIN CAPITAL LETTER Q WITH STROKE THROUGH DESCENDER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42839,
+    "char": "ꝗ",
+    "name": "LATIN SMALL LETTER Q WITH STROKE THROUGH DESCENDER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42840,
+    "char": "Ꝙ",
+    "name": "LATIN CAPITAL LETTER Q WITH DIAGONAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42841,
+    "char": "ꝙ",
+    "name": "LATIN SMALL LETTER Q WITH DIAGONAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42842,
+    "char": "Ꝛ",
+    "name": "LATIN CAPITAL LETTER R ROTUNDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42843,
+    "char": "ꝛ",
+    "name": "LATIN SMALL LETTER R ROTUNDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42844,
+    "char": "Ꝝ",
+    "name": "LATIN CAPITAL LETTER RUM ROTUNDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42845,
+    "char": "ꝝ",
+    "name": "LATIN SMALL LETTER RUM ROTUNDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42846,
+    "char": "Ꝟ",
+    "name": "LATIN CAPITAL LETTER V WITH DIAGONAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42847,
+    "char": "ꝟ",
+    "name": "LATIN SMALL LETTER V WITH DIAGONAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42848,
+    "char": "Ꝡ",
+    "name": "LATIN CAPITAL LETTER VY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42849,
+    "char": "ꝡ",
+    "name": "LATIN SMALL LETTER VY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42850,
+    "char": "Ꝣ",
+    "name": "LATIN CAPITAL LETTER VISIGOTHIC Z",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42851,
+    "char": "ꝣ",
+    "name": "LATIN SMALL LETTER VISIGOTHIC Z",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42852,
+    "char": "Ꝥ",
+    "name": "LATIN CAPITAL LETTER THORN WITH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42853,
+    "char": "ꝥ",
+    "name": "LATIN SMALL LETTER THORN WITH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42854,
+    "char": "Ꝧ",
+    "name": "LATIN CAPITAL LETTER THORN WITH STROKE THROUGH DESCENDER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42855,
+    "char": "ꝧ",
+    "name": "LATIN SMALL LETTER THORN WITH STROKE THROUGH DESCENDER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42856,
+    "char": "Ꝩ",
+    "name": "LATIN CAPITAL LETTER VEND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42857,
+    "char": "ꝩ",
+    "name": "LATIN SMALL LETTER VEND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42858,
+    "char": "Ꝫ",
+    "name": "LATIN CAPITAL LETTER ET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42859,
+    "char": "ꝫ",
+    "name": "LATIN SMALL LETTER ET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42860,
+    "char": "Ꝭ",
+    "name": "LATIN CAPITAL LETTER IS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42861,
+    "char": "ꝭ",
+    "name": "LATIN SMALL LETTER IS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42862,
+    "char": "Ꝯ",
+    "name": "LATIN CAPITAL LETTER CON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42863,
+    "char": "ꝯ",
+    "name": "LATIN SMALL LETTER CON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42864,
+    "char": "ꝰ",
+    "name": "MODIFIER LETTER US",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42865,
+    "char": "ꝱ",
+    "name": "LATIN SMALL LETTER DUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42866,
+    "char": "ꝲ",
+    "name": "LATIN SMALL LETTER LUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42867,
+    "char": "ꝳ",
+    "name": "LATIN SMALL LETTER MUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42868,
+    "char": "ꝴ",
+    "name": "LATIN SMALL LETTER NUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42869,
+    "char": "ꝵ",
+    "name": "LATIN SMALL LETTER RUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42870,
+    "char": "ꝶ",
+    "name": "LATIN LETTER SMALL CAPITAL RUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42871,
+    "char": "ꝷ",
+    "name": "LATIN SMALL LETTER TUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42872,
+    "char": "ꝸ",
+    "name": "LATIN SMALL LETTER UM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42873,
+    "char": "Ꝺ",
+    "name": "LATIN CAPITAL LETTER INSULAR D",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42874,
+    "char": "ꝺ",
+    "name": "LATIN SMALL LETTER INSULAR D",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42875,
+    "char": "Ꝼ",
+    "name": "LATIN CAPITAL LETTER INSULAR F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42876,
+    "char": "ꝼ",
+    "name": "LATIN SMALL LETTER INSULAR F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42877,
+    "char": "Ᵹ",
+    "name": "LATIN CAPITAL LETTER INSULAR G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42878,
+    "char": "Ꝿ",
+    "name": "LATIN CAPITAL LETTER TURNED INSULAR G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42879,
+    "char": "ꝿ",
+    "name": "LATIN SMALL LETTER TURNED INSULAR G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42880,
+    "char": "Ꞁ",
+    "name": "LATIN CAPITAL LETTER TURNED L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42881,
+    "char": "ꞁ",
+    "name": "LATIN SMALL LETTER TURNED L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42882,
+    "char": "Ꞃ",
+    "name": "LATIN CAPITAL LETTER INSULAR R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42883,
+    "char": "ꞃ",
+    "name": "LATIN SMALL LETTER INSULAR R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42884,
+    "char": "Ꞅ",
+    "name": "LATIN CAPITAL LETTER INSULAR S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42885,
+    "char": "ꞅ",
+    "name": "LATIN SMALL LETTER INSULAR S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42886,
+    "char": "Ꞇ",
+    "name": "LATIN CAPITAL LETTER INSULAR T",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42887,
+    "char": "ꞇ",
+    "name": "LATIN SMALL LETTER INSULAR T",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42888,
+    "char": "ꞈ",
+    "name": "MODIFIER LETTER LOW CIRCUMFLEX ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42889,
+    "char": "꞉",
+    "name": "MODIFIER LETTER COLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42890,
+    "char": "꞊",
+    "name": "MODIFIER LETTER SHORT EQUALS SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42891,
+    "char": "Ꞌ",
+    "name": "LATIN CAPITAL LETTER SALTILLO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42892,
+    "char": "ꞌ",
+    "name": "LATIN SMALL LETTER SALTILLO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42893,
+    "char": "Ɥ",
+    "name": "LATIN CAPITAL LETTER TURNED H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42894,
+    "char": "ꞎ",
+    "name": "LATIN SMALL LETTER L WITH RETROFLEX HOOK AND BELT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42895,
+    "char": "ꞏ",
+    "name": "LATIN LETTER SINOLOGICAL DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42896,
+    "char": "Ꞑ",
+    "name": "LATIN CAPITAL LETTER N WITH DESCENDER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42897,
+    "char": "ꞑ",
+    "name": "LATIN SMALL LETTER N WITH DESCENDER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42898,
+    "char": "Ꞓ",
+    "name": "LATIN CAPITAL LETTER C WITH BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42899,
+    "char": "ꞓ",
+    "name": "LATIN SMALL LETTER C WITH BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42900,
+    "char": "ꞔ",
+    "name": "LATIN SMALL LETTER C WITH PALATAL HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42901,
+    "char": "ꞕ",
+    "name": "LATIN SMALL LETTER H WITH PALATAL HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42902,
+    "char": "Ꞗ",
+    "name": "LATIN CAPITAL LETTER B WITH FLOURISH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42903,
+    "char": "ꞗ",
+    "name": "LATIN SMALL LETTER B WITH FLOURISH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42904,
+    "char": "Ꞙ",
+    "name": "LATIN CAPITAL LETTER F WITH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42905,
+    "char": "ꞙ",
+    "name": "LATIN SMALL LETTER F WITH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42906,
+    "char": "Ꞛ",
+    "name": "LATIN CAPITAL LETTER VOLAPUK AE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42907,
+    "char": "ꞛ",
+    "name": "LATIN SMALL LETTER VOLAPUK AE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42908,
+    "char": "Ꞝ",
+    "name": "LATIN CAPITAL LETTER VOLAPUK OE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42909,
+    "char": "ꞝ",
+    "name": "LATIN SMALL LETTER VOLAPUK OE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42910,
+    "char": "Ꞟ",
+    "name": "LATIN CAPITAL LETTER VOLAPUK UE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42911,
+    "char": "ꞟ",
+    "name": "LATIN SMALL LETTER VOLAPUK UE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42912,
+    "char": "Ꞡ",
+    "name": "LATIN CAPITAL LETTER G WITH OBLIQUE STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42913,
+    "char": "ꞡ",
+    "name": "LATIN SMALL LETTER G WITH OBLIQUE STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42914,
+    "char": "Ꞣ",
+    "name": "LATIN CAPITAL LETTER K WITH OBLIQUE STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42915,
+    "char": "ꞣ",
+    "name": "LATIN SMALL LETTER K WITH OBLIQUE STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42916,
+    "char": "Ꞥ",
+    "name": "LATIN CAPITAL LETTER N WITH OBLIQUE STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42917,
+    "char": "ꞥ",
+    "name": "LATIN SMALL LETTER N WITH OBLIQUE STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42918,
+    "char": "Ꞧ",
+    "name": "LATIN CAPITAL LETTER R WITH OBLIQUE STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42919,
+    "char": "ꞧ",
+    "name": "LATIN SMALL LETTER R WITH OBLIQUE STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42920,
+    "char": "Ꞩ",
+    "name": "LATIN CAPITAL LETTER S WITH OBLIQUE STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42921,
+    "char": "ꞩ",
+    "name": "LATIN SMALL LETTER S WITH OBLIQUE STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42922,
+    "char": "Ɦ",
+    "name": "LATIN CAPITAL LETTER H WITH HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42923,
+    "char": "Ɜ",
+    "name": "LATIN CAPITAL LETTER REVERSED OPEN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42924,
+    "char": "Ɡ",
+    "name": "LATIN CAPITAL LETTER SCRIPT G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42925,
+    "char": "Ɬ",
+    "name": "LATIN CAPITAL LETTER L WITH BELT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42926,
+    "char": "Ɪ",
+    "name": "LATIN CAPITAL LETTER SMALL CAPITAL I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42927,
+    "char": "ꞯ",
+    "name": "LATIN LETTER SMALL CAPITAL Q",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42928,
+    "char": "Ʞ",
+    "name": "LATIN CAPITAL LETTER TURNED K",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42929,
+    "char": "Ʇ",
+    "name": "LATIN CAPITAL LETTER TURNED T",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42930,
+    "char": "Ʝ",
+    "name": "LATIN CAPITAL LETTER J WITH CROSSED-TAIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42931,
+    "char": "Ꭓ",
+    "name": "LATIN CAPITAL LETTER CHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42932,
+    "char": "Ꞵ",
+    "name": "LATIN CAPITAL LETTER BETA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42933,
+    "char": "ꞵ",
+    "name": "LATIN SMALL LETTER BETA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42934,
+    "char": "Ꞷ",
+    "name": "LATIN CAPITAL LETTER OMEGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42935,
+    "char": "ꞷ",
+    "name": "LATIN SMALL LETTER OMEGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42936,
+    "char": "Ꞹ",
+    "name": "LATIN CAPITAL LETTER U WITH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42937,
+    "char": "ꞹ",
+    "name": "LATIN SMALL LETTER U WITH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42938,
+    "char": "Ꞻ",
+    "name": "LATIN CAPITAL LETTER GLOTTAL A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42939,
+    "char": "ꞻ",
+    "name": "LATIN SMALL LETTER GLOTTAL A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42940,
+    "char": "Ꞽ",
+    "name": "LATIN CAPITAL LETTER GLOTTAL I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42941,
+    "char": "ꞽ",
+    "name": "LATIN SMALL LETTER GLOTTAL I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42942,
+    "char": "Ꞿ",
+    "name": "LATIN CAPITAL LETTER GLOTTAL U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42943,
+    "char": "ꞿ",
+    "name": "LATIN SMALL LETTER GLOTTAL U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42944,
+    "char": "Ꟁ",
+    "name": "LATIN CAPITAL LETTER OLD POLISH O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42945,
+    "char": "ꟁ",
+    "name": "LATIN SMALL LETTER OLD POLISH O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42946,
+    "char": "Ꟃ",
+    "name": "LATIN CAPITAL LETTER ANGLICANA W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42947,
+    "char": "ꟃ",
+    "name": "LATIN SMALL LETTER ANGLICANA W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42948,
+    "char": "Ꞔ",
+    "name": "LATIN CAPITAL LETTER C WITH PALATAL HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42949,
+    "char": "Ʂ",
+    "name": "LATIN CAPITAL LETTER S WITH HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42950,
+    "char": "Ᶎ",
+    "name": "LATIN CAPITAL LETTER Z WITH PALATAL HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42951,
+    "char": "Ꟈ",
+    "name": "LATIN CAPITAL LETTER D WITH SHORT STROKE OVERLAY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42952,
+    "char": "ꟈ",
+    "name": "LATIN SMALL LETTER D WITH SHORT STROKE OVERLAY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42953,
+    "char": "Ꟊ",
+    "name": "LATIN CAPITAL LETTER S WITH SHORT STROKE OVERLAY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42954,
+    "char": "ꟊ",
+    "name": "LATIN SMALL LETTER S WITH SHORT STROKE OVERLAY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42955,
+    "char": "Ɤ",
+    "name": "LATIN CAPITAL LETTER RAMS HORN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42956,
+    "char": "Ꟍ",
+    "name": "LATIN CAPITAL LETTER S WITH DIAGONAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42957,
+    "char": "ꟍ",
+    "name": "LATIN SMALL LETTER S WITH DIAGONAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42958,
+    "char": "꟎",
+    "name": "LATIN CAPITAL LETTER PHARYNGEAL VOICED FRICATIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42959,
+    "char": "꟏",
+    "name": "LATIN SMALL LETTER PHARYNGEAL VOICED FRICATIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42960,
+    "char": "Ꟑ",
+    "name": "LATIN CAPITAL LETTER CLOSED INSULAR G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42961,
+    "char": "ꟑ",
+    "name": "LATIN SMALL LETTER CLOSED INSULAR G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42962,
+    "char": "꟒",
+    "name": "LATIN CAPITAL LETTER DOUBLE THORN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42963,
+    "char": "ꟓ",
+    "name": "LATIN SMALL LETTER DOUBLE THORN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42964,
+    "char": "꟔",
+    "name": "LATIN CAPITAL LETTER DOUBLE WYNN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42965,
+    "char": "ꟕ",
+    "name": "LATIN SMALL LETTER DOUBLE WYNN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42966,
+    "char": "Ꟗ",
+    "name": "LATIN CAPITAL LETTER MIDDLE SCOTS S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42967,
+    "char": "ꟗ",
+    "name": "LATIN SMALL LETTER MIDDLE SCOTS S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42968,
+    "char": "Ꟙ",
+    "name": "LATIN CAPITAL LETTER SIGMOID S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42969,
+    "char": "ꟙ",
+    "name": "LATIN SMALL LETTER SIGMOID S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42970,
+    "char": "Ꟛ",
+    "name": "LATIN CAPITAL LETTER LAMBDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42971,
+    "char": "ꟛ",
+    "name": "LATIN SMALL LETTER LAMBDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42972,
+    "char": "Ƛ",
+    "name": "LATIN CAPITAL LETTER LAMBDA WITH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42973,
+    "char": "꟝",
+    "name": "LATIN CAPITAL LETTER CLOSED OMEGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42978,
+    "char": "꟢",
+    "name": "LATIN CAPITAL LETTER R WITH LONG LEG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42993,
+    "char": "꟱",
+    "name": "MODIFIER LETTER CAPITAL S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42994,
+    "char": "ꟲ",
+    "name": "MODIFIER LETTER CAPITAL C",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42995,
+    "char": "ꟳ",
+    "name": "MODIFIER LETTER CAPITAL F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42996,
+    "char": "ꟴ",
+    "name": "MODIFIER LETTER CAPITAL Q",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42997,
+    "char": "Ꟶ",
+    "name": "LATIN CAPITAL LETTER REVERSED HALF H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42998,
+    "char": "ꟶ",
+    "name": "LATIN SMALL LETTER REVERSED HALF H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 42999,
+    "char": "ꟷ",
+    "name": "LATIN EPIGRAPHIC LETTER SIDEWAYS I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43000,
+    "char": "ꟸ",
+    "name": "MODIFIER LETTER CAPITAL H WITH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43001,
+    "char": "ꟹ",
+    "name": "MODIFIER LETTER SMALL LIGATURE OE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43002,
+    "char": "ꟺ",
+    "name": "LATIN LETTER SMALL CAPITAL TURNED M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43003,
+    "char": "ꟻ",
+    "name": "LATIN EPIGRAPHIC LETTER REVERSED F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43004,
+    "char": "ꟼ",
+    "name": "LATIN EPIGRAPHIC LETTER REVERSED P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43005,
+    "char": "ꟽ",
+    "name": "LATIN EPIGRAPHIC LETTER INVERTED M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43006,
+    "char": "ꟾ",
+    "name": "LATIN EPIGRAPHIC LETTER I LONGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43007,
+    "char": "ꟿ",
+    "name": "LATIN EPIGRAPHIC LETTER ARCHAIC M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

@@ -1,0 +1,986 @@
+[
+  {
+    "cp": 8192,
+    "char": "\u2000",
+    "name": "EN QUAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8193,
+    "char": "\u2001",
+    "name": "EM QUAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8194,
+    "char": "\u2002",
+    "name": "EN SPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8195,
+    "char": "\u2003",
+    "name": "EM SPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8196,
+    "char": "\u2004",
+    "name": "THREE-PER-EM SPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8197,
+    "char": "\u2005",
+    "name": "FOUR-PER-EM SPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8198,
+    "char": "\u2006",
+    "name": "SIX-PER-EM SPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8199,
+    "char": "\u2007",
+    "name": "FIGURE SPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8200,
+    "char": "\u2008",
+    "name": "PUNCTUATION SPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8201,
+    "char": "\u2009",
+    "name": "THIN SPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8202,
+    "char": "\u200a",
+    "name": "HAIR SPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8203,
+    "char": "\u200b",
+    "name": "ZERO WIDTH SPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8204,
+    "char": "\u200c",
+    "name": "ZERO WIDTH NON-JOINER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8205,
+    "char": "\u200d",
+    "name": "ZERO WIDTH JOINER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8206,
+    "char": "\u200e",
+    "name": "LEFT-TO-RIGHT MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8207,
+    "char": "\u200f",
+    "name": "RIGHT-TO-LEFT MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8208,
+    "char": "‐",
+    "name": "HYPHEN",
+    "ru": "дефис",
+    "en": "hyphen",
+    "keywords": { "ru": ["дефис", "тире", "черточка"], "en": ["dash", "hyphen"] }
+  },
+  {
+    "cp": 8209,
+    "char": "‑",
+    "name": "NON-BREAKING HYPHEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8210,
+    "char": "‒",
+    "name": "FIGURE DASH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8211,
+    "char": "–",
+    "name": "EN DASH",
+    "ru": "среднее тире",
+    "en": "en dash",
+    "keywords": { "ru": ["среднее", "тире"], "en": ["dash", "en"] }
+  },
+  {
+    "cp": 8212,
+    "char": "—",
+    "name": "EM DASH",
+    "ru": "длинное тире",
+    "en": "em dash",
+    "keywords": { "ru": ["длинное", "тире"], "en": ["dash", "em"] }
+  },
+  {
+    "cp": 8213,
+    "char": "―",
+    "name": "HORIZONTAL BAR",
+    "ru": "тире",
+    "en": "horizontal bar",
+    "keywords": {
+      "ru": ["горизонтальная линия", "горизонтальная полоса", "линия", "тире"],
+      "en": ["bar", "dash", "horizontal", "line"]
+    }
+  },
+  {
+    "cp": 8214,
+    "char": "‖",
+    "name": "DOUBLE VERTICAL LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8215,
+    "char": "‗",
+    "name": "DOUBLE LOW LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8216,
+    "char": "‘",
+    "name": "LEFT SINGLE QUOTATION MARK",
+    "ru": "открывающая одинарная кавычка",
+    "en": "left apostrophe",
+    "keywords": {
+      "ru": [
+        "апостроф",
+        "кавычка",
+        "одинарная кавычка",
+        "открывающая",
+        "открывающая одинарная кавычка"
+      ],
+      "en": ["apostrophe", "left", "quote", "single", "smart"]
+    }
+  },
+  {
+    "cp": 8217,
+    "char": "’",
+    "name": "RIGHT SINGLE QUOTATION MARK",
+    "ru": "закрывающая одинарная кавычка",
+    "en": "right apostrophe",
+    "keywords": {
+      "ru": [
+        "апостроф",
+        "закрывающая",
+        "закрывающая одинарная кавычка",
+        "кавычка",
+        "одинарная кавычка"
+      ],
+      "en": ["apostrophe", "quote", "right", "single", "smart"]
+    }
+  },
+  {
+    "cp": 8218,
+    "char": "‚",
+    "name": "SINGLE LOW-9 QUOTATION MARK",
+    "ru": "нижняя закрывающая одинарная кавычка",
+    "en": "low right apostrophe",
+    "keywords": {
+      "ru": [
+        "апостроф",
+        "закрывающая кавычка",
+        "кавычка",
+        "нижняя закрывающая одинарная кавычка",
+        "нижняя кавычка",
+        "одинарная кавычка"
+      ],
+      "en": ["apostrophe", "low", "quote", "right"]
+    }
+  },
+  {
+    "cp": 8219,
+    "char": "‛",
+    "name": "SINGLE HIGH-REVERSED-9 QUOTATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8220,
+    "char": "“",
+    "name": "LEFT DOUBLE QUOTATION MARK",
+    "ru": "открывающая двойная кавычка",
+    "en": "left quotation mark",
+    "keywords": {
+      "ru": ["двойная кавычка", "кавычка", "открывающая двойная кавычка", "открывающая кавычка"],
+      "en": ["double", "left", "mark", "quotation", "quote", "smart"]
+    }
+  },
+  {
+    "cp": 8221,
+    "char": "”",
+    "name": "RIGHT DOUBLE QUOTATION MARK",
+    "ru": "закрывающая двойная кавычка",
+    "en": "right quotation mark",
+    "keywords": {
+      "ru": ["двойная кавычка", "закрывающая двойная кавычка", "закрывающая кавычка", "кавычка"],
+      "en": ["double", "mark", "quotation", "quote", "right", "smart"]
+    }
+  },
+  {
+    "cp": 8222,
+    "char": "„",
+    "name": "DOUBLE LOW-9 QUOTATION MARK",
+    "ru": "нижняя закрывающая двойная кавычка",
+    "en": "low right quotation mark",
+    "keywords": {
+      "ru": [
+        "двойная кавычка",
+        "закрывающая кавычка",
+        "кавычка",
+        "нижняя закрывающая двойная кавычка",
+        "нижняя кавычка"
+      ],
+      "en": ["double", "low", "mark", "quotation", "quote", "right", "smart"]
+    }
+  },
+  {
+    "cp": 8223,
+    "char": "‟",
+    "name": "DOUBLE HIGH-REVERSED-9 QUOTATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8224,
+    "char": "†",
+    "name": "DAGGER",
+    "ru": "типографский крестик",
+    "en": "dagger sign",
+    "keywords": {
+      "ru": ["даггер", "крестик", "обелиск", "типографский крестик"],
+      "en": ["dagger", "obelisk", "obelus", "sign"]
+    }
+  },
+  {
+    "cp": 8225,
+    "char": "‡",
+    "name": "DOUBLE DAGGER",
+    "ru": "двойной крестик",
+    "en": "double dagger sign",
+    "keywords": {
+      "ru": ["даггер", "двойной", "крестик", "обелиск"],
+      "en": ["dagger", "double", "obelisk", "obelus", "sign"]
+    }
+  },
+  {
+    "cp": 8226,
+    "char": "•",
+    "name": "BULLET",
+    "ru": "маркер пункта в списке",
+    "en": "bullet",
+    "keywords": {
+      "ru": [
+        "маркер",
+        "маркер пункта",
+        "маркер пункта в списке",
+        "пункт",
+        "пункт в списке",
+        "пункт списка"
+      ],
+      "en": ["bullet", "dot"]
+    }
+  },
+  {
+    "cp": 8227,
+    "char": "‣",
+    "name": "TRIANGULAR BULLET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8228,
+    "char": "․",
+    "name": "ONE DOT LEADER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8229,
+    "char": "‥",
+    "name": "TWO DOT LEADER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8230,
+    "char": "…",
+    "name": "HORIZONTAL ELLIPSIS",
+    "ru": "многоточие",
+    "en": "ellipsis",
+    "keywords": { "ru": ["многоточие", "отточие", "точки"], "en": ["dots", "ellipsis", "omission"] }
+  },
+  {
+    "cp": 8231,
+    "char": "‧",
+    "name": "HYPHENATION POINT",
+    "ru": "точка переноса",
+    "en": "hyphenation point",
+    "keywords": {
+      "ru": ["дефис", "перенос", "точка", "точка переноса"],
+      "en": ["dash", "hyphen", "hyphenation", "point"]
+    }
+  },
+  {
+    "cp": 8232,
+    "char": "\u2028",
+    "name": "LINE SEPARATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8233,
+    "char": "\u2029",
+    "name": "PARAGRAPH SEPARATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8234,
+    "char": "\u202a",
+    "name": "LEFT-TO-RIGHT EMBEDDING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8235,
+    "char": "\u202b",
+    "name": "RIGHT-TO-LEFT EMBEDDING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8236,
+    "char": "\u202c",
+    "name": "POP DIRECTIONAL FORMATTING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8237,
+    "char": "\u202d",
+    "name": "LEFT-TO-RIGHT OVERRIDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8238,
+    "char": "\u202e",
+    "name": "RIGHT-TO-LEFT OVERRIDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8239,
+    "char": "\u202f",
+    "name": "NARROW NO-BREAK SPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8240,
+    "char": "‰",
+    "name": "PER MILLE SIGN",
+    "ru": "промилле",
+    "en": "per mille",
+    "keywords": {
+      "ru": ["миллионная доля", "промилле"],
+      "en": ["mil", "mille", "per", "permil", "permille"]
+    }
+  },
+  {
+    "cp": 8241,
+    "char": "‱",
+    "name": "PER TEN THOUSAND SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8242,
+    "char": "′",
+    "name": "PRIME",
+    "ru": "штрих",
+    "en": "prime",
+    "keywords": { "ru": ["прим", "штрих"], "en": ["prime"] }
+  },
+  {
+    "cp": 8243,
+    "char": "″",
+    "name": "DOUBLE PRIME",
+    "ru": "двойной штрих",
+    "en": "double prime",
+    "keywords": { "ru": ["двойной", "прим", "штрих"], "en": ["double", "prime"] }
+  },
+  {
+    "cp": 8244,
+    "char": "‴",
+    "name": "TRIPLE PRIME",
+    "ru": "тройной штрих",
+    "en": "triple prime",
+    "keywords": { "ru": ["прим", "тройной", "штрих"], "en": ["prime", "triple"] }
+  },
+  {
+    "cp": 8245,
+    "char": "‵",
+    "name": "REVERSED PRIME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8246,
+    "char": "‶",
+    "name": "REVERSED DOUBLE PRIME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8247,
+    "char": "‷",
+    "name": "REVERSED TRIPLE PRIME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8248,
+    "char": "‸",
+    "name": "CARET",
+    "ru": "карет",
+    "en": "caret",
+    "keywords": { "ru": ["знак вставки", "карет"], "en": ["caret"] }
+  },
+  {
+    "cp": 8249,
+    "char": "‹",
+    "name": "SINGLE LEFT-POINTING ANGLE QUOTATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8250,
+    "char": "›",
+    "name": "SINGLE RIGHT-POINTING ANGLE QUOTATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8251,
+    "char": "※",
+    "name": "REFERENCE MARK",
+    "ru": "знак сноски",
+    "en": "reference mark",
+    "keywords": { "ru": ["знак", "знак сноски", "сноска"], "en": ["mark", "reference"] }
+  },
+  {
+    "cp": 8252,
+    "char": "‼",
+    "name": "DOUBLE EXCLAMATION MARK",
+    "ru": "два восклицательных знака",
+    "en": "double exclamation mark",
+    "keywords": {
+      "ru": [
+        "восклицание",
+        "восклицательные",
+        "восклицательный",
+        "восклицательных",
+        "два",
+        "знак",
+        "знака",
+        "знаки",
+        "пунктуация"
+      ],
+      "en": ["!", "!!", "bangbang", "double", "exclamation", "mark", "punctuation"]
+    }
+  },
+  {
+    "cp": 8253,
+    "char": "‽",
+    "name": "INTERROBANG",
+    "ru": "интерробанг",
+    "en": "interrobang",
+    "keywords": { "ru": ["интерробанг"], "en": ["interabang", "interrobang"] }
+  },
+  {
+    "cp": 8254,
+    "char": "‾",
+    "name": "OVERLINE",
+    "ru": "надчеркивание",
+    "en": "overline",
+    "keywords": { "ru": ["надчеркивание"], "en": ["overline", "overstrike", "vinculum"] }
+  },
+  {
+    "cp": 8255,
+    "char": "‿",
+    "name": "UNDERTIE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8256,
+    "char": "⁀",
+    "name": "CHARACTER TIE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8257,
+    "char": "⁁",
+    "name": "CARET INSERTION POINT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8258,
+    "char": "⁂",
+    "name": "ASTERISM",
+    "ru": "астеризм",
+    "en": "asterism",
+    "keywords": { "ru": ["астеризм", "три звездочки"], "en": ["asterism", "dinkus", "stars"] }
+  },
+  {
+    "cp": 8259,
+    "char": "⁃",
+    "name": "HYPHEN BULLET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8260,
+    "char": "⁄",
+    "name": "FRACTION SLASH",
+    "ru": "дробная наклонная черта",
+    "en": "fraction slash",
+    "keywords": {
+      "ru": ["дробная наклонная черта"],
+      "en": ["fraction", "slash", "stroke", "virgule"]
+    }
+  },
+  {
+    "cp": 8261,
+    "char": "⁅",
+    "name": "LEFT SQUARE BRACKET WITH QUILL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8262,
+    "char": "⁆",
+    "name": "RIGHT SQUARE BRACKET WITH QUILL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8263,
+    "char": "⁇",
+    "name": "DOUBLE QUESTION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8264,
+    "char": "⁈",
+    "name": "QUESTION EXCLAMATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8265,
+    "char": "⁉",
+    "name": "EXCLAMATION QUESTION MARK",
+    "ru": "восклицательный и вопросительный знаки",
+    "en": "exclamation question mark",
+    "keywords": {
+      "ru": [
+        "вопрос",
+        "вопросительный",
+        "восклицание",
+        "восклицательный",
+        "знак",
+        "знаки",
+        "и",
+        "пунктуация"
+      ],
+      "en": ["!", "!?", "?", "exclamation", "interrobang", "mark", "punctuation", "question"]
+    }
+  },
+  {
+    "cp": 8266,
+    "char": "⁊",
+    "name": "TIRONIAN SIGN ET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8267,
+    "char": "⁋",
+    "name": "REVERSED PILCROW SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8268,
+    "char": "⁌",
+    "name": "BLACK LEFTWARDS BULLET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8269,
+    "char": "⁍",
+    "name": "BLACK RIGHTWARDS BULLET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8270,
+    "char": "⁎",
+    "name": "LOW ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8271,
+    "char": "⁏",
+    "name": "REVERSED SEMICOLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8272,
+    "char": "⁐",
+    "name": "CLOSE UP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8273,
+    "char": "⁑",
+    "name": "TWO ASTERISKS ALIGNED VERTICALLY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8274,
+    "char": "⁒",
+    "name": "COMMERCIAL MINUS SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8275,
+    "char": "⁓",
+    "name": "SWUNG DASH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8276,
+    "char": "⁔",
+    "name": "INVERTED UNDERTIE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8277,
+    "char": "⁕",
+    "name": "FLOWER PUNCTUATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8278,
+    "char": "⁖",
+    "name": "THREE DOT PUNCTUATION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8279,
+    "char": "⁗",
+    "name": "QUADRUPLE PRIME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8280,
+    "char": "⁘",
+    "name": "FOUR DOT PUNCTUATION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8281,
+    "char": "⁙",
+    "name": "FIVE DOT PUNCTUATION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8282,
+    "char": "⁚",
+    "name": "TWO DOT PUNCTUATION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8283,
+    "char": "⁛",
+    "name": "FOUR DOT MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8284,
+    "char": "⁜",
+    "name": "DOTTED CROSS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8285,
+    "char": "⁝",
+    "name": "TRICOLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8286,
+    "char": "⁞",
+    "name": "VERTICAL FOUR DOTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8287,
+    "char": "\u205f",
+    "name": "MEDIUM MATHEMATICAL SPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8288,
+    "char": "\u2060",
+    "name": "WORD JOINER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8289,
+    "char": "\u2061",
+    "name": "FUNCTION APPLICATION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8290,
+    "char": "\u2062",
+    "name": "INVISIBLE TIMES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8291,
+    "char": "\u2063",
+    "name": "INVISIBLE SEPARATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8292,
+    "char": "\u2064",
+    "name": "INVISIBLE PLUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8294,
+    "char": "\u2066",
+    "name": "LEFT-TO-RIGHT ISOLATE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8295,
+    "char": "\u2067",
+    "name": "RIGHT-TO-LEFT ISOLATE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8296,
+    "char": "\u2068",
+    "name": "FIRST STRONG ISOLATE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8297,
+    "char": "\u2069",
+    "name": "POP DIRECTIONAL ISOLATE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8298,
+    "char": "\u206a",
+    "name": "INHIBIT SYMMETRIC SWAPPING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8299,
+    "char": "\u206b",
+    "name": "ACTIVATE SYMMETRIC SWAPPING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8300,
+    "char": "\u206c",
+    "name": "INHIBIT ARABIC FORM SHAPING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8301,
+    "char": "\u206d",
+    "name": "ACTIVATE ARABIC FORM SHAPING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8302,
+    "char": "\u206e",
+    "name": "NATIONAL DIGIT SHAPES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8303,
+    "char": "\u206f",
+    "name": "NOMINAL DIGIT SHAPES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

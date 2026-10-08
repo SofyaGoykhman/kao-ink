@@ -1,0 +1,2106 @@
+[
+  {
+    "cp": 129648,
+    "char": "🩰",
+    "name": "BALLET SHOES",
+    "ru": "пуанты",
+    "en": "ballet shoes",
+    "keywords": {
+      "ru": ["балерина", "балет", "обувь", "пуанты", "танец", "туфли"],
+      "en": ["ballet", "dance", "shoes"]
+    }
+  },
+  {
+    "cp": 129649,
+    "char": "🩱",
+    "name": "ONE-PIECE SWIMSUIT",
+    "ru": "цельный купальник",
+    "en": "one-piece swimsuit",
+    "keywords": {
+      "ru": ["закрытый", "купальник", "одежда", "плавать", "слитный", "спорт", "цельный"],
+      "en": ["bathing", "one-piece", "suit", "swimsuit"]
+    }
+  },
+  {
+    "cp": 129650,
+    "char": "🩲",
+    "name": "BRIEFS",
+    "ru": "плавки",
+    "en": "briefs",
+    "keywords": {
+      "ru": ["купальник", "одежда", "плавать", "плавки", "трусы", "шорты"],
+      "en": ["bathing", "briefs", "one-piece", "suit", "swimsuit", "underwear"]
+    }
+  },
+  {
+    "cp": 129651,
+    "char": "🩳",
+    "name": "SHORTS",
+    "ru": "шорты",
+    "en": "shorts",
+    "keywords": {
+      "ru": ["белье", "купальник", "одежда", "плавать", "плавки", "спорт", "трусы", "шорты"],
+      "en": ["bathing", "pants", "shorts", "suit", "swimsuit", "underwear"]
+    }
+  },
+  {
+    "cp": 129652,
+    "char": "🩴",
+    "name": "THONG SANDAL",
+    "ru": "вьетнамки",
+    "en": "thong sandal",
+    "keywords": {
+      "ru": ["вьетнамки", "обувь", "пляж", "сланцы", "шлепанцы", "шлепки"],
+      "en": ["beach", "flip", "flop", "sandal", "sandals", "shoe", "thong", "thongs", "zōri"]
+    }
+  },
+  {
+    "cp": 129653,
+    "char": "🩵",
+    "name": "LIGHT BLUE HEART",
+    "ru": "голубое сердце",
+    "en": "light blue heart",
+    "keywords": {
+      "ru": [
+        "бирюзовое",
+        "голубое",
+        "люблю",
+        "любовь",
+        "милый",
+        "нравится",
+        "сердечко",
+        "сердце",
+        "чувства"
+      ],
+      "en": [
+        "143",
+        "blue",
+        "cute",
+        "cyan",
+        "emotion",
+        "heart",
+        "ily",
+        "light",
+        "like",
+        "love",
+        "sky",
+        "special",
+        "teal"
+      ]
+    }
+  },
+  {
+    "cp": 129654,
+    "char": "🩶",
+    "name": "GREY HEART",
+    "ru": "серое сердце",
+    "en": "grey heart",
+    "keywords": {
+      "ru": ["любовь", "сердце", "серебряное", "серое"],
+      "en": ["143", "emotion", "gray", "grey", "heart", "ily", "love", "silver", "slate", "special"]
+    }
+  },
+  {
+    "cp": 129655,
+    "char": "🩷",
+    "name": "PINK HEART",
+    "ru": "розовое сердце",
+    "en": "pink heart",
+    "keywords": {
+      "ru": ["люблю", "любовь", "мило", "нравится", "розовое", "сердце"],
+      "en": [
+        "143",
+        "adorable",
+        "cute",
+        "emotion",
+        "heart",
+        "ily",
+        "like",
+        "love",
+        "pink",
+        "special",
+        "sweet"
+      ]
+    }
+  },
+  {
+    "cp": 129656,
+    "char": "🩸",
+    "name": "DROP OF BLOOD",
+    "ru": "капля крови",
+    "en": "drop of blood",
+    "keywords": {
+      "ru": [
+        "донор",
+        "капля",
+        "капля крови",
+        "красный",
+        "кровить",
+        "кровоточить",
+        "кровь",
+        "медицина",
+        "менструация"
+      ],
+      "en": ["bleed", "blood", "donation", "drop", "injury", "medicine", "menstruation"]
+    }
+  },
+  {
+    "cp": 129657,
+    "char": "🩹",
+    "name": "ADHESIVE BANDAGE",
+    "ru": "пластырь",
+    "en": "adhesive bandage",
+    "keywords": {
+      "ru": ["заклеить", "лейкопластырь", "лечить", "медицина", "пластырь", "порез", "рана"],
+      "en": ["adhesive", "bandage"]
+    }
+  },
+  {
+    "cp": 129658,
+    "char": "🩺",
+    "name": "STETHOSCOPE",
+    "ru": "стетоскоп",
+    "en": "stethoscope",
+    "keywords": {
+      "ru": ["врач", "доктор", "инструмент", "медицина", "сердце", "слушать", "стетоскоп"],
+      "en": ["doctor", "heart", "medicine", "stethoscope"]
+    }
+  },
+  {
+    "cp": 129659,
+    "char": "🩻",
+    "name": "X-RAY",
+    "ru": "рентген",
+    "en": "x-ray",
+    "keywords": {
+      "ru": ["врач", "кости", "медицина", "предмет", "просветить", "рентген", "скелет", "снимок"],
+      "en": ["bones", "doctor", "medical", "skeleton", "skull", "x-ray", "xray"]
+    }
+  },
+  {
+    "cp": 129660,
+    "char": "🩼",
+    "name": "CRUTCH",
+    "ru": "костыль",
+    "en": "crutch",
+    "keywords": {
+      "ru": [
+        "инвалид",
+        "инвалидность",
+        "костыли",
+        "костыль",
+        "опора",
+        "перелом",
+        "повреждение",
+        "помощь",
+        "предмет",
+        "травма",
+        "трость"
+      ],
+      "en": ["aid", "cane", "crutch", "disability", "help", "hurt", "injured", "mobility", "stick"]
+    }
+  },
+  {
+    "cp": 129664,
+    "char": "🪀",
+    "name": "YO-YO",
+    "ru": "йо-йо",
+    "en": "yo-yo",
+    "keywords": { "ru": ["игрушка", "йо-йо", "йойо"], "en": ["fluctuate", "toy", "yo-yo"] }
+  },
+  {
+    "cp": 129665,
+    "char": "🪁",
+    "name": "KITE",
+    "ru": "воздушный змей",
+    "en": "kite",
+    "keywords": {
+      "ru": ["ветер", "воздушный змей", "змей", "игра", "летать", "парить"],
+      "en": ["fly", "kite", "soar"]
+    }
+  },
+  {
+    "cp": 129666,
+    "char": "🪂",
+    "name": "PARACHUTE",
+    "ru": "парашют",
+    "en": "parachute",
+    "keywords": {
+      "ru": ["крыло", "параглайд", "парасейл", "парашют", "парашютист", "скайдайв"],
+      "en": ["hang-glide", "parachute", "parasail", "skydive"]
+    }
+  },
+  {
+    "cp": 129667,
+    "char": "🪃",
+    "name": "BOOMERANG",
+    "ru": "бумеранг",
+    "en": "boomerang",
+    "keywords": {
+      "ru": ["абориген", "австралия", "бумеранг", "возврат", "оружие", "последствия"],
+      "en": ["boomerang", "rebound", "repercussion", "weapon"]
+    }
+  },
+  {
+    "cp": 129668,
+    "char": "🪄",
+    "name": "MAGIC WAND",
+    "ru": "волшебная палочка",
+    "en": "magic wand",
+    "keywords": {
+      "ru": ["волшебная палочка", "волшебник", "волшебство", "колдунья", "магия", "фокус"],
+      "en": ["magic", "magician", "wand", "witch", "wizard"]
+    }
+  },
+  {
+    "cp": 129669,
+    "char": "🪅",
+    "name": "PINATA",
+    "ru": "пиньята",
+    "en": "piñata",
+    "keywords": {
+      "ru": ["вечеринка", "мексиканский", "пиньята", "праздник", "праздновать", "сладости"],
+      "en": [
+        "candy",
+        "celebrate",
+        "celebration",
+        "cinco",
+        "de",
+        "festive",
+        "mayo",
+        "party",
+        "pinada",
+        "pinata",
+        "piñata"
+      ]
+    }
+  },
+  {
+    "cp": 129670,
+    "char": "🪆",
+    "name": "NESTING DOLLS",
+    "ru": "матрешка",
+    "en": "nesting dolls",
+    "keywords": {
+      "ru": ["игрушка", "кукла", "матрешка", "матрешки", "россия", "русская"],
+      "en": [
+        "babooshka",
+        "baboushka",
+        "babushka",
+        "doll",
+        "dolls",
+        "matryoshka",
+        "nesting",
+        "russia"
+      ]
+    }
+  },
+  {
+    "cp": 129671,
+    "char": "🪇",
+    "name": "MARACAS",
+    "ru": "маракасы",
+    "en": "maracas",
+    "keywords": {
+      "ru": [
+        "вечеринка",
+        "инструмент",
+        "маракасы",
+        "музыка",
+        "музыкальные инструменты",
+        "перкуссия",
+        "погремушки",
+        "ритм",
+        "танец",
+        "танцы",
+        "трясти",
+        "ча-ча-ча"
+      ],
+      "en": [
+        "cha",
+        "dance",
+        "instrument",
+        "maracas",
+        "music",
+        "party",
+        "percussion",
+        "rattle",
+        "shake",
+        "shaker"
+      ]
+    }
+  },
+  {
+    "cp": 129672,
+    "char": "🪈",
+    "name": "FLUTE",
+    "ru": "флейта",
+    "en": "flute",
+    "keywords": {
+      "ru": [
+        "группа",
+        "деревянный духовой инструмент",
+        "дудочка",
+        "духовой инструмент",
+        "инструмент",
+        "музыка",
+        "оркестр",
+        "продольная флейта",
+        "сопилка",
+        "труба",
+        "флейта",
+        "флейта пикколо",
+        "флейтист"
+      ],
+      "en": [
+        "band",
+        "fife",
+        "flautist",
+        "flute",
+        "instrument",
+        "marching",
+        "music",
+        "orchestra",
+        "piccolo",
+        "pipe",
+        "recorder",
+        "woodwind"
+      ]
+    }
+  },
+  {
+    "cp": 129673,
+    "char": "🪉",
+    "name": "HARP",
+    "ru": "арфа",
+    "en": "harp",
+    "keywords": {
+      "ru": ["ангелочек", "арфа", "инструмент", "купидон", "любовь", "музыка", "оркестр"],
+      "en": ["cupid", "harp", "instrument", "love", "music", "orchestra"]
+    }
+  },
+  {
+    "cp": 129674,
+    "char": "🪊",
+    "name": "TROMBONE",
+    "ru": "тромбон",
+    "en": "trombone",
+    "keywords": {
+      "ru": ["грусть", "джаз", "духовой", "инструмент", "музыка", "тромбон"],
+      "en": ["brass", "instrument", "jazz", "music", "sad", "slide"]
+    }
+  },
+  {
+    "cp": 129675,
+    "char": "🪋",
+    "name": "METEOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129676,
+    "char": "🪌",
+    "name": "ERASER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129677,
+    "char": "🪍",
+    "name": "NET WITH HANDLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129678,
+    "char": "🪎",
+    "name": "TREASURE CHEST",
+    "ru": "сундук с сокровищами",
+    "en": "treasure chest",
+    "keywords": {
+      "ru": [
+        "богатство",
+        "деньги",
+        "драгоценности",
+        "золото",
+        "клад",
+        "монеты",
+        "награда",
+        "сокровища",
+        "сундук"
+      ],
+      "en": ["gem", "gold", "jewels", "loot", "money", "prize", "silver", "valuables", "wealth"]
+    }
+  },
+  {
+    "cp": 129679,
+    "char": "🪏",
+    "name": "SHOVEL",
+    "ru": "лопата",
+    "en": "shovel",
+    "keywords": {
+      "ru": ["ковш", "копать", "лопата", "совок", "яма"],
+      "en": ["bury", "dig", "garden", "hole", "plant", "scoop", "shovel", "snow", "spade"]
+    }
+  },
+  {
+    "cp": 129680,
+    "char": "🪐",
+    "name": "RINGED PLANET",
+    "ru": "планета с кольцом",
+    "en": "ringed planet",
+    "keywords": {
+      "ru": ["кольца", "кольцо", "космос", "планета", "планета с кольцом", "сатурн"],
+      "en": ["planet", "ringed", "saturn", "saturnine"]
+    }
+  },
+  {
+    "cp": 129681,
+    "char": "🪑",
+    "name": "CHAIR",
+    "ru": "стул",
+    "en": "chair",
+    "keywords": {
+      "ru": ["мебель", "сидение", "сидеть", "сидя", "стул", "стулья"],
+      "en": ["chair", "seat", "sit"]
+    }
+  },
+  {
+    "cp": 129682,
+    "char": "🪒",
+    "name": "RAZOR",
+    "ru": "бритва",
+    "en": "razor",
+    "keywords": {
+      "ru": ["бритва", "бритье", "бриться", "лезвие", "лицо", "опасная", "острый"],
+      "en": ["razor", "sharp", "shave"]
+    }
+  },
+  {
+    "cp": 129683,
+    "char": "🪓",
+    "name": "AXE",
+    "ru": "топор",
+    "en": "axe",
+    "keywords": {
+      "ru": ["дрова", "дровосек", "рубить", "рубка", "топор"],
+      "en": ["ax", "axe", "chop", "hatchet", "split", "wood"]
+    }
+  },
+  {
+    "cp": 129684,
+    "char": "🪔",
+    "name": "DIYA LAMP",
+    "ru": "масляная лампа",
+    "en": "diya lamp",
+    "keywords": {
+      "ru": ["гореть", "дия", "лампа", "масло", "свет"],
+      "en": ["diya", "lamp", "light", "oil"]
+    }
+  },
+  {
+    "cp": 129685,
+    "char": "🪕",
+    "name": "BANJO",
+    "ru": "банджо",
+    "en": "banjo",
+    "keywords": {
+      "ru": ["банджо", "гитара", "играть", "инструмент", "музыка", "струнный"],
+      "en": ["banjo", "music", "stringed"]
+    }
+  },
+  {
+    "cp": 129686,
+    "char": "🪖",
+    "name": "MILITARY HELMET",
+    "ru": "армейская каска",
+    "en": "military helmet",
+    "keywords": {
+      "ru": ["армия", "воин", "каска", "солдат"],
+      "en": ["army", "helmet", "military", "soldier", "war", "warrior"]
+    }
+  },
+  {
+    "cp": 129687,
+    "char": "🪗",
+    "name": "ACCORDION",
+    "ru": "аккордеон",
+    "en": "accordion",
+    "keywords": {
+      "ru": ["аккордеон", "баян", "гармонь", "гармошка", "концертина"],
+      "en": ["accordion", "box", "concertina", "instrument", "music", "squeeze", "squeezebox"]
+    }
+  },
+  {
+    "cp": 129688,
+    "char": "🪘",
+    "name": "LONG DRUM",
+    "ru": "конга",
+    "en": "long drum",
+    "keywords": {
+      "ru": ["барабан", "бит", "конга", "музыкальный инструмент", "ритм", "тамтам"],
+      "en": ["beat", "conga", "drum", "instrument", "long", "rhythm"]
+    }
+  },
+  {
+    "cp": 129689,
+    "char": "🪙",
+    "name": "COIN",
+    "ru": "монета",
+    "en": "coin",
+    "keywords": {
+      "ru": ["деньги", "доллар", "евро", "золото", "казна", "металл", "монета", "рубль", "серебро"],
+      "en": ["coin", "dollar", "euro", "gold", "metal", "money", "rich", "silver", "treasure"]
+    }
+  },
+  {
+    "cp": 129690,
+    "char": "🪚",
+    "name": "CARPENTRY SAW",
+    "ru": "пила по дереву",
+    "en": "carpentry saw",
+    "keywords": {
+      "ru": [
+        "древесина",
+        "инструмент",
+        "пила",
+        "пила по дереву",
+        "пилить",
+        "плотник",
+        "резать",
+        "столяр"
+      ],
+      "en": ["carpenter", "carpentry", "cut", "lumber", "saw", "tool", "trim"]
+    }
+  },
+  {
+    "cp": 129691,
+    "char": "🪛",
+    "name": "SCREWDRIVER",
+    "ru": "отвертка",
+    "en": "screwdriver",
+    "keywords": {
+      "ru": ["винт", "инструмент", "мастер", "отвертка", "умелец"],
+      "en": ["flathead", "handy", "screw", "screwdriver", "tool"]
+    }
+  },
+  {
+    "cp": 129692,
+    "char": "🪜",
+    "name": "LADDER",
+    "ru": "лестница",
+    "en": "ladder",
+    "keywords": {
+      "ru": ["залезать", "лезть", "лестница", "перекладина", "стремянка", "ступень"],
+      "en": ["climb", "ladder", "rung", "step"]
+    }
+  },
+  {
+    "cp": 129693,
+    "char": "🪝",
+    "name": "HOOK",
+    "ru": "крюк",
+    "en": "hook",
+    "keywords": {
+      "ru": ["захват", "крюк", "крючок", "подвес", "уловка"],
+      "en": ["catch", "crook", "curve", "ensnare", "hook", "point", "selling"]
+    }
+  },
+  {
+    "cp": 129694,
+    "char": "🪞",
+    "name": "MIRROR",
+    "ru": "зеркало",
+    "en": "mirror",
+    "keywords": {
+      "ru": ["зеркало", "краситься", "макияж", "отражатель", "отражение"],
+      "en": ["makeup", "mirror", "reflection", "reflector", "speculum"]
+    }
+  },
+  {
+    "cp": 129695,
+    "char": "🪟",
+    "name": "WINDOW",
+    "ru": "окно",
+    "en": "window",
+    "keywords": {
+      "ru": ["вид", "окно", "окошко", "прозрачный", "рама", "свежий воздух", "стекло"],
+      "en": ["air", "frame", "fresh", "opening", "transparent", "view", "window"]
+    }
+  },
+  {
+    "cp": 129696,
+    "char": "🪠",
+    "name": "PLUNGER",
+    "ru": "вантуз",
+    "en": "plunger",
+    "keywords": {
+      "ru": ["вантуз", "засор", "прочистка", "сантехник", "слив", "сортир", "туалет"],
+      "en": ["cup", "force", "plumber", "plunger", "poop", "suction", "toilet"]
+    }
+  },
+  {
+    "cp": 129697,
+    "char": "🪡",
+    "name": "SEWING NEEDLE",
+    "ru": "швейная игла",
+    "en": "sewing needle",
+    "keywords": {
+      "ru": ["вышивка", "игла", "иголка", "стежки", "швы", "шитье"],
+      "en": ["embroidery", "needle", "sew", "sewing", "stitches", "sutures", "tailoring", "thread"]
+    }
+  },
+  {
+    "cp": 129698,
+    "char": "🪢",
+    "name": "KNOT",
+    "ru": "узел",
+    "en": "knot",
+    "keywords": {
+      "ru": ["веревка", "канат", "узел", "шнур", "шнурок"],
+      "en": ["cord", "knot", "rope", "tangled", "tie", "twine", "twist"]
+    }
+  },
+  {
+    "cp": 129699,
+    "char": "🪣",
+    "name": "BUCKET",
+    "ru": "ведро",
+    "en": "bucket",
+    "keywords": {
+      "ru": ["бадья", "ведерко", "ведро", "кадка"],
+      "en": ["bucket", "cask", "pail", "vat"]
+    }
+  },
+  {
+    "cp": 129700,
+    "char": "🪤",
+    "name": "MOUSE TRAP",
+    "ru": "мышеловка",
+    "en": "mouse trap",
+    "keywords": {
+      "ru": ["заманить", "западня", "капкан", "ловушка", "мышеловка", "приманка", "сыр"],
+      "en": ["bait", "cheese", "lure", "mouse", "mousetrap", "snare", "trap"]
+    }
+  },
+  {
+    "cp": 129701,
+    "char": "🪥",
+    "name": "TOOTHBRUSH",
+    "ru": "зубная щетка",
+    "en": "toothbrush",
+    "keywords": {
+      "ru": [
+        "ванная",
+        "гигиена",
+        "зубная щетка",
+        "зубы",
+        "умываться",
+        "чистить",
+        "чистый",
+        "щетка"
+      ],
+      "en": ["bathroom", "brush", "clean", "dental", "hygiene", "teeth", "toiletry", "toothbrush"]
+    }
+  },
+  {
+    "cp": 129702,
+    "char": "🪦",
+    "name": "HEADSTONE",
+    "ru": "надгробие",
+    "en": "headstone",
+    "keywords": {
+      "ru": ["гробница", "кладбище", "могила", "могильный камень", "надгробие"],
+      "en": [
+        "cemetery",
+        "dead",
+        "grave",
+        "graveyard",
+        "headstone",
+        "memorial",
+        "rip",
+        "tomb",
+        "tombstone"
+      ]
+    }
+  },
+  {
+    "cp": 129703,
+    "char": "🪧",
+    "name": "PLACARD",
+    "ru": "плакат",
+    "en": "placard",
+    "keywords": {
+      "ru": ["высказаться", "демонстрация", "заявление", "знак", "пикет", "плакат", "протест"],
+      "en": ["card", "demonstration", "notice", "picket", "placard", "plaque", "protest", "sign"]
+    }
+  },
+  {
+    "cp": 129704,
+    "char": "🪨",
+    "name": "ROCK",
+    "ru": "камень",
+    "en": "rock",
+    "keywords": {
+      "ru": ["булыжник", "жесткий", "камень", "скала", "твердый", "тяжелый"],
+      "en": ["boulder", "heavy", "rock", "solid", "stone", "tough"]
+    }
+  },
+  {
+    "cp": 129705,
+    "char": "🪩",
+    "name": "MIRROR BALL",
+    "ru": "диско-шар",
+    "en": "mirror ball",
+    "keywords": {
+      "ru": [
+        "блестеть",
+        "вечеринка",
+        "диско",
+        "диско-шар",
+        "дискотека",
+        "зеркальный",
+        "зеркальный шар",
+        "танцы"
+      ],
+      "en": ["ball", "dance", "disco", "glitter", "mirror", "party"]
+    }
+  },
+  {
+    "cp": 129706,
+    "char": "🪪",
+    "name": "IDENTIFICATION CARD",
+    "ru": "удостоверение личности",
+    "en": "identification card",
+    "keywords": {
+      "ru": ["водительские права", "документ", "паспорт", "права", "удостоверение"],
+      "en": ["card", "credentials", "document", "ID", "identification", "license", "security"]
+    }
+  },
+  {
+    "cp": 129707,
+    "char": "🪫",
+    "name": "LOW BATTERY",
+    "ru": "низкий уровень заряда",
+    "en": "low battery",
+    "keywords": {
+      "ru": [
+        "аккумулятор",
+        "батарейка",
+        "батарея",
+        "заряд",
+        "мало зарядки",
+        "низкий заряд",
+        "низкий уровень заряда",
+        "предмет",
+        "разрядилась",
+        "разряжено"
+      ],
+      "en": ["battery", "drained", "electronic", "energy", "low", "power"]
+    }
+  },
+  {
+    "cp": 129708,
+    "char": "🪬",
+    "name": "HAMSA",
+    "ru": "хамса",
+    "en": "hamsa",
+    "keywords": {
+      "ru": [
+        "амулет",
+        "защита",
+        "защитить",
+        "кисть",
+        "ладонь",
+        "предмет",
+        "рука",
+        "рука Марии",
+        "рука Мириам",
+        "рука Фатимы",
+        "хамса"
+      ],
+      "en": [
+        "amulet",
+        "Fatima",
+        "fortune",
+        "guide",
+        "hamsa",
+        "hand",
+        "Mary",
+        "Miriam",
+        "palm",
+        "protect",
+        "protection"
+      ]
+    }
+  },
+  {
+    "cp": 129709,
+    "char": "🪭",
+    "name": "FOLDING HAND FAN",
+    "ru": "веер",
+    "en": "folding hand fan",
+    "keywords": {
+      "ru": ["веер", "жара", "жарко", "застенчивый", "опахало", "охлаждение", "танец"],
+      "en": [
+        "clack",
+        "clap",
+        "cool",
+        "cooling",
+        "dance",
+        "fan",
+        "flirt",
+        "flutter",
+        "folding",
+        "hand",
+        "hot",
+        "shy"
+      ]
+    }
+  },
+  {
+    "cp": 129710,
+    "char": "🪮",
+    "name": "HAIR PICK",
+    "ru": "афро-гребень",
+    "en": "hair pick",
+    "keywords": {
+      "ru": ["афро", "волосы", "гребень", "расческа"],
+      "en": ["Afro", "comb", "groom", "hair", "pick"]
+    }
+  },
+  {
+    "cp": 129711,
+    "char": "🪯",
+    "name": "KHANDA",
+    "ru": "кханда",
+    "en": "khanda",
+    "keywords": {
+      "ru": ["дег", "кханда", "религия", "сикх", "сикхизм", "символ", "тех", "фатех", "хальса"],
+      "en": ["Deg", "Fateh", "Khalsa", "Khanda", "religion", "Sikh", "Sikhism", "Tegh"]
+    }
+  },
+  {
+    "cp": 129712,
+    "char": "🪰",
+    "name": "FLY",
+    "ru": "муха",
+    "en": "fly",
+    "keywords": {
+      "ru": ["вредитель", "зараза", "личинка", "муха", "насекомое"],
+      "en": ["animal", "disease", "fly", "insect", "maggot", "pest", "rotting"]
+    }
+  },
+  {
+    "cp": 129713,
+    "char": "🪱",
+    "name": "WORM",
+    "ru": "червяк",
+    "en": "worm",
+    "keywords": {
+      "ru": [
+        "дождевой червь",
+        "животное",
+        "земляной червь",
+        "круглый червь",
+        "паразит",
+        "червь",
+        "червяк"
+      ],
+      "en": ["animal", "annelid", "earthworm", "parasite", "worm"]
+    }
+  },
+  {
+    "cp": 129714,
+    "char": "🪲",
+    "name": "BEETLE",
+    "ru": "жук",
+    "en": "beetle",
+    "keywords": {
+      "ru": ["букашка", "жук", "жучок", "клоп", "насекомое"],
+      "en": ["animal", "beetle", "bug", "insect"]
+    }
+  },
+  {
+    "cp": 129715,
+    "char": "🪳",
+    "name": "COCKROACH",
+    "ru": "таракан",
+    "en": "cockroach",
+    "keywords": {
+      "ru": ["вредитель", "мерзкий", "насекомое", "прусак", "таракан"],
+      "en": ["animal", "cockroach", "insect", "pest", "roach"]
+    }
+  },
+  {
+    "cp": 129716,
+    "char": "🪴",
+    "name": "POTTED PLANT",
+    "ru": "растение в горшке",
+    "en": "potted plant",
+    "keywords": {
+      "ru": [
+        "горшок",
+        "домашнее растение",
+        "растение",
+        "растение в горшке",
+        "растение в доме",
+        "цветок в горшке"
+      ],
+      "en": ["decor", "grow", "house", "nurturing", "plant", "pot", "potted"]
+    }
+  },
+  {
+    "cp": 129717,
+    "char": "🪵",
+    "name": "WOOD",
+    "ru": "древесина",
+    "en": "wood",
+    "keywords": {
+      "ru": ["бревно", "древесина", "дрова", "лес", "пень", "полено"],
+      "en": ["log", "lumber", "timber", "wood"]
+    }
+  },
+  {
+    "cp": 129718,
+    "char": "🪶",
+    "name": "FEATHER",
+    "ru": "перо",
+    "en": "feather",
+    "keywords": {
+      "ru": ["лёгкий", "оперение", "перо", "перышко", "писать", "полёт", "птица"],
+      "en": ["bird", "feather", "flight", "light", "plumage"]
+    }
+  },
+  {
+    "cp": 129719,
+    "char": "🪷",
+    "name": "LOTUS",
+    "ru": "лотос",
+    "en": "lotus",
+    "keywords": {
+      "ru": [
+        "буддизм",
+        "индуизм",
+        "красота",
+        "лотос",
+        "медитация",
+        "спокойствие",
+        "умиротворение",
+        "цветок",
+        "чистота"
+      ],
+      "en": [
+        "beauty",
+        "Buddhism",
+        "calm",
+        "flower",
+        "Hinduism",
+        "lotus",
+        "peace",
+        "purity",
+        "serenity"
+      ]
+    }
+  },
+  {
+    "cp": 129720,
+    "char": "🪸",
+    "name": "CORAL",
+    "ru": "коралл",
+    "en": "coral",
+    "keywords": {
+      "ru": ["изменение климата", "коралл", "море", "океан", "природа", "риф"],
+      "en": ["change", "climate", "coral", "ocean", "reef", "sea"]
+    }
+  },
+  {
+    "cp": 129721,
+    "char": "🪹",
+    "name": "EMPTY NEST",
+    "ru": "пустое гнездо",
+    "en": "empty nest",
+    "keywords": {
+      "ru": ["гнездо", "гнездование", "домой", "природа", "птицы", "пусто", "пустое гнездо"],
+      "en": ["branch", "empty", "home", "nest", "nesting"]
+    }
+  },
+  {
+    "cp": 129722,
+    "char": "🪺",
+    "name": "NEST WITH EGGS",
+    "ru": "гнездо с яйцами",
+    "en": "nest with eggs",
+    "keywords": {
+      "ru": ["гнездо", "гнездо с яйцами", "гнездование", "кладка яиц", "природа", "птицы", "яйца"],
+      "en": ["bird", "branch", "egg", "eggs", "nest", "nesting"]
+    }
+  },
+  {
+    "cp": 129723,
+    "char": "🪻",
+    "name": "HYACINTH",
+    "ru": "гиацинт",
+    "en": "hyacinth",
+    "keywords": {
+      "ru": ["лаванда", "львиный зев", "люпин", "цветок"],
+      "en": [
+        "bloom",
+        "bluebonnet",
+        "flower",
+        "hyacinth",
+        "indigo",
+        "lavender",
+        "lilac",
+        "lupine",
+        "plant",
+        "purple",
+        "shrub",
+        "snapdragon",
+        "spring",
+        "violet"
+      ]
+    }
+  },
+  {
+    "cp": 129724,
+    "char": "🪼",
+    "name": "JELLYFISH",
+    "ru": "медуза",
+    "en": "jellyfish",
+    "keywords": {
+      "ru": ["беспозвоночное", "морское", "ожог", "ой", "ужалить"],
+      "en": [
+        "animal",
+        "aquarium",
+        "burn",
+        "invertebrate",
+        "jelly",
+        "jellyfish",
+        "life",
+        "marine",
+        "ocean",
+        "ouch",
+        "plankton",
+        "sea",
+        "sting",
+        "stinger",
+        "tentacles"
+      ]
+    }
+  },
+  {
+    "cp": 129725,
+    "char": "🪽",
+    "name": "WING",
+    "ru": "крыло",
+    "en": "wing",
+    "keywords": {
+      "ru": ["авиация", "ангельский", "летать", "мифология", "полет", "птица"],
+      "en": [
+        "angelic",
+        "ascend",
+        "aviation",
+        "bird",
+        "fly",
+        "flying",
+        "heavenly",
+        "mythology",
+        "soar",
+        "wing"
+      ]
+    }
+  },
+  {
+    "cp": 129726,
+    "char": "🪾",
+    "name": "LEAFLESS TREE",
+    "ru": "дерево без листвы",
+    "en": "leafless tree",
+    "keywords": {
+      "ru": ["дерево без листвы", "дерево без листьев", "засуха", "зима"],
+      "en": [
+        "bare",
+        "barren",
+        "branches",
+        "dead",
+        "drought",
+        "leafless",
+        "tree",
+        "trunk",
+        "winter",
+        "wood"
+      ]
+    }
+  },
+  {
+    "cp": 129727,
+    "char": "🪿",
+    "name": "GOOSE",
+    "ru": "гусь",
+    "en": "goose",
+    "keywords": {
+      "ru": ["глупый", "гогот", "гоготать", "гуси", "гусь", "дичь", "птица", "утка"],
+      "en": [
+        "animal",
+        "bird",
+        "duck",
+        "flock",
+        "fowl",
+        "gaggle",
+        "gander",
+        "geese",
+        "goose",
+        "honk",
+        "ornithology",
+        "silly"
+      ]
+    }
+  },
+  {
+    "cp": 129728,
+    "char": "🫀",
+    "name": "ANATOMICAL HEART",
+    "ru": "сердце человека",
+    "en": "anatomical heart",
+    "keywords": {
+      "ru": [
+        "анатомия",
+        "кардиология",
+        "красный",
+        "орган",
+        "пульс",
+        "сердце",
+        "сердцебиение",
+        "человеческое"
+      ],
+      "en": [
+        "anatomical",
+        "beat",
+        "cardiology",
+        "heart",
+        "heartbeat",
+        "organ",
+        "pulse",
+        "real",
+        "red"
+      ]
+    }
+  },
+  {
+    "cp": 129729,
+    "char": "🫁",
+    "name": "LUNGS",
+    "ru": "легкие",
+    "en": "lungs",
+    "keywords": {
+      "ru": ["вдох", "выдох", "дыхание", "дышать", "легкие", "легкое", "орган"],
+      "en": [
+        "breath",
+        "breathe",
+        "exhalation",
+        "inhalation",
+        "lung",
+        "lungs",
+        "organ",
+        "respiration"
+      ]
+    }
+  },
+  {
+    "cp": 129730,
+    "char": "🫂",
+    "name": "PEOPLE HUGGING",
+    "ru": "обнимающиеся люди",
+    "en": "people hugging",
+    "keywords": {
+      "ru": [
+        "дружба",
+        "любовь",
+        "обнимашки",
+        "обнимающиеся люди",
+        "объятия",
+        "пока",
+        "привет",
+        "прощай",
+        "спасибо",
+        "успокоить"
+      ],
+      "en": [
+        "comfort",
+        "embrace",
+        "farewell",
+        "friendship",
+        "goodbye",
+        "hello",
+        "hug",
+        "hugging",
+        "love",
+        "people",
+        "thanks"
+      ]
+    }
+  },
+  {
+    "cp": 129731,
+    "char": "🫃",
+    "name": "PREGNANT MAN",
+    "ru": "беременный мужчина",
+    "en": "pregnant man",
+    "keywords": {
+      "ru": ["беременность", "беременный", "вздутие", "животик", "мужчина", "переедание"],
+      "en": ["belly", "bloated", "full", "man", "overeat", "pregnant"]
+    }
+  },
+  {
+    "cp": 129732,
+    "char": "🫄",
+    "name": "PREGNANT PERSON",
+    "ru": "беременный человек",
+    "en": "pregnant person",
+    "keywords": {
+      "ru": [
+        "беременная",
+        "беременность",
+        "беременный",
+        "вздутие",
+        "животик",
+        "переедание",
+        "человек"
+      ],
+      "en": ["belly", "bloated", "full", "overeat", "person", "pregnant", "stuffed"]
+    }
+  },
+  {
+    "cp": 129733,
+    "char": "🫅",
+    "name": "PERSON WITH CROWN",
+    "ru": "человек с короной",
+    "en": "person with crown",
+    "keywords": {
+      "ru": ["владыка", "власть", "князь", "король", "монарх", "правитель", "престол", "царь"],
+      "en": ["crown", "monarch", "noble", "person", "regal", "royal", "royalty"]
+    }
+  },
+  {
+    "cp": 129734,
+    "char": "🫆",
+    "name": "FINGERPRINT",
+    "ru": "отпечаток пальца",
+    "en": "fingerprint",
+    "keywords": {
+      "ru": ["безопасность", "биометрия", "идентификация", "криминалистика", "отпечаток пальца"],
+      "en": [
+        "clue",
+        "crime",
+        "detective",
+        "fingerprint",
+        "forensics",
+        "identity",
+        "mystery",
+        "print",
+        "safety",
+        "trace"
+      ]
+    }
+  },
+  {
+    "cp": 129736,
+    "char": "🫈",
+    "name": "HAIRY CREATURE",
+    "ru": "снежный человек",
+    "en": "hairy creature",
+    "keywords": {
+      "ru": ["великан", "волосатый", "йети", "криптид", "монстр", "снежный", "человек"],
+      "en": ["bigfoot", "cryptid", "forest", "giant", "hairy", "sasquatch", "woodwose", "yeti"]
+    }
+  },
+  {
+    "cp": 129740,
+    "char": "🫌",
+    "name": "MONARCH BUTTERFLY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129741,
+    "char": "🫍",
+    "name": "ORCA",
+    "ru": "косатка",
+    "en": "orca",
+    "keywords": {
+      "ru": ["животное", "касатка", "кит", "море", "морское", "хищник", "черно-белый"],
+      "en": ["marine", "ocean", "whale"]
+    }
+  },
+  {
+    "cp": 129742,
+    "char": "🫎",
+    "name": "MOOSE",
+    "ru": "лось",
+    "en": "moose",
+    "keywords": {
+      "ru": ["животное", "лось", "млекопитающее", "рога", "рогатый", "сохатый"],
+      "en": ["alces", "animal", "antlers", "elk", "mammal", "moose"]
+    }
+  },
+  {
+    "cp": 129743,
+    "char": "🫏",
+    "name": "DONKEY",
+    "ru": "осел",
+    "en": "donkey",
+    "keywords": {
+      "ru": ["животное", "ишак", "млекопитающее", "мул", "ослик", "упрямый"],
+      "en": ["animal", "ass", "burro", "donkey", "hinny", "mammal", "mule", "stubborn"]
+    }
+  },
+  {
+    "cp": 129744,
+    "char": "🫐",
+    "name": "BLUEBERRIES",
+    "ru": "голубика",
+    "en": "blueberries",
+    "keywords": {
+      "ru": ["голубика", "голубой", "черника", "ягода"],
+      "en": ["berries", "berry", "bilberry", "blue", "blueberries", "blueberry", "food", "fruit"]
+    }
+  },
+  {
+    "cp": 129745,
+    "char": "🫑",
+    "name": "BELL PEPPER",
+    "ru": "болгарский перец",
+    "en": "bell pepper",
+    "keywords": {
+      "ru": ["болгарский перец", "еда", "овощ", "перец", "растение", "сладкий"],
+      "en": ["bell", "capsicum", "food", "pepper", "vegetable"]
+    }
+  },
+  {
+    "cp": 129746,
+    "char": "🫒",
+    "name": "OLIVE",
+    "ru": "оливка",
+    "en": "olive",
+    "keywords": { "ru": ["еда", "маслина", "олива", "оливка"], "en": ["food", "olive"] }
+  },
+  {
+    "cp": 129747,
+    "char": "🫓",
+    "name": "FLATBREAD",
+    "ru": "лепешка",
+    "en": "flatbread",
+    "keywords": {
+      "ru": ["еда", "лаваш", "лепешка", "наан", "пита", "тортилья", "хлеб"],
+      "en": ["arepa", "bread", "flatbread", "food", "gordita", "lavash", "naan", "pita"]
+    }
+  },
+  {
+    "cp": 129748,
+    "char": "🫔",
+    "name": "TAMALE",
+    "ru": "тамале",
+    "en": "tamale",
+    "keywords": {
+      "ru": ["еда", "завернутый", "мексиканский", "памонья", "тамал", "тамале"],
+      "en": ["food", "mexican", "pamonha", "tamale", "wrapped"]
+    }
+  },
+  {
+    "cp": 129749,
+    "char": "🫕",
+    "name": "FONDUE",
+    "ru": "фондю",
+    "en": "fondue",
+    "keywords": {
+      "ru": ["еда", "какелон", "плавленый", "сыр", "фондю", "швейцарский", "шоколад"],
+      "en": ["cheese", "chocolate", "fondue", "food", "melted", "pot", "ski"]
+    }
+  },
+  {
+    "cp": 129750,
+    "char": "🫖",
+    "name": "TEAPOT",
+    "ru": "чайник",
+    "en": "teapot",
+    "keywords": {
+      "ru": ["заварка", "заварочный чайник", "напиток", "чай", "чайник"],
+      "en": ["brew", "drink", "food", "pot", "tea", "teapot"]
+    }
+  },
+  {
+    "cp": 129751,
+    "char": "🫗",
+    "name": "POURING LIQUID",
+    "ru": "стакан с жидкостью",
+    "en": "pouring liquid",
+    "keywords": {
+      "ru": [
+        "вода",
+        "выливать",
+        "вылить",
+        "наливать",
+        "напиток",
+        "оплошность",
+        "опустошить",
+        "пролить",
+        "пустой",
+        "случайность",
+        "стакан",
+        "стакан с жидкостью"
+      ],
+      "en": [
+        "accident",
+        "drink",
+        "empty",
+        "glass",
+        "liquid",
+        "oops",
+        "pour",
+        "pouring",
+        "spill",
+        "water"
+      ]
+    }
+  },
+  {
+    "cp": 129752,
+    "char": "🫘",
+    "name": "BEANS",
+    "ru": "фасоль",
+    "en": "beans",
+    "keywords": {
+      "ru": ["бобовые", "бобы", "еда", "кидни", "фасоль"],
+      "en": ["beans", "food", "kidney", "legume", "small"]
+    }
+  },
+  {
+    "cp": 129753,
+    "char": "🫙",
+    "name": "JAR",
+    "ru": "банка",
+    "en": "jar",
+    "keywords": {
+      "ru": ["банка", "варенье", "мариновать", "пустая", "соленья", "хранить"],
+      "en": ["condiment", "container", "empty", "jar", "nothing", "sauce", "store"]
+    }
+  },
+  {
+    "cp": 129754,
+    "char": "🫚",
+    "name": "GINGER ROOT",
+    "ru": "корень имбиря",
+    "en": "ginger root",
+    "keywords": {
+      "ru": ["имбирь", "корень", "специя"],
+      "en": ["beer", "ginger", "health", "herb", "natural", "root", "spice"]
+    }
+  },
+  {
+    "cp": 129755,
+    "char": "🫛",
+    "name": "PEA POD",
+    "ru": "стручок гороха",
+    "en": "pea pod",
+    "keywords": {
+      "ru": ["бобовые", "бобы", "горох", "овощ", "стручок", "эдамамэ"],
+      "en": [
+        "beans",
+        "beanstalk",
+        "edamame",
+        "legume",
+        "pea",
+        "pod",
+        "soybean",
+        "vegetable",
+        "veggie"
+      ]
+    }
+  },
+  {
+    "cp": 129756,
+    "char": "🫜",
+    "name": "ROOT VEGETABLE",
+    "ru": "корнеплод",
+    "en": "root vegetable",
+    "keywords": {
+      "ru": ["корень", "овощ", "огород", "репа", "свекла"],
+      "en": [
+        "beet",
+        "food",
+        "garden",
+        "radish",
+        "root",
+        "salad",
+        "turnip",
+        "vegetable",
+        "vegetarian"
+      ]
+    }
+  },
+  {
+    "cp": 129757,
+    "char": "🫝",
+    "name": "PICKLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129759,
+    "char": "🫟",
+    "name": "SPLATTER",
+    "ru": "клякса",
+    "en": "splatter",
+    "keywords": {
+      "ru": ["клякса", "краска", "пролить", "пятно", "Холи"],
+      "en": ["drip", "holi", "ink", "liquid", "mess", "paint", "spill", "splatter", "stain"]
+    }
+  },
+  {
+    "cp": 129760,
+    "char": "🫠",
+    "name": "MELTING FACE",
+    "ru": "тает",
+    "en": "melting face",
+    "keywords": {
+      "ru": [
+        "грустная",
+        "жара",
+        "жарко",
+        "лол",
+        "нежность",
+        "печальная",
+        "плавится",
+        "растаять",
+        "таю",
+        "улыбка"
+      ],
+      "en": [
+        "disappear",
+        "dissolve",
+        "embarrassed",
+        "face",
+        "haha",
+        "heat",
+        "hot",
+        "liquid",
+        "lol",
+        "melt",
+        "melting",
+        "sarcasm",
+        "sarcastic"
+      ]
+    }
+  },
+  {
+    "cp": 129761,
+    "char": "🫡",
+    "name": "SALUTING FACE",
+    "ru": "воинское приветствие",
+    "en": "saluting face",
+    "keywords": {
+      "ru": [
+        "да",
+        "есть",
+        "окей",
+        "отдать",
+        "приветствие",
+        "приказ",
+        "сделаю",
+        "точно",
+        "хорошо",
+        "честь"
+      ],
+      "en": [
+        "face",
+        "good",
+        "luck",
+        "ma’am",
+        "OK",
+        "respect",
+        "salute",
+        "saluting",
+        "sir",
+        "troops",
+        "yes"
+      ]
+    }
+  },
+  {
+    "cp": 129762,
+    "char": "🫢",
+    "name": "FACE WITH OPEN EYES AND HAND OVER MOUTH",
+    "ru": "прикрывает рот рукой с открытыми глазами",
+    "en": "face with open eyes and hand over mouth",
+    "keywords": {
+      "ru": ["изумление", "испуг", "недоверие", "смущение", "страх", "удивление", "шок"],
+      "en": [
+        "amazement",
+        "awe",
+        "disbelief",
+        "embarrass",
+        "eyes",
+        "face",
+        "gasp",
+        "hand",
+        "mouth",
+        "omg",
+        "open",
+        "over",
+        "quiet",
+        "scared",
+        "shock",
+        "surprise"
+      ]
+    }
+  },
+  {
+    "cp": 129763,
+    "char": "🫣",
+    "name": "FACE WITH PEEKING EYE",
+    "ru": "подсматривает",
+    "en": "face with peeking eye",
+    "keywords": {
+      "ru": [
+        "глаз",
+        "интересно",
+        "испуг",
+        "подсматривает",
+        "рука",
+        "румянец",
+        "стесняюсь",
+        "страх",
+        "тайно",
+        "украдкой"
+      ],
+      "en": [
+        "captivated",
+        "embarrass",
+        "eye",
+        "face",
+        "hide",
+        "hiding",
+        "peek",
+        "peeking",
+        "peep",
+        "scared",
+        "shy",
+        "stare"
+      ]
+    }
+  },
+  {
+    "cp": 129764,
+    "char": "🫤",
+    "name": "FACE WITH DIAGONAL MOUTH",
+    "ru": "с перекошенным ртом",
+    "en": "face with diagonal mouth",
+    "keywords": {
+      "ru": [
+        "досадно",
+        "думаю",
+        "знаю",
+        "не",
+        "непонятно",
+        "огорчен",
+        "разочарован",
+        "скептик",
+        "уверен"
+      ],
+      "en": [
+        "confused",
+        "confusion",
+        "diagonal",
+        "disappointed",
+        "doubt",
+        "doubtful",
+        "face",
+        "frustrated",
+        "frustration",
+        "meh",
+        "mouth",
+        "skeptical",
+        "unsure",
+        "whatever",
+        "wtv"
+      ]
+    }
+  },
+  {
+    "cp": 129765,
+    "char": "🫥",
+    "name": "DOTTED LINE FACE",
+    "ru": "лицо пунктиром",
+    "en": "dotted line face",
+    "keywords": {
+      "ru": [
+        "грусть",
+        "депрессия",
+        "интроверт",
+        "исчезать",
+        "невидимка",
+        "печаль",
+        "пунктир",
+        "угнетение",
+        "усталость"
+      ],
+      "en": [
+        "depressed",
+        "disappear",
+        "dotted",
+        "face",
+        "hidden",
+        "hide",
+        "introvert",
+        "invisible",
+        "line",
+        "meh",
+        "whatever",
+        "wtv"
+      ]
+    }
+  },
+  {
+    "cp": 129766,
+    "char": "🫦",
+    "name": "BITING LIP",
+    "ru": "кусать губы",
+    "en": "biting lip",
+    "keywords": {
+      "ru": [
+        "беспокоиться",
+        "беспокойство",
+        "волнение",
+        "губы",
+        "кусать",
+        "переживания",
+        "помада",
+        "укус",
+        "флирт"
+      ],
+      "en": [
+        "anxious",
+        "bite",
+        "biting",
+        "fear",
+        "flirt",
+        "flirting",
+        "kiss",
+        "lip",
+        "lipstick",
+        "nervous",
+        "sexy",
+        "uncomfortable",
+        "worried",
+        "worry"
+      ]
+    }
+  },
+  {
+    "cp": 129767,
+    "char": "🫧",
+    "name": "BUBBLES",
+    "ru": "пузыри",
+    "en": "bubbles",
+    "keywords": {
+      "ru": ["вода", "мыло", "мыльные пузыри", "мыть", "предмет", "пузыри", "пузырь", "чистый"],
+      "en": ["bubble", "bubbles", "burp", "clean", "floating", "pearl", "soap", "underwater"]
+    }
+  },
+  {
+    "cp": 129768,
+    "char": "🫨",
+    "name": "SHAKING FACE",
+    "ru": "трясущееся лицо",
+    "en": "shaking face",
+    "keywords": {
+      "ru": [
+        "бум",
+        "вау",
+        "головокружение",
+        "обморок",
+        "омг",
+        "паника",
+        "трясется",
+        "удивление",
+        "ужас",
+        "шок"
+      ],
+      "en": [
+        "crazy",
+        "daze",
+        "earthquake",
+        "face",
+        "omg",
+        "panic",
+        "shaking",
+        "shock",
+        "surprise",
+        "vibrate",
+        "whoa",
+        "wow"
+      ]
+    }
+  },
+  {
+    "cp": 129769,
+    "char": "🫩",
+    "name": "FACE WITH BAGS UNDER EYES",
+    "ru": "лицо с мешками под глазами",
+    "en": "face with bags under eyes",
+    "keywords": {
+      "ru": [
+        "без",
+        "глазами",
+        "истощение",
+        "мешки",
+        "под",
+        "сил",
+        "скучно",
+        "сон",
+        "спать",
+        "устал"
+      ],
+      "en": [
+        "bags",
+        "bored",
+        "exhausted",
+        "eyes",
+        "face",
+        "fatigued",
+        "late",
+        "sleepy",
+        "tired",
+        "weary"
+      ]
+    }
+  },
+  {
+    "cp": 129770,
+    "char": "🫪",
+    "name": "DISTORTED FACE",
+    "ru": "лицо перекосило",
+    "en": "distorted face",
+    "keywords": {
+      "ru": ["выпучить", "глаза", "паника", "тревога", "удивление", "шок", "эмоции"],
+      "en": ["anxiety", "bloated", "panic", "shocked", "surprised", "vulnerable"]
+    }
+  },
+  {
+    "cp": 129771,
+    "char": "🫫",
+    "name": "CRACKING FACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129775,
+    "char": "🫯",
+    "name": "FIGHT CLOUD",
+    "ru": "драка",
+    "en": "fight cloud",
+    "keywords": {
+      "ru": [
+        "агрессия",
+        "драться",
+        "заварушка",
+        "конфликт",
+        "потасовка",
+        "разборка",
+        "склоки",
+        "спор"
+      ],
+      "en": ["argument", "brawl", "debate", "disagreement", "fight", "ruckus", "wrestle"]
+    }
+  },
+  {
+    "cp": 129776,
+    "char": "🫰",
+    "name": "HAND WITH INDEX FINGER AND THUMB CROSSED",
+    "ru": "жест «деньги»",
+    "en": "hand with index finger and thumb crossed",
+    "keywords": {
+      "ru": ["деньги", "дорого", "жест", "сердечко", "щелчок"],
+      "en": [
+        "<3",
+        "crossed",
+        "expensive",
+        "finger",
+        "hand",
+        "heart",
+        "index",
+        "love",
+        "money",
+        "snap",
+        "thumb"
+      ]
+    }
+  },
+  {
+    "cp": 129777,
+    "char": "🫱",
+    "name": "RIGHTWARDS HAND",
+    "ru": "рука вправо",
+    "en": "rightwards hand",
+    "keywords": {
+      "ru": ["вправо", "кисть", "направо", "рука", "рукопожатие"],
+      "en": ["hand", "handshake", "hold", "reach", "right", "rightward", "rightwards", "shake"]
+    }
+  },
+  {
+    "cp": 129778,
+    "char": "🫲",
+    "name": "LEFTWARDS HAND",
+    "ru": "рука влево",
+    "en": "leftwards hand",
+    "keywords": {
+      "ru": ["влево", "кисть", "налево", "рука", "рукопожатие"],
+      "en": ["hand", "handshake", "hold", "left", "leftward", "leftwards", "reach", "shake"]
+    }
+  },
+  {
+    "cp": 129779,
+    "char": "🫳",
+    "name": "PALM DOWN HAND",
+    "ru": "рука ладонью вниз",
+    "en": "palm down hand",
+    "keywords": {
+      "ru": ["бросить", "ладонь вниз", "отпустить", "рука"],
+      "en": ["dismiss", "down", "drop", "dropped", "hand", "palm", "pick", "shoo", "up"]
+    }
+  },
+  {
+    "cp": 129780,
+    "char": "🫴",
+    "name": "PALM UP HAND",
+    "ru": "рука ладонью вверх",
+    "en": "palm up hand",
+    "keywords": {
+      "ru": [
+        "вверх",
+        "жест",
+        "ладонь",
+        "манить",
+        "подзывать",
+        "поднимать",
+        "подойди",
+        "позвать",
+        "предложить",
+        "рука",
+        "скажи"
+      ],
+      "en": [
+        "beckon",
+        "catch",
+        "come",
+        "hand",
+        "hold",
+        "know",
+        "lift",
+        "me",
+        "offer",
+        "palm",
+        "tell"
+      ]
+    }
+  },
+  {
+    "cp": 129781,
+    "char": "🫵",
+    "name": "INDEX POINTING AT THE VIEWER",
+    "ru": "указательный палец на себя",
+    "en": "index pointing at the viewer",
+    "keywords": {
+      "ru": ["жест", "палец", "показать", "рука", "ты", "указательный", "указывать"],
+      "en": ["at", "finger", "hand", "index", "pointing", "poke", "viewer", "you"]
+    }
+  },
+  {
+    "cp": 129782,
+    "char": "🫶",
+    "name": "HEART HANDS",
+    "ru": "жест «сердце»",
+    "en": "heart hands",
+    "keywords": {
+      "ru": ["жест", "любовь", "руки", "сердце"],
+      "en": ["<3", "hands", "heart", "love", "you"]
+    }
+  },
+  {
+    "cp": 129783,
+    "char": "🫷",
+    "name": "LEFTWARDS PUSHING HAND",
+    "ru": "рука ладонью влево",
+    "en": "leftwards pushing hand",
+    "keywords": {
+      "ru": ["влево", "ждать", "нет", "отказ", "подождать", "подожди", "пять", "стоп", "толкать"],
+      "en": [
+        "block",
+        "five",
+        "halt",
+        "hand",
+        "high",
+        "hold",
+        "leftward",
+        "leftwards",
+        "pause",
+        "push",
+        "pushing",
+        "refuse",
+        "slap",
+        "stop",
+        "wait"
+      ]
+    }
+  },
+  {
+    "cp": 129784,
+    "char": "🫸",
+    "name": "RIGHTWARDS PUSHING HAND",
+    "ru": "рука ладонью вправо",
+    "en": "rightwards pushing hand",
+    "keywords": {
+      "ru": ["вправо", "ждать", "нет", "отказ", "подождать", "подожди", "пять", "стоп", "толкать"],
+      "en": [
+        "block",
+        "five",
+        "halt",
+        "hand",
+        "high",
+        "hold",
+        "pause",
+        "push",
+        "pushing",
+        "refuse",
+        "rightward",
+        "rightwards",
+        "slap",
+        "stop",
+        "wait"
+      ]
+    }
+  },
+  {
+    "cp": 129785,
+    "char": "🫹",
+    "name": "LEFTWARDS THUMB SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129786,
+    "char": "🫺",
+    "name": "RIGHTWARDS THUMB SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

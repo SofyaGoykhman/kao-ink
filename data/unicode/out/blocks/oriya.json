@@ -1,0 +1,746 @@
+[
+  {
+    "cp": 2817,
+    "char": "ଁ",
+    "name": "ORIYA SIGN CANDRABINDU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2818,
+    "char": "ଂ",
+    "name": "ORIYA SIGN ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2819,
+    "char": "ଃ",
+    "name": "ORIYA SIGN VISARGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2821,
+    "char": "ଅ",
+    "name": "ORIYA LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2822,
+    "char": "ଆ",
+    "name": "ORIYA LETTER AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2823,
+    "char": "ଇ",
+    "name": "ORIYA LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2824,
+    "char": "ଈ",
+    "name": "ORIYA LETTER II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2825,
+    "char": "ଉ",
+    "name": "ORIYA LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2826,
+    "char": "ଊ",
+    "name": "ORIYA LETTER UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2827,
+    "char": "ଋ",
+    "name": "ORIYA LETTER VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2828,
+    "char": "ଌ",
+    "name": "ORIYA LETTER VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2831,
+    "char": "ଏ",
+    "name": "ORIYA LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2832,
+    "char": "ଐ",
+    "name": "ORIYA LETTER AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2835,
+    "char": "ଓ",
+    "name": "ORIYA LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2836,
+    "char": "ଔ",
+    "name": "ORIYA LETTER AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2837,
+    "char": "କ",
+    "name": "ORIYA LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2838,
+    "char": "ଖ",
+    "name": "ORIYA LETTER KHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2839,
+    "char": "ଗ",
+    "name": "ORIYA LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2840,
+    "char": "ଘ",
+    "name": "ORIYA LETTER GHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2841,
+    "char": "ଙ",
+    "name": "ORIYA LETTER NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2842,
+    "char": "ଚ",
+    "name": "ORIYA LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2843,
+    "char": "ଛ",
+    "name": "ORIYA LETTER CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2844,
+    "char": "ଜ",
+    "name": "ORIYA LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2845,
+    "char": "ଝ",
+    "name": "ORIYA LETTER JHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2846,
+    "char": "ଞ",
+    "name": "ORIYA LETTER NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2847,
+    "char": "ଟ",
+    "name": "ORIYA LETTER TTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2848,
+    "char": "ଠ",
+    "name": "ORIYA LETTER TTHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2849,
+    "char": "ଡ",
+    "name": "ORIYA LETTER DDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2850,
+    "char": "ଢ",
+    "name": "ORIYA LETTER DDHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2851,
+    "char": "ଣ",
+    "name": "ORIYA LETTER NNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2852,
+    "char": "ତ",
+    "name": "ORIYA LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2853,
+    "char": "ଥ",
+    "name": "ORIYA LETTER THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2854,
+    "char": "ଦ",
+    "name": "ORIYA LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2855,
+    "char": "ଧ",
+    "name": "ORIYA LETTER DHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2856,
+    "char": "ନ",
+    "name": "ORIYA LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2858,
+    "char": "ପ",
+    "name": "ORIYA LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2859,
+    "char": "ଫ",
+    "name": "ORIYA LETTER PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2860,
+    "char": "ବ",
+    "name": "ORIYA LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2861,
+    "char": "ଭ",
+    "name": "ORIYA LETTER BHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2862,
+    "char": "ମ",
+    "name": "ORIYA LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2863,
+    "char": "ଯ",
+    "name": "ORIYA LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2864,
+    "char": "ର",
+    "name": "ORIYA LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2866,
+    "char": "ଲ",
+    "name": "ORIYA LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2867,
+    "char": "ଳ",
+    "name": "ORIYA LETTER LLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2869,
+    "char": "ଵ",
+    "name": "ORIYA LETTER VA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2870,
+    "char": "ଶ",
+    "name": "ORIYA LETTER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2871,
+    "char": "ଷ",
+    "name": "ORIYA LETTER SSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2872,
+    "char": "ସ",
+    "name": "ORIYA LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2873,
+    "char": "ହ",
+    "name": "ORIYA LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2876,
+    "char": "଼",
+    "name": "ORIYA SIGN NUKTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2877,
+    "char": "ଽ",
+    "name": "ORIYA SIGN AVAGRAHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2878,
+    "char": "ା",
+    "name": "ORIYA VOWEL SIGN AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2879,
+    "char": "ି",
+    "name": "ORIYA VOWEL SIGN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2880,
+    "char": "ୀ",
+    "name": "ORIYA VOWEL SIGN II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2881,
+    "char": "ୁ",
+    "name": "ORIYA VOWEL SIGN U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2882,
+    "char": "ୂ",
+    "name": "ORIYA VOWEL SIGN UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2883,
+    "char": "ୃ",
+    "name": "ORIYA VOWEL SIGN VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2884,
+    "char": "ୄ",
+    "name": "ORIYA VOWEL SIGN VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2887,
+    "char": "େ",
+    "name": "ORIYA VOWEL SIGN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2888,
+    "char": "ୈ",
+    "name": "ORIYA VOWEL SIGN AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2891,
+    "char": "ୋ",
+    "name": "ORIYA VOWEL SIGN O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2892,
+    "char": "ୌ",
+    "name": "ORIYA VOWEL SIGN AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2893,
+    "char": "୍",
+    "name": "ORIYA SIGN VIRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2899,
+    "char": "୓",
+    "name": "ORIYA SIGN DOT ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2900,
+    "char": "୔",
+    "name": "ORIYA SIGN DOUBLE DOT ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2901,
+    "char": "୕",
+    "name": "ORIYA SIGN OVERLINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2902,
+    "char": "ୖ",
+    "name": "ORIYA AI LENGTH MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2903,
+    "char": "ୗ",
+    "name": "ORIYA AU LENGTH MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2908,
+    "char": "ଡ଼",
+    "name": "ORIYA LETTER RRA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2909,
+    "char": "ଢ଼",
+    "name": "ORIYA LETTER RHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2911,
+    "char": "ୟ",
+    "name": "ORIYA LETTER YYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2912,
+    "char": "ୠ",
+    "name": "ORIYA LETTER VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2913,
+    "char": "ୡ",
+    "name": "ORIYA LETTER VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2914,
+    "char": "ୢ",
+    "name": "ORIYA VOWEL SIGN VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2915,
+    "char": "ୣ",
+    "name": "ORIYA VOWEL SIGN VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2918,
+    "char": "୦",
+    "name": "ORIYA DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2919,
+    "char": "୧",
+    "name": "ORIYA DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2920,
+    "char": "୨",
+    "name": "ORIYA DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2921,
+    "char": "୩",
+    "name": "ORIYA DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2922,
+    "char": "୪",
+    "name": "ORIYA DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2923,
+    "char": "୫",
+    "name": "ORIYA DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2924,
+    "char": "୬",
+    "name": "ORIYA DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2925,
+    "char": "୭",
+    "name": "ORIYA DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2926,
+    "char": "୮",
+    "name": "ORIYA DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2927,
+    "char": "୯",
+    "name": "ORIYA DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2928,
+    "char": "୰",
+    "name": "ORIYA ISSHAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2929,
+    "char": "ୱ",
+    "name": "ORIYA LETTER WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2930,
+    "char": "୲",
+    "name": "ORIYA FRACTION ONE QUARTER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2931,
+    "char": "୳",
+    "name": "ORIYA FRACTION ONE HALF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2932,
+    "char": "୴",
+    "name": "ORIYA FRACTION THREE QUARTERS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2933,
+    "char": "୵",
+    "name": "ORIYA FRACTION ONE SIXTEENTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2934,
+    "char": "୶",
+    "name": "ORIYA FRACTION ONE EIGHTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2935,
+    "char": "୷",
+    "name": "ORIYA FRACTION THREE SIXTEENTHS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

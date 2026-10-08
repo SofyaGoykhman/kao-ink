@@ -1,0 +1,474 @@
+[
+  {
+    "cp": 11568,
+    "char": "ⴰ",
+    "name": "TIFINAGH LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11569,
+    "char": "ⴱ",
+    "name": "TIFINAGH LETTER YAB",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11570,
+    "char": "ⴲ",
+    "name": "TIFINAGH LETTER YABH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11571,
+    "char": "ⴳ",
+    "name": "TIFINAGH LETTER YAG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11572,
+    "char": "ⴴ",
+    "name": "TIFINAGH LETTER YAGHH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11573,
+    "char": "ⴵ",
+    "name": "TIFINAGH LETTER BERBER ACADEMY YAJ",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11574,
+    "char": "ⴶ",
+    "name": "TIFINAGH LETTER YAJ",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11575,
+    "char": "ⴷ",
+    "name": "TIFINAGH LETTER YAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11576,
+    "char": "ⴸ",
+    "name": "TIFINAGH LETTER YADH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11577,
+    "char": "ⴹ",
+    "name": "TIFINAGH LETTER YADD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11578,
+    "char": "ⴺ",
+    "name": "TIFINAGH LETTER YADDH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11579,
+    "char": "ⴻ",
+    "name": "TIFINAGH LETTER YEY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11580,
+    "char": "ⴼ",
+    "name": "TIFINAGH LETTER YAF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11581,
+    "char": "ⴽ",
+    "name": "TIFINAGH LETTER YAK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11582,
+    "char": "ⴾ",
+    "name": "TIFINAGH LETTER TUAREG YAK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11583,
+    "char": "ⴿ",
+    "name": "TIFINAGH LETTER YAKHH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11584,
+    "char": "ⵀ",
+    "name": "TIFINAGH LETTER YAH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11585,
+    "char": "ⵁ",
+    "name": "TIFINAGH LETTER BERBER ACADEMY YAH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11586,
+    "char": "ⵂ",
+    "name": "TIFINAGH LETTER TUAREG YAH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11587,
+    "char": "ⵃ",
+    "name": "TIFINAGH LETTER YAHH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11588,
+    "char": "ⵄ",
+    "name": "TIFINAGH LETTER YAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11589,
+    "char": "ⵅ",
+    "name": "TIFINAGH LETTER YAKH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11590,
+    "char": "ⵆ",
+    "name": "TIFINAGH LETTER TUAREG YAKH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11591,
+    "char": "ⵇ",
+    "name": "TIFINAGH LETTER YAQ",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11592,
+    "char": "ⵈ",
+    "name": "TIFINAGH LETTER TUAREG YAQ",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11593,
+    "char": "ⵉ",
+    "name": "TIFINAGH LETTER YI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11594,
+    "char": "ⵊ",
+    "name": "TIFINAGH LETTER YAZH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11595,
+    "char": "ⵋ",
+    "name": "TIFINAGH LETTER AHAGGAR YAZH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11596,
+    "char": "ⵌ",
+    "name": "TIFINAGH LETTER TUAREG YAZH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11597,
+    "char": "ⵍ",
+    "name": "TIFINAGH LETTER YAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11598,
+    "char": "ⵎ",
+    "name": "TIFINAGH LETTER YAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11599,
+    "char": "ⵏ",
+    "name": "TIFINAGH LETTER YAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11600,
+    "char": "ⵐ",
+    "name": "TIFINAGH LETTER TUAREG YAGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11601,
+    "char": "ⵑ",
+    "name": "TIFINAGH LETTER TUAREG YANG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11602,
+    "char": "ⵒ",
+    "name": "TIFINAGH LETTER YAP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11603,
+    "char": "ⵓ",
+    "name": "TIFINAGH LETTER YU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11604,
+    "char": "ⵔ",
+    "name": "TIFINAGH LETTER YAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11605,
+    "char": "ⵕ",
+    "name": "TIFINAGH LETTER YARR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11606,
+    "char": "ⵖ",
+    "name": "TIFINAGH LETTER YAGH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11607,
+    "char": "ⵗ",
+    "name": "TIFINAGH LETTER TUAREG YAGH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11608,
+    "char": "ⵘ",
+    "name": "TIFINAGH LETTER AYER YAGH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11609,
+    "char": "ⵙ",
+    "name": "TIFINAGH LETTER YAS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11610,
+    "char": "ⵚ",
+    "name": "TIFINAGH LETTER YASS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11611,
+    "char": "ⵛ",
+    "name": "TIFINAGH LETTER YASH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11612,
+    "char": "ⵜ",
+    "name": "TIFINAGH LETTER YAT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11613,
+    "char": "ⵝ",
+    "name": "TIFINAGH LETTER YATH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11614,
+    "char": "ⵞ",
+    "name": "TIFINAGH LETTER YACH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11615,
+    "char": "ⵟ",
+    "name": "TIFINAGH LETTER YATT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11616,
+    "char": "ⵠ",
+    "name": "TIFINAGH LETTER YAV",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11617,
+    "char": "ⵡ",
+    "name": "TIFINAGH LETTER YAW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11618,
+    "char": "ⵢ",
+    "name": "TIFINAGH LETTER YAY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11619,
+    "char": "ⵣ",
+    "name": "TIFINAGH LETTER YAZ",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11620,
+    "char": "ⵤ",
+    "name": "TIFINAGH LETTER TAWELLEMET YAZ",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11621,
+    "char": "ⵥ",
+    "name": "TIFINAGH LETTER YAZZ",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11622,
+    "char": "ⵦ",
+    "name": "TIFINAGH LETTER YE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11623,
+    "char": "ⵧ",
+    "name": "TIFINAGH LETTER YO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11631,
+    "char": "ⵯ",
+    "name": "TIFINAGH MODIFIER LETTER LABIALIZATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11632,
+    "char": "⵰",
+    "name": "TIFINAGH SEPARATOR MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11647,
+    "char": "⵿",
+    "name": "TIFINAGH CONSONANT JOINER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

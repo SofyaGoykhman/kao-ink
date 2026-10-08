@@ -1,0 +1,1802 @@
+[
+  {
+    "cp": 65281,
+    "char": "！",
+    "name": "FULLWIDTH EXCLAMATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65282,
+    "char": "＂",
+    "name": "FULLWIDTH QUOTATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65283,
+    "char": "＃",
+    "name": "FULLWIDTH NUMBER SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65284,
+    "char": "＄",
+    "name": "FULLWIDTH DOLLAR SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65285,
+    "char": "％",
+    "name": "FULLWIDTH PERCENT SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65286,
+    "char": "＆",
+    "name": "FULLWIDTH AMPERSAND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65287,
+    "char": "＇",
+    "name": "FULLWIDTH APOSTROPHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65288,
+    "char": "（",
+    "name": "FULLWIDTH LEFT PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65289,
+    "char": "）",
+    "name": "FULLWIDTH RIGHT PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65290,
+    "char": "＊",
+    "name": "FULLWIDTH ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65291,
+    "char": "＋",
+    "name": "FULLWIDTH PLUS SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65292,
+    "char": "，",
+    "name": "FULLWIDTH COMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65293,
+    "char": "－",
+    "name": "FULLWIDTH HYPHEN-MINUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65294,
+    "char": "．",
+    "name": "FULLWIDTH FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65295,
+    "char": "／",
+    "name": "FULLWIDTH SOLIDUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65296,
+    "char": "０",
+    "name": "FULLWIDTH DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65297,
+    "char": "１",
+    "name": "FULLWIDTH DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65298,
+    "char": "２",
+    "name": "FULLWIDTH DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65299,
+    "char": "３",
+    "name": "FULLWIDTH DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65300,
+    "char": "４",
+    "name": "FULLWIDTH DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65301,
+    "char": "５",
+    "name": "FULLWIDTH DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65302,
+    "char": "６",
+    "name": "FULLWIDTH DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65303,
+    "char": "７",
+    "name": "FULLWIDTH DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65304,
+    "char": "８",
+    "name": "FULLWIDTH DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65305,
+    "char": "９",
+    "name": "FULLWIDTH DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65306,
+    "char": "：",
+    "name": "FULLWIDTH COLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65307,
+    "char": "；",
+    "name": "FULLWIDTH SEMICOLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65308,
+    "char": "＜",
+    "name": "FULLWIDTH LESS-THAN SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65309,
+    "char": "＝",
+    "name": "FULLWIDTH EQUALS SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65310,
+    "char": "＞",
+    "name": "FULLWIDTH GREATER-THAN SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65311,
+    "char": "？",
+    "name": "FULLWIDTH QUESTION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65312,
+    "char": "＠",
+    "name": "FULLWIDTH COMMERCIAL AT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65313,
+    "char": "Ａ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65314,
+    "char": "Ｂ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER B",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65315,
+    "char": "Ｃ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER C",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65316,
+    "char": "Ｄ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER D",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65317,
+    "char": "Ｅ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65318,
+    "char": "Ｆ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65319,
+    "char": "Ｇ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65320,
+    "char": "Ｈ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65321,
+    "char": "Ｉ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65322,
+    "char": "Ｊ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER J",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65323,
+    "char": "Ｋ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER K",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65324,
+    "char": "Ｌ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65325,
+    "char": "Ｍ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65326,
+    "char": "Ｎ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65327,
+    "char": "Ｏ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65328,
+    "char": "Ｐ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65329,
+    "char": "Ｑ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER Q",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65330,
+    "char": "Ｒ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65331,
+    "char": "Ｓ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65332,
+    "char": "Ｔ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER T",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65333,
+    "char": "Ｕ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65334,
+    "char": "Ｖ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65335,
+    "char": "Ｗ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65336,
+    "char": "Ｘ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65337,
+    "char": "Ｙ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65338,
+    "char": "Ｚ",
+    "name": "FULLWIDTH LATIN CAPITAL LETTER Z",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65339,
+    "char": "［",
+    "name": "FULLWIDTH LEFT SQUARE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65340,
+    "char": "＼",
+    "name": "FULLWIDTH REVERSE SOLIDUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65341,
+    "char": "］",
+    "name": "FULLWIDTH RIGHT SQUARE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65342,
+    "char": "＾",
+    "name": "FULLWIDTH CIRCUMFLEX ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65343,
+    "char": "＿",
+    "name": "FULLWIDTH LOW LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65344,
+    "char": "｀",
+    "name": "FULLWIDTH GRAVE ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65345,
+    "char": "ａ",
+    "name": "FULLWIDTH LATIN SMALL LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65346,
+    "char": "ｂ",
+    "name": "FULLWIDTH LATIN SMALL LETTER B",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65347,
+    "char": "ｃ",
+    "name": "FULLWIDTH LATIN SMALL LETTER C",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65348,
+    "char": "ｄ",
+    "name": "FULLWIDTH LATIN SMALL LETTER D",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65349,
+    "char": "ｅ",
+    "name": "FULLWIDTH LATIN SMALL LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65350,
+    "char": "ｆ",
+    "name": "FULLWIDTH LATIN SMALL LETTER F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65351,
+    "char": "ｇ",
+    "name": "FULLWIDTH LATIN SMALL LETTER G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65352,
+    "char": "ｈ",
+    "name": "FULLWIDTH LATIN SMALL LETTER H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65353,
+    "char": "ｉ",
+    "name": "FULLWIDTH LATIN SMALL LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65354,
+    "char": "ｊ",
+    "name": "FULLWIDTH LATIN SMALL LETTER J",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65355,
+    "char": "ｋ",
+    "name": "FULLWIDTH LATIN SMALL LETTER K",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65356,
+    "char": "ｌ",
+    "name": "FULLWIDTH LATIN SMALL LETTER L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65357,
+    "char": "ｍ",
+    "name": "FULLWIDTH LATIN SMALL LETTER M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65358,
+    "char": "ｎ",
+    "name": "FULLWIDTH LATIN SMALL LETTER N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65359,
+    "char": "ｏ",
+    "name": "FULLWIDTH LATIN SMALL LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65360,
+    "char": "ｐ",
+    "name": "FULLWIDTH LATIN SMALL LETTER P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65361,
+    "char": "ｑ",
+    "name": "FULLWIDTH LATIN SMALL LETTER Q",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65362,
+    "char": "ｒ",
+    "name": "FULLWIDTH LATIN SMALL LETTER R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65363,
+    "char": "ｓ",
+    "name": "FULLWIDTH LATIN SMALL LETTER S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65364,
+    "char": "ｔ",
+    "name": "FULLWIDTH LATIN SMALL LETTER T",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65365,
+    "char": "ｕ",
+    "name": "FULLWIDTH LATIN SMALL LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65366,
+    "char": "ｖ",
+    "name": "FULLWIDTH LATIN SMALL LETTER V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65367,
+    "char": "ｗ",
+    "name": "FULLWIDTH LATIN SMALL LETTER W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65368,
+    "char": "ｘ",
+    "name": "FULLWIDTH LATIN SMALL LETTER X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65369,
+    "char": "ｙ",
+    "name": "FULLWIDTH LATIN SMALL LETTER Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65370,
+    "char": "ｚ",
+    "name": "FULLWIDTH LATIN SMALL LETTER Z",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65371,
+    "char": "｛",
+    "name": "FULLWIDTH LEFT CURLY BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65372,
+    "char": "｜",
+    "name": "FULLWIDTH VERTICAL LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65373,
+    "char": "｝",
+    "name": "FULLWIDTH RIGHT CURLY BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65374,
+    "char": "～",
+    "name": "FULLWIDTH TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65375,
+    "char": "｟",
+    "name": "FULLWIDTH LEFT WHITE PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65376,
+    "char": "｠",
+    "name": "FULLWIDTH RIGHT WHITE PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65377,
+    "char": "｡",
+    "name": "HALFWIDTH IDEOGRAPHIC FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65378,
+    "char": "｢",
+    "name": "HALFWIDTH LEFT CORNER BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65379,
+    "char": "｣",
+    "name": "HALFWIDTH RIGHT CORNER BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65380,
+    "char": "､",
+    "name": "HALFWIDTH IDEOGRAPHIC COMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65381,
+    "char": "･",
+    "name": "HALFWIDTH KATAKANA MIDDLE DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65382,
+    "char": "ｦ",
+    "name": "HALFWIDTH KATAKANA LETTER WO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65383,
+    "char": "ｧ",
+    "name": "HALFWIDTH KATAKANA LETTER SMALL A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65384,
+    "char": "ｨ",
+    "name": "HALFWIDTH KATAKANA LETTER SMALL I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65385,
+    "char": "ｩ",
+    "name": "HALFWIDTH KATAKANA LETTER SMALL U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65386,
+    "char": "ｪ",
+    "name": "HALFWIDTH KATAKANA LETTER SMALL E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65387,
+    "char": "ｫ",
+    "name": "HALFWIDTH KATAKANA LETTER SMALL O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65388,
+    "char": "ｬ",
+    "name": "HALFWIDTH KATAKANA LETTER SMALL YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65389,
+    "char": "ｭ",
+    "name": "HALFWIDTH KATAKANA LETTER SMALL YU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65390,
+    "char": "ｮ",
+    "name": "HALFWIDTH KATAKANA LETTER SMALL YO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65391,
+    "char": "ｯ",
+    "name": "HALFWIDTH KATAKANA LETTER SMALL TU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65392,
+    "char": "ｰ",
+    "name": "HALFWIDTH KATAKANA-HIRAGANA PROLONGED SOUND MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65393,
+    "char": "ｱ",
+    "name": "HALFWIDTH KATAKANA LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65394,
+    "char": "ｲ",
+    "name": "HALFWIDTH KATAKANA LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65395,
+    "char": "ｳ",
+    "name": "HALFWIDTH KATAKANA LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65396,
+    "char": "ｴ",
+    "name": "HALFWIDTH KATAKANA LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65397,
+    "char": "ｵ",
+    "name": "HALFWIDTH KATAKANA LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65398,
+    "char": "ｶ",
+    "name": "HALFWIDTH KATAKANA LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65399,
+    "char": "ｷ",
+    "name": "HALFWIDTH KATAKANA LETTER KI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65400,
+    "char": "ｸ",
+    "name": "HALFWIDTH KATAKANA LETTER KU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65401,
+    "char": "ｹ",
+    "name": "HALFWIDTH KATAKANA LETTER KE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65402,
+    "char": "ｺ",
+    "name": "HALFWIDTH KATAKANA LETTER KO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65403,
+    "char": "ｻ",
+    "name": "HALFWIDTH KATAKANA LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65404,
+    "char": "ｼ",
+    "name": "HALFWIDTH KATAKANA LETTER SI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65405,
+    "char": "ｽ",
+    "name": "HALFWIDTH KATAKANA LETTER SU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65406,
+    "char": "ｾ",
+    "name": "HALFWIDTH KATAKANA LETTER SE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65407,
+    "char": "ｿ",
+    "name": "HALFWIDTH KATAKANA LETTER SO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65408,
+    "char": "ﾀ",
+    "name": "HALFWIDTH KATAKANA LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65409,
+    "char": "ﾁ",
+    "name": "HALFWIDTH KATAKANA LETTER TI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65410,
+    "char": "ﾂ",
+    "name": "HALFWIDTH KATAKANA LETTER TU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65411,
+    "char": "ﾃ",
+    "name": "HALFWIDTH KATAKANA LETTER TE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65412,
+    "char": "ﾄ",
+    "name": "HALFWIDTH KATAKANA LETTER TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65413,
+    "char": "ﾅ",
+    "name": "HALFWIDTH KATAKANA LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65414,
+    "char": "ﾆ",
+    "name": "HALFWIDTH KATAKANA LETTER NI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65415,
+    "char": "ﾇ",
+    "name": "HALFWIDTH KATAKANA LETTER NU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65416,
+    "char": "ﾈ",
+    "name": "HALFWIDTH KATAKANA LETTER NE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65417,
+    "char": "ﾉ",
+    "name": "HALFWIDTH KATAKANA LETTER NO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65418,
+    "char": "ﾊ",
+    "name": "HALFWIDTH KATAKANA LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65419,
+    "char": "ﾋ",
+    "name": "HALFWIDTH KATAKANA LETTER HI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65420,
+    "char": "ﾌ",
+    "name": "HALFWIDTH KATAKANA LETTER HU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65421,
+    "char": "ﾍ",
+    "name": "HALFWIDTH KATAKANA LETTER HE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65422,
+    "char": "ﾎ",
+    "name": "HALFWIDTH KATAKANA LETTER HO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65423,
+    "char": "ﾏ",
+    "name": "HALFWIDTH KATAKANA LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65424,
+    "char": "ﾐ",
+    "name": "HALFWIDTH KATAKANA LETTER MI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65425,
+    "char": "ﾑ",
+    "name": "HALFWIDTH KATAKANA LETTER MU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65426,
+    "char": "ﾒ",
+    "name": "HALFWIDTH KATAKANA LETTER ME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65427,
+    "char": "ﾓ",
+    "name": "HALFWIDTH KATAKANA LETTER MO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65428,
+    "char": "ﾔ",
+    "name": "HALFWIDTH KATAKANA LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65429,
+    "char": "ﾕ",
+    "name": "HALFWIDTH KATAKANA LETTER YU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65430,
+    "char": "ﾖ",
+    "name": "HALFWIDTH KATAKANA LETTER YO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65431,
+    "char": "ﾗ",
+    "name": "HALFWIDTH KATAKANA LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65432,
+    "char": "ﾘ",
+    "name": "HALFWIDTH KATAKANA LETTER RI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65433,
+    "char": "ﾙ",
+    "name": "HALFWIDTH KATAKANA LETTER RU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65434,
+    "char": "ﾚ",
+    "name": "HALFWIDTH KATAKANA LETTER RE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65435,
+    "char": "ﾛ",
+    "name": "HALFWIDTH KATAKANA LETTER RO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65436,
+    "char": "ﾜ",
+    "name": "HALFWIDTH KATAKANA LETTER WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65437,
+    "char": "ﾝ",
+    "name": "HALFWIDTH KATAKANA LETTER N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65438,
+    "char": "ﾞ",
+    "name": "HALFWIDTH KATAKANA VOICED SOUND MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65439,
+    "char": "ﾟ",
+    "name": "HALFWIDTH KATAKANA SEMI-VOICED SOUND MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65440,
+    "char": "ﾠ",
+    "name": "HALFWIDTH HANGUL FILLER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65441,
+    "char": "ﾡ",
+    "name": "HALFWIDTH HANGUL LETTER KIYEOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65442,
+    "char": "ﾢ",
+    "name": "HALFWIDTH HANGUL LETTER SSANGKIYEOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65443,
+    "char": "ﾣ",
+    "name": "HALFWIDTH HANGUL LETTER KIYEOK-SIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65444,
+    "char": "ﾤ",
+    "name": "HALFWIDTH HANGUL LETTER NIEUN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65445,
+    "char": "ﾥ",
+    "name": "HALFWIDTH HANGUL LETTER NIEUN-CIEUC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65446,
+    "char": "ﾦ",
+    "name": "HALFWIDTH HANGUL LETTER NIEUN-HIEUH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65447,
+    "char": "ﾧ",
+    "name": "HALFWIDTH HANGUL LETTER TIKEUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65448,
+    "char": "ﾨ",
+    "name": "HALFWIDTH HANGUL LETTER SSANGTIKEUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65449,
+    "char": "ﾩ",
+    "name": "HALFWIDTH HANGUL LETTER RIEUL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65450,
+    "char": "ﾪ",
+    "name": "HALFWIDTH HANGUL LETTER RIEUL-KIYEOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65451,
+    "char": "ﾫ",
+    "name": "HALFWIDTH HANGUL LETTER RIEUL-MIEUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65452,
+    "char": "ﾬ",
+    "name": "HALFWIDTH HANGUL LETTER RIEUL-PIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65453,
+    "char": "ﾭ",
+    "name": "HALFWIDTH HANGUL LETTER RIEUL-SIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65454,
+    "char": "ﾮ",
+    "name": "HALFWIDTH HANGUL LETTER RIEUL-THIEUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65455,
+    "char": "ﾯ",
+    "name": "HALFWIDTH HANGUL LETTER RIEUL-PHIEUPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65456,
+    "char": "ﾰ",
+    "name": "HALFWIDTH HANGUL LETTER RIEUL-HIEUH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65457,
+    "char": "ﾱ",
+    "name": "HALFWIDTH HANGUL LETTER MIEUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65458,
+    "char": "ﾲ",
+    "name": "HALFWIDTH HANGUL LETTER PIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65459,
+    "char": "ﾳ",
+    "name": "HALFWIDTH HANGUL LETTER SSANGPIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65460,
+    "char": "ﾴ",
+    "name": "HALFWIDTH HANGUL LETTER PIEUP-SIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65461,
+    "char": "ﾵ",
+    "name": "HALFWIDTH HANGUL LETTER SIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65462,
+    "char": "ﾶ",
+    "name": "HALFWIDTH HANGUL LETTER SSANGSIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65463,
+    "char": "ﾷ",
+    "name": "HALFWIDTH HANGUL LETTER IEUNG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65464,
+    "char": "ﾸ",
+    "name": "HALFWIDTH HANGUL LETTER CIEUC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65465,
+    "char": "ﾹ",
+    "name": "HALFWIDTH HANGUL LETTER SSANGCIEUC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65466,
+    "char": "ﾺ",
+    "name": "HALFWIDTH HANGUL LETTER CHIEUCH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65467,
+    "char": "ﾻ",
+    "name": "HALFWIDTH HANGUL LETTER KHIEUKH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65468,
+    "char": "ﾼ",
+    "name": "HALFWIDTH HANGUL LETTER THIEUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65469,
+    "char": "ﾽ",
+    "name": "HALFWIDTH HANGUL LETTER PHIEUPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65470,
+    "char": "ﾾ",
+    "name": "HALFWIDTH HANGUL LETTER HIEUH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65474,
+    "char": "ￂ",
+    "name": "HALFWIDTH HANGUL LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65475,
+    "char": "ￃ",
+    "name": "HALFWIDTH HANGUL LETTER AE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65476,
+    "char": "ￄ",
+    "name": "HALFWIDTH HANGUL LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65477,
+    "char": "ￅ",
+    "name": "HALFWIDTH HANGUL LETTER YAE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65478,
+    "char": "ￆ",
+    "name": "HALFWIDTH HANGUL LETTER EO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65479,
+    "char": "ￇ",
+    "name": "HALFWIDTH HANGUL LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65482,
+    "char": "ￊ",
+    "name": "HALFWIDTH HANGUL LETTER YEO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65483,
+    "char": "ￋ",
+    "name": "HALFWIDTH HANGUL LETTER YE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65484,
+    "char": "ￌ",
+    "name": "HALFWIDTH HANGUL LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65485,
+    "char": "ￍ",
+    "name": "HALFWIDTH HANGUL LETTER WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65486,
+    "char": "ￎ",
+    "name": "HALFWIDTH HANGUL LETTER WAE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65487,
+    "char": "ￏ",
+    "name": "HALFWIDTH HANGUL LETTER OE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65490,
+    "char": "ￒ",
+    "name": "HALFWIDTH HANGUL LETTER YO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65491,
+    "char": "ￓ",
+    "name": "HALFWIDTH HANGUL LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65492,
+    "char": "ￔ",
+    "name": "HALFWIDTH HANGUL LETTER WEO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65493,
+    "char": "ￕ",
+    "name": "HALFWIDTH HANGUL LETTER WE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65494,
+    "char": "ￖ",
+    "name": "HALFWIDTH HANGUL LETTER WI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65495,
+    "char": "ￗ",
+    "name": "HALFWIDTH HANGUL LETTER YU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65498,
+    "char": "ￚ",
+    "name": "HALFWIDTH HANGUL LETTER EU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65499,
+    "char": "ￛ",
+    "name": "HALFWIDTH HANGUL LETTER YI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65500,
+    "char": "ￜ",
+    "name": "HALFWIDTH HANGUL LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65504,
+    "char": "￠",
+    "name": "FULLWIDTH CENT SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65505,
+    "char": "￡",
+    "name": "FULLWIDTH POUND SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65506,
+    "char": "￢",
+    "name": "FULLWIDTH NOT SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65507,
+    "char": "￣",
+    "name": "FULLWIDTH MACRON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65508,
+    "char": "￤",
+    "name": "FULLWIDTH BROKEN BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65509,
+    "char": "￥",
+    "name": "FULLWIDTH YEN SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65510,
+    "char": "￦",
+    "name": "FULLWIDTH WON SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65512,
+    "char": "￨",
+    "name": "HALFWIDTH FORMS LIGHT VERTICAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65513,
+    "char": "￩",
+    "name": "HALFWIDTH LEFTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65514,
+    "char": "￪",
+    "name": "HALFWIDTH UPWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65515,
+    "char": "￫",
+    "name": "HALFWIDTH RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65516,
+    "char": "￬",
+    "name": "HALFWIDTH DOWNWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65517,
+    "char": "￭",
+    "name": "HALFWIDTH BLACK SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65518,
+    "char": "￮",
+    "name": "HALFWIDTH WHITE CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

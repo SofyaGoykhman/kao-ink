@@ -1,0 +1,1866 @@
+[
+  {
+    "cp": 7936,
+    "char": "ἀ",
+    "name": "GREEK SMALL LETTER ALPHA WITH PSILI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7937,
+    "char": "ἁ",
+    "name": "GREEK SMALL LETTER ALPHA WITH DASIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7938,
+    "char": "ἂ",
+    "name": "GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7939,
+    "char": "ἃ",
+    "name": "GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7940,
+    "char": "ἄ",
+    "name": "GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7941,
+    "char": "ἅ",
+    "name": "GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7942,
+    "char": "ἆ",
+    "name": "GREEK SMALL LETTER ALPHA WITH PSILI AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7943,
+    "char": "ἇ",
+    "name": "GREEK SMALL LETTER ALPHA WITH DASIA AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7944,
+    "char": "Ἀ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH PSILI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7945,
+    "char": "Ἁ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH DASIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7946,
+    "char": "Ἂ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7947,
+    "char": "Ἃ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7948,
+    "char": "Ἄ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7949,
+    "char": "Ἅ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7950,
+    "char": "Ἆ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7951,
+    "char": "Ἇ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7952,
+    "char": "ἐ",
+    "name": "GREEK SMALL LETTER EPSILON WITH PSILI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7953,
+    "char": "ἑ",
+    "name": "GREEK SMALL LETTER EPSILON WITH DASIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7954,
+    "char": "ἒ",
+    "name": "GREEK SMALL LETTER EPSILON WITH PSILI AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7955,
+    "char": "ἓ",
+    "name": "GREEK SMALL LETTER EPSILON WITH DASIA AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7956,
+    "char": "ἔ",
+    "name": "GREEK SMALL LETTER EPSILON WITH PSILI AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7957,
+    "char": "ἕ",
+    "name": "GREEK SMALL LETTER EPSILON WITH DASIA AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7960,
+    "char": "Ἐ",
+    "name": "GREEK CAPITAL LETTER EPSILON WITH PSILI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7961,
+    "char": "Ἑ",
+    "name": "GREEK CAPITAL LETTER EPSILON WITH DASIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7962,
+    "char": "Ἒ",
+    "name": "GREEK CAPITAL LETTER EPSILON WITH PSILI AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7963,
+    "char": "Ἓ",
+    "name": "GREEK CAPITAL LETTER EPSILON WITH DASIA AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7964,
+    "char": "Ἔ",
+    "name": "GREEK CAPITAL LETTER EPSILON WITH PSILI AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7965,
+    "char": "Ἕ",
+    "name": "GREEK CAPITAL LETTER EPSILON WITH DASIA AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7968,
+    "char": "ἠ",
+    "name": "GREEK SMALL LETTER ETA WITH PSILI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7969,
+    "char": "ἡ",
+    "name": "GREEK SMALL LETTER ETA WITH DASIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7970,
+    "char": "ἢ",
+    "name": "GREEK SMALL LETTER ETA WITH PSILI AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7971,
+    "char": "ἣ",
+    "name": "GREEK SMALL LETTER ETA WITH DASIA AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7972,
+    "char": "ἤ",
+    "name": "GREEK SMALL LETTER ETA WITH PSILI AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7973,
+    "char": "ἥ",
+    "name": "GREEK SMALL LETTER ETA WITH DASIA AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7974,
+    "char": "ἦ",
+    "name": "GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7975,
+    "char": "ἧ",
+    "name": "GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7976,
+    "char": "Ἠ",
+    "name": "GREEK CAPITAL LETTER ETA WITH PSILI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7977,
+    "char": "Ἡ",
+    "name": "GREEK CAPITAL LETTER ETA WITH DASIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7978,
+    "char": "Ἢ",
+    "name": "GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7979,
+    "char": "Ἣ",
+    "name": "GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7980,
+    "char": "Ἤ",
+    "name": "GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7981,
+    "char": "Ἥ",
+    "name": "GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7982,
+    "char": "Ἦ",
+    "name": "GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7983,
+    "char": "Ἧ",
+    "name": "GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7984,
+    "char": "ἰ",
+    "name": "GREEK SMALL LETTER IOTA WITH PSILI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7985,
+    "char": "ἱ",
+    "name": "GREEK SMALL LETTER IOTA WITH DASIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7986,
+    "char": "ἲ",
+    "name": "GREEK SMALL LETTER IOTA WITH PSILI AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7987,
+    "char": "ἳ",
+    "name": "GREEK SMALL LETTER IOTA WITH DASIA AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7988,
+    "char": "ἴ",
+    "name": "GREEK SMALL LETTER IOTA WITH PSILI AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7989,
+    "char": "ἵ",
+    "name": "GREEK SMALL LETTER IOTA WITH DASIA AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7990,
+    "char": "ἶ",
+    "name": "GREEK SMALL LETTER IOTA WITH PSILI AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7991,
+    "char": "ἷ",
+    "name": "GREEK SMALL LETTER IOTA WITH DASIA AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7992,
+    "char": "Ἰ",
+    "name": "GREEK CAPITAL LETTER IOTA WITH PSILI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7993,
+    "char": "Ἱ",
+    "name": "GREEK CAPITAL LETTER IOTA WITH DASIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7994,
+    "char": "Ἲ",
+    "name": "GREEK CAPITAL LETTER IOTA WITH PSILI AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7995,
+    "char": "Ἳ",
+    "name": "GREEK CAPITAL LETTER IOTA WITH DASIA AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7996,
+    "char": "Ἴ",
+    "name": "GREEK CAPITAL LETTER IOTA WITH PSILI AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7997,
+    "char": "Ἵ",
+    "name": "GREEK CAPITAL LETTER IOTA WITH DASIA AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7998,
+    "char": "Ἶ",
+    "name": "GREEK CAPITAL LETTER IOTA WITH PSILI AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7999,
+    "char": "Ἷ",
+    "name": "GREEK CAPITAL LETTER IOTA WITH DASIA AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8000,
+    "char": "ὀ",
+    "name": "GREEK SMALL LETTER OMICRON WITH PSILI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8001,
+    "char": "ὁ",
+    "name": "GREEK SMALL LETTER OMICRON WITH DASIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8002,
+    "char": "ὂ",
+    "name": "GREEK SMALL LETTER OMICRON WITH PSILI AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8003,
+    "char": "ὃ",
+    "name": "GREEK SMALL LETTER OMICRON WITH DASIA AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8004,
+    "char": "ὄ",
+    "name": "GREEK SMALL LETTER OMICRON WITH PSILI AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8005,
+    "char": "ὅ",
+    "name": "GREEK SMALL LETTER OMICRON WITH DASIA AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8008,
+    "char": "Ὀ",
+    "name": "GREEK CAPITAL LETTER OMICRON WITH PSILI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8009,
+    "char": "Ὁ",
+    "name": "GREEK CAPITAL LETTER OMICRON WITH DASIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8010,
+    "char": "Ὂ",
+    "name": "GREEK CAPITAL LETTER OMICRON WITH PSILI AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8011,
+    "char": "Ὃ",
+    "name": "GREEK CAPITAL LETTER OMICRON WITH DASIA AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8012,
+    "char": "Ὄ",
+    "name": "GREEK CAPITAL LETTER OMICRON WITH PSILI AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8013,
+    "char": "Ὅ",
+    "name": "GREEK CAPITAL LETTER OMICRON WITH DASIA AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8016,
+    "char": "ὐ",
+    "name": "GREEK SMALL LETTER UPSILON WITH PSILI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8017,
+    "char": "ὑ",
+    "name": "GREEK SMALL LETTER UPSILON WITH DASIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8018,
+    "char": "ὒ",
+    "name": "GREEK SMALL LETTER UPSILON WITH PSILI AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8019,
+    "char": "ὓ",
+    "name": "GREEK SMALL LETTER UPSILON WITH DASIA AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8020,
+    "char": "ὔ",
+    "name": "GREEK SMALL LETTER UPSILON WITH PSILI AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8021,
+    "char": "ὕ",
+    "name": "GREEK SMALL LETTER UPSILON WITH DASIA AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8022,
+    "char": "ὖ",
+    "name": "GREEK SMALL LETTER UPSILON WITH PSILI AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8023,
+    "char": "ὗ",
+    "name": "GREEK SMALL LETTER UPSILON WITH DASIA AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8025,
+    "char": "Ὑ",
+    "name": "GREEK CAPITAL LETTER UPSILON WITH DASIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8027,
+    "char": "Ὓ",
+    "name": "GREEK CAPITAL LETTER UPSILON WITH DASIA AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8029,
+    "char": "Ὕ",
+    "name": "GREEK CAPITAL LETTER UPSILON WITH DASIA AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8031,
+    "char": "Ὗ",
+    "name": "GREEK CAPITAL LETTER UPSILON WITH DASIA AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8032,
+    "char": "ὠ",
+    "name": "GREEK SMALL LETTER OMEGA WITH PSILI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8033,
+    "char": "ὡ",
+    "name": "GREEK SMALL LETTER OMEGA WITH DASIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8034,
+    "char": "ὢ",
+    "name": "GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8035,
+    "char": "ὣ",
+    "name": "GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8036,
+    "char": "ὤ",
+    "name": "GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8037,
+    "char": "ὥ",
+    "name": "GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8038,
+    "char": "ὦ",
+    "name": "GREEK SMALL LETTER OMEGA WITH PSILI AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8039,
+    "char": "ὧ",
+    "name": "GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8040,
+    "char": "Ὠ",
+    "name": "GREEK CAPITAL LETTER OMEGA WITH PSILI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8041,
+    "char": "Ὡ",
+    "name": "GREEK CAPITAL LETTER OMEGA WITH DASIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8042,
+    "char": "Ὢ",
+    "name": "GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8043,
+    "char": "Ὣ",
+    "name": "GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8044,
+    "char": "Ὤ",
+    "name": "GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8045,
+    "char": "Ὥ",
+    "name": "GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8046,
+    "char": "Ὦ",
+    "name": "GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8047,
+    "char": "Ὧ",
+    "name": "GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8048,
+    "char": "ὰ",
+    "name": "GREEK SMALL LETTER ALPHA WITH VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8049,
+    "char": "ά",
+    "name": "GREEK SMALL LETTER ALPHA WITH OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8050,
+    "char": "ὲ",
+    "name": "GREEK SMALL LETTER EPSILON WITH VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8051,
+    "char": "έ",
+    "name": "GREEK SMALL LETTER EPSILON WITH OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8052,
+    "char": "ὴ",
+    "name": "GREEK SMALL LETTER ETA WITH VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8053,
+    "char": "ή",
+    "name": "GREEK SMALL LETTER ETA WITH OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8054,
+    "char": "ὶ",
+    "name": "GREEK SMALL LETTER IOTA WITH VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8055,
+    "char": "ί",
+    "name": "GREEK SMALL LETTER IOTA WITH OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8056,
+    "char": "ὸ",
+    "name": "GREEK SMALL LETTER OMICRON WITH VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8057,
+    "char": "ό",
+    "name": "GREEK SMALL LETTER OMICRON WITH OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8058,
+    "char": "ὺ",
+    "name": "GREEK SMALL LETTER UPSILON WITH VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8059,
+    "char": "ύ",
+    "name": "GREEK SMALL LETTER UPSILON WITH OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8060,
+    "char": "ὼ",
+    "name": "GREEK SMALL LETTER OMEGA WITH VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8061,
+    "char": "ώ",
+    "name": "GREEK SMALL LETTER OMEGA WITH OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8064,
+    "char": "ᾀ",
+    "name": "GREEK SMALL LETTER ALPHA WITH PSILI AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8065,
+    "char": "ᾁ",
+    "name": "GREEK SMALL LETTER ALPHA WITH DASIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8066,
+    "char": "ᾂ",
+    "name": "GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8067,
+    "char": "ᾃ",
+    "name": "GREEK SMALL LETTER ALPHA WITH DASIA AND VARIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8068,
+    "char": "ᾄ",
+    "name": "GREEK SMALL LETTER ALPHA WITH PSILI AND OXIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8069,
+    "char": "ᾅ",
+    "name": "GREEK SMALL LETTER ALPHA WITH DASIA AND OXIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8070,
+    "char": "ᾆ",
+    "name": "GREEK SMALL LETTER ALPHA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8071,
+    "char": "ᾇ",
+    "name": "GREEK SMALL LETTER ALPHA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8072,
+    "char": "ᾈ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH PSILI AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8073,
+    "char": "ᾉ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH DASIA AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8074,
+    "char": "ᾊ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH PSILI AND VARIA AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8075,
+    "char": "ᾋ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH DASIA AND VARIA AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8076,
+    "char": "ᾌ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH PSILI AND OXIA AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8077,
+    "char": "ᾍ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH DASIA AND OXIA AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8078,
+    "char": "ᾎ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8079,
+    "char": "ᾏ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8080,
+    "char": "ᾐ",
+    "name": "GREEK SMALL LETTER ETA WITH PSILI AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8081,
+    "char": "ᾑ",
+    "name": "GREEK SMALL LETTER ETA WITH DASIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8082,
+    "char": "ᾒ",
+    "name": "GREEK SMALL LETTER ETA WITH PSILI AND VARIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8083,
+    "char": "ᾓ",
+    "name": "GREEK SMALL LETTER ETA WITH DASIA AND VARIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8084,
+    "char": "ᾔ",
+    "name": "GREEK SMALL LETTER ETA WITH PSILI AND OXIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8085,
+    "char": "ᾕ",
+    "name": "GREEK SMALL LETTER ETA WITH DASIA AND OXIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8086,
+    "char": "ᾖ",
+    "name": "GREEK SMALL LETTER ETA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8087,
+    "char": "ᾗ",
+    "name": "GREEK SMALL LETTER ETA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8088,
+    "char": "ᾘ",
+    "name": "GREEK CAPITAL LETTER ETA WITH PSILI AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8089,
+    "char": "ᾙ",
+    "name": "GREEK CAPITAL LETTER ETA WITH DASIA AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8090,
+    "char": "ᾚ",
+    "name": "GREEK CAPITAL LETTER ETA WITH PSILI AND VARIA AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8091,
+    "char": "ᾛ",
+    "name": "GREEK CAPITAL LETTER ETA WITH DASIA AND VARIA AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8092,
+    "char": "ᾜ",
+    "name": "GREEK CAPITAL LETTER ETA WITH PSILI AND OXIA AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8093,
+    "char": "ᾝ",
+    "name": "GREEK CAPITAL LETTER ETA WITH DASIA AND OXIA AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8094,
+    "char": "ᾞ",
+    "name": "GREEK CAPITAL LETTER ETA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8095,
+    "char": "ᾟ",
+    "name": "GREEK CAPITAL LETTER ETA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8096,
+    "char": "ᾠ",
+    "name": "GREEK SMALL LETTER OMEGA WITH PSILI AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8097,
+    "char": "ᾡ",
+    "name": "GREEK SMALL LETTER OMEGA WITH DASIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8098,
+    "char": "ᾢ",
+    "name": "GREEK SMALL LETTER OMEGA WITH PSILI AND VARIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8099,
+    "char": "ᾣ",
+    "name": "GREEK SMALL LETTER OMEGA WITH DASIA AND VARIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8100,
+    "char": "ᾤ",
+    "name": "GREEK SMALL LETTER OMEGA WITH PSILI AND OXIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8101,
+    "char": "ᾥ",
+    "name": "GREEK SMALL LETTER OMEGA WITH DASIA AND OXIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8102,
+    "char": "ᾦ",
+    "name": "GREEK SMALL LETTER OMEGA WITH PSILI AND PERISPOMENI AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8103,
+    "char": "ᾧ",
+    "name": "GREEK SMALL LETTER OMEGA WITH DASIA AND PERISPOMENI AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8104,
+    "char": "ᾨ",
+    "name": "GREEK CAPITAL LETTER OMEGA WITH PSILI AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8105,
+    "char": "ᾩ",
+    "name": "GREEK CAPITAL LETTER OMEGA WITH DASIA AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8106,
+    "char": "ᾪ",
+    "name": "GREEK CAPITAL LETTER OMEGA WITH PSILI AND VARIA AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8107,
+    "char": "ᾫ",
+    "name": "GREEK CAPITAL LETTER OMEGA WITH DASIA AND VARIA AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8108,
+    "char": "ᾬ",
+    "name": "GREEK CAPITAL LETTER OMEGA WITH PSILI AND OXIA AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8109,
+    "char": "ᾭ",
+    "name": "GREEK CAPITAL LETTER OMEGA WITH DASIA AND OXIA AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8110,
+    "char": "ᾮ",
+    "name": "GREEK CAPITAL LETTER OMEGA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8111,
+    "char": "ᾯ",
+    "name": "GREEK CAPITAL LETTER OMEGA WITH DASIA AND PERISPOMENI AND PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8112,
+    "char": "ᾰ",
+    "name": "GREEK SMALL LETTER ALPHA WITH VRACHY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8113,
+    "char": "ᾱ",
+    "name": "GREEK SMALL LETTER ALPHA WITH MACRON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8114,
+    "char": "ᾲ",
+    "name": "GREEK SMALL LETTER ALPHA WITH VARIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8115,
+    "char": "ᾳ",
+    "name": "GREEK SMALL LETTER ALPHA WITH YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8116,
+    "char": "ᾴ",
+    "name": "GREEK SMALL LETTER ALPHA WITH OXIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8118,
+    "char": "ᾶ",
+    "name": "GREEK SMALL LETTER ALPHA WITH PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8119,
+    "char": "ᾷ",
+    "name": "GREEK SMALL LETTER ALPHA WITH PERISPOMENI AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8120,
+    "char": "Ᾰ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH VRACHY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8121,
+    "char": "Ᾱ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH MACRON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8122,
+    "char": "Ὰ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8123,
+    "char": "Ά",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8124,
+    "char": "ᾼ",
+    "name": "GREEK CAPITAL LETTER ALPHA WITH PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8125,
+    "char": "᾽",
+    "name": "GREEK KORONIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8126,
+    "char": "ι",
+    "name": "GREEK PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8127,
+    "char": "᾿",
+    "name": "GREEK PSILI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8128,
+    "char": "῀",
+    "name": "GREEK PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8129,
+    "char": "῁",
+    "name": "GREEK DIALYTIKA AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8130,
+    "char": "ῂ",
+    "name": "GREEK SMALL LETTER ETA WITH VARIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8131,
+    "char": "ῃ",
+    "name": "GREEK SMALL LETTER ETA WITH YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8132,
+    "char": "ῄ",
+    "name": "GREEK SMALL LETTER ETA WITH OXIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8134,
+    "char": "ῆ",
+    "name": "GREEK SMALL LETTER ETA WITH PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8135,
+    "char": "ῇ",
+    "name": "GREEK SMALL LETTER ETA WITH PERISPOMENI AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8136,
+    "char": "Ὲ",
+    "name": "GREEK CAPITAL LETTER EPSILON WITH VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8137,
+    "char": "Έ",
+    "name": "GREEK CAPITAL LETTER EPSILON WITH OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8138,
+    "char": "Ὴ",
+    "name": "GREEK CAPITAL LETTER ETA WITH VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8139,
+    "char": "Ή",
+    "name": "GREEK CAPITAL LETTER ETA WITH OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8140,
+    "char": "ῌ",
+    "name": "GREEK CAPITAL LETTER ETA WITH PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8141,
+    "char": "῍",
+    "name": "GREEK PSILI AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8142,
+    "char": "῎",
+    "name": "GREEK PSILI AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8143,
+    "char": "῏",
+    "name": "GREEK PSILI AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8144,
+    "char": "ῐ",
+    "name": "GREEK SMALL LETTER IOTA WITH VRACHY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8145,
+    "char": "ῑ",
+    "name": "GREEK SMALL LETTER IOTA WITH MACRON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8146,
+    "char": "ῒ",
+    "name": "GREEK SMALL LETTER IOTA WITH DIALYTIKA AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8147,
+    "char": "ΐ",
+    "name": "GREEK SMALL LETTER IOTA WITH DIALYTIKA AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8150,
+    "char": "ῖ",
+    "name": "GREEK SMALL LETTER IOTA WITH PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8151,
+    "char": "ῗ",
+    "name": "GREEK SMALL LETTER IOTA WITH DIALYTIKA AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8152,
+    "char": "Ῐ",
+    "name": "GREEK CAPITAL LETTER IOTA WITH VRACHY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8153,
+    "char": "Ῑ",
+    "name": "GREEK CAPITAL LETTER IOTA WITH MACRON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8154,
+    "char": "Ὶ",
+    "name": "GREEK CAPITAL LETTER IOTA WITH VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8155,
+    "char": "Ί",
+    "name": "GREEK CAPITAL LETTER IOTA WITH OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8157,
+    "char": "῝",
+    "name": "GREEK DASIA AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8158,
+    "char": "῞",
+    "name": "GREEK DASIA AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8159,
+    "char": "῟",
+    "name": "GREEK DASIA AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8160,
+    "char": "ῠ",
+    "name": "GREEK SMALL LETTER UPSILON WITH VRACHY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8161,
+    "char": "ῡ",
+    "name": "GREEK SMALL LETTER UPSILON WITH MACRON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8162,
+    "char": "ῢ",
+    "name": "GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8163,
+    "char": "ΰ",
+    "name": "GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8164,
+    "char": "ῤ",
+    "name": "GREEK SMALL LETTER RHO WITH PSILI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8165,
+    "char": "ῥ",
+    "name": "GREEK SMALL LETTER RHO WITH DASIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8166,
+    "char": "ῦ",
+    "name": "GREEK SMALL LETTER UPSILON WITH PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8167,
+    "char": "ῧ",
+    "name": "GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8168,
+    "char": "Ῠ",
+    "name": "GREEK CAPITAL LETTER UPSILON WITH VRACHY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8169,
+    "char": "Ῡ",
+    "name": "GREEK CAPITAL LETTER UPSILON WITH MACRON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8170,
+    "char": "Ὺ",
+    "name": "GREEK CAPITAL LETTER UPSILON WITH VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8171,
+    "char": "Ύ",
+    "name": "GREEK CAPITAL LETTER UPSILON WITH OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8172,
+    "char": "Ῥ",
+    "name": "GREEK CAPITAL LETTER RHO WITH DASIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8173,
+    "char": "῭",
+    "name": "GREEK DIALYTIKA AND VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8174,
+    "char": "΅",
+    "name": "GREEK DIALYTIKA AND OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8175,
+    "char": "`",
+    "name": "GREEK VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8178,
+    "char": "ῲ",
+    "name": "GREEK SMALL LETTER OMEGA WITH VARIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8179,
+    "char": "ῳ",
+    "name": "GREEK SMALL LETTER OMEGA WITH YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8180,
+    "char": "ῴ",
+    "name": "GREEK SMALL LETTER OMEGA WITH OXIA AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8182,
+    "char": "ῶ",
+    "name": "GREEK SMALL LETTER OMEGA WITH PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8183,
+    "char": "ῷ",
+    "name": "GREEK SMALL LETTER OMEGA WITH PERISPOMENI AND YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8184,
+    "char": "Ὸ",
+    "name": "GREEK CAPITAL LETTER OMICRON WITH VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8185,
+    "char": "Ό",
+    "name": "GREEK CAPITAL LETTER OMICRON WITH OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8186,
+    "char": "Ὼ",
+    "name": "GREEK CAPITAL LETTER OMEGA WITH VARIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8187,
+    "char": "Ώ",
+    "name": "GREEK CAPITAL LETTER OMEGA WITH OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8188,
+    "char": "ῼ",
+    "name": "GREEK CAPITAL LETTER OMEGA WITH PROSGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8189,
+    "char": "´",
+    "name": "GREEK OXIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8190,
+    "char": "῾",
+    "name": "GREEK DASIA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

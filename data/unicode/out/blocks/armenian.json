@@ -1,0 +1,754 @@
+[
+  {
+    "cp": 1329,
+    "char": "Ա",
+    "name": "ARMENIAN CAPITAL LETTER AYB",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1330,
+    "char": "Բ",
+    "name": "ARMENIAN CAPITAL LETTER BEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1331,
+    "char": "Գ",
+    "name": "ARMENIAN CAPITAL LETTER GIM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1332,
+    "char": "Դ",
+    "name": "ARMENIAN CAPITAL LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1333,
+    "char": "Ե",
+    "name": "ARMENIAN CAPITAL LETTER ECH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1334,
+    "char": "Զ",
+    "name": "ARMENIAN CAPITAL LETTER ZA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1335,
+    "char": "Է",
+    "name": "ARMENIAN CAPITAL LETTER EH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1336,
+    "char": "Ը",
+    "name": "ARMENIAN CAPITAL LETTER ET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1337,
+    "char": "Թ",
+    "name": "ARMENIAN CAPITAL LETTER TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1338,
+    "char": "Ժ",
+    "name": "ARMENIAN CAPITAL LETTER ZHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1339,
+    "char": "Ի",
+    "name": "ARMENIAN CAPITAL LETTER INI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1340,
+    "char": "Լ",
+    "name": "ARMENIAN CAPITAL LETTER LIWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1341,
+    "char": "Խ",
+    "name": "ARMENIAN CAPITAL LETTER XEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1342,
+    "char": "Ծ",
+    "name": "ARMENIAN CAPITAL LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1343,
+    "char": "Կ",
+    "name": "ARMENIAN CAPITAL LETTER KEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1344,
+    "char": "Հ",
+    "name": "ARMENIAN CAPITAL LETTER HO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1345,
+    "char": "Ձ",
+    "name": "ARMENIAN CAPITAL LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1346,
+    "char": "Ղ",
+    "name": "ARMENIAN CAPITAL LETTER GHAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1347,
+    "char": "Ճ",
+    "name": "ARMENIAN CAPITAL LETTER CHEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1348,
+    "char": "Մ",
+    "name": "ARMENIAN CAPITAL LETTER MEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1349,
+    "char": "Յ",
+    "name": "ARMENIAN CAPITAL LETTER YI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1350,
+    "char": "Ն",
+    "name": "ARMENIAN CAPITAL LETTER NOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1351,
+    "char": "Շ",
+    "name": "ARMENIAN CAPITAL LETTER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1352,
+    "char": "Ո",
+    "name": "ARMENIAN CAPITAL LETTER VO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1353,
+    "char": "Չ",
+    "name": "ARMENIAN CAPITAL LETTER CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1354,
+    "char": "Պ",
+    "name": "ARMENIAN CAPITAL LETTER PEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1355,
+    "char": "Ջ",
+    "name": "ARMENIAN CAPITAL LETTER JHEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1356,
+    "char": "Ռ",
+    "name": "ARMENIAN CAPITAL LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1357,
+    "char": "Ս",
+    "name": "ARMENIAN CAPITAL LETTER SEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1358,
+    "char": "Վ",
+    "name": "ARMENIAN CAPITAL LETTER VEW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1359,
+    "char": "Տ",
+    "name": "ARMENIAN CAPITAL LETTER TIWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1360,
+    "char": "Ր",
+    "name": "ARMENIAN CAPITAL LETTER REH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1361,
+    "char": "Ց",
+    "name": "ARMENIAN CAPITAL LETTER CO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1362,
+    "char": "Ւ",
+    "name": "ARMENIAN CAPITAL LETTER YIWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1363,
+    "char": "Փ",
+    "name": "ARMENIAN CAPITAL LETTER PIWR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1364,
+    "char": "Ք",
+    "name": "ARMENIAN CAPITAL LETTER KEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1365,
+    "char": "Օ",
+    "name": "ARMENIAN CAPITAL LETTER OH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1366,
+    "char": "Ֆ",
+    "name": "ARMENIAN CAPITAL LETTER FEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1368,
+    "char": "՘",
+    "name": "MODIFIER LETTER ARMENIAN SMALL EH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1369,
+    "char": "ՙ",
+    "name": "ARMENIAN MODIFIER LETTER LEFT HALF RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1370,
+    "char": "՚",
+    "name": "ARMENIAN APOSTROPHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1371,
+    "char": "՛",
+    "name": "ARMENIAN EMPHASIS MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1372,
+    "char": "՜",
+    "name": "ARMENIAN EXCLAMATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1373,
+    "char": "՝",
+    "name": "ARMENIAN COMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1374,
+    "char": "՞",
+    "name": "ARMENIAN QUESTION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1375,
+    "char": "՟",
+    "name": "ARMENIAN ABBREVIATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1376,
+    "char": "ՠ",
+    "name": "ARMENIAN SMALL LETTER TURNED AYB",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1377,
+    "char": "ա",
+    "name": "ARMENIAN SMALL LETTER AYB",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1378,
+    "char": "բ",
+    "name": "ARMENIAN SMALL LETTER BEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1379,
+    "char": "գ",
+    "name": "ARMENIAN SMALL LETTER GIM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1380,
+    "char": "դ",
+    "name": "ARMENIAN SMALL LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1381,
+    "char": "ե",
+    "name": "ARMENIAN SMALL LETTER ECH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1382,
+    "char": "զ",
+    "name": "ARMENIAN SMALL LETTER ZA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1383,
+    "char": "է",
+    "name": "ARMENIAN SMALL LETTER EH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1384,
+    "char": "ը",
+    "name": "ARMENIAN SMALL LETTER ET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1385,
+    "char": "թ",
+    "name": "ARMENIAN SMALL LETTER TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1386,
+    "char": "ժ",
+    "name": "ARMENIAN SMALL LETTER ZHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1387,
+    "char": "ի",
+    "name": "ARMENIAN SMALL LETTER INI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1388,
+    "char": "լ",
+    "name": "ARMENIAN SMALL LETTER LIWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1389,
+    "char": "խ",
+    "name": "ARMENIAN SMALL LETTER XEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1390,
+    "char": "ծ",
+    "name": "ARMENIAN SMALL LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1391,
+    "char": "կ",
+    "name": "ARMENIAN SMALL LETTER KEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1392,
+    "char": "հ",
+    "name": "ARMENIAN SMALL LETTER HO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1393,
+    "char": "ձ",
+    "name": "ARMENIAN SMALL LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1394,
+    "char": "ղ",
+    "name": "ARMENIAN SMALL LETTER GHAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1395,
+    "char": "ճ",
+    "name": "ARMENIAN SMALL LETTER CHEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1396,
+    "char": "մ",
+    "name": "ARMENIAN SMALL LETTER MEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1397,
+    "char": "յ",
+    "name": "ARMENIAN SMALL LETTER YI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1398,
+    "char": "ն",
+    "name": "ARMENIAN SMALL LETTER NOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1399,
+    "char": "շ",
+    "name": "ARMENIAN SMALL LETTER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1400,
+    "char": "ո",
+    "name": "ARMENIAN SMALL LETTER VO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1401,
+    "char": "չ",
+    "name": "ARMENIAN SMALL LETTER CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1402,
+    "char": "պ",
+    "name": "ARMENIAN SMALL LETTER PEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1403,
+    "char": "ջ",
+    "name": "ARMENIAN SMALL LETTER JHEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1404,
+    "char": "ռ",
+    "name": "ARMENIAN SMALL LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1405,
+    "char": "ս",
+    "name": "ARMENIAN SMALL LETTER SEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1406,
+    "char": "վ",
+    "name": "ARMENIAN SMALL LETTER VEW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1407,
+    "char": "տ",
+    "name": "ARMENIAN SMALL LETTER TIWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1408,
+    "char": "ր",
+    "name": "ARMENIAN SMALL LETTER REH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1409,
+    "char": "ց",
+    "name": "ARMENIAN SMALL LETTER CO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1410,
+    "char": "ւ",
+    "name": "ARMENIAN SMALL LETTER YIWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1411,
+    "char": "փ",
+    "name": "ARMENIAN SMALL LETTER PIWR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1412,
+    "char": "ք",
+    "name": "ARMENIAN SMALL LETTER KEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1413,
+    "char": "օ",
+    "name": "ARMENIAN SMALL LETTER OH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1414,
+    "char": "ֆ",
+    "name": "ARMENIAN SMALL LETTER FEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1415,
+    "char": "և",
+    "name": "ARMENIAN SMALL LIGATURE ECH YIWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1416,
+    "char": "ֈ",
+    "name": "ARMENIAN SMALL LETTER YI WITH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1417,
+    "char": "։",
+    "name": "ARMENIAN FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1418,
+    "char": "֊",
+    "name": "ARMENIAN HYPHEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1419,
+    "char": "֋",
+    "name": "MODIFIER LETTER ARMENIAN SMALL INI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1420,
+    "char": "֌",
+    "name": "MODIFIER LETTER ARMENIAN SMALL YI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1421,
+    "char": "֍",
+    "name": "RIGHT-FACING ARMENIAN ETERNITY SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1422,
+    "char": "֎",
+    "name": "LEFT-FACING ARMENIAN ETERNITY SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1423,
+    "char": "֏",
+    "name": "ARMENIAN DRAM SIGN",
+    "ru": "армянский драм",
+    "en": "Armenian Dram",
+    "keywords": { "ru": [], "en": [] }
+  }
+]

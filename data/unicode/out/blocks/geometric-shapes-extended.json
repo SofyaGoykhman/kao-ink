@@ -1,0 +1,998 @@
+[
+  {
+    "cp": 128896,
+    "char": "🞀",
+    "name": "BLACK LEFT-POINTING ISOSCELES RIGHT TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128897,
+    "char": "🞁",
+    "name": "BLACK UP-POINTING ISOSCELES RIGHT TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128898,
+    "char": "🞂",
+    "name": "BLACK RIGHT-POINTING ISOSCELES RIGHT TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128899,
+    "char": "🞃",
+    "name": "BLACK DOWN-POINTING ISOSCELES RIGHT TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128900,
+    "char": "🞄",
+    "name": "BLACK SLIGHTLY SMALL CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128901,
+    "char": "🞅",
+    "name": "MEDIUM BOLD WHITE CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128902,
+    "char": "🞆",
+    "name": "BOLD WHITE CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128903,
+    "char": "🞇",
+    "name": "HEAVY WHITE CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128904,
+    "char": "🞈",
+    "name": "VERY HEAVY WHITE CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128905,
+    "char": "🞉",
+    "name": "EXTREMELY HEAVY WHITE CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128906,
+    "char": "🞊",
+    "name": "WHITE CIRCLE CONTAINING BLACK SMALL CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128907,
+    "char": "🞋",
+    "name": "ROUND TARGET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128908,
+    "char": "🞌",
+    "name": "BLACK TINY SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128909,
+    "char": "🞍",
+    "name": "BLACK SLIGHTLY SMALL SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128910,
+    "char": "🞎",
+    "name": "LIGHT WHITE SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128911,
+    "char": "🞏",
+    "name": "MEDIUM WHITE SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128912,
+    "char": "🞐",
+    "name": "BOLD WHITE SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128913,
+    "char": "🞑",
+    "name": "HEAVY WHITE SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128914,
+    "char": "🞒",
+    "name": "VERY HEAVY WHITE SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128915,
+    "char": "🞓",
+    "name": "EXTREMELY HEAVY WHITE SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128916,
+    "char": "🞔",
+    "name": "WHITE SQUARE CONTAINING BLACK VERY SMALL SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128917,
+    "char": "🞕",
+    "name": "WHITE SQUARE CONTAINING BLACK MEDIUM SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128918,
+    "char": "🞖",
+    "name": "SQUARE TARGET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128919,
+    "char": "🞗",
+    "name": "BLACK TINY DIAMOND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128920,
+    "char": "🞘",
+    "name": "BLACK VERY SMALL DIAMOND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128921,
+    "char": "🞙",
+    "name": "BLACK MEDIUM SMALL DIAMOND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128922,
+    "char": "🞚",
+    "name": "WHITE DIAMOND CONTAINING BLACK VERY SMALL DIAMOND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128923,
+    "char": "🞛",
+    "name": "WHITE DIAMOND CONTAINING BLACK MEDIUM DIAMOND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128924,
+    "char": "🞜",
+    "name": "DIAMOND TARGET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128925,
+    "char": "🞝",
+    "name": "BLACK TINY LOZENGE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128926,
+    "char": "🞞",
+    "name": "BLACK VERY SMALL LOZENGE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128927,
+    "char": "🞟",
+    "name": "BLACK MEDIUM SMALL LOZENGE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128928,
+    "char": "🞠",
+    "name": "WHITE LOZENGE CONTAINING BLACK SMALL LOZENGE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128929,
+    "char": "🞡",
+    "name": "THIN GREEK CROSS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128930,
+    "char": "🞢",
+    "name": "LIGHT GREEK CROSS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128931,
+    "char": "🞣",
+    "name": "MEDIUM GREEK CROSS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128932,
+    "char": "🞤",
+    "name": "BOLD GREEK CROSS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128933,
+    "char": "🞥",
+    "name": "VERY BOLD GREEK CROSS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128934,
+    "char": "🞦",
+    "name": "VERY HEAVY GREEK CROSS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128935,
+    "char": "🞧",
+    "name": "EXTREMELY HEAVY GREEK CROSS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128936,
+    "char": "🞨",
+    "name": "THIN SALTIRE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128937,
+    "char": "🞩",
+    "name": "LIGHT SALTIRE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128938,
+    "char": "🞪",
+    "name": "MEDIUM SALTIRE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128939,
+    "char": "🞫",
+    "name": "BOLD SALTIRE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128940,
+    "char": "🞬",
+    "name": "HEAVY SALTIRE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128941,
+    "char": "🞭",
+    "name": "VERY HEAVY SALTIRE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128942,
+    "char": "🞮",
+    "name": "EXTREMELY HEAVY SALTIRE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128943,
+    "char": "🞯",
+    "name": "LIGHT FIVE SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128944,
+    "char": "🞰",
+    "name": "MEDIUM FIVE SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128945,
+    "char": "🞱",
+    "name": "BOLD FIVE SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128946,
+    "char": "🞲",
+    "name": "HEAVY FIVE SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128947,
+    "char": "🞳",
+    "name": "VERY HEAVY FIVE SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128948,
+    "char": "🞴",
+    "name": "EXTREMELY HEAVY FIVE SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128949,
+    "char": "🞵",
+    "name": "LIGHT SIX SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128950,
+    "char": "🞶",
+    "name": "MEDIUM SIX SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128951,
+    "char": "🞷",
+    "name": "BOLD SIX SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128952,
+    "char": "🞸",
+    "name": "HEAVY SIX SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128953,
+    "char": "🞹",
+    "name": "VERY HEAVY SIX SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128954,
+    "char": "🞺",
+    "name": "EXTREMELY HEAVY SIX SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128955,
+    "char": "🞻",
+    "name": "LIGHT EIGHT SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128956,
+    "char": "🞼",
+    "name": "MEDIUM EIGHT SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128957,
+    "char": "🞽",
+    "name": "BOLD EIGHT SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128958,
+    "char": "🞾",
+    "name": "HEAVY EIGHT SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128959,
+    "char": "🞿",
+    "name": "VERY HEAVY EIGHT SPOKED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128960,
+    "char": "🟀",
+    "name": "LIGHT THREE POINTED BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128961,
+    "char": "🟁",
+    "name": "MEDIUM THREE POINTED BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128962,
+    "char": "🟂",
+    "name": "THREE POINTED BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128963,
+    "char": "🟃",
+    "name": "MEDIUM THREE POINTED PINWHEEL STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128964,
+    "char": "🟄",
+    "name": "LIGHT FOUR POINTED BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128965,
+    "char": "🟅",
+    "name": "MEDIUM FOUR POINTED BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128966,
+    "char": "🟆",
+    "name": "FOUR POINTED BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128967,
+    "char": "🟇",
+    "name": "MEDIUM FOUR POINTED PINWHEEL STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128968,
+    "char": "🟈",
+    "name": "REVERSE LIGHT FOUR POINTED PINWHEEL STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128969,
+    "char": "🟉",
+    "name": "LIGHT FIVE POINTED BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128970,
+    "char": "🟊",
+    "name": "HEAVY FIVE POINTED BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128971,
+    "char": "🟋",
+    "name": "MEDIUM SIX POINTED BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128972,
+    "char": "🟌",
+    "name": "HEAVY SIX POINTED BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128973,
+    "char": "🟍",
+    "name": "SIX POINTED PINWHEEL STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128974,
+    "char": "🟎",
+    "name": "MEDIUM EIGHT POINTED BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128975,
+    "char": "🟏",
+    "name": "HEAVY EIGHT POINTED BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128976,
+    "char": "🟐",
+    "name": "VERY HEAVY EIGHT POINTED BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128977,
+    "char": "🟑",
+    "name": "HEAVY EIGHT POINTED PINWHEEL STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128978,
+    "char": "🟒",
+    "name": "LIGHT TWELVE POINTED BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128979,
+    "char": "🟓",
+    "name": "HEAVY TWELVE POINTED BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128980,
+    "char": "🟔",
+    "name": "HEAVY TWELVE POINTED PINWHEEL STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128981,
+    "char": "🟕",
+    "name": "CIRCLED TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128982,
+    "char": "🟖",
+    "name": "NEGATIVE CIRCLED TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128983,
+    "char": "🟗",
+    "name": "CIRCLED SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128984,
+    "char": "🟘",
+    "name": "NEGATIVE CIRCLED SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128985,
+    "char": "🟙",
+    "name": "NINE POINTED WHITE STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128986,
+    "char": "🟚",
+    "name": "BLACK CIRCLE WITH WHITE VERTICAL BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128987,
+    "char": "🟛",
+    "name": "BULLET IN DOUBLE CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 128992,
+    "char": "🟠",
+    "name": "LARGE ORANGE CIRCLE",
+    "ru": "оранжевый круг",
+    "en": "orange circle",
+    "keywords": {
+      "ru": ["геометрия", "круг", "оранжевый", "фигура", "шар"],
+      "en": ["circle", "orange"]
+    }
+  },
+  {
+    "cp": 128993,
+    "char": "🟡",
+    "name": "LARGE YELLOW CIRCLE",
+    "ru": "желтый круг",
+    "en": "yellow circle",
+    "keywords": {
+      "ru": ["геометрия", "желтый", "круг", "фигура", "шар"],
+      "en": ["circle", "yellow"]
+    }
+  },
+  {
+    "cp": 128994,
+    "char": "🟢",
+    "name": "LARGE GREEN CIRCLE",
+    "ru": "зеленый круг",
+    "en": "green circle",
+    "keywords": {
+      "ru": ["геометрия", "зеленый", "круг", "фигура", "шар"],
+      "en": ["circle", "green"]
+    }
+  },
+  {
+    "cp": 128995,
+    "char": "🟣",
+    "name": "LARGE PURPLE CIRCLE",
+    "ru": "фиолетовый круг",
+    "en": "purple circle",
+    "keywords": {
+      "ru": ["геометрия", "круг", "фигура", "фиолетовый", "шар"],
+      "en": ["circle", "purple"]
+    }
+  },
+  {
+    "cp": 128996,
+    "char": "🟤",
+    "name": "LARGE BROWN CIRCLE",
+    "ru": "коричневый круг",
+    "en": "brown circle",
+    "keywords": {
+      "ru": ["геометрия", "коричневый", "круг", "фигура", "шар"],
+      "en": ["brown", "circle"]
+    }
+  },
+  {
+    "cp": 128997,
+    "char": "🟥",
+    "name": "LARGE RED SQUARE",
+    "ru": "красный квадрат",
+    "en": "red square",
+    "keywords": {
+      "ru": ["геометрия", "квадрат", "красный", "прямоугольник", "фигура"],
+      "en": ["card", "penalty", "red", "square"]
+    }
+  },
+  {
+    "cp": 128998,
+    "char": "🟦",
+    "name": "LARGE BLUE SQUARE",
+    "ru": "синий квадрат",
+    "en": "blue square",
+    "keywords": {
+      "ru": ["геометрия", "голубой", "квадрат", "синий", "фигура"],
+      "en": ["blue", "square"]
+    }
+  },
+  {
+    "cp": 128999,
+    "char": "🟧",
+    "name": "LARGE ORANGE SQUARE",
+    "ru": "оранжевый квадрат",
+    "en": "orange square",
+    "keywords": {
+      "ru": ["геометрия", "квадрат", "оранжевый", "прямоугольник", "фигура"],
+      "en": ["orange", "square"]
+    }
+  },
+  {
+    "cp": 129000,
+    "char": "🟨",
+    "name": "LARGE YELLOW SQUARE",
+    "ru": "желтый квадрат",
+    "en": "yellow square",
+    "keywords": {
+      "ru": ["геометрия", "желтая", "желтый", "карточка", "квадрат", "предупреждение", "фигура"],
+      "en": ["card", "penalty", "square", "yellow"]
+    }
+  },
+  {
+    "cp": 129001,
+    "char": "🟩",
+    "name": "LARGE GREEN SQUARE",
+    "ru": "зеленый квадрат",
+    "en": "green square",
+    "keywords": { "ru": ["геометрия", "зеленый", "квадрат", "фигура"], "en": ["green", "square"] }
+  },
+  {
+    "cp": 129002,
+    "char": "🟪",
+    "name": "LARGE PURPLE SQUARE",
+    "ru": "фиолетовый квадрат",
+    "en": "purple square",
+    "keywords": {
+      "ru": ["геометрия", "квадрат", "прямоугольник", "фигура", "фиолетовый"],
+      "en": ["purple", "square"]
+    }
+  },
+  {
+    "cp": 129003,
+    "char": "🟫",
+    "name": "LARGE BROWN SQUARE",
+    "ru": "коричневый квадрат",
+    "en": "brown square",
+    "keywords": {
+      "ru": ["геометрия", "квадрат", "коричневый", "прямоугольник", "фигура"],
+      "en": ["brown", "square"]
+    }
+  },
+  {
+    "cp": 129008,
+    "char": "🟰",
+    "name": "HEAVY EQUALS SIGN",
+    "ru": "жирный знак равенства",
+    "en": "heavy equals sign",
+    "keywords": {
+      "ru": ["знак", "математика", "равенства", "равенство", "равно"],
+      "en": ["answer", "equal", "equality", "equals", "heavy", "math", "sign"]
+    }
+  },
+  {
+    "cp": 129009,
+    "char": "🟱",
+    "name": "CIRCLE WITH DOUBLE VERTICAL AND HORIZONTAL LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129010,
+    "char": "🟲",
+    "name": "DOUBLE CIRCLE WITH DOUBLE HORIZONTAL LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129011,
+    "char": "🟳",
+    "name": "CIRCLED BOTTOM RIGHT OBLIQUE HALF BLACK CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129012,
+    "char": "🟴",
+    "name": "LEFT HALF WHITE CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129013,
+    "char": "🟵",
+    "name": "RIGHT HALF WHITE CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129014,
+    "char": "🟶",
+    "name": "TRANSPARENT CUBE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129015,
+    "char": "🟷",
+    "name": "WHITE CUBE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129016,
+    "char": "🟸",
+    "name": "HORIZONTAL DOUBLE WHITE SMALL SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129017,
+    "char": "🟹",
+    "name": "VERTICAL DOUBLE WHITE SMALL SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129018,
+    "char": "🟺",
+    "name": "WHITE SQUARE WITH BOTTOM HALF BISECTED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129019,
+    "char": "🟻",
+    "name": "WHITE SQUARE WITH TOP HALF BISECTED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129020,
+    "char": "🟼",
+    "name": "WHITE SQUARE WITH HORIZONTAL AND VERTICAL BISECTING LINES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129021,
+    "char": "🟽",
+    "name": "LOWER LEFT FLATTENED RIGHT TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129022,
+    "char": "🟾",
+    "name": "LOWER RIGHT FLATTENED RIGHT TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 129023,
+    "char": "🟿",
+    "name": "RHOMBUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

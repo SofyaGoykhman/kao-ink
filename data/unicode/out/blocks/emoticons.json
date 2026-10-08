@@ -1,0 +1,2097 @@
+[
+  {
+    "cp": 128512,
+    "char": "😀",
+    "name": "GRINNING FACE",
+    "ru": "широко улыбается",
+    "en": "grinning face",
+    "keywords": {
+      "ru": ["лицо", "радость", "смех", "счастье", "улыбка"],
+      "en": [
+        "cheerful",
+        "cheery",
+        "face",
+        "grin",
+        "grinning",
+        "happy",
+        "laugh",
+        "nice",
+        "smile",
+        "smiling",
+        "teeth"
+      ]
+    }
+  },
+  {
+    "cp": 128513,
+    "char": "😁",
+    "name": "GRINNING FACE WITH SMILING EYES",
+    "ru": "светится от счастья",
+    "en": "beaming face with smiling eyes",
+    "keywords": {
+      "ru": [
+        "весело",
+        "глаза",
+        "зубы",
+        "лицо",
+        "ржать",
+        "смех",
+        "счастье",
+        "улыбка",
+        "ухмылка",
+        "широкая"
+      ],
+      "en": [
+        "beaming",
+        "eye",
+        "eyes",
+        "face",
+        "grin",
+        "grinning",
+        "happy",
+        "nice",
+        "smile",
+        "smiling",
+        "teeth"
+      ]
+    }
+  },
+  {
+    "cp": 128514,
+    "char": "😂",
+    "name": "FACE WITH TEARS OF JOY",
+    "ru": "смеется до слез",
+    "en": "face with tears of joy",
+    "keywords": {
+      "ru": [
+        "глаза",
+        "лол",
+        "плач",
+        "ржака",
+        "ржач",
+        "ржунимагу",
+        "слезы",
+        "смешно",
+        "умора",
+        "ха-ха"
+      ],
+      "en": [
+        "crying",
+        "face",
+        "feels",
+        "funny",
+        "haha",
+        "happy",
+        "hehe",
+        "hilarious",
+        "joy",
+        "laugh",
+        "lmao",
+        "lol",
+        "rofl",
+        "roflmao",
+        "tear"
+      ]
+    }
+  },
+  {
+    "cp": 128515,
+    "char": "😃",
+    "name": "SMILING FACE WITH OPEN MOUTH",
+    "ru": "смеется",
+    "en": "grinning face with big eyes",
+    "keywords": {
+      "ru": ["весело", "лицо", "радость", "рот", "смеется", "смех", "улыбка"],
+      "en": [
+        "awesome",
+        "big",
+        "eyes",
+        "face",
+        "grin",
+        "grinning",
+        "happy",
+        "mouth",
+        "open",
+        "smile",
+        "smiling",
+        "teeth",
+        "yay"
+      ]
+    }
+  },
+  {
+    "cp": 128516,
+    "char": "😄",
+    "name": "SMILING FACE WITH OPEN MOUTH AND SMILING EYES",
+    "ru": "смеется с закрытыми глазами",
+    "en": "grinning face with smiling eyes",
+    "keywords": {
+      "ru": ["глаза", "закрытые", "лицо", "радость", "смеется", "смех", "смеяться", "улыбка"],
+      "en": [
+        "eye",
+        "eyes",
+        "face",
+        "grin",
+        "grinning",
+        "happy",
+        "laugh",
+        "lol",
+        "mouth",
+        "open",
+        "smile",
+        "smiling"
+      ]
+    }
+  },
+  {
+    "cp": 128517,
+    "char": "😅",
+    "name": "SMILING FACE WITH OPEN MOUTH AND COLD SWEAT",
+    "ru": "нервно смеется",
+    "en": "grinning face with sweat",
+    "keywords": {
+      "ru": [
+        "лол",
+        "нервный",
+        "облегчение",
+        "открытый",
+        "пот",
+        "рот",
+        "смех",
+        "стресс",
+        "улыбка",
+        "широкая"
+      ],
+      "en": [
+        "cold",
+        "dejected",
+        "excited",
+        "face",
+        "grinning",
+        "mouth",
+        "nervous",
+        "open",
+        "smile",
+        "smiling",
+        "stress",
+        "stressed",
+        "sweat"
+      ]
+    }
+  },
+  {
+    "cp": 128518,
+    "char": "😆",
+    "name": "SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES",
+    "ru": "смеется с прищуренными глазами",
+    "en": "grinning squinting face",
+    "keywords": {
+      "ru": [
+        "глаза",
+        "закрытые",
+        "лол",
+        "радость",
+        "смех",
+        "смешно",
+        "угораю",
+        "улыбка",
+        "ха-ха",
+        "хохот"
+      ],
+      "en": [
+        "closed",
+        "eyes",
+        "face",
+        "grinning",
+        "haha",
+        "hahaha",
+        "happy",
+        "laugh",
+        "lol",
+        "mouth",
+        "open",
+        "rofl",
+        "smile",
+        "smiling",
+        "squinting"
+      ]
+    }
+  },
+  {
+    "cp": 128519,
+    "char": "😇",
+    "name": "SMILING FACE WITH HALO",
+    "ru": "с нимбом",
+    "en": "smiling face with halo",
+    "keywords": {
+      "ru": ["ангел", "глаза", "добрый", "закрытые", "легкая", "невинная", "нимб", "улыбка"],
+      "en": [
+        "angel",
+        "angelic",
+        "angels",
+        "blessed",
+        "face",
+        "fairy",
+        "fairytale",
+        "fantasy",
+        "halo",
+        "happy",
+        "innocent",
+        "peaceful",
+        "smile",
+        "smiling",
+        "spirit",
+        "tale"
+      ]
+    }
+  },
+  {
+    "cp": 128520,
+    "char": "😈",
+    "name": "SMILING FACE WITH HORNS",
+    "ru": "улыбающийся чертенок",
+    "en": "smiling face with horns",
+    "keywords": {
+      "ru": ["дьявол", "зло", "злорадная", "рога", "рожки", "улыбка", "черт"],
+      "en": [
+        "demon",
+        "devil",
+        "evil",
+        "face",
+        "fairy",
+        "fairytale",
+        "fantasy",
+        "horns",
+        "purple",
+        "shade",
+        "smile",
+        "smiling",
+        "tale"
+      ]
+    }
+  },
+  {
+    "cp": 128521,
+    "char": "😉",
+    "name": "WINKING FACE",
+    "ru": "подмигивает",
+    "en": "winking face",
+    "keywords": {
+      "ru": [
+        "глаз",
+        "договорились",
+        "ироничная",
+        "легкая",
+        "окей",
+        "подмигивает",
+        "улыбка",
+        "флирт",
+        "хорошо",
+        "шутка"
+      ],
+      "en": ["face", "flirt", "heartbreaker", "sexy", "slide", "tease", "wink", "winking", "winks"]
+    }
+  },
+  {
+    "cp": 128522,
+    "char": "😊",
+    "name": "SMILING FACE WITH SMILING EYES",
+    "ru": "довольно улыбается",
+    "en": "smiling face with smiling eyes",
+    "keywords": {
+      "ru": [
+        "глаза",
+        "довольный",
+        "закрытые",
+        "краснеть",
+        "легкая",
+        "радость",
+        "румянец",
+        "улыбка",
+        "щеки"
+      ],
+      "en": ["blush", "eye", "eyes", "face", "glad", "satisfied", "smile", "smiling"]
+    }
+  },
+  {
+    "cp": 128523,
+    "char": "😋",
+    "name": "FACE SAVOURING DELICIOUS FOOD",
+    "ru": "вкусно",
+    "en": "face savoring food",
+    "keywords": {
+      "ru": ["вкус", "вкусно", "еда", "лицо", "объедение", "отлично", "смаковать", "язык"],
+      "en": [
+        "delicious",
+        "eat",
+        "face",
+        "food",
+        "full",
+        "hungry",
+        "savor",
+        "smile",
+        "smiling",
+        "tasty",
+        "um",
+        "yum",
+        "yummy"
+      ]
+    }
+  },
+  {
+    "cp": 128524,
+    "char": "😌",
+    "name": "RELIEVED FACE",
+    "ru": "испытывает облегчение",
+    "en": "relieved face",
+    "keywords": {
+      "ru": [
+        "богу",
+        "довольный",
+        "облегчение",
+        "обошлось",
+        "пронесло",
+        "слава",
+        "улыбка",
+        "хорошо"
+      ],
+      "en": ["calm", "face", "peace", "relief", "relieved", "zen"]
+    }
+  },
+  {
+    "cp": 128525,
+    "char": "😍",
+    "name": "SMILING FACE WITH HEART-SHAPED EYES",
+    "ru": "влюбленное лицо",
+    "en": "smiling face with heart-eyes",
+    "keywords": {
+      "ru": [
+        "без ума",
+        "вау",
+        "влюбленность",
+        "восторг",
+        "глаза",
+        "люблю",
+        "обожаю",
+        "сердечки",
+        "чувства"
+      ],
+      "en": [
+        "143",
+        "bae",
+        "eye",
+        "face",
+        "feels",
+        "heart-eyes",
+        "hearts",
+        "ily",
+        "kisses",
+        "love",
+        "romance",
+        "romantic",
+        "smile",
+        "xoxo"
+      ]
+    }
+  },
+  {
+    "cp": 128526,
+    "char": "😎",
+    "name": "SMILING FACE WITH SUNGLASSES",
+    "ru": "лицо в темных очках",
+    "en": "smiling face with sunglasses",
+    "keywords": {
+      "ru": [
+        "защита",
+        "клево",
+        "круто",
+        "лицо",
+        "очки",
+        "свет",
+        "солнечные",
+        "солнце",
+        "солнцезащитные",
+        "улыбка"
+      ],
+      "en": [
+        "awesome",
+        "beach",
+        "bright",
+        "bro",
+        "chilling",
+        "cool",
+        "face",
+        "rad",
+        "relaxed",
+        "shades",
+        "slay",
+        "smile",
+        "style",
+        "sunglasses",
+        "swag",
+        "win"
+      ]
+    }
+  },
+  {
+    "cp": 128527,
+    "char": "😏",
+    "name": "SMIRKING FACE",
+    "ru": "ухмыляется",
+    "en": "smirking face",
+    "keywords": {
+      "ru": [
+        "задумал",
+        "лицо",
+        "подмигнуть",
+        "подозрение",
+        "попался",
+        "пошутил",
+        "ухмылка",
+        "ухмыляется",
+        "хитрый",
+        "шутка"
+      ],
+      "en": [
+        "boss",
+        "dapper",
+        "face",
+        "flirt",
+        "homie",
+        "kidding",
+        "leer",
+        "shade",
+        "slick",
+        "sly",
+        "smirk",
+        "smug",
+        "snicker",
+        "suave",
+        "suspicious",
+        "swag"
+      ]
+    }
+  },
+  {
+    "cp": 128528,
+    "char": "😐",
+    "name": "NEUTRAL FACE",
+    "ru": "все равно",
+    "en": "neutral face",
+    "keywords": {
+      "ru": [
+        "безразличие",
+        "незаинтересованный",
+        "равнодушие",
+        "скептик",
+        "скучно",
+        "усталость",
+        "эмоций"
+      ],
+      "en": [
+        "awkward",
+        "blank",
+        "deadpan",
+        "expressionless",
+        "face",
+        "fine",
+        "jealous",
+        "meh",
+        "neutral",
+        "oh",
+        "shade",
+        "straight",
+        "unamused",
+        "unhappy",
+        "unimpressed",
+        "whatever"
+      ]
+    }
+  },
+  {
+    "cp": 128529,
+    "char": "😑",
+    "name": "EXPRESSIONLESS FACE",
+    "ru": "без эмоций",
+    "en": "expressionless face",
+    "keywords": {
+      "ru": [
+        "безразличие",
+        "надоело",
+        "незаинтересованный",
+        "нет",
+        "ничего",
+        "совсем",
+        "спать",
+        "усталость",
+        "эмоций"
+      ],
+      "en": [
+        "awkward",
+        "dead",
+        "expressionless",
+        "face",
+        "fine",
+        "inexpressive",
+        "jealous",
+        "meh",
+        "not",
+        "oh",
+        "omg",
+        "straight",
+        "uh",
+        "unhappy",
+        "unimpressed",
+        "whatever"
+      ]
+    }
+  },
+  {
+    "cp": 128530,
+    "char": "😒",
+    "name": "UNAMUSED FACE",
+    "ru": "скучает",
+    "en": "unamused face",
+    "keywords": {
+      "ru": [
+        "гадость",
+        "грустно",
+        "надоело",
+        "недовольный",
+        "противно",
+        "скука",
+        "скучно",
+        "тоска",
+        "фу"
+      ],
+      "en": [
+        "...",
+        "bored",
+        "face",
+        "fine",
+        "jealous",
+        "jel",
+        "jelly",
+        "pissed",
+        "smh",
+        "ugh",
+        "uhh",
+        "unamused",
+        "unhappy",
+        "weird",
+        "whatever"
+      ]
+    }
+  },
+  {
+    "cp": 128531,
+    "char": "😓",
+    "name": "FACE WITH COLD SWEAT",
+    "ru": "в холодном поту",
+    "en": "downcast face with sweat",
+    "keywords": {
+      "ru": [
+        "беспокойство",
+        "боль",
+        "волнуюсь",
+        "головная",
+        "депресняк",
+        "нервничаю",
+        "поту",
+        "уныние",
+        "холодном"
+      ],
+      "en": [
+        "close",
+        "cold",
+        "downcast",
+        "face",
+        "feels",
+        "headache",
+        "nervous",
+        "sad",
+        "scared",
+        "sweat",
+        "yikes"
+      ]
+    }
+  },
+  {
+    "cp": 128532,
+    "char": "😔",
+    "name": "PENSIVE FACE",
+    "ru": "размышляет",
+    "en": "pensive face",
+    "keywords": {
+      "ru": [
+        "грустный",
+        "достало",
+        "жаль",
+        "задумчивый",
+        "мысли",
+        "плохо",
+        "разочарован",
+        "скучно",
+        "устал"
+      ],
+      "en": [
+        "awful",
+        "bored",
+        "dejected",
+        "died",
+        "disappointed",
+        "face",
+        "losing",
+        "lost",
+        "pensive",
+        "sad",
+        "sucks"
+      ]
+    }
+  },
+  {
+    "cp": 128533,
+    "char": "😕",
+    "name": "CONFUSED FACE",
+    "ru": "в замешательстве",
+    "en": "confused face",
+    "keywords": {
+      "ru": [
+        "замешательство",
+        "недовольный",
+        "непонятно",
+        "огорчен",
+        "плохо",
+        "расстроен",
+        "сбит",
+        "сомнение",
+        "толку"
+      ],
+      "en": [
+        "befuddled",
+        "confused",
+        "confusing",
+        "dunno",
+        "face",
+        "frown",
+        "hm",
+        "meh",
+        "not",
+        "sad",
+        "sorry",
+        "sure"
+      ]
+    }
+  },
+  {
+    "cp": 128534,
+    "char": "😖",
+    "name": "CONFOUNDED FACE",
+    "ru": "в растерянности",
+    "en": "confounded face",
+    "keywords": {
+      "ru": [
+        "гадость",
+        "кринж",
+        "невкусно",
+        "непонятно",
+        "неприятно",
+        "растерян",
+        "сбит",
+        "толку",
+        "фу"
+      ],
+      "en": [
+        "annoyed",
+        "confounded",
+        "confused",
+        "cringe",
+        "distraught",
+        "face",
+        "feels",
+        "frustrated",
+        "mad",
+        "sad"
+      ]
+    }
+  },
+  {
+    "cp": 128535,
+    "char": "😗",
+    "name": "KISSING FACE",
+    "ru": "целует",
+    "en": "kissing face",
+    "keywords": {
+      "ru": ["люблю", "любовь", "нежность", "поцелуй", "романтика", "скучаю", "флирт", "чмок"],
+      "en": [
+        "143",
+        "date",
+        "dating",
+        "face",
+        "flirt",
+        "ily",
+        "kiss",
+        "love",
+        "smooch",
+        "smooches",
+        "xoxo",
+        "you"
+      ]
+    }
+  },
+  {
+    "cp": 128536,
+    "char": "😘",
+    "name": "FACE THROWING A KISS",
+    "ru": "воздушный поцелуй",
+    "en": "face blowing a kiss",
+    "keywords": {
+      "ru": [
+        "воздушный",
+        "губы",
+        "комплимент",
+        "любовь",
+        "подмигивание",
+        "поцелуй",
+        "сердечко",
+        "скучаю",
+        "флирт",
+        "чмок"
+      ],
+      "en": [
+        "adorbs",
+        "bae",
+        "blowing",
+        "face",
+        "flirt",
+        "heart",
+        "ily",
+        "kiss",
+        "love",
+        "lover",
+        "miss",
+        "muah",
+        "romantic",
+        "smooch",
+        "xoxo",
+        "you"
+      ]
+    }
+  },
+  {
+    "cp": 128537,
+    "char": "😙",
+    "name": "KISSING FACE WITH SMILING EYES",
+    "ru": "счастливый поцелуй",
+    "en": "kissing face with smiling eyes",
+    "keywords": {
+      "ru": ["глаза", "лицо", "любовь", "поцелуй", "свидание", "улыбка", "флирт", "чмок"],
+      "en": [
+        "143",
+        "closed",
+        "date",
+        "dating",
+        "eye",
+        "eyes",
+        "face",
+        "flirt",
+        "ily",
+        "kiss",
+        "kisses",
+        "kissing",
+        "love",
+        "night",
+        "smile",
+        "smiling"
+      ]
+    }
+  },
+  {
+    "cp": 128538,
+    "char": "😚",
+    "name": "KISSING FACE WITH CLOSED EYES",
+    "ru": "целует с закрытыми глазами",
+    "en": "kissing face with closed eyes",
+    "keywords": {
+      "ru": ["глаза", "закрытые", "поцелуй", "румянец", "флирт", "целовать", "чмок"],
+      "en": [
+        "143",
+        "bae",
+        "blush",
+        "closed",
+        "date",
+        "dating",
+        "eye",
+        "eyes",
+        "face",
+        "flirt",
+        "ily",
+        "kisses",
+        "kissing",
+        "smooches",
+        "xoxo"
+      ]
+    }
+  },
+  {
+    "cp": 128539,
+    "char": "😛",
+    "name": "FACE WITH STUCK-OUT TONGUE",
+    "ru": "показывает язык",
+    "en": "face with tongue",
+    "keywords": {
+      "ru": ["вот", "высунуть", "забавно", "показывает", "смешно", "улыбка", "ха", "шутка", "язык"],
+      "en": ["awesome", "cool", "face", "nice", "party", "stuck-out", "sweet", "tongue"]
+    }
+  },
+  {
+    "cp": 128540,
+    "char": "😜",
+    "name": "FACE WITH STUCK-OUT TONGUE AND WINKING EYE",
+    "ru": "показывает язык и подмигивает",
+    "en": "winking face with tongue",
+    "keywords": {
+      "ru": [
+        "весело",
+        "глаз",
+        "забавно",
+        "подмигнуть",
+        "показать",
+        "розыгрыш",
+        "улыбка",
+        "ха-ха",
+        "шутка",
+        "язык"
+      ],
+      "en": [
+        "crazy",
+        "epic",
+        "eye",
+        "face",
+        "funny",
+        "joke",
+        "loopy",
+        "nutty",
+        "party",
+        "stuck-out",
+        "tongue",
+        "wacky",
+        "weirdo",
+        "wink",
+        "winking",
+        "yolo"
+      ]
+    }
+  },
+  {
+    "cp": 128541,
+    "char": "😝",
+    "name": "FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES",
+    "ru": "морщится и показывает язык",
+    "en": "squinting face with tongue",
+    "keywords": {
+      "ru": [
+        "бе",
+        "гадость",
+        "жмуриться",
+        "омг",
+        "отвращение",
+        "показать",
+        "противно",
+        "ужас",
+        "фу",
+        "язык"
+      ],
+      "en": [
+        "closed",
+        "eye",
+        "eyes",
+        "face",
+        "gross",
+        "horrible",
+        "omg",
+        "squinting",
+        "stuck-out",
+        "taste",
+        "tongue",
+        "whatever",
+        "yolo"
+      ]
+    }
+  },
+  {
+    "cp": 128542,
+    "char": "😞",
+    "name": "DISAPPOINTED FACE",
+    "ru": "разочарование",
+    "en": "disappointed face",
+    "keywords": {
+      "ru": [
+        "виноват",
+        "грустно",
+        "жаль",
+        "лузер",
+        "неудача",
+        "обида",
+        "обижен",
+        "печаль",
+        "разочарован",
+        "устал"
+      ],
+      "en": [
+        "awful",
+        "blame",
+        "dejected",
+        "disappointed",
+        "face",
+        "fail",
+        "losing",
+        "sad",
+        "unhappy"
+      ]
+    }
+  },
+  {
+    "cp": 128543,
+    "char": "😟",
+    "name": "WORRIED FACE",
+    "ru": "беспокоится",
+    "en": "worried face",
+    "keywords": {
+      "ru": ["беспокоится", "беспокойство", "лицо", "расстройство", "тревога", "тревожность"],
+      "en": [
+        "anxious",
+        "butterflies",
+        "face",
+        "nerves",
+        "nervous",
+        "sad",
+        "stress",
+        "stressed",
+        "surprised",
+        "worried",
+        "worry"
+      ]
+    }
+  },
+  {
+    "cp": 128544,
+    "char": "😠",
+    "name": "ANGRY FACE",
+    "ru": "сердится",
+    "en": "angry face",
+    "keywords": {
+      "ru": ["бешенство", "злиться", "злость", "рассержен", "сердится", "хмурится"],
+      "en": [
+        "anger",
+        "angry",
+        "blame",
+        "face",
+        "feels",
+        "frustrated",
+        "mad",
+        "maddening",
+        "rage",
+        "shade",
+        "unhappy",
+        "upset"
+      ]
+    }
+  },
+  {
+    "cp": 128545,
+    "char": "😡",
+    "name": "POUTING FACE",
+    "ru": "злится",
+    "en": "enraged face",
+    "keywords": {
+      "ru": [
+        "бешенство",
+        "злой",
+        "кипит",
+        "красный",
+        "ненавижу",
+        "рак",
+        "рассержен",
+        "сердится",
+        "ярость"
+      ],
+      "en": [
+        "anger",
+        "angry",
+        "enraged",
+        "face",
+        "feels",
+        "mad",
+        "maddening",
+        "pouting",
+        "rage",
+        "red",
+        "shade",
+        "unhappy",
+        "upset"
+      ]
+    }
+  },
+  {
+    "cp": 128546,
+    "char": "😢",
+    "name": "CRYING FACE",
+    "ru": "плачет",
+    "en": "crying face",
+    "keywords": {
+      "ru": ["грустный", "жаль", "обидно", "печаль", "плакать", "плач", "слеза"],
+      "en": ["awful", "cry", "crying", "face", "feels", "miss", "sad", "tear", "triste", "unhappy"]
+    }
+  },
+  {
+    "cp": 128547,
+    "char": "😣",
+    "name": "PERSEVERING FACE",
+    "ru": "упорство",
+    "en": "persevering face",
+    "keywords": {
+      "ru": [
+        "боль",
+        "головная",
+        "достало",
+        "мигрень",
+        "настойчивость",
+        "упорный",
+        "упрямый",
+        "хватит"
+      ],
+      "en": [
+        "concentrate",
+        "concentration",
+        "face",
+        "focus",
+        "headache",
+        "persevere",
+        "persevering"
+      ]
+    }
+  },
+  {
+    "cp": 128548,
+    "char": "😤",
+    "name": "FACE WITH LOOK OF TRIUMPH",
+    "ru": "в ожидании успеха",
+    "en": "face with steam from nose",
+    "keywords": {
+      "ru": ["бешенстве", "дым", "зла", "злость", "зол", "пар", "пыхтеть", "раздражение"],
+      "en": [
+        "anger",
+        "angry",
+        "face",
+        "feels",
+        "fume",
+        "fuming",
+        "furious",
+        "fury",
+        "mad",
+        "nose",
+        "steam",
+        "triumph",
+        "unhappy",
+        "won"
+      ]
+    }
+  },
+  {
+    "cp": 128549,
+    "char": "😥",
+    "name": "DISAPPOINTED BUT RELIEVED FACE",
+    "ru": "обошлось",
+    "en": "sad but relieved face",
+    "keywords": {
+      "ru": [
+        "беспокоюсь",
+        "грустно",
+        "облегчение",
+        "обошлось",
+        "плач",
+        "пот",
+        "пронесло",
+        "разочарован",
+        "тревога",
+        "фух"
+      ],
+      "en": [
+        "anxious",
+        "call",
+        "close",
+        "complicated",
+        "disappointed",
+        "face",
+        "not",
+        "relieved",
+        "sad",
+        "sweat",
+        "time",
+        "whew"
+      ]
+    }
+  },
+  {
+    "cp": 128550,
+    "char": "😦",
+    "name": "FROWNING FACE WITH OPEN MOUTH",
+    "ru": "в изумлении",
+    "en": "frowning face with open mouth",
+    "keywords": {
+      "ru": ["изумление", "испуг", "неприятный", "ого", "омг", "страх", "сюрприз", "устал"],
+      "en": [
+        "caught",
+        "face",
+        "frown",
+        "frowning",
+        "guard",
+        "mouth",
+        "open",
+        "scared",
+        "scary",
+        "surprise",
+        "what",
+        "wow"
+      ]
+    }
+  },
+  {
+    "cp": 128551,
+    "char": "😧",
+    "name": "ANGUISHED FACE",
+    "ru": "страдает",
+    "en": "anguished face",
+    "keywords": {
+      "ru": [
+        "боль",
+        "забыл",
+        "испуг",
+        "неприятный",
+        "омг",
+        "страдаю",
+        "стресс",
+        "сюрприз",
+        "удивление"
+      ],
+      "en": [
+        "anguished",
+        "face",
+        "forgot",
+        "scared",
+        "scary",
+        "stressed",
+        "surprise",
+        "unhappy",
+        "what",
+        "wow"
+      ]
+    }
+  },
+  {
+    "cp": 128552,
+    "char": "😨",
+    "name": "FEARFUL FACE",
+    "ru": "боится",
+    "en": "fearful face",
+    "keywords": {
+      "ru": ["беспокоится", "боится", "боюсь", "волнуюсь", "жуть", "испуг", "омг", "страх"],
+      "en": ["afraid", "anxious", "blame", "face", "fear", "fearful", "scared", "worried"]
+    }
+  },
+  {
+    "cp": 128553,
+    "char": "😩",
+    "name": "WEARY FACE",
+    "ru": "усталость",
+    "en": "weary face",
+    "keywords": {
+      "ru": ["гадость", "достало", "надоело", "нет", "плач", "сил", "устал", "фу", "хватит"],
+      "en": [
+        "crying",
+        "face",
+        "fail",
+        "feels",
+        "hungry",
+        "mad",
+        "nooo",
+        "sad",
+        "sleepy",
+        "tired",
+        "unhappy",
+        "weary"
+      ]
+    }
+  },
+  {
+    "cp": 128554,
+    "char": "😪",
+    "name": "SLEEPY FACE",
+    "ru": "хочет спать",
+    "en": "sleepy face",
+    "keywords": {
+      "ru": ["ночи", "плакать", "плач", "пора", "сон", "спать", "сплю", "спокойной", "устал"],
+      "en": ["crying", "face", "good", "night", "sad", "sleep", "sleeping", "sleepy", "tired"]
+    }
+  },
+  {
+    "cp": 128555,
+    "char": "😫",
+    "name": "TIRED FACE",
+    "ru": "сильная усталость",
+    "en": "tired face",
+    "keywords": {
+      "ru": ["достало", "надоело", "очень", "сильно", "спать", "устал", "фу", "хватит"],
+      "en": ["cost", "face", "feels", "nap", "sad", "sneeze", "tired"]
+    }
+  },
+  {
+    "cp": 128556,
+    "char": "😬",
+    "name": "GRIMACING FACE",
+    "ru": "гримаса",
+    "en": "grimacing face",
+    "keywords": {
+      "ru": ["злой", "злость", "злюсь", "зубы", "кривляться", "показать", "рожа"],
+      "en": [
+        "awk",
+        "awkward",
+        "dentist",
+        "face",
+        "grimace",
+        "grimacing",
+        "grinning",
+        "smile",
+        "smiling"
+      ]
+    }
+  },
+  {
+    "cp": 128557,
+    "char": "😭",
+    "name": "LOUDLY CRYING FACE",
+    "ru": "слезы рекой",
+    "en": "loudly crying face",
+    "keywords": {
+      "ru": ["за", "навзрыд", "несчастный", "плач", "почему", "реветь", "рекой", "слезы", "что"],
+      "en": ["bawling", "cry", "crying", "face", "loudly", "sad", "sob", "tear", "tears", "unhappy"]
+    }
+  },
+  {
+    "cp": 128558,
+    "char": "😮",
+    "name": "FACE WITH OPEN MOUTH",
+    "ru": "удивление",
+    "en": "face with open mouth",
+    "keywords": {
+      "ru": [
+        "вау",
+        "верю",
+        "изумление",
+        "невероятно",
+        "ого",
+        "омг",
+        "ошеломление",
+        "удивление",
+        "ужас",
+        "шок"
+      ],
+      "en": [
+        "believe",
+        "face",
+        "forgot",
+        "mouth",
+        "omg",
+        "open",
+        "shocked",
+        "surprised",
+        "sympathy",
+        "unbelievable",
+        "unreal",
+        "whoa",
+        "wow",
+        "you"
+      ]
+    }
+  },
+  {
+    "cp": 128559,
+    "char": "😯",
+    "name": "HUSHED FACE",
+    "ru": "неприятный сюрприз",
+    "en": "hushed face",
+    "keywords": {
+      "ru": ["вау", "верю", "неприятный", "ого", "омг", "сюрприз", "удивление"],
+      "en": ["epic", "face", "hushed", "omg", "stunned", "surprised", "whoa", "woah"]
+    }
+  },
+  {
+    "cp": 128560,
+    "char": "😰",
+    "name": "FACE WITH OPEN MOUTH AND COLD SWEAT",
+    "ru": "сильно беспокоится",
+    "en": "anxious face with sweat",
+    "keywords": {
+      "ru": [
+        "беспокоюсь",
+        "волнуюсь",
+        "грусть",
+        "замерз",
+        "плакать",
+        "плач",
+        "пот",
+        "страх",
+        "холодно"
+      ],
+      "en": [
+        "anxious",
+        "blue",
+        "cold",
+        "eek",
+        "face",
+        "mouth",
+        "nervous",
+        "open",
+        "rushed",
+        "scared",
+        "sweat",
+        "yikes"
+      ]
+    }
+  },
+  {
+    "cp": 128561,
+    "char": "😱",
+    "name": "FACE SCREAMING IN FEAR",
+    "ru": "в ужасе",
+    "en": "face screaming in fear",
+    "keywords": {
+      "ru": ["испуг", "крик", "кричать", "нет", "омг", "страх", "ужас", "шок"],
+      "en": [
+        "epic",
+        "face",
+        "fear",
+        "fearful",
+        "munch",
+        "scared",
+        "scream",
+        "screamer",
+        "screaming",
+        "shocked",
+        "surprised",
+        "woah"
+      ]
+    }
+  },
+  {
+    "cp": 128562,
+    "char": "😲",
+    "name": "ASTONISHED FACE",
+    "ru": "в шоке",
+    "en": "astonished face",
+    "keywords": {
+      "ru": [
+        "вау",
+        "глаза",
+        "изумление",
+        "лоб",
+        "ого",
+        "омг",
+        "ох",
+        "потрясение",
+        "удивление",
+        "шок"
+      ],
+      "en": ["astonished", "cost", "face", "no", "omg", "shocked", "totally", "way"]
+    }
+  },
+  {
+    "cp": 128563,
+    "char": "😳",
+    "name": "FLUSHED FACE",
+    "ru": "краснеет",
+    "en": "flushed face",
+    "keywords": {
+      "ru": [
+        "извини",
+        "краснеет",
+        "обидел",
+        "прости",
+        "румянец",
+        "смущение",
+        "стесняется",
+        "стыдно",
+        "хотел"
+      ],
+      "en": [
+        "amazed",
+        "awkward",
+        "crazy",
+        "dazed",
+        "dead",
+        "disbelief",
+        "embarrassed",
+        "face",
+        "flushed",
+        "geez",
+        "heat",
+        "hot",
+        "impressed",
+        "jeez",
+        "what",
+        "wow"
+      ]
+    }
+  },
+  {
+    "cp": 128564,
+    "char": "😴",
+    "name": "SLEEPING FACE",
+    "ru": "спит",
+    "en": "sleeping face",
+    "keywords": {
+      "ru": ["боковую", "ночи", "пора", "сон", "спать", "спокойной", "уснул", "устал", "храп"],
+      "en": [
+        "bed",
+        "bedtime",
+        "face",
+        "good",
+        "goodnight",
+        "nap",
+        "night",
+        "sleep",
+        "sleeping",
+        "tired",
+        "whatever",
+        "yawn",
+        "zzz"
+      ]
+    }
+  },
+  {
+    "cp": 128565,
+    "char": "😵",
+    "name": "DIZZY FACE",
+    "ru": "головокружение",
+    "en": "face with crossed-out eyes",
+    "keywords": {
+      "ru": [
+        "болею",
+        "глаза",
+        "голова",
+        "крестики",
+        "кружится",
+        "мертвый",
+        "плохо",
+        "смерть",
+        "умереть",
+        "устал"
+      ],
+      "en": [
+        "crossed-out",
+        "dead",
+        "dizzy",
+        "eyes",
+        "face",
+        "feels",
+        "knocked",
+        "out",
+        "sick",
+        "tired"
+      ]
+    }
+  },
+  {
+    "cp": 128566,
+    "char": "😶",
+    "name": "FACE WITHOUT MOUTH",
+    "ru": "лицо без рта",
+    "en": "face without mouth",
+    "keywords": {
+      "ru": [
+        "молчание",
+        "немой",
+        "нет",
+        "рыба",
+        "секрет",
+        "слов",
+        "тайна",
+        "тихо",
+        "тишина",
+        "тсс"
+      ],
+      "en": [
+        "awkward",
+        "blank",
+        "expressionless",
+        "face",
+        "mouth",
+        "mouthless",
+        "mute",
+        "quiet",
+        "secret",
+        "silence",
+        "silent",
+        "speechless"
+      ]
+    }
+  },
+  {
+    "cp": 128567,
+    "char": "😷",
+    "name": "FACE WITH MEDICAL MASK",
+    "ru": "в медицинской маске",
+    "en": "face with medical mask",
+    "keywords": {
+      "ru": [
+        "болеть",
+        "вирус",
+        "врач",
+        "заражение",
+        "карантин",
+        "маска",
+        "медик",
+        "микроб",
+        "простуда",
+        "санитар"
+      ],
+      "en": [
+        "cold",
+        "dentist",
+        "dermatologist",
+        "doctor",
+        "dr",
+        "face",
+        "germs",
+        "mask",
+        "medical",
+        "medicine",
+        "sick"
+      ]
+    }
+  },
+  {
+    "cp": 128568,
+    "char": "😸",
+    "name": "GRINNING CAT FACE WITH SMILING EYES",
+    "ru": "смеющийся кот",
+    "en": "grinning cat with smiling eyes",
+    "keywords": {
+      "ru": [
+        "глаза",
+        "закрытые глаза",
+        "кот",
+        "кот с широкой улыбкой и закрытыми глазами",
+        "морда",
+        "смеющийся",
+        "улыбка",
+        "широкая улыбка"
+      ],
+      "en": ["animal", "cat", "eye", "eyes", "face", "grin", "grinning", "smile", "smiling"]
+    }
+  },
+  {
+    "cp": 128569,
+    "char": "😹",
+    "name": "CAT FACE WITH TEARS OF JOY",
+    "ru": "смеющийся до слез кот",
+    "en": "cat with tears of joy",
+    "keywords": {
+      "ru": [
+        "веселье",
+        "кот",
+        "кот смеется",
+        "кот смеется до слез",
+        "морда",
+        "радость",
+        "слезы счастья",
+        "смеющийся до слез кот",
+        "смеющийся кот",
+        "счастье"
+      ],
+      "en": ["animal", "cat", "face", "joy", "laugh", "laughing", "lol", "tear", "tears"]
+    }
+  },
+  {
+    "cp": 128570,
+    "char": "😺",
+    "name": "SMILING CAT FACE WITH OPEN MOUTH",
+    "ru": "улыбающийся кот",
+    "en": "grinning cat",
+    "keywords": {
+      "ru": [
+        "домашнее",
+        "животное",
+        "кот",
+        "милашка",
+        "питомец",
+        "полосатый",
+        "улыбка",
+        "усы",
+        "ушастик",
+        "хорошо"
+      ],
+      "en": ["animal", "cat", "face", "grinning", "mouth", "open", "smile", "smiling"]
+    }
+  },
+  {
+    "cp": 128571,
+    "char": "😻",
+    "name": "SMILING CAT FACE WITH HEART-SHAPED EYES",
+    "ru": "влюбленный кот",
+    "en": "smiling cat with heart-eyes",
+    "keywords": {
+      "ru": [
+        "влюбиться",
+        "влюбленный кот",
+        "кот",
+        "любовь",
+        "морда",
+        "сердечки",
+        "счастье",
+        "улыбка"
+      ],
+      "en": ["animal", "cat", "eye", "face", "heart", "heart-eyes", "love", "smile", "smiling"]
+    }
+  },
+  {
+    "cp": 128572,
+    "char": "😼",
+    "name": "CAT FACE WITH WRY SMILE",
+    "ru": "ухмыляющийся кот",
+    "en": "cat with wry smile",
+    "keywords": {
+      "ru": [
+        "кот",
+        "кот с ухмылкой",
+        "сарказм",
+        "улыбка",
+        "ухмылка",
+        "ухмыляющийся кот",
+        "хитрость",
+        "хитрый"
+      ],
+      "en": ["animal", "cat", "face", "ironic", "smile", "wry"]
+    }
+  },
+  {
+    "cp": 128573,
+    "char": "😽",
+    "name": "KISSING CAT FACE WITH CLOSED EYES",
+    "ru": "целующий кот",
+    "en": "kissing cat",
+    "keywords": {
+      "ru": ["глаза", "губы", "кот", "кот целует", "морда", "морды", "поцелуй", "целующий кот"],
+      "en": ["animal", "cat", "closed", "eye", "eyes", "face", "kiss", "kissing"]
+    }
+  },
+  {
+    "cp": 128574,
+    "char": "😾",
+    "name": "POUTING CAT FACE",
+    "ru": "злой кот",
+    "en": "pouting cat",
+    "keywords": {
+      "ru": ["злой", "кот", "морда", "недовольный", "раздраженный"],
+      "en": ["animal", "cat", "face", "pouting"]
+    }
+  },
+  {
+    "cp": 128575,
+    "char": "😿",
+    "name": "CRYING CAT FACE",
+    "ru": "плачущий кот",
+    "en": "crying cat",
+    "keywords": {
+      "ru": [
+        "грустно",
+        "жаль",
+        "кот",
+        "кот плачет",
+        "морда",
+        "печаль",
+        "плач",
+        "плачущий кот",
+        "слезы"
+      ],
+      "en": ["animal", "cat", "cry", "crying", "face", "sad", "tear"]
+    }
+  },
+  {
+    "cp": 128576,
+    "char": "🙀",
+    "name": "WEARY CAT FACE",
+    "ru": "кот в шоке",
+    "en": "weary cat",
+    "keywords": {
+      "ru": [
+        "в шоке",
+        "кот",
+        "кот в шоке",
+        "кот волнуется",
+        "морда",
+        "морды",
+        "удивление",
+        "усталость"
+      ],
+      "en": ["animal", "cat", "face", "oh", "surprised", "weary"]
+    }
+  },
+  {
+    "cp": 128577,
+    "char": "🙁",
+    "name": "SLIGHTLY FROWNING FACE",
+    "ru": "немного грустит",
+    "en": "slightly frowning face",
+    "keywords": {
+      "ru": [
+        "грустный",
+        "досада",
+        "недовольный",
+        "огорчен",
+        "печаль",
+        "плохо",
+        "разочарован",
+        "хмурый"
+      ],
+      "en": ["face", "frown", "frowning", "sad", "slightly"]
+    }
+  },
+  {
+    "cp": 128578,
+    "char": "🙂",
+    "name": "SLIGHTLY SMILING FACE",
+    "ru": "слегка улыбается",
+    "en": "slightly smiling face",
+    "keywords": {
+      "ru": ["легкая", "лицо", "радость", "смайлик", "улыбка"],
+      "en": ["face", "happy", "slightly", "smile", "smiling"]
+    }
+  },
+  {
+    "cp": 128579,
+    "char": "🙃",
+    "name": "UPSIDE-DOWN FACE",
+    "ru": "вверх тормашками",
+    "en": "upside-down face",
+    "keywords": {
+      "ru": ["вверх", "ногами", "перевернутый", "смайлик", "тормашками", "улыбка"],
+      "en": ["face", "hehe", "smile", "upside-down"]
+    }
+  },
+  {
+    "cp": 128580,
+    "char": "🙄",
+    "name": "FACE WITH ROLLING EYES",
+    "ru": "закатывает глаза",
+    "en": "face with rolling eyes",
+    "keywords": {
+      "ru": [
+        "блин",
+        "глаза",
+        "закатить",
+        "закончится",
+        "когда",
+        "надоело",
+        "омг",
+        "скука",
+        "скучно",
+        "тоска"
+      ],
+      "en": ["eyeroll", "eyes", "face", "rolling", "shade", "ugh", "whatever"]
+    }
+  },
+  {
+    "cp": 128581,
+    "char": "🙅",
+    "name": "FACE WITH NO GOOD GESTURE",
+    "ru": "человек против",
+    "en": "person gesturing NO",
+    "keywords": {
+      "ru": ["возражаю", "жест", "запрет", "нельзя", "нет", "отказ", "против", "хватит"],
+      "en": ["forbidden", "gesture", "hand", "NO", "not", "person", "prohibit"]
+    }
+  },
+  {
+    "cp": 128582,
+    "char": "🙆",
+    "name": "FACE WITH OK GESTURE",
+    "ru": "человек за",
+    "en": "person gesturing OK",
+    "keywords": {
+      "ru": ["вверх", "домик", "за", "зарядка", "окей", "омг", "отлично", "руки", "хорошо"],
+      "en": ["exercise", "gesture", "gesturing", "hand", "OK", "omg", "person"]
+    }
+  },
+  {
+    "cp": 128583,
+    "char": "🙇",
+    "name": "PERSON BOWING DEEPLY",
+    "ru": "человек кланяется",
+    "en": "person bowing",
+    "keywords": {
+      "ru": [
+        "виноват",
+        "жаль",
+        "извини",
+        "пожалуйста",
+        "поклон",
+        "прости",
+        "прошу",
+        "прощения",
+        "стыд"
+      ],
+      "en": [
+        "apology",
+        "ask",
+        "beg",
+        "bow",
+        "bowing",
+        "favor",
+        "forgive",
+        "gesture",
+        "meditate",
+        "meditation",
+        "person",
+        "pity",
+        "regret",
+        "sorry"
+      ]
+    }
+  },
+  {
+    "cp": 128584,
+    "char": "🙈",
+    "name": "SEE-NO-EVIL MONKEY",
+    "ru": "ничего не вижу",
+    "en": "see-no-evil monkey",
+    "keywords": {
+      "ru": ["глаза", "запрещено", "зрение", "нельзя", "ничего не вижу", "обезьяна"],
+      "en": [
+        "embarrassed",
+        "evil",
+        "face",
+        "forbidden",
+        "forgot",
+        "gesture",
+        "hide",
+        "monkey",
+        "no",
+        "omg",
+        "prohibited",
+        "scared",
+        "secret",
+        "smh",
+        "watch"
+      ]
+    }
+  },
+  {
+    "cp": 128585,
+    "char": "🙉",
+    "name": "HEAR-NO-EVIL MONKEY",
+    "ru": "ничего не слышу",
+    "en": "hear-no-evil monkey",
+    "keywords": {
+      "ru": ["запрещено", "лапы", "нельзя", "ничего не слышу", "обезьяна", "слух", "уши"],
+      "en": [
+        "animal",
+        "ears",
+        "evil",
+        "face",
+        "forbidden",
+        "gesture",
+        "hear",
+        "listen",
+        "monkey",
+        "no",
+        "not",
+        "prohibited",
+        "secret",
+        "shh",
+        "tmi"
+      ]
+    }
+  },
+  {
+    "cp": 128586,
+    "char": "🙊",
+    "name": "SPEAK-NO-EVIL MONKEY",
+    "ru": "ничего никому не скажу",
+    "en": "speak-no-evil monkey",
+    "keywords": {
+      "ru": [
+        "закрыт",
+        "запрещено",
+        "лапы",
+        "молчание",
+        "ничего никому не скажу",
+        "обезьяна",
+        "рот"
+      ],
+      "en": [
+        "animal",
+        "evil",
+        "face",
+        "forbidden",
+        "gesture",
+        "monkey",
+        "no",
+        "not",
+        "oops",
+        "prohibited",
+        "quiet",
+        "secret",
+        "speak",
+        "stealth"
+      ]
+    }
+  },
+  {
+    "cp": 128587,
+    "char": "🙋",
+    "name": "HAPPY PERSON RAISING ONE HAND",
+    "ru": "человек с поднятой рукой",
+    "en": "person raising hand",
+    "keywords": {
+      "ru": [
+        "вопрос",
+        "задать",
+        "знаю",
+        "ответить",
+        "поднять",
+        "руку",
+        "сказать",
+        "спросить",
+        "хочу"
+      ],
+      "en": [
+        "gesture",
+        "hand",
+        "here",
+        "know",
+        "me",
+        "person",
+        "pick",
+        "question",
+        "raise",
+        "raising"
+      ]
+    }
+  },
+  {
+    "cp": 128588,
+    "char": "🙌",
+    "name": "PERSON RAISING BOTH HANDS IN CELEBRATION",
+    "ru": "ура",
+    "en": "raising hands",
+    "keywords": {
+      "ru": ["вверх", "жест", "класс", "отлично", "победа", "руки", "ура"],
+      "en": ["celebration", "gesture", "hand", "hands", "hooray", "praise", "raised", "raising"]
+    }
+  },
+  {
+    "cp": 128589,
+    "char": "🙍",
+    "name": "PERSON FROWNING",
+    "ru": "нахмурившийся человек",
+    "en": "person frowning",
+    "keywords": {
+      "ru": [
+        "грустит",
+        "грусть",
+        "грущу",
+        "лицо",
+        "нахмурившийся человек",
+        "обида",
+        "печаль",
+        "расстроен",
+        "хмурый",
+        "человек"
+      ],
+      "en": [
+        "annoyed",
+        "disappointed",
+        "disgruntled",
+        "disturbed",
+        "frown",
+        "frowning",
+        "frustrated",
+        "gesture",
+        "irritated",
+        "person",
+        "upset"
+      ]
+    }
+  },
+  {
+    "cp": 128590,
+    "char": "🙎",
+    "name": "PERSON WITH POUTING FACE",
+    "ru": "обиженный человек",
+    "en": "person pouting",
+    "keywords": {
+      "ru": [
+        "губы",
+        "зла",
+        "зол",
+        "надоело",
+        "надуть",
+        "обижен",
+        "огорчен",
+        "раздражение",
+        "разочарование",
+        "расстроен"
+      ],
+      "en": [
+        "disappointed",
+        "downtrodden",
+        "frown",
+        "grimace",
+        "person",
+        "pouting",
+        "scowl",
+        "sulk",
+        "upset",
+        "whine"
+      ]
+    }
+  },
+  {
+    "cp": 128591,
+    "char": "🙏",
+    "name": "PERSON WITH FOLDED HANDS",
+    "ru": "сложенные руки",
+    "en": "folded hands",
+    "keywords": {
+      "ru": [
+        "молитва",
+        "пожалуйста",
+        "просьба",
+        "прошу",
+        "руки",
+        "сложенные",
+        "спасибо",
+        "умолять"
+      ],
+      "en": [
+        "appreciate",
+        "ask",
+        "beg",
+        "blessed",
+        "bow",
+        "cmon",
+        "five",
+        "folded",
+        "gesture",
+        "hand",
+        "high",
+        "please",
+        "pray",
+        "thanks",
+        "thx"
+      ]
+    }
+  }
+]

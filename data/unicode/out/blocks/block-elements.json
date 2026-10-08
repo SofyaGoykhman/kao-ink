@@ -1,0 +1,258 @@
+[
+  {
+    "cp": 9600,
+    "char": "▀",
+    "name": "UPPER HALF BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9601,
+    "char": "▁",
+    "name": "LOWER ONE EIGHTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9602,
+    "char": "▂",
+    "name": "LOWER ONE QUARTER BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9603,
+    "char": "▃",
+    "name": "LOWER THREE EIGHTHS BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9604,
+    "char": "▄",
+    "name": "LOWER HALF BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9605,
+    "char": "▅",
+    "name": "LOWER FIVE EIGHTHS BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9606,
+    "char": "▆",
+    "name": "LOWER THREE QUARTERS BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9607,
+    "char": "▇",
+    "name": "LOWER SEVEN EIGHTHS BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9608,
+    "char": "█",
+    "name": "FULL BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9609,
+    "char": "▉",
+    "name": "LEFT SEVEN EIGHTHS BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9610,
+    "char": "▊",
+    "name": "LEFT THREE QUARTERS BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9611,
+    "char": "▋",
+    "name": "LEFT FIVE EIGHTHS BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9612,
+    "char": "▌",
+    "name": "LEFT HALF BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9613,
+    "char": "▍",
+    "name": "LEFT THREE EIGHTHS BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9614,
+    "char": "▎",
+    "name": "LEFT ONE QUARTER BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9615,
+    "char": "▏",
+    "name": "LEFT ONE EIGHTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9616,
+    "char": "▐",
+    "name": "RIGHT HALF BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9617,
+    "char": "░",
+    "name": "LIGHT SHADE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9618,
+    "char": "▒",
+    "name": "MEDIUM SHADE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9619,
+    "char": "▓",
+    "name": "DARK SHADE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9620,
+    "char": "▔",
+    "name": "UPPER ONE EIGHTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9621,
+    "char": "▕",
+    "name": "RIGHT ONE EIGHTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9622,
+    "char": "▖",
+    "name": "QUADRANT LOWER LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9623,
+    "char": "▗",
+    "name": "QUADRANT LOWER RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9624,
+    "char": "▘",
+    "name": "QUADRANT UPPER LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9625,
+    "char": "▙",
+    "name": "QUADRANT UPPER LEFT AND LOWER LEFT AND LOWER RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9626,
+    "char": "▚",
+    "name": "QUADRANT UPPER LEFT AND LOWER RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9627,
+    "char": "▛",
+    "name": "QUADRANT UPPER LEFT AND UPPER RIGHT AND LOWER LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9628,
+    "char": "▜",
+    "name": "QUADRANT UPPER LEFT AND UPPER RIGHT AND LOWER RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9629,
+    "char": "▝",
+    "name": "QUADRANT UPPER RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9630,
+    "char": "▞",
+    "name": "QUADRANT UPPER RIGHT AND LOWER LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9631,
+    "char": "▟",
+    "name": "QUADRANT UPPER RIGHT AND LOWER LEFT AND LOWER RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

@@ -1,0 +1,986 @@
+[
+  {
+    "cp": 65664,
+    "char": "𐂀",
+    "name": "LINEAR B IDEOGRAM B100 MAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65665,
+    "char": "𐂁",
+    "name": "LINEAR B IDEOGRAM B102 WOMAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65666,
+    "char": "𐂂",
+    "name": "LINEAR B IDEOGRAM B104 DEER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65667,
+    "char": "𐂃",
+    "name": "LINEAR B IDEOGRAM B105 EQUID",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65668,
+    "char": "𐂄",
+    "name": "LINEAR B IDEOGRAM B105F MARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65669,
+    "char": "𐂅",
+    "name": "LINEAR B IDEOGRAM B105M STALLION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65670,
+    "char": "𐂆",
+    "name": "LINEAR B IDEOGRAM B106F EWE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65671,
+    "char": "𐂇",
+    "name": "LINEAR B IDEOGRAM B106M RAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65672,
+    "char": "𐂈",
+    "name": "LINEAR B IDEOGRAM B107F SHE-GOAT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65673,
+    "char": "𐂉",
+    "name": "LINEAR B IDEOGRAM B107M HE-GOAT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65674,
+    "char": "𐂊",
+    "name": "LINEAR B IDEOGRAM B108F SOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65675,
+    "char": "𐂋",
+    "name": "LINEAR B IDEOGRAM B108M BOAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65676,
+    "char": "𐂌",
+    "name": "LINEAR B IDEOGRAM B109F COW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65677,
+    "char": "𐂍",
+    "name": "LINEAR B IDEOGRAM B109M BULL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65678,
+    "char": "𐂎",
+    "name": "LINEAR B IDEOGRAM B120 WHEAT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65679,
+    "char": "𐂏",
+    "name": "LINEAR B IDEOGRAM B121 BARLEY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65680,
+    "char": "𐂐",
+    "name": "LINEAR B IDEOGRAM B122 OLIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65681,
+    "char": "𐂑",
+    "name": "LINEAR B IDEOGRAM B123 SPICE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65682,
+    "char": "𐂒",
+    "name": "LINEAR B IDEOGRAM B125 CYPERUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65683,
+    "char": "𐂓",
+    "name": "LINEAR B MONOGRAM B127 KAPO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65684,
+    "char": "𐂔",
+    "name": "LINEAR B MONOGRAM B128 KANAKO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65685,
+    "char": "𐂕",
+    "name": "LINEAR B IDEOGRAM B130 OIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65686,
+    "char": "𐂖",
+    "name": "LINEAR B IDEOGRAM B131 WINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65687,
+    "char": "𐂗",
+    "name": "LINEAR B IDEOGRAM B132",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65688,
+    "char": "𐂘",
+    "name": "LINEAR B MONOGRAM B133 AREPA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65689,
+    "char": "𐂙",
+    "name": "LINEAR B MONOGRAM B135 MERI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65690,
+    "char": "𐂚",
+    "name": "LINEAR B IDEOGRAM B140 BRONZE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65691,
+    "char": "𐂛",
+    "name": "LINEAR B IDEOGRAM B141 GOLD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65692,
+    "char": "𐂜",
+    "name": "LINEAR B IDEOGRAM B142",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65693,
+    "char": "𐂝",
+    "name": "LINEAR B IDEOGRAM B145 WOOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65694,
+    "char": "𐂞",
+    "name": "LINEAR B IDEOGRAM B146",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65695,
+    "char": "𐂟",
+    "name": "LINEAR B IDEOGRAM B150",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65696,
+    "char": "𐂠",
+    "name": "LINEAR B IDEOGRAM B151 HORN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65697,
+    "char": "𐂡",
+    "name": "LINEAR B IDEOGRAM B152",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65698,
+    "char": "𐂢",
+    "name": "LINEAR B IDEOGRAM B153",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65699,
+    "char": "𐂣",
+    "name": "LINEAR B IDEOGRAM B154",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65700,
+    "char": "𐂤",
+    "name": "LINEAR B MONOGRAM B156 TURO2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65701,
+    "char": "𐂥",
+    "name": "LINEAR B IDEOGRAM B157",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65702,
+    "char": "𐂦",
+    "name": "LINEAR B IDEOGRAM B158",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65703,
+    "char": "𐂧",
+    "name": "LINEAR B IDEOGRAM B159 CLOTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65704,
+    "char": "𐂨",
+    "name": "LINEAR B IDEOGRAM B160",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65705,
+    "char": "𐂩",
+    "name": "LINEAR B IDEOGRAM B161",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65706,
+    "char": "𐂪",
+    "name": "LINEAR B IDEOGRAM B162 GARMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65707,
+    "char": "𐂫",
+    "name": "LINEAR B IDEOGRAM B163 ARMOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65708,
+    "char": "𐂬",
+    "name": "LINEAR B IDEOGRAM B164",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65709,
+    "char": "𐂭",
+    "name": "LINEAR B IDEOGRAM B165",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65710,
+    "char": "𐂮",
+    "name": "LINEAR B IDEOGRAM B166",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65711,
+    "char": "𐂯",
+    "name": "LINEAR B IDEOGRAM B167",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65712,
+    "char": "𐂰",
+    "name": "LINEAR B IDEOGRAM B168",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65713,
+    "char": "𐂱",
+    "name": "LINEAR B IDEOGRAM B169",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65714,
+    "char": "𐂲",
+    "name": "LINEAR B IDEOGRAM B170",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65715,
+    "char": "𐂳",
+    "name": "LINEAR B IDEOGRAM B171",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65716,
+    "char": "𐂴",
+    "name": "LINEAR B IDEOGRAM B172",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65717,
+    "char": "𐂵",
+    "name": "LINEAR B IDEOGRAM B173 MONTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65718,
+    "char": "𐂶",
+    "name": "LINEAR B IDEOGRAM B174",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65719,
+    "char": "𐂷",
+    "name": "LINEAR B IDEOGRAM B176 TREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65720,
+    "char": "𐂸",
+    "name": "LINEAR B IDEOGRAM B177",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65721,
+    "char": "𐂹",
+    "name": "LINEAR B IDEOGRAM B178",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65722,
+    "char": "𐂺",
+    "name": "LINEAR B IDEOGRAM B179",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65723,
+    "char": "𐂻",
+    "name": "LINEAR B IDEOGRAM B180",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65724,
+    "char": "𐂼",
+    "name": "LINEAR B IDEOGRAM B181",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65725,
+    "char": "𐂽",
+    "name": "LINEAR B IDEOGRAM B182",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65726,
+    "char": "𐂾",
+    "name": "LINEAR B IDEOGRAM B183",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65727,
+    "char": "𐂿",
+    "name": "LINEAR B IDEOGRAM B184",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65728,
+    "char": "𐃀",
+    "name": "LINEAR B IDEOGRAM B185",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65729,
+    "char": "𐃁",
+    "name": "LINEAR B IDEOGRAM B189",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65730,
+    "char": "𐃂",
+    "name": "LINEAR B IDEOGRAM B190",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65731,
+    "char": "𐃃",
+    "name": "LINEAR B IDEOGRAM B191 HELMET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65732,
+    "char": "𐃄",
+    "name": "LINEAR B IDEOGRAM B220 FOOTSTOOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65733,
+    "char": "𐃅",
+    "name": "LINEAR B IDEOGRAM B225 BATHTUB",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65734,
+    "char": "𐃆",
+    "name": "LINEAR B IDEOGRAM B230 SPEAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65735,
+    "char": "𐃇",
+    "name": "LINEAR B IDEOGRAM B231 ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65736,
+    "char": "𐃈",
+    "name": "LINEAR B IDEOGRAM B232",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65737,
+    "char": "𐃉",
+    "name": "LINEAR B IDEOGRAM B233 SWORD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65738,
+    "char": "𐃊",
+    "name": "LINEAR B IDEOGRAM B234",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65739,
+    "char": "𐃋",
+    "name": "LINEAR B IDEOGRAM B236",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65740,
+    "char": "𐃌",
+    "name": "LINEAR B IDEOGRAM B240 WHEELED CHARIOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65741,
+    "char": "𐃍",
+    "name": "LINEAR B IDEOGRAM B241 CHARIOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65742,
+    "char": "𐃎",
+    "name": "LINEAR B IDEOGRAM B242 CHARIOT FRAME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65743,
+    "char": "𐃏",
+    "name": "LINEAR B IDEOGRAM B243 WHEEL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65744,
+    "char": "𐃐",
+    "name": "LINEAR B IDEOGRAM B245",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65745,
+    "char": "𐃑",
+    "name": "LINEAR B IDEOGRAM B246",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65746,
+    "char": "𐃒",
+    "name": "LINEAR B MONOGRAM B247 DIPTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65747,
+    "char": "𐃓",
+    "name": "LINEAR B IDEOGRAM B248",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65748,
+    "char": "𐃔",
+    "name": "LINEAR B IDEOGRAM B249",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65749,
+    "char": "𐃕",
+    "name": "LINEAR B IDEOGRAM B251",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65750,
+    "char": "𐃖",
+    "name": "LINEAR B IDEOGRAM B252",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65751,
+    "char": "𐃗",
+    "name": "LINEAR B IDEOGRAM B253",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65752,
+    "char": "𐃘",
+    "name": "LINEAR B IDEOGRAM B254 DART",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65753,
+    "char": "𐃙",
+    "name": "LINEAR B IDEOGRAM B255",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65754,
+    "char": "𐃚",
+    "name": "LINEAR B IDEOGRAM B256",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65755,
+    "char": "𐃛",
+    "name": "LINEAR B IDEOGRAM B257",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65756,
+    "char": "𐃜",
+    "name": "LINEAR B IDEOGRAM B258",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65757,
+    "char": "𐃝",
+    "name": "LINEAR B IDEOGRAM B259",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65758,
+    "char": "𐃞",
+    "name": "LINEAR B IDEOGRAM VESSEL B155",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65759,
+    "char": "𐃟",
+    "name": "LINEAR B IDEOGRAM VESSEL B200",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65760,
+    "char": "𐃠",
+    "name": "LINEAR B IDEOGRAM VESSEL B201",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65761,
+    "char": "𐃡",
+    "name": "LINEAR B IDEOGRAM VESSEL B202",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65762,
+    "char": "𐃢",
+    "name": "LINEAR B IDEOGRAM VESSEL B203",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65763,
+    "char": "𐃣",
+    "name": "LINEAR B IDEOGRAM VESSEL B204",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65764,
+    "char": "𐃤",
+    "name": "LINEAR B IDEOGRAM VESSEL B205",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65765,
+    "char": "𐃥",
+    "name": "LINEAR B IDEOGRAM VESSEL B206",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65766,
+    "char": "𐃦",
+    "name": "LINEAR B IDEOGRAM VESSEL B207",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65767,
+    "char": "𐃧",
+    "name": "LINEAR B IDEOGRAM VESSEL B208",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65768,
+    "char": "𐃨",
+    "name": "LINEAR B IDEOGRAM VESSEL B209",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65769,
+    "char": "𐃩",
+    "name": "LINEAR B IDEOGRAM VESSEL B210",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65770,
+    "char": "𐃪",
+    "name": "LINEAR B IDEOGRAM VESSEL B211",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65771,
+    "char": "𐃫",
+    "name": "LINEAR B IDEOGRAM VESSEL B212",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65772,
+    "char": "𐃬",
+    "name": "LINEAR B IDEOGRAM VESSEL B213",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65773,
+    "char": "𐃭",
+    "name": "LINEAR B IDEOGRAM VESSEL B214",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65774,
+    "char": "𐃮",
+    "name": "LINEAR B IDEOGRAM VESSEL B215",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65775,
+    "char": "𐃯",
+    "name": "LINEAR B IDEOGRAM VESSEL B216",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65776,
+    "char": "𐃰",
+    "name": "LINEAR B IDEOGRAM VESSEL B217",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65777,
+    "char": "𐃱",
+    "name": "LINEAR B IDEOGRAM VESSEL B218",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65778,
+    "char": "𐃲",
+    "name": "LINEAR B IDEOGRAM VESSEL B219",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65779,
+    "char": "𐃳",
+    "name": "LINEAR B IDEOGRAM VESSEL B221",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65780,
+    "char": "𐃴",
+    "name": "LINEAR B IDEOGRAM VESSEL B222",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65781,
+    "char": "𐃵",
+    "name": "LINEAR B IDEOGRAM VESSEL B226",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65782,
+    "char": "𐃶",
+    "name": "LINEAR B IDEOGRAM VESSEL B227",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65783,
+    "char": "𐃷",
+    "name": "LINEAR B IDEOGRAM VESSEL B228",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65784,
+    "char": "𐃸",
+    "name": "LINEAR B IDEOGRAM VESSEL B229",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65785,
+    "char": "𐃹",
+    "name": "LINEAR B IDEOGRAM VESSEL B250",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65786,
+    "char": "𐃺",
+    "name": "LINEAR B IDEOGRAM VESSEL B305",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

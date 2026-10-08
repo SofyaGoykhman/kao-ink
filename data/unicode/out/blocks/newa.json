@@ -1,0 +1,778 @@
+[
+  {
+    "cp": 70656,
+    "char": "𑐀",
+    "name": "NEWA LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70657,
+    "char": "𑐁",
+    "name": "NEWA LETTER AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70658,
+    "char": "𑐂",
+    "name": "NEWA LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70659,
+    "char": "𑐃",
+    "name": "NEWA LETTER II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70660,
+    "char": "𑐄",
+    "name": "NEWA LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70661,
+    "char": "𑐅",
+    "name": "NEWA LETTER UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70662,
+    "char": "𑐆",
+    "name": "NEWA LETTER VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70663,
+    "char": "𑐇",
+    "name": "NEWA LETTER VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70664,
+    "char": "𑐈",
+    "name": "NEWA LETTER VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70665,
+    "char": "𑐉",
+    "name": "NEWA LETTER VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70666,
+    "char": "𑐊",
+    "name": "NEWA LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70667,
+    "char": "𑐋",
+    "name": "NEWA LETTER AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70668,
+    "char": "𑐌",
+    "name": "NEWA LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70669,
+    "char": "𑐍",
+    "name": "NEWA LETTER AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70670,
+    "char": "𑐎",
+    "name": "NEWA LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70671,
+    "char": "𑐏",
+    "name": "NEWA LETTER KHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70672,
+    "char": "𑐐",
+    "name": "NEWA LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70673,
+    "char": "𑐑",
+    "name": "NEWA LETTER GHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70674,
+    "char": "𑐒",
+    "name": "NEWA LETTER NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70675,
+    "char": "𑐓",
+    "name": "NEWA LETTER NGHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70676,
+    "char": "𑐔",
+    "name": "NEWA LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70677,
+    "char": "𑐕",
+    "name": "NEWA LETTER CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70678,
+    "char": "𑐖",
+    "name": "NEWA LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70679,
+    "char": "𑐗",
+    "name": "NEWA LETTER JHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70680,
+    "char": "𑐘",
+    "name": "NEWA LETTER NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70681,
+    "char": "𑐙",
+    "name": "NEWA LETTER NYHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70682,
+    "char": "𑐚",
+    "name": "NEWA LETTER TTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70683,
+    "char": "𑐛",
+    "name": "NEWA LETTER TTHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70684,
+    "char": "𑐜",
+    "name": "NEWA LETTER DDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70685,
+    "char": "𑐝",
+    "name": "NEWA LETTER DDHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70686,
+    "char": "𑐞",
+    "name": "NEWA LETTER NNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70687,
+    "char": "𑐟",
+    "name": "NEWA LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70688,
+    "char": "𑐠",
+    "name": "NEWA LETTER THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70689,
+    "char": "𑐡",
+    "name": "NEWA LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70690,
+    "char": "𑐢",
+    "name": "NEWA LETTER DHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70691,
+    "char": "𑐣",
+    "name": "NEWA LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70692,
+    "char": "𑐤",
+    "name": "NEWA LETTER NHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70693,
+    "char": "𑐥",
+    "name": "NEWA LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70694,
+    "char": "𑐦",
+    "name": "NEWA LETTER PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70695,
+    "char": "𑐧",
+    "name": "NEWA LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70696,
+    "char": "𑐨",
+    "name": "NEWA LETTER BHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70697,
+    "char": "𑐩",
+    "name": "NEWA LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70698,
+    "char": "𑐪",
+    "name": "NEWA LETTER MHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70699,
+    "char": "𑐫",
+    "name": "NEWA LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70700,
+    "char": "𑐬",
+    "name": "NEWA LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70701,
+    "char": "𑐭",
+    "name": "NEWA LETTER RHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70702,
+    "char": "𑐮",
+    "name": "NEWA LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70703,
+    "char": "𑐯",
+    "name": "NEWA LETTER LHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70704,
+    "char": "𑐰",
+    "name": "NEWA LETTER WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70705,
+    "char": "𑐱",
+    "name": "NEWA LETTER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70706,
+    "char": "𑐲",
+    "name": "NEWA LETTER SSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70707,
+    "char": "𑐳",
+    "name": "NEWA LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70708,
+    "char": "𑐴",
+    "name": "NEWA LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70709,
+    "char": "𑐵",
+    "name": "NEWA VOWEL SIGN AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70710,
+    "char": "𑐶",
+    "name": "NEWA VOWEL SIGN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70711,
+    "char": "𑐷",
+    "name": "NEWA VOWEL SIGN II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70712,
+    "char": "𑐸",
+    "name": "NEWA VOWEL SIGN U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70713,
+    "char": "𑐹",
+    "name": "NEWA VOWEL SIGN UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70714,
+    "char": "𑐺",
+    "name": "NEWA VOWEL SIGN VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70715,
+    "char": "𑐻",
+    "name": "NEWA VOWEL SIGN VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70716,
+    "char": "𑐼",
+    "name": "NEWA VOWEL SIGN VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70717,
+    "char": "𑐽",
+    "name": "NEWA VOWEL SIGN VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70718,
+    "char": "𑐾",
+    "name": "NEWA VOWEL SIGN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70719,
+    "char": "𑐿",
+    "name": "NEWA VOWEL SIGN AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70720,
+    "char": "𑑀",
+    "name": "NEWA VOWEL SIGN O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70721,
+    "char": "𑑁",
+    "name": "NEWA VOWEL SIGN AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70722,
+    "char": "𑑂",
+    "name": "NEWA SIGN VIRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70723,
+    "char": "𑑃",
+    "name": "NEWA SIGN CANDRABINDU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70724,
+    "char": "𑑄",
+    "name": "NEWA SIGN ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70725,
+    "char": "𑑅",
+    "name": "NEWA SIGN VISARGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70726,
+    "char": "𑑆",
+    "name": "NEWA SIGN NUKTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70727,
+    "char": "𑑇",
+    "name": "NEWA SIGN AVAGRAHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70728,
+    "char": "𑑈",
+    "name": "NEWA SIGN FINAL ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70729,
+    "char": "𑑉",
+    "name": "NEWA OM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70730,
+    "char": "𑑊",
+    "name": "NEWA SIDDHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70731,
+    "char": "𑑋",
+    "name": "NEWA DANDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70732,
+    "char": "𑑌",
+    "name": "NEWA DOUBLE DANDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70733,
+    "char": "𑑍",
+    "name": "NEWA COMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70734,
+    "char": "𑑎",
+    "name": "NEWA GAP FILLER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70735,
+    "char": "𑑏",
+    "name": "NEWA ABBREVIATION SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70736,
+    "char": "𑑐",
+    "name": "NEWA DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70737,
+    "char": "𑑑",
+    "name": "NEWA DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70738,
+    "char": "𑑒",
+    "name": "NEWA DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70739,
+    "char": "𑑓",
+    "name": "NEWA DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70740,
+    "char": "𑑔",
+    "name": "NEWA DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70741,
+    "char": "𑑕",
+    "name": "NEWA DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70742,
+    "char": "𑑖",
+    "name": "NEWA DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70743,
+    "char": "𑑗",
+    "name": "NEWA DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70744,
+    "char": "𑑘",
+    "name": "NEWA DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70745,
+    "char": "𑑙",
+    "name": "NEWA DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70746,
+    "char": "𑑚",
+    "name": "NEWA DOUBLE COMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70747,
+    "char": "𑑛",
+    "name": "NEWA PLACEHOLDER MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70749,
+    "char": "𑑝",
+    "name": "NEWA INSERTION SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70750,
+    "char": "𑑞",
+    "name": "NEWA SANDHI MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70751,
+    "char": "𑑟",
+    "name": "NEWA LETTER VEDIC ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70752,
+    "char": "𑑠",
+    "name": "NEWA SIGN JIHVAMULIYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70753,
+    "char": "𑑡",
+    "name": "NEWA SIGN UPADHMANIYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

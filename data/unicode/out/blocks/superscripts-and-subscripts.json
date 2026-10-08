@@ -1,0 +1,370 @@
+[
+  {
+    "cp": 8304,
+    "char": "⁰",
+    "name": "SUPERSCRIPT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8305,
+    "char": "ⁱ",
+    "name": "SUPERSCRIPT LATIN SMALL LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8308,
+    "char": "⁴",
+    "name": "SUPERSCRIPT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8309,
+    "char": "⁵",
+    "name": "SUPERSCRIPT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8310,
+    "char": "⁶",
+    "name": "SUPERSCRIPT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8311,
+    "char": "⁷",
+    "name": "SUPERSCRIPT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8312,
+    "char": "⁸",
+    "name": "SUPERSCRIPT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8313,
+    "char": "⁹",
+    "name": "SUPERSCRIPT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8314,
+    "char": "⁺",
+    "name": "SUPERSCRIPT PLUS SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8315,
+    "char": "⁻",
+    "name": "SUPERSCRIPT MINUS",
+    "ru": "надстрочный минус",
+    "en": "superscript minus",
+    "keywords": { "ru": ["минус", "надстрочный", "степень"], "en": ["minus", "superscript"] }
+  },
+  {
+    "cp": 8316,
+    "char": "⁼",
+    "name": "SUPERSCRIPT EQUALS SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8317,
+    "char": "⁽",
+    "name": "SUPERSCRIPT LEFT PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8318,
+    "char": "⁾",
+    "name": "SUPERSCRIPT RIGHT PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8319,
+    "char": "ⁿ",
+    "name": "SUPERSCRIPT LATIN SMALL LETTER N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8320,
+    "char": "₀",
+    "name": "SUBSCRIPT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8321,
+    "char": "₁",
+    "name": "SUBSCRIPT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8322,
+    "char": "₂",
+    "name": "SUBSCRIPT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8323,
+    "char": "₃",
+    "name": "SUBSCRIPT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8324,
+    "char": "₄",
+    "name": "SUBSCRIPT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8325,
+    "char": "₅",
+    "name": "SUBSCRIPT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8326,
+    "char": "₆",
+    "name": "SUBSCRIPT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8327,
+    "char": "₇",
+    "name": "SUBSCRIPT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8328,
+    "char": "₈",
+    "name": "SUBSCRIPT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8329,
+    "char": "₉",
+    "name": "SUBSCRIPT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8330,
+    "char": "₊",
+    "name": "SUBSCRIPT PLUS SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8331,
+    "char": "₋",
+    "name": "SUBSCRIPT MINUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8332,
+    "char": "₌",
+    "name": "SUBSCRIPT EQUALS SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8333,
+    "char": "₍",
+    "name": "SUBSCRIPT LEFT PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8334,
+    "char": "₎",
+    "name": "SUBSCRIPT RIGHT PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8335,
+    "char": "₏",
+    "name": "MODIFIER LETTER HIGH AND LOW VERTICAL LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8336,
+    "char": "ₐ",
+    "name": "LATIN SUBSCRIPT SMALL LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8337,
+    "char": "ₑ",
+    "name": "LATIN SUBSCRIPT SMALL LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8338,
+    "char": "ₒ",
+    "name": "LATIN SUBSCRIPT SMALL LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8339,
+    "char": "ₓ",
+    "name": "LATIN SUBSCRIPT SMALL LETTER X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8340,
+    "char": "ₔ",
+    "name": "LATIN SUBSCRIPT SMALL LETTER SCHWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8341,
+    "char": "ₕ",
+    "name": "LATIN SUBSCRIPT SMALL LETTER H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8342,
+    "char": "ₖ",
+    "name": "LATIN SUBSCRIPT SMALL LETTER K",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8343,
+    "char": "ₗ",
+    "name": "LATIN SUBSCRIPT SMALL LETTER L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8344,
+    "char": "ₘ",
+    "name": "LATIN SUBSCRIPT SMALL LETTER M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8345,
+    "char": "ₙ",
+    "name": "LATIN SUBSCRIPT SMALL LETTER N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8346,
+    "char": "ₚ",
+    "name": "LATIN SUBSCRIPT SMALL LETTER P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8347,
+    "char": "ₛ",
+    "name": "LATIN SUBSCRIPT SMALL LETTER S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8348,
+    "char": "ₜ",
+    "name": "LATIN SUBSCRIPT SMALL LETTER T",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8349,
+    "char": "₝",
+    "name": "LATIN SUBSCRIPT SMALL LETTER W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8350,
+    "char": "₞",
+    "name": "LATIN SUBSCRIPT SMALL LETTER Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8351,
+    "char": "₟",
+    "name": "LATIN SUBSCRIPT SMALL LETTER Z",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

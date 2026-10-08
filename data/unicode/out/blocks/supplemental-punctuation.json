@@ -1,0 +1,786 @@
+[
+  {
+    "cp": 11776,
+    "char": "⸀",
+    "name": "RIGHT ANGLE SUBSTITUTION MARKER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11777,
+    "char": "⸁",
+    "name": "RIGHT ANGLE DOTTED SUBSTITUTION MARKER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11778,
+    "char": "⸂",
+    "name": "LEFT SUBSTITUTION BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11779,
+    "char": "⸃",
+    "name": "RIGHT SUBSTITUTION BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11780,
+    "char": "⸄",
+    "name": "LEFT DOTTED SUBSTITUTION BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11781,
+    "char": "⸅",
+    "name": "RIGHT DOTTED SUBSTITUTION BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11782,
+    "char": "⸆",
+    "name": "RAISED INTERPOLATION MARKER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11783,
+    "char": "⸇",
+    "name": "RAISED DOTTED INTERPOLATION MARKER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11784,
+    "char": "⸈",
+    "name": "DOTTED TRANSPOSITION MARKER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11785,
+    "char": "⸉",
+    "name": "LEFT TRANSPOSITION BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11786,
+    "char": "⸊",
+    "name": "RIGHT TRANSPOSITION BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11787,
+    "char": "⸋",
+    "name": "RAISED SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11788,
+    "char": "⸌",
+    "name": "LEFT RAISED OMISSION BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11789,
+    "char": "⸍",
+    "name": "RIGHT RAISED OMISSION BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11790,
+    "char": "⸎",
+    "name": "EDITORIAL CORONIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11791,
+    "char": "⸏",
+    "name": "PARAGRAPHOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11792,
+    "char": "⸐",
+    "name": "FORKED PARAGRAPHOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11793,
+    "char": "⸑",
+    "name": "REVERSED FORKED PARAGRAPHOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11794,
+    "char": "⸒",
+    "name": "HYPODIASTOLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11795,
+    "char": "⸓",
+    "name": "DOTTED OBELOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11796,
+    "char": "⸔",
+    "name": "DOWNWARDS ANCORA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11797,
+    "char": "⸕",
+    "name": "UPWARDS ANCORA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11798,
+    "char": "⸖",
+    "name": "DOTTED RIGHT-POINTING ANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11799,
+    "char": "⸗",
+    "name": "DOUBLE OBLIQUE HYPHEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11800,
+    "char": "⸘",
+    "name": "INVERTED INTERROBANG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11801,
+    "char": "⸙",
+    "name": "PALM BRANCH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11802,
+    "char": "⸚",
+    "name": "HYPHEN WITH DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11803,
+    "char": "⸛",
+    "name": "TILDE WITH RING ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11804,
+    "char": "⸜",
+    "name": "LEFT LOW PARAPHRASE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11805,
+    "char": "⸝",
+    "name": "RIGHT LOW PARAPHRASE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11806,
+    "char": "⸞",
+    "name": "TILDE WITH DOT ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11807,
+    "char": "⸟",
+    "name": "TILDE WITH DOT BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11808,
+    "char": "⸠",
+    "name": "LEFT VERTICAL BAR WITH QUILL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11809,
+    "char": "⸡",
+    "name": "RIGHT VERTICAL BAR WITH QUILL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11810,
+    "char": "⸢",
+    "name": "TOP LEFT HALF BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11811,
+    "char": "⸣",
+    "name": "TOP RIGHT HALF BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11812,
+    "char": "⸤",
+    "name": "BOTTOM LEFT HALF BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11813,
+    "char": "⸥",
+    "name": "BOTTOM RIGHT HALF BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11814,
+    "char": "⸦",
+    "name": "LEFT SIDEWAYS U BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11815,
+    "char": "⸧",
+    "name": "RIGHT SIDEWAYS U BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11816,
+    "char": "⸨",
+    "name": "LEFT DOUBLE PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11817,
+    "char": "⸩",
+    "name": "RIGHT DOUBLE PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11818,
+    "char": "⸪",
+    "name": "TWO DOTS OVER ONE DOT PUNCTUATION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11819,
+    "char": "⸫",
+    "name": "ONE DOT OVER TWO DOTS PUNCTUATION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11820,
+    "char": "⸬",
+    "name": "SQUARED FOUR DOT PUNCTUATION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11821,
+    "char": "⸭",
+    "name": "FIVE DOT MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11822,
+    "char": "⸮",
+    "name": "REVERSED QUESTION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11823,
+    "char": "ⸯ",
+    "name": "VERTICAL TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11824,
+    "char": "⸰",
+    "name": "RING POINT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11825,
+    "char": "⸱",
+    "name": "WORD SEPARATOR MIDDLE DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11826,
+    "char": "⸲",
+    "name": "TURNED COMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11827,
+    "char": "⸳",
+    "name": "RAISED DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11828,
+    "char": "⸴",
+    "name": "RAISED COMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11829,
+    "char": "⸵",
+    "name": "TURNED SEMICOLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11830,
+    "char": "⸶",
+    "name": "DAGGER WITH LEFT GUARD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11831,
+    "char": "⸷",
+    "name": "DAGGER WITH RIGHT GUARD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11832,
+    "char": "⸸",
+    "name": "TURNED DAGGER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11833,
+    "char": "⸹",
+    "name": "TOP HALF SECTION SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11834,
+    "char": "⸺",
+    "name": "TWO-EM DASH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11835,
+    "char": "⸻",
+    "name": "THREE-EM DASH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11836,
+    "char": "⸼",
+    "name": "STENOGRAPHIC FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11837,
+    "char": "⸽",
+    "name": "VERTICAL SIX DOTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11838,
+    "char": "⸾",
+    "name": "WIGGLY VERTICAL LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11839,
+    "char": "⸿",
+    "name": "CAPITULUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11840,
+    "char": "⹀",
+    "name": "DOUBLE HYPHEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11841,
+    "char": "⹁",
+    "name": "REVERSED COMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11842,
+    "char": "⹂",
+    "name": "DOUBLE LOW-REVERSED-9 QUOTATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11843,
+    "char": "⹃",
+    "name": "DASH WITH LEFT UPTURN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11844,
+    "char": "⹄",
+    "name": "DOUBLE SUSPENSION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11845,
+    "char": "⹅",
+    "name": "INVERTED LOW KAVYKA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11846,
+    "char": "⹆",
+    "name": "INVERTED LOW KAVYKA WITH KAVYKA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11847,
+    "char": "⹇",
+    "name": "LOW KAVYKA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11848,
+    "char": "⹈",
+    "name": "LOW KAVYKA WITH DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11849,
+    "char": "⹉",
+    "name": "DOUBLE STACKED COMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11850,
+    "char": "⹊",
+    "name": "DOTTED SOLIDUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11851,
+    "char": "⹋",
+    "name": "TRIPLE DAGGER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11852,
+    "char": "⹌",
+    "name": "MEDIEVAL COMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11853,
+    "char": "⹍",
+    "name": "PARAGRAPHUS MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11854,
+    "char": "⹎",
+    "name": "PUNCTUS ELEVATUS MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11855,
+    "char": "⹏",
+    "name": "CORNISH VERSE DIVIDER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11856,
+    "char": "⹐",
+    "name": "CROSS PATTY WITH RIGHT CROSSBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11857,
+    "char": "⹑",
+    "name": "CROSS PATTY WITH LEFT CROSSBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11858,
+    "char": "⹒",
+    "name": "TIRONIAN SIGN CAPITAL ET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11859,
+    "char": "⹓",
+    "name": "MEDIEVAL EXCLAMATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11860,
+    "char": "⹔",
+    "name": "MEDIEVAL QUESTION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11861,
+    "char": "⹕",
+    "name": "LEFT SQUARE BRACKET WITH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11862,
+    "char": "⹖",
+    "name": "RIGHT SQUARE BRACKET WITH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11863,
+    "char": "⹗",
+    "name": "LEFT SQUARE BRACKET WITH DOUBLE STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11864,
+    "char": "⹘",
+    "name": "RIGHT SQUARE BRACKET WITH DOUBLE STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11865,
+    "char": "⹙",
+    "name": "TOP HALF LEFT PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11866,
+    "char": "⹚",
+    "name": "TOP HALF RIGHT PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11867,
+    "char": "⹛",
+    "name": "BOTTOM HALF LEFT PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11868,
+    "char": "⹜",
+    "name": "BOTTOM HALF RIGHT PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11869,
+    "char": "⹝",
+    "name": "OBLIQUE HYPHEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11872,
+    "char": "⹠",
+    "name": "WIGGLY EXCLAMATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11873,
+    "char": "⹡",
+    "name": "INVERTED WIGGLY EXCLAMATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11874,
+    "char": "⹢",
+    "name": "LEFT PARENTHESIS WITH MIDDLE RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11875,
+    "char": "⹣",
+    "name": "RIGHT PARENTHESIS WITH MIDDLE RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

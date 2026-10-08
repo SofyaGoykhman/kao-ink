@@ -1,0 +1,482 @@
+[
+  {
+    "cp": 8528,
+    "char": "⅐",
+    "name": "VULGAR FRACTION ONE SEVENTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8529,
+    "char": "⅑",
+    "name": "VULGAR FRACTION ONE NINTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8530,
+    "char": "⅒",
+    "name": "VULGAR FRACTION ONE TENTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8531,
+    "char": "⅓",
+    "name": "VULGAR FRACTION ONE THIRD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8532,
+    "char": "⅔",
+    "name": "VULGAR FRACTION TWO THIRDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8533,
+    "char": "⅕",
+    "name": "VULGAR FRACTION ONE FIFTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8534,
+    "char": "⅖",
+    "name": "VULGAR FRACTION TWO FIFTHS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8535,
+    "char": "⅗",
+    "name": "VULGAR FRACTION THREE FIFTHS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8536,
+    "char": "⅘",
+    "name": "VULGAR FRACTION FOUR FIFTHS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8537,
+    "char": "⅙",
+    "name": "VULGAR FRACTION ONE SIXTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8538,
+    "char": "⅚",
+    "name": "VULGAR FRACTION FIVE SIXTHS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8539,
+    "char": "⅛",
+    "name": "VULGAR FRACTION ONE EIGHTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8540,
+    "char": "⅜",
+    "name": "VULGAR FRACTION THREE EIGHTHS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8541,
+    "char": "⅝",
+    "name": "VULGAR FRACTION FIVE EIGHTHS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8542,
+    "char": "⅞",
+    "name": "VULGAR FRACTION SEVEN EIGHTHS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8543,
+    "char": "⅟",
+    "name": "FRACTION NUMERATOR ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8544,
+    "char": "Ⅰ",
+    "name": "ROMAN NUMERAL ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8545,
+    "char": "Ⅱ",
+    "name": "ROMAN NUMERAL TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8546,
+    "char": "Ⅲ",
+    "name": "ROMAN NUMERAL THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8547,
+    "char": "Ⅳ",
+    "name": "ROMAN NUMERAL FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8548,
+    "char": "Ⅴ",
+    "name": "ROMAN NUMERAL FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8549,
+    "char": "Ⅵ",
+    "name": "ROMAN NUMERAL SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8550,
+    "char": "Ⅶ",
+    "name": "ROMAN NUMERAL SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8551,
+    "char": "Ⅷ",
+    "name": "ROMAN NUMERAL EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8552,
+    "char": "Ⅸ",
+    "name": "ROMAN NUMERAL NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8553,
+    "char": "Ⅹ",
+    "name": "ROMAN NUMERAL TEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8554,
+    "char": "Ⅺ",
+    "name": "ROMAN NUMERAL ELEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8555,
+    "char": "Ⅻ",
+    "name": "ROMAN NUMERAL TWELVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8556,
+    "char": "Ⅼ",
+    "name": "ROMAN NUMERAL FIFTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8557,
+    "char": "Ⅽ",
+    "name": "ROMAN NUMERAL ONE HUNDRED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8558,
+    "char": "Ⅾ",
+    "name": "ROMAN NUMERAL FIVE HUNDRED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8559,
+    "char": "Ⅿ",
+    "name": "ROMAN NUMERAL ONE THOUSAND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8560,
+    "char": "ⅰ",
+    "name": "SMALL ROMAN NUMERAL ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8561,
+    "char": "ⅱ",
+    "name": "SMALL ROMAN NUMERAL TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8562,
+    "char": "ⅲ",
+    "name": "SMALL ROMAN NUMERAL THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8563,
+    "char": "ⅳ",
+    "name": "SMALL ROMAN NUMERAL FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8564,
+    "char": "ⅴ",
+    "name": "SMALL ROMAN NUMERAL FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8565,
+    "char": "ⅵ",
+    "name": "SMALL ROMAN NUMERAL SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8566,
+    "char": "ⅶ",
+    "name": "SMALL ROMAN NUMERAL SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8567,
+    "char": "ⅷ",
+    "name": "SMALL ROMAN NUMERAL EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8568,
+    "char": "ⅸ",
+    "name": "SMALL ROMAN NUMERAL NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8569,
+    "char": "ⅹ",
+    "name": "SMALL ROMAN NUMERAL TEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8570,
+    "char": "ⅺ",
+    "name": "SMALL ROMAN NUMERAL ELEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8571,
+    "char": "ⅻ",
+    "name": "SMALL ROMAN NUMERAL TWELVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8572,
+    "char": "ⅼ",
+    "name": "SMALL ROMAN NUMERAL FIFTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8573,
+    "char": "ⅽ",
+    "name": "SMALL ROMAN NUMERAL ONE HUNDRED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8574,
+    "char": "ⅾ",
+    "name": "SMALL ROMAN NUMERAL FIVE HUNDRED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8575,
+    "char": "ⅿ",
+    "name": "SMALL ROMAN NUMERAL ONE THOUSAND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8576,
+    "char": "ↀ",
+    "name": "ROMAN NUMERAL ONE THOUSAND C D",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8577,
+    "char": "ↁ",
+    "name": "ROMAN NUMERAL FIVE THOUSAND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8578,
+    "char": "ↂ",
+    "name": "ROMAN NUMERAL TEN THOUSAND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8579,
+    "char": "Ↄ",
+    "name": "ROMAN NUMERAL REVERSED ONE HUNDRED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8580,
+    "char": "ↄ",
+    "name": "LATIN SMALL LETTER REVERSED C",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8581,
+    "char": "ↅ",
+    "name": "ROMAN NUMERAL SIX LATE FORM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8582,
+    "char": "ↆ",
+    "name": "ROMAN NUMERAL FIFTY EARLY FORM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8583,
+    "char": "ↇ",
+    "name": "ROMAN NUMERAL FIFTY THOUSAND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8584,
+    "char": "ↈ",
+    "name": "ROMAN NUMERAL ONE HUNDRED THOUSAND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8585,
+    "char": "↉",
+    "name": "VULGAR FRACTION ZERO THIRDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8586,
+    "char": "↊",
+    "name": "TURNED DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8587,
+    "char": "↋",
+    "name": "TURNED DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

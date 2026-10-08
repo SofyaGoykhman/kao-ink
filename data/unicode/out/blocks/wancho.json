@@ -1,0 +1,474 @@
+[
+  {
+    "cp": 123584,
+    "char": "𞋀",
+    "name": "WANCHO LETTER AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123585,
+    "char": "𞋁",
+    "name": "WANCHO LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123586,
+    "char": "𞋂",
+    "name": "WANCHO LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123587,
+    "char": "𞋃",
+    "name": "WANCHO LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123588,
+    "char": "𞋄",
+    "name": "WANCHO LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123589,
+    "char": "𞋅",
+    "name": "WANCHO LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123590,
+    "char": "𞋆",
+    "name": "WANCHO LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123591,
+    "char": "𞋇",
+    "name": "WANCHO LETTER PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123592,
+    "char": "𞋈",
+    "name": "WANCHO LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123593,
+    "char": "𞋉",
+    "name": "WANCHO LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123594,
+    "char": "𞋊",
+    "name": "WANCHO LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123595,
+    "char": "𞋋",
+    "name": "WANCHO LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123596,
+    "char": "𞋌",
+    "name": "WANCHO LETTER THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123597,
+    "char": "𞋍",
+    "name": "WANCHO LETTER FA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123598,
+    "char": "𞋎",
+    "name": "WANCHO LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123599,
+    "char": "𞋏",
+    "name": "WANCHO LETTER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123600,
+    "char": "𞋐",
+    "name": "WANCHO LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123601,
+    "char": "𞋑",
+    "name": "WANCHO LETTER ZA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123602,
+    "char": "𞋒",
+    "name": "WANCHO LETTER WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123603,
+    "char": "𞋓",
+    "name": "WANCHO LETTER VA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123604,
+    "char": "𞋔",
+    "name": "WANCHO LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123605,
+    "char": "𞋕",
+    "name": "WANCHO LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123606,
+    "char": "𞋖",
+    "name": "WANCHO LETTER AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123607,
+    "char": "𞋗",
+    "name": "WANCHO LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123608,
+    "char": "𞋘",
+    "name": "WANCHO LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123609,
+    "char": "𞋙",
+    "name": "WANCHO LETTER KHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123610,
+    "char": "𞋚",
+    "name": "WANCHO LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123611,
+    "char": "𞋛",
+    "name": "WANCHO LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123612,
+    "char": "𞋜",
+    "name": "WANCHO LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123613,
+    "char": "𞋝",
+    "name": "WANCHO LETTER NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123614,
+    "char": "𞋞",
+    "name": "WANCHO LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123615,
+    "char": "𞋟",
+    "name": "WANCHO LETTER LLHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123616,
+    "char": "𞋠",
+    "name": "WANCHO LETTER TSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123617,
+    "char": "𞋡",
+    "name": "WANCHO LETTER TRA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123618,
+    "char": "𞋢",
+    "name": "WANCHO LETTER ONG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123619,
+    "char": "𞋣",
+    "name": "WANCHO LETTER AANG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123620,
+    "char": "𞋤",
+    "name": "WANCHO LETTER ANG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123621,
+    "char": "𞋥",
+    "name": "WANCHO LETTER ING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123622,
+    "char": "𞋦",
+    "name": "WANCHO LETTER ON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123623,
+    "char": "𞋧",
+    "name": "WANCHO LETTER EN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123624,
+    "char": "𞋨",
+    "name": "WANCHO LETTER AAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123625,
+    "char": "𞋩",
+    "name": "WANCHO LETTER NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123626,
+    "char": "𞋪",
+    "name": "WANCHO LETTER UEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123627,
+    "char": "𞋫",
+    "name": "WANCHO LETTER YIH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123628,
+    "char": "𞋬",
+    "name": "WANCHO TONE TUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123629,
+    "char": "𞋭",
+    "name": "WANCHO TONE TUPNI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123630,
+    "char": "𞋮",
+    "name": "WANCHO TONE KOI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123631,
+    "char": "𞋯",
+    "name": "WANCHO TONE KOINI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123632,
+    "char": "𞋰",
+    "name": "WANCHO DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123633,
+    "char": "𞋱",
+    "name": "WANCHO DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123634,
+    "char": "𞋲",
+    "name": "WANCHO DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123635,
+    "char": "𞋳",
+    "name": "WANCHO DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123636,
+    "char": "𞋴",
+    "name": "WANCHO DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123637,
+    "char": "𞋵",
+    "name": "WANCHO DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123638,
+    "char": "𞋶",
+    "name": "WANCHO DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123639,
+    "char": "𞋷",
+    "name": "WANCHO DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123640,
+    "char": "𞋸",
+    "name": "WANCHO DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123641,
+    "char": "𞋹",
+    "name": "WANCHO DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123647,
+    "char": "𞋿",
+    "name": "WANCHO NGUN SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

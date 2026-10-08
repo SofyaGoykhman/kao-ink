@@ -1,0 +1,754 @@
+[
+  {
+    "cp": 12593,
+    "char": "ㄱ",
+    "name": "HANGUL LETTER KIYEOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12594,
+    "char": "ㄲ",
+    "name": "HANGUL LETTER SSANGKIYEOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12595,
+    "char": "ㄳ",
+    "name": "HANGUL LETTER KIYEOK-SIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12596,
+    "char": "ㄴ",
+    "name": "HANGUL LETTER NIEUN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12597,
+    "char": "ㄵ",
+    "name": "HANGUL LETTER NIEUN-CIEUC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12598,
+    "char": "ㄶ",
+    "name": "HANGUL LETTER NIEUN-HIEUH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12599,
+    "char": "ㄷ",
+    "name": "HANGUL LETTER TIKEUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12600,
+    "char": "ㄸ",
+    "name": "HANGUL LETTER SSANGTIKEUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12601,
+    "char": "ㄹ",
+    "name": "HANGUL LETTER RIEUL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12602,
+    "char": "ㄺ",
+    "name": "HANGUL LETTER RIEUL-KIYEOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12603,
+    "char": "ㄻ",
+    "name": "HANGUL LETTER RIEUL-MIEUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12604,
+    "char": "ㄼ",
+    "name": "HANGUL LETTER RIEUL-PIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12605,
+    "char": "ㄽ",
+    "name": "HANGUL LETTER RIEUL-SIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12606,
+    "char": "ㄾ",
+    "name": "HANGUL LETTER RIEUL-THIEUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12607,
+    "char": "ㄿ",
+    "name": "HANGUL LETTER RIEUL-PHIEUPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12608,
+    "char": "ㅀ",
+    "name": "HANGUL LETTER RIEUL-HIEUH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12609,
+    "char": "ㅁ",
+    "name": "HANGUL LETTER MIEUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12610,
+    "char": "ㅂ",
+    "name": "HANGUL LETTER PIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12611,
+    "char": "ㅃ",
+    "name": "HANGUL LETTER SSANGPIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12612,
+    "char": "ㅄ",
+    "name": "HANGUL LETTER PIEUP-SIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12613,
+    "char": "ㅅ",
+    "name": "HANGUL LETTER SIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12614,
+    "char": "ㅆ",
+    "name": "HANGUL LETTER SSANGSIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12615,
+    "char": "ㅇ",
+    "name": "HANGUL LETTER IEUNG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12616,
+    "char": "ㅈ",
+    "name": "HANGUL LETTER CIEUC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12617,
+    "char": "ㅉ",
+    "name": "HANGUL LETTER SSANGCIEUC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12618,
+    "char": "ㅊ",
+    "name": "HANGUL LETTER CHIEUCH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12619,
+    "char": "ㅋ",
+    "name": "HANGUL LETTER KHIEUKH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12620,
+    "char": "ㅌ",
+    "name": "HANGUL LETTER THIEUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12621,
+    "char": "ㅍ",
+    "name": "HANGUL LETTER PHIEUPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12622,
+    "char": "ㅎ",
+    "name": "HANGUL LETTER HIEUH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12623,
+    "char": "ㅏ",
+    "name": "HANGUL LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12624,
+    "char": "ㅐ",
+    "name": "HANGUL LETTER AE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12625,
+    "char": "ㅑ",
+    "name": "HANGUL LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12626,
+    "char": "ㅒ",
+    "name": "HANGUL LETTER YAE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12627,
+    "char": "ㅓ",
+    "name": "HANGUL LETTER EO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12628,
+    "char": "ㅔ",
+    "name": "HANGUL LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12629,
+    "char": "ㅕ",
+    "name": "HANGUL LETTER YEO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12630,
+    "char": "ㅖ",
+    "name": "HANGUL LETTER YE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12631,
+    "char": "ㅗ",
+    "name": "HANGUL LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12632,
+    "char": "ㅘ",
+    "name": "HANGUL LETTER WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12633,
+    "char": "ㅙ",
+    "name": "HANGUL LETTER WAE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12634,
+    "char": "ㅚ",
+    "name": "HANGUL LETTER OE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12635,
+    "char": "ㅛ",
+    "name": "HANGUL LETTER YO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12636,
+    "char": "ㅜ",
+    "name": "HANGUL LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12637,
+    "char": "ㅝ",
+    "name": "HANGUL LETTER WEO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12638,
+    "char": "ㅞ",
+    "name": "HANGUL LETTER WE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12639,
+    "char": "ㅟ",
+    "name": "HANGUL LETTER WI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12640,
+    "char": "ㅠ",
+    "name": "HANGUL LETTER YU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12641,
+    "char": "ㅡ",
+    "name": "HANGUL LETTER EU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12642,
+    "char": "ㅢ",
+    "name": "HANGUL LETTER YI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12643,
+    "char": "ㅣ",
+    "name": "HANGUL LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12644,
+    "char": "ㅤ",
+    "name": "HANGUL FILLER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12645,
+    "char": "ㅥ",
+    "name": "HANGUL LETTER SSANGNIEUN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12646,
+    "char": "ㅦ",
+    "name": "HANGUL LETTER NIEUN-TIKEUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12647,
+    "char": "ㅧ",
+    "name": "HANGUL LETTER NIEUN-SIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12648,
+    "char": "ㅨ",
+    "name": "HANGUL LETTER NIEUN-PANSIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12649,
+    "char": "ㅩ",
+    "name": "HANGUL LETTER RIEUL-KIYEOK-SIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12650,
+    "char": "ㅪ",
+    "name": "HANGUL LETTER RIEUL-TIKEUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12651,
+    "char": "ㅫ",
+    "name": "HANGUL LETTER RIEUL-PIEUP-SIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12652,
+    "char": "ㅬ",
+    "name": "HANGUL LETTER RIEUL-PANSIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12653,
+    "char": "ㅭ",
+    "name": "HANGUL LETTER RIEUL-YEORINHIEUH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12654,
+    "char": "ㅮ",
+    "name": "HANGUL LETTER MIEUM-PIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12655,
+    "char": "ㅯ",
+    "name": "HANGUL LETTER MIEUM-SIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12656,
+    "char": "ㅰ",
+    "name": "HANGUL LETTER MIEUM-PANSIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12657,
+    "char": "ㅱ",
+    "name": "HANGUL LETTER KAPYEOUNMIEUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12658,
+    "char": "ㅲ",
+    "name": "HANGUL LETTER PIEUP-KIYEOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12659,
+    "char": "ㅳ",
+    "name": "HANGUL LETTER PIEUP-TIKEUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12660,
+    "char": "ㅴ",
+    "name": "HANGUL LETTER PIEUP-SIOS-KIYEOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12661,
+    "char": "ㅵ",
+    "name": "HANGUL LETTER PIEUP-SIOS-TIKEUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12662,
+    "char": "ㅶ",
+    "name": "HANGUL LETTER PIEUP-CIEUC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12663,
+    "char": "ㅷ",
+    "name": "HANGUL LETTER PIEUP-THIEUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12664,
+    "char": "ㅸ",
+    "name": "HANGUL LETTER KAPYEOUNPIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12665,
+    "char": "ㅹ",
+    "name": "HANGUL LETTER KAPYEOUNSSANGPIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12666,
+    "char": "ㅺ",
+    "name": "HANGUL LETTER SIOS-KIYEOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12667,
+    "char": "ㅻ",
+    "name": "HANGUL LETTER SIOS-NIEUN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12668,
+    "char": "ㅼ",
+    "name": "HANGUL LETTER SIOS-TIKEUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12669,
+    "char": "ㅽ",
+    "name": "HANGUL LETTER SIOS-PIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12670,
+    "char": "ㅾ",
+    "name": "HANGUL LETTER SIOS-CIEUC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12671,
+    "char": "ㅿ",
+    "name": "HANGUL LETTER PANSIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12672,
+    "char": "ㆀ",
+    "name": "HANGUL LETTER SSANGIEUNG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12673,
+    "char": "ㆁ",
+    "name": "HANGUL LETTER YESIEUNG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12674,
+    "char": "ㆂ",
+    "name": "HANGUL LETTER YESIEUNG-SIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12675,
+    "char": "ㆃ",
+    "name": "HANGUL LETTER YESIEUNG-PANSIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12676,
+    "char": "ㆄ",
+    "name": "HANGUL LETTER KAPYEOUNPHIEUPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12677,
+    "char": "ㆅ",
+    "name": "HANGUL LETTER SSANGHIEUH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12678,
+    "char": "ㆆ",
+    "name": "HANGUL LETTER YEORINHIEUH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12679,
+    "char": "ㆇ",
+    "name": "HANGUL LETTER YO-YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12680,
+    "char": "ㆈ",
+    "name": "HANGUL LETTER YO-YAE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12681,
+    "char": "ㆉ",
+    "name": "HANGUL LETTER YO-I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12682,
+    "char": "ㆊ",
+    "name": "HANGUL LETTER YU-YEO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12683,
+    "char": "ㆋ",
+    "name": "HANGUL LETTER YU-YE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12684,
+    "char": "ㆌ",
+    "name": "HANGUL LETTER YU-I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12685,
+    "char": "ㆍ",
+    "name": "HANGUL LETTER ARAEA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12686,
+    "char": "ㆎ",
+    "name": "HANGUL LETTER ARAEAE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

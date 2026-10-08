@@ -1,0 +1,42 @@
+[
+  {
+    "cp": 65529,
+    "char": "\ufff9",
+    "name": "INTERLINEAR ANNOTATION ANCHOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65530,
+    "char": "\ufffa",
+    "name": "INTERLINEAR ANNOTATION SEPARATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65531,
+    "char": "\ufffb",
+    "name": "INTERLINEAR ANNOTATION TERMINATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65532,
+    "char": "￼",
+    "name": "OBJECT REPLACEMENT CHARACTER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 65533,
+    "char": "�",
+    "name": "REPLACEMENT CHARACTER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

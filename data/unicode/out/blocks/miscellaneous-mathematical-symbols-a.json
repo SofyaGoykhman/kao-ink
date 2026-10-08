@@ -1,0 +1,386 @@
+[
+  {
+    "cp": 10176,
+    "char": "⟀",
+    "name": "THREE DIMENSIONAL ANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10177,
+    "char": "⟁",
+    "name": "WHITE TRIANGLE CONTAINING SMALL WHITE TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10178,
+    "char": "⟂",
+    "name": "PERPENDICULAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10179,
+    "char": "⟃",
+    "name": "OPEN SUBSET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10180,
+    "char": "⟄",
+    "name": "OPEN SUPERSET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10181,
+    "char": "⟅",
+    "name": "LEFT S-SHAPED BAG DELIMITER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10182,
+    "char": "⟆",
+    "name": "RIGHT S-SHAPED BAG DELIMITER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10183,
+    "char": "⟇",
+    "name": "OR WITH DOT INSIDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10184,
+    "char": "⟈",
+    "name": "REVERSE SOLIDUS PRECEDING SUBSET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10185,
+    "char": "⟉",
+    "name": "SUPERSET PRECEDING SOLIDUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10186,
+    "char": "⟊",
+    "name": "VERTICAL BAR WITH HORIZONTAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10187,
+    "char": "⟋",
+    "name": "MATHEMATICAL RISING DIAGONAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10188,
+    "char": "⟌",
+    "name": "LONG DIVISION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10189,
+    "char": "⟍",
+    "name": "MATHEMATICAL FALLING DIAGONAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10190,
+    "char": "⟎",
+    "name": "SQUARED LOGICAL AND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10191,
+    "char": "⟏",
+    "name": "SQUARED LOGICAL OR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10192,
+    "char": "⟐",
+    "name": "WHITE DIAMOND WITH CENTRED DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10193,
+    "char": "⟑",
+    "name": "AND WITH DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10194,
+    "char": "⟒",
+    "name": "ELEMENT OF OPENING UPWARDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10195,
+    "char": "⟓",
+    "name": "LOWER RIGHT CORNER WITH DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10196,
+    "char": "⟔",
+    "name": "UPPER LEFT CORNER WITH DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10197,
+    "char": "⟕",
+    "name": "LEFT OUTER JOIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10198,
+    "char": "⟖",
+    "name": "RIGHT OUTER JOIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10199,
+    "char": "⟗",
+    "name": "FULL OUTER JOIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10200,
+    "char": "⟘",
+    "name": "LARGE UP TACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10201,
+    "char": "⟙",
+    "name": "LARGE DOWN TACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10202,
+    "char": "⟚",
+    "name": "LEFT AND RIGHT DOUBLE TURNSTILE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10203,
+    "char": "⟛",
+    "name": "LEFT AND RIGHT TACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10204,
+    "char": "⟜",
+    "name": "LEFT MULTIMAP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10205,
+    "char": "⟝",
+    "name": "LONG RIGHT TACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10206,
+    "char": "⟞",
+    "name": "LONG LEFT TACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10207,
+    "char": "⟟",
+    "name": "UP TACK WITH CIRCLE ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10208,
+    "char": "⟠",
+    "name": "LOZENGE DIVIDED BY HORIZONTAL RULE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10209,
+    "char": "⟡",
+    "name": "WHITE CONCAVE-SIDED DIAMOND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10210,
+    "char": "⟢",
+    "name": "WHITE CONCAVE-SIDED DIAMOND WITH LEFTWARDS TICK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10211,
+    "char": "⟣",
+    "name": "WHITE CONCAVE-SIDED DIAMOND WITH RIGHTWARDS TICK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10212,
+    "char": "⟤",
+    "name": "WHITE SQUARE WITH LEFTWARDS TICK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10213,
+    "char": "⟥",
+    "name": "WHITE SQUARE WITH RIGHTWARDS TICK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10214,
+    "char": "⟦",
+    "name": "MATHEMATICAL LEFT WHITE SQUARE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10215,
+    "char": "⟧",
+    "name": "MATHEMATICAL RIGHT WHITE SQUARE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10216,
+    "char": "⟨",
+    "name": "MATHEMATICAL LEFT ANGLE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10217,
+    "char": "⟩",
+    "name": "MATHEMATICAL RIGHT ANGLE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10218,
+    "char": "⟪",
+    "name": "MATHEMATICAL LEFT DOUBLE ANGLE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10219,
+    "char": "⟫",
+    "name": "MATHEMATICAL RIGHT DOUBLE ANGLE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10220,
+    "char": "⟬",
+    "name": "MATHEMATICAL LEFT WHITE TORTOISE SHELL BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10221,
+    "char": "⟭",
+    "name": "MATHEMATICAL RIGHT WHITE TORTOISE SHELL BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10222,
+    "char": "⟮",
+    "name": "MATHEMATICAL LEFT FLATTENED PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10223,
+    "char": "⟯",
+    "name": "MATHEMATICAL RIGHT FLATTENED PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

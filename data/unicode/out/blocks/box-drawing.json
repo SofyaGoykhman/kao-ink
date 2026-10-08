@@ -1,0 +1,1026 @@
+[
+  {
+    "cp": 9472,
+    "char": "─",
+    "name": "BOX DRAWINGS LIGHT HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9473,
+    "char": "━",
+    "name": "BOX DRAWINGS HEAVY HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9474,
+    "char": "│",
+    "name": "BOX DRAWINGS LIGHT VERTICAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9475,
+    "char": "┃",
+    "name": "BOX DRAWINGS HEAVY VERTICAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9476,
+    "char": "┄",
+    "name": "BOX DRAWINGS LIGHT TRIPLE DASH HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9477,
+    "char": "┅",
+    "name": "BOX DRAWINGS HEAVY TRIPLE DASH HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9478,
+    "char": "┆",
+    "name": "BOX DRAWINGS LIGHT TRIPLE DASH VERTICAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9479,
+    "char": "┇",
+    "name": "BOX DRAWINGS HEAVY TRIPLE DASH VERTICAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9480,
+    "char": "┈",
+    "name": "BOX DRAWINGS LIGHT QUADRUPLE DASH HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9481,
+    "char": "┉",
+    "name": "BOX DRAWINGS HEAVY QUADRUPLE DASH HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9482,
+    "char": "┊",
+    "name": "BOX DRAWINGS LIGHT QUADRUPLE DASH VERTICAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9483,
+    "char": "┋",
+    "name": "BOX DRAWINGS HEAVY QUADRUPLE DASH VERTICAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9484,
+    "char": "┌",
+    "name": "BOX DRAWINGS LIGHT DOWN AND RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9485,
+    "char": "┍",
+    "name": "BOX DRAWINGS DOWN LIGHT AND RIGHT HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9486,
+    "char": "┎",
+    "name": "BOX DRAWINGS DOWN HEAVY AND RIGHT LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9487,
+    "char": "┏",
+    "name": "BOX DRAWINGS HEAVY DOWN AND RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9488,
+    "char": "┐",
+    "name": "BOX DRAWINGS LIGHT DOWN AND LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9489,
+    "char": "┑",
+    "name": "BOX DRAWINGS DOWN LIGHT AND LEFT HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9490,
+    "char": "┒",
+    "name": "BOX DRAWINGS DOWN HEAVY AND LEFT LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9491,
+    "char": "┓",
+    "name": "BOX DRAWINGS HEAVY DOWN AND LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9492,
+    "char": "└",
+    "name": "BOX DRAWINGS LIGHT UP AND RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9493,
+    "char": "┕",
+    "name": "BOX DRAWINGS UP LIGHT AND RIGHT HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9494,
+    "char": "┖",
+    "name": "BOX DRAWINGS UP HEAVY AND RIGHT LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9495,
+    "char": "┗",
+    "name": "BOX DRAWINGS HEAVY UP AND RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9496,
+    "char": "┘",
+    "name": "BOX DRAWINGS LIGHT UP AND LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9497,
+    "char": "┙",
+    "name": "BOX DRAWINGS UP LIGHT AND LEFT HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9498,
+    "char": "┚",
+    "name": "BOX DRAWINGS UP HEAVY AND LEFT LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9499,
+    "char": "┛",
+    "name": "BOX DRAWINGS HEAVY UP AND LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9500,
+    "char": "├",
+    "name": "BOX DRAWINGS LIGHT VERTICAL AND RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9501,
+    "char": "┝",
+    "name": "BOX DRAWINGS VERTICAL LIGHT AND RIGHT HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9502,
+    "char": "┞",
+    "name": "BOX DRAWINGS UP HEAVY AND RIGHT DOWN LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9503,
+    "char": "┟",
+    "name": "BOX DRAWINGS DOWN HEAVY AND RIGHT UP LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9504,
+    "char": "┠",
+    "name": "BOX DRAWINGS VERTICAL HEAVY AND RIGHT LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9505,
+    "char": "┡",
+    "name": "BOX DRAWINGS DOWN LIGHT AND RIGHT UP HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9506,
+    "char": "┢",
+    "name": "BOX DRAWINGS UP LIGHT AND RIGHT DOWN HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9507,
+    "char": "┣",
+    "name": "BOX DRAWINGS HEAVY VERTICAL AND RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9508,
+    "char": "┤",
+    "name": "BOX DRAWINGS LIGHT VERTICAL AND LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9509,
+    "char": "┥",
+    "name": "BOX DRAWINGS VERTICAL LIGHT AND LEFT HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9510,
+    "char": "┦",
+    "name": "BOX DRAWINGS UP HEAVY AND LEFT DOWN LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9511,
+    "char": "┧",
+    "name": "BOX DRAWINGS DOWN HEAVY AND LEFT UP LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9512,
+    "char": "┨",
+    "name": "BOX DRAWINGS VERTICAL HEAVY AND LEFT LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9513,
+    "char": "┩",
+    "name": "BOX DRAWINGS DOWN LIGHT AND LEFT UP HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9514,
+    "char": "┪",
+    "name": "BOX DRAWINGS UP LIGHT AND LEFT DOWN HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9515,
+    "char": "┫",
+    "name": "BOX DRAWINGS HEAVY VERTICAL AND LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9516,
+    "char": "┬",
+    "name": "BOX DRAWINGS LIGHT DOWN AND HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9517,
+    "char": "┭",
+    "name": "BOX DRAWINGS LEFT HEAVY AND RIGHT DOWN LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9518,
+    "char": "┮",
+    "name": "BOX DRAWINGS RIGHT HEAVY AND LEFT DOWN LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9519,
+    "char": "┯",
+    "name": "BOX DRAWINGS DOWN LIGHT AND HORIZONTAL HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9520,
+    "char": "┰",
+    "name": "BOX DRAWINGS DOWN HEAVY AND HORIZONTAL LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9521,
+    "char": "┱",
+    "name": "BOX DRAWINGS RIGHT LIGHT AND LEFT DOWN HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9522,
+    "char": "┲",
+    "name": "BOX DRAWINGS LEFT LIGHT AND RIGHT DOWN HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9523,
+    "char": "┳",
+    "name": "BOX DRAWINGS HEAVY DOWN AND HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9524,
+    "char": "┴",
+    "name": "BOX DRAWINGS LIGHT UP AND HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9525,
+    "char": "┵",
+    "name": "BOX DRAWINGS LEFT HEAVY AND RIGHT UP LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9526,
+    "char": "┶",
+    "name": "BOX DRAWINGS RIGHT HEAVY AND LEFT UP LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9527,
+    "char": "┷",
+    "name": "BOX DRAWINGS UP LIGHT AND HORIZONTAL HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9528,
+    "char": "┸",
+    "name": "BOX DRAWINGS UP HEAVY AND HORIZONTAL LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9529,
+    "char": "┹",
+    "name": "BOX DRAWINGS RIGHT LIGHT AND LEFT UP HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9530,
+    "char": "┺",
+    "name": "BOX DRAWINGS LEFT LIGHT AND RIGHT UP HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9531,
+    "char": "┻",
+    "name": "BOX DRAWINGS HEAVY UP AND HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9532,
+    "char": "┼",
+    "name": "BOX DRAWINGS LIGHT VERTICAL AND HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9533,
+    "char": "┽",
+    "name": "BOX DRAWINGS LEFT HEAVY AND RIGHT VERTICAL LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9534,
+    "char": "┾",
+    "name": "BOX DRAWINGS RIGHT HEAVY AND LEFT VERTICAL LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9535,
+    "char": "┿",
+    "name": "BOX DRAWINGS VERTICAL LIGHT AND HORIZONTAL HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9536,
+    "char": "╀",
+    "name": "BOX DRAWINGS UP HEAVY AND DOWN HORIZONTAL LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9537,
+    "char": "╁",
+    "name": "BOX DRAWINGS DOWN HEAVY AND UP HORIZONTAL LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9538,
+    "char": "╂",
+    "name": "BOX DRAWINGS VERTICAL HEAVY AND HORIZONTAL LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9539,
+    "char": "╃",
+    "name": "BOX DRAWINGS LEFT UP HEAVY AND RIGHT DOWN LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9540,
+    "char": "╄",
+    "name": "BOX DRAWINGS RIGHT UP HEAVY AND LEFT DOWN LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9541,
+    "char": "╅",
+    "name": "BOX DRAWINGS LEFT DOWN HEAVY AND RIGHT UP LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9542,
+    "char": "╆",
+    "name": "BOX DRAWINGS RIGHT DOWN HEAVY AND LEFT UP LIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9543,
+    "char": "╇",
+    "name": "BOX DRAWINGS DOWN LIGHT AND UP HORIZONTAL HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9544,
+    "char": "╈",
+    "name": "BOX DRAWINGS UP LIGHT AND DOWN HORIZONTAL HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9545,
+    "char": "╉",
+    "name": "BOX DRAWINGS RIGHT LIGHT AND LEFT VERTICAL HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9546,
+    "char": "╊",
+    "name": "BOX DRAWINGS LEFT LIGHT AND RIGHT VERTICAL HEAVY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9547,
+    "char": "╋",
+    "name": "BOX DRAWINGS HEAVY VERTICAL AND HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9548,
+    "char": "╌",
+    "name": "BOX DRAWINGS LIGHT DOUBLE DASH HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9549,
+    "char": "╍",
+    "name": "BOX DRAWINGS HEAVY DOUBLE DASH HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9550,
+    "char": "╎",
+    "name": "BOX DRAWINGS LIGHT DOUBLE DASH VERTICAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9551,
+    "char": "╏",
+    "name": "BOX DRAWINGS HEAVY DOUBLE DASH VERTICAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9552,
+    "char": "═",
+    "name": "BOX DRAWINGS DOUBLE HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9553,
+    "char": "║",
+    "name": "BOX DRAWINGS DOUBLE VERTICAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9554,
+    "char": "╒",
+    "name": "BOX DRAWINGS DOWN SINGLE AND RIGHT DOUBLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9555,
+    "char": "╓",
+    "name": "BOX DRAWINGS DOWN DOUBLE AND RIGHT SINGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9556,
+    "char": "╔",
+    "name": "BOX DRAWINGS DOUBLE DOWN AND RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9557,
+    "char": "╕",
+    "name": "BOX DRAWINGS DOWN SINGLE AND LEFT DOUBLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9558,
+    "char": "╖",
+    "name": "BOX DRAWINGS DOWN DOUBLE AND LEFT SINGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9559,
+    "char": "╗",
+    "name": "BOX DRAWINGS DOUBLE DOWN AND LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9560,
+    "char": "╘",
+    "name": "BOX DRAWINGS UP SINGLE AND RIGHT DOUBLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9561,
+    "char": "╙",
+    "name": "BOX DRAWINGS UP DOUBLE AND RIGHT SINGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9562,
+    "char": "╚",
+    "name": "BOX DRAWINGS DOUBLE UP AND RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9563,
+    "char": "╛",
+    "name": "BOX DRAWINGS UP SINGLE AND LEFT DOUBLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9564,
+    "char": "╜",
+    "name": "BOX DRAWINGS UP DOUBLE AND LEFT SINGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9565,
+    "char": "╝",
+    "name": "BOX DRAWINGS DOUBLE UP AND LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9566,
+    "char": "╞",
+    "name": "BOX DRAWINGS VERTICAL SINGLE AND RIGHT DOUBLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9567,
+    "char": "╟",
+    "name": "BOX DRAWINGS VERTICAL DOUBLE AND RIGHT SINGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9568,
+    "char": "╠",
+    "name": "BOX DRAWINGS DOUBLE VERTICAL AND RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9569,
+    "char": "╡",
+    "name": "BOX DRAWINGS VERTICAL SINGLE AND LEFT DOUBLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9570,
+    "char": "╢",
+    "name": "BOX DRAWINGS VERTICAL DOUBLE AND LEFT SINGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9571,
+    "char": "╣",
+    "name": "BOX DRAWINGS DOUBLE VERTICAL AND LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9572,
+    "char": "╤",
+    "name": "BOX DRAWINGS DOWN SINGLE AND HORIZONTAL DOUBLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9573,
+    "char": "╥",
+    "name": "BOX DRAWINGS DOWN DOUBLE AND HORIZONTAL SINGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9574,
+    "char": "╦",
+    "name": "BOX DRAWINGS DOUBLE DOWN AND HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9575,
+    "char": "╧",
+    "name": "BOX DRAWINGS UP SINGLE AND HORIZONTAL DOUBLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9576,
+    "char": "╨",
+    "name": "BOX DRAWINGS UP DOUBLE AND HORIZONTAL SINGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9577,
+    "char": "╩",
+    "name": "BOX DRAWINGS DOUBLE UP AND HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9578,
+    "char": "╪",
+    "name": "BOX DRAWINGS VERTICAL SINGLE AND HORIZONTAL DOUBLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9579,
+    "char": "╫",
+    "name": "BOX DRAWINGS VERTICAL DOUBLE AND HORIZONTAL SINGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9580,
+    "char": "╬",
+    "name": "BOX DRAWINGS DOUBLE VERTICAL AND HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9581,
+    "char": "╭",
+    "name": "BOX DRAWINGS LIGHT ARC DOWN AND RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9582,
+    "char": "╮",
+    "name": "BOX DRAWINGS LIGHT ARC DOWN AND LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9583,
+    "char": "╯",
+    "name": "BOX DRAWINGS LIGHT ARC UP AND LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9584,
+    "char": "╰",
+    "name": "BOX DRAWINGS LIGHT ARC UP AND RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9585,
+    "char": "╱",
+    "name": "BOX DRAWINGS LIGHT DIAGONAL UPPER RIGHT TO LOWER LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9586,
+    "char": "╲",
+    "name": "BOX DRAWINGS LIGHT DIAGONAL UPPER LEFT TO LOWER RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9587,
+    "char": "╳",
+    "name": "BOX DRAWINGS LIGHT DIAGONAL CROSS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9588,
+    "char": "╴",
+    "name": "BOX DRAWINGS LIGHT LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9589,
+    "char": "╵",
+    "name": "BOX DRAWINGS LIGHT UP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9590,
+    "char": "╶",
+    "name": "BOX DRAWINGS LIGHT RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9591,
+    "char": "╷",
+    "name": "BOX DRAWINGS LIGHT DOWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9592,
+    "char": "╸",
+    "name": "BOX DRAWINGS HEAVY LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9593,
+    "char": "╹",
+    "name": "BOX DRAWINGS HEAVY UP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9594,
+    "char": "╺",
+    "name": "BOX DRAWINGS HEAVY RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9595,
+    "char": "╻",
+    "name": "BOX DRAWINGS HEAVY DOWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9596,
+    "char": "╼",
+    "name": "BOX DRAWINGS LIGHT LEFT AND HEAVY RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9597,
+    "char": "╽",
+    "name": "BOX DRAWINGS LIGHT UP AND HEAVY DOWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9598,
+    "char": "╾",
+    "name": "BOX DRAWINGS HEAVY LEFT AND LIGHT RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9599,
+    "char": "╿",
+    "name": "BOX DRAWINGS HEAVY UP AND LIGHT DOWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]
