@@ -5,7 +5,9 @@
     "name": "N-ARY CIRCLED DOT OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10753,
@@ -13,7 +15,9 @@
     "name": "N-ARY CIRCLED PLUS OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10754,
@@ -21,7 +25,9 @@
     "name": "N-ARY CIRCLED TIMES OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10755,
@@ -29,7 +35,9 @@
     "name": "N-ARY UNION OPERATOR WITH DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10756,
@@ -37,7 +45,9 @@
     "name": "N-ARY UNION OPERATOR WITH PLUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10757,
@@ -45,7 +55,9 @@
     "name": "N-ARY SQUARE INTERSECTION OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10758,
@@ -53,7 +65,9 @@
     "name": "N-ARY SQUARE UNION OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10759,
@@ -61,7 +75,9 @@
     "name": "TWO LOGICAL AND OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10760,
@@ -69,7 +85,9 @@
     "name": "TWO LOGICAL OR OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10761,
@@ -77,7 +95,9 @@
     "name": "N-ARY TIMES OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10762,
@@ -85,7 +105,9 @@
     "name": "MODULO TWO SUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10763,
@@ -93,7 +115,9 @@
     "name": "SUMMATION WITH INTEGRAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10764,
@@ -101,7 +125,9 @@
     "name": "QUADRUPLE INTEGRAL OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10765,
@@ -109,7 +135,9 @@
     "name": "FINITE PART INTEGRAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10766,
@@ -117,7 +145,9 @@
     "name": "INTEGRAL WITH DOUBLE STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10767,
@@ -125,7 +155,9 @@
     "name": "INTEGRAL AVERAGE WITH SLASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10768,
@@ -133,7 +165,9 @@
     "name": "CIRCULATION FUNCTION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10769,
@@ -141,7 +175,9 @@
     "name": "ANTICLOCKWISE INTEGRATION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10770,
@@ -149,7 +185,9 @@
     "name": "LINE INTEGRATION WITH RECTANGULAR PATH AROUND POLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10771,
@@ -157,7 +195,9 @@
     "name": "LINE INTEGRATION WITH SEMICIRCULAR PATH AROUND POLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10772,
@@ -165,7 +205,9 @@
     "name": "LINE INTEGRATION NOT INCLUDING THE POLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10773,
@@ -173,7 +215,9 @@
     "name": "INTEGRAL AROUND A POINT OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10774,
@@ -181,7 +225,9 @@
     "name": "QUATERNION INTEGRAL OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10775,
@@ -189,7 +235,9 @@
     "name": "INTEGRAL WITH LEFTWARDS ARROW WITH HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10776,
@@ -197,7 +245,9 @@
     "name": "INTEGRAL WITH TIMES SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10777,
@@ -205,7 +255,9 @@
     "name": "INTEGRAL WITH INTERSECTION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10778,
@@ -213,7 +265,9 @@
     "name": "INTEGRAL WITH UNION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10779,
@@ -221,7 +275,9 @@
     "name": "INTEGRAL WITH OVERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10780,
@@ -229,7 +285,9 @@
     "name": "INTEGRAL WITH UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10781,
@@ -237,7 +295,9 @@
     "name": "JOIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10782,
@@ -245,7 +305,9 @@
     "name": "LARGE LEFT TRIANGLE OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10783,
@@ -253,7 +315,9 @@
     "name": "Z NOTATION SCHEMA COMPOSITION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10784,
@@ -261,7 +325,9 @@
     "name": "Z NOTATION SCHEMA PIPING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10785,
@@ -269,7 +335,9 @@
     "name": "Z NOTATION SCHEMA PROJECTION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10786,
@@ -277,7 +345,9 @@
     "name": "PLUS SIGN WITH SMALL CIRCLE ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10787,
@@ -285,7 +355,9 @@
     "name": "PLUS SIGN WITH CIRCUMFLEX ACCENT ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10788,
@@ -293,7 +365,9 @@
     "name": "PLUS SIGN WITH TILDE ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10789,
@@ -301,7 +375,9 @@
     "name": "PLUS SIGN WITH DOT BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10790,
@@ -309,7 +385,9 @@
     "name": "PLUS SIGN WITH TILDE BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10791,
@@ -320,7 +398,9 @@
     "keywords": {
       "ru": ["плюс с цифрой два в нижнем регистре"],
       "en": ["plus", "subscript", "two"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10792,
@@ -328,7 +408,9 @@
     "name": "PLUS SIGN WITH BLACK TRIANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10793,
@@ -336,7 +418,9 @@
     "name": "MINUS SIGN WITH COMMA ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10794,
@@ -344,7 +428,9 @@
     "name": "MINUS SIGN WITH DOT BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10795,
@@ -352,7 +438,9 @@
     "name": "MINUS SIGN WITH FALLING DOTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10796,
@@ -360,7 +448,9 @@
     "name": "MINUS SIGN WITH RISING DOTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10797,
@@ -368,7 +458,9 @@
     "name": "PLUS SIGN IN LEFT HALF CIRCLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10798,
@@ -376,7 +468,9 @@
     "name": "PLUS SIGN IN RIGHT HALF CIRCLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10799,
@@ -384,7 +478,9 @@
     "name": "VECTOR OR CROSS PRODUCT",
     "ru": "векторное произведение",
     "en": "vector cross product",
-    "keywords": { "ru": ["векторное произведение"], "en": ["cross", "product", "vector"] }
+    "keywords": { "ru": ["векторное произведение"], "en": ["cross", "product", "vector"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10800,
@@ -392,7 +488,9 @@
     "name": "MULTIPLICATION SIGN WITH DOT ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10801,
@@ -400,7 +498,9 @@
     "name": "MULTIPLICATION SIGN WITH UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10802,
@@ -408,7 +508,9 @@
     "name": "SEMIDIRECT PRODUCT WITH BOTTOM CLOSED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10803,
@@ -416,7 +518,9 @@
     "name": "SMASH PRODUCT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10804,
@@ -424,7 +528,9 @@
     "name": "MULTIPLICATION SIGN IN LEFT HALF CIRCLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10805,
@@ -432,7 +538,9 @@
     "name": "MULTIPLICATION SIGN IN RIGHT HALF CIRCLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10806,
@@ -440,7 +548,9 @@
     "name": "CIRCLED MULTIPLICATION SIGN WITH CIRCUMFLEX ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10807,
@@ -448,7 +558,9 @@
     "name": "MULTIPLICATION SIGN IN DOUBLE CIRCLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10808,
@@ -456,7 +568,9 @@
     "name": "CIRCLED DIVISION SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10809,
@@ -464,7 +578,9 @@
     "name": "PLUS SIGN IN TRIANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10810,
@@ -472,7 +588,9 @@
     "name": "MINUS SIGN IN TRIANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10811,
@@ -480,7 +598,9 @@
     "name": "MULTIPLICATION SIGN IN TRIANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10812,
@@ -488,7 +608,9 @@
     "name": "INTERIOR PRODUCT",
     "ru": "внутреннее произведение",
     "en": "interior product",
-    "keywords": { "ru": ["внутреннее произведение"], "en": ["interior", "product"] }
+    "keywords": { "ru": ["внутреннее произведение"], "en": ["interior", "product"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10813,
@@ -496,7 +618,9 @@
     "name": "RIGHTHAND INTERIOR PRODUCT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10814,
@@ -504,7 +628,9 @@
     "name": "Z NOTATION RELATIONAL COMPOSITION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10815,
@@ -512,7 +638,9 @@
     "name": "AMALGAMATION OR COPRODUCT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10816,
@@ -520,7 +648,9 @@
     "name": "INTERSECTION WITH DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10817,
@@ -528,7 +658,9 @@
     "name": "UNION WITH MINUS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10818,
@@ -536,7 +668,9 @@
     "name": "UNION WITH OVERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10819,
@@ -544,7 +678,9 @@
     "name": "INTERSECTION WITH OVERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10820,
@@ -552,7 +688,9 @@
     "name": "INTERSECTION WITH LOGICAL AND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10821,
@@ -560,7 +698,9 @@
     "name": "UNION WITH LOGICAL OR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10822,
@@ -568,7 +708,9 @@
     "name": "UNION ABOVE INTERSECTION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10823,
@@ -576,7 +718,9 @@
     "name": "INTERSECTION ABOVE UNION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10824,
@@ -584,7 +728,9 @@
     "name": "UNION ABOVE BAR ABOVE INTERSECTION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10825,
@@ -592,7 +738,9 @@
     "name": "INTERSECTION ABOVE BAR ABOVE UNION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10826,
@@ -600,7 +748,9 @@
     "name": "UNION BESIDE AND JOINED WITH UNION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10827,
@@ -608,7 +758,9 @@
     "name": "INTERSECTION BESIDE AND JOINED WITH INTERSECTION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10828,
@@ -616,7 +768,9 @@
     "name": "CLOSED UNION WITH SERIFS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10829,
@@ -624,7 +778,9 @@
     "name": "CLOSED INTERSECTION WITH SERIFS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10830,
@@ -632,7 +788,9 @@
     "name": "DOUBLE SQUARE INTERSECTION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10831,
@@ -640,7 +798,9 @@
     "name": "DOUBLE SQUARE UNION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10832,
@@ -648,7 +808,9 @@
     "name": "CLOSED UNION WITH SERIFS AND SMASH PRODUCT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10833,
@@ -656,7 +818,9 @@
     "name": "LOGICAL AND WITH DOT ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10834,
@@ -664,7 +828,9 @@
     "name": "LOGICAL OR WITH DOT ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10835,
@@ -672,7 +838,9 @@
     "name": "DOUBLE LOGICAL AND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10836,
@@ -680,7 +848,9 @@
     "name": "DOUBLE LOGICAL OR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10837,
@@ -688,7 +858,9 @@
     "name": "TWO INTERSECTING LOGICAL AND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10838,
@@ -696,7 +868,9 @@
     "name": "TWO INTERSECTING LOGICAL OR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10839,
@@ -704,7 +878,9 @@
     "name": "SLOPING LARGE OR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10840,
@@ -712,7 +888,9 @@
     "name": "SLOPING LARGE AND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10841,
@@ -720,7 +898,9 @@
     "name": "LOGICAL OR OVERLAPPING LOGICAL AND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10842,
@@ -728,7 +908,9 @@
     "name": "LOGICAL AND WITH MIDDLE STEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10843,
@@ -736,7 +918,9 @@
     "name": "LOGICAL OR WITH MIDDLE STEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10844,
@@ -744,7 +928,9 @@
     "name": "LOGICAL AND WITH HORIZONTAL DASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10845,
@@ -752,7 +938,9 @@
     "name": "LOGICAL OR WITH HORIZONTAL DASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10846,
@@ -760,7 +948,9 @@
     "name": "LOGICAL AND WITH DOUBLE OVERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10847,
@@ -768,7 +958,9 @@
     "name": "LOGICAL AND WITH UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10848,
@@ -776,7 +968,9 @@
     "name": "LOGICAL AND WITH DOUBLE UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10849,
@@ -784,7 +978,9 @@
     "name": "SMALL VEE WITH UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10850,
@@ -792,7 +988,9 @@
     "name": "LOGICAL OR WITH DOUBLE OVERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10851,
@@ -803,7 +1001,9 @@
     "keywords": {
       "ru": ["логическое или с двойным подчеркиванием"],
       "en": ["double", "logical", "or", "underbar"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10852,
@@ -811,7 +1011,9 @@
     "name": "Z NOTATION DOMAIN ANTIRESTRICTION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10853,
@@ -819,7 +1021,9 @@
     "name": "Z NOTATION RANGE ANTIRESTRICTION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10854,
@@ -827,7 +1031,9 @@
     "name": "EQUALS SIGN WITH DOT BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10855,
@@ -835,7 +1041,9 @@
     "name": "IDENTICAL WITH DOT ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10856,
@@ -843,7 +1051,9 @@
     "name": "TRIPLE HORIZONTAL BAR WITH DOUBLE VERTICAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10857,
@@ -851,7 +1061,9 @@
     "name": "TRIPLE HORIZONTAL BAR WITH TRIPLE VERTICAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10858,
@@ -859,7 +1071,9 @@
     "name": "TILDE OPERATOR WITH DOT ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10859,
@@ -867,7 +1081,9 @@
     "name": "TILDE OPERATOR WITH RISING DOTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10860,
@@ -875,7 +1091,9 @@
     "name": "SIMILAR MINUS SIMILAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10861,
@@ -883,7 +1101,9 @@
     "name": "CONGRUENT WITH DOT ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10862,
@@ -891,7 +1111,9 @@
     "name": "EQUALS WITH ASTERISK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10863,
@@ -899,7 +1121,9 @@
     "name": "ALMOST EQUAL TO WITH CIRCUMFLEX ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10864,
@@ -907,7 +1131,9 @@
     "name": "APPROXIMATELY EQUAL OR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10865,
@@ -915,7 +1141,9 @@
     "name": "EQUALS SIGN ABOVE PLUS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10866,
@@ -923,7 +1151,9 @@
     "name": "PLUS SIGN ABOVE EQUALS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10867,
@@ -931,7 +1161,9 @@
     "name": "EQUALS SIGN ABOVE TILDE OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10868,
@@ -939,7 +1171,9 @@
     "name": "DOUBLE COLON EQUAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10869,
@@ -947,7 +1181,9 @@
     "name": "TWO CONSECUTIVE EQUALS SIGNS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10870,
@@ -955,7 +1191,9 @@
     "name": "THREE CONSECUTIVE EQUALS SIGNS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10871,
@@ -963,7 +1201,9 @@
     "name": "EQUALS SIGN WITH TWO DOTS ABOVE AND TWO DOTS BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10872,
@@ -971,7 +1211,9 @@
     "name": "EQUIVALENT WITH FOUR DOTS ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10873,
@@ -979,7 +1221,9 @@
     "name": "LESS-THAN WITH CIRCLE INSIDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10874,
@@ -987,7 +1231,9 @@
     "name": "GREATER-THAN WITH CIRCLE INSIDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10875,
@@ -995,7 +1241,9 @@
     "name": "LESS-THAN WITH QUESTION MARK ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10876,
@@ -1003,7 +1251,9 @@
     "name": "GREATER-THAN WITH QUESTION MARK ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10877,
@@ -1014,7 +1264,9 @@
     "keywords": {
       "ru": ["меньше или равно", "меньше с наклонным равно"],
       "en": ["equal", "less-than", "slanted"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10878,
@@ -1022,7 +1274,9 @@
     "name": "GREATER-THAN OR SLANTED EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10879,
@@ -1030,7 +1284,9 @@
     "name": "LESS-THAN OR SLANTED EQUAL TO WITH DOT INSIDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10880,
@@ -1038,7 +1294,9 @@
     "name": "GREATER-THAN OR SLANTED EQUAL TO WITH DOT INSIDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10881,
@@ -1046,7 +1304,9 @@
     "name": "LESS-THAN OR SLANTED EQUAL TO WITH DOT ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10882,
@@ -1054,7 +1314,9 @@
     "name": "GREATER-THAN OR SLANTED EQUAL TO WITH DOT ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10883,
@@ -1062,7 +1324,9 @@
     "name": "LESS-THAN OR SLANTED EQUAL TO WITH DOT ABOVE RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10884,
@@ -1070,7 +1334,9 @@
     "name": "GREATER-THAN OR SLANTED EQUAL TO WITH DOT ABOVE LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10885,
@@ -1078,7 +1344,9 @@
     "name": "LESS-THAN OR APPROXIMATE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10886,
@@ -1086,7 +1354,9 @@
     "name": "GREATER-THAN OR APPROXIMATE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10887,
@@ -1094,7 +1364,9 @@
     "name": "LESS-THAN AND SINGLE-LINE NOT EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10888,
@@ -1102,7 +1374,9 @@
     "name": "GREATER-THAN AND SINGLE-LINE NOT EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10889,
@@ -1110,7 +1384,9 @@
     "name": "LESS-THAN AND NOT APPROXIMATE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10890,
@@ -1118,7 +1394,9 @@
     "name": "GREATER-THAN AND NOT APPROXIMATE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10891,
@@ -1126,7 +1404,9 @@
     "name": "LESS-THAN ABOVE DOUBLE-LINE EQUAL ABOVE GREATER-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10892,
@@ -1134,7 +1414,9 @@
     "name": "GREATER-THAN ABOVE DOUBLE-LINE EQUAL ABOVE LESS-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10893,
@@ -1145,7 +1427,9 @@
     "keywords": {
       "ru": ["меньше над асимптотически равно"],
       "en": ["above", "equal", "less-than", "similar"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10894,
@@ -1153,7 +1437,9 @@
     "name": "GREATER-THAN ABOVE SIMILAR OR EQUAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10895,
@@ -1161,7 +1447,9 @@
     "name": "LESS-THAN ABOVE SIMILAR ABOVE GREATER-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10896,
@@ -1169,7 +1457,9 @@
     "name": "GREATER-THAN ABOVE SIMILAR ABOVE LESS-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10897,
@@ -1177,7 +1467,9 @@
     "name": "LESS-THAN ABOVE GREATER-THAN ABOVE DOUBLE-LINE EQUAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10898,
@@ -1185,7 +1477,9 @@
     "name": "GREATER-THAN ABOVE LESS-THAN ABOVE DOUBLE-LINE EQUAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10899,
@@ -1193,7 +1487,9 @@
     "name": "LESS-THAN ABOVE SLANTED EQUAL ABOVE GREATER-THAN ABOVE SLANTED EQUAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10900,
@@ -1201,7 +1497,9 @@
     "name": "GREATER-THAN ABOVE SLANTED EQUAL ABOVE LESS-THAN ABOVE SLANTED EQUAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10901,
@@ -1209,7 +1507,9 @@
     "name": "SLANTED EQUAL TO OR LESS-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10902,
@@ -1217,7 +1517,9 @@
     "name": "SLANTED EQUAL TO OR GREATER-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10903,
@@ -1225,7 +1527,9 @@
     "name": "SLANTED EQUAL TO OR LESS-THAN WITH DOT INSIDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10904,
@@ -1233,7 +1537,9 @@
     "name": "SLANTED EQUAL TO OR GREATER-THAN WITH DOT INSIDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10905,
@@ -1241,7 +1547,9 @@
     "name": "DOUBLE-LINE EQUAL TO OR LESS-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10906,
@@ -1252,7 +1560,9 @@
     "keywords": {
       "ru": ["больше под равно", "математика", "неравенство"],
       "en": ["double-line", "equal", "greater-than", "inequality", "mathematics"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10907,
@@ -1260,7 +1570,9 @@
     "name": "DOUBLE-LINE SLANTED EQUAL TO OR LESS-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10908,
@@ -1268,7 +1580,9 @@
     "name": "DOUBLE-LINE SLANTED EQUAL TO OR GREATER-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10909,
@@ -1276,7 +1590,9 @@
     "name": "SIMILAR OR LESS-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10910,
@@ -1284,7 +1600,9 @@
     "name": "SIMILAR OR GREATER-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10911,
@@ -1292,7 +1610,9 @@
     "name": "SIMILAR ABOVE LESS-THAN ABOVE EQUALS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10912,
@@ -1300,7 +1620,9 @@
     "name": "SIMILAR ABOVE GREATER-THAN ABOVE EQUALS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10913,
@@ -1308,7 +1630,9 @@
     "name": "DOUBLE NESTED LESS-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10914,
@@ -1316,7 +1640,9 @@
     "name": "DOUBLE NESTED GREATER-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10915,
@@ -1324,7 +1650,9 @@
     "name": "DOUBLE NESTED LESS-THAN WITH UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10916,
@@ -1332,7 +1660,9 @@
     "name": "GREATER-THAN OVERLAPPING LESS-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10917,
@@ -1340,7 +1670,9 @@
     "name": "GREATER-THAN BESIDE LESS-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10918,
@@ -1348,7 +1680,9 @@
     "name": "LESS-THAN CLOSED BY CURVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10919,
@@ -1356,7 +1690,9 @@
     "name": "GREATER-THAN CLOSED BY CURVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10920,
@@ -1364,7 +1700,9 @@
     "name": "LESS-THAN CLOSED BY CURVE ABOVE SLANTED EQUAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10921,
@@ -1372,7 +1710,9 @@
     "name": "GREATER-THAN CLOSED BY CURVE ABOVE SLANTED EQUAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10922,
@@ -1380,7 +1720,9 @@
     "name": "SMALLER THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10923,
@@ -1388,7 +1730,9 @@
     "name": "LARGER THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10924,
@@ -1396,7 +1740,9 @@
     "name": "SMALLER THAN OR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10925,
@@ -1404,7 +1750,9 @@
     "name": "LARGER THAN OR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10926,
@@ -1412,7 +1760,9 @@
     "name": "EQUALS SIGN WITH BUMPY ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10927,
@@ -1420,7 +1770,9 @@
     "name": "PRECEDES ABOVE SINGLE-LINE EQUALS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10928,
@@ -1428,7 +1780,9 @@
     "name": "SUCCEEDS ABOVE SINGLE-LINE EQUALS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10929,
@@ -1436,7 +1790,9 @@
     "name": "PRECEDES ABOVE SINGLE-LINE NOT EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10930,
@@ -1444,7 +1800,9 @@
     "name": "SUCCEEDS ABOVE SINGLE-LINE NOT EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10931,
@@ -1452,7 +1810,9 @@
     "name": "PRECEDES ABOVE EQUALS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10932,
@@ -1460,7 +1820,9 @@
     "name": "SUCCEEDS ABOVE EQUALS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10933,
@@ -1468,7 +1830,9 @@
     "name": "PRECEDES ABOVE NOT EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10934,
@@ -1476,7 +1840,9 @@
     "name": "SUCCEEDS ABOVE NOT EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10935,
@@ -1484,7 +1850,9 @@
     "name": "PRECEDES ABOVE ALMOST EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10936,
@@ -1492,7 +1860,9 @@
     "name": "SUCCEEDS ABOVE ALMOST EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10937,
@@ -1500,7 +1870,9 @@
     "name": "PRECEDES ABOVE NOT ALMOST EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10938,
@@ -1511,7 +1883,9 @@
     "keywords": {
       "ru": ["следует над приблизительно не равно"],
       "en": ["above", "almost", "equal", "not", "succeeds"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10939,
@@ -1519,7 +1893,9 @@
     "name": "DOUBLE PRECEDES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10940,
@@ -1527,7 +1903,9 @@
     "name": "DOUBLE SUCCEEDS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10941,
@@ -1535,7 +1913,9 @@
     "name": "SUBSET WITH DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10942,
@@ -1543,7 +1923,9 @@
     "name": "SUPERSET WITH DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10943,
@@ -1551,7 +1933,9 @@
     "name": "SUBSET WITH PLUS SIGN BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10944,
@@ -1559,7 +1943,9 @@
     "name": "SUPERSET WITH PLUS SIGN BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10945,
@@ -1567,7 +1953,9 @@
     "name": "SUBSET WITH MULTIPLICATION SIGN BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10946,
@@ -1575,7 +1963,9 @@
     "name": "SUPERSET WITH MULTIPLICATION SIGN BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10947,
@@ -1583,7 +1973,9 @@
     "name": "SUBSET OF OR EQUAL TO WITH DOT ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10948,
@@ -1591,7 +1983,9 @@
     "name": "SUPERSET OF OR EQUAL TO WITH DOT ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10949,
@@ -1599,7 +1993,9 @@
     "name": "SUBSET OF ABOVE EQUALS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10950,
@@ -1607,7 +2003,9 @@
     "name": "SUPERSET OF ABOVE EQUALS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10951,
@@ -1615,7 +2013,9 @@
     "name": "SUBSET OF ABOVE TILDE OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10952,
@@ -1623,7 +2023,9 @@
     "name": "SUPERSET OF ABOVE TILDE OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10953,
@@ -1631,7 +2033,9 @@
     "name": "SUBSET OF ABOVE ALMOST EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10954,
@@ -1639,7 +2043,9 @@
     "name": "SUPERSET OF ABOVE ALMOST EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10955,
@@ -1647,7 +2053,9 @@
     "name": "SUBSET OF ABOVE NOT EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10956,
@@ -1655,7 +2063,9 @@
     "name": "SUPERSET OF ABOVE NOT EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10957,
@@ -1663,7 +2073,9 @@
     "name": "SQUARE LEFT OPEN BOX OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10958,
@@ -1671,7 +2083,9 @@
     "name": "SQUARE RIGHT OPEN BOX OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10959,
@@ -1679,7 +2093,9 @@
     "name": "CLOSED SUBSET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10960,
@@ -1687,7 +2103,9 @@
     "name": "CLOSED SUPERSET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10961,
@@ -1695,7 +2113,9 @@
     "name": "CLOSED SUBSET OR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10962,
@@ -1703,7 +2123,9 @@
     "name": "CLOSED SUPERSET OR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10963,
@@ -1711,7 +2133,9 @@
     "name": "SUBSET ABOVE SUPERSET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10964,
@@ -1719,7 +2143,9 @@
     "name": "SUPERSET ABOVE SUBSET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10965,
@@ -1727,7 +2153,9 @@
     "name": "SUBSET ABOVE SUBSET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10966,
@@ -1735,7 +2163,9 @@
     "name": "SUPERSET ABOVE SUPERSET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10967,
@@ -1743,7 +2173,9 @@
     "name": "SUPERSET BESIDE SUBSET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10968,
@@ -1751,7 +2183,9 @@
     "name": "SUPERSET BESIDE AND JOINED BY DASH WITH SUBSET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10969,
@@ -1759,7 +2193,9 @@
     "name": "ELEMENT OF OPENING DOWNWARDS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10970,
@@ -1767,7 +2203,9 @@
     "name": "PITCHFORK WITH TEE TOP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10971,
@@ -1775,7 +2213,9 @@
     "name": "TRANSVERSAL INTERSECTION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10972,
@@ -1783,7 +2223,9 @@
     "name": "FORKING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10973,
@@ -1791,7 +2233,9 @@
     "name": "NONFORKING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10974,
@@ -1799,7 +2243,9 @@
     "name": "SHORT LEFT TACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10975,
@@ -1807,7 +2253,9 @@
     "name": "SHORT DOWN TACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10976,
@@ -1815,7 +2263,9 @@
     "name": "SHORT UP TACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10977,
@@ -1823,7 +2273,9 @@
     "name": "PERPENDICULAR WITH S",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10978,
@@ -1831,7 +2283,9 @@
     "name": "VERTICAL BAR TRIPLE RIGHT TURNSTILE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10979,
@@ -1839,7 +2293,9 @@
     "name": "DOUBLE VERTICAL BAR LEFT TURNSTILE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10980,
@@ -1847,7 +2303,9 @@
     "name": "VERTICAL BAR DOUBLE LEFT TURNSTILE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10981,
@@ -1855,7 +2313,9 @@
     "name": "DOUBLE VERTICAL BAR DOUBLE LEFT TURNSTILE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10982,
@@ -1863,7 +2323,9 @@
     "name": "LONG DASH FROM LEFT MEMBER OF DOUBLE VERTICAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10983,
@@ -1871,7 +2333,9 @@
     "name": "SHORT DOWN TACK WITH OVERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10984,
@@ -1879,7 +2343,9 @@
     "name": "SHORT UP TACK WITH UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10985,
@@ -1887,7 +2353,9 @@
     "name": "SHORT UP TACK ABOVE SHORT DOWN TACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10986,
@@ -1895,7 +2363,9 @@
     "name": "DOUBLE DOWN TACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10987,
@@ -1903,7 +2373,9 @@
     "name": "DOUBLE UP TACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10988,
@@ -1911,7 +2383,9 @@
     "name": "DOUBLE STROKE NOT SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10989,
@@ -1919,7 +2393,9 @@
     "name": "REVERSED DOUBLE STROKE NOT SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10990,
@@ -1927,7 +2403,9 @@
     "name": "DOES NOT DIVIDE WITH REVERSED NEGATION SLASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10991,
@@ -1935,7 +2413,9 @@
     "name": "VERTICAL LINE WITH CIRCLE ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10992,
@@ -1943,7 +2423,9 @@
     "name": "VERTICAL LINE WITH CIRCLE BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10993,
@@ -1951,7 +2433,9 @@
     "name": "DOWN TACK WITH CIRCLE BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10994,
@@ -1959,7 +2443,9 @@
     "name": "PARALLEL WITH HORIZONTAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10995,
@@ -1967,7 +2453,9 @@
     "name": "PARALLEL WITH TILDE OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10996,
@@ -1975,7 +2463,9 @@
     "name": "TRIPLE VERTICAL BAR BINARY RELATION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10997,
@@ -1983,7 +2473,9 @@
     "name": "TRIPLE VERTICAL BAR WITH HORIZONTAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10998,
@@ -1991,7 +2483,9 @@
     "name": "TRIPLE COLON OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10999,
@@ -1999,7 +2493,9 @@
     "name": "TRIPLE NESTED LESS-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 11000,
@@ -2007,7 +2503,9 @@
     "name": "TRIPLE NESTED GREATER-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 11001,
@@ -2015,7 +2513,9 @@
     "name": "DOUBLE-LINE SLANTED LESS-THAN OR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 11002,
@@ -2023,7 +2523,9 @@
     "name": "DOUBLE-LINE SLANTED GREATER-THAN OR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 11003,
@@ -2031,7 +2533,9 @@
     "name": "TRIPLE SOLIDUS BINARY RELATION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 11004,
@@ -2039,7 +2543,9 @@
     "name": "LARGE TRIPLE VERTICAL BAR OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 11005,
@@ -2047,7 +2553,9 @@
     "name": "DOUBLE SOLIDUS OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 11006,
@@ -2055,7 +2563,9 @@
     "name": "WHITE VERTICAL BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 11007,
@@ -2063,6 +2573,8 @@
     "name": "N-ARY WHITE VERTICAL BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   }
 ]

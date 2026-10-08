@@ -5,7 +5,9 @@
     "name": "TANGUT ITERATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 94177,
@@ -13,7 +15,9 @@
     "name": "NUSHU ITERATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 94178,
@@ -21,7 +25,9 @@
     "name": "OLD CHINESE HOOK MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 94179,
@@ -29,7 +35,9 @@
     "name": "OLD CHINESE ITERATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 94180,
@@ -37,7 +45,9 @@
     "name": "KHITAN SMALL SCRIPT FILLER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 94192,
@@ -45,7 +55,9 @@
     "name": "VIETNAMESE ALTERNATE READING MARK CA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 94193,
@@ -53,7 +65,9 @@
     "name": "VIETNAMESE ALTERNATE READING MARK NHAY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 94194,
@@ -61,7 +75,9 @@
     "name": "CHINESE SMALL SIMPLIFIED ER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 94195,
@@ -69,7 +85,9 @@
     "name": "CHINESE SMALL TRADITIONAL ER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 94196,
@@ -77,7 +95,9 @@
     "name": "YANGQIN SIGN SLOW ONE BEAT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 94197,
@@ -85,7 +105,9 @@
     "name": "YANGQIN SIGN SLOW THREE HALF BEATS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 94198,
@@ -93,6 +115,8 @@
     "name": "YANGQIN SIGN SLOW TWO BEATS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   }
 ]

@@ -5,7 +5,9 @@
     "name": "OCR HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9281,
@@ -13,7 +15,9 @@
     "name": "OCR CHAIR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9282,
@@ -21,7 +25,9 @@
     "name": "OCR FORK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9283,
@@ -29,7 +35,9 @@
     "name": "OCR INVERTED FORK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9284,
@@ -37,7 +45,9 @@
     "name": "OCR BELT BUCKLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9285,
@@ -45,7 +55,9 @@
     "name": "OCR BOW TIE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9286,
@@ -53,7 +65,9 @@
     "name": "OCR BRANCH BANK IDENTIFICATION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9287,
@@ -61,7 +75,9 @@
     "name": "OCR AMOUNT OF CHECK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9288,
@@ -69,7 +85,9 @@
     "name": "OCR DASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9289,
@@ -77,7 +95,9 @@
     "name": "OCR CUSTOMER ACCOUNT NUMBER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9290,
@@ -85,6 +105,8 @@
     "name": "OCR DOUBLE BACKSLASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   }
 ]

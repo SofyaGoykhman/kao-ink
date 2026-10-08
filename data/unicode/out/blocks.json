@@ -644,7 +644,7 @@
     "name": "Miscellaneous Technical",
     "ru": "Разные технические символы",
     "range": [8960, 9215],
-    "count": 256,
+    "count": 248,
     "group": "technical"
   },
   {
@@ -692,7 +692,7 @@
     "name": "Geometric Shapes",
     "ru": "Геометрические фигуры",
     "range": [9632, 9727],
-    "count": 96,
+    "count": 94,
     "group": "shapes"
   },
   {
@@ -700,7 +700,7 @@
     "name": "Miscellaneous Symbols",
     "ru": "Разные символы",
     "range": [9728, 9983],
-    "count": 256,
+    "count": 225,
     "group": "symbols"
   },
   {
@@ -708,7 +708,7 @@
     "name": "Dingbats",
     "ru": "Типографские значки (дингбаты)",
     "range": [9984, 10175],
-    "count": 192,
+    "count": 177,
     "group": "symbols"
   },
   {
@@ -764,7 +764,7 @@
     "name": "Miscellaneous Symbols and Arrows",
     "ru": "Разные символы и стрелки",
     "range": [11008, 11263],
-    "count": 254,
+    "count": 250,
     "group": "arrows"
   },
   {
@@ -2593,7 +2593,7 @@
     "name": "Mahjong Tiles",
     "ru": "Кости маджонга",
     "range": [126976, 127023],
-    "count": 44,
+    "count": 43,
     "group": "games"
   },
   {
@@ -2609,7 +2609,7 @@
     "name": "Playing Cards",
     "ru": "Игральные карты",
     "range": [127136, 127231],
-    "count": 82,
+    "count": 81,
     "group": "games"
   },
   {
@@ -2617,7 +2617,7 @@
     "name": "Enclosed Alphanumeric Supplement",
     "ru": "Буквы и цифры в рамках, дополнение",
     "range": [127232, 127487],
-    "count": 201,
+    "count": 160,
     "group": "symbols"
   },
   {
@@ -2625,7 +2625,7 @@
     "name": "Enclosed Ideographic Supplement",
     "ru": "Иероглифы в рамках, дополнение",
     "range": [127488, 127743],
-    "count": 64,
+    "count": 49,
     "group": "cjk"
   },
   {
@@ -2633,15 +2633,7 @@
     "name": "Miscellaneous Symbols and Pictographs",
     "ru": "Разные символы и пиктограммы",
     "range": [127744, 128511],
-    "count": 768,
-    "group": "emoji"
-  },
-  {
-    "id": "emoticons",
-    "name": "Emoticons",
-    "ru": "Смайлики",
-    "range": [128512, 128591],
-    "count": 80,
+    "count": 131,
     "group": "emoji"
   },
   {
@@ -2657,7 +2649,7 @@
     "name": "Transport and Map Symbols",
     "ru": "Транспорт и карты",
     "range": [128640, 128767],
-    "count": 120,
+    "count": 13,
     "group": "emoji"
   },
   {
@@ -2673,7 +2665,7 @@
     "name": "Geometric Shapes Extended",
     "ru": "Геометрические фигуры, расширение",
     "range": [128896, 129023],
-    "count": 120,
+    "count": 107,
     "group": "shapes"
   },
   {
@@ -2689,7 +2681,7 @@
     "name": "Supplemental Symbols and Pictographs",
     "ru": "Дополнительные символы и пиктограммы",
     "range": [129280, 129535],
-    "count": 256,
+    "count": 14,
     "group": "emoji"
   },
   {
@@ -2699,14 +2691,6 @@
     "range": [129536, 129647],
     "count": 102,
     "group": "games"
-  },
-  {
-    "id": "symbols-and-pictographs-extended-a",
-    "name": "Symbols and Pictographs Extended-A",
-    "ru": "Символы и пиктограммы, расширение A",
-    "range": [129648, 129791],
-    "count": 128,
-    "group": "emoji"
   },
   {
     "id": "symbols-for-legacy-computing",

@@ -5,7 +5,9 @@
     "name": "LANGUAGE TAG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917536,
@@ -13,7 +15,9 @@
     "name": "TAG SPACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917537,
@@ -21,7 +25,9 @@
     "name": "TAG EXCLAMATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917538,
@@ -29,7 +35,9 @@
     "name": "TAG QUOTATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917539,
@@ -37,7 +45,9 @@
     "name": "TAG NUMBER SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917540,
@@ -45,7 +55,9 @@
     "name": "TAG DOLLAR SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917541,
@@ -53,7 +65,9 @@
     "name": "TAG PERCENT SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917542,
@@ -61,7 +75,9 @@
     "name": "TAG AMPERSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917543,
@@ -69,7 +85,9 @@
     "name": "TAG APOSTROPHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917544,
@@ -77,7 +95,9 @@
     "name": "TAG LEFT PARENTHESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917545,
@@ -85,7 +105,9 @@
     "name": "TAG RIGHT PARENTHESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917546,
@@ -93,7 +115,9 @@
     "name": "TAG ASTERISK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917547,
@@ -101,7 +125,9 @@
     "name": "TAG PLUS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917548,
@@ -109,7 +135,9 @@
     "name": "TAG COMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917549,
@@ -117,7 +145,9 @@
     "name": "TAG HYPHEN-MINUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917550,
@@ -125,7 +155,9 @@
     "name": "TAG FULL STOP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917551,
@@ -133,7 +165,9 @@
     "name": "TAG SOLIDUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917552,
@@ -141,7 +175,9 @@
     "name": "TAG DIGIT ZERO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917553,
@@ -149,7 +185,9 @@
     "name": "TAG DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917554,
@@ -157,7 +195,9 @@
     "name": "TAG DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917555,
@@ -165,7 +205,9 @@
     "name": "TAG DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917556,
@@ -173,7 +215,9 @@
     "name": "TAG DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917557,
@@ -181,7 +225,9 @@
     "name": "TAG DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917558,
@@ -189,7 +235,9 @@
     "name": "TAG DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917559,
@@ -197,7 +245,9 @@
     "name": "TAG DIGIT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917560,
@@ -205,7 +255,9 @@
     "name": "TAG DIGIT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917561,
@@ -213,7 +265,9 @@
     "name": "TAG DIGIT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917562,
@@ -221,7 +275,9 @@
     "name": "TAG COLON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917563,
@@ -229,7 +285,9 @@
     "name": "TAG SEMICOLON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917564,
@@ -237,7 +295,9 @@
     "name": "TAG LESS-THAN SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917565,
@@ -245,7 +305,9 @@
     "name": "TAG EQUALS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917566,
@@ -253,7 +315,9 @@
     "name": "TAG GREATER-THAN SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917567,
@@ -261,7 +325,9 @@
     "name": "TAG QUESTION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917568,
@@ -269,7 +335,9 @@
     "name": "TAG COMMERCIAL AT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917569,
@@ -277,7 +345,9 @@
     "name": "TAG LATIN CAPITAL LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917570,
@@ -285,7 +355,9 @@
     "name": "TAG LATIN CAPITAL LETTER B",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917571,
@@ -293,7 +365,9 @@
     "name": "TAG LATIN CAPITAL LETTER C",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917572,
@@ -301,7 +375,9 @@
     "name": "TAG LATIN CAPITAL LETTER D",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917573,
@@ -309,7 +385,9 @@
     "name": "TAG LATIN CAPITAL LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917574,
@@ -317,7 +395,9 @@
     "name": "TAG LATIN CAPITAL LETTER F",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917575,
@@ -325,7 +405,9 @@
     "name": "TAG LATIN CAPITAL LETTER G",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917576,
@@ -333,7 +415,9 @@
     "name": "TAG LATIN CAPITAL LETTER H",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917577,
@@ -341,7 +425,9 @@
     "name": "TAG LATIN CAPITAL LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917578,
@@ -349,7 +435,9 @@
     "name": "TAG LATIN CAPITAL LETTER J",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917579,
@@ -357,7 +445,9 @@
     "name": "TAG LATIN CAPITAL LETTER K",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917580,
@@ -365,7 +455,9 @@
     "name": "TAG LATIN CAPITAL LETTER L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917581,
@@ -373,7 +465,9 @@
     "name": "TAG LATIN CAPITAL LETTER M",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917582,
@@ -381,7 +475,9 @@
     "name": "TAG LATIN CAPITAL LETTER N",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917583,
@@ -389,7 +485,9 @@
     "name": "TAG LATIN CAPITAL LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917584,
@@ -397,7 +495,9 @@
     "name": "TAG LATIN CAPITAL LETTER P",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917585,
@@ -405,7 +505,9 @@
     "name": "TAG LATIN CAPITAL LETTER Q",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917586,
@@ -413,7 +515,9 @@
     "name": "TAG LATIN CAPITAL LETTER R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917587,
@@ -421,7 +525,9 @@
     "name": "TAG LATIN CAPITAL LETTER S",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917588,
@@ -429,7 +535,9 @@
     "name": "TAG LATIN CAPITAL LETTER T",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917589,
@@ -437,7 +545,9 @@
     "name": "TAG LATIN CAPITAL LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917590,
@@ -445,7 +555,9 @@
     "name": "TAG LATIN CAPITAL LETTER V",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917591,
@@ -453,7 +565,9 @@
     "name": "TAG LATIN CAPITAL LETTER W",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917592,
@@ -461,7 +575,9 @@
     "name": "TAG LATIN CAPITAL LETTER X",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917593,
@@ -469,7 +585,9 @@
     "name": "TAG LATIN CAPITAL LETTER Y",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917594,
@@ -477,7 +595,9 @@
     "name": "TAG LATIN CAPITAL LETTER Z",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917595,
@@ -485,7 +605,9 @@
     "name": "TAG LEFT SQUARE BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917596,
@@ -493,7 +615,9 @@
     "name": "TAG REVERSE SOLIDUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917597,
@@ -501,7 +625,9 @@
     "name": "TAG RIGHT SQUARE BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917598,
@@ -509,7 +635,9 @@
     "name": "TAG CIRCUMFLEX ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917599,
@@ -517,7 +645,9 @@
     "name": "TAG LOW LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917600,
@@ -525,7 +655,9 @@
     "name": "TAG GRAVE ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917601,
@@ -533,7 +665,9 @@
     "name": "TAG LATIN SMALL LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917602,
@@ -541,7 +675,9 @@
     "name": "TAG LATIN SMALL LETTER B",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917603,
@@ -549,7 +685,9 @@
     "name": "TAG LATIN SMALL LETTER C",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917604,
@@ -557,7 +695,9 @@
     "name": "TAG LATIN SMALL LETTER D",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917605,
@@ -565,7 +705,9 @@
     "name": "TAG LATIN SMALL LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917606,
@@ -573,7 +715,9 @@
     "name": "TAG LATIN SMALL LETTER F",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917607,
@@ -581,7 +725,9 @@
     "name": "TAG LATIN SMALL LETTER G",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917608,
@@ -589,7 +735,9 @@
     "name": "TAG LATIN SMALL LETTER H",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917609,
@@ -597,7 +745,9 @@
     "name": "TAG LATIN SMALL LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917610,
@@ -605,7 +755,9 @@
     "name": "TAG LATIN SMALL LETTER J",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917611,
@@ -613,7 +765,9 @@
     "name": "TAG LATIN SMALL LETTER K",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917612,
@@ -621,7 +775,9 @@
     "name": "TAG LATIN SMALL LETTER L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917613,
@@ -629,7 +785,9 @@
     "name": "TAG LATIN SMALL LETTER M",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917614,
@@ -637,7 +795,9 @@
     "name": "TAG LATIN SMALL LETTER N",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917615,
@@ -645,7 +805,9 @@
     "name": "TAG LATIN SMALL LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917616,
@@ -653,7 +815,9 @@
     "name": "TAG LATIN SMALL LETTER P",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917617,
@@ -661,7 +825,9 @@
     "name": "TAG LATIN SMALL LETTER Q",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917618,
@@ -669,7 +835,9 @@
     "name": "TAG LATIN SMALL LETTER R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917619,
@@ -677,7 +845,9 @@
     "name": "TAG LATIN SMALL LETTER S",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917620,
@@ -685,7 +855,9 @@
     "name": "TAG LATIN SMALL LETTER T",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917621,
@@ -693,7 +865,9 @@
     "name": "TAG LATIN SMALL LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917622,
@@ -701,7 +875,9 @@
     "name": "TAG LATIN SMALL LETTER V",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917623,
@@ -709,7 +885,9 @@
     "name": "TAG LATIN SMALL LETTER W",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917624,
@@ -717,7 +895,9 @@
     "name": "TAG LATIN SMALL LETTER X",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917625,
@@ -725,7 +905,9 @@
     "name": "TAG LATIN SMALL LETTER Y",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917626,
@@ -733,7 +915,9 @@
     "name": "TAG LATIN SMALL LETTER Z",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917627,
@@ -741,7 +925,9 @@
     "name": "TAG LEFT CURLY BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917628,
@@ -749,7 +935,9 @@
     "name": "TAG VERTICAL LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917629,
@@ -757,7 +945,9 @@
     "name": "TAG RIGHT CURLY BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917630,
@@ -765,7 +955,9 @@
     "name": "TAG TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 917631,
@@ -773,6 +965,8 @@
     "name": "CANCEL TAG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   }
 ]

@@ -5,7 +5,9 @@
     "name": "BLACK SAFETY SCISSORS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9985,
@@ -13,7 +15,9 @@
     "name": "UPPER BLADE SCISSORS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9986,
@@ -24,7 +28,9 @@
     "keywords": {
       "ru": ["инструмент", "ножницы", "резать"],
       "en": ["cut", "cutting", "paper", "scissors", "tool"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9987,
@@ -32,7 +38,9 @@
     "name": "LOWER BLADE SCISSORS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9988,
@@ -40,30 +48,9 @@
     "name": "WHITE SCISSORS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
-  },
-  {
-    "cp": 9989,
-    "char": "✅",
-    "name": "WHITE HEAVY CHECK MARK",
-    "ru": "белая галочка",
-    "en": "check mark button",
-    "keywords": {
-      "ru": ["белая", "галочка", "готово", "знак", "проверено", "проверка", "сделано"],
-      "en": [
-        "✓",
-        "button",
-        "check",
-        "checked",
-        "checkmark",
-        "complete",
-        "completed",
-        "done",
-        "fixed",
-        "mark",
-        "tick"
-      ]
-    }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9990,
@@ -71,7 +58,9 @@
     "name": "TELEPHONE LOCATION SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9991,
@@ -79,7 +68,9 @@
     "name": "TAPE DRIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9992,
@@ -90,7 +81,9 @@
     "keywords": {
       "ru": ["воздух", "крылья", "перевозки", "самолет"],
       "en": ["aeroplane", "airplane", "fly", "flying", "jet", "plane", "travel"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9993,
@@ -101,29 +94,9 @@
     "keywords": {
       "ru": ["конверт", "письмо", "почта", "сообщение", "электронное"],
       "en": ["e-mail", "email", "envelope", "letter"]
-    }
-  },
-  {
-    "cp": 9994,
-    "char": "✊",
-    "name": "RAISED FIST",
-    "ru": "поднятый кулак",
-    "en": "raised fist",
-    "keywords": {
-      "ru": ["кулак", "пальцы", "поднятый кулак", "рука", "удар"],
-      "en": ["clenched", "fist", "hand", "punch", "raised", "solidarity"]
-    }
-  },
-  {
-    "cp": 9995,
-    "char": "✋",
-    "name": "RAISED HAND",
-    "ru": "поднятая ладонь",
-    "en": "raised hand",
-    "keywords": {
-      "ru": ["вверх", "ладонь", "пальцы", "поднятая", "пять", "рука", "стоп"],
-      "en": ["5", "five", "hand", "high", "raised", "stop"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9996,
@@ -134,7 +107,9 @@
     "keywords": {
       "ru": ["виктория", "жест", "мир", "пальцы", "победа", "рука"],
       "en": ["hand", "peace", "v", "victory"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9997,
@@ -145,7 +120,9 @@
     "keywords": {
       "ru": ["бумага", "написать", "писать", "письмо", "пишет", "пишу", "пишущая", "рука", "ручка"],
       "en": ["hand", "write", "writing"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9998,
@@ -153,7 +130,9 @@
     "name": "LOWER RIGHT PENCIL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9999,
@@ -161,7 +140,9 @@
     "name": "PENCIL",
     "ru": "карандаш",
     "en": "pencil",
-    "keywords": { "ru": ["грифель", "карандаш", "простой", "рисовать"], "en": ["pencil"] }
+    "keywords": { "ru": ["грифель", "карандаш", "простой", "рисовать"], "en": ["pencil"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10000,
@@ -169,7 +150,9 @@
     "name": "UPPER RIGHT PENCIL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10001,
@@ -177,7 +160,9 @@
     "name": "WHITE NIB",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10002,
@@ -188,7 +173,9 @@
     "keywords": {
       "ru": ["кончик пера", "перо", "перьевая ручка", "перьевой наконечник", "письмо", "ручка"],
       "en": ["black", "nib", "pen"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10003,
@@ -196,7 +183,9 @@
     "name": "CHECK MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10004,
@@ -218,7 +207,9 @@
         "черный"
       ],
       "en": ["✓", "check", "checked", "checkmark", "done", "heavy", "mark", "tick"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10005,
@@ -226,7 +217,9 @@
     "name": "MULTIPLICATION X",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10006,
@@ -237,7 +230,9 @@
     "keywords": {
       "ru": ["знак", "отмена", "отмены", "умножение", "умножения", "х"],
       "en": ["×", "cancel", "multiplication", "multiply", "sign", "x"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10007,
@@ -245,7 +240,9 @@
     "name": "BALLOT X",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10008,
@@ -253,7 +250,9 @@
     "name": "HEAVY BALLOT X",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10009,
@@ -261,7 +260,9 @@
     "name": "OUTLINED GREEK CROSS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10010,
@@ -269,7 +270,9 @@
     "name": "HEAVY GREEK CROSS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10011,
@@ -277,7 +280,9 @@
     "name": "OPEN CENTRE CROSS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10012,
@@ -285,7 +290,9 @@
     "name": "HEAVY OPEN CENTRE CROSS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10013,
@@ -296,7 +303,9 @@
     "keywords": {
       "ru": ["крест", "латинский", "религия", "христианский", "христианство"],
       "en": ["christ", "Christian", "cross", "latin", "religion"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10014,
@@ -304,7 +313,9 @@
     "name": "SHADOWED WHITE LATIN CROSS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10015,
@@ -312,7 +323,9 @@
     "name": "OUTLINED LATIN CROSS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10016,
@@ -320,7 +333,9 @@
     "name": "MALTESE CROSS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10017,
@@ -331,7 +346,9 @@
     "keywords": {
       "ru": ["вера", "давид", "еврей", "звезда", "иудаизм", "религия", "шестиконечная"],
       "en": ["David", "Jew", "Jewish", "judaism", "religion", "star"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10018,
@@ -339,7 +356,9 @@
     "name": "FOUR TEARDROP-SPOKED ASTERISK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10019,
@@ -347,7 +366,9 @@
     "name": "FOUR BALLOON-SPOKED ASTERISK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10020,
@@ -355,7 +376,9 @@
     "name": "HEAVY FOUR BALLOON-SPOKED ASTERISK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10021,
@@ -363,7 +386,9 @@
     "name": "FOUR CLUB-SPOKED ASTERISK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10022,
@@ -371,7 +396,9 @@
     "name": "BLACK FOUR POINTED STAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10023,
@@ -379,18 +406,9 @@
     "name": "WHITE FOUR POINTED STAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
-  },
-  {
-    "cp": 10024,
-    "char": "✨",
-    "name": "SPARKLES",
-    "ru": "блестки",
-    "en": "sparkles",
-    "keywords": {
-      "ru": ["блестка", "блестки", "звезда", "звезды", "искры", "мерцание", "свет"],
-      "en": ["*", "magic", "sparkle", "sparkles", "star"]
-    }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10025,
@@ -398,7 +416,9 @@
     "name": "STRESS OUTLINED WHITE STAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10026,
@@ -406,7 +426,9 @@
     "name": "CIRCLED WHITE STAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10027,
@@ -414,7 +436,9 @@
     "name": "OPEN CENTRE BLACK STAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10028,
@@ -422,7 +446,9 @@
     "name": "BLACK CENTRE WHITE STAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10029,
@@ -430,7 +456,9 @@
     "name": "OUTLINED BLACK STAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10030,
@@ -438,7 +466,9 @@
     "name": "HEAVY OUTLINED BLACK STAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10031,
@@ -446,7 +476,9 @@
     "name": "PINWHEEL STAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10032,
@@ -454,7 +486,9 @@
     "name": "SHADOWED WHITE STAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10033,
@@ -462,7 +496,9 @@
     "name": "HEAVY ASTERISK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10034,
@@ -470,7 +506,9 @@
     "name": "OPEN CENTRE ASTERISK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10035,
@@ -481,7 +519,9 @@
     "keywords": {
       "ru": ["восьмиконечная", "звезда", "звездочка"],
       "en": ["*", "asterisk", "eight-spoked"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10036,
@@ -489,7 +529,9 @@
     "name": "EIGHT POINTED BLACK STAR",
     "ru": "восьмиконечная звезда",
     "en": "eight-pointed star",
-    "keywords": { "ru": ["восьмиконечная", "звезда"], "en": ["*", "eight-pointed", "star"] }
+    "keywords": { "ru": ["восьмиконечная", "звезда"], "en": ["*", "eight-pointed", "star"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10037,
@@ -497,7 +539,9 @@
     "name": "EIGHT POINTED PINWHEEL STAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10038,
@@ -505,7 +549,9 @@
     "name": "SIX POINTED BLACK STAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10039,
@@ -513,7 +559,9 @@
     "name": "EIGHT POINTED RECTILINEAR BLACK STAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10040,
@@ -521,7 +569,9 @@
     "name": "HEAVY EIGHT POINTED RECTILINEAR BLACK STAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10041,
@@ -529,7 +579,9 @@
     "name": "TWELVE POINTED BLACK STAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10042,
@@ -537,7 +589,9 @@
     "name": "SIXTEEN POINTED ASTERISK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10043,
@@ -545,7 +599,9 @@
     "name": "TEARDROP-SPOKED ASTERISK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10044,
@@ -553,7 +609,9 @@
     "name": "OPEN CENTRE TEARDROP-SPOKED ASTERISK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10045,
@@ -561,7 +619,9 @@
     "name": "HEAVY TEARDROP-SPOKED ASTERISK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10046,
@@ -569,7 +629,9 @@
     "name": "SIX PETALLED BLACK AND WHITE FLORETTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10047,
@@ -577,7 +639,9 @@
     "name": "BLACK FLORETTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10048,
@@ -585,7 +649,9 @@
     "name": "WHITE FLORETTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10049,
@@ -593,7 +659,9 @@
     "name": "EIGHT PETALLED OUTLINED BLACK FLORETTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10050,
@@ -601,7 +669,9 @@
     "name": "CIRCLED OPEN CENTRE EIGHT POINTED STAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10051,
@@ -609,7 +679,9 @@
     "name": "HEAVY TEARDROP-SPOKED PINWHEEL ASTERISK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10052,
@@ -620,7 +692,9 @@
     "keywords": {
       "ru": ["зима", "небо", "рисунок", "снег", "снежинка", "снежок", "холод", "холодно"],
       "en": ["cold", "snow", "snowflake", "weather"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10053,
@@ -628,7 +702,9 @@
     "name": "TIGHT TRIFOLIATE SNOWFLAKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10054,
@@ -636,7 +712,9 @@
     "name": "HEAVY CHEVRON SNOWFLAKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10055,
@@ -644,7 +722,9 @@
     "name": "SPARKLE",
     "ru": "искра",
     "en": "sparkle",
-    "keywords": { "ru": ["искра", "мерцание"], "en": ["*", "sparkle"] }
+    "keywords": { "ru": ["искра", "мерцание"], "en": ["*", "sparkle"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10056,
@@ -652,7 +732,9 @@
     "name": "HEAVY SPARKLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10057,
@@ -660,7 +742,9 @@
     "name": "BALLOON-SPOKED ASTERISK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10058,
@@ -668,7 +752,9 @@
     "name": "EIGHT TEARDROP-SPOKED PROPELLER ASTERISK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10059,
@@ -676,18 +762,9 @@
     "name": "HEAVY EIGHT TEARDROP-SPOKED PROPELLER ASTERISK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
-  },
-  {
-    "cp": 10060,
-    "char": "❌",
-    "name": "CROSS MARK",
-    "ru": "крестик",
-    "en": "cross mark",
-    "keywords": {
-      "ru": ["закрытие", "значок", "крестик", "отмена", "умножение"],
-      "en": ["×", "cancel", "cross", "mark", "multiplication", "multiply", "x"]
-    }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10061,
@@ -695,26 +772,9 @@
     "name": "SHADOWED WHITE CIRCLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
-  },
-  {
-    "cp": 10062,
-    "char": "❎",
-    "name": "NEGATIVE SQUARED CROSS MARK",
-    "ru": "кнопка «крестик»",
-    "en": "cross mark button",
-    "keywords": {
-      "ru": [
-        "закрытие",
-        "квадрат",
-        "кнопка",
-        "кнопка \"крестик\"",
-        "кнопка «крестик»",
-        "крестик",
-        "умножение"
-      ],
-      "en": ["×", "button", "cross", "mark", "multiplication", "multiply", "square", "x"]
-    }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10063,
@@ -722,7 +782,9 @@
     "name": "LOWER RIGHT DROP-SHADOWED WHITE SQUARE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10064,
@@ -730,7 +792,9 @@
     "name": "UPPER RIGHT DROP-SHADOWED WHITE SQUARE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10065,
@@ -738,7 +802,9 @@
     "name": "LOWER RIGHT SHADOWED WHITE SQUARE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10066,
@@ -746,48 +812,9 @@
     "name": "UPPER RIGHT SHADOWED WHITE SQUARE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
-  },
-  {
-    "cp": 10067,
-    "char": "❓",
-    "name": "BLACK QUESTION MARK ORNAMENT",
-    "ru": "красный вопросительный знак",
-    "en": "red question mark",
-    "keywords": {
-      "ru": ["вопрос", "вопроса", "вопросительный", "знак", "красный", "пунктуация"],
-      "en": ["?", "mark", "punctuation", "question", "red"]
-    }
-  },
-  {
-    "cp": 10068,
-    "char": "❔",
-    "name": "WHITE QUESTION MARK ORNAMENT",
-    "ru": "белый вопросительный знак",
-    "en": "white question mark",
-    "keywords": {
-      "ru": ["?", "белый", "вопрос", "вопросительный", "знак", "пунктуация"],
-      "en": ["?", "mark", "outlined", "punctuation", "question", "white"]
-    }
-  },
-  {
-    "cp": 10069,
-    "char": "❕",
-    "name": "WHITE EXCLAMATION MARK ORNAMENT",
-    "ru": "белый восклицательный знак",
-    "en": "white exclamation mark",
-    "keywords": {
-      "ru": [
-        "белый",
-        "белый восклицательный знак",
-        "восклицание",
-        "восклицательный знак",
-        "восклицать",
-        "знак",
-        "пунктуация"
-      ],
-      "en": ["!", "exclamation", "mark", "outlined", "punctuation", "white"]
-    }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10070,
@@ -795,18 +822,9 @@
     "name": "BLACK DIAMOND MINUS WHITE X",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
-  },
-  {
-    "cp": 10071,
-    "char": "❗",
-    "name": "HEAVY EXCLAMATION MARK SYMBOL",
-    "ru": "красный восклицательный знак",
-    "en": "red exclamation mark",
-    "keywords": {
-      "ru": ["восклицание", "восклицательный знак", "знак", "красный", "пунктуация"],
-      "en": ["!", "exclamation", "mark", "punctuation", "red"]
-    }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10072,
@@ -814,7 +832,9 @@
     "name": "LIGHT VERTICAL BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10073,
@@ -822,7 +842,9 @@
     "name": "MEDIUM VERTICAL BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10074,
@@ -830,7 +852,9 @@
     "name": "HEAVY VERTICAL BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10075,
@@ -838,7 +862,9 @@
     "name": "HEAVY SINGLE TURNED COMMA QUOTATION MARK ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10076,
@@ -846,7 +872,9 @@
     "name": "HEAVY SINGLE COMMA QUOTATION MARK ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10077,
@@ -854,7 +882,9 @@
     "name": "HEAVY DOUBLE TURNED COMMA QUOTATION MARK ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10078,
@@ -862,7 +892,9 @@
     "name": "HEAVY DOUBLE COMMA QUOTATION MARK ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10079,
@@ -870,7 +902,9 @@
     "name": "HEAVY LOW SINGLE COMMA QUOTATION MARK ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10080,
@@ -878,7 +912,9 @@
     "name": "HEAVY LOW DOUBLE COMMA QUOTATION MARK ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10081,
@@ -886,7 +922,9 @@
     "name": "CURVED STEM PARAGRAPH SIGN ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10082,
@@ -894,7 +932,9 @@
     "name": "HEAVY EXCLAMATION MARK ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10083,
@@ -912,7 +952,9 @@
         "сердце в виде восклицательного знака"
       ],
       "en": ["exclamation", "heart", "heavy", "mark", "punctuation"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10084,
@@ -923,7 +965,9 @@
     "keywords": {
       "ru": ["красное", "любовь", "свидание", "сердце", "чувства", "эмоции"],
       "en": ["emotion", "heart", "love", "red"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10085,
@@ -931,7 +975,9 @@
     "name": "ROTATED HEAVY BLACK HEART BULLET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10086,
@@ -939,7 +985,9 @@
     "name": "FLORAL HEART",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10087,
@@ -947,7 +995,9 @@
     "name": "ROTATED FLORAL HEART BULLET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10088,
@@ -955,7 +1005,9 @@
     "name": "MEDIUM LEFT PARENTHESIS ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10089,
@@ -963,7 +1015,9 @@
     "name": "MEDIUM RIGHT PARENTHESIS ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10090,
@@ -971,7 +1025,9 @@
     "name": "MEDIUM FLATTENED LEFT PARENTHESIS ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10091,
@@ -979,7 +1035,9 @@
     "name": "MEDIUM FLATTENED RIGHT PARENTHESIS ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10092,
@@ -987,7 +1045,9 @@
     "name": "MEDIUM LEFT-POINTING ANGLE BRACKET ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10093,
@@ -995,7 +1055,9 @@
     "name": "MEDIUM RIGHT-POINTING ANGLE BRACKET ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10094,
@@ -1003,7 +1065,9 @@
     "name": "HEAVY LEFT-POINTING ANGLE QUOTATION MARK ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10095,
@@ -1011,7 +1075,9 @@
     "name": "HEAVY RIGHT-POINTING ANGLE QUOTATION MARK ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10096,
@@ -1019,7 +1085,9 @@
     "name": "HEAVY LEFT-POINTING ANGLE BRACKET ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10097,
@@ -1027,7 +1095,9 @@
     "name": "HEAVY RIGHT-POINTING ANGLE BRACKET ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10098,
@@ -1035,7 +1105,9 @@
     "name": "LIGHT LEFT TORTOISE SHELL BRACKET ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10099,
@@ -1043,7 +1115,9 @@
     "name": "LIGHT RIGHT TORTOISE SHELL BRACKET ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10100,
@@ -1051,7 +1125,9 @@
     "name": "MEDIUM LEFT CURLY BRACKET ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10101,
@@ -1059,7 +1135,9 @@
     "name": "MEDIUM RIGHT CURLY BRACKET ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10102,
@@ -1067,7 +1145,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10103,
@@ -1075,7 +1155,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10104,
@@ -1083,7 +1165,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10105,
@@ -1091,7 +1175,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10106,
@@ -1099,7 +1185,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10107,
@@ -1107,7 +1195,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10108,
@@ -1115,7 +1205,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED DIGIT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10109,
@@ -1123,7 +1215,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED DIGIT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10110,
@@ -1131,7 +1225,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED DIGIT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10111,
@@ -1139,7 +1235,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED NUMBER TEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10112,
@@ -1147,7 +1245,9 @@
     "name": "DINGBAT CIRCLED SANS-SERIF DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10113,
@@ -1155,7 +1255,9 @@
     "name": "DINGBAT CIRCLED SANS-SERIF DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10114,
@@ -1163,7 +1265,9 @@
     "name": "DINGBAT CIRCLED SANS-SERIF DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10115,
@@ -1171,7 +1275,9 @@
     "name": "DINGBAT CIRCLED SANS-SERIF DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10116,
@@ -1179,7 +1285,9 @@
     "name": "DINGBAT CIRCLED SANS-SERIF DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10117,
@@ -1187,7 +1295,9 @@
     "name": "DINGBAT CIRCLED SANS-SERIF DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10118,
@@ -1195,7 +1305,9 @@
     "name": "DINGBAT CIRCLED SANS-SERIF DIGIT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10119,
@@ -1203,7 +1315,9 @@
     "name": "DINGBAT CIRCLED SANS-SERIF DIGIT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10120,
@@ -1211,7 +1325,9 @@
     "name": "DINGBAT CIRCLED SANS-SERIF DIGIT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10121,
@@ -1219,7 +1335,9 @@
     "name": "DINGBAT CIRCLED SANS-SERIF NUMBER TEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10122,
@@ -1227,7 +1345,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10123,
@@ -1235,7 +1355,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10124,
@@ -1243,7 +1365,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10125,
@@ -1251,7 +1375,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10126,
@@ -1259,7 +1385,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10127,
@@ -1267,7 +1395,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10128,
@@ -1275,7 +1405,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10129,
@@ -1283,7 +1415,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10130,
@@ -1291,7 +1425,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10131,
@@ -1299,7 +1435,9 @@
     "name": "DINGBAT NEGATIVE CIRCLED SANS-SERIF NUMBER TEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10132,
@@ -1307,40 +1445,9 @@
     "name": "HEAVY WIDE-HEADED RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
-  },
-  {
-    "cp": 10133,
-    "char": "➕",
-    "name": "HEAVY PLUS SIGN",
-    "ru": "знак сложения",
-    "en": "plus",
-    "keywords": {
-      "ru": ["добавить", "знак", "плюс", "прибавить", "сложение", "сложения"],
-      "en": ["+", "plus"]
-    }
-  },
-  {
-    "cp": 10134,
-    "char": "➖",
-    "name": "HEAVY MINUS SIGN",
-    "ru": "знак вычитания",
-    "en": "minus",
-    "keywords": {
-      "ru": ["вычесть", "вычитание", "вычитания", "знак", "минус", "отнять"],
-      "en": ["-", "−", "heavy", "math", "minus", "sign"]
-    }
-  },
-  {
-    "cp": 10135,
-    "char": "➗",
-    "name": "HEAVY DIVISION SIGN",
-    "ru": "знак деления",
-    "en": "divide",
-    "keywords": {
-      "ru": ["деление", "деления", "делить", "знак", "разделить"],
-      "en": ["÷", "divide", "division", "heavy", "math", "sign"]
-    }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10136,
@@ -1348,7 +1455,9 @@
     "name": "HEAVY SOUTH EAST ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10137,
@@ -1356,7 +1465,9 @@
     "name": "HEAVY RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10138,
@@ -1364,7 +1475,9 @@
     "name": "HEAVY NORTH EAST ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10139,
@@ -1372,7 +1485,9 @@
     "name": "DRAFTING POINT RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10140,
@@ -1380,7 +1495,9 @@
     "name": "HEAVY ROUND-TIPPED RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10141,
@@ -1388,7 +1505,9 @@
     "name": "TRIANGLE-HEADED RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10142,
@@ -1396,7 +1515,9 @@
     "name": "HEAVY TRIANGLE-HEADED RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10143,
@@ -1404,7 +1525,9 @@
     "name": "DASHED TRIANGLE-HEADED RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10144,
@@ -1412,7 +1535,9 @@
     "name": "HEAVY DASHED TRIANGLE-HEADED RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10145,
@@ -1423,7 +1548,9 @@
     "keywords": {
       "ru": ["восток", "вправо", "направление", "стрелка"],
       "en": ["arrow", "cardinal", "direction", "east", "right"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10146,
@@ -1431,7 +1558,9 @@
     "name": "THREE-D TOP-LIGHTED RIGHTWARDS ARROWHEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10147,
@@ -1439,7 +1568,9 @@
     "name": "THREE-D BOTTOM-LIGHTED RIGHTWARDS ARROWHEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10148,
@@ -1447,7 +1578,9 @@
     "name": "BLACK RIGHTWARDS ARROWHEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10149,
@@ -1455,7 +1588,9 @@
     "name": "HEAVY BLACK CURVED DOWNWARDS AND RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10150,
@@ -1463,7 +1598,9 @@
     "name": "HEAVY BLACK CURVED UPWARDS AND RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10151,
@@ -1471,7 +1608,9 @@
     "name": "SQUAT BLACK RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10152,
@@ -1479,7 +1618,9 @@
     "name": "HEAVY CONCAVE-POINTED BLACK RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10153,
@@ -1487,7 +1628,9 @@
     "name": "RIGHT-SHADED WHITE RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10154,
@@ -1495,7 +1638,9 @@
     "name": "LEFT-SHADED WHITE RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10155,
@@ -1503,7 +1648,9 @@
     "name": "BACK-TILTED SHADOWED WHITE RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10156,
@@ -1511,7 +1658,9 @@
     "name": "FRONT-TILTED SHADOWED WHITE RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10157,
@@ -1519,7 +1668,9 @@
     "name": "HEAVY LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10158,
@@ -1527,7 +1678,9 @@
     "name": "HEAVY UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10159,
@@ -1535,15 +1688,9 @@
     "name": "NOTCHED LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
-  },
-  {
-    "cp": 10160,
-    "char": "➰",
-    "name": "CURLY LOOP",
-    "ru": "петля",
-    "en": "curly loop",
-    "keywords": { "ru": ["значок", "петелька", "петля"], "en": ["curl", "curly", "loop"] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10161,
@@ -1551,7 +1698,9 @@
     "name": "NOTCHED UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10162,
@@ -1559,7 +1708,9 @@
     "name": "CIRCLED HEAVY WHITE RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10163,
@@ -1567,7 +1718,9 @@
     "name": "WHITE-FEATHERED RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10164,
@@ -1575,7 +1728,9 @@
     "name": "BLACK-FEATHERED SOUTH EAST ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10165,
@@ -1583,7 +1738,9 @@
     "name": "BLACK-FEATHERED RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10166,
@@ -1591,7 +1748,9 @@
     "name": "BLACK-FEATHERED NORTH EAST ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10167,
@@ -1599,7 +1758,9 @@
     "name": "HEAVY BLACK-FEATHERED SOUTH EAST ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10168,
@@ -1607,7 +1768,9 @@
     "name": "HEAVY BLACK-FEATHERED RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10169,
@@ -1615,7 +1778,9 @@
     "name": "HEAVY BLACK-FEATHERED NORTH EAST ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10170,
@@ -1623,7 +1788,9 @@
     "name": "TEARDROP-BARBED RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10171,
@@ -1631,7 +1798,9 @@
     "name": "HEAVY TEARDROP-SHANKED RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10172,
@@ -1639,7 +1808,9 @@
     "name": "WEDGE-TAILED RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10173,
@@ -1647,7 +1818,9 @@
     "name": "HEAVY WEDGE-TAILED RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 10174,
@@ -1655,17 +1828,8 @@
     "name": "OPEN-OUTLINED RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
-  },
-  {
-    "cp": 10175,
-    "char": "➿",
-    "name": "DOUBLE CURLY LOOP",
-    "ru": "двойная петля",
-    "en": "double curly loop",
-    "keywords": {
-      "ru": ["две", "двойная", "петелька", "петельки", "петли", "петля"],
-      "en": ["curl", "curly", "double", "loop"]
-    }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   }
 ]

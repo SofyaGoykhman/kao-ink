@@ -5,7 +5,9 @@
     "name": "BLACK SQUARE",
     "ru": "закрашенный квадрат",
     "en": "filled square",
-    "keywords": { "ru": ["закрашенный квадрат"], "en": ["filled", "square"] }
+    "keywords": { "ru": ["закрашенный квадрат"], "en": ["filled", "square"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9633,
@@ -13,7 +15,9 @@
     "name": "WHITE SQUARE",
     "ru": "полый квадрат",
     "en": "hollow square",
-    "keywords": { "ru": ["полый квадрат"], "en": ["hollow", "square"] }
+    "keywords": { "ru": ["полый квадрат"], "en": ["hollow", "square"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9634,
@@ -24,7 +28,9 @@
     "keywords": {
       "ru": ["полый квадрат с закругленными углами"],
       "en": ["corners", "hollow", "rounded", "square", "with"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9635,
@@ -35,7 +41,9 @@
     "keywords": {
       "ru": ["закрашенный квадрат внутри полого квадрата"],
       "en": ["containing", "filled", "hollow", "square"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9636,
@@ -46,7 +54,9 @@
     "keywords": {
       "ru": ["квадрат с горизонтальной штриховкой"],
       "en": ["fill", "horizontal", "square", "with"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9637,
@@ -57,7 +67,9 @@
     "keywords": {
       "ru": ["квадрат с вертикальной штриховкой"],
       "en": ["fill", "square", "vertical", "with"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9638,
@@ -68,7 +80,9 @@
     "keywords": {
       "ru": ["квадрат с ортогональной перекрестной штриховкой"],
       "en": ["crosshatch", "fill", "orthogonal", "square"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9639,
@@ -79,7 +93,9 @@
     "keywords": {
       "ru": ["квадрат с диагональной штриховкой слева направо"],
       "en": ["fill", "left", "lower", "right", "square", "upper"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9640,
@@ -90,7 +106,9 @@
     "keywords": {
       "ru": ["квадрат с диагональной штриховкой справа налево"],
       "en": ["fill", "left", "lower", "right", "square", "upper"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9641,
@@ -101,7 +119,9 @@
     "keywords": {
       "ru": ["квадрат с диагональной перекрестной штриховкой"],
       "en": ["crosshatch", "diagonal", "fill", "square"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9642,
@@ -112,7 +132,9 @@
     "keywords": {
       "ru": ["геометрия", "квадрат", "квадратик", "маленький", "фигура", "черный"],
       "en": ["black", "geometric", "small", "square"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9643,
@@ -123,7 +145,9 @@
     "keywords": {
       "ru": ["белый", "геометрия", "квадрат", "квадратик", "маленький", "фигура"],
       "en": ["geometric", "small", "square", "white"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9644,
@@ -134,7 +158,9 @@
     "keywords": {
       "ru": ["закрашенный прямоугольник", "прямоугольник"],
       "en": ["filled", "rectangle"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9645,
@@ -142,7 +168,9 @@
     "name": "WHITE RECTANGLE",
     "ru": "полый прямоугольник",
     "en": "hollow rectangle",
-    "keywords": { "ru": ["полый прямоугольник"], "en": ["hollow", "rectangle"] }
+    "keywords": { "ru": ["полый прямоугольник"], "en": ["hollow", "rectangle"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9646,
@@ -153,7 +181,9 @@
     "keywords": {
       "ru": ["закрашенный вертикальный прямоугольник"],
       "en": ["filled", "rectangle", "vertical"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9647,
@@ -161,7 +191,9 @@
     "name": "WHITE VERTICAL RECTANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9648,
@@ -169,7 +201,9 @@
     "name": "BLACK PARALLELOGRAM",
     "ru": "закрашенный параллелограмм",
     "en": "filled parallelogram",
-    "keywords": { "ru": ["закрашенный параллелограмм"], "en": ["filled", "parallelogram"] }
+    "keywords": { "ru": ["закрашенный параллелограмм"], "en": ["filled", "parallelogram"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9649,
@@ -177,7 +211,9 @@
     "name": "WHITE PARALLELOGRAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9650,
@@ -194,7 +230,9 @@
         "треугольник"
       ],
       "en": ["arrow", "filled", "triangle", "up", "up-pointing"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9651,
@@ -205,7 +243,9 @@
     "keywords": {
       "ru": ["полый треугольник вершиной вверх"],
       "en": ["hollow", "triangle", "up-pointing"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9652,
@@ -216,7 +256,9 @@
     "keywords": {
       "ru": ["небольшой закрашенный треугольник вершиной вверх"],
       "en": ["filled", "small", "triangle", "up-pointing"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9653,
@@ -227,7 +269,9 @@
     "keywords": {
       "ru": ["небольшой полый треугольник вершиной вверх"],
       "en": ["hollow", "small", "triangle", "up-pointing"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9654,
@@ -249,7 +293,9 @@
         "фигура"
       ],
       "en": ["arrow", "button", "play", "right", "triangle"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9655,
@@ -260,7 +306,9 @@
     "keywords": {
       "ru": ["полый треугольник вершиной вправо"],
       "en": ["hollow", "right-pointing", "triangle"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9656,
@@ -271,7 +319,9 @@
     "keywords": {
       "ru": ["небольшой закрашенный треугольник вершиной вправо"],
       "en": ["filled", "right-pointing", "small", "triangle"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9657,
@@ -282,7 +332,9 @@
     "keywords": {
       "ru": ["небольшой полый треугольник вершиной вправо"],
       "en": ["hollow", "right-pointing", "small", "triangle"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9658,
@@ -293,7 +345,9 @@
     "keywords": {
       "ru": ["закрашенный указатель вправо"],
       "en": ["filled", "pointer", "right-pointing"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9659,
@@ -301,7 +355,9 @@
     "name": "WHITE RIGHT-POINTING POINTER",
     "ru": "полый указатель вправо",
     "en": "hollow right-pointing pointer",
-    "keywords": { "ru": ["полый указатель вправо"], "en": ["hollow", "pointer", "right-pointing"] }
+    "keywords": { "ru": ["полый указатель вправо"], "en": ["hollow", "pointer", "right-pointing"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9660,
@@ -318,7 +374,9 @@
         "треугольник"
       ],
       "en": ["arrow", "down", "down-pointing", "filled", "triangle"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9661,
@@ -329,7 +387,9 @@
     "keywords": {
       "ru": ["полый треугольник вершиной вниз"],
       "en": ["down-pointing", "hollow", "triangle"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9662,
@@ -340,7 +400,9 @@
     "keywords": {
       "ru": ["небольшой закрашенный треугольник вершиной вниз"],
       "en": ["down-pointing", "filled", "small", "triangle"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9663,
@@ -351,7 +413,9 @@
     "keywords": {
       "ru": ["небольшой полый треугольник вершиной вниз"],
       "en": ["down-pointing", "hollow", "small", "triangle"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9664,
@@ -362,7 +426,9 @@
     "keywords": {
       "ru": ["влево", "кнопка", "назад", "обратный", "реверс", "стрелка"],
       "en": ["arrow", "button", "left", "reverse", "triangle"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9665,
@@ -373,7 +439,9 @@
     "keywords": {
       "ru": ["полый треугольник вершиной влево"],
       "en": ["hollow", "left-pointing", "triangle"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9666,
@@ -384,7 +452,9 @@
     "keywords": {
       "ru": ["небольшой закрашенный треугольник вершиной влево"],
       "en": ["filled", "left-pointing", "small", "triangle"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9667,
@@ -395,7 +465,9 @@
     "keywords": {
       "ru": ["небольшой полый треугольник вершиной влево"],
       "en": ["hollow", "left-pointing", "small", "triangle"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9668,
@@ -406,7 +478,9 @@
     "keywords": {
       "ru": ["закрашенный указатель влево"],
       "en": ["filled", "left-pointing", "pointer"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9669,
@@ -414,7 +488,9 @@
     "name": "WHITE LEFT-POINTING POINTER",
     "ru": "полый указатель влево",
     "en": "hollow left-pointing pointer",
-    "keywords": { "ru": ["полый указатель влево"], "en": ["hollow", "left-pointing", "pointer"] }
+    "keywords": { "ru": ["полый указатель влево"], "en": ["hollow", "left-pointing", "pointer"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9670,
@@ -422,7 +498,9 @@
     "name": "BLACK DIAMOND",
     "ru": "закрашенный ромб",
     "en": "filled diamond",
-    "keywords": { "ru": ["закрашенный ромб"], "en": ["diamond", "filled"] }
+    "keywords": { "ru": ["закрашенный ромб"], "en": ["diamond", "filled"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9671,
@@ -430,7 +508,9 @@
     "name": "WHITE DIAMOND",
     "ru": "полый ромб",
     "en": "hollow diamond",
-    "keywords": { "ru": ["полый ромб"], "en": ["diamond", "hollow"] }
+    "keywords": { "ru": ["полый ромб"], "en": ["diamond", "hollow"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9672,
@@ -441,7 +521,9 @@
     "keywords": {
       "ru": ["закрашенный ромб внутри полого ромба"],
       "en": ["containing", "diamond", "filled", "hollow"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9673,
@@ -463,7 +545,9 @@
         "hollow",
         "ward"
       ]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9674,
@@ -471,7 +555,12 @@
     "name": "LOZENGE",
     "ru": "ромб",
     "en": "lozenge",
-    "keywords": { "ru": ["бубны", "косоугольник", "ромб"], "en": ["diamond", "lozenge", "rhombus"] }
+    "keywords": {
+      "ru": ["бубны", "косоугольник", "ромб"],
+      "en": ["diamond", "lozenge", "rhombus"]
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9675,
@@ -482,7 +571,9 @@
     "keywords": {
       "ru": ["круг", "незакрашенный круг", "полый", "пустой круг", "шар"],
       "en": ["circle", "hollow", "ring"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9676,
@@ -490,7 +581,9 @@
     "name": "DOTTED CIRCLE",
     "ru": "пунктирный круг",
     "en": "dotted circle",
-    "keywords": { "ru": ["пунктирный круг"], "en": ["circle", "dotted"] }
+    "keywords": { "ru": ["пунктирный круг"], "en": ["circle", "dotted"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9677,
@@ -501,7 +594,9 @@
     "keywords": {
       "ru": ["круг с вертикальной штриховкой"],
       "en": ["circle", "fill", "vertical", "with"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9678,
@@ -512,7 +607,9 @@
     "keywords": {
       "ru": ["двойной круг", "концентрические круги", "мишень"],
       "en": ["circle", "circles", "concentric", "double", "target"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9679,
@@ -523,7 +620,9 @@
     "keywords": {
       "ru": ["закрашенный круг", "заполненный круг", "круг", "шар"],
       "en": ["circle", "filled"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9680,
@@ -534,7 +633,9 @@
     "keywords": {
       "ru": ["круг с закрашенной левой половиной"],
       "en": ["circle", "filled", "half", "left"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9681,
@@ -545,7 +646,9 @@
     "keywords": {
       "ru": ["круг с закрашенной правой половиной"],
       "en": ["circle", "filled", "half", "right"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9682,
@@ -556,7 +659,9 @@
     "keywords": {
       "ru": ["круг с закрашенной нижней половиной"],
       "en": ["circle", "filled", "half", "lower"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9683,
@@ -567,7 +672,9 @@
     "keywords": {
       "ru": ["круг с закрашенной верхней половиной"],
       "en": ["circle", "filled", "half", "upper"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9684,
@@ -578,7 +685,9 @@
     "keywords": {
       "ru": ["круг с закрашенной верхней правой четвертью"],
       "en": ["circle", "filled", "quadrant", "right", "upper"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9685,
@@ -589,7 +698,9 @@
     "keywords": {
       "ru": ["закрашенный круг с полой верхней левой четвертью"],
       "en": ["all", "but", "circle", "filled", "left", "quadrant", "upper"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9686,
@@ -600,7 +711,9 @@
     "keywords": {
       "ru": ["закрашенная левая половина круга"],
       "en": ["circle", "filled", "half", "left"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9687,
@@ -611,7 +724,9 @@
     "keywords": {
       "ru": ["закрашенная правая половина круга"],
       "en": ["circle", "filled", "half", "right"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9688,
@@ -619,7 +734,9 @@
     "name": "INVERSE BULLET",
     "ru": "инвертированный маркер пункта в списке",
     "en": "inverse bullet",
-    "keywords": { "ru": ["инвертированный маркер пункта в списке"], "en": ["bullet", "inverse"] }
+    "keywords": { "ru": ["инвертированный маркер пункта в списке"], "en": ["bullet", "inverse"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9689,
@@ -630,7 +747,9 @@
     "keywords": {
       "ru": ["полый круг внутри закрашенного квадрата"],
       "en": ["circle", "containing", "filled", "hollow", "inverse", "square"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9690,
@@ -638,7 +757,9 @@
     "name": "UPPER HALF INVERSE WHITE CIRCLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9691,
@@ -646,7 +767,9 @@
     "name": "LOWER HALF INVERSE WHITE CIRCLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9692,
@@ -657,7 +780,9 @@
     "keywords": {
       "ru": ["дуга в верхней левой четверти"],
       "en": ["arc", "circular", "left", "quadrant", "upper"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9693,
@@ -668,7 +793,9 @@
     "keywords": {
       "ru": ["дуга в верхней правой четверти"],
       "en": ["arc", "circular", "quadrant", "right", "upper"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9694,
@@ -679,7 +806,9 @@
     "keywords": {
       "ru": ["дуга в нижней правой четверти"],
       "en": ["arc", "circular", "lower", "quadrant", "right"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9695,
@@ -690,7 +819,9 @@
     "keywords": {
       "ru": ["дуга в нижней левой четверти"],
       "en": ["arc", "circular", "left", "lower", "quadrant"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9696,
@@ -698,7 +829,9 @@
     "name": "UPPER HALF CIRCLE",
     "ru": "верхний полукруг",
     "en": "upper half circle",
-    "keywords": { "ru": ["верхний полукруг"], "en": ["circle", "half", "upper"] }
+    "keywords": { "ru": ["верхний полукруг"], "en": ["circle", "half", "upper"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9697,
@@ -706,7 +839,9 @@
     "name": "LOWER HALF CIRCLE",
     "ru": "нижний полукруг",
     "en": "lower half circle",
-    "keywords": { "ru": ["нижний полукруг"], "en": ["circle", "half", "lower"] }
+    "keywords": { "ru": ["нижний полукруг"], "en": ["circle", "half", "lower"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9698,
@@ -717,7 +852,9 @@
     "keywords": {
       "ru": ["закрашенный нижний правый треугольник"],
       "en": ["filled", "lower", "right", "triangle"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9699,
@@ -728,7 +865,9 @@
     "keywords": {
       "ru": ["закрашенный нижний левый треугольник"],
       "en": ["filled", "left", "lower", "triangle"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9700,
@@ -739,7 +878,9 @@
     "keywords": {
       "ru": ["закрашенный верхний левый треугольник"],
       "en": ["filled", "left", "triangle", "upper"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9701,
@@ -750,7 +891,9 @@
     "keywords": {
       "ru": ["закрашенный верхний правый треугольник"],
       "en": ["filled", "right", "triangle", "upper"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9702,
@@ -758,7 +901,9 @@
     "name": "WHITE BULLET",
     "ru": "полый маркер пункта в списке",
     "en": "hollow bullet",
-    "keywords": { "ru": ["полый маркер пункта в списке"], "en": ["bullet", "hollow"] }
+    "keywords": { "ru": ["полый маркер пункта в списке"], "en": ["bullet", "hollow"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9703,
@@ -766,7 +911,9 @@
     "name": "SQUARE WITH LEFT HALF BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9704,
@@ -774,7 +921,9 @@
     "name": "SQUARE WITH RIGHT HALF BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9705,
@@ -782,7 +931,9 @@
     "name": "SQUARE WITH UPPER LEFT DIAGONAL HALF BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9706,
@@ -790,7 +941,9 @@
     "name": "SQUARE WITH LOWER RIGHT DIAGONAL HALF BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9707,
@@ -798,7 +951,9 @@
     "name": "WHITE SQUARE WITH VERTICAL BISECTING LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9708,
@@ -806,7 +961,9 @@
     "name": "WHITE UP-POINTING TRIANGLE WITH DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9709,
@@ -814,7 +971,9 @@
     "name": "UP-POINTING TRIANGLE WITH LEFT HALF BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9710,
@@ -822,7 +981,9 @@
     "name": "UP-POINTING TRIANGLE WITH RIGHT HALF BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9711,
@@ -833,7 +994,9 @@
     "keywords": {
       "ru": ["большой незакрашенный круг", "круг", "полый", "пустой", "шар"],
       "en": ["circle", "hollow", "large", "ring"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9712,
@@ -841,7 +1004,9 @@
     "name": "WHITE SQUARE WITH UPPER LEFT QUADRANT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9713,
@@ -849,7 +1014,9 @@
     "name": "WHITE SQUARE WITH LOWER LEFT QUADRANT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9714,
@@ -857,7 +1024,9 @@
     "name": "WHITE SQUARE WITH LOWER RIGHT QUADRANT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9715,
@@ -868,7 +1037,9 @@
     "keywords": {
       "ru": ["полый квадрат с полой верхней правой четвертью"],
       "en": ["hollow", "quadrant", "right", "square", "upper"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9716,
@@ -876,7 +1047,9 @@
     "name": "WHITE CIRCLE WITH UPPER LEFT QUADRANT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9717,
@@ -884,7 +1057,9 @@
     "name": "WHITE CIRCLE WITH LOWER LEFT QUADRANT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9718,
@@ -892,7 +1067,9 @@
     "name": "WHITE CIRCLE WITH LOWER RIGHT QUADRANT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9719,
@@ -903,7 +1080,9 @@
     "keywords": {
       "ru": ["полый круг с полой верхней правой четвертью"],
       "en": ["circle", "hollow", "quadrant", "right", "upper", "with"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9720,
@@ -911,7 +1090,9 @@
     "name": "UPPER LEFT TRIANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9721,
@@ -919,7 +1100,9 @@
     "name": "UPPER RIGHT TRIANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9722,
@@ -927,7 +1110,9 @@
     "name": "LOWER LEFT TRIANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9723,
@@ -938,7 +1123,9 @@
     "keywords": {
       "ru": ["белый", "геометрия", "квадрат", "фигура"],
       "en": ["geometric", "medium", "square", "white"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9724,
@@ -949,36 +1136,9 @@
     "keywords": {
       "ru": ["геометрия", "квадрат", "средний", "фигура", "черный"],
       "en": ["black", "geometric", "medium", "square"]
-    }
-  },
-  {
-    "cp": 9725,
-    "char": "◽",
-    "name": "WHITE MEDIUM SMALL SQUARE",
-    "ru": "небольшой белый квадрат",
-    "en": "white medium-small square",
-    "keywords": {
-      "ru": [
-        "белый",
-        "геометрия",
-        "квадрат",
-        "небольшой белый квадрат",
-        "небольшой квадрат",
-        "фигура"
-      ],
-      "en": ["geometric", "medium-small", "square", "white"]
-    }
-  },
-  {
-    "cp": 9726,
-    "char": "◾",
-    "name": "BLACK MEDIUM SMALL SQUARE",
-    "ru": "небольшой черный квадрат",
-    "en": "black medium-small square",
-    "keywords": {
-      "ru": ["геометрия", "квадрат", "небольшой", "фигура", "черный"],
-      "en": ["black", "geometric", "medium-small", "square"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9727,
@@ -986,6 +1146,8 @@
     "name": "LOWER RIGHT TRIANGLE",
     "ru": "нижний правый треугольник",
     "en": "lower right triangle",
-    "keywords": { "ru": ["нижний правый треугольник"], "en": ["lower", "right", "triangle"] }
+    "keywords": { "ru": ["нижний правый треугольник"], "en": ["lower", "right", "triangle"] },
+    "desc": [],
+    "concepts": []
   }
 ]

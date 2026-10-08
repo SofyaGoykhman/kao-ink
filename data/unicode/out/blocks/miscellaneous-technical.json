@@ -5,7 +5,9 @@
     "name": "DIAMETER SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8961,
@@ -13,7 +15,9 @@
     "name": "ELECTRIC ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8962,
@@ -21,7 +25,9 @@
     "name": "HOUSE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8963,
@@ -29,7 +35,9 @@
     "name": "UP ARROWHEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8964,
@@ -37,7 +45,9 @@
     "name": "DOWN ARROWHEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8965,
@@ -45,7 +55,9 @@
     "name": "PROJECTIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8966,
@@ -53,7 +65,9 @@
     "name": "PERSPECTIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8967,
@@ -61,7 +75,9 @@
     "name": "WAVY LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8968,
@@ -69,7 +85,9 @@
     "name": "LEFT CEILING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8969,
@@ -77,7 +95,9 @@
     "name": "RIGHT CEILING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8970,
@@ -85,7 +105,9 @@
     "name": "LEFT FLOOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8971,
@@ -93,7 +115,9 @@
     "name": "RIGHT FLOOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8972,
@@ -101,7 +125,9 @@
     "name": "BOTTOM RIGHT CROP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8973,
@@ -109,7 +135,9 @@
     "name": "BOTTOM LEFT CROP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8974,
@@ -117,7 +145,9 @@
     "name": "TOP RIGHT CROP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8975,
@@ -125,7 +155,9 @@
     "name": "TOP LEFT CROP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8976,
@@ -133,7 +165,9 @@
     "name": "REVERSED NOT SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8977,
@@ -141,7 +175,9 @@
     "name": "SQUARE LOZENGE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8978,
@@ -149,7 +185,9 @@
     "name": "ARC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8979,
@@ -157,7 +195,9 @@
     "name": "SEGMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8980,
@@ -165,7 +205,9 @@
     "name": "SECTOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8981,
@@ -173,7 +215,9 @@
     "name": "TELEPHONE RECORDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8982,
@@ -181,7 +225,9 @@
     "name": "POSITION INDICATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8983,
@@ -189,7 +235,9 @@
     "name": "VIEWDATA SQUARE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8984,
@@ -197,7 +245,9 @@
     "name": "PLACE OF INTEREST SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8985,
@@ -205,29 +255,9 @@
     "name": "TURNED NOT SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
-  },
-  {
-    "cp": 8986,
-    "char": "⌚",
-    "name": "WATCH",
-    "ru": "наручные часы",
-    "en": "watch",
-    "keywords": {
-      "ru": ["время", "запястье", "наручные", "рука", "часы"],
-      "en": ["clock", "time", "watch"]
-    }
-  },
-  {
-    "cp": 8987,
-    "char": "⌛",
-    "name": "HOURGLASS",
-    "ru": "песочные часы",
-    "en": "hourglass done",
-    "keywords": {
-      "ru": ["время", "песок", "песочные часы", "часы"],
-      "en": ["done", "hourglass", "sand", "time", "timer"]
-    }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8988,
@@ -235,7 +265,9 @@
     "name": "TOP LEFT CORNER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8989,
@@ -243,7 +275,9 @@
     "name": "TOP RIGHT CORNER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8990,
@@ -251,7 +285,9 @@
     "name": "BOTTOM LEFT CORNER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8991,
@@ -259,7 +295,9 @@
     "name": "BOTTOM RIGHT CORNER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8992,
@@ -267,7 +305,9 @@
     "name": "TOP HALF INTEGRAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8993,
@@ -275,7 +315,9 @@
     "name": "BOTTOM HALF INTEGRAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8994,
@@ -283,7 +325,9 @@
     "name": "FROWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8995,
@@ -291,7 +335,9 @@
     "name": "SMILE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8996,
@@ -299,7 +345,9 @@
     "name": "UP ARROWHEAD BETWEEN TWO HORIZONTAL BARS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8997,
@@ -307,7 +355,9 @@
     "name": "OPTION KEY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8998,
@@ -315,7 +365,9 @@
     "name": "ERASE TO THE RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 8999,
@@ -323,7 +375,9 @@
     "name": "X IN A RECTANGLE BOX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9000,
@@ -331,7 +385,9 @@
     "name": "KEYBOARD",
     "ru": "клавиатура",
     "en": "keyboard",
-    "keywords": { "ru": ["клавиатура", "клавиши", "периферия"], "en": ["computer", "keyboard"] }
+    "keywords": { "ru": ["клавиатура", "клавиши", "периферия"], "en": ["computer", "keyboard"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9001,
@@ -339,7 +395,9 @@
     "name": "LEFT-POINTING ANGLE BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9002,
@@ -347,7 +405,9 @@
     "name": "RIGHT-POINTING ANGLE BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9003,
@@ -355,7 +415,9 @@
     "name": "ERASE TO THE LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9004,
@@ -363,7 +425,9 @@
     "name": "BENZENE RING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9005,
@@ -371,7 +435,9 @@
     "name": "CYLINDRICITY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9006,
@@ -379,7 +445,9 @@
     "name": "ALL AROUND-PROFILE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9007,
@@ -387,7 +455,9 @@
     "name": "SYMMETRY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9008,
@@ -395,7 +465,9 @@
     "name": "TOTAL RUNOUT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9009,
@@ -403,7 +475,9 @@
     "name": "DIMENSION ORIGIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9010,
@@ -411,7 +485,9 @@
     "name": "CONICAL TAPER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9011,
@@ -419,7 +495,9 @@
     "name": "SLOPE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9012,
@@ -427,7 +505,9 @@
     "name": "COUNTERBORE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9013,
@@ -435,7 +515,9 @@
     "name": "COUNTERSINK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9014,
@@ -443,7 +525,9 @@
     "name": "APL FUNCTIONAL SYMBOL I-BEAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9015,
@@ -451,7 +535,9 @@
     "name": "APL FUNCTIONAL SYMBOL SQUISH QUAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9016,
@@ -459,7 +545,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD EQUAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9017,
@@ -467,7 +555,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD DIVIDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9018,
@@ -475,7 +565,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD DIAMOND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9019,
@@ -483,7 +575,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD JOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9020,
@@ -491,7 +585,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD CIRCLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9021,
@@ -499,7 +595,9 @@
     "name": "APL FUNCTIONAL SYMBOL CIRCLE STILE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9022,
@@ -507,7 +605,9 @@
     "name": "APL FUNCTIONAL SYMBOL CIRCLE JOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9023,
@@ -515,7 +615,9 @@
     "name": "APL FUNCTIONAL SYMBOL SLASH BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9024,
@@ -523,7 +625,9 @@
     "name": "APL FUNCTIONAL SYMBOL BACKSLASH BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9025,
@@ -531,7 +635,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD SLASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9026,
@@ -539,7 +645,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD BACKSLASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9027,
@@ -547,7 +655,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD LESS-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9028,
@@ -555,7 +665,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD GREATER-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9029,
@@ -563,7 +675,9 @@
     "name": "APL FUNCTIONAL SYMBOL LEFTWARDS VANE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9030,
@@ -571,7 +685,9 @@
     "name": "APL FUNCTIONAL SYMBOL RIGHTWARDS VANE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9031,
@@ -579,7 +695,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD LEFTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9032,
@@ -587,7 +705,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9033,
@@ -595,7 +715,9 @@
     "name": "APL FUNCTIONAL SYMBOL CIRCLE BACKSLASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9034,
@@ -603,7 +725,9 @@
     "name": "APL FUNCTIONAL SYMBOL DOWN TACK UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9035,
@@ -611,7 +735,9 @@
     "name": "APL FUNCTIONAL SYMBOL DELTA STILE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9036,
@@ -619,7 +745,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD DOWN CARET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9037,
@@ -627,7 +755,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD DELTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9038,
@@ -635,7 +765,9 @@
     "name": "APL FUNCTIONAL SYMBOL DOWN TACK JOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9039,
@@ -643,7 +775,9 @@
     "name": "APL FUNCTIONAL SYMBOL UPWARDS VANE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9040,
@@ -651,7 +785,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD UPWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9041,
@@ -659,7 +795,9 @@
     "name": "APL FUNCTIONAL SYMBOL UP TACK OVERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9042,
@@ -667,7 +805,9 @@
     "name": "APL FUNCTIONAL SYMBOL DEL STILE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9043,
@@ -675,7 +815,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD UP CARET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9044,
@@ -683,7 +825,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD DEL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9045,
@@ -691,7 +835,9 @@
     "name": "APL FUNCTIONAL SYMBOL UP TACK JOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9046,
@@ -699,7 +845,9 @@
     "name": "APL FUNCTIONAL SYMBOL DOWNWARDS VANE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9047,
@@ -707,7 +855,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD DOWNWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9048,
@@ -715,7 +865,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUOTE UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9049,
@@ -723,7 +875,9 @@
     "name": "APL FUNCTIONAL SYMBOL DELTA UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9050,
@@ -731,7 +885,9 @@
     "name": "APL FUNCTIONAL SYMBOL DIAMOND UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9051,
@@ -739,7 +895,9 @@
     "name": "APL FUNCTIONAL SYMBOL JOT UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9052,
@@ -747,7 +905,9 @@
     "name": "APL FUNCTIONAL SYMBOL CIRCLE UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9053,
@@ -755,7 +915,9 @@
     "name": "APL FUNCTIONAL SYMBOL UP SHOE JOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9054,
@@ -763,7 +925,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUOTE QUAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9055,
@@ -771,7 +935,9 @@
     "name": "APL FUNCTIONAL SYMBOL CIRCLE STAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9056,
@@ -779,7 +945,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD COLON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9057,
@@ -787,7 +955,9 @@
     "name": "APL FUNCTIONAL SYMBOL UP TACK DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9058,
@@ -795,7 +965,9 @@
     "name": "APL FUNCTIONAL SYMBOL DEL DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9059,
@@ -803,7 +975,9 @@
     "name": "APL FUNCTIONAL SYMBOL STAR DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9060,
@@ -811,7 +985,9 @@
     "name": "APL FUNCTIONAL SYMBOL JOT DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9061,
@@ -819,7 +995,9 @@
     "name": "APL FUNCTIONAL SYMBOL CIRCLE DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9062,
@@ -827,7 +1005,9 @@
     "name": "APL FUNCTIONAL SYMBOL DOWN SHOE STILE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9063,
@@ -835,7 +1015,9 @@
     "name": "APL FUNCTIONAL SYMBOL LEFT SHOE STILE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9064,
@@ -843,7 +1025,9 @@
     "name": "APL FUNCTIONAL SYMBOL TILDE DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9065,
@@ -851,7 +1035,9 @@
     "name": "APL FUNCTIONAL SYMBOL GREATER-THAN DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9066,
@@ -859,7 +1045,9 @@
     "name": "APL FUNCTIONAL SYMBOL COMMA BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9067,
@@ -867,7 +1055,9 @@
     "name": "APL FUNCTIONAL SYMBOL DEL TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9068,
@@ -875,7 +1065,9 @@
     "name": "APL FUNCTIONAL SYMBOL ZILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9069,
@@ -883,7 +1075,9 @@
     "name": "APL FUNCTIONAL SYMBOL STILE TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9070,
@@ -891,7 +1085,9 @@
     "name": "APL FUNCTIONAL SYMBOL SEMICOLON UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9071,
@@ -899,7 +1095,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD NOT EQUAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9072,
@@ -907,7 +1105,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD QUESTION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9073,
@@ -915,7 +1115,9 @@
     "name": "APL FUNCTIONAL SYMBOL DOWN CARET TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9074,
@@ -923,7 +1125,9 @@
     "name": "APL FUNCTIONAL SYMBOL UP CARET TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9075,
@@ -931,7 +1135,9 @@
     "name": "APL FUNCTIONAL SYMBOL IOTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9076,
@@ -939,7 +1145,9 @@
     "name": "APL FUNCTIONAL SYMBOL RHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9077,
@@ -947,7 +1155,9 @@
     "name": "APL FUNCTIONAL SYMBOL OMEGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9078,
@@ -955,7 +1165,9 @@
     "name": "APL FUNCTIONAL SYMBOL ALPHA UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9079,
@@ -963,7 +1175,9 @@
     "name": "APL FUNCTIONAL SYMBOL EPSILON UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9080,
@@ -971,7 +1185,9 @@
     "name": "APL FUNCTIONAL SYMBOL IOTA UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9081,
@@ -979,7 +1195,9 @@
     "name": "APL FUNCTIONAL SYMBOL OMEGA UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9082,
@@ -987,7 +1205,9 @@
     "name": "APL FUNCTIONAL SYMBOL ALPHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9083,
@@ -995,7 +1215,9 @@
     "name": "NOT CHECK MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9084,
@@ -1003,7 +1225,9 @@
     "name": "RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9085,
@@ -1011,7 +1235,9 @@
     "name": "SHOULDERED OPEN BOX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9086,
@@ -1019,7 +1245,9 @@
     "name": "BELL SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9087,
@@ -1027,7 +1255,9 @@
     "name": "VERTICAL LINE WITH MIDDLE DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9088,
@@ -1035,7 +1265,9 @@
     "name": "INSERTION SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9089,
@@ -1043,7 +1275,9 @@
     "name": "CONTINUOUS UNDERLINE SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9090,
@@ -1051,7 +1285,9 @@
     "name": "DISCONTINUOUS UNDERLINE SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9091,
@@ -1059,7 +1295,9 @@
     "name": "EMPHASIS SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9092,
@@ -1067,7 +1305,9 @@
     "name": "COMPOSITION SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9093,
@@ -1075,7 +1315,9 @@
     "name": "WHITE SQUARE WITH CENTRE VERTICAL LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9094,
@@ -1083,7 +1325,9 @@
     "name": "ENTER SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9095,
@@ -1091,7 +1335,9 @@
     "name": "ALTERNATIVE KEY SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9096,
@@ -1099,7 +1345,9 @@
     "name": "HELM SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9097,
@@ -1107,7 +1355,9 @@
     "name": "CIRCLED HORIZONTAL BAR WITH NOTCH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9098,
@@ -1115,7 +1365,9 @@
     "name": "CIRCLED TRIANGLE DOWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9099,
@@ -1123,7 +1375,9 @@
     "name": "BROKEN CIRCLE WITH NORTHWEST ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9100,
@@ -1131,7 +1385,9 @@
     "name": "UNDO SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9101,
@@ -1139,7 +1395,9 @@
     "name": "MONOSTABLE SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9102,
@@ -1147,7 +1405,9 @@
     "name": "HYSTERESIS SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9103,
@@ -1155,7 +1415,9 @@
     "name": "OPEN-CIRCUIT-OUTPUT H-TYPE SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9104,
@@ -1163,7 +1425,9 @@
     "name": "OPEN-CIRCUIT-OUTPUT L-TYPE SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9105,
@@ -1171,7 +1435,9 @@
     "name": "PASSIVE-PULL-DOWN-OUTPUT SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9106,
@@ -1179,7 +1445,9 @@
     "name": "PASSIVE-PULL-UP-OUTPUT SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9107,
@@ -1187,7 +1455,9 @@
     "name": "DIRECT CURRENT SYMBOL FORM TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9108,
@@ -1195,7 +1465,9 @@
     "name": "SOFTWARE-FUNCTION SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9109,
@@ -1203,7 +1475,9 @@
     "name": "APL FUNCTIONAL SYMBOL QUAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9110,
@@ -1211,7 +1485,9 @@
     "name": "DECIMAL SEPARATOR KEY SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9111,
@@ -1219,7 +1495,9 @@
     "name": "PREVIOUS PAGE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9112,
@@ -1227,7 +1505,9 @@
     "name": "NEXT PAGE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9113,
@@ -1235,7 +1515,9 @@
     "name": "PRINT SCREEN SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9114,
@@ -1243,7 +1525,9 @@
     "name": "CLEAR SCREEN SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9115,
@@ -1251,7 +1535,9 @@
     "name": "LEFT PARENTHESIS UPPER HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9116,
@@ -1259,7 +1545,9 @@
     "name": "LEFT PARENTHESIS EXTENSION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9117,
@@ -1267,7 +1555,9 @@
     "name": "LEFT PARENTHESIS LOWER HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9118,
@@ -1275,7 +1565,9 @@
     "name": "RIGHT PARENTHESIS UPPER HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9119,
@@ -1283,7 +1575,9 @@
     "name": "RIGHT PARENTHESIS EXTENSION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9120,
@@ -1291,7 +1585,9 @@
     "name": "RIGHT PARENTHESIS LOWER HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9121,
@@ -1299,7 +1595,9 @@
     "name": "LEFT SQUARE BRACKET UPPER CORNER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9122,
@@ -1307,7 +1605,9 @@
     "name": "LEFT SQUARE BRACKET EXTENSION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9123,
@@ -1315,7 +1615,9 @@
     "name": "LEFT SQUARE BRACKET LOWER CORNER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9124,
@@ -1323,7 +1625,9 @@
     "name": "RIGHT SQUARE BRACKET UPPER CORNER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9125,
@@ -1331,7 +1635,9 @@
     "name": "RIGHT SQUARE BRACKET EXTENSION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9126,
@@ -1339,7 +1645,9 @@
     "name": "RIGHT SQUARE BRACKET LOWER CORNER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9127,
@@ -1347,7 +1655,9 @@
     "name": "LEFT CURLY BRACKET UPPER HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9128,
@@ -1355,7 +1665,9 @@
     "name": "LEFT CURLY BRACKET MIDDLE PIECE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9129,
@@ -1363,7 +1675,9 @@
     "name": "LEFT CURLY BRACKET LOWER HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9130,
@@ -1371,7 +1685,9 @@
     "name": "CURLY BRACKET EXTENSION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9131,
@@ -1379,7 +1695,9 @@
     "name": "RIGHT CURLY BRACKET UPPER HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9132,
@@ -1387,7 +1705,9 @@
     "name": "RIGHT CURLY BRACKET MIDDLE PIECE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9133,
@@ -1395,7 +1715,9 @@
     "name": "RIGHT CURLY BRACKET LOWER HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9134,
@@ -1403,7 +1725,9 @@
     "name": "INTEGRAL EXTENSION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9135,
@@ -1411,7 +1735,9 @@
     "name": "HORIZONTAL LINE EXTENSION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9136,
@@ -1419,7 +1745,9 @@
     "name": "UPPER LEFT OR LOWER RIGHT CURLY BRACKET SECTION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9137,
@@ -1427,7 +1755,9 @@
     "name": "UPPER RIGHT OR LOWER LEFT CURLY BRACKET SECTION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9138,
@@ -1435,7 +1765,9 @@
     "name": "SUMMATION TOP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9139,
@@ -1443,7 +1775,9 @@
     "name": "SUMMATION BOTTOM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9140,
@@ -1451,7 +1785,9 @@
     "name": "TOP SQUARE BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9141,
@@ -1459,7 +1795,9 @@
     "name": "BOTTOM SQUARE BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9142,
@@ -1467,7 +1805,9 @@
     "name": "BOTTOM SQUARE BRACKET OVER TOP SQUARE BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9143,
@@ -1475,7 +1815,9 @@
     "name": "RADICAL SYMBOL BOTTOM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9144,
@@ -1483,7 +1825,9 @@
     "name": "LEFT VERTICAL BOX LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9145,
@@ -1491,7 +1835,9 @@
     "name": "RIGHT VERTICAL BOX LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9146,
@@ -1499,7 +1845,9 @@
     "name": "HORIZONTAL SCAN LINE-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9147,
@@ -1507,7 +1855,9 @@
     "name": "HORIZONTAL SCAN LINE-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9148,
@@ -1515,7 +1865,9 @@
     "name": "HORIZONTAL SCAN LINE-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9149,
@@ -1523,7 +1875,9 @@
     "name": "HORIZONTAL SCAN LINE-9",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9150,
@@ -1531,7 +1885,9 @@
     "name": "DENTISTRY SYMBOL LIGHT VERTICAL AND TOP RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9151,
@@ -1539,7 +1895,9 @@
     "name": "DENTISTRY SYMBOL LIGHT VERTICAL AND BOTTOM RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9152,
@@ -1547,7 +1905,9 @@
     "name": "DENTISTRY SYMBOL LIGHT VERTICAL WITH CIRCLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9153,
@@ -1555,7 +1915,9 @@
     "name": "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH CIRCLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9154,
@@ -1563,7 +1925,9 @@
     "name": "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH CIRCLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9155,
@@ -1571,7 +1935,9 @@
     "name": "DENTISTRY SYMBOL LIGHT VERTICAL WITH TRIANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9156,
@@ -1579,7 +1945,9 @@
     "name": "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH TRIANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9157,
@@ -1587,7 +1955,9 @@
     "name": "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH TRIANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9158,
@@ -1595,7 +1965,9 @@
     "name": "DENTISTRY SYMBOL LIGHT VERTICAL AND WAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9159,
@@ -1603,7 +1975,9 @@
     "name": "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL WITH WAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9160,
@@ -1611,7 +1985,9 @@
     "name": "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL WITH WAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9161,
@@ -1619,7 +1995,9 @@
     "name": "DENTISTRY SYMBOL LIGHT DOWN AND HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9162,
@@ -1627,7 +2005,9 @@
     "name": "DENTISTRY SYMBOL LIGHT UP AND HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9163,
@@ -1635,7 +2015,9 @@
     "name": "DENTISTRY SYMBOL LIGHT VERTICAL AND TOP LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9164,
@@ -1643,7 +2025,9 @@
     "name": "DENTISTRY SYMBOL LIGHT VERTICAL AND BOTTOM LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9165,
@@ -1651,7 +2035,9 @@
     "name": "SQUARE FOOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9166,
@@ -1659,7 +2045,9 @@
     "name": "RETURN SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9167,
@@ -1667,7 +2055,9 @@
     "name": "EJECT SYMBOL",
     "ru": "выброс",
     "en": "eject button",
-    "keywords": { "ru": ["выброс", "кнопка"], "en": ["button", "eject"] }
+    "keywords": { "ru": ["выброс", "кнопка"], "en": ["button", "eject"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9168,
@@ -1675,7 +2065,9 @@
     "name": "VERTICAL LINE EXTENSION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9169,
@@ -1683,7 +2075,9 @@
     "name": "METRICAL BREVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9170,
@@ -1691,7 +2085,9 @@
     "name": "METRICAL LONG OVER SHORT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9171,
@@ -1699,7 +2095,9 @@
     "name": "METRICAL SHORT OVER LONG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9172,
@@ -1707,7 +2105,9 @@
     "name": "METRICAL LONG OVER TWO SHORTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9173,
@@ -1715,7 +2115,9 @@
     "name": "METRICAL TWO SHORTS OVER LONG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9174,
@@ -1723,7 +2125,9 @@
     "name": "METRICAL TWO SHORTS JOINED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9175,
@@ -1731,7 +2135,9 @@
     "name": "METRICAL TRISEME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9176,
@@ -1739,7 +2145,9 @@
     "name": "METRICAL TETRASEME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9177,
@@ -1747,7 +2155,9 @@
     "name": "METRICAL PENTASEME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9178,
@@ -1755,7 +2165,9 @@
     "name": "EARTH GROUND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9179,
@@ -1763,7 +2175,9 @@
     "name": "FUSE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9180,
@@ -1771,7 +2185,9 @@
     "name": "TOP PARENTHESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9181,
@@ -1779,7 +2195,9 @@
     "name": "BOTTOM PARENTHESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9182,
@@ -1787,7 +2205,9 @@
     "name": "TOP CURLY BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9183,
@@ -1795,7 +2215,9 @@
     "name": "BOTTOM CURLY BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9184,
@@ -1803,7 +2225,9 @@
     "name": "TOP TORTOISE SHELL BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9185,
@@ -1811,7 +2235,9 @@
     "name": "BOTTOM TORTOISE SHELL BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9186,
@@ -1819,7 +2245,9 @@
     "name": "WHITE TRAPEZIUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9187,
@@ -1827,7 +2255,9 @@
     "name": "BENZENE RING WITH CIRCLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9188,
@@ -1835,7 +2265,9 @@
     "name": "STRAIGHTNESS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9189,
@@ -1843,7 +2275,9 @@
     "name": "FLATNESS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9190,
@@ -1851,7 +2285,9 @@
     "name": "AC CURRENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9191,
@@ -1859,7 +2295,9 @@
     "name": "ELECTRICAL INTERSECTION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9192,
@@ -1867,73 +2305,9 @@
     "name": "DECIMAL EXPONENT SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
-  },
-  {
-    "cp": 9193,
-    "char": "⏩",
-    "name": "BLACK RIGHT-POINTING DOUBLE TRIANGLE",
-    "ru": "перемотка вперед",
-    "en": "fast-forward button",
-    "keywords": {
-      "ru": ["вперед", "вправо", "два", "кнопка", "перемотать", "перемотка", "треугольника"],
-      "en": ["arrow", "button", "double", "fast", "fast-forward", "forward"]
-    }
-  },
-  {
-    "cp": 9194,
-    "char": "⏪",
-    "name": "BLACK LEFT-POINTING DOUBLE TRIANGLE",
-    "ru": "перемотка назад",
-    "en": "fast reverse button",
-    "keywords": {
-      "ru": [
-        "влево",
-        "два треугольника",
-        "кнопка",
-        "назад",
-        "перемотать",
-        "перемотка назад",
-        "стрелка"
-      ],
-      "en": ["arrow", "button", "double", "fast", "reverse", "rewind"]
-    }
-  },
-  {
-    "cp": 9195,
-    "char": "⏫",
-    "name": "BLACK UP-POINTING DOUBLE TRIANGLE",
-    "ru": "два треугольника острием вверх",
-    "en": "fast up button",
-    "keywords": {
-      "ru": [
-        "вверх",
-        "два треугольника",
-        "два треугольника острием вверх",
-        "кнопка",
-        "стрелка",
-        "стрелки вверх"
-      ],
-      "en": ["arrow", "button", "double", "fast", "up"]
-    }
-  },
-  {
-    "cp": 9196,
-    "char": "⏬",
-    "name": "BLACK DOWN-POINTING DOUBLE TRIANGLE",
-    "ru": "два треугольника острием вниз",
-    "en": "fast down button",
-    "keywords": {
-      "ru": [
-        "вниз",
-        "два треугольника",
-        "два треугольника острием вниз",
-        "кнопка",
-        "стрелка",
-        "стрелки вниз"
-      ],
-      "en": ["arrow", "button", "double", "down", "fast"]
-    }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9197,
@@ -1959,7 +2333,9 @@
         "черта"
       ],
       "en": ["arrow", "button", "next", "scene", "track", "triangle"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9198,
@@ -1979,7 +2355,9 @@
         "предыдущий трек"
       ],
       "en": ["arrow", "button", "last", "previous", "scene", "track", "triangle"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9199,
@@ -2001,18 +2379,9 @@
         "треугольник"
       ],
       "en": ["arrow", "button", "pause", "play", "right", "triangle"]
-    }
-  },
-  {
-    "cp": 9200,
-    "char": "⏰",
-    "name": "ALARM CLOCK",
-    "ru": "будильник",
-    "en": "alarm clock",
-    "keywords": {
-      "ru": ["будильник", "время", "заводить", "звенит", "напоминание", "подъем", "сигнал", "часы"],
-      "en": ["alarm", "clock", "hours", "hrs", "late", "time", "waiting"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9201,
@@ -2023,7 +2392,9 @@
     "keywords": {
       "ru": ["время", "кнопка", "секундомер", "стрелки", "таймер", "точность", "часы"],
       "en": ["clock", "stopwatch", "time"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9202,
@@ -2031,18 +2402,9 @@
     "name": "TIMER CLOCK",
     "ru": "таймер",
     "en": "timer clock",
-    "keywords": { "ru": ["время", "отсчет", "сигнал", "таймер", "часы"], "en": ["clock", "timer"] }
-  },
-  {
-    "cp": 9203,
-    "char": "⏳",
-    "name": "HOURGLASS WITH FLOWING SAND",
-    "ru": "время пошло",
-    "en": "hourglass not done",
-    "keywords": {
-      "ru": ["время", "время пошло", "песок", "песочные", "часы"],
-      "en": ["done", "flowing", "hourglass", "hours", "not", "sand", "timer", "waiting", "yolo"]
-    }
+    "keywords": { "ru": ["время", "отсчет", "сигнал", "таймер", "часы"], "en": ["clock", "timer"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9204,
@@ -2050,7 +2412,9 @@
     "name": "BLACK MEDIUM LEFT-POINTING TRIANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9205,
@@ -2058,7 +2422,9 @@
     "name": "BLACK MEDIUM RIGHT-POINTING TRIANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9206,
@@ -2066,7 +2432,9 @@
     "name": "BLACK MEDIUM UP-POINTING TRIANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9207,
@@ -2074,7 +2442,9 @@
     "name": "BLACK MEDIUM DOWN-POINTING TRIANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9208,
@@ -2085,7 +2455,9 @@
     "keywords": {
       "ru": ["две черты", "кнопка", "кнопка паузы", "остановить", "пауза", "стоп"],
       "en": ["bar", "button", "double", "pause", "vertical"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9209,
@@ -2096,7 +2468,9 @@
     "keywords": {
       "ru": ["кнопка", "остановить", "остановка", "стоп"],
       "en": ["button", "square", "stop"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9210,
@@ -2107,7 +2481,9 @@
     "keywords": {
       "ru": ["записать", "запись", "кнопка", "круг", "начать запись"],
       "en": ["button", "circle", "record"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9211,
@@ -2115,7 +2491,9 @@
     "name": "POWER SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9212,
@@ -2123,7 +2501,9 @@
     "name": "POWER ON-OFF SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9213,
@@ -2131,7 +2511,9 @@
     "name": "POWER ON SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9214,
@@ -2139,7 +2521,9 @@
     "name": "POWER SLEEP SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 9215,
@@ -2147,6 +2531,8 @@
     "name": "OBSERVER EYE SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   }
 ]

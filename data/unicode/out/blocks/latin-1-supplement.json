@@ -5,7 +5,9 @@
     "name": "NO-BREAK SPACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 161,
@@ -21,7 +23,9 @@
         "перевернутый восклицательный знак"
       ],
       "en": ["bang", "exclamation", "inverted", "mark", "point"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 162,
@@ -29,7 +33,9 @@
     "name": "CENT SIGN",
     "ru": "цент",
     "en": "cent",
-    "keywords": { "ru": ["цент", "цента", "центы"], "en": ["cent"] }
+    "keywords": { "ru": ["цент", "цента", "центы"], "en": ["cent"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 163,
@@ -40,7 +46,9 @@
     "keywords": {
       "ru": ["валюта", "стерлинги", "фунт", "фунт стерлингов"],
       "en": ["currency", "EGP", "GBP", "pound"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 164,
@@ -48,7 +56,9 @@
     "name": "CURRENCY SIGN",
     "ru": "неизвестная валюта",
     "en": "Unknown Currency",
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 165,
@@ -59,7 +69,9 @@
     "keywords": {
       "ru": ["валюта", "иена", "китайский юань", "юань", "японская иена"],
       "en": ["CNY", "currency", "JPY", "yen", "yuan"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 166,
@@ -67,7 +79,9 @@
     "name": "BROKEN BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 167,
@@ -78,7 +92,9 @@
     "keywords": {
       "ru": ["параграф", "пункт", "раздел"],
       "en": ["paragraph", "part", "section", "silcrow"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 168,
@@ -89,7 +105,9 @@
     "keywords": {
       "ru": ["диерезис", "трема", "умлаут", "умляут"],
       "en": ["diaeresis", "tréma", "umlaut"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 169,
@@ -110,7 +128,9 @@
         "символ"
       ],
       "en": ["C", "copyright"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 170,
@@ -118,7 +138,9 @@
     "name": "FEMININE ORDINAL INDICATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 171,
@@ -137,7 +159,9 @@
         "шеврон"
       ],
       "en": ["angle", "brackets", "carets", "chevron", "guillemet", "left", "quote"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 172,
@@ -145,7 +169,9 @@
     "name": "NOT SIGN",
     "ru": "отрицание",
     "en": "negation",
-    "keywords": { "ru": ["не", "отрицание"], "en": ["negation", "not"] }
+    "keywords": { "ru": ["не", "отрицание"], "en": ["negation", "not"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 173,
@@ -153,7 +179,9 @@
     "name": "SOFT HYPHEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 174,
@@ -169,7 +197,9 @@
         "товарный знак"
       ],
       "en": ["R", "registered"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 175,
@@ -177,7 +207,9 @@
     "name": "MACRON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 176,
@@ -185,7 +217,9 @@
     "name": "DEGREE SIGN",
     "ru": "градус",
     "en": "degree",
-    "keywords": { "ru": ["градус", "крепость", "угол"], "en": ["degree", "hour", "proof"] }
+    "keywords": { "ru": ["градус", "крепость", "угол"], "en": ["degree", "hour", "proof"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 177,
@@ -193,7 +227,9 @@
     "name": "PLUS-MINUS SIGN",
     "ru": "плюс-минус",
     "en": "plus-minus",
-    "keywords": { "ru": ["плюс минус", "плюс-минус"], "en": ["plus-minus"] }
+    "keywords": { "ru": ["плюс минус", "плюс-минус"], "en": ["plus-minus"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 178,
@@ -204,7 +240,9 @@
     "keywords": {
       "ru": ["в квадрате", "два", "квадрат", "надстрочная цифра два", "надстрочный", "степень"],
       "en": ["squared", "superscript", "two"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 179,
@@ -215,7 +253,9 @@
     "keywords": {
       "ru": ["в кубе", "куб", "надстрочная", "надстрочная цифра три", "степень", "три"],
       "en": ["cubed", "superscript", "three"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 180,
@@ -223,7 +263,9 @@
     "name": "ACUTE ACCENT",
     "ru": "акут",
     "en": "acute accent",
-    "keywords": { "ru": ["акут", "ударение"], "en": ["accent", "acute", "tone"] }
+    "keywords": { "ru": ["акут", "ударение"], "en": ["accent", "acute", "tone"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 181,
@@ -231,7 +273,9 @@
     "name": "MICRO SIGN",
     "ru": "значок микро",
     "en": "micro sign",
-    "keywords": { "ru": ["значок микро", "измерение"], "en": ["measure", "micro", "sign"] }
+    "keywords": { "ru": ["значок микро", "измерение"], "en": ["measure", "micro", "sign"] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 182,
@@ -242,7 +286,9 @@
     "keywords": {
       "ru": ["абзац", "знак", "знак абзаца", "пилкроу"],
       "en": ["alinea", "mark", "paragraph", "paraph", "pilcrow"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 183,
@@ -253,7 +299,9 @@
     "keywords": {
       "ru": ["интерпункт", "средняя", "точка"],
       "en": ["dot", "interpunct", "middle", "middot"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 184,
@@ -261,7 +309,9 @@
     "name": "CEDILLA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 185,
@@ -272,7 +322,9 @@
     "keywords": {
       "ru": ["надстрочная цифра один", "надстрочный", "один", "степень"],
       "en": ["one", "superscript"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 186,
@@ -280,7 +332,9 @@
     "name": "MASCULINE ORDINAL INDICATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 187,
@@ -299,7 +353,9 @@
         "шеврон"
       ],
       "en": ["angle", "brackets", "carets", "chevron", "guillemet", "quote", "right"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 188,
@@ -307,7 +363,9 @@
     "name": "VULGAR FRACTION ONE QUARTER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 189,
@@ -315,7 +373,9 @@
     "name": "VULGAR FRACTION ONE HALF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 190,
@@ -323,7 +383,9 @@
     "name": "VULGAR FRACTION THREE QUARTERS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 191,
@@ -340,7 +402,9 @@
         "перевернутый вопросительный знак"
       ],
       "en": ["inverted", "mark", "question"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 192,
@@ -348,7 +412,9 @@
     "name": "LATIN CAPITAL LETTER A WITH GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 193,
@@ -356,7 +422,9 @@
     "name": "LATIN CAPITAL LETTER A WITH ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 194,
@@ -364,7 +432,9 @@
     "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 195,
@@ -372,7 +442,9 @@
     "name": "LATIN CAPITAL LETTER A WITH TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 196,
@@ -380,7 +452,9 @@
     "name": "LATIN CAPITAL LETTER A WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 197,
@@ -388,7 +462,9 @@
     "name": "LATIN CAPITAL LETTER A WITH RING ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 198,
@@ -396,7 +472,9 @@
     "name": "LATIN CAPITAL LETTER AE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 199,
@@ -404,7 +482,9 @@
     "name": "LATIN CAPITAL LETTER C WITH CEDILLA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 200,
@@ -412,7 +492,9 @@
     "name": "LATIN CAPITAL LETTER E WITH GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 201,
@@ -420,7 +502,9 @@
     "name": "LATIN CAPITAL LETTER E WITH ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 202,
@@ -428,7 +512,9 @@
     "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 203,
@@ -436,7 +522,9 @@
     "name": "LATIN CAPITAL LETTER E WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 204,
@@ -444,7 +532,9 @@
     "name": "LATIN CAPITAL LETTER I WITH GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 205,
@@ -452,7 +542,9 @@
     "name": "LATIN CAPITAL LETTER I WITH ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 206,
@@ -460,7 +552,9 @@
     "name": "LATIN CAPITAL LETTER I WITH CIRCUMFLEX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 207,
@@ -468,7 +562,9 @@
     "name": "LATIN CAPITAL LETTER I WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 208,
@@ -476,7 +572,9 @@
     "name": "LATIN CAPITAL LETTER ETH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 209,
@@ -484,7 +582,9 @@
     "name": "LATIN CAPITAL LETTER N WITH TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 210,
@@ -492,7 +592,9 @@
     "name": "LATIN CAPITAL LETTER O WITH GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 211,
@@ -500,7 +602,9 @@
     "name": "LATIN CAPITAL LETTER O WITH ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 212,
@@ -508,7 +612,9 @@
     "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 213,
@@ -516,7 +622,9 @@
     "name": "LATIN CAPITAL LETTER O WITH TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 214,
@@ -524,7 +632,9 @@
     "name": "LATIN CAPITAL LETTER O WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 215,
@@ -535,7 +645,9 @@
     "keywords": {
       "ru": ["знак умножения", "умножение", "умноженный", "умножить"],
       "en": ["multiplication", "multiply", "sign", "times"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 216,
@@ -543,7 +655,9 @@
     "name": "LATIN CAPITAL LETTER O WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 217,
@@ -551,7 +665,9 @@
     "name": "LATIN CAPITAL LETTER U WITH GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 218,
@@ -559,7 +675,9 @@
     "name": "LATIN CAPITAL LETTER U WITH ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 219,
@@ -567,7 +685,9 @@
     "name": "LATIN CAPITAL LETTER U WITH CIRCUMFLEX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 220,
@@ -575,7 +695,9 @@
     "name": "LATIN CAPITAL LETTER U WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 221,
@@ -583,7 +705,9 @@
     "name": "LATIN CAPITAL LETTER Y WITH ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 222,
@@ -591,7 +715,9 @@
     "name": "LATIN CAPITAL LETTER THORN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 223,
@@ -599,7 +725,9 @@
     "name": "LATIN SMALL LETTER SHARP S",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 224,
@@ -607,7 +735,9 @@
     "name": "LATIN SMALL LETTER A WITH GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 225,
@@ -615,7 +745,9 @@
     "name": "LATIN SMALL LETTER A WITH ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 226,
@@ -623,7 +755,9 @@
     "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 227,
@@ -631,7 +765,9 @@
     "name": "LATIN SMALL LETTER A WITH TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 228,
@@ -639,7 +775,9 @@
     "name": "LATIN SMALL LETTER A WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 229,
@@ -647,7 +785,9 @@
     "name": "LATIN SMALL LETTER A WITH RING ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 230,
@@ -655,7 +795,9 @@
     "name": "LATIN SMALL LETTER AE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 231,
@@ -663,7 +805,9 @@
     "name": "LATIN SMALL LETTER C WITH CEDILLA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 232,
@@ -671,7 +815,9 @@
     "name": "LATIN SMALL LETTER E WITH GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 233,
@@ -679,7 +825,9 @@
     "name": "LATIN SMALL LETTER E WITH ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 234,
@@ -687,7 +835,9 @@
     "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 235,
@@ -695,7 +845,9 @@
     "name": "LATIN SMALL LETTER E WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 236,
@@ -703,7 +855,9 @@
     "name": "LATIN SMALL LETTER I WITH GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 237,
@@ -711,7 +865,9 @@
     "name": "LATIN SMALL LETTER I WITH ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 238,
@@ -719,7 +875,9 @@
     "name": "LATIN SMALL LETTER I WITH CIRCUMFLEX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 239,
@@ -727,7 +885,9 @@
     "name": "LATIN SMALL LETTER I WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 240,
@@ -735,7 +895,9 @@
     "name": "LATIN SMALL LETTER ETH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 241,
@@ -743,7 +905,9 @@
     "name": "LATIN SMALL LETTER N WITH TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 242,
@@ -751,7 +915,9 @@
     "name": "LATIN SMALL LETTER O WITH GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 243,
@@ -759,7 +925,9 @@
     "name": "LATIN SMALL LETTER O WITH ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 244,
@@ -767,7 +935,9 @@
     "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 245,
@@ -775,7 +945,9 @@
     "name": "LATIN SMALL LETTER O WITH TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 246,
@@ -783,7 +955,9 @@
     "name": "LATIN SMALL LETTER O WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 247,
@@ -794,7 +968,9 @@
     "keywords": {
       "ru": ["деление", "знак деления", "обелюс", "разделить"],
       "en": ["divide", "division", "obelus", "sign"]
-    }
+    },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 248,
@@ -802,7 +978,9 @@
     "name": "LATIN SMALL LETTER O WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 249,
@@ -810,7 +988,9 @@
     "name": "LATIN SMALL LETTER U WITH GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 250,
@@ -818,7 +998,9 @@
     "name": "LATIN SMALL LETTER U WITH ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 251,
@@ -826,7 +1008,9 @@
     "name": "LATIN SMALL LETTER U WITH CIRCUMFLEX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 252,
@@ -834,7 +1018,9 @@
     "name": "LATIN SMALL LETTER U WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 253,
@@ -842,7 +1028,9 @@
     "name": "LATIN SMALL LETTER Y WITH ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 254,
@@ -850,7 +1038,9 @@
     "name": "LATIN SMALL LETTER THORN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 255,
@@ -858,6 +1048,8 @@
     "name": "LATIN SMALL LETTER Y WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   }
 ]

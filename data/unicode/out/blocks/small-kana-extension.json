@@ -5,7 +5,9 @@
     "name": "HIRAGANA LETTER SMALL KO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 110928,
@@ -13,7 +15,9 @@
     "name": "HIRAGANA LETTER SMALL WI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 110929,
@@ -21,7 +25,9 @@
     "name": "HIRAGANA LETTER SMALL WE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 110930,
@@ -29,7 +35,9 @@
     "name": "HIRAGANA LETTER SMALL WO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 110933,
@@ -37,7 +45,9 @@
     "name": "KATAKANA LETTER SMALL KO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 110948,
@@ -45,7 +55,9 @@
     "name": "KATAKANA LETTER SMALL WI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 110949,
@@ -53,7 +65,9 @@
     "name": "KATAKANA LETTER SMALL WE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 110950,
@@ -61,7 +75,9 @@
     "name": "KATAKANA LETTER SMALL WO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 110951,
@@ -69,7 +85,9 @@
     "name": "KATAKANA LETTER SMALL N",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   },
   {
     "cp": 110952,
@@ -77,6 +95,8 @@
     "name": "KATAKANA LETTER SMALL ARCHAIC YE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [],
+    "concepts": []
   }
 ]

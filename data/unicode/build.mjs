@@ -3,7 +3,7 @@
 //   node data/unicode/build.mjs
 //
 // Sources (downloaded once into data/raw/unicode/, which is gitignored):
-//   - UCD UnicodeData.txt, Blocks.txt, EastAsianWidth.txt for UNICODE_VERSION
+//   - UCD UnicodeData.txt, Blocks.txt, EastAsianWidth.txt, emoji/emoji-data.txt for UNICODE_VERSION
 //   - CLDR annotations + annotationsDerived (ru, en) from unicode-org/cldr-json at CLDR_VERSION
 // Downloaded files are treated as untrusted data: they are only parsed, never executed.
 //
@@ -11,9 +11,17 @@
 //   out/blocks.json         every block that has at least one included character
 //   out/blocks/<id>.json    per-character records for non-lazy blocks
 //   out/stats.json          versions, counts and sizes
+//   out/search.json         compact search index for the site (see buildSearchIndex)
+//
+// Search vocabulary (hand-made, optional while being written):
+//   concepts.json   concepts with ru/en search terms and the chars that depict / resemble them
+//   words-ru.json   Russian translation of every Unicode name token, used for `desc`
 //
 // Included characters: every assigned code point except surrogates (Cs), private use (Co),
-// C0/C1 controls (Cc) and noncharacters (never listed in UnicodeData.txt). Blocks left with no
+// C0/C1 controls (Cc), noncharacters (never listed in UnicodeData.txt) and classic emoji:
+// code points with Emoji_Presentation=Yes, which render as colour pictures by default
+// (😀, 🐱, ⌚), plus every Emoji=Yes code point from U+1F000 up (🕊, 🌡, 🅰): phones draw
+// those as colour emoji too. Text-default BMP symbols that can also be emoji (♥ ☺ ★ ✂) stay. Blocks left with no
 // characters (surrogate and private use blocks) are omitted from blocks.json.
 //
 // Large blocks with algorithmic names. CJK Unified Ideographs (+ extensions), Hangul Syllables,
@@ -50,6 +58,7 @@ const SOURCES = {
   UnicodeData: [`${UCD_BASE}/UnicodeData.txt`, `ucd-${UNICODE_VERSION}/UnicodeData.txt`],
   Blocks: [`${UCD_BASE}/Blocks.txt`, `ucd-${UNICODE_VERSION}/Blocks.txt`],
   EastAsianWidth: [`${UCD_BASE}/EastAsianWidth.txt`, `ucd-${UNICODE_VERSION}/EastAsianWidth.txt`],
+  EmojiData: [`${UCD_BASE}/emoji/emoji-data.txt`, `ucd-${UNICODE_VERSION}/emoji/emoji-data.txt`],
 };
 for (const loc of LOCALES) {
   SOURCES[`annotations-${loc}`] = [
@@ -268,6 +277,62 @@ function toRuns(cps) {
   return runs;
 }
 
+/** Code points with the given binary property in emoji-data.txt. */
+function parseEmojiProperty(text, property) {
+  const cps = new Set();
+  for (const [range, prop] of ucdLines(text)) {
+    if (prop !== property) continue;
+    const [first, last] = parseRange(range);
+    for (let cp = first; cp <= last; cp++) cps.add(cp);
+  }
+  return cps;
+}
+
+const readOptionalJson = (file) =>
+  existsSync(join(HERE, file)) ? JSON.parse(readFileSync(join(HERE, file), 'utf8')) : null;
+
+/** Russian characteristics of a character from its Unicode name, e.g. ["стрелка", "влево"]. */
+function describe(name, wordsRu) {
+  const words = [];
+  for (const token of name.split(/[ -]/)) {
+    const ru = wordsRu[token];
+    if (ru && !words.includes(ru)) words.push(ru);
+  }
+  return words;
+}
+
+const searchWords = (texts) => [
+  ...new Set(texts.flatMap((t) => (t ? (t.toLowerCase().match(/[\p{L}\p{N}]+/gu) ?? []) : []))),
+];
+
+/**
+ * out/search.json: { blocks: [id], concepts: [{id, ru, en, chars, like}],
+ *   chars: [[char, blockIndex, "space separated words", ruLabel, enLabel]] }.
+ * Labels: the CLDR name, else the Russian description / lowercased Unicode name.
+ * Words come from the Unicode name, the Russian description and CLDR names and keywords;
+ * the site normalizes and stems them when it loads the index.
+ */
+function buildSearchIndex(entries, concepts) {
+  const blocks = [];
+  const chars = [];
+  for (const { block, records } of entries) {
+    const b = blocks.push(block.id) - 1;
+    for (const r of records) {
+      const words = searchWords([
+        r.name,
+        ...r.desc,
+        r.ru,
+        r.en,
+        ...r.keywords.ru,
+        ...r.keywords.en,
+      ]);
+      const ru = r.ru ?? (r.desc.length ? r.desc.join(', ') : r.name.toLowerCase());
+      chars.push([r.char, b, words.join(' '), ru, r.en ?? r.name.toLowerCase()]);
+    }
+  }
+  return { blocks, concepts: concepts ?? [], chars };
+}
+
 async function main() {
   for (const key of Object.keys(SOURCES)) await download(key);
   const path = (key) => join(RAW, SOURCES[key][1]);
@@ -275,12 +340,25 @@ async function main() {
   const { chars, ranges } = parseUnicodeData(readText(path('UnicodeData')));
   const blocks = parseBlocks(readText(path('Blocks')));
   WIDE = parseWide(readText(path('EastAsianWidth')));
+  const emojiData = readText(path('EmojiData'));
+  const emoji = parseEmojiProperty(emojiData, 'Emoji_Presentation');
+  for (const cp of parseEmojiProperty(emojiData, 'Emoji')) if (cp >= 0x1f000) emoji.add(cp);
   const cldr = Object.fromEntries(
     LOCALES.map((loc) => [
       loc,
       parseCldr(readText(path(`annotations-${loc}`)), readText(path(`annotationsDerived-${loc}`))),
     ]),
   );
+  const concepts = readOptionalJson('concepts.json');
+  const wordsRu = readOptionalJson('words-ru.json') ?? {};
+  /** @type {Map<string, string[]>} char -> concept ids */
+  const conceptsOf = new Map();
+  for (const c of concepts ?? []) {
+    for (const ch of [...c.chars, ...c.like]) {
+      conceptsOf.set(ch, [...(conceptsOf.get(ch) ?? []), c.id]);
+    }
+  }
+  const searchEntries = [];
   const lookup = (loc, ch) => cldr[loc].get(ch) ?? cldr[loc].get(`${ch}️`) ?? null;
 
   rmSync(OUT, { recursive: true, force: true });
@@ -309,7 +387,7 @@ async function main() {
     const listed = [];
     for (let cp = block.start; cp <= block.end; cp++) {
       const c = chars.get(cp);
-      if (c && !EXCLUDED_GC.has(c.gc)) listed.push(cp);
+      if (c && !EXCLUDED_GC.has(c.gc) && !emoji.has(cp)) listed.push(cp);
     }
     if (rule && listed.length) throw new Error(`${block.name}: range mixed with listed chars`);
     cps.push(...listed);
@@ -365,9 +443,12 @@ async function main() {
           ru: ann.ru?.name ?? null,
           en: ann.en?.name ?? null,
           keywords: { ru: ann.ru?.keywords ?? [], en: ann.en?.keywords ?? [] },
+          desc: describe(chars.get(cp).name, wordsRu),
+          concepts: conceptsOf.get(ch) ?? [],
         };
       });
       writeFileSync(join(OUT, 'blocks', `${id}.json`), toJson(records));
+      searchEntries.push({ block: entry, records });
     }
     index.push(entry);
   }
@@ -378,6 +459,9 @@ async function main() {
   }
 
   writeFileSync(join(OUT, 'blocks.json'), toJson(index));
+  // One line per character keeps the index small; it is generated, not hand-edited.
+  const search = buildSearchIndex(searchEntries, concepts);
+  writeFileSync(join(OUT, 'search.json'), `${JSON.stringify(search)}\n`);
 
   // Sizes are measured after writing; stats.json itself is excluded from the total.
   let totalBytes = statSync(join(OUT, 'blocks.json')).size;
@@ -399,6 +483,8 @@ async function main() {
     groups: [...groups].sort(),
     totalBytes,
     largestFile: largest,
+    searchIndexBytes: statSync(join(OUT, 'search.json')).size,
+    conceptCount: concepts?.length ?? 0,
   };
   writeFileSync(join(OUT, 'stats.json'), toJson(stats));
   console.log(stats);

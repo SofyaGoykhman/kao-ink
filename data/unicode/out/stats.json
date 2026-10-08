@@ -1,9 +1,9 @@
 {
   "unicodeVersion": "18.0.0",
   "cldrVersion": "48.2.3",
-  "blockCount": 347,
+  "blockCount": 345,
   "lazyBlockCount": 21,
-  "charCount": 172808,
+  "charCount": 171483,
   "lazyCharCount": 137457,
   "groups": [
     "arrows",
@@ -19,6 +19,8 @@
     "symbols",
     "technical"
   ],
-  "totalBytes": 6083457,
-  "largestFile": { "file": "blocks/miscellaneous-symbols-and-pictographs.json", "bytes": 267428 }
+  "totalBytes": 6782297,
+  "largestFile": { "file": "blocks/yi-syllables.json", "bytes": 213753 },
+  "searchIndexBytes": 3431002,
+  "conceptCount": 0
 }
