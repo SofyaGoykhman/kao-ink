@@ -1,0 +1,466 @@
+[
+  {
+    "cp": 64256,
+    "char": "ﬀ",
+    "name": "LATIN SMALL LIGATURE FF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64257,
+    "char": "ﬁ",
+    "name": "LATIN SMALL LIGATURE FI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64258,
+    "char": "ﬂ",
+    "name": "LATIN SMALL LIGATURE FL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64259,
+    "char": "ﬃ",
+    "name": "LATIN SMALL LIGATURE FFI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64260,
+    "char": "ﬄ",
+    "name": "LATIN SMALL LIGATURE FFL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64261,
+    "char": "ﬅ",
+    "name": "LATIN SMALL LIGATURE LONG S T",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64262,
+    "char": "ﬆ",
+    "name": "LATIN SMALL LIGATURE ST",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64275,
+    "char": "ﬓ",
+    "name": "ARMENIAN SMALL LIGATURE MEN NOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64276,
+    "char": "ﬔ",
+    "name": "ARMENIAN SMALL LIGATURE MEN ECH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64277,
+    "char": "ﬕ",
+    "name": "ARMENIAN SMALL LIGATURE MEN INI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64278,
+    "char": "ﬖ",
+    "name": "ARMENIAN SMALL LIGATURE VEW NOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64279,
+    "char": "ﬗ",
+    "name": "ARMENIAN SMALL LIGATURE MEN XEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64285,
+    "char": "יִ",
+    "name": "HEBREW LETTER YOD WITH HIRIQ",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64286,
+    "char": "ﬞ",
+    "name": "HEBREW POINT JUDEO-SPANISH VARIKA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64287,
+    "char": "ײַ",
+    "name": "HEBREW LIGATURE YIDDISH YOD YOD PATAH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64288,
+    "char": "ﬠ",
+    "name": "HEBREW LETTER ALTERNATIVE AYIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64289,
+    "char": "ﬡ",
+    "name": "HEBREW LETTER WIDE ALEF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64290,
+    "char": "ﬢ",
+    "name": "HEBREW LETTER WIDE DALET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64291,
+    "char": "ﬣ",
+    "name": "HEBREW LETTER WIDE HE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64292,
+    "char": "ﬤ",
+    "name": "HEBREW LETTER WIDE KAF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64293,
+    "char": "ﬥ",
+    "name": "HEBREW LETTER WIDE LAMED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64294,
+    "char": "ﬦ",
+    "name": "HEBREW LETTER WIDE FINAL MEM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64295,
+    "char": "ﬧ",
+    "name": "HEBREW LETTER WIDE RESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64296,
+    "char": "ﬨ",
+    "name": "HEBREW LETTER WIDE TAV",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64297,
+    "char": "﬩",
+    "name": "HEBREW LETTER ALTERNATIVE PLUS SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64298,
+    "char": "שׁ",
+    "name": "HEBREW LETTER SHIN WITH SHIN DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64299,
+    "char": "שׂ",
+    "name": "HEBREW LETTER SHIN WITH SIN DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64300,
+    "char": "שּׁ",
+    "name": "HEBREW LETTER SHIN WITH DAGESH AND SHIN DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64301,
+    "char": "שּׂ",
+    "name": "HEBREW LETTER SHIN WITH DAGESH AND SIN DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64302,
+    "char": "אַ",
+    "name": "HEBREW LETTER ALEF WITH PATAH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64303,
+    "char": "אָ",
+    "name": "HEBREW LETTER ALEF WITH QAMATS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64304,
+    "char": "אּ",
+    "name": "HEBREW LETTER ALEF WITH MAPIQ",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64305,
+    "char": "בּ",
+    "name": "HEBREW LETTER BET WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64306,
+    "char": "גּ",
+    "name": "HEBREW LETTER GIMEL WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64307,
+    "char": "דּ",
+    "name": "HEBREW LETTER DALET WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64308,
+    "char": "הּ",
+    "name": "HEBREW LETTER HE WITH MAPIQ",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64309,
+    "char": "וּ",
+    "name": "HEBREW LETTER VAV WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64310,
+    "char": "זּ",
+    "name": "HEBREW LETTER ZAYIN WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64312,
+    "char": "טּ",
+    "name": "HEBREW LETTER TET WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64313,
+    "char": "יּ",
+    "name": "HEBREW LETTER YOD WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64314,
+    "char": "ךּ",
+    "name": "HEBREW LETTER FINAL KAF WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64315,
+    "char": "כּ",
+    "name": "HEBREW LETTER KAF WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64316,
+    "char": "לּ",
+    "name": "HEBREW LETTER LAMED WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64318,
+    "char": "מּ",
+    "name": "HEBREW LETTER MEM WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64320,
+    "char": "נּ",
+    "name": "HEBREW LETTER NUN WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64321,
+    "char": "סּ",
+    "name": "HEBREW LETTER SAMEKH WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64323,
+    "char": "ףּ",
+    "name": "HEBREW LETTER FINAL PE WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64324,
+    "char": "פּ",
+    "name": "HEBREW LETTER PE WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64326,
+    "char": "צּ",
+    "name": "HEBREW LETTER TSADI WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64327,
+    "char": "קּ",
+    "name": "HEBREW LETTER QOF WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64328,
+    "char": "רּ",
+    "name": "HEBREW LETTER RESH WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64329,
+    "char": "שּ",
+    "name": "HEBREW LETTER SHIN WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64330,
+    "char": "תּ",
+    "name": "HEBREW LETTER TAV WITH DAGESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64331,
+    "char": "וֹ",
+    "name": "HEBREW LETTER VAV WITH HOLAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64332,
+    "char": "בֿ",
+    "name": "HEBREW LETTER BET WITH RAFE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64333,
+    "char": "כֿ",
+    "name": "HEBREW LETTER KAF WITH RAFE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64334,
+    "char": "פֿ",
+    "name": "HEBREW LETTER PE WITH RAFE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 64335,
+    "char": "ﭏ",
+    "name": "HEBREW LIGATURE ALEF LAMED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

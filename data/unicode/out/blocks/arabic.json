@@ -1,0 +1,2062 @@
+[
+  {
+    "cp": 1536,
+    "char": "\u0600",
+    "name": "ARABIC NUMBER SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1537,
+    "char": "\u0601",
+    "name": "ARABIC SIGN SANAH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1538,
+    "char": "\u0602",
+    "name": "ARABIC FOOTNOTE MARKER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1539,
+    "char": "\u0603",
+    "name": "ARABIC SIGN SAFHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1540,
+    "char": "\u0604",
+    "name": "ARABIC SIGN SAMVAT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1541,
+    "char": "\u0605",
+    "name": "ARABIC NUMBER MARK ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1542,
+    "char": "؆",
+    "name": "ARABIC-INDIC CUBE ROOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1543,
+    "char": "؇",
+    "name": "ARABIC-INDIC FOURTH ROOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1544,
+    "char": "؈",
+    "name": "ARABIC RAY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1545,
+    "char": "؉",
+    "name": "ARABIC-INDIC PER MILLE SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1546,
+    "char": "؊",
+    "name": "ARABIC-INDIC PER TEN THOUSAND SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1547,
+    "char": "؋",
+    "name": "AFGHANI SIGN",
+    "ru": "афгани",
+    "en": "Afghan Afghani",
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1548,
+    "char": "،",
+    "name": "ARABIC COMMA",
+    "ru": "арабская запятая",
+    "en": "arabic comma",
+    "keywords": { "ru": ["арабская", "запятая"], "en": ["arabic", "comma"] }
+  },
+  {
+    "cp": 1549,
+    "char": "؍",
+    "name": "ARABIC DATE SEPARATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1550,
+    "char": "؎",
+    "name": "ARABIC POETIC VERSE SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1551,
+    "char": "؏",
+    "name": "ARABIC SIGN MISRA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1552,
+    "char": "ؐ",
+    "name": "ARABIC SIGN SALLALLAHOU ALAYHE WASSALLAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1553,
+    "char": "ؑ",
+    "name": "ARABIC SIGN ALAYHE ASSALLAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1554,
+    "char": "ؒ",
+    "name": "ARABIC SIGN RAHMATULLAH ALAYHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1555,
+    "char": "ؓ",
+    "name": "ARABIC SIGN RADI ALLAHOU ANHU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1556,
+    "char": "ؔ",
+    "name": "ARABIC SIGN TAKHALLUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1557,
+    "char": "ؕ",
+    "name": "ARABIC SMALL HIGH TAH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1558,
+    "char": "ؖ",
+    "name": "ARABIC SMALL HIGH LIGATURE ALEF WITH LAM WITH YEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1559,
+    "char": "ؗ",
+    "name": "ARABIC SMALL HIGH ZAIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1560,
+    "char": "ؘ",
+    "name": "ARABIC SMALL FATHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1561,
+    "char": "ؙ",
+    "name": "ARABIC SMALL DAMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1562,
+    "char": "ؚ",
+    "name": "ARABIC SMALL KASRA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1563,
+    "char": "؛",
+    "name": "ARABIC SEMICOLON",
+    "ru": "арабская точка с запятой",
+    "en": "arabic semicolon",
+    "keywords": {
+      "ru": ["арабская", "арабская точка с запятой", "точка с запятой"],
+      "en": ["arabic", "semi-colon", "semicolon"]
+    }
+  },
+  {
+    "cp": 1564,
+    "char": "\u061c",
+    "name": "ARABIC LETTER MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1565,
+    "char": "؝",
+    "name": "ARABIC END OF TEXT MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1566,
+    "char": "؞",
+    "name": "ARABIC TRIPLE DOT PUNCTUATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1567,
+    "char": "؟",
+    "name": "ARABIC QUESTION MARK",
+    "ru": "арабский вопросительный знак",
+    "en": "arabic question mark",
+    "keywords": {
+      "ru": [
+        "арабский",
+        "арабский вопросительный знак",
+        "вопрос",
+        "вопросительный знак",
+        "знак вопроса"
+      ],
+      "en": ["arabic", "mark", "question"]
+    }
+  },
+  {
+    "cp": 1568,
+    "char": "ؠ",
+    "name": "ARABIC LETTER KASHMIRI YEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1569,
+    "char": "ء",
+    "name": "ARABIC LETTER HAMZA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1570,
+    "char": "آ",
+    "name": "ARABIC LETTER ALEF WITH MADDA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1571,
+    "char": "أ",
+    "name": "ARABIC LETTER ALEF WITH HAMZA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1572,
+    "char": "ؤ",
+    "name": "ARABIC LETTER WAW WITH HAMZA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1573,
+    "char": "إ",
+    "name": "ARABIC LETTER ALEF WITH HAMZA BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1574,
+    "char": "ئ",
+    "name": "ARABIC LETTER YEH WITH HAMZA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1575,
+    "char": "ا",
+    "name": "ARABIC LETTER ALEF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1576,
+    "char": "ب",
+    "name": "ARABIC LETTER BEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1577,
+    "char": "ة",
+    "name": "ARABIC LETTER TEH MARBUTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1578,
+    "char": "ت",
+    "name": "ARABIC LETTER TEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1579,
+    "char": "ث",
+    "name": "ARABIC LETTER THEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1580,
+    "char": "ج",
+    "name": "ARABIC LETTER JEEM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1581,
+    "char": "ح",
+    "name": "ARABIC LETTER HAH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1582,
+    "char": "خ",
+    "name": "ARABIC LETTER KHAH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1583,
+    "char": "د",
+    "name": "ARABIC LETTER DAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1584,
+    "char": "ذ",
+    "name": "ARABIC LETTER THAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1585,
+    "char": "ر",
+    "name": "ARABIC LETTER REH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1586,
+    "char": "ز",
+    "name": "ARABIC LETTER ZAIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1587,
+    "char": "س",
+    "name": "ARABIC LETTER SEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1588,
+    "char": "ش",
+    "name": "ARABIC LETTER SHEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1589,
+    "char": "ص",
+    "name": "ARABIC LETTER SAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1590,
+    "char": "ض",
+    "name": "ARABIC LETTER DAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1591,
+    "char": "ط",
+    "name": "ARABIC LETTER TAH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1592,
+    "char": "ظ",
+    "name": "ARABIC LETTER ZAH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1593,
+    "char": "ع",
+    "name": "ARABIC LETTER AIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1594,
+    "char": "غ",
+    "name": "ARABIC LETTER GHAIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1595,
+    "char": "ػ",
+    "name": "ARABIC LETTER KEHEH WITH TWO DOTS ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1596,
+    "char": "ؼ",
+    "name": "ARABIC LETTER KEHEH WITH THREE DOTS BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1597,
+    "char": "ؽ",
+    "name": "ARABIC LETTER FARSI YEH WITH INVERTED V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1598,
+    "char": "ؾ",
+    "name": "ARABIC LETTER FARSI YEH WITH TWO DOTS ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1599,
+    "char": "ؿ",
+    "name": "ARABIC LETTER FARSI YEH WITH THREE DOTS ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1600,
+    "char": "ـ",
+    "name": "ARABIC TATWEEL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1601,
+    "char": "ف",
+    "name": "ARABIC LETTER FEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1602,
+    "char": "ق",
+    "name": "ARABIC LETTER QAF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1603,
+    "char": "ك",
+    "name": "ARABIC LETTER KAF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1604,
+    "char": "ل",
+    "name": "ARABIC LETTER LAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1605,
+    "char": "م",
+    "name": "ARABIC LETTER MEEM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1606,
+    "char": "ن",
+    "name": "ARABIC LETTER NOON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1607,
+    "char": "ه",
+    "name": "ARABIC LETTER HEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1608,
+    "char": "و",
+    "name": "ARABIC LETTER WAW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1609,
+    "char": "ى",
+    "name": "ARABIC LETTER ALEF MAKSURA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1610,
+    "char": "ي",
+    "name": "ARABIC LETTER YEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1611,
+    "char": "ً",
+    "name": "ARABIC FATHATAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1612,
+    "char": "ٌ",
+    "name": "ARABIC DAMMATAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1613,
+    "char": "ٍ",
+    "name": "ARABIC KASRATAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1614,
+    "char": "َ",
+    "name": "ARABIC FATHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1615,
+    "char": "ُ",
+    "name": "ARABIC DAMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1616,
+    "char": "ِ",
+    "name": "ARABIC KASRA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1617,
+    "char": "ّ",
+    "name": "ARABIC SHADDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1618,
+    "char": "ْ",
+    "name": "ARABIC SUKUN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1619,
+    "char": "ٓ",
+    "name": "ARABIC MADDAH ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1620,
+    "char": "ٔ",
+    "name": "ARABIC HAMZA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1621,
+    "char": "ٕ",
+    "name": "ARABIC HAMZA BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1622,
+    "char": "ٖ",
+    "name": "ARABIC SUBSCRIPT ALEF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1623,
+    "char": "ٗ",
+    "name": "ARABIC INVERTED DAMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1624,
+    "char": "٘",
+    "name": "ARABIC MARK NOON GHUNNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1625,
+    "char": "ٙ",
+    "name": "ARABIC ZWARAKAY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1626,
+    "char": "ٚ",
+    "name": "ARABIC VOWEL SIGN SMALL V ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1627,
+    "char": "ٛ",
+    "name": "ARABIC VOWEL SIGN INVERTED SMALL V ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1628,
+    "char": "ٜ",
+    "name": "ARABIC VOWEL SIGN DOT BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1629,
+    "char": "ٝ",
+    "name": "ARABIC REVERSED DAMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1630,
+    "char": "ٞ",
+    "name": "ARABIC FATHA WITH TWO DOTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1631,
+    "char": "ٟ",
+    "name": "ARABIC WAVY HAMZA BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1632,
+    "char": "٠",
+    "name": "ARABIC-INDIC DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1633,
+    "char": "١",
+    "name": "ARABIC-INDIC DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1634,
+    "char": "٢",
+    "name": "ARABIC-INDIC DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1635,
+    "char": "٣",
+    "name": "ARABIC-INDIC DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1636,
+    "char": "٤",
+    "name": "ARABIC-INDIC DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1637,
+    "char": "٥",
+    "name": "ARABIC-INDIC DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1638,
+    "char": "٦",
+    "name": "ARABIC-INDIC DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1639,
+    "char": "٧",
+    "name": "ARABIC-INDIC DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1640,
+    "char": "٨",
+    "name": "ARABIC-INDIC DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1641,
+    "char": "٩",
+    "name": "ARABIC-INDIC DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1642,
+    "char": "٪",
+    "name": "ARABIC PERCENT SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1643,
+    "char": "٫",
+    "name": "ARABIC DECIMAL SEPARATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1644,
+    "char": "٬",
+    "name": "ARABIC THOUSANDS SEPARATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1645,
+    "char": "٭",
+    "name": "ARABIC FIVE POINTED STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1646,
+    "char": "ٮ",
+    "name": "ARABIC LETTER DOTLESS BEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1647,
+    "char": "ٯ",
+    "name": "ARABIC LETTER DOTLESS QAF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1648,
+    "char": "ٰ",
+    "name": "ARABIC LETTER SUPERSCRIPT ALEF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1649,
+    "char": "ٱ",
+    "name": "ARABIC LETTER ALEF WASLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1650,
+    "char": "ٲ",
+    "name": "ARABIC LETTER ALEF WITH WAVY HAMZA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1651,
+    "char": "ٳ",
+    "name": "ARABIC LETTER ALEF WITH WAVY HAMZA BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1652,
+    "char": "ٴ",
+    "name": "ARABIC LETTER HIGH HAMZA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1653,
+    "char": "ٵ",
+    "name": "ARABIC LETTER HIGH HAMZA ALEF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1654,
+    "char": "ٶ",
+    "name": "ARABIC LETTER HIGH HAMZA WAW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1655,
+    "char": "ٷ",
+    "name": "ARABIC LETTER U WITH HAMZA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1656,
+    "char": "ٸ",
+    "name": "ARABIC LETTER HIGH HAMZA YEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1657,
+    "char": "ٹ",
+    "name": "ARABIC LETTER TTEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1658,
+    "char": "ٺ",
+    "name": "ARABIC LETTER TTEHEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1659,
+    "char": "ٻ",
+    "name": "ARABIC LETTER BEEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1660,
+    "char": "ټ",
+    "name": "ARABIC LETTER TEH WITH RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1661,
+    "char": "ٽ",
+    "name": "ARABIC LETTER TEH WITH THREE DOTS ABOVE DOWNWARDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1662,
+    "char": "پ",
+    "name": "ARABIC LETTER PEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1663,
+    "char": "ٿ",
+    "name": "ARABIC LETTER TEHEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1664,
+    "char": "ڀ",
+    "name": "ARABIC LETTER BEHEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1665,
+    "char": "ځ",
+    "name": "ARABIC LETTER HAH WITH HAMZA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1666,
+    "char": "ڂ",
+    "name": "ARABIC LETTER HAH WITH TWO DOTS VERTICAL ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1667,
+    "char": "ڃ",
+    "name": "ARABIC LETTER NYEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1668,
+    "char": "ڄ",
+    "name": "ARABIC LETTER DYEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1669,
+    "char": "څ",
+    "name": "ARABIC LETTER HAH WITH THREE DOTS ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1670,
+    "char": "چ",
+    "name": "ARABIC LETTER TCHEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1671,
+    "char": "ڇ",
+    "name": "ARABIC LETTER TCHEHEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1672,
+    "char": "ڈ",
+    "name": "ARABIC LETTER DDAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1673,
+    "char": "ډ",
+    "name": "ARABIC LETTER DAL WITH RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1674,
+    "char": "ڊ",
+    "name": "ARABIC LETTER DAL WITH DOT BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1675,
+    "char": "ڋ",
+    "name": "ARABIC LETTER DAL WITH DOT BELOW AND SMALL TAH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1676,
+    "char": "ڌ",
+    "name": "ARABIC LETTER DAHAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1677,
+    "char": "ڍ",
+    "name": "ARABIC LETTER DDAHAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1678,
+    "char": "ڎ",
+    "name": "ARABIC LETTER DUL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1679,
+    "char": "ڏ",
+    "name": "ARABIC LETTER DAL WITH THREE DOTS ABOVE DOWNWARDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1680,
+    "char": "ڐ",
+    "name": "ARABIC LETTER DAL WITH FOUR DOTS ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1681,
+    "char": "ڑ",
+    "name": "ARABIC LETTER RREH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1682,
+    "char": "ڒ",
+    "name": "ARABIC LETTER REH WITH SMALL V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1683,
+    "char": "ړ",
+    "name": "ARABIC LETTER REH WITH RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1684,
+    "char": "ڔ",
+    "name": "ARABIC LETTER REH WITH DOT BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1685,
+    "char": "ڕ",
+    "name": "ARABIC LETTER REH WITH SMALL V BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1686,
+    "char": "ږ",
+    "name": "ARABIC LETTER REH WITH DOT BELOW AND DOT ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1687,
+    "char": "ڗ",
+    "name": "ARABIC LETTER REH WITH TWO DOTS ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1688,
+    "char": "ژ",
+    "name": "ARABIC LETTER JEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1689,
+    "char": "ڙ",
+    "name": "ARABIC LETTER REH WITH FOUR DOTS ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1690,
+    "char": "ښ",
+    "name": "ARABIC LETTER SEEN WITH DOT BELOW AND DOT ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1691,
+    "char": "ڛ",
+    "name": "ARABIC LETTER SEEN WITH THREE DOTS BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1692,
+    "char": "ڜ",
+    "name": "ARABIC LETTER SEEN WITH THREE DOTS BELOW AND THREE DOTS ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1693,
+    "char": "ڝ",
+    "name": "ARABIC LETTER SAD WITH TWO DOTS BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1694,
+    "char": "ڞ",
+    "name": "ARABIC LETTER SAD WITH THREE DOTS ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1695,
+    "char": "ڟ",
+    "name": "ARABIC LETTER TAH WITH THREE DOTS ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1696,
+    "char": "ڠ",
+    "name": "ARABIC LETTER AIN WITH THREE DOTS ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1697,
+    "char": "ڡ",
+    "name": "ARABIC LETTER DOTLESS FEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1698,
+    "char": "ڢ",
+    "name": "ARABIC LETTER FEH WITH DOT MOVED BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1699,
+    "char": "ڣ",
+    "name": "ARABIC LETTER FEH WITH DOT BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1700,
+    "char": "ڤ",
+    "name": "ARABIC LETTER VEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1701,
+    "char": "ڥ",
+    "name": "ARABIC LETTER FEH WITH THREE DOTS BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1702,
+    "char": "ڦ",
+    "name": "ARABIC LETTER PEHEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1703,
+    "char": "ڧ",
+    "name": "ARABIC LETTER QAF WITH DOT ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1704,
+    "char": "ڨ",
+    "name": "ARABIC LETTER QAF WITH THREE DOTS ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1705,
+    "char": "ک",
+    "name": "ARABIC LETTER KEHEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1706,
+    "char": "ڪ",
+    "name": "ARABIC LETTER SWASH KAF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1707,
+    "char": "ګ",
+    "name": "ARABIC LETTER KAF WITH RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1708,
+    "char": "ڬ",
+    "name": "ARABIC LETTER KAF WITH DOT ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1709,
+    "char": "ڭ",
+    "name": "ARABIC LETTER NG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1710,
+    "char": "ڮ",
+    "name": "ARABIC LETTER KAF WITH THREE DOTS BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1711,
+    "char": "گ",
+    "name": "ARABIC LETTER GAF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1712,
+    "char": "ڰ",
+    "name": "ARABIC LETTER GAF WITH RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1713,
+    "char": "ڱ",
+    "name": "ARABIC LETTER NGOEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1714,
+    "char": "ڲ",
+    "name": "ARABIC LETTER GAF WITH TWO DOTS BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1715,
+    "char": "ڳ",
+    "name": "ARABIC LETTER GUEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1716,
+    "char": "ڴ",
+    "name": "ARABIC LETTER GAF WITH THREE DOTS ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1717,
+    "char": "ڵ",
+    "name": "ARABIC LETTER LAM WITH SMALL V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1718,
+    "char": "ڶ",
+    "name": "ARABIC LETTER LAM WITH DOT ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1719,
+    "char": "ڷ",
+    "name": "ARABIC LETTER LAM WITH THREE DOTS ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1720,
+    "char": "ڸ",
+    "name": "ARABIC LETTER LAM WITH THREE DOTS BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1721,
+    "char": "ڹ",
+    "name": "ARABIC LETTER NOON WITH DOT BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1722,
+    "char": "ں",
+    "name": "ARABIC LETTER NOON GHUNNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1723,
+    "char": "ڻ",
+    "name": "ARABIC LETTER RNOON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1724,
+    "char": "ڼ",
+    "name": "ARABIC LETTER NOON WITH RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1725,
+    "char": "ڽ",
+    "name": "ARABIC LETTER NOON WITH THREE DOTS ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1726,
+    "char": "ھ",
+    "name": "ARABIC LETTER HEH DOACHASHMEE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1727,
+    "char": "ڿ",
+    "name": "ARABIC LETTER TCHEH WITH DOT ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1728,
+    "char": "ۀ",
+    "name": "ARABIC LETTER HEH WITH YEH ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1729,
+    "char": "ہ",
+    "name": "ARABIC LETTER HEH GOAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1730,
+    "char": "ۂ",
+    "name": "ARABIC LETTER HEH GOAL WITH HAMZA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1731,
+    "char": "ۃ",
+    "name": "ARABIC LETTER TEH MARBUTA GOAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1732,
+    "char": "ۄ",
+    "name": "ARABIC LETTER WAW WITH RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1733,
+    "char": "ۅ",
+    "name": "ARABIC LETTER KIRGHIZ OE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1734,
+    "char": "ۆ",
+    "name": "ARABIC LETTER OE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1735,
+    "char": "ۇ",
+    "name": "ARABIC LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1736,
+    "char": "ۈ",
+    "name": "ARABIC LETTER YU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1737,
+    "char": "ۉ",
+    "name": "ARABIC LETTER KIRGHIZ YU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1738,
+    "char": "ۊ",
+    "name": "ARABIC LETTER WAW WITH TWO DOTS ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1739,
+    "char": "ۋ",
+    "name": "ARABIC LETTER VE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1740,
+    "char": "ی",
+    "name": "ARABIC LETTER FARSI YEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1741,
+    "char": "ۍ",
+    "name": "ARABIC LETTER YEH WITH TAIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1742,
+    "char": "ێ",
+    "name": "ARABIC LETTER YEH WITH SMALL V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1743,
+    "char": "ۏ",
+    "name": "ARABIC LETTER WAW WITH DOT ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1744,
+    "char": "ې",
+    "name": "ARABIC LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1745,
+    "char": "ۑ",
+    "name": "ARABIC LETTER YEH WITH THREE DOTS BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1746,
+    "char": "ے",
+    "name": "ARABIC LETTER YEH BARREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1747,
+    "char": "ۓ",
+    "name": "ARABIC LETTER YEH BARREE WITH HAMZA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1748,
+    "char": "۔",
+    "name": "ARABIC FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1749,
+    "char": "ە",
+    "name": "ARABIC LETTER AE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1750,
+    "char": "ۖ",
+    "name": "ARABIC SMALL HIGH LIGATURE SAD WITH LAM WITH ALEF MAKSURA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1751,
+    "char": "ۗ",
+    "name": "ARABIC SMALL HIGH LIGATURE QAF WITH LAM WITH ALEF MAKSURA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1752,
+    "char": "ۘ",
+    "name": "ARABIC SMALL HIGH MEEM INITIAL FORM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1753,
+    "char": "ۙ",
+    "name": "ARABIC SMALL HIGH LAM ALEF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1754,
+    "char": "ۚ",
+    "name": "ARABIC SMALL HIGH JEEM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1755,
+    "char": "ۛ",
+    "name": "ARABIC SMALL HIGH THREE DOTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1756,
+    "char": "ۜ",
+    "name": "ARABIC SMALL HIGH SEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1757,
+    "char": "\u06dd",
+    "name": "ARABIC END OF AYAH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1758,
+    "char": "۞",
+    "name": "ARABIC START OF RUB EL HIZB",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1759,
+    "char": "۟",
+    "name": "ARABIC SMALL HIGH ROUNDED ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1760,
+    "char": "۠",
+    "name": "ARABIC SMALL HIGH UPRIGHT RECTANGULAR ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1761,
+    "char": "ۡ",
+    "name": "ARABIC SMALL HIGH DOTLESS HEAD OF KHAH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1762,
+    "char": "ۢ",
+    "name": "ARABIC SMALL HIGH MEEM ISOLATED FORM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1763,
+    "char": "ۣ",
+    "name": "ARABIC SMALL LOW SEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1764,
+    "char": "ۤ",
+    "name": "ARABIC SMALL HIGH MADDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1765,
+    "char": "ۥ",
+    "name": "ARABIC SMALL WAW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1766,
+    "char": "ۦ",
+    "name": "ARABIC SMALL YEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1767,
+    "char": "ۧ",
+    "name": "ARABIC SMALL HIGH YEH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1768,
+    "char": "ۨ",
+    "name": "ARABIC SMALL HIGH NOON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1769,
+    "char": "۩",
+    "name": "ARABIC PLACE OF SAJDAH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1770,
+    "char": "۪",
+    "name": "ARABIC EMPTY CENTRE LOW STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1771,
+    "char": "۫",
+    "name": "ARABIC EMPTY CENTRE HIGH STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1772,
+    "char": "۬",
+    "name": "ARABIC ROUNDED HIGH STOP WITH FILLED CENTRE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1773,
+    "char": "ۭ",
+    "name": "ARABIC SMALL LOW MEEM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1774,
+    "char": "ۮ",
+    "name": "ARABIC LETTER DAL WITH INVERTED V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1775,
+    "char": "ۯ",
+    "name": "ARABIC LETTER REH WITH INVERTED V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1776,
+    "char": "۰",
+    "name": "EXTENDED ARABIC-INDIC DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1777,
+    "char": "۱",
+    "name": "EXTENDED ARABIC-INDIC DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1778,
+    "char": "۲",
+    "name": "EXTENDED ARABIC-INDIC DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1779,
+    "char": "۳",
+    "name": "EXTENDED ARABIC-INDIC DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1780,
+    "char": "۴",
+    "name": "EXTENDED ARABIC-INDIC DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1781,
+    "char": "۵",
+    "name": "EXTENDED ARABIC-INDIC DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1782,
+    "char": "۶",
+    "name": "EXTENDED ARABIC-INDIC DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1783,
+    "char": "۷",
+    "name": "EXTENDED ARABIC-INDIC DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1784,
+    "char": "۸",
+    "name": "EXTENDED ARABIC-INDIC DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1785,
+    "char": "۹",
+    "name": "EXTENDED ARABIC-INDIC DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1786,
+    "char": "ۺ",
+    "name": "ARABIC LETTER SHEEN WITH DOT BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1787,
+    "char": "ۻ",
+    "name": "ARABIC LETTER DAD WITH DOT BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1788,
+    "char": "ۼ",
+    "name": "ARABIC LETTER GHAIN WITH DOT BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1789,
+    "char": "۽",
+    "name": "ARABIC SIGN SINDHI AMPERSAND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1790,
+    "char": "۾",
+    "name": "ARABIC SIGN SINDHI POSTPOSITION MEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1791,
+    "char": "ۿ",
+    "name": "ARABIC LETTER HEH WITH INVERTED V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

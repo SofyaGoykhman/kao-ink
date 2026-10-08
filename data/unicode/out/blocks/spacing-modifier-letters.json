@@ -1,0 +1,642 @@
+[
+  {
+    "cp": 688,
+    "char": "ʰ",
+    "name": "MODIFIER LETTER SMALL H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 689,
+    "char": "ʱ",
+    "name": "MODIFIER LETTER SMALL H WITH HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 690,
+    "char": "ʲ",
+    "name": "MODIFIER LETTER SMALL J",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 691,
+    "char": "ʳ",
+    "name": "MODIFIER LETTER SMALL R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 692,
+    "char": "ʴ",
+    "name": "MODIFIER LETTER SMALL TURNED R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 693,
+    "char": "ʵ",
+    "name": "MODIFIER LETTER SMALL TURNED R WITH HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 694,
+    "char": "ʶ",
+    "name": "MODIFIER LETTER SMALL CAPITAL INVERTED R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 695,
+    "char": "ʷ",
+    "name": "MODIFIER LETTER SMALL W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 696,
+    "char": "ʸ",
+    "name": "MODIFIER LETTER SMALL Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 697,
+    "char": "ʹ",
+    "name": "MODIFIER LETTER PRIME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 698,
+    "char": "ʺ",
+    "name": "MODIFIER LETTER DOUBLE PRIME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 699,
+    "char": "ʻ",
+    "name": "MODIFIER LETTER TURNED COMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 700,
+    "char": "ʼ",
+    "name": "MODIFIER LETTER APOSTROPHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 701,
+    "char": "ʽ",
+    "name": "MODIFIER LETTER REVERSED COMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 702,
+    "char": "ʾ",
+    "name": "MODIFIER LETTER RIGHT HALF RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 703,
+    "char": "ʿ",
+    "name": "MODIFIER LETTER LEFT HALF RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 704,
+    "char": "ˀ",
+    "name": "MODIFIER LETTER GLOTTAL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 705,
+    "char": "ˁ",
+    "name": "MODIFIER LETTER REVERSED GLOTTAL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 706,
+    "char": "˂",
+    "name": "MODIFIER LETTER LEFT ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 707,
+    "char": "˃",
+    "name": "MODIFIER LETTER RIGHT ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 708,
+    "char": "˄",
+    "name": "MODIFIER LETTER UP ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 709,
+    "char": "˅",
+    "name": "MODIFIER LETTER DOWN ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 710,
+    "char": "ˆ",
+    "name": "MODIFIER LETTER CIRCUMFLEX ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 711,
+    "char": "ˇ",
+    "name": "CARON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 712,
+    "char": "ˈ",
+    "name": "MODIFIER LETTER VERTICAL LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 713,
+    "char": "ˉ",
+    "name": "MODIFIER LETTER MACRON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 714,
+    "char": "ˊ",
+    "name": "MODIFIER LETTER ACUTE ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 715,
+    "char": "ˋ",
+    "name": "MODIFIER LETTER GRAVE ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 716,
+    "char": "ˌ",
+    "name": "MODIFIER LETTER LOW VERTICAL LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 717,
+    "char": "ˍ",
+    "name": "MODIFIER LETTER LOW MACRON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 718,
+    "char": "ˎ",
+    "name": "MODIFIER LETTER LOW GRAVE ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 719,
+    "char": "ˏ",
+    "name": "MODIFIER LETTER LOW ACUTE ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 720,
+    "char": "ː",
+    "name": "MODIFIER LETTER TRIANGULAR COLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 721,
+    "char": "ˑ",
+    "name": "MODIFIER LETTER HALF TRIANGULAR COLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 722,
+    "char": "˒",
+    "name": "MODIFIER LETTER CENTRED RIGHT HALF RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 723,
+    "char": "˓",
+    "name": "MODIFIER LETTER CENTRED LEFT HALF RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 724,
+    "char": "˔",
+    "name": "MODIFIER LETTER UP TACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 725,
+    "char": "˕",
+    "name": "MODIFIER LETTER DOWN TACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 726,
+    "char": "˖",
+    "name": "MODIFIER LETTER PLUS SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 727,
+    "char": "˗",
+    "name": "MODIFIER LETTER MINUS SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 728,
+    "char": "˘",
+    "name": "BREVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 729,
+    "char": "˙",
+    "name": "DOT ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 730,
+    "char": "˚",
+    "name": "RING ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 731,
+    "char": "˛",
+    "name": "OGONEK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 732,
+    "char": "˜",
+    "name": "SMALL TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 733,
+    "char": "˝",
+    "name": "DOUBLE ACUTE ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 734,
+    "char": "˞",
+    "name": "MODIFIER LETTER RHOTIC HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 735,
+    "char": "˟",
+    "name": "MODIFIER LETTER CROSS ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 736,
+    "char": "ˠ",
+    "name": "MODIFIER LETTER SMALL GAMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 737,
+    "char": "ˡ",
+    "name": "MODIFIER LETTER SMALL L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 738,
+    "char": "ˢ",
+    "name": "MODIFIER LETTER SMALL S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 739,
+    "char": "ˣ",
+    "name": "MODIFIER LETTER SMALL X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 740,
+    "char": "ˤ",
+    "name": "MODIFIER LETTER SMALL REVERSED GLOTTAL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 741,
+    "char": "˥",
+    "name": "MODIFIER LETTER EXTRA-HIGH TONE BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 742,
+    "char": "˦",
+    "name": "MODIFIER LETTER HIGH TONE BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 743,
+    "char": "˧",
+    "name": "MODIFIER LETTER MID TONE BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 744,
+    "char": "˨",
+    "name": "MODIFIER LETTER LOW TONE BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 745,
+    "char": "˩",
+    "name": "MODIFIER LETTER EXTRA-LOW TONE BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 746,
+    "char": "˪",
+    "name": "MODIFIER LETTER YIN DEPARTING TONE MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 747,
+    "char": "˫",
+    "name": "MODIFIER LETTER YANG DEPARTING TONE MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 748,
+    "char": "ˬ",
+    "name": "MODIFIER LETTER VOICING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 749,
+    "char": "˭",
+    "name": "MODIFIER LETTER UNASPIRATED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 750,
+    "char": "ˮ",
+    "name": "MODIFIER LETTER DOUBLE APOSTROPHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 751,
+    "char": "˯",
+    "name": "MODIFIER LETTER LOW DOWN ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 752,
+    "char": "˰",
+    "name": "MODIFIER LETTER LOW UP ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 753,
+    "char": "˱",
+    "name": "MODIFIER LETTER LOW LEFT ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 754,
+    "char": "˲",
+    "name": "MODIFIER LETTER LOW RIGHT ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 755,
+    "char": "˳",
+    "name": "MODIFIER LETTER LOW RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 756,
+    "char": "˴",
+    "name": "MODIFIER LETTER MIDDLE GRAVE ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 757,
+    "char": "˵",
+    "name": "MODIFIER LETTER MIDDLE DOUBLE GRAVE ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 758,
+    "char": "˶",
+    "name": "MODIFIER LETTER MIDDLE DOUBLE ACUTE ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 759,
+    "char": "˷",
+    "name": "MODIFIER LETTER LOW TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 760,
+    "char": "˸",
+    "name": "MODIFIER LETTER RAISED COLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 761,
+    "char": "˹",
+    "name": "MODIFIER LETTER BEGIN HIGH TONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 762,
+    "char": "˺",
+    "name": "MODIFIER LETTER END HIGH TONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 763,
+    "char": "˻",
+    "name": "MODIFIER LETTER BEGIN LOW TONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 764,
+    "char": "˼",
+    "name": "MODIFIER LETTER END LOW TONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 765,
+    "char": "˽",
+    "name": "MODIFIER LETTER SHELF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 766,
+    "char": "˾",
+    "name": "MODIFIER LETTER OPEN SHELF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 767,
+    "char": "˿",
+    "name": "MODIFIER LETTER LOW LEFT ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

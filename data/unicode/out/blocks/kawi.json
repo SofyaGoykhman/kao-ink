@@ -1,0 +1,698 @@
+[
+  {
+    "cp": 73472,
+    "char": "𑼀",
+    "name": "KAWI SIGN CANDRABINDU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73473,
+    "char": "𑼁",
+    "name": "KAWI SIGN ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73474,
+    "char": "𑼂",
+    "name": "KAWI SIGN REPHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73475,
+    "char": "𑼃",
+    "name": "KAWI SIGN VISARGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73476,
+    "char": "𑼄",
+    "name": "KAWI LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73477,
+    "char": "𑼅",
+    "name": "KAWI LETTER AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73478,
+    "char": "𑼆",
+    "name": "KAWI LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73479,
+    "char": "𑼇",
+    "name": "KAWI LETTER II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73480,
+    "char": "𑼈",
+    "name": "KAWI LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73481,
+    "char": "𑼉",
+    "name": "KAWI LETTER UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73482,
+    "char": "𑼊",
+    "name": "KAWI LETTER VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73483,
+    "char": "𑼋",
+    "name": "KAWI LETTER VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73484,
+    "char": "𑼌",
+    "name": "KAWI LETTER VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73485,
+    "char": "𑼍",
+    "name": "KAWI LETTER VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73486,
+    "char": "𑼎",
+    "name": "KAWI LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73487,
+    "char": "𑼏",
+    "name": "KAWI LETTER AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73488,
+    "char": "𑼐",
+    "name": "KAWI LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73490,
+    "char": "𑼒",
+    "name": "KAWI LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73491,
+    "char": "𑼓",
+    "name": "KAWI LETTER KHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73492,
+    "char": "𑼔",
+    "name": "KAWI LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73493,
+    "char": "𑼕",
+    "name": "KAWI LETTER GHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73494,
+    "char": "𑼖",
+    "name": "KAWI LETTER NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73495,
+    "char": "𑼗",
+    "name": "KAWI LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73496,
+    "char": "𑼘",
+    "name": "KAWI LETTER CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73497,
+    "char": "𑼙",
+    "name": "KAWI LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73498,
+    "char": "𑼚",
+    "name": "KAWI LETTER JHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73499,
+    "char": "𑼛",
+    "name": "KAWI LETTER NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73500,
+    "char": "𑼜",
+    "name": "KAWI LETTER TTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73501,
+    "char": "𑼝",
+    "name": "KAWI LETTER TTHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73502,
+    "char": "𑼞",
+    "name": "KAWI LETTER DDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73503,
+    "char": "𑼟",
+    "name": "KAWI LETTER DDHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73504,
+    "char": "𑼠",
+    "name": "KAWI LETTER NNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73505,
+    "char": "𑼡",
+    "name": "KAWI LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73506,
+    "char": "𑼢",
+    "name": "KAWI LETTER THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73507,
+    "char": "𑼣",
+    "name": "KAWI LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73508,
+    "char": "𑼤",
+    "name": "KAWI LETTER DHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73509,
+    "char": "𑼥",
+    "name": "KAWI LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73510,
+    "char": "𑼦",
+    "name": "KAWI LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73511,
+    "char": "𑼧",
+    "name": "KAWI LETTER PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73512,
+    "char": "𑼨",
+    "name": "KAWI LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73513,
+    "char": "𑼩",
+    "name": "KAWI LETTER BHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73514,
+    "char": "𑼪",
+    "name": "KAWI LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73515,
+    "char": "𑼫",
+    "name": "KAWI LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73516,
+    "char": "𑼬",
+    "name": "KAWI LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73517,
+    "char": "𑼭",
+    "name": "KAWI LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73518,
+    "char": "𑼮",
+    "name": "KAWI LETTER WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73519,
+    "char": "𑼯",
+    "name": "KAWI LETTER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73520,
+    "char": "𑼰",
+    "name": "KAWI LETTER SSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73521,
+    "char": "𑼱",
+    "name": "KAWI LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73522,
+    "char": "𑼲",
+    "name": "KAWI LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73523,
+    "char": "𑼳",
+    "name": "KAWI LETTER JNYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73524,
+    "char": "𑼴",
+    "name": "KAWI VOWEL SIGN AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73525,
+    "char": "𑼵",
+    "name": "KAWI VOWEL SIGN ALTERNATE AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73526,
+    "char": "𑼶",
+    "name": "KAWI VOWEL SIGN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73527,
+    "char": "𑼷",
+    "name": "KAWI VOWEL SIGN II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73528,
+    "char": "𑼸",
+    "name": "KAWI VOWEL SIGN U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73529,
+    "char": "𑼹",
+    "name": "KAWI VOWEL SIGN UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73530,
+    "char": "𑼺",
+    "name": "KAWI VOWEL SIGN VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73534,
+    "char": "𑼾",
+    "name": "KAWI VOWEL SIGN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73535,
+    "char": "𑼿",
+    "name": "KAWI VOWEL SIGN AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73536,
+    "char": "𑽀",
+    "name": "KAWI VOWEL SIGN EU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73537,
+    "char": "𑽁",
+    "name": "KAWI SIGN KILLER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73538,
+    "char": "𑽂",
+    "name": "KAWI CONJOINER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73539,
+    "char": "𑽃",
+    "name": "KAWI DANDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73540,
+    "char": "𑽄",
+    "name": "KAWI DOUBLE DANDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73541,
+    "char": "𑽅",
+    "name": "KAWI PUNCTUATION SECTION MARKER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73542,
+    "char": "𑽆",
+    "name": "KAWI PUNCTUATION ALTERNATE SECTION MARKER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73543,
+    "char": "𑽇",
+    "name": "KAWI PUNCTUATION FLOWER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73544,
+    "char": "𑽈",
+    "name": "KAWI PUNCTUATION SPACE FILLER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73545,
+    "char": "𑽉",
+    "name": "KAWI PUNCTUATION DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73546,
+    "char": "𑽊",
+    "name": "KAWI PUNCTUATION DOUBLE DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73547,
+    "char": "𑽋",
+    "name": "KAWI PUNCTUATION TRIPLE DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73548,
+    "char": "𑽌",
+    "name": "KAWI PUNCTUATION CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73549,
+    "char": "𑽍",
+    "name": "KAWI PUNCTUATION FILLED CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73550,
+    "char": "𑽎",
+    "name": "KAWI PUNCTUATION SPIRAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73551,
+    "char": "𑽏",
+    "name": "KAWI PUNCTUATION CLOSING SPIRAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73552,
+    "char": "𑽐",
+    "name": "KAWI DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73553,
+    "char": "𑽑",
+    "name": "KAWI DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73554,
+    "char": "𑽒",
+    "name": "KAWI DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73555,
+    "char": "𑽓",
+    "name": "KAWI DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73556,
+    "char": "𑽔",
+    "name": "KAWI DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73557,
+    "char": "𑽕",
+    "name": "KAWI DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73558,
+    "char": "𑽖",
+    "name": "KAWI DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73559,
+    "char": "𑽗",
+    "name": "KAWI DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73560,
+    "char": "𑽘",
+    "name": "KAWI DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73561,
+    "char": "𑽙",
+    "name": "KAWI DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73562,
+    "char": "𑽚",
+    "name": "KAWI SIGN NUKTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

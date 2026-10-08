@@ -1,0 +1,2867 @@
+[
+  {
+    "id": "basic-latin",
+    "name": "Basic Latin",
+    "ru": "Основная латиница",
+    "range": [0, 127],
+    "count": 95,
+    "group": "scripts"
+  },
+  {
+    "id": "latin-1-supplement",
+    "name": "Latin-1 Supplement",
+    "ru": "Латиница-1, дополнение",
+    "range": [128, 255],
+    "count": 96,
+    "group": "scripts"
+  },
+  {
+    "id": "latin-extended-a",
+    "name": "Latin Extended-A",
+    "ru": "Расширенная латиница — A",
+    "range": [256, 383],
+    "count": 128,
+    "group": "scripts"
+  },
+  {
+    "id": "latin-extended-b",
+    "name": "Latin Extended-B",
+    "ru": "Расширенная латиница — B",
+    "range": [384, 591],
+    "count": 208,
+    "group": "scripts"
+  },
+  {
+    "id": "ipa-extensions",
+    "name": "IPA Extensions",
+    "ru": "Международный фонетический алфавит",
+    "range": [592, 687],
+    "count": 96,
+    "group": "scripts"
+  },
+  {
+    "id": "spacing-modifier-letters",
+    "name": "Spacing Modifier Letters",
+    "ru": "Буквы-модификаторы",
+    "range": [688, 767],
+    "count": 80,
+    "group": "scripts"
+  },
+  {
+    "id": "combining-diacritical-marks",
+    "name": "Combining Diacritical Marks",
+    "ru": "Комбинируемые диакритические знаки",
+    "range": [768, 879],
+    "count": 112,
+    "group": "other"
+  },
+  {
+    "id": "greek-and-coptic",
+    "name": "Greek and Coptic",
+    "ru": "Греческий и коптский алфавиты",
+    "range": [880, 1023],
+    "count": 135,
+    "group": "scripts"
+  },
+  {
+    "id": "cyrillic",
+    "name": "Cyrillic",
+    "ru": "Кириллица",
+    "range": [1024, 1279],
+    "count": 256,
+    "group": "scripts"
+  },
+  {
+    "id": "cyrillic-supplement",
+    "name": "Cyrillic Supplement",
+    "ru": "Кириллица, дополнение",
+    "range": [1280, 1327],
+    "count": 48,
+    "group": "scripts"
+  },
+  {
+    "id": "armenian",
+    "name": "Armenian",
+    "ru": "Армянское письмо",
+    "range": [1328, 1423],
+    "count": 94,
+    "group": "scripts"
+  },
+  {
+    "id": "hebrew",
+    "name": "Hebrew",
+    "ru": "Иврит",
+    "range": [1424, 1535],
+    "count": 90,
+    "group": "scripts"
+  },
+  {
+    "id": "arabic",
+    "name": "Arabic",
+    "ru": "Арабское письмо",
+    "range": [1536, 1791],
+    "count": 256,
+    "group": "scripts"
+  },
+  {
+    "id": "syriac",
+    "name": "Syriac",
+    "ru": "Сирийское письмо",
+    "range": [1792, 1871],
+    "count": 77,
+    "group": "scripts"
+  },
+  {
+    "id": "arabic-supplement",
+    "name": "Arabic Supplement",
+    "ru": "Арабское письмо, дополнение",
+    "range": [1872, 1919],
+    "count": 48,
+    "group": "scripts"
+  },
+  {
+    "id": "thaana",
+    "name": "Thaana",
+    "ru": "Тана",
+    "range": [1920, 1983],
+    "count": 50,
+    "group": "scripts"
+  },
+  {
+    "id": "nko",
+    "name": "NKo",
+    "ru": "Нко",
+    "range": [1984, 2047],
+    "count": 62,
+    "group": "scripts"
+  },
+  {
+    "id": "samaritan",
+    "name": "Samaritan",
+    "ru": "Самаритянское письмо",
+    "range": [2048, 2111],
+    "count": 61,
+    "group": "scripts"
+  },
+  {
+    "id": "mandaic",
+    "name": "Mandaic",
+    "ru": "Мандейское письмо",
+    "range": [2112, 2143],
+    "count": 29,
+    "group": "scripts"
+  },
+  {
+    "id": "syriac-supplement",
+    "name": "Syriac Supplement",
+    "ru": "Сирийское письмо, дополнение",
+    "range": [2144, 2159],
+    "count": 11,
+    "group": "scripts"
+  },
+  {
+    "id": "arabic-extended-b",
+    "name": "Arabic Extended-B",
+    "ru": "Арабское письмо, расширение B",
+    "range": [2160, 2207],
+    "count": 43,
+    "group": "scripts"
+  },
+  {
+    "id": "arabic-extended-a",
+    "name": "Arabic Extended-A",
+    "ru": "Арабское письмо, расширение A",
+    "range": [2208, 2303],
+    "count": 96,
+    "group": "scripts"
+  },
+  {
+    "id": "devanagari",
+    "name": "Devanagari",
+    "ru": "Деванагари",
+    "range": [2304, 2431],
+    "count": 128,
+    "group": "scripts"
+  },
+  {
+    "id": "bengali",
+    "name": "Bengali",
+    "ru": "Бенгальское письмо",
+    "range": [2432, 2559],
+    "count": 96,
+    "group": "scripts"
+  },
+  {
+    "id": "gurmukhi",
+    "name": "Gurmukhi",
+    "ru": "Гурмукхи",
+    "range": [2560, 2687],
+    "count": 80,
+    "group": "scripts"
+  },
+  {
+    "id": "gujarati",
+    "name": "Gujarati",
+    "ru": "Гуджарати",
+    "range": [2688, 2815],
+    "count": 91,
+    "group": "scripts"
+  },
+  {
+    "id": "oriya",
+    "name": "Oriya",
+    "ru": "Ория",
+    "range": [2816, 2943],
+    "count": 93,
+    "group": "scripts"
+  },
+  {
+    "id": "tamil",
+    "name": "Tamil",
+    "ru": "Тамильское письмо",
+    "range": [2944, 3071],
+    "count": 72,
+    "group": "scripts"
+  },
+  {
+    "id": "telugu",
+    "name": "Telugu",
+    "ru": "Телугу",
+    "range": [3072, 3199],
+    "count": 101,
+    "group": "scripts"
+  },
+  {
+    "id": "kannada",
+    "name": "Kannada",
+    "ru": "Каннада",
+    "range": [3200, 3327],
+    "count": 92,
+    "group": "scripts"
+  },
+  {
+    "id": "malayalam",
+    "name": "Malayalam",
+    "ru": "Малаялам",
+    "range": [3328, 3455],
+    "count": 118,
+    "group": "scripts"
+  },
+  {
+    "id": "sinhala",
+    "name": "Sinhala",
+    "ru": "Сингальское письмо",
+    "range": [3456, 3583],
+    "count": 91,
+    "group": "scripts"
+  },
+  {
+    "id": "thai",
+    "name": "Thai",
+    "ru": "Тайское письмо",
+    "range": [3584, 3711],
+    "count": 87,
+    "group": "scripts"
+  },
+  {
+    "id": "lao",
+    "name": "Lao",
+    "ru": "Лаосское письмо",
+    "range": [3712, 3839],
+    "count": 83,
+    "group": "scripts"
+  },
+  {
+    "id": "tibetan",
+    "name": "Tibetan",
+    "ru": "Тибетское письмо",
+    "range": [3840, 4095],
+    "count": 211,
+    "group": "scripts"
+  },
+  {
+    "id": "myanmar",
+    "name": "Myanmar",
+    "ru": "Бирманское письмо",
+    "range": [4096, 4255],
+    "count": 160,
+    "group": "scripts"
+  },
+  {
+    "id": "georgian",
+    "name": "Georgian",
+    "ru": "Грузинское письмо",
+    "range": [4256, 4351],
+    "count": 88,
+    "group": "scripts"
+  },
+  {
+    "id": "hangul-jamo",
+    "name": "Hangul Jamo",
+    "ru": "Хангыль: чамо",
+    "range": [4352, 4607],
+    "count": 256,
+    "group": "cjk"
+  },
+  {
+    "id": "ethiopic",
+    "name": "Ethiopic",
+    "ru": "Эфиопское письмо",
+    "range": [4608, 4991],
+    "count": 358,
+    "group": "scripts"
+  },
+  {
+    "id": "ethiopic-supplement",
+    "name": "Ethiopic Supplement",
+    "ru": "Эфиопское письмо, дополнение",
+    "range": [4992, 5023],
+    "count": 26,
+    "group": "scripts"
+  },
+  {
+    "id": "cherokee",
+    "name": "Cherokee",
+    "ru": "Письмо чероки",
+    "range": [5024, 5119],
+    "count": 92,
+    "group": "scripts"
+  },
+  {
+    "id": "unified-canadian-aboriginal-syllabics",
+    "name": "Unified Canadian Aboriginal Syllabics",
+    "ru": "Канадское слоговое письмо",
+    "range": [5120, 5759],
+    "count": 640,
+    "group": "scripts"
+  },
+  {
+    "id": "ogham",
+    "name": "Ogham",
+    "ru": "Огамическое письмо",
+    "range": [5760, 5791],
+    "count": 29,
+    "group": "scripts"
+  },
+  {
+    "id": "runic",
+    "name": "Runic",
+    "ru": "Руны",
+    "range": [5792, 5887],
+    "count": 89,
+    "group": "scripts"
+  },
+  {
+    "id": "tagalog",
+    "name": "Tagalog",
+    "ru": "Тагальское письмо (байбайин)",
+    "range": [5888, 5919],
+    "count": 23,
+    "group": "scripts"
+  },
+  {
+    "id": "hanunoo",
+    "name": "Hanunoo",
+    "ru": "Хануноо",
+    "range": [5920, 5951],
+    "count": 23,
+    "group": "scripts"
+  },
+  {
+    "id": "buhid",
+    "name": "Buhid",
+    "ru": "Бухид",
+    "range": [5952, 5983],
+    "count": 20,
+    "group": "scripts"
+  },
+  {
+    "id": "tagbanwa",
+    "name": "Tagbanwa",
+    "ru": "Тагбанва",
+    "range": [5984, 6015],
+    "count": 18,
+    "group": "scripts"
+  },
+  {
+    "id": "khmer",
+    "name": "Khmer",
+    "ru": "Кхмерское письмо",
+    "range": [6016, 6143],
+    "count": 114,
+    "group": "scripts"
+  },
+  {
+    "id": "mongolian",
+    "name": "Mongolian",
+    "ru": "Монгольское письмо",
+    "range": [6144, 6319],
+    "count": 158,
+    "group": "scripts"
+  },
+  {
+    "id": "unified-canadian-aboriginal-syllabics-extended",
+    "name": "Unified Canadian Aboriginal Syllabics Extended",
+    "ru": "Канадское слоговое письмо, расширение",
+    "range": [6320, 6399],
+    "count": 70,
+    "group": "scripts"
+  },
+  {
+    "id": "limbu",
+    "name": "Limbu",
+    "ru": "Лимбу",
+    "range": [6400, 6479],
+    "count": 68,
+    "group": "scripts"
+  },
+  {
+    "id": "tai-le",
+    "name": "Tai Le",
+    "ru": "Тай лэ",
+    "range": [6480, 6527],
+    "count": 35,
+    "group": "scripts"
+  },
+  {
+    "id": "new-tai-lue",
+    "name": "New Tai Lue",
+    "ru": "Новое письмо тай лы",
+    "range": [6528, 6623],
+    "count": 83,
+    "group": "scripts"
+  },
+  {
+    "id": "khmer-symbols",
+    "name": "Khmer Symbols",
+    "ru": "Кхмерские символы",
+    "range": [6624, 6655],
+    "count": 32,
+    "group": "scripts"
+  },
+  {
+    "id": "buginese",
+    "name": "Buginese",
+    "ru": "Бугийское письмо",
+    "range": [6656, 6687],
+    "count": 30,
+    "group": "scripts"
+  },
+  {
+    "id": "tai-tham",
+    "name": "Tai Tham",
+    "ru": "Тай тхам",
+    "range": [6688, 6831],
+    "count": 127,
+    "group": "scripts"
+  },
+  {
+    "id": "combining-diacritical-marks-extended",
+    "name": "Combining Diacritical Marks Extended",
+    "ru": "Комбинируемые диакритические знаки, расширение",
+    "range": [6832, 6911],
+    "count": 65,
+    "group": "other"
+  },
+  {
+    "id": "balinese",
+    "name": "Balinese",
+    "ru": "Балийское письмо",
+    "range": [6912, 7039],
+    "count": 127,
+    "group": "scripts"
+  },
+  {
+    "id": "sundanese",
+    "name": "Sundanese",
+    "ru": "Сунданское письмо",
+    "range": [7040, 7103],
+    "count": 64,
+    "group": "scripts"
+  },
+  {
+    "id": "batak",
+    "name": "Batak",
+    "ru": "Батакское письмо",
+    "range": [7104, 7167],
+    "count": 56,
+    "group": "scripts"
+  },
+  {
+    "id": "lepcha",
+    "name": "Lepcha",
+    "ru": "Лепча",
+    "range": [7168, 7247],
+    "count": 74,
+    "group": "scripts"
+  },
+  {
+    "id": "ol-chiki",
+    "name": "Ol Chiki",
+    "ru": "Ол-чики",
+    "range": [7248, 7295],
+    "count": 48,
+    "group": "scripts"
+  },
+  {
+    "id": "cyrillic-extended-c",
+    "name": "Cyrillic Extended-C",
+    "ru": "Расширенная кириллица — C",
+    "range": [7296, 7311],
+    "count": 11,
+    "group": "scripts"
+  },
+  {
+    "id": "georgian-extended",
+    "name": "Georgian Extended",
+    "ru": "Грузинское письмо, расширение",
+    "range": [7312, 7359],
+    "count": 46,
+    "group": "scripts"
+  },
+  {
+    "id": "sundanese-supplement",
+    "name": "Sundanese Supplement",
+    "ru": "Сунданское письмо, дополнение",
+    "range": [7360, 7375],
+    "count": 8,
+    "group": "scripts"
+  },
+  {
+    "id": "vedic-extensions",
+    "name": "Vedic Extensions",
+    "ru": "Ведические знаки",
+    "range": [7376, 7423],
+    "count": 43,
+    "group": "scripts"
+  },
+  {
+    "id": "phonetic-extensions",
+    "name": "Phonetic Extensions",
+    "ru": "Фонетические расширения",
+    "range": [7424, 7551],
+    "count": 128,
+    "group": "scripts"
+  },
+  {
+    "id": "phonetic-extensions-supplement",
+    "name": "Phonetic Extensions Supplement",
+    "ru": "Фонетические расширения, дополнение",
+    "range": [7552, 7615],
+    "count": 64,
+    "group": "scripts"
+  },
+  {
+    "id": "combining-diacritical-marks-supplement",
+    "name": "Combining Diacritical Marks Supplement",
+    "ru": "Комбинируемые диакритические знаки, дополнение",
+    "range": [7616, 7679],
+    "count": 64,
+    "group": "other"
+  },
+  {
+    "id": "latin-extended-additional",
+    "name": "Latin Extended Additional",
+    "ru": "Дополнительная расширенная латиница",
+    "range": [7680, 7935],
+    "count": 256,
+    "group": "scripts"
+  },
+  {
+    "id": "greek-extended",
+    "name": "Greek Extended",
+    "ru": "Расширенный греческий",
+    "range": [7936, 8191],
+    "count": 233,
+    "group": "scripts"
+  },
+  {
+    "id": "general-punctuation",
+    "name": "General Punctuation",
+    "ru": "Знаки препинания",
+    "range": [8192, 8303],
+    "count": 111,
+    "group": "punctuation"
+  },
+  {
+    "id": "superscripts-and-subscripts",
+    "name": "Superscripts and Subscripts",
+    "ru": "Надстрочные и подстрочные знаки",
+    "range": [8304, 8351],
+    "count": 46,
+    "group": "math"
+  },
+  {
+    "id": "currency-symbols",
+    "name": "Currency Symbols",
+    "ru": "Символы валют",
+    "range": [8352, 8399],
+    "count": 37,
+    "group": "symbols"
+  },
+  {
+    "id": "combining-diacritical-marks-for-symbols",
+    "name": "Combining Diacritical Marks for Symbols",
+    "ru": "Комбинируемые знаки для символов",
+    "range": [8400, 8447],
+    "count": 33,
+    "group": "other"
+  },
+  {
+    "id": "letterlike-symbols",
+    "name": "Letterlike Symbols",
+    "ru": "Буквоподобные символы",
+    "range": [8448, 8527],
+    "count": 80,
+    "group": "symbols"
+  },
+  {
+    "id": "number-forms",
+    "name": "Number Forms",
+    "ru": "Числовые формы",
+    "range": [8528, 8591],
+    "count": 60,
+    "group": "math"
+  },
+  {
+    "id": "arrows",
+    "name": "Arrows",
+    "ru": "Стрелки",
+    "range": [8592, 8703],
+    "count": 112,
+    "group": "arrows"
+  },
+  {
+    "id": "mathematical-operators",
+    "name": "Mathematical Operators",
+    "ru": "Математические операторы",
+    "range": [8704, 8959],
+    "count": 256,
+    "group": "math"
+  },
+  {
+    "id": "miscellaneous-technical",
+    "name": "Miscellaneous Technical",
+    "ru": "Разные технические символы",
+    "range": [8960, 9215],
+    "count": 256,
+    "group": "technical"
+  },
+  {
+    "id": "control-pictures",
+    "name": "Control Pictures",
+    "ru": "Изображения управляющих символов",
+    "range": [9216, 9279],
+    "count": 42,
+    "group": "technical"
+  },
+  {
+    "id": "optical-character-recognition",
+    "name": "Optical Character Recognition",
+    "ru": "Символы оптического распознавания",
+    "range": [9280, 9311],
+    "count": 11,
+    "group": "technical"
+  },
+  {
+    "id": "enclosed-alphanumerics",
+    "name": "Enclosed Alphanumerics",
+    "ru": "Буквы и цифры в кругах и скобках",
+    "range": [9312, 9471],
+    "count": 160,
+    "group": "symbols"
+  },
+  {
+    "id": "box-drawing",
+    "name": "Box Drawing",
+    "ru": "Псевдографика",
+    "range": [9472, 9599],
+    "count": 128,
+    "group": "box-drawing"
+  },
+  {
+    "id": "block-elements",
+    "name": "Block Elements",
+    "ru": "Блочные элементы",
+    "range": [9600, 9631],
+    "count": 32,
+    "group": "box-drawing"
+  },
+  {
+    "id": "geometric-shapes",
+    "name": "Geometric Shapes",
+    "ru": "Геометрические фигуры",
+    "range": [9632, 9727],
+    "count": 96,
+    "group": "shapes"
+  },
+  {
+    "id": "miscellaneous-symbols",
+    "name": "Miscellaneous Symbols",
+    "ru": "Разные символы",
+    "range": [9728, 9983],
+    "count": 256,
+    "group": "symbols"
+  },
+  {
+    "id": "dingbats",
+    "name": "Dingbats",
+    "ru": "Типографские значки (дингбаты)",
+    "range": [9984, 10175],
+    "count": 192,
+    "group": "symbols"
+  },
+  {
+    "id": "miscellaneous-mathematical-symbols-a",
+    "name": "Miscellaneous Mathematical Symbols-A",
+    "ru": "Разные математические символы — A",
+    "range": [10176, 10223],
+    "count": 48,
+    "group": "math"
+  },
+  {
+    "id": "supplemental-arrows-a",
+    "name": "Supplemental Arrows-A",
+    "ru": "Дополнительные стрелки — A",
+    "range": [10224, 10239],
+    "count": 16,
+    "group": "arrows"
+  },
+  {
+    "id": "braille-patterns",
+    "name": "Braille Patterns",
+    "ru": "Шрифт Брайля",
+    "range": [10240, 10495],
+    "count": 256,
+    "group": "box-drawing"
+  },
+  {
+    "id": "supplemental-arrows-b",
+    "name": "Supplemental Arrows-B",
+    "ru": "Дополнительные стрелки — B",
+    "range": [10496, 10623],
+    "count": 128,
+    "group": "arrows"
+  },
+  {
+    "id": "miscellaneous-mathematical-symbols-b",
+    "name": "Miscellaneous Mathematical Symbols-B",
+    "ru": "Разные математические символы — B",
+    "range": [10624, 10751],
+    "count": 128,
+    "group": "math"
+  },
+  {
+    "id": "supplemental-mathematical-operators",
+    "name": "Supplemental Mathematical Operators",
+    "ru": "Дополнительные математические операторы",
+    "range": [10752, 11007],
+    "count": 256,
+    "group": "math"
+  },
+  {
+    "id": "miscellaneous-symbols-and-arrows",
+    "name": "Miscellaneous Symbols and Arrows",
+    "ru": "Разные символы и стрелки",
+    "range": [11008, 11263],
+    "count": 254,
+    "group": "arrows"
+  },
+  {
+    "id": "glagolitic",
+    "name": "Glagolitic",
+    "ru": "Глаголица",
+    "range": [11264, 11359],
+    "count": 96,
+    "group": "scripts"
+  },
+  {
+    "id": "latin-extended-c",
+    "name": "Latin Extended-C",
+    "ru": "Расширенная латиница — C",
+    "range": [11360, 11391],
+    "count": 32,
+    "group": "scripts"
+  },
+  {
+    "id": "coptic",
+    "name": "Coptic",
+    "ru": "Коптское письмо",
+    "range": [11392, 11519],
+    "count": 123,
+    "group": "scripts"
+  },
+  {
+    "id": "georgian-supplement",
+    "name": "Georgian Supplement",
+    "ru": "Грузинское письмо, дополнение",
+    "range": [11520, 11567],
+    "count": 40,
+    "group": "scripts"
+  },
+  {
+    "id": "tifinagh",
+    "name": "Tifinagh",
+    "ru": "Тифинаг",
+    "range": [11568, 11647],
+    "count": 59,
+    "group": "scripts"
+  },
+  {
+    "id": "ethiopic-extended",
+    "name": "Ethiopic Extended",
+    "ru": "Эфиопское письмо, расширение",
+    "range": [11648, 11743],
+    "count": 79,
+    "group": "scripts"
+  },
+  {
+    "id": "cyrillic-extended-a",
+    "name": "Cyrillic Extended-A",
+    "ru": "Расширенная кириллица — A",
+    "range": [11744, 11775],
+    "count": 32,
+    "group": "scripts"
+  },
+  {
+    "id": "supplemental-punctuation",
+    "name": "Supplemental Punctuation",
+    "ru": "Дополнительные знаки препинания",
+    "range": [11776, 11903],
+    "count": 98,
+    "group": "punctuation"
+  },
+  {
+    "id": "cjk-radicals-supplement",
+    "name": "CJK Radicals Supplement",
+    "ru": "Иероглифические ключи, дополнение",
+    "range": [11904, 12031],
+    "count": 115,
+    "group": "cjk"
+  },
+  {
+    "id": "kangxi-radicals",
+    "name": "Kangxi Radicals",
+    "ru": "Ключи Канси",
+    "range": [12032, 12255],
+    "count": 214,
+    "group": "cjk"
+  },
+  {
+    "id": "ideographic-description-characters",
+    "name": "Ideographic Description Characters",
+    "ru": "Символы описания иероглифов",
+    "range": [12272, 12287],
+    "count": 16,
+    "group": "cjk"
+  },
+  {
+    "id": "cjk-symbols-and-punctuation",
+    "name": "CJK Symbols and Punctuation",
+    "ru": "Символы и пунктуация ККЯ",
+    "range": [12288, 12351],
+    "count": 64,
+    "group": "cjk"
+  },
+  {
+    "id": "hiragana",
+    "name": "Hiragana",
+    "ru": "Хирагана",
+    "range": [12352, 12447],
+    "count": 93,
+    "group": "cjk"
+  },
+  {
+    "id": "katakana",
+    "name": "Katakana",
+    "ru": "Катакана",
+    "range": [12448, 12543],
+    "count": 96,
+    "group": "cjk"
+  },
+  {
+    "id": "bopomofo",
+    "name": "Bopomofo",
+    "ru": "Бопомофо (чжуинь)",
+    "range": [12544, 12591],
+    "count": 43,
+    "group": "cjk"
+  },
+  {
+    "id": "hangul-compatibility-jamo",
+    "name": "Hangul Compatibility Jamo",
+    "ru": "Хангыль: совместимые чамо",
+    "range": [12592, 12687],
+    "count": 94,
+    "group": "cjk"
+  },
+  {
+    "id": "kanbun",
+    "name": "Kanbun",
+    "ru": "Канбун",
+    "range": [12688, 12703],
+    "count": 16,
+    "group": "cjk"
+  },
+  {
+    "id": "bopomofo-extended",
+    "name": "Bopomofo Extended",
+    "ru": "Бопомофо, расширение",
+    "range": [12704, 12735],
+    "count": 32,
+    "group": "cjk"
+  },
+  {
+    "id": "cjk-strokes",
+    "name": "CJK Strokes",
+    "ru": "Черты иероглифов",
+    "range": [12736, 12783],
+    "count": 39,
+    "group": "cjk"
+  },
+  {
+    "id": "katakana-phonetic-extensions",
+    "name": "Katakana Phonetic Extensions",
+    "ru": "Катакана, фонетические расширения",
+    "range": [12784, 12799],
+    "count": 16,
+    "group": "cjk"
+  },
+  {
+    "id": "enclosed-cjk-letters-and-months",
+    "name": "Enclosed CJK Letters and Months",
+    "ru": "Иероглифы и буквы в кругах, месяцы",
+    "range": [12800, 13055],
+    "count": 255,
+    "group": "cjk"
+  },
+  {
+    "id": "cjk-compatibility",
+    "name": "CJK Compatibility",
+    "ru": "Совместимые символы ККЯ",
+    "range": [13056, 13311],
+    "count": 256,
+    "group": "cjk"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-a",
+    "name": "CJK Unified Ideographs Extension A",
+    "ru": "Иероглифы ККЯ, расширение A",
+    "range": [13312, 19903],
+    "count": 6592,
+    "group": "cjk",
+    "lazy": true,
+    "ranges": [[13312, 19903]],
+    "nameRule": "hex",
+    "namePrefix": "CJK UNIFIED IDEOGRAPH-"
+  },
+  {
+    "id": "yijing-hexagram-symbols",
+    "name": "Yijing Hexagram Symbols",
+    "ru": "Гексаграммы «Ицзина»",
+    "range": [19904, 19967],
+    "count": 64,
+    "group": "symbols"
+  },
+  {
+    "id": "cjk-unified-ideographs",
+    "name": "CJK Unified Ideographs",
+    "ru": "Иероглифы ККЯ",
+    "range": [19968, 40959],
+    "count": 20992,
+    "group": "cjk",
+    "lazy": true,
+    "ranges": [[19968, 40959]],
+    "nameRule": "hex",
+    "namePrefix": "CJK UNIFIED IDEOGRAPH-"
+  },
+  {
+    "id": "yi-syllables",
+    "name": "Yi Syllables",
+    "ru": "Слоги письма и",
+    "range": [40960, 42127],
+    "count": 1165,
+    "group": "scripts"
+  },
+  {
+    "id": "yi-radicals",
+    "name": "Yi Radicals",
+    "ru": "Ключи письма и",
+    "range": [42128, 42191],
+    "count": 55,
+    "group": "scripts"
+  },
+  {
+    "id": "lisu",
+    "name": "Lisu",
+    "ru": "Лису (алфавит Фрейзера)",
+    "range": [42192, 42239],
+    "count": 48,
+    "group": "scripts"
+  },
+  {
+    "id": "vai",
+    "name": "Vai",
+    "ru": "Ваи",
+    "range": [42240, 42559],
+    "count": 300,
+    "group": "scripts"
+  },
+  {
+    "id": "cyrillic-extended-b",
+    "name": "Cyrillic Extended-B",
+    "ru": "Расширенная кириллица — B",
+    "range": [42560, 42655],
+    "count": 96,
+    "group": "scripts"
+  },
+  {
+    "id": "bamum",
+    "name": "Bamum",
+    "ru": "Бамум",
+    "range": [42656, 42751],
+    "count": 88,
+    "group": "scripts"
+  },
+  {
+    "id": "modifier-tone-letters",
+    "name": "Modifier Tone Letters",
+    "ru": "Тоновые буквы-модификаторы",
+    "range": [42752, 42783],
+    "count": 32,
+    "group": "scripts"
+  },
+  {
+    "id": "latin-extended-d",
+    "name": "Latin Extended-D",
+    "ru": "Расширенная латиница — D",
+    "range": [42784, 43007],
+    "count": 206,
+    "group": "scripts"
+  },
+  {
+    "id": "syloti-nagri",
+    "name": "Syloti Nagri",
+    "ru": "Силхети-нагари",
+    "range": [43008, 43055],
+    "count": 45,
+    "group": "scripts"
+  },
+  {
+    "id": "common-indic-number-forms",
+    "name": "Common Indic Number Forms",
+    "ru": "Общеиндийские числовые формы",
+    "range": [43056, 43071],
+    "count": 10,
+    "group": "scripts"
+  },
+  {
+    "id": "phags-pa",
+    "name": "Phags-pa",
+    "ru": "Квадратное письмо пагба",
+    "range": [43072, 43135],
+    "count": 56,
+    "group": "scripts"
+  },
+  {
+    "id": "saurashtra",
+    "name": "Saurashtra",
+    "ru": "Саураштра",
+    "range": [43136, 43231],
+    "count": 82,
+    "group": "scripts"
+  },
+  {
+    "id": "devanagari-extended",
+    "name": "Devanagari Extended",
+    "ru": "Деванагари, расширение",
+    "range": [43232, 43263],
+    "count": 32,
+    "group": "scripts"
+  },
+  {
+    "id": "kayah-li",
+    "name": "Kayah Li",
+    "ru": "Кая-ли",
+    "range": [43264, 43311],
+    "count": 48,
+    "group": "scripts"
+  },
+  {
+    "id": "rejang",
+    "name": "Rejang",
+    "ru": "Реджанг",
+    "range": [43312, 43359],
+    "count": 37,
+    "group": "scripts"
+  },
+  {
+    "id": "hangul-jamo-extended-a",
+    "name": "Hangul Jamo Extended-A",
+    "ru": "Хангыль: чамо, расширение A",
+    "range": [43360, 43391],
+    "count": 29,
+    "group": "cjk"
+  },
+  {
+    "id": "javanese",
+    "name": "Javanese",
+    "ru": "Яванское письмо",
+    "range": [43392, 43487],
+    "count": 91,
+    "group": "scripts"
+  },
+  {
+    "id": "myanmar-extended-b",
+    "name": "Myanmar Extended-B",
+    "ru": "Бирманское письмо, расширение B",
+    "range": [43488, 43519],
+    "count": 31,
+    "group": "scripts"
+  },
+  {
+    "id": "cham",
+    "name": "Cham",
+    "ru": "Чамское письмо",
+    "range": [43520, 43615],
+    "count": 83,
+    "group": "scripts"
+  },
+  {
+    "id": "myanmar-extended-a",
+    "name": "Myanmar Extended-A",
+    "ru": "Бирманское письмо, расширение A",
+    "range": [43616, 43647],
+    "count": 32,
+    "group": "scripts"
+  },
+  {
+    "id": "tai-viet",
+    "name": "Tai Viet",
+    "ru": "Тай вьет",
+    "range": [43648, 43743],
+    "count": 72,
+    "group": "scripts"
+  },
+  {
+    "id": "meetei-mayek-extensions",
+    "name": "Meetei Mayek Extensions",
+    "ru": "Мейтей-майек, расширение",
+    "range": [43744, 43775],
+    "count": 23,
+    "group": "scripts"
+  },
+  {
+    "id": "ethiopic-extended-a",
+    "name": "Ethiopic Extended-A",
+    "ru": "Эфиопское письмо, расширение A",
+    "range": [43776, 43823],
+    "count": 32,
+    "group": "scripts"
+  },
+  {
+    "id": "latin-extended-e",
+    "name": "Latin Extended-E",
+    "ru": "Расширенная латиница — E",
+    "range": [43824, 43887],
+    "count": 62,
+    "group": "scripts"
+  },
+  {
+    "id": "cherokee-supplement",
+    "name": "Cherokee Supplement",
+    "ru": "Письмо чероки, дополнение",
+    "range": [43888, 43967],
+    "count": 80,
+    "group": "scripts"
+  },
+  {
+    "id": "meetei-mayek",
+    "name": "Meetei Mayek",
+    "ru": "Мейтей-майек",
+    "range": [43968, 44031],
+    "count": 56,
+    "group": "scripts"
+  },
+  {
+    "id": "hangul-syllables",
+    "name": "Hangul Syllables",
+    "ru": "Слоги хангыля",
+    "range": [44032, 55215],
+    "count": 11172,
+    "group": "cjk",
+    "lazy": true,
+    "ranges": [[44032, 55203]],
+    "nameRule": "hangul"
+  },
+  {
+    "id": "hangul-jamo-extended-b",
+    "name": "Hangul Jamo Extended-B",
+    "ru": "Хангыль: чамо, расширение B",
+    "range": [55216, 55295],
+    "count": 72,
+    "group": "cjk"
+  },
+  {
+    "id": "cjk-compatibility-ideographs",
+    "name": "CJK Compatibility Ideographs",
+    "ru": "Совместимые иероглифы ККЯ",
+    "range": [63744, 64255],
+    "count": 472,
+    "group": "cjk",
+    "lazy": true,
+    "ranges": [
+      [63744, 64109],
+      [64112, 64217]
+    ],
+    "nameRule": "hex",
+    "namePrefix": "CJK COMPATIBILITY IDEOGRAPH-"
+  },
+  {
+    "id": "alphabetic-presentation-forms",
+    "name": "Alphabetic Presentation Forms",
+    "ru": "Алфавитные формы представления (лигатуры)",
+    "range": [64256, 64335],
+    "count": 58,
+    "group": "scripts"
+  },
+  {
+    "id": "arabic-presentation-forms-a",
+    "name": "Arabic Presentation Forms-A",
+    "ru": "Арабские формы представления — A",
+    "range": [64336, 65023],
+    "count": 656,
+    "group": "scripts"
+  },
+  {
+    "id": "variation-selectors",
+    "name": "Variation Selectors",
+    "ru": "Селекторы вариантов",
+    "range": [65024, 65039],
+    "count": 16,
+    "group": "other"
+  },
+  {
+    "id": "vertical-forms",
+    "name": "Vertical Forms",
+    "ru": "Вертикальные формы",
+    "range": [65040, 65055],
+    "count": 10,
+    "group": "cjk"
+  },
+  {
+    "id": "combining-half-marks",
+    "name": "Combining Half Marks",
+    "ru": "Комбинируемые полузнаки",
+    "range": [65056, 65071],
+    "count": 16,
+    "group": "other"
+  },
+  {
+    "id": "cjk-compatibility-forms",
+    "name": "CJK Compatibility Forms",
+    "ru": "Совместимые формы ККЯ",
+    "range": [65072, 65103],
+    "count": 32,
+    "group": "cjk"
+  },
+  {
+    "id": "small-form-variants",
+    "name": "Small Form Variants",
+    "ru": "Малые формы знаков",
+    "range": [65104, 65135],
+    "count": 26,
+    "group": "punctuation"
+  },
+  {
+    "id": "arabic-presentation-forms-b",
+    "name": "Arabic Presentation Forms-B",
+    "ru": "Арабские формы представления — B",
+    "range": [65136, 65279],
+    "count": 141,
+    "group": "scripts"
+  },
+  {
+    "id": "halfwidth-and-fullwidth-forms",
+    "name": "Halfwidth and Fullwidth Forms",
+    "ru": "Полуширинные и полноширинные формы",
+    "range": [65280, 65519],
+    "count": 225,
+    "group": "cjk"
+  },
+  {
+    "id": "specials",
+    "name": "Specials",
+    "ru": "Специальные символы",
+    "range": [65520, 65535],
+    "count": 5,
+    "group": "other"
+  },
+  {
+    "id": "linear-b-syllabary",
+    "name": "Linear B Syllabary",
+    "ru": "Линейное письмо Б: слоги",
+    "range": [65536, 65663],
+    "count": 88,
+    "group": "scripts"
+  },
+  {
+    "id": "linear-b-ideograms",
+    "name": "Linear B Ideograms",
+    "ru": "Линейное письмо Б: идеограммы",
+    "range": [65664, 65791],
+    "count": 123,
+    "group": "scripts"
+  },
+  {
+    "id": "aegean-numbers",
+    "name": "Aegean Numbers",
+    "ru": "Эгейские числа",
+    "range": [65792, 65855],
+    "count": 57,
+    "group": "scripts"
+  },
+  {
+    "id": "ancient-greek-numbers",
+    "name": "Ancient Greek Numbers",
+    "ru": "Древнегреческие числа",
+    "range": [65856, 65935],
+    "count": 79,
+    "group": "scripts"
+  },
+  {
+    "id": "ancient-symbols",
+    "name": "Ancient Symbols",
+    "ru": "Древние символы",
+    "range": [65936, 65999],
+    "count": 14,
+    "group": "symbols"
+  },
+  {
+    "id": "phaistos-disc",
+    "name": "Phaistos Disc",
+    "ru": "Фестский диск",
+    "range": [66000, 66047],
+    "count": 46,
+    "group": "scripts"
+  },
+  {
+    "id": "lycian",
+    "name": "Lycian",
+    "ru": "Ликийское письмо",
+    "range": [66176, 66207],
+    "count": 29,
+    "group": "scripts"
+  },
+  {
+    "id": "carian",
+    "name": "Carian",
+    "ru": "Карийское письмо",
+    "range": [66208, 66271],
+    "count": 49,
+    "group": "scripts"
+  },
+  {
+    "id": "coptic-epact-numbers",
+    "name": "Coptic Epact Numbers",
+    "ru": "Коптские эпактные числа",
+    "range": [66272, 66303],
+    "count": 28,
+    "group": "scripts"
+  },
+  {
+    "id": "old-italic",
+    "name": "Old Italic",
+    "ru": "Староиталийские алфавиты",
+    "range": [66304, 66351],
+    "count": 39,
+    "group": "scripts"
+  },
+  {
+    "id": "gothic",
+    "name": "Gothic",
+    "ru": "Готское письмо",
+    "range": [66352, 66383],
+    "count": 27,
+    "group": "scripts"
+  },
+  {
+    "id": "old-permic",
+    "name": "Old Permic",
+    "ru": "Древнепермское письмо (анбур)",
+    "range": [66384, 66431],
+    "count": 43,
+    "group": "scripts"
+  },
+  {
+    "id": "ugaritic",
+    "name": "Ugaritic",
+    "ru": "Угаритское письмо",
+    "range": [66432, 66463],
+    "count": 31,
+    "group": "scripts"
+  },
+  {
+    "id": "old-persian",
+    "name": "Old Persian",
+    "ru": "Древнеперсидская клинопись",
+    "range": [66464, 66527],
+    "count": 50,
+    "group": "scripts"
+  },
+  {
+    "id": "deseret",
+    "name": "Deseret",
+    "ru": "Дезеретский алфавит",
+    "range": [66560, 66639],
+    "count": 80,
+    "group": "scripts"
+  },
+  {
+    "id": "shavian",
+    "name": "Shavian",
+    "ru": "Алфавит Шоу",
+    "range": [66640, 66687],
+    "count": 48,
+    "group": "scripts"
+  },
+  {
+    "id": "osmanya",
+    "name": "Osmanya",
+    "ru": "Османья",
+    "range": [66688, 66735],
+    "count": 40,
+    "group": "scripts"
+  },
+  {
+    "id": "osage",
+    "name": "Osage",
+    "ru": "Письмо осейджей",
+    "range": [66736, 66815],
+    "count": 72,
+    "group": "scripts"
+  },
+  {
+    "id": "elbasan",
+    "name": "Elbasan",
+    "ru": "Эльбасанское письмо",
+    "range": [66816, 66863],
+    "count": 40,
+    "group": "scripts"
+  },
+  {
+    "id": "caucasian-albanian",
+    "name": "Caucasian Albanian",
+    "ru": "Агванское письмо",
+    "range": [66864, 66927],
+    "count": 53,
+    "group": "scripts"
+  },
+  {
+    "id": "vithkuqi",
+    "name": "Vithkuqi",
+    "ru": "Виткуки",
+    "range": [66928, 67007],
+    "count": 70,
+    "group": "scripts"
+  },
+  {
+    "id": "todhri",
+    "name": "Todhri",
+    "ru": "Тодри",
+    "range": [67008, 67071],
+    "count": 52,
+    "group": "scripts"
+  },
+  {
+    "id": "linear-a",
+    "name": "Linear A",
+    "ru": "Линейное письмо А",
+    "range": [67072, 67455],
+    "count": 341,
+    "group": "scripts"
+  },
+  {
+    "id": "latin-extended-f",
+    "name": "Latin Extended-F",
+    "ru": "Расширенная латиница — F",
+    "range": [67456, 67519],
+    "count": 62,
+    "group": "scripts"
+  },
+  {
+    "id": "cypriot-syllabary",
+    "name": "Cypriot Syllabary",
+    "ru": "Кипрское слоговое письмо",
+    "range": [67584, 67647],
+    "count": 55,
+    "group": "scripts"
+  },
+  {
+    "id": "imperial-aramaic",
+    "name": "Imperial Aramaic",
+    "ru": "Имперское арамейское письмо",
+    "range": [67648, 67679],
+    "count": 31,
+    "group": "scripts"
+  },
+  {
+    "id": "palmyrene",
+    "name": "Palmyrene",
+    "ru": "Пальмирское письмо",
+    "range": [67680, 67711],
+    "count": 32,
+    "group": "scripts"
+  },
+  {
+    "id": "nabataean",
+    "name": "Nabataean",
+    "ru": "Набатейское письмо",
+    "range": [67712, 67759],
+    "count": 40,
+    "group": "scripts"
+  },
+  {
+    "id": "hatran",
+    "name": "Hatran",
+    "ru": "Хатранское письмо",
+    "range": [67808, 67839],
+    "count": 26,
+    "group": "scripts"
+  },
+  {
+    "id": "phoenician",
+    "name": "Phoenician",
+    "ru": "Финикийское письмо",
+    "range": [67840, 67871],
+    "count": 29,
+    "group": "scripts"
+  },
+  {
+    "id": "lydian",
+    "name": "Lydian",
+    "ru": "Лидийское письмо",
+    "range": [67872, 67903],
+    "count": 27,
+    "group": "scripts"
+  },
+  {
+    "id": "sidetic",
+    "name": "Sidetic",
+    "ru": "Сидетское письмо",
+    "range": [67904, 67935],
+    "count": 26,
+    "group": "scripts"
+  },
+  {
+    "id": "meroitic-hieroglyphs",
+    "name": "Meroitic Hieroglyphs",
+    "ru": "Мероитские иероглифы",
+    "range": [67968, 67999],
+    "count": 32,
+    "group": "scripts"
+  },
+  {
+    "id": "meroitic-cursive",
+    "name": "Meroitic Cursive",
+    "ru": "Мероитский курсив",
+    "range": [68000, 68095],
+    "count": 90,
+    "group": "scripts"
+  },
+  {
+    "id": "kharoshthi",
+    "name": "Kharoshthi",
+    "ru": "Кхароштхи",
+    "range": [68096, 68191],
+    "count": 68,
+    "group": "scripts"
+  },
+  {
+    "id": "old-south-arabian",
+    "name": "Old South Arabian",
+    "ru": "Древнее южноаравийское письмо",
+    "range": [68192, 68223],
+    "count": 32,
+    "group": "scripts"
+  },
+  {
+    "id": "old-north-arabian",
+    "name": "Old North Arabian",
+    "ru": "Древнее североаравийское письмо",
+    "range": [68224, 68255],
+    "count": 32,
+    "group": "scripts"
+  },
+  {
+    "id": "manichaean",
+    "name": "Manichaean",
+    "ru": "Манихейское письмо",
+    "range": [68288, 68351],
+    "count": 51,
+    "group": "scripts"
+  },
+  {
+    "id": "avestan",
+    "name": "Avestan",
+    "ru": "Авестийское письмо",
+    "range": [68352, 68415],
+    "count": 61,
+    "group": "scripts"
+  },
+  {
+    "id": "inscriptional-parthian",
+    "name": "Inscriptional Parthian",
+    "ru": "Парфянское эпиграфическое письмо",
+    "range": [68416, 68447],
+    "count": 30,
+    "group": "scripts"
+  },
+  {
+    "id": "inscriptional-pahlavi",
+    "name": "Inscriptional Pahlavi",
+    "ru": "Пехлевийское эпиграфическое письмо",
+    "range": [68448, 68479],
+    "count": 27,
+    "group": "scripts"
+  },
+  {
+    "id": "psalter-pahlavi",
+    "name": "Psalter Pahlavi",
+    "ru": "Псалтырное пехлеви",
+    "range": [68480, 68527],
+    "count": 29,
+    "group": "scripts"
+  },
+  {
+    "id": "old-turkic",
+    "name": "Old Turkic",
+    "ru": "Древнетюркское руническое письмо",
+    "range": [68608, 68687],
+    "count": 73,
+    "group": "scripts"
+  },
+  {
+    "id": "old-hungarian",
+    "name": "Old Hungarian",
+    "ru": "Старовенгерское (секейское) письмо",
+    "range": [68736, 68863],
+    "count": 108,
+    "group": "scripts"
+  },
+  {
+    "id": "hanifi-rohingya",
+    "name": "Hanifi Rohingya",
+    "ru": "Ханифи (рохинджа)",
+    "range": [68864, 68927],
+    "count": 50,
+    "group": "scripts"
+  },
+  {
+    "id": "garay",
+    "name": "Garay",
+    "ru": "Гарай",
+    "range": [68928, 69007],
+    "count": 69,
+    "group": "scripts"
+  },
+  {
+    "id": "rumi-numeral-symbols",
+    "name": "Rumi Numeral Symbols",
+    "ru": "Числовые символы руми",
+    "range": [69216, 69247],
+    "count": 31,
+    "group": "scripts"
+  },
+  {
+    "id": "yezidi",
+    "name": "Yezidi",
+    "ru": "Езидское письмо",
+    "range": [69248, 69311],
+    "count": 47,
+    "group": "scripts"
+  },
+  {
+    "id": "arabic-extended-c",
+    "name": "Arabic Extended-C",
+    "ru": "Арабское письмо, расширение C",
+    "range": [69312, 69375],
+    "count": 60,
+    "group": "scripts"
+  },
+  {
+    "id": "old-sogdian",
+    "name": "Old Sogdian",
+    "ru": "Древнесогдийское письмо",
+    "range": [69376, 69423],
+    "count": 40,
+    "group": "scripts"
+  },
+  {
+    "id": "sogdian",
+    "name": "Sogdian",
+    "ru": "Согдийское письмо",
+    "range": [69424, 69487],
+    "count": 42,
+    "group": "scripts"
+  },
+  {
+    "id": "old-uyghur",
+    "name": "Old Uyghur",
+    "ru": "Древнеуйгурское письмо",
+    "range": [69488, 69551],
+    "count": 26,
+    "group": "scripts"
+  },
+  {
+    "id": "chorasmian",
+    "name": "Chorasmian",
+    "ru": "Хорезмийское письмо",
+    "range": [69552, 69599],
+    "count": 28,
+    "group": "scripts"
+  },
+  {
+    "id": "elymaic",
+    "name": "Elymaic",
+    "ru": "Элимайское письмо",
+    "range": [69600, 69631],
+    "count": 23,
+    "group": "scripts"
+  },
+  {
+    "id": "brahmi",
+    "name": "Brahmi",
+    "ru": "Брахми",
+    "range": [69632, 69759],
+    "count": 115,
+    "group": "scripts"
+  },
+  {
+    "id": "kaithi",
+    "name": "Kaithi",
+    "ru": "Кайтхи",
+    "range": [69760, 69839],
+    "count": 68,
+    "group": "scripts"
+  },
+  {
+    "id": "sora-sompeng",
+    "name": "Sora Sompeng",
+    "ru": "Сора-сомпенг",
+    "range": [69840, 69887],
+    "count": 35,
+    "group": "scripts"
+  },
+  {
+    "id": "chakma",
+    "name": "Chakma",
+    "ru": "Чакма",
+    "range": [69888, 69967],
+    "count": 71,
+    "group": "scripts"
+  },
+  {
+    "id": "mahajani",
+    "name": "Mahajani",
+    "ru": "Махаджани",
+    "range": [69968, 70015],
+    "count": 39,
+    "group": "scripts"
+  },
+  {
+    "id": "sharada",
+    "name": "Sharada",
+    "ru": "Шарада",
+    "range": [70016, 70111],
+    "count": 96,
+    "group": "scripts"
+  },
+  {
+    "id": "sinhala-archaic-numbers",
+    "name": "Sinhala Archaic Numbers",
+    "ru": "Архаичные сингальские числа",
+    "range": [70112, 70143],
+    "count": 20,
+    "group": "scripts"
+  },
+  {
+    "id": "khojki",
+    "name": "Khojki",
+    "ru": "Ходжки",
+    "range": [70144, 70223],
+    "count": 65,
+    "group": "scripts"
+  },
+  {
+    "id": "multani",
+    "name": "Multani",
+    "ru": "Мултани",
+    "range": [70272, 70319],
+    "count": 38,
+    "group": "scripts"
+  },
+  {
+    "id": "khudawadi",
+    "name": "Khudawadi",
+    "ru": "Худавади",
+    "range": [70320, 70399],
+    "count": 69,
+    "group": "scripts"
+  },
+  {
+    "id": "grantha",
+    "name": "Grantha",
+    "ru": "Грантха",
+    "range": [70400, 70527],
+    "count": 86,
+    "group": "scripts"
+  },
+  {
+    "id": "tulu-tigalari",
+    "name": "Tulu-Tigalari",
+    "ru": "Тулу-тигалари",
+    "range": [70528, 70655],
+    "count": 80,
+    "group": "scripts"
+  },
+  {
+    "id": "newa",
+    "name": "Newa",
+    "ru": "Нева (непал-липи)",
+    "range": [70656, 70783],
+    "count": 97,
+    "group": "scripts"
+  },
+  {
+    "id": "tirhuta",
+    "name": "Tirhuta",
+    "ru": "Тирхута",
+    "range": [70784, 70879],
+    "count": 82,
+    "group": "scripts"
+  },
+  {
+    "id": "siddham",
+    "name": "Siddham",
+    "ru": "Сиддхам",
+    "range": [71040, 71167],
+    "count": 92,
+    "group": "scripts"
+  },
+  {
+    "id": "modi",
+    "name": "Modi",
+    "ru": "Моди",
+    "range": [71168, 71263],
+    "count": 79,
+    "group": "scripts"
+  },
+  {
+    "id": "mongolian-supplement",
+    "name": "Mongolian Supplement",
+    "ru": "Монгольское письмо, дополнение",
+    "range": [71264, 71295],
+    "count": 13,
+    "group": "scripts"
+  },
+  {
+    "id": "takri",
+    "name": "Takri",
+    "ru": "Такри",
+    "range": [71296, 71375],
+    "count": 68,
+    "group": "scripts"
+  },
+  {
+    "id": "myanmar-extended-c",
+    "name": "Myanmar Extended-C",
+    "ru": "Бирманское письмо, расширение C",
+    "range": [71376, 71423],
+    "count": 20,
+    "group": "scripts"
+  },
+  {
+    "id": "ahom",
+    "name": "Ahom",
+    "ru": "Ахом",
+    "range": [71424, 71503],
+    "count": 65,
+    "group": "scripts"
+  },
+  {
+    "id": "dogra",
+    "name": "Dogra",
+    "ru": "Догра",
+    "range": [71680, 71759],
+    "count": 60,
+    "group": "scripts"
+  },
+  {
+    "id": "warang-citi",
+    "name": "Warang Citi",
+    "ru": "Варанг-кшити",
+    "range": [71840, 71935],
+    "count": 84,
+    "group": "scripts"
+  },
+  {
+    "id": "dives-akuru",
+    "name": "Dives Akuru",
+    "ru": "Дивес-акуру",
+    "range": [71936, 72031],
+    "count": 72,
+    "group": "scripts"
+  },
+  {
+    "id": "nandinagari",
+    "name": "Nandinagari",
+    "ru": "Нандинагари",
+    "range": [72096, 72191],
+    "count": 65,
+    "group": "scripts"
+  },
+  {
+    "id": "zanabazar-square",
+    "name": "Zanabazar Square",
+    "ru": "Квадратное письмо Дзанабадзара",
+    "range": [72192, 72271],
+    "count": 72,
+    "group": "scripts"
+  },
+  {
+    "id": "soyombo",
+    "name": "Soyombo",
+    "ru": "Соёмбо",
+    "range": [72272, 72367],
+    "count": 83,
+    "group": "scripts"
+  },
+  {
+    "id": "unified-canadian-aboriginal-syllabics-extended-a",
+    "name": "Unified Canadian Aboriginal Syllabics Extended-A",
+    "ru": "Канадское слоговое письмо, расширение A",
+    "range": [72368, 72383],
+    "count": 16,
+    "group": "scripts"
+  },
+  {
+    "id": "pau-cin-hau",
+    "name": "Pau Cin Hau",
+    "ru": "Пау-чин-хау",
+    "range": [72384, 72447],
+    "count": 57,
+    "group": "scripts"
+  },
+  {
+    "id": "devanagari-extended-a",
+    "name": "Devanagari Extended-A",
+    "ru": "Деванагари, расширение A",
+    "range": [72448, 72543],
+    "count": 11,
+    "group": "scripts"
+  },
+  {
+    "id": "sharada-supplement",
+    "name": "Sharada Supplement",
+    "ru": "Шарада, дополнение",
+    "range": [72544, 72575],
+    "count": 8,
+    "group": "scripts"
+  },
+  {
+    "id": "sunuwar",
+    "name": "Sunuwar",
+    "ru": "Сунувар",
+    "range": [72640, 72703],
+    "count": 44,
+    "group": "scripts"
+  },
+  {
+    "id": "bhaiksuki",
+    "name": "Bhaiksuki",
+    "ru": "Бхайкшуки",
+    "range": [72704, 72815],
+    "count": 97,
+    "group": "scripts"
+  },
+  {
+    "id": "marchen",
+    "name": "Marchen",
+    "ru": "Марчен",
+    "range": [72816, 72895],
+    "count": 68,
+    "group": "scripts"
+  },
+  {
+    "id": "masaram-gondi",
+    "name": "Masaram Gondi",
+    "ru": "Масарам-гонди",
+    "range": [72960, 73055],
+    "count": 75,
+    "group": "scripts"
+  },
+  {
+    "id": "gunjala-gondi",
+    "name": "Gunjala Gondi",
+    "ru": "Гунджала-гонди",
+    "range": [73056, 73135],
+    "count": 63,
+    "group": "scripts"
+  },
+  {
+    "id": "tolong-siki",
+    "name": "Tolong Siki",
+    "ru": "Толонг-сики",
+    "range": [73136, 73199],
+    "count": 54,
+    "group": "scripts"
+  },
+  {
+    "id": "bengali-supplement",
+    "name": "Bengali Supplement",
+    "ru": "Бенгальское письмо, дополнение",
+    "range": [73200, 73215],
+    "count": 2,
+    "group": "scripts"
+  },
+  {
+    "id": "makasar",
+    "name": "Makasar",
+    "ru": "Макасарское письмо",
+    "range": [73440, 73471],
+    "count": 25,
+    "group": "scripts"
+  },
+  {
+    "id": "kawi",
+    "name": "Kawi",
+    "ru": "Кави",
+    "range": [73472, 73567],
+    "count": 87,
+    "group": "scripts"
+  },
+  {
+    "id": "lisu-supplement",
+    "name": "Lisu Supplement",
+    "ru": "Лису, дополнение",
+    "range": [73648, 73663],
+    "count": 1,
+    "group": "scripts"
+  },
+  {
+    "id": "tamil-supplement",
+    "name": "Tamil Supplement",
+    "ru": "Тамильское письмо, дополнение",
+    "range": [73664, 73727],
+    "count": 51,
+    "group": "scripts"
+  },
+  {
+    "id": "cuneiform",
+    "name": "Cuneiform",
+    "ru": "Клинопись",
+    "range": [73728, 74751],
+    "count": 922,
+    "group": "scripts"
+  },
+  {
+    "id": "cuneiform-numbers-and-punctuation",
+    "name": "Cuneiform Numbers and Punctuation",
+    "ru": "Клинопись: числа и пунктуация",
+    "range": [74752, 74879],
+    "count": 128,
+    "group": "scripts"
+  },
+  {
+    "id": "early-dynastic-cuneiform",
+    "name": "Early Dynastic Cuneiform",
+    "ru": "Раннединастическая клинопись",
+    "range": [74880, 75087],
+    "count": 196,
+    "group": "scripts"
+  },
+  {
+    "id": "archaic-cuneiform-numerals",
+    "name": "Archaic Cuneiform Numerals",
+    "ru": "Архаичные клинописные числа",
+    "range": [75088, 75407],
+    "count": 311,
+    "group": "scripts"
+  },
+  {
+    "id": "cypro-minoan",
+    "name": "Cypro-Minoan",
+    "ru": "Кипро-минойское письмо",
+    "range": [77712, 77823],
+    "count": 99,
+    "group": "scripts"
+  },
+  {
+    "id": "egyptian-hieroglyphs",
+    "name": "Egyptian Hieroglyphs",
+    "ru": "Египетские иероглифы",
+    "range": [77824, 78895],
+    "count": 1072,
+    "group": "scripts"
+  },
+  {
+    "id": "egyptian-hieroglyph-format-controls",
+    "name": "Egyptian Hieroglyph Format Controls",
+    "ru": "Египетские иероглифы: управляющие знаки",
+    "range": [78896, 78943],
+    "count": 38,
+    "group": "scripts"
+  },
+  {
+    "id": "egyptian-hieroglyphs-extended-a",
+    "name": "Egyptian Hieroglyphs Extended-A",
+    "ru": "Египетские иероглифы, расширение A",
+    "range": [78944, 82943],
+    "count": 3995,
+    "group": "scripts",
+    "lazy": true,
+    "ranges": [[78944, 82938]],
+    "nameRule": "hex",
+    "namePrefix": "EGYPTIAN HIEROGLYPH-"
+  },
+  {
+    "id": "anatolian-hieroglyphs",
+    "name": "Anatolian Hieroglyphs",
+    "ru": "Анатолийские (лувийские) иероглифы",
+    "range": [82944, 83583],
+    "count": 583,
+    "group": "scripts"
+  },
+  {
+    "id": "gurung-khema",
+    "name": "Gurung Khema",
+    "ru": "Гурунг-кхема",
+    "range": [90368, 90431],
+    "count": 58,
+    "group": "scripts"
+  },
+  {
+    "id": "bamum-supplement",
+    "name": "Bamum Supplement",
+    "ru": "Бамум, дополнение",
+    "range": [92160, 92735],
+    "count": 569,
+    "group": "scripts"
+  },
+  {
+    "id": "mro",
+    "name": "Mro",
+    "ru": "Мру",
+    "range": [92736, 92783],
+    "count": 43,
+    "group": "scripts"
+  },
+  {
+    "id": "tangsa",
+    "name": "Tangsa",
+    "ru": "Тангса",
+    "range": [92784, 92879],
+    "count": 89,
+    "group": "scripts"
+  },
+  {
+    "id": "bassa-vah",
+    "name": "Bassa Vah",
+    "ru": "Басса-вах",
+    "range": [92880, 92927],
+    "count": 36,
+    "group": "scripts"
+  },
+  {
+    "id": "pahawh-hmong",
+    "name": "Pahawh Hmong",
+    "ru": "Пахау-хмонг",
+    "range": [92928, 93071],
+    "count": 127,
+    "group": "scripts"
+  },
+  {
+    "id": "kirat-rai",
+    "name": "Kirat Rai",
+    "ru": "Кират-раи",
+    "range": [93504, 93567],
+    "count": 58,
+    "group": "scripts"
+  },
+  {
+    "id": "medefaidrin",
+    "name": "Medefaidrin",
+    "ru": "Медефайдрин",
+    "range": [93760, 93855],
+    "count": 91,
+    "group": "scripts"
+  },
+  {
+    "id": "beria-erfe",
+    "name": "Beria Erfe",
+    "ru": "Берия-эрфе",
+    "range": [93856, 93919],
+    "count": 50,
+    "group": "scripts"
+  },
+  {
+    "id": "miao",
+    "name": "Miao",
+    "ru": "Письмо Полларда (мяо)",
+    "range": [93952, 94111],
+    "count": 149,
+    "group": "scripts"
+  },
+  {
+    "id": "ideographic-symbols-and-punctuation",
+    "name": "Ideographic Symbols and Punctuation",
+    "ru": "Иероглифические символы и пунктуация",
+    "range": [94176, 94207],
+    "count": 12,
+    "group": "cjk"
+  },
+  {
+    "id": "tangut",
+    "name": "Tangut",
+    "ru": "Тангутское письмо",
+    "range": [94208, 100351],
+    "count": 6144,
+    "group": "scripts",
+    "lazy": true,
+    "ranges": [[94208, 100351]],
+    "nameRule": "hex",
+    "namePrefix": "TANGUT IDEOGRAPH-"
+  },
+  {
+    "id": "tangut-components",
+    "name": "Tangut Components",
+    "ru": "Тангутские компоненты",
+    "range": [100352, 101119],
+    "count": 768,
+    "group": "scripts"
+  },
+  {
+    "id": "khitan-small-script",
+    "name": "Khitan Small Script",
+    "ru": "Киданьское малое письмо",
+    "range": [101120, 101631],
+    "count": 476,
+    "group": "scripts",
+    "lazy": true,
+    "ranges": [
+      [101120, 101594],
+      [101631, 101631]
+    ],
+    "nameRule": "hex",
+    "namePrefix": "KHITAN SMALL SCRIPT CHARACTER-"
+  },
+  {
+    "id": "tangut-supplement",
+    "name": "Tangut Supplement",
+    "ru": "Тангутское письмо, дополнение",
+    "range": [101632, 101759],
+    "count": 33,
+    "group": "scripts",
+    "lazy": true,
+    "ranges": [[101632, 101664]],
+    "nameRule": "hex",
+    "namePrefix": "TANGUT IDEOGRAPH-"
+  },
+  {
+    "id": "tangut-components-supplement",
+    "name": "Tangut Components Supplement",
+    "ru": "Тангутские компоненты, дополнение",
+    "range": [101760, 101887],
+    "count": 115,
+    "group": "scripts"
+  },
+  {
+    "id": "jurchen",
+    "name": "Jurchen",
+    "ru": "Чжурчжэньское письмо",
+    "range": [101888, 102815],
+    "count": 914,
+    "group": "scripts",
+    "lazy": true,
+    "ranges": [[101888, 102801]],
+    "nameRule": "hex",
+    "namePrefix": "JURCHEN CHARACTER-"
+  },
+  {
+    "id": "jurchen-radicals",
+    "name": "Jurchen Radicals",
+    "ru": "Чжурчжэньские ключи",
+    "range": [102816, 102879],
+    "count": 51,
+    "group": "scripts"
+  },
+  {
+    "id": "kana-extended-b",
+    "name": "Kana Extended-B",
+    "ru": "Кана, расширение B",
+    "range": [110576, 110591],
+    "count": 13,
+    "group": "cjk"
+  },
+  {
+    "id": "kana-supplement",
+    "name": "Kana Supplement",
+    "ru": "Кана, дополнение",
+    "range": [110592, 110847],
+    "count": 256,
+    "group": "cjk"
+  },
+  {
+    "id": "kana-extended-a",
+    "name": "Kana Extended-A",
+    "ru": "Кана, расширение A",
+    "range": [110848, 110895],
+    "count": 41,
+    "group": "cjk"
+  },
+  {
+    "id": "small-kana-extension",
+    "name": "Small Kana Extension",
+    "ru": "Малая кана",
+    "range": [110896, 110959],
+    "count": 10,
+    "group": "cjk"
+  },
+  {
+    "id": "nushu",
+    "name": "Nushu",
+    "ru": "Нюйшу",
+    "range": [110960, 111359],
+    "count": 396,
+    "group": "scripts",
+    "lazy": true,
+    "ranges": [[110960, 111355]],
+    "nameRule": "hex",
+    "namePrefix": "NUSHU CHARACTER-"
+  },
+  {
+    "id": "duployan",
+    "name": "Duployan",
+    "ru": "Стенография Дюплуайе",
+    "range": [113664, 113823],
+    "count": 143,
+    "group": "scripts"
+  },
+  {
+    "id": "shorthand-format-controls",
+    "name": "Shorthand Format Controls",
+    "ru": "Стенографические управляющие знаки",
+    "range": [113824, 113839],
+    "count": 4,
+    "group": "scripts"
+  },
+  {
+    "id": "symbols-for-legacy-computing-supplement",
+    "name": "Symbols for Legacy Computing Supplement",
+    "ru": "Символы старых компьютеров, дополнение",
+    "range": [117760, 118463],
+    "count": 695,
+    "group": "box-drawing"
+  },
+  {
+    "id": "miscellaneous-symbols-supplement",
+    "name": "Miscellaneous Symbols Supplement",
+    "ru": "Разные символы, дополнение",
+    "range": [118464, 118527],
+    "count": 53,
+    "group": "symbols"
+  },
+  {
+    "id": "znamenny-musical-notation",
+    "name": "Znamenny Musical Notation",
+    "ru": "Знаменная нотация",
+    "range": [118528, 118735],
+    "count": 185,
+    "group": "symbols"
+  },
+  {
+    "id": "byzantine-musical-symbols",
+    "name": "Byzantine Musical Symbols",
+    "ru": "Византийские музыкальные символы",
+    "range": [118784, 119039],
+    "count": 246,
+    "group": "symbols"
+  },
+  {
+    "id": "musical-symbols",
+    "name": "Musical Symbols",
+    "ru": "Музыкальные символы",
+    "range": [119040, 119295],
+    "count": 256,
+    "group": "symbols"
+  },
+  {
+    "id": "ancient-greek-musical-notation",
+    "name": "Ancient Greek Musical Notation",
+    "ru": "Древнегреческая нотация",
+    "range": [119296, 119375],
+    "count": 70,
+    "group": "symbols"
+  },
+  {
+    "id": "musical-symbols-supplement",
+    "name": "Musical Symbols Supplement",
+    "ru": "Музыкальные символы, дополнение",
+    "range": [119376, 119439],
+    "count": 50,
+    "group": "symbols"
+  },
+  {
+    "id": "kaktovik-numerals",
+    "name": "Kaktovik Numerals",
+    "ru": "Цифры Кактовика",
+    "range": [119488, 119519],
+    "count": 20,
+    "group": "math"
+  },
+  {
+    "id": "mayan-numerals",
+    "name": "Mayan Numerals",
+    "ru": "Цифры майя",
+    "range": [119520, 119551],
+    "count": 20,
+    "group": "math"
+  },
+  {
+    "id": "tai-xuan-jing-symbols",
+    "name": "Tai Xuan Jing Symbols",
+    "ru": "Символы «Тайсюаньцзина»",
+    "range": [119552, 119647],
+    "count": 87,
+    "group": "symbols"
+  },
+  {
+    "id": "counting-rod-numerals",
+    "name": "Counting Rod Numerals",
+    "ru": "Счётные палочки",
+    "range": [119648, 119679],
+    "count": 25,
+    "group": "math"
+  },
+  {
+    "id": "mathematical-alphanumeric-symbols",
+    "name": "Mathematical Alphanumeric Symbols",
+    "ru": "Математические буквы и цифры",
+    "range": [119808, 120831],
+    "count": 997,
+    "group": "math"
+  },
+  {
+    "id": "sutton-signwriting",
+    "name": "Sutton SignWriting",
+    "ru": "Жестовая запись Саттон",
+    "range": [120832, 121519],
+    "count": 672,
+    "group": "scripts"
+  },
+  {
+    "id": "miscellaneous-symbols-and-arrows-extended",
+    "name": "Miscellaneous Symbols and Arrows Extended",
+    "ru": "Разные символы и стрелки, расширение",
+    "range": [121600, 121855],
+    "count": 29,
+    "group": "arrows"
+  },
+  {
+    "id": "latin-extended-g",
+    "name": "Latin Extended-G",
+    "ru": "Расширенная латиница — G",
+    "range": [122624, 122879],
+    "count": 188,
+    "group": "scripts"
+  },
+  {
+    "id": "glagolitic-supplement",
+    "name": "Glagolitic Supplement",
+    "ru": "Глаголица, дополнение",
+    "range": [122880, 122927],
+    "count": 38,
+    "group": "scripts"
+  },
+  {
+    "id": "cyrillic-extended-d",
+    "name": "Cyrillic Extended-D",
+    "ru": "Расширенная кириллица — D",
+    "range": [122928, 123023],
+    "count": 63,
+    "group": "scripts"
+  },
+  {
+    "id": "nyiakeng-puachue-hmong",
+    "name": "Nyiakeng Puachue Hmong",
+    "ru": "Ньякенг-пуачуэ-хмонг",
+    "range": [123136, 123215],
+    "count": 71,
+    "group": "scripts"
+  },
+  {
+    "id": "toto",
+    "name": "Toto",
+    "ru": "Тото",
+    "range": [123536, 123583],
+    "count": 31,
+    "group": "scripts"
+  },
+  {
+    "id": "wancho",
+    "name": "Wancho",
+    "ru": "Ванчо",
+    "range": [123584, 123647],
+    "count": 59,
+    "group": "scripts"
+  },
+  {
+    "id": "nag-mundari",
+    "name": "Nag Mundari",
+    "ru": "Наг-мундари",
+    "range": [124112, 124159],
+    "count": 42,
+    "group": "scripts"
+  },
+  {
+    "id": "ol-onal",
+    "name": "Ol Onal",
+    "ru": "Ол-онал",
+    "range": [124368, 124415],
+    "count": 44,
+    "group": "scripts"
+  },
+  {
+    "id": "tai-yo",
+    "name": "Tai Yo",
+    "ru": "Тай-йо",
+    "range": [124608, 124671],
+    "count": 55,
+    "group": "scripts"
+  },
+  {
+    "id": "ethiopic-extended-b",
+    "name": "Ethiopic Extended-B",
+    "ru": "Эфиопское письмо, расширение B",
+    "range": [124896, 124927],
+    "count": 28,
+    "group": "scripts"
+  },
+  {
+    "id": "mende-kikakui",
+    "name": "Mende Kikakui",
+    "ru": "Менде-кикакуи",
+    "range": [124928, 125151],
+    "count": 213,
+    "group": "scripts"
+  },
+  {
+    "id": "adlam",
+    "name": "Adlam",
+    "ru": "Адлам",
+    "range": [125184, 125279],
+    "count": 88,
+    "group": "scripts"
+  },
+  {
+    "id": "indic-siyaq-numbers",
+    "name": "Indic Siyaq Numbers",
+    "ru": "Индийские числа сияк",
+    "range": [126064, 126143],
+    "count": 68,
+    "group": "scripts"
+  },
+  {
+    "id": "ottoman-siyaq-numbers",
+    "name": "Ottoman Siyaq Numbers",
+    "ru": "Османские числа сияк",
+    "range": [126208, 126287],
+    "count": 61,
+    "group": "scripts"
+  },
+  {
+    "id": "arabic-mathematical-alphabetic-symbols",
+    "name": "Arabic Mathematical Alphabetic Symbols",
+    "ru": "Арабские математические буквы",
+    "range": [126464, 126719],
+    "count": 143,
+    "group": "math"
+  },
+  {
+    "id": "mahjong-tiles",
+    "name": "Mahjong Tiles",
+    "ru": "Кости маджонга",
+    "range": [126976, 127023],
+    "count": 44,
+    "group": "games"
+  },
+  {
+    "id": "domino-tiles",
+    "name": "Domino Tiles",
+    "ru": "Кости домино",
+    "range": [127024, 127135],
+    "count": 100,
+    "group": "games"
+  },
+  {
+    "id": "playing-cards",
+    "name": "Playing Cards",
+    "ru": "Игральные карты",
+    "range": [127136, 127231],
+    "count": 82,
+    "group": "games"
+  },
+  {
+    "id": "enclosed-alphanumeric-supplement",
+    "name": "Enclosed Alphanumeric Supplement",
+    "ru": "Буквы и цифры в рамках, дополнение",
+    "range": [127232, 127487],
+    "count": 201,
+    "group": "symbols"
+  },
+  {
+    "id": "enclosed-ideographic-supplement",
+    "name": "Enclosed Ideographic Supplement",
+    "ru": "Иероглифы в рамках, дополнение",
+    "range": [127488, 127743],
+    "count": 64,
+    "group": "cjk"
+  },
+  {
+    "id": "miscellaneous-symbols-and-pictographs",
+    "name": "Miscellaneous Symbols and Pictographs",
+    "ru": "Разные символы и пиктограммы",
+    "range": [127744, 128511],
+    "count": 768,
+    "group": "emoji"
+  },
+  {
+    "id": "emoticons",
+    "name": "Emoticons",
+    "ru": "Смайлики",
+    "range": [128512, 128591],
+    "count": 80,
+    "group": "emoji"
+  },
+  {
+    "id": "ornamental-dingbats",
+    "name": "Ornamental Dingbats",
+    "ru": "Декоративные значки",
+    "range": [128592, 128639],
+    "count": 48,
+    "group": "symbols"
+  },
+  {
+    "id": "transport-and-map-symbols",
+    "name": "Transport and Map Symbols",
+    "ru": "Транспорт и карты",
+    "range": [128640, 128767],
+    "count": 120,
+    "group": "emoji"
+  },
+  {
+    "id": "alchemical-symbols",
+    "name": "Alchemical Symbols",
+    "ru": "Алхимические символы",
+    "range": [128768, 128895],
+    "count": 128,
+    "group": "symbols"
+  },
+  {
+    "id": "geometric-shapes-extended",
+    "name": "Geometric Shapes Extended",
+    "ru": "Геометрические фигуры, расширение",
+    "range": [128896, 129023],
+    "count": 120,
+    "group": "shapes"
+  },
+  {
+    "id": "supplemental-arrows-c",
+    "name": "Supplemental Arrows-C",
+    "ru": "Дополнительные стрелки — C",
+    "range": [129024, 129279],
+    "count": 171,
+    "group": "arrows"
+  },
+  {
+    "id": "supplemental-symbols-and-pictographs",
+    "name": "Supplemental Symbols and Pictographs",
+    "ru": "Дополнительные символы и пиктограммы",
+    "range": [129280, 129535],
+    "count": 256,
+    "group": "emoji"
+  },
+  {
+    "id": "chess-symbols",
+    "name": "Chess Symbols",
+    "ru": "Шахматные символы",
+    "range": [129536, 129647],
+    "count": 102,
+    "group": "games"
+  },
+  {
+    "id": "symbols-and-pictographs-extended-a",
+    "name": "Symbols and Pictographs Extended-A",
+    "ru": "Символы и пиктограммы, расширение A",
+    "range": [129648, 129791],
+    "count": 128,
+    "group": "emoji"
+  },
+  {
+    "id": "symbols-for-legacy-computing",
+    "name": "Symbols for Legacy Computing",
+    "ru": "Символы старых компьютеров",
+    "range": [129792, 130047],
+    "count": 250,
+    "group": "box-drawing"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-b",
+    "name": "CJK Unified Ideographs Extension B",
+    "ru": "Иероглифы ККЯ, расширение B",
+    "range": [131072, 173791],
+    "count": 42720,
+    "group": "cjk",
+    "lazy": true,
+    "ranges": [[131072, 173791]],
+    "nameRule": "hex",
+    "namePrefix": "CJK UNIFIED IDEOGRAPH-"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-c",
+    "name": "CJK Unified Ideographs Extension C",
+    "ru": "Иероглифы ККЯ, расширение C",
+    "range": [173824, 177983],
+    "count": 4160,
+    "group": "cjk",
+    "lazy": true,
+    "ranges": [[173824, 177983]],
+    "nameRule": "hex",
+    "namePrefix": "CJK UNIFIED IDEOGRAPH-"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-d",
+    "name": "CJK Unified Ideographs Extension D",
+    "ru": "Иероглифы ККЯ, расширение D",
+    "range": [177984, 178207],
+    "count": 223,
+    "group": "cjk",
+    "lazy": true,
+    "ranges": [[177984, 178206]],
+    "nameRule": "hex",
+    "namePrefix": "CJK UNIFIED IDEOGRAPH-"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-e",
+    "name": "CJK Unified Ideographs Extension E",
+    "ru": "Иероглифы ККЯ, расширение E",
+    "range": [178208, 183983],
+    "count": 5774,
+    "group": "cjk",
+    "lazy": true,
+    "ranges": [[178208, 183981]],
+    "nameRule": "hex",
+    "namePrefix": "CJK UNIFIED IDEOGRAPH-"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-f",
+    "name": "CJK Unified Ideographs Extension F",
+    "ru": "Иероглифы ККЯ, расширение F",
+    "range": [183984, 191471],
+    "count": 7473,
+    "group": "cjk",
+    "lazy": true,
+    "ranges": [[183984, 191456]],
+    "nameRule": "hex",
+    "namePrefix": "CJK UNIFIED IDEOGRAPH-"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-i",
+    "name": "CJK Unified Ideographs Extension I",
+    "ru": "Иероглифы ККЯ, расширение I",
+    "range": [191472, 192095],
+    "count": 622,
+    "group": "cjk",
+    "lazy": true,
+    "ranges": [[191472, 192093]],
+    "nameRule": "hex",
+    "namePrefix": "CJK UNIFIED IDEOGRAPH-"
+  },
+  {
+    "id": "cjk-compatibility-ideographs-supplement",
+    "name": "CJK Compatibility Ideographs Supplement",
+    "ru": "Совместимые иероглифы ККЯ, дополнение",
+    "range": [194560, 195103],
+    "count": 542,
+    "group": "cjk",
+    "lazy": true,
+    "ranges": [[194560, 195101]],
+    "nameRule": "hex",
+    "namePrefix": "CJK COMPATIBILITY IDEOGRAPH-"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-g",
+    "name": "CJK Unified Ideographs Extension G",
+    "ru": "Иероглифы ККЯ, расширение G",
+    "range": [196608, 201551],
+    "count": 4939,
+    "group": "cjk",
+    "lazy": true,
+    "ranges": [[196608, 201546]],
+    "nameRule": "hex",
+    "namePrefix": "CJK UNIFIED IDEOGRAPH-"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-h",
+    "name": "CJK Unified Ideographs Extension H",
+    "ru": "Иероглифы ККЯ, расширение H",
+    "range": [201552, 205743],
+    "count": 4192,
+    "group": "cjk",
+    "lazy": true,
+    "ranges": [[201552, 205743]],
+    "nameRule": "hex",
+    "namePrefix": "CJK UNIFIED IDEOGRAPH-"
+  },
+  {
+    "id": "cjk-unified-ideographs-extension-j",
+    "name": "CJK Unified Ideographs Extension J",
+    "ru": "Иероглифы ККЯ, расширение J",
+    "range": [205744, 210047],
+    "count": 4298,
+    "group": "cjk",
+    "lazy": true,
+    "ranges": [[205744, 210041]],
+    "nameRule": "hex",
+    "namePrefix": "CJK UNIFIED IDEOGRAPH-"
+  },
+  {
+    "id": "seal",
+    "name": "Seal",
+    "ru": "Малое печатное письмо (сяочжуань)",
+    "range": [249856, 261183],
+    "count": 11328,
+    "group": "cjk",
+    "lazy": true,
+    "ranges": [[249856, 261183]],
+    "nameRule": "hex",
+    "namePrefix": "SMALL SEAL CHARACTER-"
+  },
+  {
+    "id": "tags",
+    "name": "Tags",
+    "ru": "Теги",
+    "range": [917504, 917631],
+    "count": 97,
+    "group": "other"
+  },
+  {
+    "id": "variation-selectors-supplement",
+    "name": "Variation Selectors Supplement",
+    "ru": "Селекторы вариантов, дополнение",
+    "range": [917760, 917999],
+    "count": 240,
+    "group": "other"
+  }
+]

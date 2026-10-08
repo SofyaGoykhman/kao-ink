@@ -1,0 +1,1282 @@
+[
+  {
+    "cp": 4096,
+    "char": "က",
+    "name": "MYANMAR LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4097,
+    "char": "ခ",
+    "name": "MYANMAR LETTER KHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4098,
+    "char": "ဂ",
+    "name": "MYANMAR LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4099,
+    "char": "ဃ",
+    "name": "MYANMAR LETTER GHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4100,
+    "char": "င",
+    "name": "MYANMAR LETTER NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4101,
+    "char": "စ",
+    "name": "MYANMAR LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4102,
+    "char": "ဆ",
+    "name": "MYANMAR LETTER CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4103,
+    "char": "ဇ",
+    "name": "MYANMAR LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4104,
+    "char": "ဈ",
+    "name": "MYANMAR LETTER JHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4105,
+    "char": "ဉ",
+    "name": "MYANMAR LETTER NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4106,
+    "char": "ည",
+    "name": "MYANMAR LETTER NNYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4107,
+    "char": "ဋ",
+    "name": "MYANMAR LETTER TTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4108,
+    "char": "ဌ",
+    "name": "MYANMAR LETTER TTHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4109,
+    "char": "ဍ",
+    "name": "MYANMAR LETTER DDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4110,
+    "char": "ဎ",
+    "name": "MYANMAR LETTER DDHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4111,
+    "char": "ဏ",
+    "name": "MYANMAR LETTER NNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4112,
+    "char": "တ",
+    "name": "MYANMAR LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4113,
+    "char": "ထ",
+    "name": "MYANMAR LETTER THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4114,
+    "char": "ဒ",
+    "name": "MYANMAR LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4115,
+    "char": "ဓ",
+    "name": "MYANMAR LETTER DHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4116,
+    "char": "န",
+    "name": "MYANMAR LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4117,
+    "char": "ပ",
+    "name": "MYANMAR LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4118,
+    "char": "ဖ",
+    "name": "MYANMAR LETTER PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4119,
+    "char": "ဗ",
+    "name": "MYANMAR LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4120,
+    "char": "ဘ",
+    "name": "MYANMAR LETTER BHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4121,
+    "char": "မ",
+    "name": "MYANMAR LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4122,
+    "char": "ယ",
+    "name": "MYANMAR LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4123,
+    "char": "ရ",
+    "name": "MYANMAR LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4124,
+    "char": "လ",
+    "name": "MYANMAR LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4125,
+    "char": "ဝ",
+    "name": "MYANMAR LETTER WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4126,
+    "char": "သ",
+    "name": "MYANMAR LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4127,
+    "char": "ဟ",
+    "name": "MYANMAR LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4128,
+    "char": "ဠ",
+    "name": "MYANMAR LETTER LLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4129,
+    "char": "အ",
+    "name": "MYANMAR LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4130,
+    "char": "ဢ",
+    "name": "MYANMAR LETTER SHAN A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4131,
+    "char": "ဣ",
+    "name": "MYANMAR LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4132,
+    "char": "ဤ",
+    "name": "MYANMAR LETTER II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4133,
+    "char": "ဥ",
+    "name": "MYANMAR LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4134,
+    "char": "ဦ",
+    "name": "MYANMAR LETTER UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4135,
+    "char": "ဧ",
+    "name": "MYANMAR LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4136,
+    "char": "ဨ",
+    "name": "MYANMAR LETTER MON E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4137,
+    "char": "ဩ",
+    "name": "MYANMAR LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4138,
+    "char": "ဪ",
+    "name": "MYANMAR LETTER AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4139,
+    "char": "ါ",
+    "name": "MYANMAR VOWEL SIGN TALL AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4140,
+    "char": "ာ",
+    "name": "MYANMAR VOWEL SIGN AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4141,
+    "char": "ိ",
+    "name": "MYANMAR VOWEL SIGN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4142,
+    "char": "ီ",
+    "name": "MYANMAR VOWEL SIGN II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4143,
+    "char": "ု",
+    "name": "MYANMAR VOWEL SIGN U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4144,
+    "char": "ူ",
+    "name": "MYANMAR VOWEL SIGN UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4145,
+    "char": "ေ",
+    "name": "MYANMAR VOWEL SIGN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4146,
+    "char": "ဲ",
+    "name": "MYANMAR VOWEL SIGN AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4147,
+    "char": "ဳ",
+    "name": "MYANMAR VOWEL SIGN MON II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4148,
+    "char": "ဴ",
+    "name": "MYANMAR VOWEL SIGN MON O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4149,
+    "char": "ဵ",
+    "name": "MYANMAR VOWEL SIGN E ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4150,
+    "char": "ံ",
+    "name": "MYANMAR SIGN ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4151,
+    "char": "့",
+    "name": "MYANMAR SIGN DOT BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4152,
+    "char": "း",
+    "name": "MYANMAR SIGN VISARGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4153,
+    "char": "္",
+    "name": "MYANMAR SIGN VIRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4154,
+    "char": "်",
+    "name": "MYANMAR SIGN ASAT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4155,
+    "char": "ျ",
+    "name": "MYANMAR CONSONANT SIGN MEDIAL YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4156,
+    "char": "ြ",
+    "name": "MYANMAR CONSONANT SIGN MEDIAL RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4157,
+    "char": "ွ",
+    "name": "MYANMAR CONSONANT SIGN MEDIAL WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4158,
+    "char": "ှ",
+    "name": "MYANMAR CONSONANT SIGN MEDIAL HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4159,
+    "char": "ဿ",
+    "name": "MYANMAR LETTER GREAT SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4160,
+    "char": "၀",
+    "name": "MYANMAR DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4161,
+    "char": "၁",
+    "name": "MYANMAR DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4162,
+    "char": "၂",
+    "name": "MYANMAR DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4163,
+    "char": "၃",
+    "name": "MYANMAR DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4164,
+    "char": "၄",
+    "name": "MYANMAR DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4165,
+    "char": "၅",
+    "name": "MYANMAR DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4166,
+    "char": "၆",
+    "name": "MYANMAR DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4167,
+    "char": "၇",
+    "name": "MYANMAR DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4168,
+    "char": "၈",
+    "name": "MYANMAR DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4169,
+    "char": "၉",
+    "name": "MYANMAR DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4170,
+    "char": "၊",
+    "name": "MYANMAR SIGN LITTLE SECTION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4171,
+    "char": "။",
+    "name": "MYANMAR SIGN SECTION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4172,
+    "char": "၌",
+    "name": "MYANMAR SYMBOL LOCATIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4173,
+    "char": "၍",
+    "name": "MYANMAR SYMBOL COMPLETED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4174,
+    "char": "၎",
+    "name": "MYANMAR SYMBOL AFOREMENTIONED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4175,
+    "char": "၏",
+    "name": "MYANMAR SYMBOL GENITIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4176,
+    "char": "ၐ",
+    "name": "MYANMAR LETTER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4177,
+    "char": "ၑ",
+    "name": "MYANMAR LETTER SSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4178,
+    "char": "ၒ",
+    "name": "MYANMAR LETTER VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4179,
+    "char": "ၓ",
+    "name": "MYANMAR LETTER VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4180,
+    "char": "ၔ",
+    "name": "MYANMAR LETTER VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4181,
+    "char": "ၕ",
+    "name": "MYANMAR LETTER VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4182,
+    "char": "ၖ",
+    "name": "MYANMAR VOWEL SIGN VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4183,
+    "char": "ၗ",
+    "name": "MYANMAR VOWEL SIGN VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4184,
+    "char": "ၘ",
+    "name": "MYANMAR VOWEL SIGN VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4185,
+    "char": "ၙ",
+    "name": "MYANMAR VOWEL SIGN VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4186,
+    "char": "ၚ",
+    "name": "MYANMAR LETTER MON NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4187,
+    "char": "ၛ",
+    "name": "MYANMAR LETTER MON JHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4188,
+    "char": "ၜ",
+    "name": "MYANMAR LETTER MON BBA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4189,
+    "char": "ၝ",
+    "name": "MYANMAR LETTER MON BBE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4190,
+    "char": "ၞ",
+    "name": "MYANMAR CONSONANT SIGN MON MEDIAL NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4191,
+    "char": "ၟ",
+    "name": "MYANMAR CONSONANT SIGN MON MEDIAL MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4192,
+    "char": "ၠ",
+    "name": "MYANMAR CONSONANT SIGN MON MEDIAL LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4193,
+    "char": "ၡ",
+    "name": "MYANMAR LETTER SGAW KAREN SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4194,
+    "char": "ၢ",
+    "name": "MYANMAR VOWEL SIGN SGAW KAREN EU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4195,
+    "char": "ၣ",
+    "name": "MYANMAR TONE MARK SGAW KAREN HATHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4196,
+    "char": "ၤ",
+    "name": "MYANMAR TONE MARK SGAW KAREN KE PHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4197,
+    "char": "ၥ",
+    "name": "MYANMAR LETTER WESTERN PWO KAREN THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4198,
+    "char": "ၦ",
+    "name": "MYANMAR LETTER WESTERN PWO KAREN PWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4199,
+    "char": "ၧ",
+    "name": "MYANMAR VOWEL SIGN WESTERN PWO KAREN EU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4200,
+    "char": "ၨ",
+    "name": "MYANMAR VOWEL SIGN WESTERN PWO KAREN UE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4201,
+    "char": "ၩ",
+    "name": "MYANMAR SIGN WESTERN PWO KAREN TONE-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4202,
+    "char": "ၪ",
+    "name": "MYANMAR SIGN WESTERN PWO KAREN TONE-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4203,
+    "char": "ၫ",
+    "name": "MYANMAR SIGN WESTERN PWO KAREN TONE-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4204,
+    "char": "ၬ",
+    "name": "MYANMAR SIGN WESTERN PWO KAREN TONE-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4205,
+    "char": "ၭ",
+    "name": "MYANMAR SIGN WESTERN PWO KAREN TONE-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4206,
+    "char": "ၮ",
+    "name": "MYANMAR LETTER EASTERN PWO KAREN NNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4207,
+    "char": "ၯ",
+    "name": "MYANMAR LETTER EASTERN PWO KAREN YWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4208,
+    "char": "ၰ",
+    "name": "MYANMAR LETTER EASTERN PWO KAREN GHWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4209,
+    "char": "ၱ",
+    "name": "MYANMAR VOWEL SIGN GEBA KAREN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4210,
+    "char": "ၲ",
+    "name": "MYANMAR VOWEL SIGN KAYAH OE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4211,
+    "char": "ၳ",
+    "name": "MYANMAR VOWEL SIGN KAYAH U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4212,
+    "char": "ၴ",
+    "name": "MYANMAR VOWEL SIGN KAYAH EE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4213,
+    "char": "ၵ",
+    "name": "MYANMAR LETTER SHAN KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4214,
+    "char": "ၶ",
+    "name": "MYANMAR LETTER SHAN KHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4215,
+    "char": "ၷ",
+    "name": "MYANMAR LETTER SHAN GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4216,
+    "char": "ၸ",
+    "name": "MYANMAR LETTER SHAN CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4217,
+    "char": "ၹ",
+    "name": "MYANMAR LETTER SHAN ZA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4218,
+    "char": "ၺ",
+    "name": "MYANMAR LETTER SHAN NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4219,
+    "char": "ၻ",
+    "name": "MYANMAR LETTER SHAN DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4220,
+    "char": "ၼ",
+    "name": "MYANMAR LETTER SHAN NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4221,
+    "char": "ၽ",
+    "name": "MYANMAR LETTER SHAN PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4222,
+    "char": "ၾ",
+    "name": "MYANMAR LETTER SHAN FA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4223,
+    "char": "ၿ",
+    "name": "MYANMAR LETTER SHAN BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4224,
+    "char": "ႀ",
+    "name": "MYANMAR LETTER SHAN THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4225,
+    "char": "ႁ",
+    "name": "MYANMAR LETTER SHAN HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4226,
+    "char": "ႂ",
+    "name": "MYANMAR CONSONANT SIGN SHAN MEDIAL WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4227,
+    "char": "ႃ",
+    "name": "MYANMAR VOWEL SIGN SHAN AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4228,
+    "char": "ႄ",
+    "name": "MYANMAR VOWEL SIGN SHAN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4229,
+    "char": "ႅ",
+    "name": "MYANMAR VOWEL SIGN SHAN E ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4230,
+    "char": "ႆ",
+    "name": "MYANMAR VOWEL SIGN SHAN FINAL Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4231,
+    "char": "ႇ",
+    "name": "MYANMAR SIGN SHAN TONE-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4232,
+    "char": "ႈ",
+    "name": "MYANMAR SIGN SHAN TONE-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4233,
+    "char": "ႉ",
+    "name": "MYANMAR SIGN SHAN TONE-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4234,
+    "char": "ႊ",
+    "name": "MYANMAR SIGN SHAN TONE-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4235,
+    "char": "ႋ",
+    "name": "MYANMAR SIGN SHAN COUNCIL TONE-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4236,
+    "char": "ႌ",
+    "name": "MYANMAR SIGN SHAN COUNCIL TONE-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4237,
+    "char": "ႍ",
+    "name": "MYANMAR SIGN SHAN COUNCIL EMPHATIC TONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4238,
+    "char": "ႎ",
+    "name": "MYANMAR LETTER RUMAI PALAUNG FA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4239,
+    "char": "ႏ",
+    "name": "MYANMAR SIGN RUMAI PALAUNG TONE-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4240,
+    "char": "႐",
+    "name": "MYANMAR SHAN DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4241,
+    "char": "႑",
+    "name": "MYANMAR SHAN DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4242,
+    "char": "႒",
+    "name": "MYANMAR SHAN DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4243,
+    "char": "႓",
+    "name": "MYANMAR SHAN DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4244,
+    "char": "႔",
+    "name": "MYANMAR SHAN DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4245,
+    "char": "႕",
+    "name": "MYANMAR SHAN DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4246,
+    "char": "႖",
+    "name": "MYANMAR SHAN DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4247,
+    "char": "႗",
+    "name": "MYANMAR SHAN DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4248,
+    "char": "႘",
+    "name": "MYANMAR SHAN DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4249,
+    "char": "႙",
+    "name": "MYANMAR SHAN DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4250,
+    "char": "ႚ",
+    "name": "MYANMAR SIGN KHAMTI TONE-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4251,
+    "char": "ႛ",
+    "name": "MYANMAR SIGN KHAMTI TONE-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4252,
+    "char": "ႜ",
+    "name": "MYANMAR VOWEL SIGN AITON A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4253,
+    "char": "ႝ",
+    "name": "MYANMAR VOWEL SIGN AITON AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4254,
+    "char": "႞",
+    "name": "MYANMAR SYMBOL SHAN ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 4255,
+    "char": "႟",
+    "name": "MYANMAR SYMBOL SHAN EXCLAMATION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

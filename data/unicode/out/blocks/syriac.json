@@ -1,0 +1,618 @@
+[
+  {
+    "cp": 1792,
+    "char": "܀",
+    "name": "SYRIAC END OF PARAGRAPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1793,
+    "char": "܁",
+    "name": "SYRIAC SUPRALINEAR FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1794,
+    "char": "܂",
+    "name": "SYRIAC SUBLINEAR FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1795,
+    "char": "܃",
+    "name": "SYRIAC SUPRALINEAR COLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1796,
+    "char": "܄",
+    "name": "SYRIAC SUBLINEAR COLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1797,
+    "char": "܅",
+    "name": "SYRIAC HORIZONTAL COLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1798,
+    "char": "܆",
+    "name": "SYRIAC COLON SKEWED LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1799,
+    "char": "܇",
+    "name": "SYRIAC COLON SKEWED RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1800,
+    "char": "܈",
+    "name": "SYRIAC SUPRALINEAR COLON SKEWED LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1801,
+    "char": "܉",
+    "name": "SYRIAC SUBLINEAR COLON SKEWED RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1802,
+    "char": "܊",
+    "name": "SYRIAC CONTRACTION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1803,
+    "char": "܋",
+    "name": "SYRIAC HARKLEAN OBELUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1804,
+    "char": "܌",
+    "name": "SYRIAC HARKLEAN METOBELUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1805,
+    "char": "܍",
+    "name": "SYRIAC HARKLEAN ASTERISCUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1807,
+    "char": "\u070f",
+    "name": "SYRIAC ABBREVIATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1808,
+    "char": "ܐ",
+    "name": "SYRIAC LETTER ALAPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1809,
+    "char": "ܑ",
+    "name": "SYRIAC LETTER SUPERSCRIPT ALAPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1810,
+    "char": "ܒ",
+    "name": "SYRIAC LETTER BETH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1811,
+    "char": "ܓ",
+    "name": "SYRIAC LETTER GAMAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1812,
+    "char": "ܔ",
+    "name": "SYRIAC LETTER GAMAL GARSHUNI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1813,
+    "char": "ܕ",
+    "name": "SYRIAC LETTER DALATH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1814,
+    "char": "ܖ",
+    "name": "SYRIAC LETTER DOTLESS DALATH RISH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1815,
+    "char": "ܗ",
+    "name": "SYRIAC LETTER HE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1816,
+    "char": "ܘ",
+    "name": "SYRIAC LETTER WAW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1817,
+    "char": "ܙ",
+    "name": "SYRIAC LETTER ZAIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1818,
+    "char": "ܚ",
+    "name": "SYRIAC LETTER HETH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1819,
+    "char": "ܛ",
+    "name": "SYRIAC LETTER TETH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1820,
+    "char": "ܜ",
+    "name": "SYRIAC LETTER TETH GARSHUNI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1821,
+    "char": "ܝ",
+    "name": "SYRIAC LETTER YUDH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1822,
+    "char": "ܞ",
+    "name": "SYRIAC LETTER YUDH HE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1823,
+    "char": "ܟ",
+    "name": "SYRIAC LETTER KAPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1824,
+    "char": "ܠ",
+    "name": "SYRIAC LETTER LAMADH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1825,
+    "char": "ܡ",
+    "name": "SYRIAC LETTER MIM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1826,
+    "char": "ܢ",
+    "name": "SYRIAC LETTER NUN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1827,
+    "char": "ܣ",
+    "name": "SYRIAC LETTER SEMKATH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1828,
+    "char": "ܤ",
+    "name": "SYRIAC LETTER FINAL SEMKATH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1829,
+    "char": "ܥ",
+    "name": "SYRIAC LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1830,
+    "char": "ܦ",
+    "name": "SYRIAC LETTER PE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1831,
+    "char": "ܧ",
+    "name": "SYRIAC LETTER REVERSED PE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1832,
+    "char": "ܨ",
+    "name": "SYRIAC LETTER SADHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1833,
+    "char": "ܩ",
+    "name": "SYRIAC LETTER QAPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1834,
+    "char": "ܪ",
+    "name": "SYRIAC LETTER RISH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1835,
+    "char": "ܫ",
+    "name": "SYRIAC LETTER SHIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1836,
+    "char": "ܬ",
+    "name": "SYRIAC LETTER TAW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1837,
+    "char": "ܭ",
+    "name": "SYRIAC LETTER PERSIAN BHETH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1838,
+    "char": "ܮ",
+    "name": "SYRIAC LETTER PERSIAN GHAMAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1839,
+    "char": "ܯ",
+    "name": "SYRIAC LETTER PERSIAN DHALATH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1840,
+    "char": "ܰ",
+    "name": "SYRIAC PTHAHA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1841,
+    "char": "ܱ",
+    "name": "SYRIAC PTHAHA BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1842,
+    "char": "ܲ",
+    "name": "SYRIAC PTHAHA DOTTED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1843,
+    "char": "ܳ",
+    "name": "SYRIAC ZQAPHA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1844,
+    "char": "ܴ",
+    "name": "SYRIAC ZQAPHA BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1845,
+    "char": "ܵ",
+    "name": "SYRIAC ZQAPHA DOTTED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1846,
+    "char": "ܶ",
+    "name": "SYRIAC RBASA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1847,
+    "char": "ܷ",
+    "name": "SYRIAC RBASA BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1848,
+    "char": "ܸ",
+    "name": "SYRIAC DOTTED ZLAMA HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1849,
+    "char": "ܹ",
+    "name": "SYRIAC DOTTED ZLAMA ANGULAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1850,
+    "char": "ܺ",
+    "name": "SYRIAC HBASA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1851,
+    "char": "ܻ",
+    "name": "SYRIAC HBASA BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1852,
+    "char": "ܼ",
+    "name": "SYRIAC HBASA-ESASA DOTTED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1853,
+    "char": "ܽ",
+    "name": "SYRIAC ESASA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1854,
+    "char": "ܾ",
+    "name": "SYRIAC ESASA BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1855,
+    "char": "ܿ",
+    "name": "SYRIAC RWAHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1856,
+    "char": "݀",
+    "name": "SYRIAC FEMININE DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1857,
+    "char": "݁",
+    "name": "SYRIAC QUSHSHAYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1858,
+    "char": "݂",
+    "name": "SYRIAC RUKKAKHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1859,
+    "char": "݃",
+    "name": "SYRIAC TWO VERTICAL DOTS ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1860,
+    "char": "݄",
+    "name": "SYRIAC TWO VERTICAL DOTS BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1861,
+    "char": "݅",
+    "name": "SYRIAC THREE DOTS ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1862,
+    "char": "݆",
+    "name": "SYRIAC THREE DOTS BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1863,
+    "char": "݇",
+    "name": "SYRIAC OBLIQUE LINE ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1864,
+    "char": "݈",
+    "name": "SYRIAC OBLIQUE LINE BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1865,
+    "char": "݉",
+    "name": "SYRIAC MUSIC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1866,
+    "char": "݊",
+    "name": "SYRIAC BARREKH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1869,
+    "char": "ݍ",
+    "name": "SYRIAC LETTER SOGDIAN ZHAIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1870,
+    "char": "ݎ",
+    "name": "SYRIAC LETTER SOGDIAN KHAPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 1871,
+    "char": "ݏ",
+    "name": "SYRIAC LETTER SOGDIAN FE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

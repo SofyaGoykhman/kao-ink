@@ -1,0 +1,847 @@
+[
+  {
+    "cp": 32,
+    "char": " ",
+    "name": "SPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 33,
+    "char": "!",
+    "name": "EXCLAMATION MARK",
+    "ru": "восклицательный знак",
+    "en": "exclamation mark",
+    "keywords": {
+      "ru": ["восклицание", "восклицательный", "знак"],
+      "en": ["bang", "exclamation", "mark", "point"]
+    }
+  },
+  {
+    "cp": 34,
+    "char": "\"",
+    "name": "QUOTATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 35,
+    "char": "#",
+    "name": "NUMBER SIGN",
+    "ru": "знак решетки",
+    "en": "hash sign",
+    "keywords": {
+      "ru": ["знак решетки", "номер", "октоторп", "решетка", "фунт", "хеш", "хэш"],
+      "en": ["hash", "hashtag", "lb", "number", "pound", "sign"]
+    }
+  },
+  {
+    "cp": 36,
+    "char": "$",
+    "name": "DOLLAR SIGN",
+    "ru": "доллар",
+    "en": "dollar",
+    "keywords": {
+      "ru": ["валюта", "деньги", "доллар", "США"],
+      "en": ["dollar", "money", "peso", "USD"]
+    }
+  },
+  {
+    "cp": 37,
+    "char": "%",
+    "name": "PERCENT SIGN",
+    "ru": "процент",
+    "en": "percent",
+    "keywords": { "ru": ["процент", "сотая доля"], "en": ["cent", "per", "per-cent", "percent"] }
+  },
+  {
+    "cp": 38,
+    "char": "&",
+    "name": "AMPERSAND",
+    "ru": "амперсанд",
+    "en": "ampersand",
+    "keywords": { "ru": ["амперсанд", "и"], "en": ["ampersand", "and", "et"] }
+  },
+  {
+    "cp": 39,
+    "char": "'",
+    "name": "APOSTROPHE",
+    "ru": "машинописный апостроф",
+    "en": "typewriter apostrophe",
+    "keywords": {
+      "ru": ["апостроф", "кавычка", "машинописный апостроф", "одинарная кавычка"],
+      "en": ["apostrophe", "quote", "single", "typewriter"]
+    }
+  },
+  {
+    "cp": 40,
+    "char": "(",
+    "name": "LEFT PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 41,
+    "char": ")",
+    "name": "RIGHT PARENTHESIS",
+    "ru": "закрывающая скобка",
+    "en": "close parenthesis",
+    "keywords": {
+      "ru": ["закрывающая скобка", "круглая скобка", "скобка"],
+      "en": ["bracket", "close", "paren", "parens", "parenthesis", "round"]
+    }
+  },
+  {
+    "cp": 42,
+    "char": "*",
+    "name": "ASTERISK",
+    "ru": "звездочка",
+    "en": "asterisk",
+    "keywords": {
+      "ru": ["астериск", "звезда", "звездочка"],
+      "en": ["asterisk", "star", "wildcard"]
+    }
+  },
+  {
+    "cp": 43,
+    "char": "+",
+    "name": "PLUS SIGN",
+    "ru": "плюс",
+    "en": "plus sign",
+    "keywords": {
+      "ru": ["знак плюса", "плюс", "прибавление", "сложение"],
+      "en": ["add", "plus", "sign"]
+    }
+  },
+  {
+    "cp": 44,
+    "char": ",",
+    "name": "COMMA",
+    "ru": "запятая",
+    "en": "comma",
+    "keywords": { "ru": ["запятая"], "en": ["comma"] }
+  },
+  {
+    "cp": 45,
+    "char": "-",
+    "name": "HYPHEN-MINUS",
+    "ru": "дефис-минус",
+    "en": "hyphen-minus",
+    "keywords": {
+      "ru": ["вычитание", "дефис", "дефис-минус", "минус", "тире"],
+      "en": ["dash", "hyphen", "hyphen-minus", "minus"]
+    }
+  },
+  {
+    "cp": 46,
+    "char": ".",
+    "name": "FULL STOP",
+    "ru": "точка",
+    "en": "period",
+    "keywords": { "ru": ["конец", "точка"], "en": ["dot", "full", "period", "stop"] }
+  },
+  {
+    "cp": 47,
+    "char": "/",
+    "name": "SOLIDUS",
+    "ru": "косая черта",
+    "en": "slash",
+    "keywords": {
+      "ru": ["косая", "слэш", "черта"],
+      "en": ["oblique", "slash", "solidus", "stroke", "virgule", "whack"]
+    }
+  },
+  {
+    "cp": 48,
+    "char": "0",
+    "name": "DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 49,
+    "char": "1",
+    "name": "DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 50,
+    "char": "2",
+    "name": "DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 51,
+    "char": "3",
+    "name": "DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 52,
+    "char": "4",
+    "name": "DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 53,
+    "char": "5",
+    "name": "DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 54,
+    "char": "6",
+    "name": "DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55,
+    "char": "7",
+    "name": "DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 56,
+    "char": "8",
+    "name": "DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 57,
+    "char": "9",
+    "name": "DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 58,
+    "char": ":",
+    "name": "COLON",
+    "ru": "двоеточие",
+    "en": "colon",
+    "keywords": { "ru": ["двоеточие"], "en": ["colon"] }
+  },
+  {
+    "cp": 59,
+    "char": ";",
+    "name": "SEMICOLON",
+    "ru": "точка с запятой",
+    "en": "semicolon",
+    "keywords": { "ru": ["запятая", "точка", "точка с запятой"], "en": ["semi-colon", "semicolon"] }
+  },
+  {
+    "cp": 60,
+    "char": "<",
+    "name": "LESS-THAN SIGN",
+    "ru": "меньше",
+    "en": "less-than",
+    "keywords": {
+      "ru": ["менее", "меньше", "меньше чем", "открыть тег", "тег"],
+      "en": ["less", "less-than", "open", "tag", "than"]
+    }
+  },
+  {
+    "cp": 61,
+    "char": "=",
+    "name": "EQUALS SIGN",
+    "ru": "равно",
+    "en": "equal",
+    "keywords": { "ru": ["знак равенства", "равно", "равняется"], "en": ["equal", "equals"] }
+  },
+  {
+    "cp": 62,
+    "char": ">",
+    "name": "GREATER-THAN SIGN",
+    "ru": "больше",
+    "en": "greater-than",
+    "keywords": {
+      "ru": ["более", "больше", "больше чем", "закрыть тег", "тег"],
+      "en": ["close", "greater", "greater-than", "tag", "than"]
+    }
+  },
+  {
+    "cp": 63,
+    "char": "?",
+    "name": "QUESTION MARK",
+    "ru": "вопросительный знак",
+    "en": "question mark",
+    "keywords": {
+      "ru": ["вопрос", "вопросительный", "знак", "знак вопроса"],
+      "en": ["mark", "question"]
+    }
+  },
+  {
+    "cp": 64,
+    "char": "@",
+    "name": "COMMERCIAL AT",
+    "ru": "коммерческое эт",
+    "en": "at-sign",
+    "keywords": {
+      "ru": ["коммерческое at", "коммерческое эт", "собака", "собачка"],
+      "en": [
+        "ampersat",
+        "arobase",
+        "arroba",
+        "at",
+        "at-sign",
+        "commercial",
+        "mark",
+        "sign",
+        "strudel"
+      ]
+    }
+  },
+  {
+    "cp": 65,
+    "char": "A",
+    "name": "LATIN CAPITAL LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 66,
+    "char": "B",
+    "name": "LATIN CAPITAL LETTER B",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 67,
+    "char": "C",
+    "name": "LATIN CAPITAL LETTER C",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68,
+    "char": "D",
+    "name": "LATIN CAPITAL LETTER D",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69,
+    "char": "E",
+    "name": "LATIN CAPITAL LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70,
+    "char": "F",
+    "name": "LATIN CAPITAL LETTER F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71,
+    "char": "G",
+    "name": "LATIN CAPITAL LETTER G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 72,
+    "char": "H",
+    "name": "LATIN CAPITAL LETTER H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 73,
+    "char": "I",
+    "name": "LATIN CAPITAL LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 74,
+    "char": "J",
+    "name": "LATIN CAPITAL LETTER J",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 75,
+    "char": "K",
+    "name": "LATIN CAPITAL LETTER K",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 76,
+    "char": "L",
+    "name": "LATIN CAPITAL LETTER L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 77,
+    "char": "M",
+    "name": "LATIN CAPITAL LETTER M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 78,
+    "char": "N",
+    "name": "LATIN CAPITAL LETTER N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 79,
+    "char": "O",
+    "name": "LATIN CAPITAL LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 80,
+    "char": "P",
+    "name": "LATIN CAPITAL LETTER P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 81,
+    "char": "Q",
+    "name": "LATIN CAPITAL LETTER Q",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 82,
+    "char": "R",
+    "name": "LATIN CAPITAL LETTER R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 83,
+    "char": "S",
+    "name": "LATIN CAPITAL LETTER S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 84,
+    "char": "T",
+    "name": "LATIN CAPITAL LETTER T",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 85,
+    "char": "U",
+    "name": "LATIN CAPITAL LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 86,
+    "char": "V",
+    "name": "LATIN CAPITAL LETTER V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 87,
+    "char": "W",
+    "name": "LATIN CAPITAL LETTER W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 88,
+    "char": "X",
+    "name": "LATIN CAPITAL LETTER X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 89,
+    "char": "Y",
+    "name": "LATIN CAPITAL LETTER Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 90,
+    "char": "Z",
+    "name": "LATIN CAPITAL LETTER Z",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 91,
+    "char": "[",
+    "name": "LEFT SQUARE BRACKET",
+    "ru": "открывающая квадратная скобка",
+    "en": "open square bracket",
+    "keywords": {
+      "ru": ["квадратная скобка", "открывающая квадратная скобка", "открывающая скобка", "скобка"],
+      "en": ["bracket", "crotchet", "open", "square"]
+    }
+  },
+  {
+    "cp": 92,
+    "char": "\\",
+    "name": "REVERSE SOLIDUS",
+    "ru": "обратная косая черта",
+    "en": "backslash",
+    "keywords": {
+      "ru": ["бэкслэш", "косая", "обратная", "черта"],
+      "en": ["backslash", "reverse", "solidus", "whack"]
+    }
+  },
+  {
+    "cp": 93,
+    "char": "]",
+    "name": "RIGHT SQUARE BRACKET",
+    "ru": "закрывающая квадратная скобка",
+    "en": "close square bracket",
+    "keywords": {
+      "ru": ["закрывающая квадратная скобка", "закрывающая скобка", "квадратная скобка", "скобка"],
+      "en": ["bracket", "close", "crotchet", "square"]
+    }
+  },
+  {
+    "cp": 94,
+    "char": "^",
+    "name": "CIRCUMFLEX ACCENT",
+    "ru": "циркумфлекс",
+    "en": "circumflex accent",
+    "keywords": {
+      "ru": ["домик", "исключающее или", "карет", "крышечка", "оператор", "циркумфлекс"],
+      "en": [
+        "accent",
+        "caret",
+        "chevron",
+        "circumflex",
+        "control",
+        "hat",
+        "pointer",
+        "power",
+        "sign",
+        "wedge",
+        "xor"
+      ]
+    }
+  },
+  {
+    "cp": 95,
+    "char": "_",
+    "name": "LOW LINE",
+    "ru": "подчеркивание",
+    "en": "low line",
+    "keywords": {
+      "ru": ["андерскор", "нижний пробел", "подчеркивание", "символ подчеркивания"],
+      "en": ["dash", "line", "low", "underdash", "underline"]
+    }
+  },
+  {
+    "cp": 96,
+    "char": "`",
+    "name": "GRAVE ACCENT",
+    "ru": "гравис",
+    "en": "grave accent",
+    "keywords": { "ru": ["гравис", "ударение"], "en": ["accent", "grave", "tone"] }
+  },
+  {
+    "cp": 97,
+    "char": "a",
+    "name": "LATIN SMALL LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 98,
+    "char": "b",
+    "name": "LATIN SMALL LETTER B",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 99,
+    "char": "c",
+    "name": "LATIN SMALL LETTER C",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 100,
+    "char": "d",
+    "name": "LATIN SMALL LETTER D",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 101,
+    "char": "e",
+    "name": "LATIN SMALL LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 102,
+    "char": "f",
+    "name": "LATIN SMALL LETTER F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 103,
+    "char": "g",
+    "name": "LATIN SMALL LETTER G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 104,
+    "char": "h",
+    "name": "LATIN SMALL LETTER H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 105,
+    "char": "i",
+    "name": "LATIN SMALL LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 106,
+    "char": "j",
+    "name": "LATIN SMALL LETTER J",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 107,
+    "char": "k",
+    "name": "LATIN SMALL LETTER K",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 108,
+    "char": "l",
+    "name": "LATIN SMALL LETTER L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 109,
+    "char": "m",
+    "name": "LATIN SMALL LETTER M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110,
+    "char": "n",
+    "name": "LATIN SMALL LETTER N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 111,
+    "char": "o",
+    "name": "LATIN SMALL LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 112,
+    "char": "p",
+    "name": "LATIN SMALL LETTER P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 113,
+    "char": "q",
+    "name": "LATIN SMALL LETTER Q",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 114,
+    "char": "r",
+    "name": "LATIN SMALL LETTER R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 115,
+    "char": "s",
+    "name": "LATIN SMALL LETTER S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 116,
+    "char": "t",
+    "name": "LATIN SMALL LETTER T",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117,
+    "char": "u",
+    "name": "LATIN SMALL LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118,
+    "char": "v",
+    "name": "LATIN SMALL LETTER V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 119,
+    "char": "w",
+    "name": "LATIN SMALL LETTER W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 120,
+    "char": "x",
+    "name": "LATIN SMALL LETTER X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121,
+    "char": "y",
+    "name": "LATIN SMALL LETTER Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 122,
+    "char": "z",
+    "name": "LATIN SMALL LETTER Z",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 123,
+    "char": "{",
+    "name": "LEFT CURLY BRACKET",
+    "ru": "открывающая фигурная скобка",
+    "en": "open curly bracket",
+    "keywords": {
+      "ru": ["открывающая скобка", "открывающая фигурная скобка", "скобка", "фигурная скобка"],
+      "en": ["brace", "bracket", "curly", "gullwing", "open"]
+    }
+  },
+  {
+    "cp": 124,
+    "char": "|",
+    "name": "VERTICAL LINE",
+    "ru": "вертикальная черта",
+    "en": "vertical line",
+    "keywords": {
+      "ru": ["вертикальная линия", "вертикальная черта", "пайп"],
+      "en": ["bar", "line", "pike", "pipe", "sheffer", "stick", "stroke", "vbar", "vertical"]
+    }
+  },
+  {
+    "cp": 125,
+    "char": "}",
+    "name": "RIGHT CURLY BRACKET",
+    "ru": "закрывающая фигурная скобка",
+    "en": "close curly bracket",
+    "keywords": {
+      "ru": ["закрывающая скобка", "закрывающая фигурная скобка", "скобка", "фигурная скобка"],
+      "en": ["brace", "bracket", "close", "curly", "gullwing"]
+    }
+  },
+  {
+    "cp": 126,
+    "char": "~",
+    "name": "TILDE",
+    "ru": "тильда",
+    "en": "tilde",
+    "keywords": { "ru": ["подобие", "тильда", "эквивалент"], "en": ["tilde"] }
+  }
+]

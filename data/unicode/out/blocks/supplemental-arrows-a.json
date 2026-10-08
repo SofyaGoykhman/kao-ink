@@ -1,0 +1,130 @@
+[
+  {
+    "cp": 10224,
+    "char": "⟰",
+    "name": "UPWARDS QUADRUPLE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10225,
+    "char": "⟱",
+    "name": "DOWNWARDS QUADRUPLE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10226,
+    "char": "⟲",
+    "name": "ANTICLOCKWISE GAPPED CIRCLE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10227,
+    "char": "⟳",
+    "name": "CLOCKWISE GAPPED CIRCLE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10228,
+    "char": "⟴",
+    "name": "RIGHT ARROW WITH CIRCLED PLUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10229,
+    "char": "⟵",
+    "name": "LONG LEFTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10230,
+    "char": "⟶",
+    "name": "LONG RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10231,
+    "char": "⟷",
+    "name": "LONG LEFT RIGHT ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10232,
+    "char": "⟸",
+    "name": "LONG LEFTWARDS DOUBLE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10233,
+    "char": "⟹",
+    "name": "LONG RIGHTWARDS DOUBLE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10234,
+    "char": "⟺",
+    "name": "LONG LEFT RIGHT DOUBLE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10235,
+    "char": "⟻",
+    "name": "LONG LEFTWARDS ARROW FROM BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10236,
+    "char": "⟼",
+    "name": "LONG RIGHTWARDS ARROW FROM BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10237,
+    "char": "⟽",
+    "name": "LONG LEFTWARDS DOUBLE ARROW FROM BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10238,
+    "char": "⟾",
+    "name": "LONG RIGHTWARDS DOUBLE ARROW FROM BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10239,
+    "char": "⟿",
+    "name": "LONG RIGHTWARDS SQUIGGLE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

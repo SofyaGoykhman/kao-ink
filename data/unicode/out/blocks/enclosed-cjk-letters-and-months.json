@@ -1,0 +1,2048 @@
+[
+  {
+    "cp": 12800,
+    "char": "㈀",
+    "name": "PARENTHESIZED HANGUL KIYEOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12801,
+    "char": "㈁",
+    "name": "PARENTHESIZED HANGUL NIEUN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12802,
+    "char": "㈂",
+    "name": "PARENTHESIZED HANGUL TIKEUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12803,
+    "char": "㈃",
+    "name": "PARENTHESIZED HANGUL RIEUL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12804,
+    "char": "㈄",
+    "name": "PARENTHESIZED HANGUL MIEUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12805,
+    "char": "㈅",
+    "name": "PARENTHESIZED HANGUL PIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12806,
+    "char": "㈆",
+    "name": "PARENTHESIZED HANGUL SIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12807,
+    "char": "㈇",
+    "name": "PARENTHESIZED HANGUL IEUNG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12808,
+    "char": "㈈",
+    "name": "PARENTHESIZED HANGUL CIEUC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12809,
+    "char": "㈉",
+    "name": "PARENTHESIZED HANGUL CHIEUCH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12810,
+    "char": "㈊",
+    "name": "PARENTHESIZED HANGUL KHIEUKH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12811,
+    "char": "㈋",
+    "name": "PARENTHESIZED HANGUL THIEUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12812,
+    "char": "㈌",
+    "name": "PARENTHESIZED HANGUL PHIEUPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12813,
+    "char": "㈍",
+    "name": "PARENTHESIZED HANGUL HIEUH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12814,
+    "char": "㈎",
+    "name": "PARENTHESIZED HANGUL KIYEOK A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12815,
+    "char": "㈏",
+    "name": "PARENTHESIZED HANGUL NIEUN A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12816,
+    "char": "㈐",
+    "name": "PARENTHESIZED HANGUL TIKEUT A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12817,
+    "char": "㈑",
+    "name": "PARENTHESIZED HANGUL RIEUL A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12818,
+    "char": "㈒",
+    "name": "PARENTHESIZED HANGUL MIEUM A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12819,
+    "char": "㈓",
+    "name": "PARENTHESIZED HANGUL PIEUP A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12820,
+    "char": "㈔",
+    "name": "PARENTHESIZED HANGUL SIOS A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12821,
+    "char": "㈕",
+    "name": "PARENTHESIZED HANGUL IEUNG A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12822,
+    "char": "㈖",
+    "name": "PARENTHESIZED HANGUL CIEUC A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12823,
+    "char": "㈗",
+    "name": "PARENTHESIZED HANGUL CHIEUCH A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12824,
+    "char": "㈘",
+    "name": "PARENTHESIZED HANGUL KHIEUKH A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12825,
+    "char": "㈙",
+    "name": "PARENTHESIZED HANGUL THIEUTH A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12826,
+    "char": "㈚",
+    "name": "PARENTHESIZED HANGUL PHIEUPH A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12827,
+    "char": "㈛",
+    "name": "PARENTHESIZED HANGUL HIEUH A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12828,
+    "char": "㈜",
+    "name": "PARENTHESIZED HANGUL CIEUC U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12829,
+    "char": "㈝",
+    "name": "PARENTHESIZED KOREAN CHARACTER OJEON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12830,
+    "char": "㈞",
+    "name": "PARENTHESIZED KOREAN CHARACTER O HU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12832,
+    "char": "㈠",
+    "name": "PARENTHESIZED IDEOGRAPH ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12833,
+    "char": "㈡",
+    "name": "PARENTHESIZED IDEOGRAPH TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12834,
+    "char": "㈢",
+    "name": "PARENTHESIZED IDEOGRAPH THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12835,
+    "char": "㈣",
+    "name": "PARENTHESIZED IDEOGRAPH FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12836,
+    "char": "㈤",
+    "name": "PARENTHESIZED IDEOGRAPH FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12837,
+    "char": "㈥",
+    "name": "PARENTHESIZED IDEOGRAPH SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12838,
+    "char": "㈦",
+    "name": "PARENTHESIZED IDEOGRAPH SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12839,
+    "char": "㈧",
+    "name": "PARENTHESIZED IDEOGRAPH EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12840,
+    "char": "㈨",
+    "name": "PARENTHESIZED IDEOGRAPH NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12841,
+    "char": "㈩",
+    "name": "PARENTHESIZED IDEOGRAPH TEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12842,
+    "char": "㈪",
+    "name": "PARENTHESIZED IDEOGRAPH MOON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12843,
+    "char": "㈫",
+    "name": "PARENTHESIZED IDEOGRAPH FIRE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12844,
+    "char": "㈬",
+    "name": "PARENTHESIZED IDEOGRAPH WATER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12845,
+    "char": "㈭",
+    "name": "PARENTHESIZED IDEOGRAPH WOOD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12846,
+    "char": "㈮",
+    "name": "PARENTHESIZED IDEOGRAPH METAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12847,
+    "char": "㈯",
+    "name": "PARENTHESIZED IDEOGRAPH EARTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12848,
+    "char": "㈰",
+    "name": "PARENTHESIZED IDEOGRAPH SUN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12849,
+    "char": "㈱",
+    "name": "PARENTHESIZED IDEOGRAPH STOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12850,
+    "char": "㈲",
+    "name": "PARENTHESIZED IDEOGRAPH HAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12851,
+    "char": "㈳",
+    "name": "PARENTHESIZED IDEOGRAPH SOCIETY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12852,
+    "char": "㈴",
+    "name": "PARENTHESIZED IDEOGRAPH NAME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12853,
+    "char": "㈵",
+    "name": "PARENTHESIZED IDEOGRAPH SPECIAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12854,
+    "char": "㈶",
+    "name": "PARENTHESIZED IDEOGRAPH FINANCIAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12855,
+    "char": "㈷",
+    "name": "PARENTHESIZED IDEOGRAPH CONGRATULATION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12856,
+    "char": "㈸",
+    "name": "PARENTHESIZED IDEOGRAPH LABOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12857,
+    "char": "㈹",
+    "name": "PARENTHESIZED IDEOGRAPH REPRESENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12858,
+    "char": "㈺",
+    "name": "PARENTHESIZED IDEOGRAPH CALL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12859,
+    "char": "㈻",
+    "name": "PARENTHESIZED IDEOGRAPH STUDY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12860,
+    "char": "㈼",
+    "name": "PARENTHESIZED IDEOGRAPH SUPERVISE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12861,
+    "char": "㈽",
+    "name": "PARENTHESIZED IDEOGRAPH ENTERPRISE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12862,
+    "char": "㈾",
+    "name": "PARENTHESIZED IDEOGRAPH RESOURCE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12863,
+    "char": "㈿",
+    "name": "PARENTHESIZED IDEOGRAPH ALLIANCE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12864,
+    "char": "㉀",
+    "name": "PARENTHESIZED IDEOGRAPH FESTIVAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12865,
+    "char": "㉁",
+    "name": "PARENTHESIZED IDEOGRAPH REST",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12866,
+    "char": "㉂",
+    "name": "PARENTHESIZED IDEOGRAPH SELF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12867,
+    "char": "㉃",
+    "name": "PARENTHESIZED IDEOGRAPH REACH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12868,
+    "char": "㉄",
+    "name": "CIRCLED IDEOGRAPH QUESTION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12869,
+    "char": "㉅",
+    "name": "CIRCLED IDEOGRAPH KINDERGARTEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12870,
+    "char": "㉆",
+    "name": "CIRCLED IDEOGRAPH SCHOOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12871,
+    "char": "㉇",
+    "name": "CIRCLED IDEOGRAPH KOTO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12872,
+    "char": "㉈",
+    "name": "CIRCLED NUMBER TEN ON BLACK SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12873,
+    "char": "㉉",
+    "name": "CIRCLED NUMBER TWENTY ON BLACK SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12874,
+    "char": "㉊",
+    "name": "CIRCLED NUMBER THIRTY ON BLACK SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12875,
+    "char": "㉋",
+    "name": "CIRCLED NUMBER FORTY ON BLACK SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12876,
+    "char": "㉌",
+    "name": "CIRCLED NUMBER FIFTY ON BLACK SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12877,
+    "char": "㉍",
+    "name": "CIRCLED NUMBER SIXTY ON BLACK SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12878,
+    "char": "㉎",
+    "name": "CIRCLED NUMBER SEVENTY ON BLACK SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12879,
+    "char": "㉏",
+    "name": "CIRCLED NUMBER EIGHTY ON BLACK SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12880,
+    "char": "㉐",
+    "name": "PARTNERSHIP SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12881,
+    "char": "㉑",
+    "name": "CIRCLED NUMBER TWENTY ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12882,
+    "char": "㉒",
+    "name": "CIRCLED NUMBER TWENTY TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12883,
+    "char": "㉓",
+    "name": "CIRCLED NUMBER TWENTY THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12884,
+    "char": "㉔",
+    "name": "CIRCLED NUMBER TWENTY FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12885,
+    "char": "㉕",
+    "name": "CIRCLED NUMBER TWENTY FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12886,
+    "char": "㉖",
+    "name": "CIRCLED NUMBER TWENTY SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12887,
+    "char": "㉗",
+    "name": "CIRCLED NUMBER TWENTY SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12888,
+    "char": "㉘",
+    "name": "CIRCLED NUMBER TWENTY EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12889,
+    "char": "㉙",
+    "name": "CIRCLED NUMBER TWENTY NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12890,
+    "char": "㉚",
+    "name": "CIRCLED NUMBER THIRTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12891,
+    "char": "㉛",
+    "name": "CIRCLED NUMBER THIRTY ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12892,
+    "char": "㉜",
+    "name": "CIRCLED NUMBER THIRTY TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12893,
+    "char": "㉝",
+    "name": "CIRCLED NUMBER THIRTY THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12894,
+    "char": "㉞",
+    "name": "CIRCLED NUMBER THIRTY FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12895,
+    "char": "㉟",
+    "name": "CIRCLED NUMBER THIRTY FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12896,
+    "char": "㉠",
+    "name": "CIRCLED HANGUL KIYEOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12897,
+    "char": "㉡",
+    "name": "CIRCLED HANGUL NIEUN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12898,
+    "char": "㉢",
+    "name": "CIRCLED HANGUL TIKEUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12899,
+    "char": "㉣",
+    "name": "CIRCLED HANGUL RIEUL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12900,
+    "char": "㉤",
+    "name": "CIRCLED HANGUL MIEUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12901,
+    "char": "㉥",
+    "name": "CIRCLED HANGUL PIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12902,
+    "char": "㉦",
+    "name": "CIRCLED HANGUL SIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12903,
+    "char": "㉧",
+    "name": "CIRCLED HANGUL IEUNG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12904,
+    "char": "㉨",
+    "name": "CIRCLED HANGUL CIEUC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12905,
+    "char": "㉩",
+    "name": "CIRCLED HANGUL CHIEUCH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12906,
+    "char": "㉪",
+    "name": "CIRCLED HANGUL KHIEUKH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12907,
+    "char": "㉫",
+    "name": "CIRCLED HANGUL THIEUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12908,
+    "char": "㉬",
+    "name": "CIRCLED HANGUL PHIEUPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12909,
+    "char": "㉭",
+    "name": "CIRCLED HANGUL HIEUH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12910,
+    "char": "㉮",
+    "name": "CIRCLED HANGUL KIYEOK A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12911,
+    "char": "㉯",
+    "name": "CIRCLED HANGUL NIEUN A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12912,
+    "char": "㉰",
+    "name": "CIRCLED HANGUL TIKEUT A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12913,
+    "char": "㉱",
+    "name": "CIRCLED HANGUL RIEUL A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12914,
+    "char": "㉲",
+    "name": "CIRCLED HANGUL MIEUM A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12915,
+    "char": "㉳",
+    "name": "CIRCLED HANGUL PIEUP A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12916,
+    "char": "㉴",
+    "name": "CIRCLED HANGUL SIOS A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12917,
+    "char": "㉵",
+    "name": "CIRCLED HANGUL IEUNG A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12918,
+    "char": "㉶",
+    "name": "CIRCLED HANGUL CIEUC A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12919,
+    "char": "㉷",
+    "name": "CIRCLED HANGUL CHIEUCH A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12920,
+    "char": "㉸",
+    "name": "CIRCLED HANGUL KHIEUKH A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12921,
+    "char": "㉹",
+    "name": "CIRCLED HANGUL THIEUTH A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12922,
+    "char": "㉺",
+    "name": "CIRCLED HANGUL PHIEUPH A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12923,
+    "char": "㉻",
+    "name": "CIRCLED HANGUL HIEUH A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12924,
+    "char": "㉼",
+    "name": "CIRCLED KOREAN CHARACTER CHAMKO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12925,
+    "char": "㉽",
+    "name": "CIRCLED KOREAN CHARACTER JUEUI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12926,
+    "char": "㉾",
+    "name": "CIRCLED HANGUL IEUNG U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12927,
+    "char": "㉿",
+    "name": "KOREAN STANDARD SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12928,
+    "char": "㊀",
+    "name": "CIRCLED IDEOGRAPH ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12929,
+    "char": "㊁",
+    "name": "CIRCLED IDEOGRAPH TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12930,
+    "char": "㊂",
+    "name": "CIRCLED IDEOGRAPH THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12931,
+    "char": "㊃",
+    "name": "CIRCLED IDEOGRAPH FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12932,
+    "char": "㊄",
+    "name": "CIRCLED IDEOGRAPH FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12933,
+    "char": "㊅",
+    "name": "CIRCLED IDEOGRAPH SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12934,
+    "char": "㊆",
+    "name": "CIRCLED IDEOGRAPH SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12935,
+    "char": "㊇",
+    "name": "CIRCLED IDEOGRAPH EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12936,
+    "char": "㊈",
+    "name": "CIRCLED IDEOGRAPH NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12937,
+    "char": "㊉",
+    "name": "CIRCLED IDEOGRAPH TEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12938,
+    "char": "㊊",
+    "name": "CIRCLED IDEOGRAPH MOON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12939,
+    "char": "㊋",
+    "name": "CIRCLED IDEOGRAPH FIRE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12940,
+    "char": "㊌",
+    "name": "CIRCLED IDEOGRAPH WATER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12941,
+    "char": "㊍",
+    "name": "CIRCLED IDEOGRAPH WOOD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12942,
+    "char": "㊎",
+    "name": "CIRCLED IDEOGRAPH METAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12943,
+    "char": "㊏",
+    "name": "CIRCLED IDEOGRAPH EARTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12944,
+    "char": "㊐",
+    "name": "CIRCLED IDEOGRAPH SUN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12945,
+    "char": "㊑",
+    "name": "CIRCLED IDEOGRAPH STOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12946,
+    "char": "㊒",
+    "name": "CIRCLED IDEOGRAPH HAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12947,
+    "char": "㊓",
+    "name": "CIRCLED IDEOGRAPH SOCIETY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12948,
+    "char": "㊔",
+    "name": "CIRCLED IDEOGRAPH NAME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12949,
+    "char": "㊕",
+    "name": "CIRCLED IDEOGRAPH SPECIAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12950,
+    "char": "㊖",
+    "name": "CIRCLED IDEOGRAPH FINANCIAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12951,
+    "char": "㊗",
+    "name": "CIRCLED IDEOGRAPH CONGRATULATION",
+    "ru": "поздравление",
+    "en": "Japanese “congratulations” button",
+    "keywords": {
+      "ru": ["значок", "кнопка", "поздравление", "праздник", "япония"],
+      "en": ["button", "congratulations", "ideograph", "Japanese"]
+    }
+  },
+  {
+    "cp": 12952,
+    "char": "㊘",
+    "name": "CIRCLED IDEOGRAPH LABOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12953,
+    "char": "㊙",
+    "name": "CIRCLED IDEOGRAPH SECRET",
+    "ru": "секрет",
+    "en": "Japanese “secret” button",
+    "keywords": {
+      "ru": ["значок", "кнопка", "секрет", "тайна", "япония"],
+      "en": ["button", "ideograph", "Japanese", "secret"]
+    }
+  },
+  {
+    "cp": 12954,
+    "char": "㊚",
+    "name": "CIRCLED IDEOGRAPH MALE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12955,
+    "char": "㊛",
+    "name": "CIRCLED IDEOGRAPH FEMALE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12956,
+    "char": "㊜",
+    "name": "CIRCLED IDEOGRAPH SUITABLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12957,
+    "char": "㊝",
+    "name": "CIRCLED IDEOGRAPH EXCELLENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12958,
+    "char": "㊞",
+    "name": "CIRCLED IDEOGRAPH PRINT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12959,
+    "char": "㊟",
+    "name": "CIRCLED IDEOGRAPH ATTENTION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12960,
+    "char": "㊠",
+    "name": "CIRCLED IDEOGRAPH ITEM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12961,
+    "char": "㊡",
+    "name": "CIRCLED IDEOGRAPH REST",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12962,
+    "char": "㊢",
+    "name": "CIRCLED IDEOGRAPH COPY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12963,
+    "char": "㊣",
+    "name": "CIRCLED IDEOGRAPH CORRECT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12964,
+    "char": "㊤",
+    "name": "CIRCLED IDEOGRAPH HIGH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12965,
+    "char": "㊥",
+    "name": "CIRCLED IDEOGRAPH CENTRE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12966,
+    "char": "㊦",
+    "name": "CIRCLED IDEOGRAPH LOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12967,
+    "char": "㊧",
+    "name": "CIRCLED IDEOGRAPH LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12968,
+    "char": "㊨",
+    "name": "CIRCLED IDEOGRAPH RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12969,
+    "char": "㊩",
+    "name": "CIRCLED IDEOGRAPH MEDICINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12970,
+    "char": "㊪",
+    "name": "CIRCLED IDEOGRAPH RELIGION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12971,
+    "char": "㊫",
+    "name": "CIRCLED IDEOGRAPH STUDY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12972,
+    "char": "㊬",
+    "name": "CIRCLED IDEOGRAPH SUPERVISE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12973,
+    "char": "㊭",
+    "name": "CIRCLED IDEOGRAPH ENTERPRISE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12974,
+    "char": "㊮",
+    "name": "CIRCLED IDEOGRAPH RESOURCE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12975,
+    "char": "㊯",
+    "name": "CIRCLED IDEOGRAPH ALLIANCE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12976,
+    "char": "㊰",
+    "name": "CIRCLED IDEOGRAPH NIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12977,
+    "char": "㊱",
+    "name": "CIRCLED NUMBER THIRTY SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12978,
+    "char": "㊲",
+    "name": "CIRCLED NUMBER THIRTY SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12979,
+    "char": "㊳",
+    "name": "CIRCLED NUMBER THIRTY EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12980,
+    "char": "㊴",
+    "name": "CIRCLED NUMBER THIRTY NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12981,
+    "char": "㊵",
+    "name": "CIRCLED NUMBER FORTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12982,
+    "char": "㊶",
+    "name": "CIRCLED NUMBER FORTY ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12983,
+    "char": "㊷",
+    "name": "CIRCLED NUMBER FORTY TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12984,
+    "char": "㊸",
+    "name": "CIRCLED NUMBER FORTY THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12985,
+    "char": "㊹",
+    "name": "CIRCLED NUMBER FORTY FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12986,
+    "char": "㊺",
+    "name": "CIRCLED NUMBER FORTY FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12987,
+    "char": "㊻",
+    "name": "CIRCLED NUMBER FORTY SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12988,
+    "char": "㊼",
+    "name": "CIRCLED NUMBER FORTY SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12989,
+    "char": "㊽",
+    "name": "CIRCLED NUMBER FORTY EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12990,
+    "char": "㊾",
+    "name": "CIRCLED NUMBER FORTY NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12991,
+    "char": "㊿",
+    "name": "CIRCLED NUMBER FIFTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12992,
+    "char": "㋀",
+    "name": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR JANUARY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12993,
+    "char": "㋁",
+    "name": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR FEBRUARY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12994,
+    "char": "㋂",
+    "name": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR MARCH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12995,
+    "char": "㋃",
+    "name": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR APRIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12996,
+    "char": "㋄",
+    "name": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR MAY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12997,
+    "char": "㋅",
+    "name": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR JUNE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12998,
+    "char": "㋆",
+    "name": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR JULY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12999,
+    "char": "㋇",
+    "name": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR AUGUST",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13000,
+    "char": "㋈",
+    "name": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR SEPTEMBER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13001,
+    "char": "㋉",
+    "name": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR OCTOBER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13002,
+    "char": "㋊",
+    "name": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR NOVEMBER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13003,
+    "char": "㋋",
+    "name": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DECEMBER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13004,
+    "char": "㋌",
+    "name": "SQUARE HG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13005,
+    "char": "㋍",
+    "name": "SQUARE ERG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13006,
+    "char": "㋎",
+    "name": "SQUARE EV",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13007,
+    "char": "㋏",
+    "name": "LIMITED LIABILITY SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13008,
+    "char": "㋐",
+    "name": "CIRCLED KATAKANA A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13009,
+    "char": "㋑",
+    "name": "CIRCLED KATAKANA I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13010,
+    "char": "㋒",
+    "name": "CIRCLED KATAKANA U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13011,
+    "char": "㋓",
+    "name": "CIRCLED KATAKANA E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13012,
+    "char": "㋔",
+    "name": "CIRCLED KATAKANA O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13013,
+    "char": "㋕",
+    "name": "CIRCLED KATAKANA KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13014,
+    "char": "㋖",
+    "name": "CIRCLED KATAKANA KI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13015,
+    "char": "㋗",
+    "name": "CIRCLED KATAKANA KU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13016,
+    "char": "㋘",
+    "name": "CIRCLED KATAKANA KE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13017,
+    "char": "㋙",
+    "name": "CIRCLED KATAKANA KO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13018,
+    "char": "㋚",
+    "name": "CIRCLED KATAKANA SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13019,
+    "char": "㋛",
+    "name": "CIRCLED KATAKANA SI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13020,
+    "char": "㋜",
+    "name": "CIRCLED KATAKANA SU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13021,
+    "char": "㋝",
+    "name": "CIRCLED KATAKANA SE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13022,
+    "char": "㋞",
+    "name": "CIRCLED KATAKANA SO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13023,
+    "char": "㋟",
+    "name": "CIRCLED KATAKANA TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13024,
+    "char": "㋠",
+    "name": "CIRCLED KATAKANA TI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13025,
+    "char": "㋡",
+    "name": "CIRCLED KATAKANA TU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13026,
+    "char": "㋢",
+    "name": "CIRCLED KATAKANA TE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13027,
+    "char": "㋣",
+    "name": "CIRCLED KATAKANA TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13028,
+    "char": "㋤",
+    "name": "CIRCLED KATAKANA NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13029,
+    "char": "㋥",
+    "name": "CIRCLED KATAKANA NI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13030,
+    "char": "㋦",
+    "name": "CIRCLED KATAKANA NU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13031,
+    "char": "㋧",
+    "name": "CIRCLED KATAKANA NE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13032,
+    "char": "㋨",
+    "name": "CIRCLED KATAKANA NO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13033,
+    "char": "㋩",
+    "name": "CIRCLED KATAKANA HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13034,
+    "char": "㋪",
+    "name": "CIRCLED KATAKANA HI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13035,
+    "char": "㋫",
+    "name": "CIRCLED KATAKANA HU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13036,
+    "char": "㋬",
+    "name": "CIRCLED KATAKANA HE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13037,
+    "char": "㋭",
+    "name": "CIRCLED KATAKANA HO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13038,
+    "char": "㋮",
+    "name": "CIRCLED KATAKANA MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13039,
+    "char": "㋯",
+    "name": "CIRCLED KATAKANA MI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13040,
+    "char": "㋰",
+    "name": "CIRCLED KATAKANA MU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13041,
+    "char": "㋱",
+    "name": "CIRCLED KATAKANA ME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13042,
+    "char": "㋲",
+    "name": "CIRCLED KATAKANA MO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13043,
+    "char": "㋳",
+    "name": "CIRCLED KATAKANA YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13044,
+    "char": "㋴",
+    "name": "CIRCLED KATAKANA YU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13045,
+    "char": "㋵",
+    "name": "CIRCLED KATAKANA YO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13046,
+    "char": "㋶",
+    "name": "CIRCLED KATAKANA RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13047,
+    "char": "㋷",
+    "name": "CIRCLED KATAKANA RI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13048,
+    "char": "㋸",
+    "name": "CIRCLED KATAKANA RU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13049,
+    "char": "㋹",
+    "name": "CIRCLED KATAKANA RE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13050,
+    "char": "㋺",
+    "name": "CIRCLED KATAKANA RO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13051,
+    "char": "㋻",
+    "name": "CIRCLED KATAKANA WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13052,
+    "char": "㋼",
+    "name": "CIRCLED KATAKANA WI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13053,
+    "char": "㋽",
+    "name": "CIRCLED KATAKANA WE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13054,
+    "char": "㋾",
+    "name": "CIRCLED KATAKANA WO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 13055,
+    "char": "㋿",
+    "name": "SQUARE ERA NAME REIWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

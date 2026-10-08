@@ -1,0 +1,514 @@
+[
+  {
+    "cp": 7616,
+    "char": "᷀",
+    "name": "COMBINING DOTTED GRAVE ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7617,
+    "char": "᷁",
+    "name": "COMBINING DOTTED ACUTE ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7618,
+    "char": "᷂",
+    "name": "COMBINING SNAKE BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7619,
+    "char": "᷃",
+    "name": "COMBINING SUSPENSION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7620,
+    "char": "᷄",
+    "name": "COMBINING MACRON-ACUTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7621,
+    "char": "᷅",
+    "name": "COMBINING GRAVE-MACRON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7622,
+    "char": "᷆",
+    "name": "COMBINING MACRON-GRAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7623,
+    "char": "᷇",
+    "name": "COMBINING ACUTE-MACRON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7624,
+    "char": "᷈",
+    "name": "COMBINING GRAVE-ACUTE-GRAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7625,
+    "char": "᷉",
+    "name": "COMBINING ACUTE-GRAVE-ACUTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7626,
+    "char": "᷊",
+    "name": "COMBINING LATIN SMALL LETTER R BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7627,
+    "char": "᷋",
+    "name": "COMBINING BREVE-MACRON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7628,
+    "char": "᷌",
+    "name": "COMBINING MACRON-BREVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7629,
+    "char": "᷍",
+    "name": "COMBINING DOUBLE CIRCUMFLEX ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7630,
+    "char": "᷎",
+    "name": "COMBINING OGONEK ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7631,
+    "char": "᷏",
+    "name": "COMBINING ZIGZAG BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7632,
+    "char": "᷐",
+    "name": "COMBINING IS BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7633,
+    "char": "᷑",
+    "name": "COMBINING UR ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7634,
+    "char": "᷒",
+    "name": "COMBINING US ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7635,
+    "char": "ᷓ",
+    "name": "COMBINING LATIN SMALL LETTER FLATTENED OPEN A ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7636,
+    "char": "ᷔ",
+    "name": "COMBINING LATIN SMALL LETTER AE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7637,
+    "char": "ᷕ",
+    "name": "COMBINING LATIN SMALL LETTER AO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7638,
+    "char": "ᷖ",
+    "name": "COMBINING LATIN SMALL LETTER AV",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7639,
+    "char": "ᷗ",
+    "name": "COMBINING LATIN SMALL LETTER C CEDILLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7640,
+    "char": "ᷘ",
+    "name": "COMBINING LATIN SMALL LETTER INSULAR D",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7641,
+    "char": "ᷙ",
+    "name": "COMBINING LATIN SMALL LETTER ETH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7642,
+    "char": "ᷚ",
+    "name": "COMBINING LATIN SMALL LETTER G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7643,
+    "char": "ᷛ",
+    "name": "COMBINING LATIN LETTER SMALL CAPITAL G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7644,
+    "char": "ᷜ",
+    "name": "COMBINING LATIN SMALL LETTER K",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7645,
+    "char": "ᷝ",
+    "name": "COMBINING LATIN SMALL LETTER L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7646,
+    "char": "ᷞ",
+    "name": "COMBINING LATIN LETTER SMALL CAPITAL L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7647,
+    "char": "ᷟ",
+    "name": "COMBINING LATIN LETTER SMALL CAPITAL M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7648,
+    "char": "ᷠ",
+    "name": "COMBINING LATIN SMALL LETTER N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7649,
+    "char": "ᷡ",
+    "name": "COMBINING LATIN LETTER SMALL CAPITAL N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7650,
+    "char": "ᷢ",
+    "name": "COMBINING LATIN LETTER SMALL CAPITAL R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7651,
+    "char": "ᷣ",
+    "name": "COMBINING LATIN SMALL LETTER R ROTUNDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7652,
+    "char": "ᷤ",
+    "name": "COMBINING LATIN SMALL LETTER S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7653,
+    "char": "ᷥ",
+    "name": "COMBINING LATIN SMALL LETTER LONG S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7654,
+    "char": "ᷦ",
+    "name": "COMBINING LATIN SMALL LETTER Z",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7655,
+    "char": "ᷧ",
+    "name": "COMBINING LATIN SMALL LETTER ALPHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7656,
+    "char": "ᷨ",
+    "name": "COMBINING LATIN SMALL LETTER B",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7657,
+    "char": "ᷩ",
+    "name": "COMBINING LATIN SMALL LETTER BETA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7658,
+    "char": "ᷪ",
+    "name": "COMBINING LATIN SMALL LETTER SCHWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7659,
+    "char": "ᷫ",
+    "name": "COMBINING LATIN SMALL LETTER F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7660,
+    "char": "ᷬ",
+    "name": "COMBINING LATIN SMALL LETTER L WITH DOUBLE MIDDLE TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7661,
+    "char": "ᷭ",
+    "name": "COMBINING LATIN SMALL LETTER O WITH LIGHT CENTRALIZATION STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7662,
+    "char": "ᷮ",
+    "name": "COMBINING LATIN SMALL LETTER P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7663,
+    "char": "ᷯ",
+    "name": "COMBINING LATIN SMALL LETTER ESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7664,
+    "char": "ᷰ",
+    "name": "COMBINING LATIN SMALL LETTER U WITH LIGHT CENTRALIZATION STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7665,
+    "char": "ᷱ",
+    "name": "COMBINING LATIN SMALL LETTER W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7666,
+    "char": "ᷲ",
+    "name": "COMBINING LATIN SMALL LETTER A WITH DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7667,
+    "char": "ᷳ",
+    "name": "COMBINING LATIN SMALL LETTER O WITH DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7668,
+    "char": "ᷴ",
+    "name": "COMBINING LATIN SMALL LETTER U WITH DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7669,
+    "char": "᷵",
+    "name": "COMBINING UP TACK ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7670,
+    "char": "᷶",
+    "name": "COMBINING KAVYKA ABOVE RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7671,
+    "char": "᷷",
+    "name": "COMBINING KAVYKA ABOVE LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7672,
+    "char": "᷸",
+    "name": "COMBINING DOT ABOVE LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7673,
+    "char": "᷹",
+    "name": "COMBINING WIDE INVERTED BRIDGE BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7674,
+    "char": "᷺",
+    "name": "COMBINING DOT BELOW LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7675,
+    "char": "᷻",
+    "name": "COMBINING DELETION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7676,
+    "char": "᷼",
+    "name": "COMBINING DOUBLE INVERTED BREVE BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7677,
+    "char": "᷽",
+    "name": "COMBINING ALMOST EQUAL TO BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7678,
+    "char": "᷾",
+    "name": "COMBINING LEFT ARROWHEAD ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7679,
+    "char": "᷿",
+    "name": "COMBINING RIGHT ARROWHEAD AND DOWN ARROWHEAD BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

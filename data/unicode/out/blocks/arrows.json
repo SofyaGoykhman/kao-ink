@@ -1,0 +1,1078 @@
+[
+  {
+    "cp": 8592,
+    "char": "←",
+    "name": "LEFTWARDS ARROW",
+    "ru": "стрелка «налево»",
+    "en": "left-pointing arrow",
+    "keywords": {
+      "ru": ["налево", "стрелка", "стрелка «налево»"],
+      "en": ["arrow", "left", "left-pointing"]
+    }
+  },
+  {
+    "cp": 8593,
+    "char": "↑",
+    "name": "UPWARDS ARROW",
+    "ru": "стрелка «кверху»",
+    "en": "up-pointing arrow",
+    "keywords": {
+      "ru": ["кверху", "стрелка", "стрелка «кверху»"],
+      "en": ["arrow", "up", "up-pointing"]
+    }
+  },
+  {
+    "cp": 8594,
+    "char": "→",
+    "name": "RIGHTWARDS ARROW",
+    "ru": "стрелка «направо»",
+    "en": "right-pointing arrow",
+    "keywords": {
+      "ru": ["направо", "стрелка", "стрелка «направо»"],
+      "en": ["arrow", "right", "right-pointing"]
+    }
+  },
+  {
+    "cp": 8595,
+    "char": "↓",
+    "name": "DOWNWARDS ARROW",
+    "ru": "стрелка «книзу»",
+    "en": "down-pointing arrow",
+    "keywords": {
+      "ru": ["книзу", "стрелка", "стрелка «книзу»"],
+      "en": ["arrow", "down", "down-pointing"]
+    }
+  },
+  {
+    "cp": 8596,
+    "char": "↔",
+    "name": "LEFT RIGHT ARROW",
+    "ru": "стрелка влево-вправо",
+    "en": "left-right arrow",
+    "keywords": {
+      "ru": ["влево", "влево-вправо", "вправо", "двойная", "стрелка"],
+      "en": ["arrow", "left-right"]
+    }
+  },
+  {
+    "cp": 8597,
+    "char": "↕",
+    "name": "UP DOWN ARROW",
+    "ru": "стрелка вверх-вниз",
+    "en": "up-down arrow",
+    "keywords": {
+      "ru": ["вверх", "вверх-вниз", "вниз", "двойная", "стрелка"],
+      "en": ["arrow", "up-down"]
+    }
+  },
+  {
+    "cp": 8598,
+    "char": "↖",
+    "name": "NORTH WEST ARROW",
+    "ru": "стрелка влево-вверх",
+    "en": "up-left arrow",
+    "keywords": {
+      "ru": ["влево-вверх", "направление", "северо-запад", "стрелка"],
+      "en": ["arrow", "direction", "intercardinal", "northwest", "up-left"]
+    }
+  },
+  {
+    "cp": 8599,
+    "char": "↗",
+    "name": "NORTH EAST ARROW",
+    "ru": "стрелка вправо-вверх",
+    "en": "up-right arrow",
+    "keywords": {
+      "ru": ["вправо-вверх", "направление", "северо-восток", "стрелка"],
+      "en": ["arrow", "direction", "intercardinal", "northeast", "up-right"]
+    }
+  },
+  {
+    "cp": 8600,
+    "char": "↘",
+    "name": "SOUTH EAST ARROW",
+    "ru": "стрелка вправо-вниз",
+    "en": "down-right arrow",
+    "keywords": {
+      "ru": ["вправо-вниз", "направление", "стрелка", "юго-восток"],
+      "en": ["arrow", "direction", "down-right", "intercardinal", "southeast"]
+    }
+  },
+  {
+    "cp": 8601,
+    "char": "↙",
+    "name": "SOUTH WEST ARROW",
+    "ru": "стрелка влево-вниз",
+    "en": "down-left arrow",
+    "keywords": {
+      "ru": ["влево-вниз", "направление", "стрелка", "юго-запад"],
+      "en": ["arrow", "direction", "down-left", "intercardinal", "southwest"]
+    }
+  },
+  {
+    "cp": 8602,
+    "char": "↚",
+    "name": "LEFTWARDS ARROW WITH STROKE",
+    "ru": "перечеркнутая стрелка влево",
+    "en": "leftwards arrow stroke",
+    "keywords": { "ru": ["перечеркнутая стрелка влево"], "en": ["arrow", "leftwards", "stroke"] }
+  },
+  {
+    "cp": 8603,
+    "char": "↛",
+    "name": "RIGHTWARDS ARROW WITH STROKE",
+    "ru": "перечеркнутая стрелка вправо",
+    "en": "rightwards arrow stroke",
+    "keywords": { "ru": ["перечеркнутая стрелка вправо"], "en": ["arrow", "rightwards", "stroke"] }
+  },
+  {
+    "cp": 8604,
+    "char": "↜",
+    "name": "LEFTWARDS WAVE ARROW",
+    "ru": "волнистая стрелка влево",
+    "en": "leftwards wave arrow",
+    "keywords": { "ru": ["волнистая стрелка влево"], "en": ["arrow", "leftwards", "wave"] }
+  },
+  {
+    "cp": 8605,
+    "char": "↝",
+    "name": "RIGHTWARDS WAVE ARROW",
+    "ru": "волнистая стрелка вправо",
+    "en": "rightwards wave arrow",
+    "keywords": { "ru": ["волнистая стрелка вправо"], "en": ["arrow", "rightwards", "wave"] }
+  },
+  {
+    "cp": 8606,
+    "char": "↞",
+    "name": "LEFTWARDS TWO HEADED ARROW",
+    "ru": "стрелка влево с двумя наконечниками",
+    "en": "leftwards two headed arrow",
+    "keywords": {
+      "ru": ["стрелка влево с двумя наконечниками"],
+      "en": ["arrow", "headed", "leftwards", "two"]
+    }
+  },
+  {
+    "cp": 8607,
+    "char": "↟",
+    "name": "UPWARDS TWO HEADED ARROW",
+    "ru": "стрелка вверх с двумя наконечниками",
+    "en": "upwards two headed arrow",
+    "keywords": {
+      "ru": ["стрелка вверх с двумя наконечниками"],
+      "en": ["arrow", "headed", "two", "upwards"]
+    }
+  },
+  {
+    "cp": 8608,
+    "char": "↠",
+    "name": "RIGHTWARDS TWO HEADED ARROW",
+    "ru": "стрелка вправо с двумя наконечниками",
+    "en": "rightwards two headed arrow",
+    "keywords": {
+      "ru": ["стрелка вправо с двумя наконечниками"],
+      "en": ["arrow", "headed", "rightwards", "two"]
+    }
+  },
+  {
+    "cp": 8609,
+    "char": "↡",
+    "name": "DOWNWARDS TWO HEADED ARROW",
+    "ru": "стрелка вниз с двумя наконечниками",
+    "en": "downwards two headed arrow",
+    "keywords": {
+      "ru": ["стрелка вниз с двумя наконечниками"],
+      "en": ["arrow", "downwards", "headed", "two"]
+    }
+  },
+  {
+    "cp": 8610,
+    "char": "↢",
+    "name": "LEFTWARDS ARROW WITH TAIL",
+    "ru": "стрелка влево с хвостом",
+    "en": "leftwards arrow tail",
+    "keywords": { "ru": ["стрелка влево с хвостом"], "en": ["arrow", "leftwards", "tail"] }
+  },
+  {
+    "cp": 8611,
+    "char": "↣",
+    "name": "RIGHTWARDS ARROW WITH TAIL",
+    "ru": "стрелка вправо с хвостом",
+    "en": "rightwards arrow tail",
+    "keywords": { "ru": ["стрелка вправо с хвостом"], "en": ["arrow", "rightwards", "tail"] }
+  },
+  {
+    "cp": 8612,
+    "char": "↤",
+    "name": "LEFTWARDS ARROW FROM BAR",
+    "ru": "стрелка влево из вертикальной черты",
+    "en": "leftwards arrow from bar",
+    "keywords": {
+      "ru": ["стрелка влево из вертикальной черты"],
+      "en": ["arrow", "bar", "from", "leftwards"]
+    }
+  },
+  {
+    "cp": 8613,
+    "char": "↥",
+    "name": "UPWARDS ARROW FROM BAR",
+    "ru": "стрелка вверх из вертикальной черты",
+    "en": "upwards arrow from bar",
+    "keywords": {
+      "ru": ["стрелка вверх из вертикальной черты"],
+      "en": ["arrow", "bar", "from", "upwards"]
+    }
+  },
+  {
+    "cp": 8614,
+    "char": "↦",
+    "name": "RIGHTWARDS ARROW FROM BAR",
+    "ru": "стрелка вправо из вертикальной черты",
+    "en": "rightwards arrow from bar",
+    "keywords": {
+      "ru": ["стрелка вправо из вертикальной черты"],
+      "en": ["arrow", "bar", "from", "rightwards"]
+    }
+  },
+  {
+    "cp": 8615,
+    "char": "↧",
+    "name": "DOWNWARDS ARROW FROM BAR",
+    "ru": "стрелка вниз из вертикальной черты",
+    "en": "downwards arrow from bar",
+    "keywords": {
+      "ru": ["стрелка вниз из вертикальной черты"],
+      "en": ["arrow", "bar", "downwards", "from"]
+    }
+  },
+  {
+    "cp": 8616,
+    "char": "↨",
+    "name": "UP DOWN ARROW WITH BASE",
+    "ru": "стрелка вверх и вниз от планки внизу",
+    "en": "up down arrow with base",
+    "keywords": {
+      "ru": ["стрелка вверх и вниз от планки внизу"],
+      "en": ["arrow", "base", "down", "up", "with"]
+    }
+  },
+  {
+    "cp": 8617,
+    "char": "↩",
+    "name": "LEFTWARDS ARROW WITH HOOK",
+    "ru": "стрелка вправо с поворотом влево",
+    "en": "right arrow curving left",
+    "keywords": {
+      "ru": ["влево", "вправо", "изгиб", "изогнутая", "поворот", "стрелка"],
+      "en": ["arrow", "curving", "left", "right"]
+    }
+  },
+  {
+    "cp": 8618,
+    "char": "↪",
+    "name": "RIGHTWARDS ARROW WITH HOOK",
+    "ru": "стрелка влево с поворотом вправо",
+    "en": "left arrow curving right",
+    "keywords": {
+      "ru": ["влево", "вправо", "изгиб", "изогнутая", "поворот", "стрелка"],
+      "en": ["arrow", "curving", "left", "right"]
+    }
+  },
+  {
+    "cp": 8619,
+    "char": "↫",
+    "name": "LEFTWARDS ARROW WITH LOOP",
+    "ru": "стрелка влево с петлей",
+    "en": "leftwards arrow loop",
+    "keywords": { "ru": ["стрелка влево с петлей"], "en": ["arrow", "leftwards", "loop"] }
+  },
+  {
+    "cp": 8620,
+    "char": "↬",
+    "name": "RIGHTWARDS ARROW WITH LOOP",
+    "ru": "стрелка вправо с петлей",
+    "en": "rightwards arrow loop",
+    "keywords": { "ru": ["стрелка вправо с петлей"], "en": ["arrow", "loop", "rightwards"] }
+  },
+  {
+    "cp": 8621,
+    "char": "↭",
+    "name": "LEFT RIGHT WAVE ARROW",
+    "ru": "волнистая стрелка вправо-влево",
+    "en": "left right wave arrow",
+    "keywords": {
+      "ru": ["волнистая стрелка вправо-влево"],
+      "en": ["arrow", "left", "right", "wave"]
+    }
+  },
+  {
+    "cp": 8622,
+    "char": "↮",
+    "name": "LEFT RIGHT ARROW WITH STROKE",
+    "ru": "перечеркнутая стрелка вправо-влево",
+    "en": "left right arrow stroke",
+    "keywords": {
+      "ru": ["перечеркнутая стрелка вправо-влево"],
+      "en": ["arrow", "left", "right", "stroke"]
+    }
+  },
+  {
+    "cp": 8623,
+    "char": "↯",
+    "name": "DOWNWARDS ZIGZAG ARROW",
+    "ru": "зигзагообразная стрелка вниз",
+    "en": "downwards zigzag arrow",
+    "keywords": { "ru": ["зигзагообразная стрелка вниз"], "en": ["arrow", "downwards", "zigzag"] }
+  },
+  {
+    "cp": 8624,
+    "char": "↰",
+    "name": "UPWARDS ARROW WITH TIP LEFTWARDS",
+    "ru": "стрелка вверх с поворотом налево",
+    "en": "upwards arrow tip leftwards",
+    "keywords": {
+      "ru": ["стрелка вверх с поворотом налево"],
+      "en": ["arrow", "leftwards", "tip", "upwards"]
+    }
+  },
+  {
+    "cp": 8625,
+    "char": "↱",
+    "name": "UPWARDS ARROW WITH TIP RIGHTWARDS",
+    "ru": "стрелка вверх с поворотом направо",
+    "en": "upwards arrow tip rightwards",
+    "keywords": {
+      "ru": ["стрелка вверх с поворотом направо"],
+      "en": ["arrow", "rightwards", "tip", "upwards"]
+    }
+  },
+  {
+    "cp": 8626,
+    "char": "↲",
+    "name": "DOWNWARDS ARROW WITH TIP LEFTWARDS",
+    "ru": "стрелка вниз с поворотом налево",
+    "en": "downwards arrow tip leftwards",
+    "keywords": {
+      "ru": ["стрелка вниз с поворотом налево"],
+      "en": ["arrow", "downwards", "leftwards", "tip"]
+    }
+  },
+  {
+    "cp": 8627,
+    "char": "↳",
+    "name": "DOWNWARDS ARROW WITH TIP RIGHTWARDS",
+    "ru": "стрелка вниз с поворотом направо",
+    "en": "downwards arrow tip rightwards",
+    "keywords": {
+      "ru": ["стрелка вниз с поворотом направо"],
+      "en": ["arrow", "downwards", "rightwards", "tip"]
+    }
+  },
+  {
+    "cp": 8628,
+    "char": "↴",
+    "name": "RIGHTWARDS ARROW WITH CORNER DOWNWARDS",
+    "ru": "стрелка вправо с поворотом вниз под прямым углом",
+    "en": "rightwards arrow corner downwards",
+    "keywords": {
+      "ru": ["стрелка вправо с поворотом вниз под прямым углом"],
+      "en": ["arrow", "corner", "downwards", "rightwards"]
+    }
+  },
+  {
+    "cp": 8629,
+    "char": "↵",
+    "name": "DOWNWARDS ARROW WITH CORNER LEFTWARDS",
+    "ru": "стрелка вниз с поворотом налево под прямым углом",
+    "en": "downwards arrow corner leftwards",
+    "keywords": {
+      "ru": ["стрелка вниз с поворотом налево под прямым углом"],
+      "en": ["arrow", "corner", "downwards", "leftwards"]
+    }
+  },
+  {
+    "cp": 8630,
+    "char": "↶",
+    "name": "ANTICLOCKWISE TOP SEMICIRCLE ARROW",
+    "ru": "стрелка полукругом против часовой стрелки",
+    "en": "anticlockwise top semicircle arrow",
+    "keywords": {
+      "ru": ["стрелка полукругом против часовой стрелки"],
+      "en": ["anticlockwise", "arrow", "semicircle", "top"]
+    }
+  },
+  {
+    "cp": 8631,
+    "char": "↷",
+    "name": "CLOCKWISE TOP SEMICIRCLE ARROW",
+    "ru": "стрелка полукругом по часовой стрелке",
+    "en": "clockwise top semicircle arrow",
+    "keywords": {
+      "ru": ["стрелка полукругом по часовой стрелке"],
+      "en": ["arrow", "clockwise", "semicircle", "top"]
+    }
+  },
+  {
+    "cp": 8632,
+    "char": "↸",
+    "name": "NORTH WEST ARROW TO LONG BAR",
+    "ru": "стрелка на северо-запад под длинной чертой",
+    "en": "north west arrow long bar",
+    "keywords": {
+      "ru": ["стрелка на северо-запад под длинной чертой"],
+      "en": ["arrow", "bar", "long", "north", "west"]
+    }
+  },
+  {
+    "cp": 8633,
+    "char": "↹",
+    "name": "LEFTWARDS ARROW TO BAR OVER RIGHTWARDS ARROW TO BAR",
+    "ru": "стрелка влево над стрелкой вправо с перпендикулярными чертами",
+    "en": "leftwards over rightwards arrow bars",
+    "keywords": {
+      "ru": ["стрелка влево над стрелкой вправо с перпендикулярными чертами"],
+      "en": ["arrow", "bar", "bars", "leftwards", "over", "rightwards"]
+    }
+  },
+  {
+    "cp": 8634,
+    "char": "↺",
+    "name": "ANTICLOCKWISE OPEN CIRCLE ARROW",
+    "ru": "круглая стрелка с наконечником против часовой стрелки",
+    "en": "anticlockwise open circle arrow",
+    "keywords": {
+      "ru": ["круглая стрелка с наконечником против часовой стрелки"],
+      "en": ["anticlockwise", "arrow", "circle", "open"]
+    }
+  },
+  {
+    "cp": 8635,
+    "char": "↻",
+    "name": "CLOCKWISE OPEN CIRCLE ARROW",
+    "ru": "круглая стрелка с наконечником по часовой стрелке",
+    "en": "clockwise open circle arrow",
+    "keywords": {
+      "ru": ["круглая стрелка с наконечником по часовой стрелке"],
+      "en": ["arrow", "circle", "clockwise", "open"]
+    }
+  },
+  {
+    "cp": 8636,
+    "char": "↼",
+    "name": "LEFTWARDS HARPOON WITH BARB UPWARDS",
+    "ru": "гарпун влево с зубцом вверх",
+    "en": "leftwards harpoon barb upwards",
+    "keywords": {
+      "ru": ["гарпун влево с зубцом вверх"],
+      "en": ["barb", "harpoon", "leftwards", "upwards"]
+    }
+  },
+  {
+    "cp": 8637,
+    "char": "↽",
+    "name": "LEFTWARDS HARPOON WITH BARB DOWNWARDS",
+    "ru": "гарпун влево с зубцом вниз",
+    "en": "leftwards harpoon barb downwards",
+    "keywords": {
+      "ru": ["гарпун влево с зубцом вниз"],
+      "en": ["barb", "downwards", "harpoon", "leftwards"]
+    }
+  },
+  {
+    "cp": 8638,
+    "char": "↾",
+    "name": "UPWARDS HARPOON WITH BARB RIGHTWARDS",
+    "ru": "гарпун вверх с зубцом вправо",
+    "en": "upwards harpoon barb rightwards",
+    "keywords": {
+      "ru": ["гарпун вверх с зубцом вправо"],
+      "en": ["barb", "harpoon", "rightwards", "upwards"]
+    }
+  },
+  {
+    "cp": 8639,
+    "char": "↿",
+    "name": "UPWARDS HARPOON WITH BARB LEFTWARDS",
+    "ru": "гарпун вверх с зубцом влево",
+    "en": "upwards harpoon barb leftwards",
+    "keywords": {
+      "ru": ["гарпун вверх с зубцом влево"],
+      "en": ["barb", "harpoon", "leftwards", "upwards"]
+    }
+  },
+  {
+    "cp": 8640,
+    "char": "⇀",
+    "name": "RIGHTWARDS HARPOON WITH BARB UPWARDS",
+    "ru": "гарпун вправо с зубцом вверх",
+    "en": "rightwards harpoon barb upwards",
+    "keywords": {
+      "ru": ["гарпун вправо с зубцом вверх"],
+      "en": ["barb", "harpoon", "rightwards", "upwards"]
+    }
+  },
+  {
+    "cp": 8641,
+    "char": "⇁",
+    "name": "RIGHTWARDS HARPOON WITH BARB DOWNWARDS",
+    "ru": "гарпун вправо с зубцом вниз",
+    "en": "rightwards harpoon barb downwards",
+    "keywords": {
+      "ru": ["гарпун вправо с зубцом вниз"],
+      "en": ["barb", "downwards", "harpoon", "rightwards"]
+    }
+  },
+  {
+    "cp": 8642,
+    "char": "⇂",
+    "name": "DOWNWARDS HARPOON WITH BARB RIGHTWARDS",
+    "ru": "гарпун вниз с зубцом вправо",
+    "en": "downwards harpoon barb rightwards",
+    "keywords": {
+      "ru": ["гарпун вниз с зубцом вправо"],
+      "en": ["barb", "downwards", "harpoon", "rightwards"]
+    }
+  },
+  {
+    "cp": 8643,
+    "char": "⇃",
+    "name": "DOWNWARDS HARPOON WITH BARB LEFTWARDS",
+    "ru": "гарпун вниз с зубцом влево",
+    "en": "downwards harpoon barb leftwards",
+    "keywords": {
+      "ru": ["гарпун вниз с зубцом влево"],
+      "en": ["barb", "downwards", "harpoon", "leftwards"]
+    }
+  },
+  {
+    "cp": 8644,
+    "char": "⇄",
+    "name": "RIGHTWARDS ARROW OVER LEFTWARDS ARROW",
+    "ru": "стрелка вправо над стрелкой влево",
+    "en": "rightwards arrow over leftwards arrow",
+    "keywords": {
+      "ru": ["стрелка вправо над стрелкой влево"],
+      "en": ["arrow", "leftwards", "over", "rightwards"]
+    }
+  },
+  {
+    "cp": 8645,
+    "char": "⇅",
+    "name": "UPWARDS ARROW LEFTWARDS OF DOWNWARDS ARROW",
+    "ru": "стрелки «кверху» и «книзу»",
+    "en": "up-pointing and down-pointing arrows",
+    "keywords": {
+      "ru": ["кверху", "книзу", "стрелка", "стрелки «кверху» и «книзу»"],
+      "en": ["and", "arrow", "arrows", "down", "down-pointing", "up", "up-pointing"]
+    }
+  },
+  {
+    "cp": 8646,
+    "char": "⇆",
+    "name": "LEFTWARDS ARROW OVER RIGHTWARDS ARROW",
+    "ru": "стрелка «налево» над стрелкой «направо»",
+    "en": "left-pointing over right-pointing arrows",
+    "keywords": {
+      "ru": ["налево", "направо", "стрелка", "стрелка «налево» над стрелкой «направо»"],
+      "en": ["arrow", "arrows", "left", "left-pointing", "over", "right", "right-pointing"]
+    }
+  },
+  {
+    "cp": 8647,
+    "char": "⇇",
+    "name": "LEFTWARDS PAIRED ARROWS",
+    "ru": "парные стрелки влево",
+    "en": "leftwards paired arrows",
+    "keywords": { "ru": ["парные стрелки влево"], "en": ["arrows", "leftwards", "paired"] }
+  },
+  {
+    "cp": 8648,
+    "char": "⇈",
+    "name": "UPWARDS PAIRED ARROWS",
+    "ru": "парные стрелки вверх",
+    "en": "upwards paired arrows",
+    "keywords": { "ru": ["парные стрелки вверх"], "en": ["arrows", "paired", "upwards"] }
+  },
+  {
+    "cp": 8649,
+    "char": "⇉",
+    "name": "RIGHTWARDS PAIRED ARROWS",
+    "ru": "парные стрелки вправо",
+    "en": "rightwards paired arrows",
+    "keywords": { "ru": ["парные стрелки вправо"], "en": ["arrows", "paired", "rightwards"] }
+  },
+  {
+    "cp": 8650,
+    "char": "⇊",
+    "name": "DOWNWARDS PAIRED ARROWS",
+    "ru": "парные стрелки вниз",
+    "en": "downwards paired arrows",
+    "keywords": { "ru": ["парные стрелки вниз"], "en": ["arrows", "downwards", "paired"] }
+  },
+  {
+    "cp": 8651,
+    "char": "⇋",
+    "name": "LEFTWARDS HARPOON OVER RIGHTWARDS HARPOON",
+    "ru": "гарпун влево над гарпуном вправо",
+    "en": "leftwards harpoon over rightwards harpoon",
+    "keywords": {
+      "ru": ["гарпун влево над гарпуном вправо"],
+      "en": ["harpoon", "leftwards", "over", "rightwards"]
+    }
+  },
+  {
+    "cp": 8652,
+    "char": "⇌",
+    "name": "RIGHTWARDS HARPOON OVER LEFTWARDS HARPOON",
+    "ru": "гарпун вправо над гарпуном влево",
+    "en": "rightwards harpoon over leftwards harpoon",
+    "keywords": {
+      "ru": ["гарпун вправо над гарпуном влево"],
+      "en": ["harpoon", "leftwards", "over", "rightwards"]
+    }
+  },
+  {
+    "cp": 8653,
+    "char": "⇍",
+    "name": "LEFTWARDS DOUBLE ARROW WITH STROKE",
+    "ru": "двойная перечеркнутая стрелка влево",
+    "en": "leftwards double arrow stroke",
+    "keywords": {
+      "ru": ["двойная перечеркнутая стрелка влево"],
+      "en": ["arrow", "double", "leftwards", "stroke"]
+    }
+  },
+  {
+    "cp": 8654,
+    "char": "⇎",
+    "name": "LEFT RIGHT DOUBLE ARROW WITH STROKE",
+    "ru": "двойная перечеркнутая стрелка влево-вправо",
+    "en": "left right double arrow stroke",
+    "keywords": {
+      "ru": ["двойная перечеркнутая стрелка влево-вправо"],
+      "en": ["arrow", "double", "left", "right", "stroke"]
+    }
+  },
+  {
+    "cp": 8655,
+    "char": "⇏",
+    "name": "RIGHTWARDS DOUBLE ARROW WITH STROKE",
+    "ru": "двойная перечеркнутая стрелка вправо",
+    "en": "rightwards double arrow stroke",
+    "keywords": {
+      "ru": ["двойная перечеркнутая стрелка вправо"],
+      "en": ["arrow", "double", "rightwards", "stroke"]
+    }
+  },
+  {
+    "cp": 8656,
+    "char": "⇐",
+    "name": "LEFTWARDS DOUBLE ARROW",
+    "ru": "двойная стрелка влево",
+    "en": "leftwards double arrow",
+    "keywords": { "ru": ["двойная стрелка влево"], "en": ["arrow", "double", "leftwards"] }
+  },
+  {
+    "cp": 8657,
+    "char": "⇑",
+    "name": "UPWARDS DOUBLE ARROW",
+    "ru": "двойная стрелка вверх",
+    "en": "upwards double arrow",
+    "keywords": { "ru": ["двойная стрелка вверх"], "en": ["arrow", "double", "upwards"] }
+  },
+  {
+    "cp": 8658,
+    "char": "⇒",
+    "name": "RIGHTWARDS DOUBLE ARROW",
+    "ru": "двойная стрелка вправо",
+    "en": "rightwards double arrow",
+    "keywords": { "ru": ["двойная стрелка вправо"], "en": ["arrow", "double", "rightwards"] }
+  },
+  {
+    "cp": 8659,
+    "char": "⇓",
+    "name": "DOWNWARDS DOUBLE ARROW",
+    "ru": "двойная стрелка вниз",
+    "en": "downwards double arrow",
+    "keywords": { "ru": ["двойная стрелка вниз"], "en": ["arrow", "double", "downwards"] }
+  },
+  {
+    "cp": 8660,
+    "char": "⇔",
+    "name": "LEFT RIGHT DOUBLE ARROW",
+    "ru": "двойная стрелка влево-вправо",
+    "en": "left right double arrow",
+    "keywords": {
+      "ru": ["двойная стрелка влево-вправо"],
+      "en": ["arrow", "double", "left", "right"]
+    }
+  },
+  {
+    "cp": 8661,
+    "char": "⇕",
+    "name": "UP DOWN DOUBLE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8662,
+    "char": "⇖",
+    "name": "NORTH WEST DOUBLE ARROW",
+    "ru": "двойная стрелка на северо-запад",
+    "en": "north west double arrow",
+    "keywords": {
+      "ru": ["двойная стрелка на северо-запад"],
+      "en": ["arrow", "double", "north", "west"]
+    }
+  },
+  {
+    "cp": 8663,
+    "char": "⇗",
+    "name": "NORTH EAST DOUBLE ARROW",
+    "ru": "двойная стрелка на северо-восток",
+    "en": "north east double arrow",
+    "keywords": {
+      "ru": ["двойная стрелка на северо-восток"],
+      "en": ["arrow", "double", "east", "north"]
+    }
+  },
+  {
+    "cp": 8664,
+    "char": "⇘",
+    "name": "SOUTH EAST DOUBLE ARROW",
+    "ru": "двойная стрелка на юго-восток",
+    "en": "south east double arrow",
+    "keywords": {
+      "ru": ["двойная стрелка на юго-восток"],
+      "en": ["arrow", "double", "east", "south"]
+    }
+  },
+  {
+    "cp": 8665,
+    "char": "⇙",
+    "name": "SOUTH WEST DOUBLE ARROW",
+    "ru": "двойная стрелка на юго-запад",
+    "en": "south west double arrow",
+    "keywords": {
+      "ru": ["двойная стрелка на юго-запад"],
+      "en": ["arrow", "double", "south", "west"]
+    }
+  },
+  {
+    "cp": 8666,
+    "char": "⇚",
+    "name": "LEFTWARDS TRIPLE ARROW",
+    "ru": "тройная стрелка влево",
+    "en": "leftwards triple arrow",
+    "keywords": { "ru": ["тройная стрелка влево"], "en": ["arrow", "leftwards", "triple"] }
+  },
+  {
+    "cp": 8667,
+    "char": "⇛",
+    "name": "RIGHTWARDS TRIPLE ARROW",
+    "ru": "тройная стрелка вправо",
+    "en": "rightwards triple arrow",
+    "keywords": { "ru": ["тройная стрелка вправо"], "en": ["arrow", "rightwards", "triple"] }
+  },
+  {
+    "cp": 8668,
+    "char": "⇜",
+    "name": "LEFTWARDS SQUIGGLE ARROW",
+    "ru": "стрелка влево с изгибами",
+    "en": "leftwards squiggle arrow",
+    "keywords": { "ru": ["стрелка влево с изгибами"], "en": ["arrow", "leftwards", "squiggle"] }
+  },
+  {
+    "cp": 8669,
+    "char": "⇝",
+    "name": "RIGHTWARDS SQUIGGLE ARROW",
+    "ru": "стрелка вправо с изгибами",
+    "en": "rightwards squiggle arrow",
+    "keywords": { "ru": ["стрелка вправо с изгибами"], "en": ["arrow", "rightwards", "squiggle"] }
+  },
+  {
+    "cp": 8670,
+    "char": "⇞",
+    "name": "UPWARDS ARROW WITH DOUBLE STROKE",
+    "ru": "стрелка вверх с двойным перечеркиванием",
+    "en": "upwards arrow double stroke",
+    "keywords": {
+      "ru": ["стрелка вверх с двойным перечеркиванием"],
+      "en": ["arrow", "double", "stroke", "upwards"]
+    }
+  },
+  {
+    "cp": 8671,
+    "char": "⇟",
+    "name": "DOWNWARDS ARROW WITH DOUBLE STROKE",
+    "ru": "стрелка вниз с двойным перечеркиванием",
+    "en": "downwards arrow double stroke",
+    "keywords": {
+      "ru": ["стрелка вниз с двойным перечеркиванием"],
+      "en": ["arrow", "double", "downwards", "stroke"]
+    }
+  },
+  {
+    "cp": 8672,
+    "char": "⇠",
+    "name": "LEFTWARDS DASHED ARROW",
+    "ru": "пунктирная стрелка влево",
+    "en": "leftwards dashed arrow",
+    "keywords": { "ru": ["пунктирная стрелка влево"], "en": ["arrow", "dashed", "leftwards"] }
+  },
+  {
+    "cp": 8673,
+    "char": "⇡",
+    "name": "UPWARDS DASHED ARROW",
+    "ru": "пунктирная стрелка вверх",
+    "en": "upwards dashed arrow",
+    "keywords": { "ru": ["пунктирная стрелка вверх"], "en": ["arrow", "dashed", "upwards"] }
+  },
+  {
+    "cp": 8674,
+    "char": "⇢",
+    "name": "RIGHTWARDS DASHED ARROW",
+    "ru": "пунктирная стрелка вправо",
+    "en": "rightwards dashed arrow",
+    "keywords": { "ru": ["пунктирная стрелка вправо"], "en": ["arrow", "dashed", "rightwards"] }
+  },
+  {
+    "cp": 8675,
+    "char": "⇣",
+    "name": "DOWNWARDS DASHED ARROW",
+    "ru": "пунктирная стрелка вниз",
+    "en": "downwards dashed arrow",
+    "keywords": { "ru": ["пунктирная стрелка вниз"], "en": ["arrow", "dashed", "downwards"] }
+  },
+  {
+    "cp": 8676,
+    "char": "⇤",
+    "name": "LEFTWARDS ARROW TO BAR",
+    "ru": "стрелка влево, упирающаяся в планку",
+    "en": "leftwards arrow bar",
+    "keywords": { "ru": ["влево", "планка", "стрелка"], "en": ["arrow", "bar", "leftwards"] }
+  },
+  {
+    "cp": 8677,
+    "char": "⇥",
+    "name": "RIGHTWARDS ARROW TO BAR",
+    "ru": "стрелка вправо, упирающаяся в планку",
+    "en": "rightwards arrow bar",
+    "keywords": { "ru": ["вправо", "планка", "стрелка"], "en": ["arrow", "bar", "rightwards"] }
+  },
+  {
+    "cp": 8678,
+    "char": "⇦",
+    "name": "LEFTWARDS WHITE ARROW",
+    "ru": "полая стрелка влево",
+    "en": "leftwards hollow arrow",
+    "keywords": { "ru": ["полая стрелка влево"], "en": ["arrow", "hollow", "leftwards"] }
+  },
+  {
+    "cp": 8679,
+    "char": "⇧",
+    "name": "UPWARDS WHITE ARROW",
+    "ru": "полая стрелка вверх",
+    "en": "upwards hollow arrow",
+    "keywords": { "ru": ["полая стрелка вверх"], "en": ["arrow", "hollow", "upwards"] }
+  },
+  {
+    "cp": 8680,
+    "char": "⇨",
+    "name": "RIGHTWARDS WHITE ARROW",
+    "ru": "полая стрелка вправо",
+    "en": "rightwards hollow arrow",
+    "keywords": { "ru": ["полая стрелка вправо"], "en": ["arrow", "hollow", "rightwards"] }
+  },
+  {
+    "cp": 8681,
+    "char": "⇩",
+    "name": "DOWNWARDS WHITE ARROW",
+    "ru": "полая стрелка вниз",
+    "en": "downwards hollow arrow",
+    "keywords": { "ru": ["полая стрелка вниз"], "en": ["arrow", "downwards", "hollow"] }
+  },
+  {
+    "cp": 8682,
+    "char": "⇪",
+    "name": "UPWARDS WHITE ARROW FROM BAR",
+    "ru": "полая стрелка вверх на прямоугольнике",
+    "en": "upwards hollow arrow from bar",
+    "keywords": {
+      "ru": ["полая стрелка вверх на прямоугольнике"],
+      "en": ["arrow", "bar", "from", "hollow", "upwards"]
+    }
+  },
+  {
+    "cp": 8683,
+    "char": "⇫",
+    "name": "UPWARDS WHITE ARROW ON PEDESTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8684,
+    "char": "⇬",
+    "name": "UPWARDS WHITE ARROW ON PEDESTAL WITH HORIZONTAL BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8685,
+    "char": "⇭",
+    "name": "UPWARDS WHITE ARROW ON PEDESTAL WITH VERTICAL BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8686,
+    "char": "⇮",
+    "name": "UPWARDS WHITE DOUBLE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8687,
+    "char": "⇯",
+    "name": "UPWARDS WHITE DOUBLE ARROW ON PEDESTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8688,
+    "char": "⇰",
+    "name": "RIGHTWARDS WHITE ARROW FROM WALL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8689,
+    "char": "⇱",
+    "name": "NORTH WEST ARROW TO CORNER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8690,
+    "char": "⇲",
+    "name": "SOUTH EAST ARROW TO CORNER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8691,
+    "char": "⇳",
+    "name": "UP DOWN WHITE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8692,
+    "char": "⇴",
+    "name": "RIGHT ARROW WITH SMALL CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8693,
+    "char": "⇵",
+    "name": "DOWNWARDS ARROW LEFTWARDS OF UPWARDS ARROW",
+    "ru": "стрелка вниз слева от стрелки вверх",
+    "en": "downwards arrow leftwards upwards arrow",
+    "keywords": {
+      "ru": ["стрелка вниз слева от стрелки вверх"],
+      "en": ["arrow", "downwards", "leftwards", "upwards"]
+    }
+  },
+  {
+    "cp": 8694,
+    "char": "⇶",
+    "name": "THREE RIGHTWARDS ARROWS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8695,
+    "char": "⇷",
+    "name": "LEFTWARDS ARROW WITH VERTICAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8696,
+    "char": "⇸",
+    "name": "RIGHTWARDS ARROW WITH VERTICAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8697,
+    "char": "⇹",
+    "name": "LEFT RIGHT ARROW WITH VERTICAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8698,
+    "char": "⇺",
+    "name": "LEFTWARDS ARROW WITH DOUBLE VERTICAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8699,
+    "char": "⇻",
+    "name": "RIGHTWARDS ARROW WITH DOUBLE VERTICAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8700,
+    "char": "⇼",
+    "name": "LEFT RIGHT ARROW WITH DOUBLE VERTICAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8701,
+    "char": "⇽",
+    "name": "LEFTWARDS OPEN-HEADED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8702,
+    "char": "⇾",
+    "name": "RIGHTWARDS OPEN-HEADED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8703,
+    "char": "⇿",
+    "name": "LEFT RIGHT OPEN-HEADED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

@@ -1,0 +1,370 @@
+[
+  {
+    "cp": 7312,
+    "char": "Ა",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER AN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7313,
+    "char": "Ბ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER BAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7314,
+    "char": "Გ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER GAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7315,
+    "char": "Დ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER DON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7316,
+    "char": "Ე",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER EN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7317,
+    "char": "Ვ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER VIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7318,
+    "char": "Ზ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER ZEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7319,
+    "char": "Თ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER TAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7320,
+    "char": "Ი",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER IN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7321,
+    "char": "Კ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER KAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7322,
+    "char": "Ლ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER LAS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7323,
+    "char": "Მ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER MAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7324,
+    "char": "Ნ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER NAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7325,
+    "char": "Ო",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER ON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7326,
+    "char": "Პ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER PAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7327,
+    "char": "Ჟ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER ZHAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7328,
+    "char": "Რ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER RAE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7329,
+    "char": "Ს",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER SAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7330,
+    "char": "Ტ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER TAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7331,
+    "char": "Უ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER UN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7332,
+    "char": "Ფ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER PHAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7333,
+    "char": "Ქ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER KHAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7334,
+    "char": "Ღ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER GHAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7335,
+    "char": "Ყ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER QAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7336,
+    "char": "Შ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER SHIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7337,
+    "char": "Ჩ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER CHIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7338,
+    "char": "Ც",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER CAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7339,
+    "char": "Ძ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER JIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7340,
+    "char": "Წ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER CIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7341,
+    "char": "Ჭ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER CHAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7342,
+    "char": "Ხ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER XAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7343,
+    "char": "Ჯ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER JHAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7344,
+    "char": "Ჰ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER HAE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7345,
+    "char": "Ჱ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER HE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7346,
+    "char": "Ჲ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER HIE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7347,
+    "char": "Ჳ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER WE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7348,
+    "char": "Ჴ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER HAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7349,
+    "char": "Ჵ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER HOE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7350,
+    "char": "Ჶ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER FI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7351,
+    "char": "Ჷ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER YN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7352,
+    "char": "Ჸ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER ELIFI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7353,
+    "char": "Ჹ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER TURNED GAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7354,
+    "char": "Ჺ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER AIN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7357,
+    "char": "Ჽ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER AEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7358,
+    "char": "Ჾ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER HARD SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7359,
+    "char": "Ჿ",
+    "name": "GEORGIAN MTAVRULI CAPITAL LETTER LABIAL SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

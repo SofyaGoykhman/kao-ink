@@ -1,0 +1,863 @@
+[
+  {
+    "cp": 160,
+    "char": "\u00a0",
+    "name": "NO-BREAK SPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 161,
+    "char": "¡",
+    "name": "INVERTED EXCLAMATION MARK",
+    "ru": "перевернутый восклицательный знак",
+    "en": "inverted exclamation mark",
+    "keywords": {
+      "ru": [
+        "восклицание",
+        "восклицательный знак",
+        "перевернутый",
+        "перевернутый восклицательный знак"
+      ],
+      "en": ["bang", "exclamation", "inverted", "mark", "point"]
+    }
+  },
+  {
+    "cp": 162,
+    "char": "¢",
+    "name": "CENT SIGN",
+    "ru": "цент",
+    "en": "cent",
+    "keywords": { "ru": ["цент", "цента", "центы"], "en": ["cent"] }
+  },
+  {
+    "cp": 163,
+    "char": "£",
+    "name": "POUND SIGN",
+    "ru": "фунт",
+    "en": "pound",
+    "keywords": {
+      "ru": ["валюта", "стерлинги", "фунт", "фунт стерлингов"],
+      "en": ["currency", "EGP", "GBP", "pound"]
+    }
+  },
+  {
+    "cp": 164,
+    "char": "¤",
+    "name": "CURRENCY SIGN",
+    "ru": "неизвестная валюта",
+    "en": "Unknown Currency",
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 165,
+    "char": "¥",
+    "name": "YEN SIGN",
+    "ru": "иена",
+    "en": "yen",
+    "keywords": {
+      "ru": ["валюта", "иена", "китайский юань", "юань", "японская иена"],
+      "en": ["CNY", "currency", "JPY", "yen", "yuan"]
+    }
+  },
+  {
+    "cp": 166,
+    "char": "¦",
+    "name": "BROKEN BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 167,
+    "char": "§",
+    "name": "SECTION SIGN",
+    "ru": "параграф",
+    "en": "section",
+    "keywords": {
+      "ru": ["параграф", "пункт", "раздел"],
+      "en": ["paragraph", "part", "section", "silcrow"]
+    }
+  },
+  {
+    "cp": 168,
+    "char": "¨",
+    "name": "DIAERESIS",
+    "ru": "диерезис",
+    "en": "diaeresis",
+    "keywords": {
+      "ru": ["диерезис", "трема", "умлаут", "умляут"],
+      "en": ["diaeresis", "tréma", "umlaut"]
+    }
+  },
+  {
+    "cp": 169,
+    "char": "©",
+    "name": "COPYRIGHT SIGN",
+    "ru": "значок защиты авторского права",
+    "en": "copyright",
+    "keywords": {
+      "ru": [
+        "автор",
+        "авторские права",
+        "авторское",
+        "защита",
+        "значок",
+        "значок защиты авторского права",
+        "копирайт",
+        "право",
+        "символ"
+      ],
+      "en": ["C", "copyright"]
+    }
+  },
+  {
+    "cp": 170,
+    "char": "ª",
+    "name": "FEMININE ORDINAL INDICATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 171,
+    "char": "«",
+    "name": "LEFT-POINTING DOUBLE ANGLE QUOTATION MARK",
+    "ru": "открывающая французская кавычка",
+    "en": "left guillemet",
+    "keywords": {
+      "ru": [
+        "влево",
+        "елочка",
+        "елочки",
+        "знак вставки",
+        "кавычки",
+        "открывающая французская кавычка",
+        "шеврон"
+      ],
+      "en": ["angle", "brackets", "carets", "chevron", "guillemet", "left", "quote"]
+    }
+  },
+  {
+    "cp": 172,
+    "char": "¬",
+    "name": "NOT SIGN",
+    "ru": "отрицание",
+    "en": "negation",
+    "keywords": { "ru": ["не", "отрицание"], "en": ["negation", "not"] }
+  },
+  {
+    "cp": 173,
+    "char": "\u00ad",
+    "name": "SOFT HYPHEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 174,
+    "char": "®",
+    "name": "REGISTERED SIGN",
+    "ru": "зарегистрированный товарный знак",
+    "en": "registered",
+    "keywords": {
+      "ru": [
+        "зарегистрирован",
+        "зарегистрированный товарный знак",
+        "зарегистрировано",
+        "товарный знак"
+      ],
+      "en": ["R", "registered"]
+    }
+  },
+  {
+    "cp": 175,
+    "char": "¯",
+    "name": "MACRON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 176,
+    "char": "°",
+    "name": "DEGREE SIGN",
+    "ru": "градус",
+    "en": "degree",
+    "keywords": { "ru": ["градус", "крепость", "угол"], "en": ["degree", "hour", "proof"] }
+  },
+  {
+    "cp": 177,
+    "char": "±",
+    "name": "PLUS-MINUS SIGN",
+    "ru": "плюс-минус",
+    "en": "plus-minus",
+    "keywords": { "ru": ["плюс минус", "плюс-минус"], "en": ["plus-minus"] }
+  },
+  {
+    "cp": 178,
+    "char": "²",
+    "name": "SUPERSCRIPT TWO",
+    "ru": "надстрочная цифра два",
+    "en": "superscript two",
+    "keywords": {
+      "ru": ["в квадрате", "два", "квадрат", "надстрочная цифра два", "надстрочный", "степень"],
+      "en": ["squared", "superscript", "two"]
+    }
+  },
+  {
+    "cp": 179,
+    "char": "³",
+    "name": "SUPERSCRIPT THREE",
+    "ru": "надстрочная цифра три",
+    "en": "superscript three",
+    "keywords": {
+      "ru": ["в кубе", "куб", "надстрочная", "надстрочная цифра три", "степень", "три"],
+      "en": ["cubed", "superscript", "three"]
+    }
+  },
+  {
+    "cp": 180,
+    "char": "´",
+    "name": "ACUTE ACCENT",
+    "ru": "акут",
+    "en": "acute accent",
+    "keywords": { "ru": ["акут", "ударение"], "en": ["accent", "acute", "tone"] }
+  },
+  {
+    "cp": 181,
+    "char": "µ",
+    "name": "MICRO SIGN",
+    "ru": "значок микро",
+    "en": "micro sign",
+    "keywords": { "ru": ["значок микро", "измерение"], "en": ["measure", "micro", "sign"] }
+  },
+  {
+    "cp": 182,
+    "char": "¶",
+    "name": "PILCROW SIGN",
+    "ru": "знак абзаца",
+    "en": "paragraph mark",
+    "keywords": {
+      "ru": ["абзац", "знак", "знак абзаца", "пилкроу"],
+      "en": ["alinea", "mark", "paragraph", "paraph", "pilcrow"]
+    }
+  },
+  {
+    "cp": 183,
+    "char": "·",
+    "name": "MIDDLE DOT",
+    "ru": "интерпункт",
+    "en": "middle dot",
+    "keywords": {
+      "ru": ["интерпункт", "средняя", "точка"],
+      "en": ["dot", "interpunct", "middle", "middot"]
+    }
+  },
+  {
+    "cp": 184,
+    "char": "¸",
+    "name": "CEDILLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 185,
+    "char": "¹",
+    "name": "SUPERSCRIPT ONE",
+    "ru": "надстрочная цифра один",
+    "en": "superscript one",
+    "keywords": {
+      "ru": ["надстрочная цифра один", "надстрочный", "один", "степень"],
+      "en": ["one", "superscript"]
+    }
+  },
+  {
+    "cp": 186,
+    "char": "º",
+    "name": "MASCULINE ORDINAL INDICATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 187,
+    "char": "»",
+    "name": "RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK",
+    "ru": "закрывающая французская кавычка",
+    "en": "right guillemet",
+    "keywords": {
+      "ru": [
+        "вправо",
+        "елочка",
+        "елочки",
+        "закрывающая французская кавычка",
+        "знак вставки",
+        "кавычки",
+        "шеврон"
+      ],
+      "en": ["angle", "brackets", "carets", "chevron", "guillemet", "quote", "right"]
+    }
+  },
+  {
+    "cp": 188,
+    "char": "¼",
+    "name": "VULGAR FRACTION ONE QUARTER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 189,
+    "char": "½",
+    "name": "VULGAR FRACTION ONE HALF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 190,
+    "char": "¾",
+    "name": "VULGAR FRACTION THREE QUARTERS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 191,
+    "char": "¿",
+    "name": "INVERTED QUESTION MARK",
+    "ru": "перевернутый вопросительный знак",
+    "en": "inverted question mark",
+    "keywords": {
+      "ru": [
+        "вопрос",
+        "вопросительный знак",
+        "знак вопроса",
+        "перевернутый",
+        "перевернутый вопросительный знак"
+      ],
+      "en": ["inverted", "mark", "question"]
+    }
+  },
+  {
+    "cp": 192,
+    "char": "À",
+    "name": "LATIN CAPITAL LETTER A WITH GRAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 193,
+    "char": "Á",
+    "name": "LATIN CAPITAL LETTER A WITH ACUTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 194,
+    "char": "Â",
+    "name": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 195,
+    "char": "Ã",
+    "name": "LATIN CAPITAL LETTER A WITH TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 196,
+    "char": "Ä",
+    "name": "LATIN CAPITAL LETTER A WITH DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 197,
+    "char": "Å",
+    "name": "LATIN CAPITAL LETTER A WITH RING ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 198,
+    "char": "Æ",
+    "name": "LATIN CAPITAL LETTER AE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 199,
+    "char": "Ç",
+    "name": "LATIN CAPITAL LETTER C WITH CEDILLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 200,
+    "char": "È",
+    "name": "LATIN CAPITAL LETTER E WITH GRAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 201,
+    "char": "É",
+    "name": "LATIN CAPITAL LETTER E WITH ACUTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 202,
+    "char": "Ê",
+    "name": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 203,
+    "char": "Ë",
+    "name": "LATIN CAPITAL LETTER E WITH DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 204,
+    "char": "Ì",
+    "name": "LATIN CAPITAL LETTER I WITH GRAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 205,
+    "char": "Í",
+    "name": "LATIN CAPITAL LETTER I WITH ACUTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 206,
+    "char": "Î",
+    "name": "LATIN CAPITAL LETTER I WITH CIRCUMFLEX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 207,
+    "char": "Ï",
+    "name": "LATIN CAPITAL LETTER I WITH DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 208,
+    "char": "Ð",
+    "name": "LATIN CAPITAL LETTER ETH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 209,
+    "char": "Ñ",
+    "name": "LATIN CAPITAL LETTER N WITH TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 210,
+    "char": "Ò",
+    "name": "LATIN CAPITAL LETTER O WITH GRAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 211,
+    "char": "Ó",
+    "name": "LATIN CAPITAL LETTER O WITH ACUTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 212,
+    "char": "Ô",
+    "name": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 213,
+    "char": "Õ",
+    "name": "LATIN CAPITAL LETTER O WITH TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 214,
+    "char": "Ö",
+    "name": "LATIN CAPITAL LETTER O WITH DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 215,
+    "char": "×",
+    "name": "MULTIPLICATION SIGN",
+    "ru": "умножение",
+    "en": "multiplication sign",
+    "keywords": {
+      "ru": ["знак умножения", "умножение", "умноженный", "умножить"],
+      "en": ["multiplication", "multiply", "sign", "times"]
+    }
+  },
+  {
+    "cp": 216,
+    "char": "Ø",
+    "name": "LATIN CAPITAL LETTER O WITH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 217,
+    "char": "Ù",
+    "name": "LATIN CAPITAL LETTER U WITH GRAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 218,
+    "char": "Ú",
+    "name": "LATIN CAPITAL LETTER U WITH ACUTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 219,
+    "char": "Û",
+    "name": "LATIN CAPITAL LETTER U WITH CIRCUMFLEX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 220,
+    "char": "Ü",
+    "name": "LATIN CAPITAL LETTER U WITH DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 221,
+    "char": "Ý",
+    "name": "LATIN CAPITAL LETTER Y WITH ACUTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 222,
+    "char": "Þ",
+    "name": "LATIN CAPITAL LETTER THORN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 223,
+    "char": "ß",
+    "name": "LATIN SMALL LETTER SHARP S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 224,
+    "char": "à",
+    "name": "LATIN SMALL LETTER A WITH GRAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 225,
+    "char": "á",
+    "name": "LATIN SMALL LETTER A WITH ACUTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 226,
+    "char": "â",
+    "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 227,
+    "char": "ã",
+    "name": "LATIN SMALL LETTER A WITH TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 228,
+    "char": "ä",
+    "name": "LATIN SMALL LETTER A WITH DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 229,
+    "char": "å",
+    "name": "LATIN SMALL LETTER A WITH RING ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 230,
+    "char": "æ",
+    "name": "LATIN SMALL LETTER AE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 231,
+    "char": "ç",
+    "name": "LATIN SMALL LETTER C WITH CEDILLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 232,
+    "char": "è",
+    "name": "LATIN SMALL LETTER E WITH GRAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 233,
+    "char": "é",
+    "name": "LATIN SMALL LETTER E WITH ACUTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 234,
+    "char": "ê",
+    "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 235,
+    "char": "ë",
+    "name": "LATIN SMALL LETTER E WITH DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 236,
+    "char": "ì",
+    "name": "LATIN SMALL LETTER I WITH GRAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 237,
+    "char": "í",
+    "name": "LATIN SMALL LETTER I WITH ACUTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 238,
+    "char": "î",
+    "name": "LATIN SMALL LETTER I WITH CIRCUMFLEX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 239,
+    "char": "ï",
+    "name": "LATIN SMALL LETTER I WITH DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 240,
+    "char": "ð",
+    "name": "LATIN SMALL LETTER ETH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 241,
+    "char": "ñ",
+    "name": "LATIN SMALL LETTER N WITH TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 242,
+    "char": "ò",
+    "name": "LATIN SMALL LETTER O WITH GRAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 243,
+    "char": "ó",
+    "name": "LATIN SMALL LETTER O WITH ACUTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 244,
+    "char": "ô",
+    "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 245,
+    "char": "õ",
+    "name": "LATIN SMALL LETTER O WITH TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 246,
+    "char": "ö",
+    "name": "LATIN SMALL LETTER O WITH DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 247,
+    "char": "÷",
+    "name": "DIVISION SIGN",
+    "ru": "деление",
+    "en": "division sign",
+    "keywords": {
+      "ru": ["деление", "знак деления", "обелюс", "разделить"],
+      "en": ["divide", "division", "obelus", "sign"]
+    }
+  },
+  {
+    "cp": 248,
+    "char": "ø",
+    "name": "LATIN SMALL LETTER O WITH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 249,
+    "char": "ù",
+    "name": "LATIN SMALL LETTER U WITH GRAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 250,
+    "char": "ú",
+    "name": "LATIN SMALL LETTER U WITH ACUTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 251,
+    "char": "û",
+    "name": "LATIN SMALL LETTER U WITH CIRCUMFLEX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 252,
+    "char": "ü",
+    "name": "LATIN SMALL LETTER U WITH DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 253,
+    "char": "ý",
+    "name": "LATIN SMALL LETTER Y WITH ACUTE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 254,
+    "char": "þ",
+    "name": "LATIN SMALL LETTER THORN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 255,
+    "char": "ÿ",
+    "name": "LATIN SMALL LETTER Y WITH DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

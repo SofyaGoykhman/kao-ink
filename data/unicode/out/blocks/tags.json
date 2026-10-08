@@ -1,0 +1,778 @@
+[
+  {
+    "cp": 917505,
+    "char": "\udb40\udc01",
+    "name": "LANGUAGE TAG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917536,
+    "char": "\udb40\udc20",
+    "name": "TAG SPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917537,
+    "char": "\udb40\udc21",
+    "name": "TAG EXCLAMATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917538,
+    "char": "\udb40\udc22",
+    "name": "TAG QUOTATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917539,
+    "char": "\udb40\udc23",
+    "name": "TAG NUMBER SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917540,
+    "char": "\udb40\udc24",
+    "name": "TAG DOLLAR SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917541,
+    "char": "\udb40\udc25",
+    "name": "TAG PERCENT SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917542,
+    "char": "\udb40\udc26",
+    "name": "TAG AMPERSAND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917543,
+    "char": "\udb40\udc27",
+    "name": "TAG APOSTROPHE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917544,
+    "char": "\udb40\udc28",
+    "name": "TAG LEFT PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917545,
+    "char": "\udb40\udc29",
+    "name": "TAG RIGHT PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917546,
+    "char": "\udb40\udc2a",
+    "name": "TAG ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917547,
+    "char": "\udb40\udc2b",
+    "name": "TAG PLUS SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917548,
+    "char": "\udb40\udc2c",
+    "name": "TAG COMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917549,
+    "char": "\udb40\udc2d",
+    "name": "TAG HYPHEN-MINUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917550,
+    "char": "\udb40\udc2e",
+    "name": "TAG FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917551,
+    "char": "\udb40\udc2f",
+    "name": "TAG SOLIDUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917552,
+    "char": "\udb40\udc30",
+    "name": "TAG DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917553,
+    "char": "\udb40\udc31",
+    "name": "TAG DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917554,
+    "char": "\udb40\udc32",
+    "name": "TAG DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917555,
+    "char": "\udb40\udc33",
+    "name": "TAG DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917556,
+    "char": "\udb40\udc34",
+    "name": "TAG DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917557,
+    "char": "\udb40\udc35",
+    "name": "TAG DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917558,
+    "char": "\udb40\udc36",
+    "name": "TAG DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917559,
+    "char": "\udb40\udc37",
+    "name": "TAG DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917560,
+    "char": "\udb40\udc38",
+    "name": "TAG DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917561,
+    "char": "\udb40\udc39",
+    "name": "TAG DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917562,
+    "char": "\udb40\udc3a",
+    "name": "TAG COLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917563,
+    "char": "\udb40\udc3b",
+    "name": "TAG SEMICOLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917564,
+    "char": "\udb40\udc3c",
+    "name": "TAG LESS-THAN SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917565,
+    "char": "\udb40\udc3d",
+    "name": "TAG EQUALS SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917566,
+    "char": "\udb40\udc3e",
+    "name": "TAG GREATER-THAN SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917567,
+    "char": "\udb40\udc3f",
+    "name": "TAG QUESTION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917568,
+    "char": "\udb40\udc40",
+    "name": "TAG COMMERCIAL AT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917569,
+    "char": "\udb40\udc41",
+    "name": "TAG LATIN CAPITAL LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917570,
+    "char": "\udb40\udc42",
+    "name": "TAG LATIN CAPITAL LETTER B",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917571,
+    "char": "\udb40\udc43",
+    "name": "TAG LATIN CAPITAL LETTER C",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917572,
+    "char": "\udb40\udc44",
+    "name": "TAG LATIN CAPITAL LETTER D",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917573,
+    "char": "\udb40\udc45",
+    "name": "TAG LATIN CAPITAL LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917574,
+    "char": "\udb40\udc46",
+    "name": "TAG LATIN CAPITAL LETTER F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917575,
+    "char": "\udb40\udc47",
+    "name": "TAG LATIN CAPITAL LETTER G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917576,
+    "char": "\udb40\udc48",
+    "name": "TAG LATIN CAPITAL LETTER H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917577,
+    "char": "\udb40\udc49",
+    "name": "TAG LATIN CAPITAL LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917578,
+    "char": "\udb40\udc4a",
+    "name": "TAG LATIN CAPITAL LETTER J",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917579,
+    "char": "\udb40\udc4b",
+    "name": "TAG LATIN CAPITAL LETTER K",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917580,
+    "char": "\udb40\udc4c",
+    "name": "TAG LATIN CAPITAL LETTER L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917581,
+    "char": "\udb40\udc4d",
+    "name": "TAG LATIN CAPITAL LETTER M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917582,
+    "char": "\udb40\udc4e",
+    "name": "TAG LATIN CAPITAL LETTER N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917583,
+    "char": "\udb40\udc4f",
+    "name": "TAG LATIN CAPITAL LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917584,
+    "char": "\udb40\udc50",
+    "name": "TAG LATIN CAPITAL LETTER P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917585,
+    "char": "\udb40\udc51",
+    "name": "TAG LATIN CAPITAL LETTER Q",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917586,
+    "char": "\udb40\udc52",
+    "name": "TAG LATIN CAPITAL LETTER R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917587,
+    "char": "\udb40\udc53",
+    "name": "TAG LATIN CAPITAL LETTER S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917588,
+    "char": "\udb40\udc54",
+    "name": "TAG LATIN CAPITAL LETTER T",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917589,
+    "char": "\udb40\udc55",
+    "name": "TAG LATIN CAPITAL LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917590,
+    "char": "\udb40\udc56",
+    "name": "TAG LATIN CAPITAL LETTER V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917591,
+    "char": "\udb40\udc57",
+    "name": "TAG LATIN CAPITAL LETTER W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917592,
+    "char": "\udb40\udc58",
+    "name": "TAG LATIN CAPITAL LETTER X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917593,
+    "char": "\udb40\udc59",
+    "name": "TAG LATIN CAPITAL LETTER Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917594,
+    "char": "\udb40\udc5a",
+    "name": "TAG LATIN CAPITAL LETTER Z",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917595,
+    "char": "\udb40\udc5b",
+    "name": "TAG LEFT SQUARE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917596,
+    "char": "\udb40\udc5c",
+    "name": "TAG REVERSE SOLIDUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917597,
+    "char": "\udb40\udc5d",
+    "name": "TAG RIGHT SQUARE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917598,
+    "char": "\udb40\udc5e",
+    "name": "TAG CIRCUMFLEX ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917599,
+    "char": "\udb40\udc5f",
+    "name": "TAG LOW LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917600,
+    "char": "\udb40\udc60",
+    "name": "TAG GRAVE ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917601,
+    "char": "\udb40\udc61",
+    "name": "TAG LATIN SMALL LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917602,
+    "char": "\udb40\udc62",
+    "name": "TAG LATIN SMALL LETTER B",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917603,
+    "char": "\udb40\udc63",
+    "name": "TAG LATIN SMALL LETTER C",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917604,
+    "char": "\udb40\udc64",
+    "name": "TAG LATIN SMALL LETTER D",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917605,
+    "char": "\udb40\udc65",
+    "name": "TAG LATIN SMALL LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917606,
+    "char": "\udb40\udc66",
+    "name": "TAG LATIN SMALL LETTER F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917607,
+    "char": "\udb40\udc67",
+    "name": "TAG LATIN SMALL LETTER G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917608,
+    "char": "\udb40\udc68",
+    "name": "TAG LATIN SMALL LETTER H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917609,
+    "char": "\udb40\udc69",
+    "name": "TAG LATIN SMALL LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917610,
+    "char": "\udb40\udc6a",
+    "name": "TAG LATIN SMALL LETTER J",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917611,
+    "char": "\udb40\udc6b",
+    "name": "TAG LATIN SMALL LETTER K",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917612,
+    "char": "\udb40\udc6c",
+    "name": "TAG LATIN SMALL LETTER L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917613,
+    "char": "\udb40\udc6d",
+    "name": "TAG LATIN SMALL LETTER M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917614,
+    "char": "\udb40\udc6e",
+    "name": "TAG LATIN SMALL LETTER N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917615,
+    "char": "\udb40\udc6f",
+    "name": "TAG LATIN SMALL LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917616,
+    "char": "\udb40\udc70",
+    "name": "TAG LATIN SMALL LETTER P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917617,
+    "char": "\udb40\udc71",
+    "name": "TAG LATIN SMALL LETTER Q",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917618,
+    "char": "\udb40\udc72",
+    "name": "TAG LATIN SMALL LETTER R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917619,
+    "char": "\udb40\udc73",
+    "name": "TAG LATIN SMALL LETTER S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917620,
+    "char": "\udb40\udc74",
+    "name": "TAG LATIN SMALL LETTER T",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917621,
+    "char": "\udb40\udc75",
+    "name": "TAG LATIN SMALL LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917622,
+    "char": "\udb40\udc76",
+    "name": "TAG LATIN SMALL LETTER V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917623,
+    "char": "\udb40\udc77",
+    "name": "TAG LATIN SMALL LETTER W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917624,
+    "char": "\udb40\udc78",
+    "name": "TAG LATIN SMALL LETTER X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917625,
+    "char": "\udb40\udc79",
+    "name": "TAG LATIN SMALL LETTER Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917626,
+    "char": "\udb40\udc7a",
+    "name": "TAG LATIN SMALL LETTER Z",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917627,
+    "char": "\udb40\udc7b",
+    "name": "TAG LEFT CURLY BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917628,
+    "char": "\udb40\udc7c",
+    "name": "TAG VERTICAL LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917629,
+    "char": "\udb40\udc7d",
+    "name": "TAG RIGHT CURLY BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917630,
+    "char": "\udb40\udc7e",
+    "name": "TAG TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 917631,
+    "char": "\udb40\udc7f",
+    "name": "CANCEL TAG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

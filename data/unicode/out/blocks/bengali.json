@@ -1,0 +1,770 @@
+[
+  {
+    "cp": 2432,
+    "char": "ঀ",
+    "name": "BENGALI ANJI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2433,
+    "char": "ঁ",
+    "name": "BENGALI SIGN CANDRABINDU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2434,
+    "char": "ং",
+    "name": "BENGALI SIGN ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2435,
+    "char": "ঃ",
+    "name": "BENGALI SIGN VISARGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2437,
+    "char": "অ",
+    "name": "BENGALI LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2438,
+    "char": "আ",
+    "name": "BENGALI LETTER AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2439,
+    "char": "ই",
+    "name": "BENGALI LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2440,
+    "char": "ঈ",
+    "name": "BENGALI LETTER II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2441,
+    "char": "উ",
+    "name": "BENGALI LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2442,
+    "char": "ঊ",
+    "name": "BENGALI LETTER UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2443,
+    "char": "ঋ",
+    "name": "BENGALI LETTER VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2444,
+    "char": "ঌ",
+    "name": "BENGALI LETTER VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2447,
+    "char": "এ",
+    "name": "BENGALI LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2448,
+    "char": "ঐ",
+    "name": "BENGALI LETTER AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2451,
+    "char": "ও",
+    "name": "BENGALI LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2452,
+    "char": "ঔ",
+    "name": "BENGALI LETTER AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2453,
+    "char": "ক",
+    "name": "BENGALI LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2454,
+    "char": "খ",
+    "name": "BENGALI LETTER KHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2455,
+    "char": "গ",
+    "name": "BENGALI LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2456,
+    "char": "ঘ",
+    "name": "BENGALI LETTER GHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2457,
+    "char": "ঙ",
+    "name": "BENGALI LETTER NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2458,
+    "char": "চ",
+    "name": "BENGALI LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2459,
+    "char": "ছ",
+    "name": "BENGALI LETTER CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2460,
+    "char": "জ",
+    "name": "BENGALI LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2461,
+    "char": "ঝ",
+    "name": "BENGALI LETTER JHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2462,
+    "char": "ঞ",
+    "name": "BENGALI LETTER NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2463,
+    "char": "ট",
+    "name": "BENGALI LETTER TTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2464,
+    "char": "ঠ",
+    "name": "BENGALI LETTER TTHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2465,
+    "char": "ড",
+    "name": "BENGALI LETTER DDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2466,
+    "char": "ঢ",
+    "name": "BENGALI LETTER DDHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2467,
+    "char": "ণ",
+    "name": "BENGALI LETTER NNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2468,
+    "char": "ত",
+    "name": "BENGALI LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2469,
+    "char": "থ",
+    "name": "BENGALI LETTER THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2470,
+    "char": "দ",
+    "name": "BENGALI LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2471,
+    "char": "ধ",
+    "name": "BENGALI LETTER DHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2472,
+    "char": "ন",
+    "name": "BENGALI LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2474,
+    "char": "প",
+    "name": "BENGALI LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2475,
+    "char": "ফ",
+    "name": "BENGALI LETTER PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2476,
+    "char": "ব",
+    "name": "BENGALI LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2477,
+    "char": "ভ",
+    "name": "BENGALI LETTER BHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2478,
+    "char": "ম",
+    "name": "BENGALI LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2479,
+    "char": "য",
+    "name": "BENGALI LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2480,
+    "char": "র",
+    "name": "BENGALI LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2482,
+    "char": "ল",
+    "name": "BENGALI LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2486,
+    "char": "শ",
+    "name": "BENGALI LETTER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2487,
+    "char": "ষ",
+    "name": "BENGALI LETTER SSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2488,
+    "char": "স",
+    "name": "BENGALI LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2489,
+    "char": "হ",
+    "name": "BENGALI LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2492,
+    "char": "়",
+    "name": "BENGALI SIGN NUKTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2493,
+    "char": "ঽ",
+    "name": "BENGALI SIGN AVAGRAHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2494,
+    "char": "া",
+    "name": "BENGALI VOWEL SIGN AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2495,
+    "char": "ি",
+    "name": "BENGALI VOWEL SIGN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2496,
+    "char": "ী",
+    "name": "BENGALI VOWEL SIGN II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2497,
+    "char": "ু",
+    "name": "BENGALI VOWEL SIGN U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2498,
+    "char": "ূ",
+    "name": "BENGALI VOWEL SIGN UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2499,
+    "char": "ৃ",
+    "name": "BENGALI VOWEL SIGN VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2500,
+    "char": "ৄ",
+    "name": "BENGALI VOWEL SIGN VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2503,
+    "char": "ে",
+    "name": "BENGALI VOWEL SIGN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2504,
+    "char": "ৈ",
+    "name": "BENGALI VOWEL SIGN AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2507,
+    "char": "ো",
+    "name": "BENGALI VOWEL SIGN O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2508,
+    "char": "ৌ",
+    "name": "BENGALI VOWEL SIGN AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2509,
+    "char": "্",
+    "name": "BENGALI SIGN VIRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2510,
+    "char": "ৎ",
+    "name": "BENGALI LETTER KHANDA TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2519,
+    "char": "ৗ",
+    "name": "BENGALI AU LENGTH MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2524,
+    "char": "ড়",
+    "name": "BENGALI LETTER RRA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2525,
+    "char": "ঢ়",
+    "name": "BENGALI LETTER RHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2527,
+    "char": "য়",
+    "name": "BENGALI LETTER YYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2528,
+    "char": "ৠ",
+    "name": "BENGALI LETTER VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2529,
+    "char": "ৡ",
+    "name": "BENGALI LETTER VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2530,
+    "char": "ৢ",
+    "name": "BENGALI VOWEL SIGN VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2531,
+    "char": "ৣ",
+    "name": "BENGALI VOWEL SIGN VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2534,
+    "char": "০",
+    "name": "BENGALI DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2535,
+    "char": "১",
+    "name": "BENGALI DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2536,
+    "char": "২",
+    "name": "BENGALI DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2537,
+    "char": "৩",
+    "name": "BENGALI DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2538,
+    "char": "৪",
+    "name": "BENGALI DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2539,
+    "char": "৫",
+    "name": "BENGALI DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2540,
+    "char": "৬",
+    "name": "BENGALI DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2541,
+    "char": "৭",
+    "name": "BENGALI DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2542,
+    "char": "৮",
+    "name": "BENGALI DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2543,
+    "char": "৯",
+    "name": "BENGALI DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2544,
+    "char": "ৰ",
+    "name": "BENGALI LETTER RA WITH MIDDLE DIAGONAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2545,
+    "char": "ৱ",
+    "name": "BENGALI LETTER RA WITH LOWER DIAGONAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2546,
+    "char": "৲",
+    "name": "BENGALI RUPEE MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2547,
+    "char": "৳",
+    "name": "BENGALI RUPEE SIGN",
+    "ru": "бангладешская така",
+    "en": "Bangladeshi Taka",
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2548,
+    "char": "৴",
+    "name": "BENGALI CURRENCY NUMERATOR ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2549,
+    "char": "৵",
+    "name": "BENGALI CURRENCY NUMERATOR TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2550,
+    "char": "৶",
+    "name": "BENGALI CURRENCY NUMERATOR THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2551,
+    "char": "৷",
+    "name": "BENGALI CURRENCY NUMERATOR FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2552,
+    "char": "৸",
+    "name": "BENGALI CURRENCY NUMERATOR ONE LESS THAN THE DENOMINATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2553,
+    "char": "৹",
+    "name": "BENGALI CURRENCY DENOMINATOR SIXTEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2554,
+    "char": "৺",
+    "name": "BENGALI ISSHAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2555,
+    "char": "৻",
+    "name": "BENGALI GANDA MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2556,
+    "char": "ৼ",
+    "name": "BENGALI LETTER VEDIC ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2557,
+    "char": "৽",
+    "name": "BENGALI ABBREVIATION SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2558,
+    "char": "৾",
+    "name": "BENGALI SANDHI MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

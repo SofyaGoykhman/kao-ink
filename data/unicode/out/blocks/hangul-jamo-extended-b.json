@@ -1,0 +1,578 @@
+[
+  {
+    "cp": 55216,
+    "char": "ힰ",
+    "name": "HANGUL JUNGSEONG O-YEO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55217,
+    "char": "ힱ",
+    "name": "HANGUL JUNGSEONG O-O-I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55218,
+    "char": "ힲ",
+    "name": "HANGUL JUNGSEONG YO-A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55219,
+    "char": "ힳ",
+    "name": "HANGUL JUNGSEONG YO-AE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55220,
+    "char": "ힴ",
+    "name": "HANGUL JUNGSEONG YO-EO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55221,
+    "char": "ힵ",
+    "name": "HANGUL JUNGSEONG U-YEO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55222,
+    "char": "ힶ",
+    "name": "HANGUL JUNGSEONG U-I-I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55223,
+    "char": "ힷ",
+    "name": "HANGUL JUNGSEONG YU-AE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55224,
+    "char": "ힸ",
+    "name": "HANGUL JUNGSEONG YU-O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55225,
+    "char": "ힹ",
+    "name": "HANGUL JUNGSEONG EU-A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55226,
+    "char": "ힺ",
+    "name": "HANGUL JUNGSEONG EU-EO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55227,
+    "char": "ힻ",
+    "name": "HANGUL JUNGSEONG EU-E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55228,
+    "char": "ힼ",
+    "name": "HANGUL JUNGSEONG EU-O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55229,
+    "char": "ힽ",
+    "name": "HANGUL JUNGSEONG I-YA-O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55230,
+    "char": "ힾ",
+    "name": "HANGUL JUNGSEONG I-YAE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55231,
+    "char": "ힿ",
+    "name": "HANGUL JUNGSEONG I-YEO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55232,
+    "char": "ퟀ",
+    "name": "HANGUL JUNGSEONG I-YE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55233,
+    "char": "ퟁ",
+    "name": "HANGUL JUNGSEONG I-O-I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55234,
+    "char": "ퟂ",
+    "name": "HANGUL JUNGSEONG I-YO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55235,
+    "char": "ퟃ",
+    "name": "HANGUL JUNGSEONG I-YU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55236,
+    "char": "ퟄ",
+    "name": "HANGUL JUNGSEONG I-I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55237,
+    "char": "ퟅ",
+    "name": "HANGUL JUNGSEONG ARAEA-A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55238,
+    "char": "ퟆ",
+    "name": "HANGUL JUNGSEONG ARAEA-E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55243,
+    "char": "ퟋ",
+    "name": "HANGUL JONGSEONG NIEUN-RIEUL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55244,
+    "char": "ퟌ",
+    "name": "HANGUL JONGSEONG NIEUN-CHIEUCH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55245,
+    "char": "ퟍ",
+    "name": "HANGUL JONGSEONG SSANGTIKEUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55246,
+    "char": "ퟎ",
+    "name": "HANGUL JONGSEONG SSANGTIKEUT-PIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55247,
+    "char": "ퟏ",
+    "name": "HANGUL JONGSEONG TIKEUT-PIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55248,
+    "char": "ퟐ",
+    "name": "HANGUL JONGSEONG TIKEUT-SIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55249,
+    "char": "ퟑ",
+    "name": "HANGUL JONGSEONG TIKEUT-SIOS-KIYEOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55250,
+    "char": "ퟒ",
+    "name": "HANGUL JONGSEONG TIKEUT-CIEUC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55251,
+    "char": "ퟓ",
+    "name": "HANGUL JONGSEONG TIKEUT-CHIEUCH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55252,
+    "char": "ퟔ",
+    "name": "HANGUL JONGSEONG TIKEUT-THIEUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55253,
+    "char": "ퟕ",
+    "name": "HANGUL JONGSEONG RIEUL-SSANGKIYEOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55254,
+    "char": "ퟖ",
+    "name": "HANGUL JONGSEONG RIEUL-KIYEOK-HIEUH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55255,
+    "char": "ퟗ",
+    "name": "HANGUL JONGSEONG SSANGRIEUL-KHIEUKH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55256,
+    "char": "ퟘ",
+    "name": "HANGUL JONGSEONG RIEUL-MIEUM-HIEUH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55257,
+    "char": "ퟙ",
+    "name": "HANGUL JONGSEONG RIEUL-PIEUP-TIKEUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55258,
+    "char": "ퟚ",
+    "name": "HANGUL JONGSEONG RIEUL-PIEUP-PHIEUPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55259,
+    "char": "ퟛ",
+    "name": "HANGUL JONGSEONG RIEUL-YESIEUNG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55260,
+    "char": "ퟜ",
+    "name": "HANGUL JONGSEONG RIEUL-YEORINHIEUH-HIEUH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55261,
+    "char": "ퟝ",
+    "name": "HANGUL JONGSEONG KAPYEOUNRIEUL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55262,
+    "char": "ퟞ",
+    "name": "HANGUL JONGSEONG MIEUM-NIEUN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55263,
+    "char": "ퟟ",
+    "name": "HANGUL JONGSEONG MIEUM-SSANGNIEUN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55264,
+    "char": "ퟠ",
+    "name": "HANGUL JONGSEONG SSANGMIEUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55265,
+    "char": "ퟡ",
+    "name": "HANGUL JONGSEONG MIEUM-PIEUP-SIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55266,
+    "char": "ퟢ",
+    "name": "HANGUL JONGSEONG MIEUM-CIEUC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55267,
+    "char": "ퟣ",
+    "name": "HANGUL JONGSEONG PIEUP-TIKEUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55268,
+    "char": "ퟤ",
+    "name": "HANGUL JONGSEONG PIEUP-RIEUL-PHIEUPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55269,
+    "char": "ퟥ",
+    "name": "HANGUL JONGSEONG PIEUP-MIEUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55270,
+    "char": "ퟦ",
+    "name": "HANGUL JONGSEONG SSANGPIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55271,
+    "char": "ퟧ",
+    "name": "HANGUL JONGSEONG PIEUP-SIOS-TIKEUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55272,
+    "char": "ퟨ",
+    "name": "HANGUL JONGSEONG PIEUP-CIEUC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55273,
+    "char": "ퟩ",
+    "name": "HANGUL JONGSEONG PIEUP-CHIEUCH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55274,
+    "char": "ퟪ",
+    "name": "HANGUL JONGSEONG SIOS-MIEUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55275,
+    "char": "ퟫ",
+    "name": "HANGUL JONGSEONG SIOS-KAPYEOUNPIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55276,
+    "char": "ퟬ",
+    "name": "HANGUL JONGSEONG SSANGSIOS-KIYEOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55277,
+    "char": "ퟭ",
+    "name": "HANGUL JONGSEONG SSANGSIOS-TIKEUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55278,
+    "char": "ퟮ",
+    "name": "HANGUL JONGSEONG SIOS-PANSIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55279,
+    "char": "ퟯ",
+    "name": "HANGUL JONGSEONG SIOS-CIEUC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55280,
+    "char": "ퟰ",
+    "name": "HANGUL JONGSEONG SIOS-CHIEUCH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55281,
+    "char": "ퟱ",
+    "name": "HANGUL JONGSEONG SIOS-THIEUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55282,
+    "char": "ퟲ",
+    "name": "HANGUL JONGSEONG SIOS-HIEUH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55283,
+    "char": "ퟳ",
+    "name": "HANGUL JONGSEONG PANSIOS-PIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55284,
+    "char": "ퟴ",
+    "name": "HANGUL JONGSEONG PANSIOS-KAPYEOUNPIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55285,
+    "char": "ퟵ",
+    "name": "HANGUL JONGSEONG YESIEUNG-MIEUM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55286,
+    "char": "ퟶ",
+    "name": "HANGUL JONGSEONG YESIEUNG-HIEUH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55287,
+    "char": "ퟷ",
+    "name": "HANGUL JONGSEONG CIEUC-PIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55288,
+    "char": "ퟸ",
+    "name": "HANGUL JONGSEONG CIEUC-SSANGPIEUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55289,
+    "char": "ퟹ",
+    "name": "HANGUL JONGSEONG SSANGCIEUC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55290,
+    "char": "ퟺ",
+    "name": "HANGUL JONGSEONG PHIEUPH-SIOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 55291,
+    "char": "ퟻ",
+    "name": "HANGUL JONGSEONG PHIEUPH-THIEUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

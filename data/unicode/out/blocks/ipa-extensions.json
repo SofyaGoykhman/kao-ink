@@ -1,0 +1,770 @@
+[
+  {
+    "cp": 592,
+    "char": "ɐ",
+    "name": "LATIN SMALL LETTER TURNED A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 593,
+    "char": "ɑ",
+    "name": "LATIN SMALL LETTER ALPHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 594,
+    "char": "ɒ",
+    "name": "LATIN SMALL LETTER TURNED ALPHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 595,
+    "char": "ɓ",
+    "name": "LATIN SMALL LETTER B WITH HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 596,
+    "char": "ɔ",
+    "name": "LATIN SMALL LETTER OPEN O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 597,
+    "char": "ɕ",
+    "name": "LATIN SMALL LETTER C WITH CURL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 598,
+    "char": "ɖ",
+    "name": "LATIN SMALL LETTER D WITH TAIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 599,
+    "char": "ɗ",
+    "name": "LATIN SMALL LETTER D WITH HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 600,
+    "char": "ɘ",
+    "name": "LATIN SMALL LETTER REVERSED E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 601,
+    "char": "ə",
+    "name": "LATIN SMALL LETTER SCHWA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 602,
+    "char": "ɚ",
+    "name": "LATIN SMALL LETTER SCHWA WITH HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 603,
+    "char": "ɛ",
+    "name": "LATIN SMALL LETTER OPEN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 604,
+    "char": "ɜ",
+    "name": "LATIN SMALL LETTER REVERSED OPEN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 605,
+    "char": "ɝ",
+    "name": "LATIN SMALL LETTER REVERSED OPEN E WITH HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 606,
+    "char": "ɞ",
+    "name": "LATIN SMALL LETTER CLOSED REVERSED OPEN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 607,
+    "char": "ɟ",
+    "name": "LATIN SMALL LETTER DOTLESS J WITH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 608,
+    "char": "ɠ",
+    "name": "LATIN SMALL LETTER G WITH HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 609,
+    "char": "ɡ",
+    "name": "LATIN SMALL LETTER SCRIPT G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 610,
+    "char": "ɢ",
+    "name": "LATIN LETTER SMALL CAPITAL G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 611,
+    "char": "ɣ",
+    "name": "LATIN SMALL LETTER GAMMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 612,
+    "char": "ɤ",
+    "name": "LATIN SMALL LETTER RAMS HORN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 613,
+    "char": "ɥ",
+    "name": "LATIN SMALL LETTER TURNED H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 614,
+    "char": "ɦ",
+    "name": "LATIN SMALL LETTER H WITH HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 615,
+    "char": "ɧ",
+    "name": "LATIN SMALL LETTER HENG WITH HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 616,
+    "char": "ɨ",
+    "name": "LATIN SMALL LETTER I WITH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 617,
+    "char": "ɩ",
+    "name": "LATIN SMALL LETTER IOTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 618,
+    "char": "ɪ",
+    "name": "LATIN LETTER SMALL CAPITAL I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 619,
+    "char": "ɫ",
+    "name": "LATIN SMALL LETTER L WITH MIDDLE TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 620,
+    "char": "ɬ",
+    "name": "LATIN SMALL LETTER L WITH BELT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 621,
+    "char": "ɭ",
+    "name": "LATIN SMALL LETTER L WITH RETROFLEX HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 622,
+    "char": "ɮ",
+    "name": "LATIN SMALL LETTER LEZH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 623,
+    "char": "ɯ",
+    "name": "LATIN SMALL LETTER TURNED M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 624,
+    "char": "ɰ",
+    "name": "LATIN SMALL LETTER TURNED M WITH LONG LEG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 625,
+    "char": "ɱ",
+    "name": "LATIN SMALL LETTER M WITH HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 626,
+    "char": "ɲ",
+    "name": "LATIN SMALL LETTER N WITH LEFT HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 627,
+    "char": "ɳ",
+    "name": "LATIN SMALL LETTER N WITH RETROFLEX HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 628,
+    "char": "ɴ",
+    "name": "LATIN LETTER SMALL CAPITAL N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 629,
+    "char": "ɵ",
+    "name": "LATIN SMALL LETTER BARRED O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 630,
+    "char": "ɶ",
+    "name": "LATIN LETTER SMALL CAPITAL OE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 631,
+    "char": "ɷ",
+    "name": "LATIN SMALL LETTER CLOSED OMEGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 632,
+    "char": "ɸ",
+    "name": "LATIN SMALL LETTER PHI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 633,
+    "char": "ɹ",
+    "name": "LATIN SMALL LETTER TURNED R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 634,
+    "char": "ɺ",
+    "name": "LATIN SMALL LETTER TURNED R WITH LONG LEG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 635,
+    "char": "ɻ",
+    "name": "LATIN SMALL LETTER TURNED R WITH HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 636,
+    "char": "ɼ",
+    "name": "LATIN SMALL LETTER R WITH LONG LEG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 637,
+    "char": "ɽ",
+    "name": "LATIN SMALL LETTER R WITH TAIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 638,
+    "char": "ɾ",
+    "name": "LATIN SMALL LETTER R WITH FISHHOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 639,
+    "char": "ɿ",
+    "name": "LATIN SMALL LETTER REVERSED R WITH FISHHOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 640,
+    "char": "ʀ",
+    "name": "LATIN LETTER SMALL CAPITAL R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 641,
+    "char": "ʁ",
+    "name": "LATIN LETTER SMALL CAPITAL INVERTED R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 642,
+    "char": "ʂ",
+    "name": "LATIN SMALL LETTER S WITH HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 643,
+    "char": "ʃ",
+    "name": "LATIN SMALL LETTER ESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 644,
+    "char": "ʄ",
+    "name": "LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 645,
+    "char": "ʅ",
+    "name": "LATIN SMALL LETTER SQUAT REVERSED ESH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 646,
+    "char": "ʆ",
+    "name": "LATIN SMALL LETTER ESH WITH CURL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 647,
+    "char": "ʇ",
+    "name": "LATIN SMALL LETTER TURNED T",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 648,
+    "char": "ʈ",
+    "name": "LATIN SMALL LETTER T WITH RETROFLEX HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 649,
+    "char": "ʉ",
+    "name": "LATIN SMALL LETTER U BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 650,
+    "char": "ʊ",
+    "name": "LATIN SMALL LETTER UPSILON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 651,
+    "char": "ʋ",
+    "name": "LATIN SMALL LETTER V WITH HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 652,
+    "char": "ʌ",
+    "name": "LATIN SMALL LETTER TURNED V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 653,
+    "char": "ʍ",
+    "name": "LATIN SMALL LETTER TURNED W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 654,
+    "char": "ʎ",
+    "name": "LATIN SMALL LETTER TURNED Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 655,
+    "char": "ʏ",
+    "name": "LATIN LETTER SMALL CAPITAL Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 656,
+    "char": "ʐ",
+    "name": "LATIN SMALL LETTER Z WITH RETROFLEX HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 657,
+    "char": "ʑ",
+    "name": "LATIN SMALL LETTER Z WITH CURL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 658,
+    "char": "ʒ",
+    "name": "LATIN SMALL LETTER EZH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 659,
+    "char": "ʓ",
+    "name": "LATIN SMALL LETTER EZH WITH CURL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 660,
+    "char": "ʔ",
+    "name": "LATIN LETTER GLOTTAL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 661,
+    "char": "ʕ",
+    "name": "LATIN LETTER PHARYNGEAL VOICED FRICATIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 662,
+    "char": "ʖ",
+    "name": "LATIN LETTER INVERTED GLOTTAL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 663,
+    "char": "ʗ",
+    "name": "LATIN LETTER STRETCHED C",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 664,
+    "char": "ʘ",
+    "name": "LATIN LETTER BILABIAL CLICK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 665,
+    "char": "ʙ",
+    "name": "LATIN LETTER SMALL CAPITAL B",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 666,
+    "char": "ʚ",
+    "name": "LATIN SMALL LETTER CLOSED OPEN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 667,
+    "char": "ʛ",
+    "name": "LATIN LETTER SMALL CAPITAL G WITH HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 668,
+    "char": "ʜ",
+    "name": "LATIN LETTER SMALL CAPITAL H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 669,
+    "char": "ʝ",
+    "name": "LATIN SMALL LETTER J WITH CROSSED-TAIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 670,
+    "char": "ʞ",
+    "name": "LATIN SMALL LETTER TURNED K",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 671,
+    "char": "ʟ",
+    "name": "LATIN LETTER SMALL CAPITAL L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 672,
+    "char": "ʠ",
+    "name": "LATIN SMALL LETTER Q WITH HOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 673,
+    "char": "ʡ",
+    "name": "LATIN LETTER GLOTTAL STOP WITH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 674,
+    "char": "ʢ",
+    "name": "LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 675,
+    "char": "ʣ",
+    "name": "LATIN SMALL LETTER DZ DIGRAPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 676,
+    "char": "ʤ",
+    "name": "LATIN SMALL LETTER DEZH DIGRAPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 677,
+    "char": "ʥ",
+    "name": "LATIN SMALL LETTER DZ DIGRAPH WITH CURL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 678,
+    "char": "ʦ",
+    "name": "LATIN SMALL LETTER TS DIGRAPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 679,
+    "char": "ʧ",
+    "name": "LATIN SMALL LETTER TESH DIGRAPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 680,
+    "char": "ʨ",
+    "name": "LATIN SMALL LETTER TC DIGRAPH WITH CURL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 681,
+    "char": "ʩ",
+    "name": "LATIN SMALL LETTER FENG DIGRAPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 682,
+    "char": "ʪ",
+    "name": "LATIN SMALL LETTER LS DIGRAPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 683,
+    "char": "ʫ",
+    "name": "LATIN SMALL LETTER LZ DIGRAPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 684,
+    "char": "ʬ",
+    "name": "LATIN LETTER BILABIAL PERCUSSIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 685,
+    "char": "ʭ",
+    "name": "LATIN LETTER BIDENTAL PERCUSSIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 686,
+    "char": "ʮ",
+    "name": "LATIN SMALL LETTER TURNED H WITH FISHHOOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 687,
+    "char": "ʯ",
+    "name": "LATIN SMALL LETTER TURNED H WITH FISHHOOK AND TAIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

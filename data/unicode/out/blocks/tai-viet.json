@@ -1,0 +1,578 @@
+[
+  {
+    "cp": 43648,
+    "char": "ꪀ",
+    "name": "TAI VIET LETTER LOW KO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43649,
+    "char": "ꪁ",
+    "name": "TAI VIET LETTER HIGH KO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43650,
+    "char": "ꪂ",
+    "name": "TAI VIET LETTER LOW KHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43651,
+    "char": "ꪃ",
+    "name": "TAI VIET LETTER HIGH KHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43652,
+    "char": "ꪄ",
+    "name": "TAI VIET LETTER LOW KHHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43653,
+    "char": "ꪅ",
+    "name": "TAI VIET LETTER HIGH KHHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43654,
+    "char": "ꪆ",
+    "name": "TAI VIET LETTER LOW GO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43655,
+    "char": "ꪇ",
+    "name": "TAI VIET LETTER HIGH GO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43656,
+    "char": "ꪈ",
+    "name": "TAI VIET LETTER LOW NGO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43657,
+    "char": "ꪉ",
+    "name": "TAI VIET LETTER HIGH NGO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43658,
+    "char": "ꪊ",
+    "name": "TAI VIET LETTER LOW CO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43659,
+    "char": "ꪋ",
+    "name": "TAI VIET LETTER HIGH CO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43660,
+    "char": "ꪌ",
+    "name": "TAI VIET LETTER LOW CHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43661,
+    "char": "ꪍ",
+    "name": "TAI VIET LETTER HIGH CHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43662,
+    "char": "ꪎ",
+    "name": "TAI VIET LETTER LOW SO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43663,
+    "char": "ꪏ",
+    "name": "TAI VIET LETTER HIGH SO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43664,
+    "char": "ꪐ",
+    "name": "TAI VIET LETTER LOW NYO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43665,
+    "char": "ꪑ",
+    "name": "TAI VIET LETTER HIGH NYO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43666,
+    "char": "ꪒ",
+    "name": "TAI VIET LETTER LOW DO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43667,
+    "char": "ꪓ",
+    "name": "TAI VIET LETTER HIGH DO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43668,
+    "char": "ꪔ",
+    "name": "TAI VIET LETTER LOW TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43669,
+    "char": "ꪕ",
+    "name": "TAI VIET LETTER HIGH TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43670,
+    "char": "ꪖ",
+    "name": "TAI VIET LETTER LOW THO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43671,
+    "char": "ꪗ",
+    "name": "TAI VIET LETTER HIGH THO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43672,
+    "char": "ꪘ",
+    "name": "TAI VIET LETTER LOW NO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43673,
+    "char": "ꪙ",
+    "name": "TAI VIET LETTER HIGH NO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43674,
+    "char": "ꪚ",
+    "name": "TAI VIET LETTER LOW BO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43675,
+    "char": "ꪛ",
+    "name": "TAI VIET LETTER HIGH BO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43676,
+    "char": "ꪜ",
+    "name": "TAI VIET LETTER LOW PO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43677,
+    "char": "ꪝ",
+    "name": "TAI VIET LETTER HIGH PO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43678,
+    "char": "ꪞ",
+    "name": "TAI VIET LETTER LOW PHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43679,
+    "char": "ꪟ",
+    "name": "TAI VIET LETTER HIGH PHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43680,
+    "char": "ꪠ",
+    "name": "TAI VIET LETTER LOW FO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43681,
+    "char": "ꪡ",
+    "name": "TAI VIET LETTER HIGH FO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43682,
+    "char": "ꪢ",
+    "name": "TAI VIET LETTER LOW MO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43683,
+    "char": "ꪣ",
+    "name": "TAI VIET LETTER HIGH MO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43684,
+    "char": "ꪤ",
+    "name": "TAI VIET LETTER LOW YO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43685,
+    "char": "ꪥ",
+    "name": "TAI VIET LETTER HIGH YO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43686,
+    "char": "ꪦ",
+    "name": "TAI VIET LETTER LOW RO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43687,
+    "char": "ꪧ",
+    "name": "TAI VIET LETTER HIGH RO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43688,
+    "char": "ꪨ",
+    "name": "TAI VIET LETTER LOW LO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43689,
+    "char": "ꪩ",
+    "name": "TAI VIET LETTER HIGH LO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43690,
+    "char": "ꪪ",
+    "name": "TAI VIET LETTER LOW VO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43691,
+    "char": "ꪫ",
+    "name": "TAI VIET LETTER HIGH VO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43692,
+    "char": "ꪬ",
+    "name": "TAI VIET LETTER LOW HO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43693,
+    "char": "ꪭ",
+    "name": "TAI VIET LETTER HIGH HO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43694,
+    "char": "ꪮ",
+    "name": "TAI VIET LETTER LOW O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43695,
+    "char": "ꪯ",
+    "name": "TAI VIET LETTER HIGH O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43696,
+    "char": "ꪰ",
+    "name": "TAI VIET MAI KANG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43697,
+    "char": "ꪱ",
+    "name": "TAI VIET VOWEL AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43698,
+    "char": "ꪲ",
+    "name": "TAI VIET VOWEL I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43699,
+    "char": "ꪳ",
+    "name": "TAI VIET VOWEL UE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43700,
+    "char": "ꪴ",
+    "name": "TAI VIET VOWEL U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43701,
+    "char": "ꪵ",
+    "name": "TAI VIET VOWEL E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43702,
+    "char": "ꪶ",
+    "name": "TAI VIET VOWEL O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43703,
+    "char": "ꪷ",
+    "name": "TAI VIET MAI KHIT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43704,
+    "char": "ꪸ",
+    "name": "TAI VIET VOWEL IA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43705,
+    "char": "ꪹ",
+    "name": "TAI VIET VOWEL UEA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43706,
+    "char": "ꪺ",
+    "name": "TAI VIET VOWEL UA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43707,
+    "char": "ꪻ",
+    "name": "TAI VIET VOWEL AUE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43708,
+    "char": "ꪼ",
+    "name": "TAI VIET VOWEL AY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43709,
+    "char": "ꪽ",
+    "name": "TAI VIET VOWEL AN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43710,
+    "char": "ꪾ",
+    "name": "TAI VIET VOWEL AM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43711,
+    "char": "꪿",
+    "name": "TAI VIET TONE MAI EK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43712,
+    "char": "ꫀ",
+    "name": "TAI VIET TONE MAI NUENG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43713,
+    "char": "꫁",
+    "name": "TAI VIET TONE MAI THO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43714,
+    "char": "ꫂ",
+    "name": "TAI VIET TONE MAI SONG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43739,
+    "char": "ꫛ",
+    "name": "TAI VIET SYMBOL KON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43740,
+    "char": "ꫜ",
+    "name": "TAI VIET SYMBOL NUENG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43741,
+    "char": "ꫝ",
+    "name": "TAI VIET SYMBOL SAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43742,
+    "char": "꫞",
+    "name": "TAI VIET SYMBOL HO HOI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43743,
+    "char": "꫟",
+    "name": "TAI VIET SYMBOL KOI KOI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

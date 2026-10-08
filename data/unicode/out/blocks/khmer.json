@@ -1,0 +1,914 @@
+[
+  {
+    "cp": 6016,
+    "char": "ក",
+    "name": "KHMER LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6017,
+    "char": "ខ",
+    "name": "KHMER LETTER KHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6018,
+    "char": "គ",
+    "name": "KHMER LETTER KO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6019,
+    "char": "ឃ",
+    "name": "KHMER LETTER KHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6020,
+    "char": "ង",
+    "name": "KHMER LETTER NGO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6021,
+    "char": "ច",
+    "name": "KHMER LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6022,
+    "char": "ឆ",
+    "name": "KHMER LETTER CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6023,
+    "char": "ជ",
+    "name": "KHMER LETTER CO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6024,
+    "char": "ឈ",
+    "name": "KHMER LETTER CHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6025,
+    "char": "ញ",
+    "name": "KHMER LETTER NYO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6026,
+    "char": "ដ",
+    "name": "KHMER LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6027,
+    "char": "ឋ",
+    "name": "KHMER LETTER TTHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6028,
+    "char": "ឌ",
+    "name": "KHMER LETTER DO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6029,
+    "char": "ឍ",
+    "name": "KHMER LETTER TTHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6030,
+    "char": "ណ",
+    "name": "KHMER LETTER NNO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6031,
+    "char": "ត",
+    "name": "KHMER LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6032,
+    "char": "ថ",
+    "name": "KHMER LETTER THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6033,
+    "char": "ទ",
+    "name": "KHMER LETTER TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6034,
+    "char": "ធ",
+    "name": "KHMER LETTER THO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6035,
+    "char": "ន",
+    "name": "KHMER LETTER NO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6036,
+    "char": "ប",
+    "name": "KHMER LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6037,
+    "char": "ផ",
+    "name": "KHMER LETTER PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6038,
+    "char": "ព",
+    "name": "KHMER LETTER PO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6039,
+    "char": "ភ",
+    "name": "KHMER LETTER PHO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6040,
+    "char": "ម",
+    "name": "KHMER LETTER MO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6041,
+    "char": "យ",
+    "name": "KHMER LETTER YO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6042,
+    "char": "រ",
+    "name": "KHMER LETTER RO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6043,
+    "char": "ល",
+    "name": "KHMER LETTER LO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6044,
+    "char": "វ",
+    "name": "KHMER LETTER VO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6045,
+    "char": "ឝ",
+    "name": "KHMER LETTER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6046,
+    "char": "ឞ",
+    "name": "KHMER LETTER SSO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6047,
+    "char": "ស",
+    "name": "KHMER LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6048,
+    "char": "ហ",
+    "name": "KHMER LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6049,
+    "char": "ឡ",
+    "name": "KHMER LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6050,
+    "char": "អ",
+    "name": "KHMER LETTER QA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6051,
+    "char": "ឣ",
+    "name": "KHMER INDEPENDENT VOWEL QAQ",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6052,
+    "char": "ឤ",
+    "name": "KHMER INDEPENDENT VOWEL QAA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6053,
+    "char": "ឥ",
+    "name": "KHMER INDEPENDENT VOWEL QI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6054,
+    "char": "ឦ",
+    "name": "KHMER INDEPENDENT VOWEL QII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6055,
+    "char": "ឧ",
+    "name": "KHMER INDEPENDENT VOWEL QU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6056,
+    "char": "ឨ",
+    "name": "KHMER INDEPENDENT VOWEL QUK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6057,
+    "char": "ឩ",
+    "name": "KHMER INDEPENDENT VOWEL QUU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6058,
+    "char": "ឪ",
+    "name": "KHMER INDEPENDENT VOWEL QUUV",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6059,
+    "char": "ឫ",
+    "name": "KHMER INDEPENDENT VOWEL RY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6060,
+    "char": "ឬ",
+    "name": "KHMER INDEPENDENT VOWEL RYY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6061,
+    "char": "ឭ",
+    "name": "KHMER INDEPENDENT VOWEL LY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6062,
+    "char": "ឮ",
+    "name": "KHMER INDEPENDENT VOWEL LYY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6063,
+    "char": "ឯ",
+    "name": "KHMER INDEPENDENT VOWEL QE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6064,
+    "char": "ឰ",
+    "name": "KHMER INDEPENDENT VOWEL QAI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6065,
+    "char": "ឱ",
+    "name": "KHMER INDEPENDENT VOWEL QOO TYPE ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6066,
+    "char": "ឲ",
+    "name": "KHMER INDEPENDENT VOWEL QOO TYPE TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6067,
+    "char": "ឳ",
+    "name": "KHMER INDEPENDENT VOWEL QAU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6068,
+    "char": "឴",
+    "name": "KHMER VOWEL INHERENT AQ",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6069,
+    "char": "឵",
+    "name": "KHMER VOWEL INHERENT AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6070,
+    "char": "ា",
+    "name": "KHMER VOWEL SIGN AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6071,
+    "char": "ិ",
+    "name": "KHMER VOWEL SIGN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6072,
+    "char": "ី",
+    "name": "KHMER VOWEL SIGN II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6073,
+    "char": "ឹ",
+    "name": "KHMER VOWEL SIGN Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6074,
+    "char": "ឺ",
+    "name": "KHMER VOWEL SIGN YY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6075,
+    "char": "ុ",
+    "name": "KHMER VOWEL SIGN U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6076,
+    "char": "ូ",
+    "name": "KHMER VOWEL SIGN UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6077,
+    "char": "ួ",
+    "name": "KHMER VOWEL SIGN UA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6078,
+    "char": "ើ",
+    "name": "KHMER VOWEL SIGN OE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6079,
+    "char": "ឿ",
+    "name": "KHMER VOWEL SIGN YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6080,
+    "char": "ៀ",
+    "name": "KHMER VOWEL SIGN IE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6081,
+    "char": "េ",
+    "name": "KHMER VOWEL SIGN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6082,
+    "char": "ែ",
+    "name": "KHMER VOWEL SIGN AE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6083,
+    "char": "ៃ",
+    "name": "KHMER VOWEL SIGN AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6084,
+    "char": "ោ",
+    "name": "KHMER VOWEL SIGN OO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6085,
+    "char": "ៅ",
+    "name": "KHMER VOWEL SIGN AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6086,
+    "char": "ំ",
+    "name": "KHMER SIGN NIKAHIT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6087,
+    "char": "ះ",
+    "name": "KHMER SIGN REAHMUK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6088,
+    "char": "ៈ",
+    "name": "KHMER SIGN YUUKALEAPINTU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6089,
+    "char": "៉",
+    "name": "KHMER SIGN MUUSIKATOAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6090,
+    "char": "៊",
+    "name": "KHMER SIGN TRIISAP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6091,
+    "char": "់",
+    "name": "KHMER SIGN BANTOC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6092,
+    "char": "៌",
+    "name": "KHMER SIGN ROBAT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6093,
+    "char": "៍",
+    "name": "KHMER SIGN TOANDAKHIAT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6094,
+    "char": "៎",
+    "name": "KHMER SIGN KAKABAT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6095,
+    "char": "៏",
+    "name": "KHMER SIGN AHSDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6096,
+    "char": "័",
+    "name": "KHMER SIGN SAMYOK SANNYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6097,
+    "char": "៑",
+    "name": "KHMER SIGN VIRIAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6098,
+    "char": "្",
+    "name": "KHMER SIGN COENG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6099,
+    "char": "៓",
+    "name": "KHMER SIGN BATHAMASAT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6100,
+    "char": "។",
+    "name": "KHMER SIGN KHAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6101,
+    "char": "៕",
+    "name": "KHMER SIGN BARIYOOSAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6102,
+    "char": "៖",
+    "name": "KHMER SIGN CAMNUC PII KUUH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6103,
+    "char": "ៗ",
+    "name": "KHMER SIGN LEK TOO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6104,
+    "char": "៘",
+    "name": "KHMER SIGN BEYYAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6105,
+    "char": "៙",
+    "name": "KHMER SIGN PHNAEK MUAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6106,
+    "char": "៚",
+    "name": "KHMER SIGN KOOMUUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6107,
+    "char": "៛",
+    "name": "KHMER CURRENCY SYMBOL RIEL",
+    "ru": "камбоджийский риель",
+    "en": "Cambodian Riel",
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6108,
+    "char": "ៜ",
+    "name": "KHMER SIGN AVAKRAHASANYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6109,
+    "char": "៝",
+    "name": "KHMER SIGN ATTHACAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6112,
+    "char": "០",
+    "name": "KHMER DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6113,
+    "char": "១",
+    "name": "KHMER DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6114,
+    "char": "២",
+    "name": "KHMER DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6115,
+    "char": "៣",
+    "name": "KHMER DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6116,
+    "char": "៤",
+    "name": "KHMER DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6117,
+    "char": "៥",
+    "name": "KHMER DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6118,
+    "char": "៦",
+    "name": "KHMER DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6119,
+    "char": "៧",
+    "name": "KHMER DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6120,
+    "char": "៨",
+    "name": "KHMER DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6121,
+    "char": "៩",
+    "name": "KHMER DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6128,
+    "char": "៰",
+    "name": "KHMER SYMBOL LEK ATTAK SON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6129,
+    "char": "៱",
+    "name": "KHMER SYMBOL LEK ATTAK MUOY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6130,
+    "char": "៲",
+    "name": "KHMER SYMBOL LEK ATTAK PII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6131,
+    "char": "៳",
+    "name": "KHMER SYMBOL LEK ATTAK BEI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6132,
+    "char": "៴",
+    "name": "KHMER SYMBOL LEK ATTAK BUON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6133,
+    "char": "៵",
+    "name": "KHMER SYMBOL LEK ATTAK PRAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6134,
+    "char": "៶",
+    "name": "KHMER SYMBOL LEK ATTAK PRAM-MUOY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6135,
+    "char": "៷",
+    "name": "KHMER SYMBOL LEK ATTAK PRAM-PII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6136,
+    "char": "៸",
+    "name": "KHMER SYMBOL LEK ATTAK PRAM-BEI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 6137,
+    "char": "៹",
+    "name": "KHMER SYMBOL LEK ATTAK PRAM-BUON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

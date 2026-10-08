@@ -1,0 +1,546 @@
+[
+  {
+    "cp": 68096,
+    "char": "𐨀",
+    "name": "KHAROSHTHI LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68097,
+    "char": "𐨁",
+    "name": "KHAROSHTHI VOWEL SIGN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68098,
+    "char": "𐨂",
+    "name": "KHAROSHTHI VOWEL SIGN U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68099,
+    "char": "𐨃",
+    "name": "KHAROSHTHI VOWEL SIGN VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68101,
+    "char": "𐨅",
+    "name": "KHAROSHTHI VOWEL SIGN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68102,
+    "char": "𐨆",
+    "name": "KHAROSHTHI VOWEL SIGN O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68108,
+    "char": "𐨌",
+    "name": "KHAROSHTHI VOWEL LENGTH MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68109,
+    "char": "𐨍",
+    "name": "KHAROSHTHI SIGN DOUBLE RING BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68110,
+    "char": "𐨎",
+    "name": "KHAROSHTHI SIGN ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68111,
+    "char": "𐨏",
+    "name": "KHAROSHTHI SIGN VISARGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68112,
+    "char": "𐨐",
+    "name": "KHAROSHTHI LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68113,
+    "char": "𐨑",
+    "name": "KHAROSHTHI LETTER KHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68114,
+    "char": "𐨒",
+    "name": "KHAROSHTHI LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68115,
+    "char": "𐨓",
+    "name": "KHAROSHTHI LETTER GHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68117,
+    "char": "𐨕",
+    "name": "KHAROSHTHI LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68118,
+    "char": "𐨖",
+    "name": "KHAROSHTHI LETTER CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68119,
+    "char": "𐨗",
+    "name": "KHAROSHTHI LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68121,
+    "char": "𐨙",
+    "name": "KHAROSHTHI LETTER NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68122,
+    "char": "𐨚",
+    "name": "KHAROSHTHI LETTER TTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68123,
+    "char": "𐨛",
+    "name": "KHAROSHTHI LETTER TTHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68124,
+    "char": "𐨜",
+    "name": "KHAROSHTHI LETTER DDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68125,
+    "char": "𐨝",
+    "name": "KHAROSHTHI LETTER DDHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68126,
+    "char": "𐨞",
+    "name": "KHAROSHTHI LETTER NNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68127,
+    "char": "𐨟",
+    "name": "KHAROSHTHI LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68128,
+    "char": "𐨠",
+    "name": "KHAROSHTHI LETTER THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68129,
+    "char": "𐨡",
+    "name": "KHAROSHTHI LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68130,
+    "char": "𐨢",
+    "name": "KHAROSHTHI LETTER DHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68131,
+    "char": "𐨣",
+    "name": "KHAROSHTHI LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68132,
+    "char": "𐨤",
+    "name": "KHAROSHTHI LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68133,
+    "char": "𐨥",
+    "name": "KHAROSHTHI LETTER PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68134,
+    "char": "𐨦",
+    "name": "KHAROSHTHI LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68135,
+    "char": "𐨧",
+    "name": "KHAROSHTHI LETTER BHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68136,
+    "char": "𐨨",
+    "name": "KHAROSHTHI LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68137,
+    "char": "𐨩",
+    "name": "KHAROSHTHI LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68138,
+    "char": "𐨪",
+    "name": "KHAROSHTHI LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68139,
+    "char": "𐨫",
+    "name": "KHAROSHTHI LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68140,
+    "char": "𐨬",
+    "name": "KHAROSHTHI LETTER VA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68141,
+    "char": "𐨭",
+    "name": "KHAROSHTHI LETTER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68142,
+    "char": "𐨮",
+    "name": "KHAROSHTHI LETTER SSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68143,
+    "char": "𐨯",
+    "name": "KHAROSHTHI LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68144,
+    "char": "𐨰",
+    "name": "KHAROSHTHI LETTER ZA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68145,
+    "char": "𐨱",
+    "name": "KHAROSHTHI LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68146,
+    "char": "𐨲",
+    "name": "KHAROSHTHI LETTER KKA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68147,
+    "char": "𐨳",
+    "name": "KHAROSHTHI LETTER TTTHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68148,
+    "char": "𐨴",
+    "name": "KHAROSHTHI LETTER TTTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68149,
+    "char": "𐨵",
+    "name": "KHAROSHTHI LETTER VHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68152,
+    "char": "𐨸",
+    "name": "KHAROSHTHI SIGN BAR ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68153,
+    "char": "𐨹",
+    "name": "KHAROSHTHI SIGN CAUDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68154,
+    "char": "𐨺",
+    "name": "KHAROSHTHI SIGN DOT BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68159,
+    "char": "𐨿",
+    "name": "KHAROSHTHI VIRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68160,
+    "char": "𐩀",
+    "name": "KHAROSHTHI DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68161,
+    "char": "𐩁",
+    "name": "KHAROSHTHI DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68162,
+    "char": "𐩂",
+    "name": "KHAROSHTHI DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68163,
+    "char": "𐩃",
+    "name": "KHAROSHTHI DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68164,
+    "char": "𐩄",
+    "name": "KHAROSHTHI NUMBER TEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68165,
+    "char": "𐩅",
+    "name": "KHAROSHTHI NUMBER TWENTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68166,
+    "char": "𐩆",
+    "name": "KHAROSHTHI NUMBER ONE HUNDRED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68167,
+    "char": "𐩇",
+    "name": "KHAROSHTHI NUMBER ONE THOUSAND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68168,
+    "char": "𐩈",
+    "name": "KHAROSHTHI FRACTION ONE HALF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68176,
+    "char": "𐩐",
+    "name": "KHAROSHTHI PUNCTUATION DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68177,
+    "char": "𐩑",
+    "name": "KHAROSHTHI PUNCTUATION SMALL CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68178,
+    "char": "𐩒",
+    "name": "KHAROSHTHI PUNCTUATION CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68179,
+    "char": "𐩓",
+    "name": "KHAROSHTHI PUNCTUATION CRESCENT BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68180,
+    "char": "𐩔",
+    "name": "KHAROSHTHI PUNCTUATION MANGALAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68181,
+    "char": "𐩕",
+    "name": "KHAROSHTHI PUNCTUATION LOTUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68182,
+    "char": "𐩖",
+    "name": "KHAROSHTHI PUNCTUATION DANDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68183,
+    "char": "𐩗",
+    "name": "KHAROSHTHI PUNCTUATION DOUBLE DANDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 68184,
+    "char": "𐩘",
+    "name": "KHAROSHTHI PUNCTUATION LINES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

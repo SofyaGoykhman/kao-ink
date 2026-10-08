@@ -1,0 +1,2284 @@
+[
+  {
+    "cp": 8704,
+    "char": "∀",
+    "name": "FOR ALL",
+    "ru": "для всех",
+    "en": "for all",
+    "keywords": {
+      "ru": ["данность", "для всех", "любое", "универсально"],
+      "en": ["all", "any", "for", "given", "universal"]
+    }
+  },
+  {
+    "cp": 8705,
+    "char": "∁",
+    "name": "COMPLEMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8706,
+    "char": "∂",
+    "name": "PARTIAL DIFFERENTIAL",
+    "ru": "частичный дифференциал",
+    "en": "partial differential",
+    "keywords": {
+      "ru": ["дифференциал", "частичный дифференциал"],
+      "en": ["differential", "partial"]
+    }
+  },
+  {
+    "cp": 8707,
+    "char": "∃",
+    "name": "THERE EXISTS",
+    "ru": "существует",
+    "en": "there exists",
+    "keywords": { "ru": ["существует"], "en": ["exists", "there"] }
+  },
+  {
+    "cp": 8708,
+    "char": "∄",
+    "name": "THERE DOES NOT EXIST",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8709,
+    "char": "∅",
+    "name": "EMPTY SET",
+    "ru": "пустое множество",
+    "en": "empty set",
+    "keywords": {
+      "ru": ["математика", "оператор над множеством", "пустое множество"],
+      "en": ["empty", "mathematics", "operator", "set"]
+    }
+  },
+  {
+    "cp": 8710,
+    "char": "∆",
+    "name": "INCREMENT",
+    "ru": "инкремент",
+    "en": "increment",
+    "keywords": { "ru": ["инкремент", "треугольник"], "en": ["increment", "triangle"] }
+  },
+  {
+    "cp": 8711,
+    "char": "∇",
+    "name": "NABLA",
+    "ru": "набла",
+    "en": "nabla",
+    "keywords": { "ru": ["набла", "треугольник"], "en": ["nabla", "triangle"] }
+  },
+  {
+    "cp": 8712,
+    "char": "∈",
+    "name": "ELEMENT OF",
+    "ru": "принадлежность множеству",
+    "en": "element of",
+    "keywords": {
+      "ru": [
+        "множество",
+        "принадлежность",
+        "принадлежность множеству",
+        "содержит",
+        "состоит в",
+        "элемент"
+      ],
+      "en": ["contains", "element", "membership", "of", "set"]
+    }
+  },
+  {
+    "cp": 8713,
+    "char": "∉",
+    "name": "NOT AN ELEMENT OF",
+    "ru": "не принадлежит",
+    "en": "not an element",
+    "keywords": { "ru": ["не принадлежит"], "en": ["an", "element", "not"] }
+  },
+  {
+    "cp": 8714,
+    "char": "∊",
+    "name": "SMALL ELEMENT OF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8715,
+    "char": "∋",
+    "name": "CONTAINS AS MEMBER",
+    "ru": "содержит в качестве члена",
+    "en": "contains as member",
+    "keywords": {
+      "ru": ["содержит в качестве члена"],
+      "en": ["as", "contains", "element", "member"]
+    }
+  },
+  {
+    "cp": 8716,
+    "char": "∌",
+    "name": "DOES NOT CONTAIN AS MEMBER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8717,
+    "char": "∍",
+    "name": "SMALL CONTAINS AS MEMBER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8718,
+    "char": "∎",
+    "name": "END OF PROOF",
+    "ru": "конец доказательства",
+    "en": "end proof",
+    "keywords": {
+      "ru": ["конец доказательства", "надгробие", "ч. т. д.", "что и требовалось доказать"],
+      "en": ["end", "halmos", "proof", "q.e.d.", "qed", "tombstone"]
+    }
+  },
+  {
+    "cp": 8719,
+    "char": "∏",
+    "name": "N-ARY PRODUCT",
+    "ru": "произведение",
+    "en": "n-ary product",
+    "keywords": {
+      "ru": ["n-арное произведение", "логика", "произведение"],
+      "en": ["logic", "n-ary", "product"]
+    }
+  },
+  {
+    "cp": 8720,
+    "char": "∐",
+    "name": "N-ARY COPRODUCT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8721,
+    "char": "∑",
+    "name": "N-ARY SUMMATION",
+    "ru": "сумма",
+    "en": "n-ary summation",
+    "keywords": {
+      "ru": ["n-арное суммирование", "сумма", "суммирование"],
+      "en": ["mathematics", "n-ary", "summation"]
+    }
+  },
+  {
+    "cp": 8722,
+    "char": "−",
+    "name": "MINUS SIGN",
+    "ru": "минус",
+    "en": "minus sign",
+    "keywords": {
+      "ru": ["вычитание", "знак минуса", "минус", "уменьшение"],
+      "en": ["minus", "sign", "subtract"]
+    }
+  },
+  {
+    "cp": 8723,
+    "char": "∓",
+    "name": "MINUS-OR-PLUS SIGN",
+    "ru": "знак минус-плюс",
+    "en": "minus-or-plus",
+    "keywords": { "ru": ["знак минус-плюс"], "en": ["minus-or-plus", "plus-minus"] }
+  },
+  {
+    "cp": 8724,
+    "char": "∔",
+    "name": "DOT PLUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8725,
+    "char": "∕",
+    "name": "DIVISION SLASH",
+    "ru": "разделительный знак",
+    "en": "division slash",
+    "keywords": { "ru": ["разделительный знак"], "en": ["division", "slash", "stroke", "virgule"] }
+  },
+  {
+    "cp": 8726,
+    "char": "∖",
+    "name": "SET MINUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8727,
+    "char": "∗",
+    "name": "ASTERISK OPERATOR",
+    "ru": "оператор звездочки",
+    "en": "asterisk operator",
+    "keywords": {
+      "ru": ["звездочка", "оператор звездочки"],
+      "en": ["asterisk", "operator", "star"]
+    }
+  },
+  {
+    "cp": 8728,
+    "char": "∘",
+    "name": "RING OPERATOR",
+    "ru": "кольцевой оператор",
+    "en": "ring operator",
+    "keywords": { "ru": ["кольцевой оператор"], "en": ["composition", "operator", "ring"] }
+  },
+  {
+    "cp": 8729,
+    "char": "∙",
+    "name": "BULLET OPERATOR",
+    "ru": "оператор произведения",
+    "en": "bullet operator",
+    "keywords": {
+      "ru": ["буллет-оператор", "оператор", "оператор произведения"],
+      "en": ["bullet", "operator"]
+    }
+  },
+  {
+    "cp": 8730,
+    "char": "√",
+    "name": "SQUARE ROOT",
+    "ru": "квадратный корень",
+    "en": "square root",
+    "keywords": {
+      "ru": ["знак корня", "иррациональное число", "квадратный", "корень", "радикал"],
+      "en": ["radical", "radix", "root", "square", "surd"]
+    }
+  },
+  {
+    "cp": 8731,
+    "char": "∛",
+    "name": "CUBE ROOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8732,
+    "char": "∜",
+    "name": "FOURTH ROOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8733,
+    "char": "∝",
+    "name": "PROPORTIONAL TO",
+    "ru": "пропорционально",
+    "en": "proportional",
+    "keywords": {
+      "ru": ["пропорционально", "пропорциональность"],
+      "en": ["proportional", "proportionality"]
+    }
+  },
+  {
+    "cp": 8734,
+    "char": "∞",
+    "name": "INFINITY",
+    "ru": "знак бесконечности",
+    "en": "infinity sign",
+    "keywords": { "ru": ["бесконечность", "знак бесконечности"], "en": ["infinity", "sign"] }
+  },
+  {
+    "cp": 8735,
+    "char": "∟",
+    "name": "RIGHT ANGLE",
+    "ru": "прямой угол",
+    "en": "right angle",
+    "keywords": {
+      "ru": ["математика", "правый угол", "прямой угол"],
+      "en": ["angle", "mathematics", "right"]
+    }
+  },
+  {
+    "cp": 8736,
+    "char": "∠",
+    "name": "ANGLE",
+    "ru": "острый угол",
+    "en": "angle",
+    "keywords": { "ru": ["острый угол", "угол"], "en": ["acute", "angle"] }
+  },
+  {
+    "cp": 8737,
+    "char": "∡",
+    "name": "MEASURED ANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8738,
+    "char": "∢",
+    "name": "SPHERICAL ANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8739,
+    "char": "∣",
+    "name": "DIVIDES",
+    "ru": "разделяет",
+    "en": "divides",
+    "keywords": {
+      "ru": ["вертикальная", "линия", "разделитель", "разделительная", "черта"],
+      "en": ["divides", "divisor"]
+    }
+  },
+  {
+    "cp": 8740,
+    "char": "∤",
+    "name": "DOES NOT DIVIDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8741,
+    "char": "∥",
+    "name": "PARALLEL TO",
+    "ru": "параллельно",
+    "en": "parallel",
+    "keywords": {
+      "ru": ["знаки", "отношений", "параллельно", "параллельность"],
+      "en": ["parallel"]
+    }
+  },
+  {
+    "cp": 8742,
+    "char": "∦",
+    "name": "NOT PARALLEL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8743,
+    "char": "∧",
+    "name": "LOGICAL AND",
+    "ru": "логическое и",
+    "en": "logical and",
+    "keywords": {
+      "ru": ["конъюнктор", "конъюнкция", "логический оператор «и»", "логическое и"],
+      "en": ["ac", "and", "atque", "logical", "wedge"]
+    }
+  },
+  {
+    "cp": 8744,
+    "char": "∨",
+    "name": "LOGICAL OR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8745,
+    "char": "∩",
+    "name": "INTERSECTION",
+    "ru": "пересечение",
+    "en": "intersection",
+    "keywords": { "ru": ["множество", "пересечение"], "en": ["intersection", "set"] }
+  },
+  {
+    "cp": 8746,
+    "char": "∪",
+    "name": "UNION",
+    "ru": "объединение",
+    "en": "union",
+    "keywords": {
+      "ru": ["множество", "объединение", "совокупность"],
+      "en": ["collection", "set", "union"]
+    }
+  },
+  {
+    "cp": 8747,
+    "char": "∫",
+    "name": "INTEGRAL",
+    "ru": "интеграл",
+    "en": "integral",
+    "keywords": { "ru": ["интеграл", "математический анализ"], "en": ["calculus", "integral"] }
+  },
+  {
+    "cp": 8748,
+    "char": "∬",
+    "name": "DOUBLE INTEGRAL",
+    "ru": "двойной интеграл",
+    "en": "double integral",
+    "keywords": {
+      "ru": ["двойной интеграл", "математический анализ"],
+      "en": ["calculus", "double", "integral"]
+    }
+  },
+  {
+    "cp": 8749,
+    "char": "∭",
+    "name": "TRIPLE INTEGRAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8750,
+    "char": "∮",
+    "name": "CONTOUR INTEGRAL",
+    "ru": "интеграл по замкнутому контуру",
+    "en": "contour integral",
+    "keywords": {
+      "ru": ["интеграл по замкнутому контуру", "интеграл по контуру", "криволинейный интеграл"],
+      "en": ["contour", "integral"]
+    }
+  },
+  {
+    "cp": 8751,
+    "char": "∯",
+    "name": "SURFACE INTEGRAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8752,
+    "char": "∰",
+    "name": "VOLUME INTEGRAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8753,
+    "char": "∱",
+    "name": "CLOCKWISE INTEGRAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8754,
+    "char": "∲",
+    "name": "CLOCKWISE CONTOUR INTEGRAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8755,
+    "char": "∳",
+    "name": "ANTICLOCKWISE CONTOUR INTEGRAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8756,
+    "char": "∴",
+    "name": "THEREFORE",
+    "ru": "следовательно",
+    "en": "therefore",
+    "keywords": { "ru": ["логический оператор", "следовательно"], "en": ["logic", "therefore"] }
+  },
+  {
+    "cp": 8757,
+    "char": "∵",
+    "name": "BECAUSE",
+    "ru": "поскольку",
+    "en": "because",
+    "keywords": {
+      "ru": ["логический оператор", "поскольку", "потому что", "так как"],
+      "en": ["because", "logic"]
+    }
+  },
+  {
+    "cp": 8758,
+    "char": "∶",
+    "name": "RATIO",
+    "ru": "соотношение",
+    "en": "ratio",
+    "keywords": { "ru": ["отношение", "соотношение"], "en": ["ratio"] }
+  },
+  {
+    "cp": 8759,
+    "char": "∷",
+    "name": "PROPORTION",
+    "ru": "пропорция",
+    "en": "proportion",
+    "keywords": {
+      "ru": ["пропорциональность", "пропорция"],
+      "en": ["proportion", "proportionality"]
+    }
+  },
+  {
+    "cp": 8760,
+    "char": "∸",
+    "name": "DOT MINUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8761,
+    "char": "∹",
+    "name": "EXCESS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8762,
+    "char": "∺",
+    "name": "GEOMETRIC PROPORTION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8763,
+    "char": "∻",
+    "name": "HOMOTHETIC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8764,
+    "char": "∼",
+    "name": "TILDE OPERATOR",
+    "ru": "оператор тильды",
+    "en": "tilde operator",
+    "keywords": { "ru": ["оператор", "оператор тильды", "тильда"], "en": ["operator", "tilde"] }
+  },
+  {
+    "cp": 8765,
+    "char": "∽",
+    "name": "REVERSED TILDE",
+    "ru": "обратная тильда",
+    "en": "reversed tilde",
+    "keywords": { "ru": ["обратная тильда", "тильда"], "en": ["reversed", "tilde"] }
+  },
+  {
+    "cp": 8766,
+    "char": "∾",
+    "name": "INVERTED LAZY S",
+    "ru": "инвертированная плавная S",
+    "en": "inverted lazy s",
+    "keywords": { "ru": ["инвертированная плавная S"], "en": ["inverted", "lazy", "s"] }
+  },
+  {
+    "cp": 8767,
+    "char": "∿",
+    "name": "SINE WAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8768,
+    "char": "≀",
+    "name": "WREATH PRODUCT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8769,
+    "char": "≁",
+    "name": "NOT TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8770,
+    "char": "≂",
+    "name": "MINUS TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8771,
+    "char": "≃",
+    "name": "ASYMPTOTICALLY EQUAL TO",
+    "ru": "асимптотически равно",
+    "en": "asymptotically equal",
+    "keywords": {
+      "ru": ["асимптотически равно", "асимптотическое равенство", "математика"],
+      "en": ["asymptote", "asymptotically", "equal", "mathematics"]
+    }
+  },
+  {
+    "cp": 8772,
+    "char": "≄",
+    "name": "NOT ASYMPTOTICALLY EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8773,
+    "char": "≅",
+    "name": "APPROXIMATELY EQUAL TO",
+    "ru": "конгруэнтность",
+    "en": "approximately equal",
+    "keywords": {
+      "ru": ["изоморфизм", "конгруэнтность", "приблизительно равно", "примерно равно", "равенство"],
+      "en": ["approximately", "congruence", "equal", "equality", "isomorphism", "mathematics"]
+    }
+  },
+  {
+    "cp": 8774,
+    "char": "≆",
+    "name": "APPROXIMATELY BUT NOT ACTUALLY EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8775,
+    "char": "≇",
+    "name": "NEITHER APPROXIMATELY NOR ACTUALLY EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8776,
+    "char": "≈",
+    "name": "ALMOST EQUAL TO",
+    "ru": "приблизительно равно",
+    "en": "almost equal",
+    "keywords": {
+      "ru": [
+        "около",
+        "почти равно",
+        "приближение",
+        "приблизительно равно",
+        "примерно",
+        "примерно равно"
+      ],
+      "en": ["almost", "approximate", "approximation", "equal"]
+    }
+  },
+  {
+    "cp": 8777,
+    "char": "≉",
+    "name": "NOT ALMOST EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8778,
+    "char": "≊",
+    "name": "ALMOST EQUAL OR EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8779,
+    "char": "≋",
+    "name": "TRIPLE TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8780,
+    "char": "≌",
+    "name": "ALL EQUAL TO",
+    "ru": "все равны",
+    "en": "all equal",
+    "keywords": {
+      "ru": ["все равны", "математика", "равенство"],
+      "en": ["all", "equal", "equality", "mathematics"]
+    }
+  },
+  {
+    "cp": 8781,
+    "char": "≍",
+    "name": "EQUIVALENT TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8782,
+    "char": "≎",
+    "name": "GEOMETRICALLY EQUIVALENT TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8783,
+    "char": "≏",
+    "name": "DIFFERENCE BETWEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8784,
+    "char": "≐",
+    "name": "APPROACHES THE LIMIT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8785,
+    "char": "≑",
+    "name": "GEOMETRICALLY EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8786,
+    "char": "≒",
+    "name": "APPROXIMATELY EQUAL TO OR THE IMAGE OF",
+    "ru": "приблизительное равенство",
+    "en": "approximately equal the image",
+    "keywords": {
+      "ru": ["знак приблизительного равенства", "приблизительное равенство"],
+      "en": ["approximately", "equal", "image", "the"]
+    }
+  },
+  {
+    "cp": 8787,
+    "char": "≓",
+    "name": "IMAGE OF OR APPROXIMATELY EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8788,
+    "char": "≔",
+    "name": "COLON EQUALS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8789,
+    "char": "≕",
+    "name": "EQUALS COLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8790,
+    "char": "≖",
+    "name": "RING IN EQUAL TO",
+    "ru": "кольцо в равно",
+    "en": "ring in equal",
+    "keywords": {
+      "ru": ["кольцо в равно", "математика", "равенство"],
+      "en": ["equal", "equality", "in", "mathematics", "ring"]
+    }
+  },
+  {
+    "cp": 8791,
+    "char": "≗",
+    "name": "RING EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8792,
+    "char": "≘",
+    "name": "CORRESPONDS TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8793,
+    "char": "≙",
+    "name": "ESTIMATES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8794,
+    "char": "≚",
+    "name": "EQUIANGULAR TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8795,
+    "char": "≛",
+    "name": "STAR EQUALS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8796,
+    "char": "≜",
+    "name": "DELTA EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8797,
+    "char": "≝",
+    "name": "EQUAL TO BY DEFINITION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8798,
+    "char": "≞",
+    "name": "MEASURED BY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8799,
+    "char": "≟",
+    "name": "QUESTIONED EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8800,
+    "char": "≠",
+    "name": "NOT EQUAL TO",
+    "ru": "не равно",
+    "en": "not equal",
+    "keywords": {
+      "ru": ["знак неравенства", "не равно", "не равняется", "неравенство"],
+      "en": ["equal", "inequality", "inequation", "not"]
+    }
+  },
+  {
+    "cp": 8801,
+    "char": "≡",
+    "name": "IDENTICAL TO",
+    "ru": "тождество",
+    "en": "identical to",
+    "keywords": {
+      "ru": ["идентичный", "равный", "тождественное равенство", "тождество", "тройной"],
+      "en": ["exact", "identical", "to", "triple"]
+    }
+  },
+  {
+    "cp": 8802,
+    "char": "≢",
+    "name": "NOT IDENTICAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8803,
+    "char": "≣",
+    "name": "STRICTLY EQUIVALENT TO",
+    "ru": "строго эквивалентно",
+    "en": "strictly equivalent",
+    "keywords": {
+      "ru": ["математика", "равенство", "строго эквивалентно"],
+      "en": ["equality", "equivalent", "mathematics", "strictly"]
+    }
+  },
+  {
+    "cp": 8804,
+    "char": "≤",
+    "name": "LESS-THAN OR EQUAL TO",
+    "ru": "меньше или равно",
+    "en": "less-than or equal",
+    "keywords": {
+      "ru": ["меньше или равно", "не более", "не более чем", "неравенство"],
+      "en": ["equal", "equals", "inequality", "less-than", "or"]
+    }
+  },
+  {
+    "cp": 8805,
+    "char": "≥",
+    "name": "GREATER-THAN OR EQUAL TO",
+    "ru": "больше или равно",
+    "en": "greater-than or equal",
+    "keywords": {
+      "ru": ["больше или равно", "не менее", "не менее чем", "неравенство"],
+      "en": ["equal", "equals", "greater-than", "inequality", "or"]
+    }
+  },
+  {
+    "cp": 8806,
+    "char": "≦",
+    "name": "LESS-THAN OVER EQUAL TO",
+    "ru": "меньше над равно",
+    "en": "less-than over equal",
+    "keywords": {
+      "ru": ["математика", "меньше над равно", "неравенство"],
+      "en": ["equal", "inequality", "less-than", "mathematics", "over"]
+    }
+  },
+  {
+    "cp": 8807,
+    "char": "≧",
+    "name": "GREATER-THAN OVER EQUAL TO",
+    "ru": "больше над равно",
+    "en": "greater-than over equal",
+    "keywords": {
+      "ru": ["больше над равно", "математика", "неравенство"],
+      "en": ["equal", "greater-than", "inequality", "mathematics", "over"]
+    }
+  },
+  {
+    "cp": 8808,
+    "char": "≨",
+    "name": "LESS-THAN BUT NOT EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8809,
+    "char": "≩",
+    "name": "GREATER-THAN BUT NOT EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8810,
+    "char": "≪",
+    "name": "MUCH LESS-THAN",
+    "ru": "намного меньше",
+    "en": "much less-than",
+    "keywords": {
+      "ru": ["математика", "намного меньше", "неравенство"],
+      "en": ["inequality", "less-than", "mathematics", "much"]
+    }
+  },
+  {
+    "cp": 8811,
+    "char": "≫",
+    "name": "MUCH GREATER-THAN",
+    "ru": "намного больше",
+    "en": "much greater-than",
+    "keywords": {
+      "ru": ["математика", "намного больше", "неравенство"],
+      "en": ["greater-than", "inequality", "mathematics", "much"]
+    }
+  },
+  {
+    "cp": 8812,
+    "char": "≬",
+    "name": "BETWEEN",
+    "ru": "между",
+    "en": "between",
+    "keywords": { "ru": ["между"], "en": ["between"] }
+  },
+  {
+    "cp": 8813,
+    "char": "≭",
+    "name": "NOT EQUIVALENT TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8814,
+    "char": "≮",
+    "name": "NOT LESS-THAN",
+    "ru": "не меньше чем",
+    "en": "not less-than",
+    "keywords": { "ru": ["не меньше чем"], "en": ["inequality", "less-than", "mathematics", "not"] }
+  },
+  {
+    "cp": 8815,
+    "char": "≯",
+    "name": "NOT GREATER-THAN",
+    "ru": "не больше чем",
+    "en": "not greater-than",
+    "keywords": {
+      "ru": ["не больше чем"],
+      "en": ["greater-than", "inequality", "mathematics", "not"]
+    }
+  },
+  {
+    "cp": 8816,
+    "char": "≰",
+    "name": "NEITHER LESS-THAN NOR EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8817,
+    "char": "≱",
+    "name": "NEITHER GREATER-THAN NOR EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8818,
+    "char": "≲",
+    "name": "LESS-THAN OR EQUIVALENT TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8819,
+    "char": "≳",
+    "name": "GREATER-THAN OR EQUIVALENT TO",
+    "ru": "больше или эквивалентно",
+    "en": "greater-than equivalent",
+    "keywords": {
+      "ru": ["больше или эквивалентно", "больше либо эквивалентно", "математика", "неравенство"],
+      "en": ["equivalent", "greater-than", "inequality", "mathematics"]
+    }
+  },
+  {
+    "cp": 8820,
+    "char": "≴",
+    "name": "NEITHER LESS-THAN NOR EQUIVALENT TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8821,
+    "char": "≵",
+    "name": "NEITHER GREATER-THAN NOR EQUIVALENT TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8822,
+    "char": "≶",
+    "name": "LESS-THAN OR GREATER-THAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8823,
+    "char": "≷",
+    "name": "GREATER-THAN OR LESS-THAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8824,
+    "char": "≸",
+    "name": "NEITHER LESS-THAN NOR GREATER-THAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8825,
+    "char": "≹",
+    "name": "NEITHER GREATER-THAN NOR LESS-THAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8826,
+    "char": "≺",
+    "name": "PRECEDES",
+    "ru": "предшествует",
+    "en": "precedes",
+    "keywords": {
+      "ru": ["математика", "оператор над множеством", "предшествует"],
+      "en": ["mathematics", "operator", "precedes", "set"]
+    }
+  },
+  {
+    "cp": 8827,
+    "char": "≻",
+    "name": "SUCCEEDS",
+    "ru": "следует",
+    "en": "succeeds",
+    "keywords": {
+      "ru": ["математика", "оператор над множеством", "следует"],
+      "en": ["mathematics", "operator", "set", "succeeds"]
+    }
+  },
+  {
+    "cp": 8828,
+    "char": "≼",
+    "name": "PRECEDES OR EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8829,
+    "char": "≽",
+    "name": "SUCCEEDS OR EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8830,
+    "char": "≾",
+    "name": "PRECEDES OR EQUIVALENT TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8831,
+    "char": "≿",
+    "name": "SUCCEEDS OR EQUIVALENT TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8832,
+    "char": "⊀",
+    "name": "DOES NOT PRECEDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8833,
+    "char": "⊁",
+    "name": "DOES NOT SUCCEED",
+    "ru": "не следует",
+    "en": "does not succeed",
+    "keywords": {
+      "ru": ["математика", "не следует", "оператор над множеством"],
+      "en": ["does", "mathematics", "not", "operator", "set", "succeed"]
+    }
+  },
+  {
+    "cp": 8834,
+    "char": "⊂",
+    "name": "SUBSET OF",
+    "ru": "подмножество",
+    "en": "subset of",
+    "keywords": { "ru": ["включено в", "множество", "подмножество"], "en": ["of", "set", "subset"] }
+  },
+  {
+    "cp": 8835,
+    "char": "⊃",
+    "name": "SUPERSET OF",
+    "ru": "надмножество",
+    "en": "superset",
+    "keywords": {
+      "ru": ["математика", "надмножество", "оператор над множеством", "супермножество"],
+      "en": ["mathematics", "operator", "set", "superset"]
+    }
+  },
+  {
+    "cp": 8836,
+    "char": "⊄",
+    "name": "NOT A SUBSET OF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8837,
+    "char": "⊅",
+    "name": "NOT A SUPERSET OF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8838,
+    "char": "⊆",
+    "name": "SUBSET OF OR EQUAL TO",
+    "ru": "подмножество равно",
+    "en": "subset equal",
+    "keywords": { "ru": ["подмножество равно"], "en": ["equal", "subset"] }
+  },
+  {
+    "cp": 8839,
+    "char": "⊇",
+    "name": "SUPERSET OF OR EQUAL TO",
+    "ru": "надмножество равно",
+    "en": "superset equal",
+    "keywords": {
+      "ru": ["математика", "надмножество равно", "равенство"],
+      "en": ["equal", "equality", "mathematics", "superset"]
+    }
+  },
+  {
+    "cp": 8840,
+    "char": "⊈",
+    "name": "NEITHER A SUBSET OF NOR EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8841,
+    "char": "⊉",
+    "name": "NEITHER A SUPERSET OF NOR EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8842,
+    "char": "⊊",
+    "name": "SUBSET OF WITH NOT EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8843,
+    "char": "⊋",
+    "name": "SUPERSET OF WITH NOT EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8844,
+    "char": "⊌",
+    "name": "MULTISET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8845,
+    "char": "⊍",
+    "name": "MULTISET MULTIPLICATION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8846,
+    "char": "⊎",
+    "name": "MULTISET UNION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8847,
+    "char": "⊏",
+    "name": "SQUARE IMAGE OF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8848,
+    "char": "⊐",
+    "name": "SQUARE ORIGINAL OF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8849,
+    "char": "⊑",
+    "name": "SQUARE IMAGE OF OR EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8850,
+    "char": "⊒",
+    "name": "SQUARE ORIGINAL OF OR EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8851,
+    "char": "⊓",
+    "name": "SQUARE CAP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8852,
+    "char": "⊔",
+    "name": "SQUARE CUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8853,
+    "char": "⊕",
+    "name": "CIRCLED PLUS",
+    "ru": "плюс в круге",
+    "en": "circled plus",
+    "keywords": { "ru": ["знак плюса в круге", "плюс в круге"], "en": ["circled", "plus"] }
+  },
+  {
+    "cp": 8854,
+    "char": "⊖",
+    "name": "CIRCLED MINUS",
+    "ru": "минус в круге",
+    "en": "circled minus",
+    "keywords": {
+      "ru": ["минус в круге", "симметрическая разность"],
+      "en": ["circled", "difference", "erosion", "minus", "symmetric"]
+    }
+  },
+  {
+    "cp": 8855,
+    "char": "⊗",
+    "name": "CIRCLED TIMES",
+    "ru": "знак умножения в круге",
+    "en": "circled times",
+    "keywords": {
+      "ru": ["знак умножения в круге", "произведение", "тензор"],
+      "en": ["circled", "product", "tensor", "times"]
+    }
+  },
+  {
+    "cp": 8856,
+    "char": "⊘",
+    "name": "CIRCLED DIVISION SLASH",
+    "ru": "дробная черта в круге",
+    "en": "circled division slash",
+    "keywords": {
+      "ru": ["дробная черта в круге", "математика"],
+      "en": ["circled", "division", "division-like", "mathematics", "slash"]
+    }
+  },
+  {
+    "cp": 8857,
+    "char": "⊙",
+    "name": "CIRCLED DOT OPERATOR",
+    "ru": "оператор точки в круге",
+    "en": "circled dot operator",
+    "keywords": {
+      "ru": ["оператор", "оператор точки в круге"],
+      "en": ["circled", "dot", "operator", "XNOR"]
+    }
+  },
+  {
+    "cp": 8858,
+    "char": "⊚",
+    "name": "CIRCLED RING OPERATOR",
+    "ru": "кольцевой оператор в круге",
+    "en": "circled ring operator",
+    "keywords": { "ru": ["кольцевой оператор в круге"], "en": ["circled", "operator", "ring"] }
+  },
+  {
+    "cp": 8859,
+    "char": "⊛",
+    "name": "CIRCLED ASTERISK OPERATOR",
+    "ru": "оператор звездочки в круге",
+    "en": "circled asterisk operator",
+    "keywords": {
+      "ru": ["оператор", "оператор звездочки в круге"],
+      "en": ["asterisk", "circled", "operator"]
+    }
+  },
+  {
+    "cp": 8860,
+    "char": "⊜",
+    "name": "CIRCLED EQUALS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8861,
+    "char": "⊝",
+    "name": "CIRCLED DASH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8862,
+    "char": "⊞",
+    "name": "SQUARED PLUS",
+    "ru": "плюс в квадрате",
+    "en": "squared plus",
+    "keywords": {
+      "ru": ["знак плюса", "квадрат", "математика", "плюс в квадрате", "сложение"],
+      "en": ["addition-like", "mathematics", "plus", "squared"]
+    }
+  },
+  {
+    "cp": 8863,
+    "char": "⊟",
+    "name": "SQUARED MINUS",
+    "ru": "минус в квадрате",
+    "en": "squared minus",
+    "keywords": {
+      "ru": ["вычитание", "знак минуса", "математика", "минус", "минус в квадрате"],
+      "en": ["mathematics", "minus", "squared", "subtraction-like"]
+    }
+  },
+  {
+    "cp": 8864,
+    "char": "⊠",
+    "name": "SQUARED TIMES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8865,
+    "char": "⊡",
+    "name": "SQUARED DOT OPERATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8866,
+    "char": "⊢",
+    "name": "RIGHT TACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8867,
+    "char": "⊣",
+    "name": "LEFT TACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8868,
+    "char": "⊤",
+    "name": "DOWN TACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8869,
+    "char": "⊥",
+    "name": "UP TACK",
+    "ru": "вертикальный шип",
+    "en": "up tack",
+    "keywords": {
+      "ru": ["вертикальный шип", "фальсум", "шип"],
+      "en": ["eet", "falsum", "tack", "up"]
+    }
+  },
+  {
+    "cp": 8870,
+    "char": "⊦",
+    "name": "ASSERTION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8871,
+    "char": "⊧",
+    "name": "MODELS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8872,
+    "char": "⊨",
+    "name": "TRUE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8873,
+    "char": "⊩",
+    "name": "FORCES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8874,
+    "char": "⊪",
+    "name": "TRIPLE VERTICAL BAR RIGHT TURNSTILE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8875,
+    "char": "⊫",
+    "name": "DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8876,
+    "char": "⊬",
+    "name": "DOES NOT PROVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8877,
+    "char": "⊭",
+    "name": "NOT TRUE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8878,
+    "char": "⊮",
+    "name": "DOES NOT FORCE",
+    "ru": "не влечет",
+    "en": "does not force",
+    "keywords": { "ru": ["не влечет"], "en": ["does", "force", "not"] }
+  },
+  {
+    "cp": 8879,
+    "char": "⊯",
+    "name": "NEGATED DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8880,
+    "char": "⊰",
+    "name": "PRECEDES UNDER RELATION",
+    "ru": "предшествует относительно",
+    "en": "precedes under relation",
+    "keywords": {
+      "ru": ["математика", "оператор над множеством", "предшествует", "предшествует относительно"],
+      "en": ["mathematics", "operator", "precedes", "relation", "set", "under"]
+    }
+  },
+  {
+    "cp": 8881,
+    "char": "⊱",
+    "name": "SUCCEEDS UNDER RELATION",
+    "ru": "следует относительно",
+    "en": "succeeds under relation",
+    "keywords": {
+      "ru": ["математика", "оператор над множеством", "следует", "следует относительно"],
+      "en": ["mathematics", "operator", "relation", "set", "succeeds", "under"]
+    }
+  },
+  {
+    "cp": 8882,
+    "char": "⊲",
+    "name": "NORMAL SUBGROUP OF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8883,
+    "char": "⊳",
+    "name": "CONTAINS AS NORMAL SUBGROUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8884,
+    "char": "⊴",
+    "name": "NORMAL SUBGROUP OF OR EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8885,
+    "char": "⊵",
+    "name": "CONTAINS AS NORMAL SUBGROUP OR EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8886,
+    "char": "⊶",
+    "name": "ORIGINAL OF",
+    "ru": "прообраз",
+    "en": "original",
+    "keywords": { "ru": ["прообраз"], "en": ["original"] }
+  },
+  {
+    "cp": 8887,
+    "char": "⊷",
+    "name": "IMAGE OF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8888,
+    "char": "⊸",
+    "name": "MULTIMAP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8889,
+    "char": "⊹",
+    "name": "HERMITIAN CONJUGATE MATRIX",
+    "ru": "эрмитова сопряженная матрица",
+    "en": "hermitian conjugate matrix",
+    "keywords": {
+      "ru": [
+        "квадратная матрица",
+        "математика",
+        "самосопряженная матрица",
+        "эрмитова сопряженная матрица"
+      ],
+      "en": ["conjugate", "hermitian", "mathematics", "matrix", "self-adjoint", "square"]
+    }
+  },
+  {
+    "cp": 8890,
+    "char": "⊺",
+    "name": "INTERCALATE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8891,
+    "char": "⊻",
+    "name": "XOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8892,
+    "char": "⊼",
+    "name": "NAND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8893,
+    "char": "⊽",
+    "name": "NOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8894,
+    "char": "⊾",
+    "name": "RIGHT ANGLE WITH ARC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8895,
+    "char": "⊿",
+    "name": "RIGHT TRIANGLE",
+    "ru": "прямоугольный треугольник",
+    "en": "right triangle",
+    "keywords": {
+      "ru": ["математика", "прямоугольный", "треугольник"],
+      "en": ["mathematics", "right", "right-angled", "triangle"]
+    }
+  },
+  {
+    "cp": 8896,
+    "char": "⋀",
+    "name": "N-ARY LOGICAL AND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8897,
+    "char": "⋁",
+    "name": "N-ARY LOGICAL OR",
+    "ru": "n-арное логическое или",
+    "en": "n-ary logical or",
+    "keywords": {
+      "ru": ["n-арное логическое или", "дизъюнкция", "логика"],
+      "en": ["disjunction", "logic", "logical", "n-ary", "or"]
+    }
+  },
+  {
+    "cp": 8898,
+    "char": "⋂",
+    "name": "N-ARY INTERSECTION",
+    "ru": "n-арное пересечение",
+    "en": "n-ary intersection",
+    "keywords": {
+      "ru": ["n-арное пересечение", "математика", "оператор над множеством", "пересечение"],
+      "en": ["intersection", "mathematics", "n-ary", "operator", "set"]
+    }
+  },
+  {
+    "cp": 8899,
+    "char": "⋃",
+    "name": "N-ARY UNION",
+    "ru": "n-арное объединение",
+    "en": "n-ary union",
+    "keywords": {
+      "ru": ["n-арное объединение", "математика", "объединение", "оператор над множеством"],
+      "en": ["mathematics", "n-ary", "operator", "set", "union"]
+    }
+  },
+  {
+    "cp": 8900,
+    "char": "⋄",
+    "name": "DIAMOND OPERATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8901,
+    "char": "⋅",
+    "name": "DOT OPERATOR",
+    "ru": "оператор точки",
+    "en": "dot operator",
+    "keywords": { "ru": ["оператор", "оператор точки"], "en": ["dot", "operator"] }
+  },
+  {
+    "cp": 8902,
+    "char": "⋆",
+    "name": "STAR OPERATOR",
+    "ru": "оператор звезды",
+    "en": "star operator",
+    "keywords": { "ru": ["оператор", "оператор звезды"], "en": ["operator", "star"] }
+  },
+  {
+    "cp": 8903,
+    "char": "⋇",
+    "name": "DIVISION TIMES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8904,
+    "char": "⋈",
+    "name": "BOWTIE",
+    "ru": "естественное соединение",
+    "en": "natural join",
+    "keywords": {
+      "ru": ["бабочка", "бинарный оператор", "галстук-бабочка", "естественное соединение"],
+      "en": ["binary", "bowtie", "join", "natural", "operator"]
+    }
+  },
+  {
+    "cp": 8905,
+    "char": "⋉",
+    "name": "LEFT NORMAL FACTOR SEMIDIRECT PRODUCT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8906,
+    "char": "⋊",
+    "name": "RIGHT NORMAL FACTOR SEMIDIRECT PRODUCT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8907,
+    "char": "⋋",
+    "name": "LEFT SEMIDIRECT PRODUCT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8908,
+    "char": "⋌",
+    "name": "RIGHT SEMIDIRECT PRODUCT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8909,
+    "char": "⋍",
+    "name": "REVERSED TILDE EQUALS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8910,
+    "char": "⋎",
+    "name": "CURLY LOGICAL OR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8911,
+    "char": "⋏",
+    "name": "CURLY LOGICAL AND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8912,
+    "char": "⋐",
+    "name": "DOUBLE SUBSET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8913,
+    "char": "⋑",
+    "name": "DOUBLE SUPERSET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8914,
+    "char": "⋒",
+    "name": "DOUBLE INTERSECTION",
+    "ru": "двойное пересечение",
+    "en": "double intersection",
+    "keywords": {
+      "ru": ["двойное пересечение", "математика", "оператор над множеством", "пересечение"],
+      "en": ["double", "intersection", "mathematics", "operator", "set"]
+    }
+  },
+  {
+    "cp": 8915,
+    "char": "⋓",
+    "name": "DOUBLE UNION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8916,
+    "char": "⋔",
+    "name": "PITCHFORK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8917,
+    "char": "⋕",
+    "name": "EQUAL AND PARALLEL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8918,
+    "char": "⋖",
+    "name": "LESS-THAN WITH DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8919,
+    "char": "⋗",
+    "name": "GREATER-THAN WITH DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8920,
+    "char": "⋘",
+    "name": "VERY MUCH LESS-THAN",
+    "ru": "гораздо меньше",
+    "en": "very much less-than",
+    "keywords": {
+      "ru": ["гораздо меньше", "математика", "меньше", "неравенство"],
+      "en": ["inequality", "less-than", "mathematics", "much", "very"]
+    }
+  },
+  {
+    "cp": 8921,
+    "char": "⋙",
+    "name": "VERY MUCH GREATER-THAN",
+    "ru": "гораздо больше",
+    "en": "very much greater-than",
+    "keywords": {
+      "ru": ["больше", "гораздо больше", "математика", "неравенство"],
+      "en": ["greater-than", "inequality", "mathematics", "much", "very"]
+    }
+  },
+  {
+    "cp": 8922,
+    "char": "⋚",
+    "name": "LESS-THAN EQUAL TO OR GREATER-THAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8923,
+    "char": "⋛",
+    "name": "GREATER-THAN EQUAL TO OR LESS-THAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8924,
+    "char": "⋜",
+    "name": "EQUAL TO OR LESS-THAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8925,
+    "char": "⋝",
+    "name": "EQUAL TO OR GREATER-THAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8926,
+    "char": "⋞",
+    "name": "EQUAL TO OR PRECEDES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8927,
+    "char": "⋟",
+    "name": "EQUAL TO OR SUCCEEDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8928,
+    "char": "⋠",
+    "name": "DOES NOT PRECEDE OR EQUAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8929,
+    "char": "⋡",
+    "name": "DOES NOT SUCCEED OR EQUAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8930,
+    "char": "⋢",
+    "name": "NOT SQUARE IMAGE OF OR EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8931,
+    "char": "⋣",
+    "name": "NOT SQUARE ORIGINAL OF OR EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8932,
+    "char": "⋤",
+    "name": "SQUARE IMAGE OF OR NOT EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8933,
+    "char": "⋥",
+    "name": "SQUARE ORIGINAL OF OR NOT EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8934,
+    "char": "⋦",
+    "name": "LESS-THAN BUT NOT EQUIVALENT TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8935,
+    "char": "⋧",
+    "name": "GREATER-THAN BUT NOT EQUIVALENT TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8936,
+    "char": "⋨",
+    "name": "PRECEDES BUT NOT EQUIVALENT TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8937,
+    "char": "⋩",
+    "name": "SUCCEEDS BUT NOT EQUIVALENT TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8938,
+    "char": "⋪",
+    "name": "NOT NORMAL SUBGROUP OF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8939,
+    "char": "⋫",
+    "name": "DOES NOT CONTAIN AS NORMAL SUBGROUP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8940,
+    "char": "⋬",
+    "name": "NOT NORMAL SUBGROUP OF OR EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8941,
+    "char": "⋭",
+    "name": "DOES NOT CONTAIN AS NORMAL SUBGROUP OR EQUAL",
+    "ru": "не содержит как нормальную подгруппу или не равно",
+    "en": "does not contain as normal subgroup equal",
+    "keywords": {
+      "ru": ["математика", "не содержит как нормальную подгруппу или не равно", "теория групп"],
+      "en": [
+        "as",
+        "contain",
+        "does",
+        "equal",
+        "group",
+        "mathematics",
+        "normal",
+        "not",
+        "subgroup",
+        "theory"
+      ]
+    }
+  },
+  {
+    "cp": 8942,
+    "char": "⋮",
+    "name": "VERTICAL ELLIPSIS",
+    "ru": "вертикальное многоточие",
+    "en": "vertical ellipsis",
+    "keywords": {
+      "ru": ["вертикальное многоточие", "математика", "многоточие"],
+      "en": ["ellipsis", "mathematics", "vertical"]
+    }
+  },
+  {
+    "cp": 8943,
+    "char": "⋯",
+    "name": "MIDLINE HORIZONTAL ELLIPSIS",
+    "ru": "внутристрочное горизонтальное многоточие",
+    "en": "midline horizontal ellipsis",
+    "keywords": {
+      "ru": ["внутристрочное горизонтальное многоточие", "многоточие"],
+      "en": ["ellipsis", "horizontal", "midline"]
+    }
+  },
+  {
+    "cp": 8944,
+    "char": "⋰",
+    "name": "UP RIGHT DIAGONAL ELLIPSIS",
+    "ru": "диагональное многоточие вверх вправо",
+    "en": "up right diagonal ellipsis",
+    "keywords": {
+      "ru": ["диагональное многоточие вверх вправо", "математика", "многоточие"],
+      "en": ["diagonal", "ellipsis", "mathematics", "right", "up"]
+    }
+  },
+  {
+    "cp": 8945,
+    "char": "⋱",
+    "name": "DOWN RIGHT DIAGONAL ELLIPSIS",
+    "ru": "диагональное многоточие вниз вправо",
+    "en": "down right diagonal ellipsis",
+    "keywords": {
+      "ru": ["диагональное многоточие вниз вправо", "математика", "многоточие"],
+      "en": ["diagonal", "down", "ellipsis", "mathematics", "right"]
+    }
+  },
+  {
+    "cp": 8946,
+    "char": "⋲",
+    "name": "ELEMENT OF WITH LONG HORIZONTAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8947,
+    "char": "⋳",
+    "name": "ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8948,
+    "char": "⋴",
+    "name": "SMALL ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8949,
+    "char": "⋵",
+    "name": "ELEMENT OF WITH DOT ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8950,
+    "char": "⋶",
+    "name": "ELEMENT OF WITH OVERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8951,
+    "char": "⋷",
+    "name": "SMALL ELEMENT OF WITH OVERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8952,
+    "char": "⋸",
+    "name": "ELEMENT OF WITH UNDERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8953,
+    "char": "⋹",
+    "name": "ELEMENT OF WITH TWO HORIZONTAL STROKES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8954,
+    "char": "⋺",
+    "name": "CONTAINS WITH LONG HORIZONTAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8955,
+    "char": "⋻",
+    "name": "CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8956,
+    "char": "⋼",
+    "name": "SMALL CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8957,
+    "char": "⋽",
+    "name": "CONTAINS WITH OVERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8958,
+    "char": "⋾",
+    "name": "SMALL CONTAINS WITH OVERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8959,
+    "char": "⋿",
+    "name": "Z NOTATION BAG MEMBERSHIP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

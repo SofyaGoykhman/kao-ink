@@ -1,0 +1,746 @@
+[
+  {
+    "cp": 12353,
+    "char": "ぁ",
+    "name": "HIRAGANA LETTER SMALL A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12354,
+    "char": "あ",
+    "name": "HIRAGANA LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12355,
+    "char": "ぃ",
+    "name": "HIRAGANA LETTER SMALL I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12356,
+    "char": "い",
+    "name": "HIRAGANA LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12357,
+    "char": "ぅ",
+    "name": "HIRAGANA LETTER SMALL U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12358,
+    "char": "う",
+    "name": "HIRAGANA LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12359,
+    "char": "ぇ",
+    "name": "HIRAGANA LETTER SMALL E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12360,
+    "char": "え",
+    "name": "HIRAGANA LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12361,
+    "char": "ぉ",
+    "name": "HIRAGANA LETTER SMALL O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12362,
+    "char": "お",
+    "name": "HIRAGANA LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12363,
+    "char": "か",
+    "name": "HIRAGANA LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12364,
+    "char": "が",
+    "name": "HIRAGANA LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12365,
+    "char": "き",
+    "name": "HIRAGANA LETTER KI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12366,
+    "char": "ぎ",
+    "name": "HIRAGANA LETTER GI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12367,
+    "char": "く",
+    "name": "HIRAGANA LETTER KU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12368,
+    "char": "ぐ",
+    "name": "HIRAGANA LETTER GU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12369,
+    "char": "け",
+    "name": "HIRAGANA LETTER KE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12370,
+    "char": "げ",
+    "name": "HIRAGANA LETTER GE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12371,
+    "char": "こ",
+    "name": "HIRAGANA LETTER KO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12372,
+    "char": "ご",
+    "name": "HIRAGANA LETTER GO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12373,
+    "char": "さ",
+    "name": "HIRAGANA LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12374,
+    "char": "ざ",
+    "name": "HIRAGANA LETTER ZA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12375,
+    "char": "し",
+    "name": "HIRAGANA LETTER SI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12376,
+    "char": "じ",
+    "name": "HIRAGANA LETTER ZI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12377,
+    "char": "す",
+    "name": "HIRAGANA LETTER SU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12378,
+    "char": "ず",
+    "name": "HIRAGANA LETTER ZU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12379,
+    "char": "せ",
+    "name": "HIRAGANA LETTER SE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12380,
+    "char": "ぜ",
+    "name": "HIRAGANA LETTER ZE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12381,
+    "char": "そ",
+    "name": "HIRAGANA LETTER SO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12382,
+    "char": "ぞ",
+    "name": "HIRAGANA LETTER ZO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12383,
+    "char": "た",
+    "name": "HIRAGANA LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12384,
+    "char": "だ",
+    "name": "HIRAGANA LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12385,
+    "char": "ち",
+    "name": "HIRAGANA LETTER TI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12386,
+    "char": "ぢ",
+    "name": "HIRAGANA LETTER DI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12387,
+    "char": "っ",
+    "name": "HIRAGANA LETTER SMALL TU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12388,
+    "char": "つ",
+    "name": "HIRAGANA LETTER TU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12389,
+    "char": "づ",
+    "name": "HIRAGANA LETTER DU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12390,
+    "char": "て",
+    "name": "HIRAGANA LETTER TE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12391,
+    "char": "で",
+    "name": "HIRAGANA LETTER DE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12392,
+    "char": "と",
+    "name": "HIRAGANA LETTER TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12393,
+    "char": "ど",
+    "name": "HIRAGANA LETTER DO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12394,
+    "char": "な",
+    "name": "HIRAGANA LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12395,
+    "char": "に",
+    "name": "HIRAGANA LETTER NI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12396,
+    "char": "ぬ",
+    "name": "HIRAGANA LETTER NU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12397,
+    "char": "ね",
+    "name": "HIRAGANA LETTER NE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12398,
+    "char": "の",
+    "name": "HIRAGANA LETTER NO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12399,
+    "char": "は",
+    "name": "HIRAGANA LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12400,
+    "char": "ば",
+    "name": "HIRAGANA LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12401,
+    "char": "ぱ",
+    "name": "HIRAGANA LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12402,
+    "char": "ひ",
+    "name": "HIRAGANA LETTER HI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12403,
+    "char": "び",
+    "name": "HIRAGANA LETTER BI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12404,
+    "char": "ぴ",
+    "name": "HIRAGANA LETTER PI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12405,
+    "char": "ふ",
+    "name": "HIRAGANA LETTER HU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12406,
+    "char": "ぶ",
+    "name": "HIRAGANA LETTER BU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12407,
+    "char": "ぷ",
+    "name": "HIRAGANA LETTER PU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12408,
+    "char": "へ",
+    "name": "HIRAGANA LETTER HE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12409,
+    "char": "べ",
+    "name": "HIRAGANA LETTER BE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12410,
+    "char": "ぺ",
+    "name": "HIRAGANA LETTER PE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12411,
+    "char": "ほ",
+    "name": "HIRAGANA LETTER HO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12412,
+    "char": "ぼ",
+    "name": "HIRAGANA LETTER BO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12413,
+    "char": "ぽ",
+    "name": "HIRAGANA LETTER PO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12414,
+    "char": "ま",
+    "name": "HIRAGANA LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12415,
+    "char": "み",
+    "name": "HIRAGANA LETTER MI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12416,
+    "char": "む",
+    "name": "HIRAGANA LETTER MU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12417,
+    "char": "め",
+    "name": "HIRAGANA LETTER ME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12418,
+    "char": "も",
+    "name": "HIRAGANA LETTER MO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12419,
+    "char": "ゃ",
+    "name": "HIRAGANA LETTER SMALL YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12420,
+    "char": "や",
+    "name": "HIRAGANA LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12421,
+    "char": "ゅ",
+    "name": "HIRAGANA LETTER SMALL YU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12422,
+    "char": "ゆ",
+    "name": "HIRAGANA LETTER YU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12423,
+    "char": "ょ",
+    "name": "HIRAGANA LETTER SMALL YO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12424,
+    "char": "よ",
+    "name": "HIRAGANA LETTER YO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12425,
+    "char": "ら",
+    "name": "HIRAGANA LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12426,
+    "char": "り",
+    "name": "HIRAGANA LETTER RI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12427,
+    "char": "る",
+    "name": "HIRAGANA LETTER RU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12428,
+    "char": "れ",
+    "name": "HIRAGANA LETTER RE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12429,
+    "char": "ろ",
+    "name": "HIRAGANA LETTER RO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12430,
+    "char": "ゎ",
+    "name": "HIRAGANA LETTER SMALL WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12431,
+    "char": "わ",
+    "name": "HIRAGANA LETTER WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12432,
+    "char": "ゐ",
+    "name": "HIRAGANA LETTER WI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12433,
+    "char": "ゑ",
+    "name": "HIRAGANA LETTER WE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12434,
+    "char": "を",
+    "name": "HIRAGANA LETTER WO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12435,
+    "char": "ん",
+    "name": "HIRAGANA LETTER N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12436,
+    "char": "ゔ",
+    "name": "HIRAGANA LETTER VU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12437,
+    "char": "ゕ",
+    "name": "HIRAGANA LETTER SMALL KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12438,
+    "char": "ゖ",
+    "name": "HIRAGANA LETTER SMALL KE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12441,
+    "char": "゙",
+    "name": "COMBINING KATAKANA-HIRAGANA VOICED SOUND MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12442,
+    "char": "゚",
+    "name": "COMBINING KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12443,
+    "char": "゛",
+    "name": "KATAKANA-HIRAGANA VOICED SOUND MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12444,
+    "char": "゜",
+    "name": "KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12445,
+    "char": "ゝ",
+    "name": "HIRAGANA ITERATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12446,
+    "char": "ゞ",
+    "name": "HIRAGANA VOICED ITERATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12447,
+    "char": "ゟ",
+    "name": "HIRAGANA DIGRAPH YORI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

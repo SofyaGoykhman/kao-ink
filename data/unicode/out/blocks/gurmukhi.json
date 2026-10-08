@@ -1,0 +1,642 @@
+[
+  {
+    "cp": 2561,
+    "char": "ਁ",
+    "name": "GURMUKHI SIGN ADAK BINDI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2562,
+    "char": "ਂ",
+    "name": "GURMUKHI SIGN BINDI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2563,
+    "char": "ਃ",
+    "name": "GURMUKHI SIGN VISARGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2565,
+    "char": "ਅ",
+    "name": "GURMUKHI LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2566,
+    "char": "ਆ",
+    "name": "GURMUKHI LETTER AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2567,
+    "char": "ਇ",
+    "name": "GURMUKHI LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2568,
+    "char": "ਈ",
+    "name": "GURMUKHI LETTER II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2569,
+    "char": "ਉ",
+    "name": "GURMUKHI LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2570,
+    "char": "ਊ",
+    "name": "GURMUKHI LETTER UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2575,
+    "char": "ਏ",
+    "name": "GURMUKHI LETTER EE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2576,
+    "char": "ਐ",
+    "name": "GURMUKHI LETTER AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2579,
+    "char": "ਓ",
+    "name": "GURMUKHI LETTER OO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2580,
+    "char": "ਔ",
+    "name": "GURMUKHI LETTER AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2581,
+    "char": "ਕ",
+    "name": "GURMUKHI LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2582,
+    "char": "ਖ",
+    "name": "GURMUKHI LETTER KHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2583,
+    "char": "ਗ",
+    "name": "GURMUKHI LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2584,
+    "char": "ਘ",
+    "name": "GURMUKHI LETTER GHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2585,
+    "char": "ਙ",
+    "name": "GURMUKHI LETTER NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2586,
+    "char": "ਚ",
+    "name": "GURMUKHI LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2587,
+    "char": "ਛ",
+    "name": "GURMUKHI LETTER CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2588,
+    "char": "ਜ",
+    "name": "GURMUKHI LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2589,
+    "char": "ਝ",
+    "name": "GURMUKHI LETTER JHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2590,
+    "char": "ਞ",
+    "name": "GURMUKHI LETTER NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2591,
+    "char": "ਟ",
+    "name": "GURMUKHI LETTER TTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2592,
+    "char": "ਠ",
+    "name": "GURMUKHI LETTER TTHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2593,
+    "char": "ਡ",
+    "name": "GURMUKHI LETTER DDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2594,
+    "char": "ਢ",
+    "name": "GURMUKHI LETTER DDHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2595,
+    "char": "ਣ",
+    "name": "GURMUKHI LETTER NNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2596,
+    "char": "ਤ",
+    "name": "GURMUKHI LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2597,
+    "char": "ਥ",
+    "name": "GURMUKHI LETTER THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2598,
+    "char": "ਦ",
+    "name": "GURMUKHI LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2599,
+    "char": "ਧ",
+    "name": "GURMUKHI LETTER DHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2600,
+    "char": "ਨ",
+    "name": "GURMUKHI LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2602,
+    "char": "ਪ",
+    "name": "GURMUKHI LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2603,
+    "char": "ਫ",
+    "name": "GURMUKHI LETTER PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2604,
+    "char": "ਬ",
+    "name": "GURMUKHI LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2605,
+    "char": "ਭ",
+    "name": "GURMUKHI LETTER BHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2606,
+    "char": "ਮ",
+    "name": "GURMUKHI LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2607,
+    "char": "ਯ",
+    "name": "GURMUKHI LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2608,
+    "char": "ਰ",
+    "name": "GURMUKHI LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2610,
+    "char": "ਲ",
+    "name": "GURMUKHI LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2611,
+    "char": "ਲ਼",
+    "name": "GURMUKHI LETTER LLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2613,
+    "char": "ਵ",
+    "name": "GURMUKHI LETTER VA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2614,
+    "char": "ਸ਼",
+    "name": "GURMUKHI LETTER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2616,
+    "char": "ਸ",
+    "name": "GURMUKHI LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2617,
+    "char": "ਹ",
+    "name": "GURMUKHI LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2620,
+    "char": "਼",
+    "name": "GURMUKHI SIGN NUKTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2622,
+    "char": "ਾ",
+    "name": "GURMUKHI VOWEL SIGN AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2623,
+    "char": "ਿ",
+    "name": "GURMUKHI VOWEL SIGN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2624,
+    "char": "ੀ",
+    "name": "GURMUKHI VOWEL SIGN II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2625,
+    "char": "ੁ",
+    "name": "GURMUKHI VOWEL SIGN U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2626,
+    "char": "ੂ",
+    "name": "GURMUKHI VOWEL SIGN UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2631,
+    "char": "ੇ",
+    "name": "GURMUKHI VOWEL SIGN EE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2632,
+    "char": "ੈ",
+    "name": "GURMUKHI VOWEL SIGN AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2635,
+    "char": "ੋ",
+    "name": "GURMUKHI VOWEL SIGN OO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2636,
+    "char": "ੌ",
+    "name": "GURMUKHI VOWEL SIGN AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2637,
+    "char": "੍",
+    "name": "GURMUKHI SIGN VIRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2641,
+    "char": "ੑ",
+    "name": "GURMUKHI SIGN UDAAT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2649,
+    "char": "ਖ਼",
+    "name": "GURMUKHI LETTER KHHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2650,
+    "char": "ਗ਼",
+    "name": "GURMUKHI LETTER GHHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2651,
+    "char": "ਜ਼",
+    "name": "GURMUKHI LETTER ZA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2652,
+    "char": "ੜ",
+    "name": "GURMUKHI LETTER RRA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2654,
+    "char": "ਫ਼",
+    "name": "GURMUKHI LETTER FA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2662,
+    "char": "੦",
+    "name": "GURMUKHI DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2663,
+    "char": "੧",
+    "name": "GURMUKHI DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2664,
+    "char": "੨",
+    "name": "GURMUKHI DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2665,
+    "char": "੩",
+    "name": "GURMUKHI DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2666,
+    "char": "੪",
+    "name": "GURMUKHI DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2667,
+    "char": "੫",
+    "name": "GURMUKHI DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2668,
+    "char": "੬",
+    "name": "GURMUKHI DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2669,
+    "char": "੭",
+    "name": "GURMUKHI DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2670,
+    "char": "੮",
+    "name": "GURMUKHI DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2671,
+    "char": "੯",
+    "name": "GURMUKHI DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2672,
+    "char": "ੰ",
+    "name": "GURMUKHI TIPPI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2673,
+    "char": "ੱ",
+    "name": "GURMUKHI ADDAK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2674,
+    "char": "ੲ",
+    "name": "GURMUKHI IRI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2675,
+    "char": "ੳ",
+    "name": "GURMUKHI URA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2676,
+    "char": "ੴ",
+    "name": "GURMUKHI EK ONKAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2677,
+    "char": "ੵ",
+    "name": "GURMUKHI SIGN YAKASH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2678,
+    "char": "੶",
+    "name": "GURMUKHI ABBREVIATION SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

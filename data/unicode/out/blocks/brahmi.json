@@ -1,0 +1,922 @@
+[
+  {
+    "cp": 69632,
+    "char": "𑀀",
+    "name": "BRAHMI SIGN CANDRABINDU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69633,
+    "char": "𑀁",
+    "name": "BRAHMI SIGN ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69634,
+    "char": "𑀂",
+    "name": "BRAHMI SIGN VISARGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69635,
+    "char": "𑀃",
+    "name": "BRAHMI SIGN JIHVAMULIYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69636,
+    "char": "𑀄",
+    "name": "BRAHMI SIGN UPADHMANIYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69637,
+    "char": "𑀅",
+    "name": "BRAHMI LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69638,
+    "char": "𑀆",
+    "name": "BRAHMI LETTER AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69639,
+    "char": "𑀇",
+    "name": "BRAHMI LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69640,
+    "char": "𑀈",
+    "name": "BRAHMI LETTER II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69641,
+    "char": "𑀉",
+    "name": "BRAHMI LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69642,
+    "char": "𑀊",
+    "name": "BRAHMI LETTER UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69643,
+    "char": "𑀋",
+    "name": "BRAHMI LETTER VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69644,
+    "char": "𑀌",
+    "name": "BRAHMI LETTER VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69645,
+    "char": "𑀍",
+    "name": "BRAHMI LETTER VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69646,
+    "char": "𑀎",
+    "name": "BRAHMI LETTER VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69647,
+    "char": "𑀏",
+    "name": "BRAHMI LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69648,
+    "char": "𑀐",
+    "name": "BRAHMI LETTER AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69649,
+    "char": "𑀑",
+    "name": "BRAHMI LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69650,
+    "char": "𑀒",
+    "name": "BRAHMI LETTER AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69651,
+    "char": "𑀓",
+    "name": "BRAHMI LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69652,
+    "char": "𑀔",
+    "name": "BRAHMI LETTER KHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69653,
+    "char": "𑀕",
+    "name": "BRAHMI LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69654,
+    "char": "𑀖",
+    "name": "BRAHMI LETTER GHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69655,
+    "char": "𑀗",
+    "name": "BRAHMI LETTER NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69656,
+    "char": "𑀘",
+    "name": "BRAHMI LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69657,
+    "char": "𑀙",
+    "name": "BRAHMI LETTER CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69658,
+    "char": "𑀚",
+    "name": "BRAHMI LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69659,
+    "char": "𑀛",
+    "name": "BRAHMI LETTER JHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69660,
+    "char": "𑀜",
+    "name": "BRAHMI LETTER NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69661,
+    "char": "𑀝",
+    "name": "BRAHMI LETTER TTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69662,
+    "char": "𑀞",
+    "name": "BRAHMI LETTER TTHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69663,
+    "char": "𑀟",
+    "name": "BRAHMI LETTER DDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69664,
+    "char": "𑀠",
+    "name": "BRAHMI LETTER DDHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69665,
+    "char": "𑀡",
+    "name": "BRAHMI LETTER NNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69666,
+    "char": "𑀢",
+    "name": "BRAHMI LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69667,
+    "char": "𑀣",
+    "name": "BRAHMI LETTER THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69668,
+    "char": "𑀤",
+    "name": "BRAHMI LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69669,
+    "char": "𑀥",
+    "name": "BRAHMI LETTER DHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69670,
+    "char": "𑀦",
+    "name": "BRAHMI LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69671,
+    "char": "𑀧",
+    "name": "BRAHMI LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69672,
+    "char": "𑀨",
+    "name": "BRAHMI LETTER PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69673,
+    "char": "𑀩",
+    "name": "BRAHMI LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69674,
+    "char": "𑀪",
+    "name": "BRAHMI LETTER BHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69675,
+    "char": "𑀫",
+    "name": "BRAHMI LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69676,
+    "char": "𑀬",
+    "name": "BRAHMI LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69677,
+    "char": "𑀭",
+    "name": "BRAHMI LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69678,
+    "char": "𑀮",
+    "name": "BRAHMI LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69679,
+    "char": "𑀯",
+    "name": "BRAHMI LETTER VA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69680,
+    "char": "𑀰",
+    "name": "BRAHMI LETTER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69681,
+    "char": "𑀱",
+    "name": "BRAHMI LETTER SSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69682,
+    "char": "𑀲",
+    "name": "BRAHMI LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69683,
+    "char": "𑀳",
+    "name": "BRAHMI LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69684,
+    "char": "𑀴",
+    "name": "BRAHMI LETTER LLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69685,
+    "char": "𑀵",
+    "name": "BRAHMI LETTER OLD TAMIL LLLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69686,
+    "char": "𑀶",
+    "name": "BRAHMI LETTER OLD TAMIL RRA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69687,
+    "char": "𑀷",
+    "name": "BRAHMI LETTER OLD TAMIL NNNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69688,
+    "char": "𑀸",
+    "name": "BRAHMI VOWEL SIGN AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69689,
+    "char": "𑀹",
+    "name": "BRAHMI VOWEL SIGN BHATTIPROLU AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69690,
+    "char": "𑀺",
+    "name": "BRAHMI VOWEL SIGN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69691,
+    "char": "𑀻",
+    "name": "BRAHMI VOWEL SIGN II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69692,
+    "char": "𑀼",
+    "name": "BRAHMI VOWEL SIGN U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69693,
+    "char": "𑀽",
+    "name": "BRAHMI VOWEL SIGN UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69694,
+    "char": "𑀾",
+    "name": "BRAHMI VOWEL SIGN VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69695,
+    "char": "𑀿",
+    "name": "BRAHMI VOWEL SIGN VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69696,
+    "char": "𑁀",
+    "name": "BRAHMI VOWEL SIGN VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69697,
+    "char": "𑁁",
+    "name": "BRAHMI VOWEL SIGN VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69698,
+    "char": "𑁂",
+    "name": "BRAHMI VOWEL SIGN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69699,
+    "char": "𑁃",
+    "name": "BRAHMI VOWEL SIGN AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69700,
+    "char": "𑁄",
+    "name": "BRAHMI VOWEL SIGN O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69701,
+    "char": "𑁅",
+    "name": "BRAHMI VOWEL SIGN AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69702,
+    "char": "𑁆",
+    "name": "BRAHMI VIRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69703,
+    "char": "𑁇",
+    "name": "BRAHMI DANDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69704,
+    "char": "𑁈",
+    "name": "BRAHMI DOUBLE DANDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69705,
+    "char": "𑁉",
+    "name": "BRAHMI PUNCTUATION DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69706,
+    "char": "𑁊",
+    "name": "BRAHMI PUNCTUATION DOUBLE DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69707,
+    "char": "𑁋",
+    "name": "BRAHMI PUNCTUATION LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69708,
+    "char": "𑁌",
+    "name": "BRAHMI PUNCTUATION CRESCENT BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69709,
+    "char": "𑁍",
+    "name": "BRAHMI PUNCTUATION LOTUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69714,
+    "char": "𑁒",
+    "name": "BRAHMI NUMBER ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69715,
+    "char": "𑁓",
+    "name": "BRAHMI NUMBER TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69716,
+    "char": "𑁔",
+    "name": "BRAHMI NUMBER THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69717,
+    "char": "𑁕",
+    "name": "BRAHMI NUMBER FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69718,
+    "char": "𑁖",
+    "name": "BRAHMI NUMBER FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69719,
+    "char": "𑁗",
+    "name": "BRAHMI NUMBER SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69720,
+    "char": "𑁘",
+    "name": "BRAHMI NUMBER SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69721,
+    "char": "𑁙",
+    "name": "BRAHMI NUMBER EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69722,
+    "char": "𑁚",
+    "name": "BRAHMI NUMBER NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69723,
+    "char": "𑁛",
+    "name": "BRAHMI NUMBER TEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69724,
+    "char": "𑁜",
+    "name": "BRAHMI NUMBER TWENTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69725,
+    "char": "𑁝",
+    "name": "BRAHMI NUMBER THIRTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69726,
+    "char": "𑁞",
+    "name": "BRAHMI NUMBER FORTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69727,
+    "char": "𑁟",
+    "name": "BRAHMI NUMBER FIFTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69728,
+    "char": "𑁠",
+    "name": "BRAHMI NUMBER SIXTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69729,
+    "char": "𑁡",
+    "name": "BRAHMI NUMBER SEVENTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69730,
+    "char": "𑁢",
+    "name": "BRAHMI NUMBER EIGHTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69731,
+    "char": "𑁣",
+    "name": "BRAHMI NUMBER NINETY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69732,
+    "char": "𑁤",
+    "name": "BRAHMI NUMBER ONE HUNDRED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69733,
+    "char": "𑁥",
+    "name": "BRAHMI NUMBER ONE THOUSAND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69734,
+    "char": "𑁦",
+    "name": "BRAHMI DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69735,
+    "char": "𑁧",
+    "name": "BRAHMI DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69736,
+    "char": "𑁨",
+    "name": "BRAHMI DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69737,
+    "char": "𑁩",
+    "name": "BRAHMI DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69738,
+    "char": "𑁪",
+    "name": "BRAHMI DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69739,
+    "char": "𑁫",
+    "name": "BRAHMI DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69740,
+    "char": "𑁬",
+    "name": "BRAHMI DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69741,
+    "char": "𑁭",
+    "name": "BRAHMI DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69742,
+    "char": "𑁮",
+    "name": "BRAHMI DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69743,
+    "char": "𑁯",
+    "name": "BRAHMI DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69744,
+    "char": "𑁰",
+    "name": "BRAHMI SIGN OLD TAMIL VIRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69745,
+    "char": "𑁱",
+    "name": "BRAHMI LETTER OLD TAMIL SHORT E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69746,
+    "char": "𑁲",
+    "name": "BRAHMI LETTER OLD TAMIL SHORT O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69747,
+    "char": "𑁳",
+    "name": "BRAHMI VOWEL SIGN OLD TAMIL SHORT E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69748,
+    "char": "𑁴",
+    "name": "BRAHMI VOWEL SIGN OLD TAMIL SHORT O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69749,
+    "char": "𑁵",
+    "name": "BRAHMI LETTER OLD TAMIL LLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 69759,
+    "char": "𑁿",
+    "name": "BRAHMI NUMBER JOINER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

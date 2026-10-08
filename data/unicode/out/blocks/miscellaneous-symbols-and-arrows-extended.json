@@ -1,0 +1,234 @@
+[
+  {
+    "cp": 121600,
+    "char": "𝬀",
+    "name": "LEIBNIZIAN EQUALS SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121601,
+    "char": "𝬁",
+    "name": "LEIBNIZIAN EQUALS SIGN WITH DOUBLE VERTICALS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121602,
+    "char": "𝬂",
+    "name": "LEIBNIZIAN EQUALS SIGN WITH SMALL S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121603,
+    "char": "𝬃",
+    "name": "LEIBNIZIAN GREATER-THAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121604,
+    "char": "𝬄",
+    "name": "LEIBNIZIAN LESS-THAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121605,
+    "char": "𝬅",
+    "name": "LEIBNIZIAN GREATER-THAN WITH SMALL P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121606,
+    "char": "𝬆",
+    "name": "LEIBNIZIAN LESS-THAN WITH SMALL P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121607,
+    "char": "𝬇",
+    "name": "LEIBNIZIAN GREATER-THAN OR LESS-THAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121608,
+    "char": "𝬈",
+    "name": "INVERTED SQUARE LEFT OPEN BOX OPERATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121609,
+    "char": "𝬉",
+    "name": "INVERTED SQUARE RIGHT OPEN BOX OPERATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121610,
+    "char": "𝬊",
+    "name": "TWO-LINE GREATER-THAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121611,
+    "char": "𝬋",
+    "name": "TWO-LINE LESS-THAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121612,
+    "char": "𝬌",
+    "name": "COMMENSURABILITY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121613,
+    "char": "𝬍",
+    "name": "INCOMMENSURABILITY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121614,
+    "char": "𝬎",
+    "name": "COMMENSURABILITY IN SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121615,
+    "char": "𝬏",
+    "name": "INCOMMENSURABILITY IN SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121616,
+    "char": "𝬐",
+    "name": "CARTESIAN EQUALS SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121617,
+    "char": "𝬑",
+    "name": "LEIBNIZIAN CONGRUENCE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121618,
+    "char": "𝬒",
+    "name": "LEIBNIZIAN CONGRUENCE WITH VERTICAL BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121619,
+    "char": "𝬓",
+    "name": "LEIBNIZIAN CONGRUENCE-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121620,
+    "char": "𝬔",
+    "name": "LEIBNIZIAN CONGRUENCE-2 INVERTED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121621,
+    "char": "𝬕",
+    "name": "LEIBNIZIAN CONGRUENCE-2 WITH HORIZONTAL BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121622,
+    "char": "𝬖",
+    "name": "LEIBNIZIAN CONGRUENCE-2 WITH HORIZONTAL AND VERTICAL BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121623,
+    "char": "𝬗",
+    "name": "LEIBNIZIAN COINCIDENCE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121624,
+    "char": "𝬘",
+    "name": "INVERTED LAZY S OVER LAZY S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121625,
+    "char": "𝬙",
+    "name": "LEIBNIZIAN SIMILARITY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121626,
+    "char": "𝬚",
+    "name": "LEIBNIZIAN SIMILARITY-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121627,
+    "char": "𝬛",
+    "name": "LEIBNIZIAN DISSIMILARITY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 121628,
+    "char": "𝬜",
+    "name": "FACIT SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "cp": 8352,
+    "char": "₠",
+    "name": "EURO-CURRENCY SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8353,
+    "char": "₡",
+    "name": "COLON SIGN",
+    "ru": "костариканский колон",
+    "en": "Costa Rican Colón",
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8354,
+    "char": "₢",
+    "name": "CRUZEIRO SIGN",
+    "ru": "крузейро",
+    "en": "cruzeiro",
+    "keywords": { "ru": ["валюта", "крузейро"], "en": ["BRB", "cruzeiro", "currency"] }
+  },
+  {
+    "cp": 8355,
+    "char": "₣",
+    "name": "FRENCH FRANC SIGN",
+    "ru": "французский франк",
+    "en": "french franc",
+    "keywords": {
+      "ru": ["валюта", "франк", "французский франк"],
+      "en": ["currency", "franc", "french"]
+    }
+  },
+  {
+    "cp": 8356,
+    "char": "₤",
+    "name": "LIRA SIGN",
+    "ru": "лира",
+    "en": "lira",
+    "keywords": { "ru": ["валюта", "лира"], "en": ["currency", "lira"] }
+  },
+  {
+    "cp": 8357,
+    "char": "₥",
+    "name": "MILL SIGN",
+    "ru": "милль",
+    "en": "mill",
+    "keywords": {
+      "ru": ["мил", "милесимо", "миллим", "милль", "милльем", "миль", "мильем"],
+      "en": ["mil", "mill"]
+    }
+  },
+  {
+    "cp": 8358,
+    "char": "₦",
+    "name": "NAIRA SIGN",
+    "ru": "нигерийская найра",
+    "en": "Nigerian Naira",
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8359,
+    "char": "₧",
+    "name": "PESETA SIGN",
+    "ru": "Испанская песета",
+    "en": "Spanish Peseta",
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8360,
+    "char": "₨",
+    "name": "RUPEE SIGN",
+    "ru": "рупия",
+    "en": "rupee",
+    "keywords": { "ru": ["валюта", "рупия"], "en": ["currency", "rupee"] }
+  },
+  {
+    "cp": 8361,
+    "char": "₩",
+    "name": "WON SIGN",
+    "ru": "вона",
+    "en": "won",
+    "keywords": { "ru": ["вона", "ЮКВ/СКВ"], "en": ["KPW", "KRW", "won"] }
+  },
+  {
+    "cp": 8362,
+    "char": "₪",
+    "name": "NEW SHEQEL SIGN",
+    "ru": "новый израильский шекель",
+    "en": "Israeli New Shekel",
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8363,
+    "char": "₫",
+    "name": "DONG SIGN",
+    "ru": "вьетнамский донг",
+    "en": "Vietnamese Dong",
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8364,
+    "char": "€",
+    "name": "EURO SIGN",
+    "ru": "евро",
+    "en": "euro",
+    "keywords": { "ru": ["валюта", "евро"], "en": ["currency", "EUR", "euro"] }
+  },
+  {
+    "cp": 8365,
+    "char": "₭",
+    "name": "KIP SIGN",
+    "ru": "лаосский кип",
+    "en": "Laotian Kip",
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8366,
+    "char": "₮",
+    "name": "TUGRIK SIGN",
+    "ru": "монгольский тугрик",
+    "en": "Mongolian Tugrik",
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8367,
+    "char": "₯",
+    "name": "DRACHMA SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8368,
+    "char": "₰",
+    "name": "GERMAN PENNY SIGN",
+    "ru": "немецкий пенни",
+    "en": "german penny",
+    "keywords": {
+      "ru": ["валюта", "немецкий пенни"],
+      "en": ["currency", "german", "penny", "pfennig"]
+    }
+  },
+  {
+    "cp": 8369,
+    "char": "₱",
+    "name": "PESO SIGN",
+    "ru": "песо",
+    "en": "peso",
+    "keywords": { "ru": ["песо"], "en": ["peso"] }
+  },
+  {
+    "cp": 8370,
+    "char": "₲",
+    "name": "GUARANI SIGN",
+    "ru": "парагвайский гуарани",
+    "en": "Paraguayan Guarani",
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8371,
+    "char": "₳",
+    "name": "AUSTRAL SIGN",
+    "ru": "аустраль",
+    "en": "austral",
+    "keywords": { "ru": ["аустраль", "валюта"], "en": ["ARA", "austral", "currency"] }
+  },
+  {
+    "cp": 8372,
+    "char": "₴",
+    "name": "HRYVNIA SIGN",
+    "ru": "украинская гривна",
+    "en": "Ukrainian Hryvnia",
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8373,
+    "char": "₵",
+    "name": "CEDI SIGN",
+    "ru": "ганский седи",
+    "en": "Ghanaian Cedi",
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8374,
+    "char": "₶",
+    "name": "LIVRE TOURNOIS SIGN",
+    "ru": "турский ливр",
+    "en": "livre tournois",
+    "keywords": { "ru": ["валюта", "турский ливр"], "en": ["currency", "livre", "tournois"] }
+  },
+  {
+    "cp": 8375,
+    "char": "₷",
+    "name": "SPESMILO SIGN",
+    "ru": "спесмило",
+    "en": "spesmilo",
+    "keywords": { "ru": ["валюта", "спесмило"], "en": ["currency", "spesmilo"] }
+  },
+  {
+    "cp": 8376,
+    "char": "₸",
+    "name": "TENGE SIGN",
+    "ru": "казахский тенге",
+    "en": "Kazakhstani Tenge",
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8377,
+    "char": "₹",
+    "name": "INDIAN RUPEE SIGN",
+    "ru": "индийская рупия",
+    "en": "indian rupee",
+    "keywords": {
+      "ru": ["валюта", "индийская рупия", "рупия"],
+      "en": ["currency", "indian", "rupee"]
+    }
+  },
+  {
+    "cp": 8378,
+    "char": "₺",
+    "name": "TURKISH LIRA SIGN",
+    "ru": "турецкая лира",
+    "en": "Turkish Lira",
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8379,
+    "char": "₻",
+    "name": "NORDIC MARK SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8380,
+    "char": "₼",
+    "name": "MANAT SIGN",
+    "ru": "азербайджанский манат",
+    "en": "Azerbaijani Manat",
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8381,
+    "char": "₽",
+    "name": "RUBLE SIGN",
+    "ru": "рубль",
+    "en": "ruble",
+    "keywords": { "ru": ["валюта", "рубль"], "en": ["currency", "ruble"] }
+  },
+  {
+    "cp": 8382,
+    "char": "₾",
+    "name": "LARI SIGN",
+    "ru": "грузинский лари",
+    "en": "Georgian Lari",
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8383,
+    "char": "₿",
+    "name": "BITCOIN SIGN",
+    "ru": "биткоин",
+    "en": "bitcoin",
+    "keywords": { "ru": ["btc", "биткоин", "биткойн", "бтк"], "en": ["bitcoin", "BTC"] }
+  },
+  {
+    "cp": 8384,
+    "char": "⃀",
+    "name": "SOM SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8385,
+    "char": "⃁",
+    "name": "SAUDI RIYAL SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8386,
+    "char": "⃂",
+    "name": "RUFIYAA SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8387,
+    "char": "⃃",
+    "name": "UAE DIRHAM SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 8388,
+    "char": "⃄",
+    "name": "OMANI RIAL SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

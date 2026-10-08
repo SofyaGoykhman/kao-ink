@@ -1,0 +1,770 @@
+[
+  {
+    "cp": 70016,
+    "char": "𑆀",
+    "name": "SHARADA SIGN CANDRABINDU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70017,
+    "char": "𑆁",
+    "name": "SHARADA SIGN ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70018,
+    "char": "𑆂",
+    "name": "SHARADA SIGN VISARGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70019,
+    "char": "𑆃",
+    "name": "SHARADA LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70020,
+    "char": "𑆄",
+    "name": "SHARADA LETTER AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70021,
+    "char": "𑆅",
+    "name": "SHARADA LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70022,
+    "char": "𑆆",
+    "name": "SHARADA LETTER II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70023,
+    "char": "𑆇",
+    "name": "SHARADA LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70024,
+    "char": "𑆈",
+    "name": "SHARADA LETTER UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70025,
+    "char": "𑆉",
+    "name": "SHARADA LETTER VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70026,
+    "char": "𑆊",
+    "name": "SHARADA LETTER VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70027,
+    "char": "𑆋",
+    "name": "SHARADA LETTER VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70028,
+    "char": "𑆌",
+    "name": "SHARADA LETTER VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70029,
+    "char": "𑆍",
+    "name": "SHARADA LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70030,
+    "char": "𑆎",
+    "name": "SHARADA LETTER AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70031,
+    "char": "𑆏",
+    "name": "SHARADA LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70032,
+    "char": "𑆐",
+    "name": "SHARADA LETTER AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70033,
+    "char": "𑆑",
+    "name": "SHARADA LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70034,
+    "char": "𑆒",
+    "name": "SHARADA LETTER KHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70035,
+    "char": "𑆓",
+    "name": "SHARADA LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70036,
+    "char": "𑆔",
+    "name": "SHARADA LETTER GHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70037,
+    "char": "𑆕",
+    "name": "SHARADA LETTER NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70038,
+    "char": "𑆖",
+    "name": "SHARADA LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70039,
+    "char": "𑆗",
+    "name": "SHARADA LETTER CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70040,
+    "char": "𑆘",
+    "name": "SHARADA LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70041,
+    "char": "𑆙",
+    "name": "SHARADA LETTER JHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70042,
+    "char": "𑆚",
+    "name": "SHARADA LETTER NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70043,
+    "char": "𑆛",
+    "name": "SHARADA LETTER TTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70044,
+    "char": "𑆜",
+    "name": "SHARADA LETTER TTHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70045,
+    "char": "𑆝",
+    "name": "SHARADA LETTER DDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70046,
+    "char": "𑆞",
+    "name": "SHARADA LETTER DDHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70047,
+    "char": "𑆟",
+    "name": "SHARADA LETTER NNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70048,
+    "char": "𑆠",
+    "name": "SHARADA LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70049,
+    "char": "𑆡",
+    "name": "SHARADA LETTER THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70050,
+    "char": "𑆢",
+    "name": "SHARADA LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70051,
+    "char": "𑆣",
+    "name": "SHARADA LETTER DHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70052,
+    "char": "𑆤",
+    "name": "SHARADA LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70053,
+    "char": "𑆥",
+    "name": "SHARADA LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70054,
+    "char": "𑆦",
+    "name": "SHARADA LETTER PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70055,
+    "char": "𑆧",
+    "name": "SHARADA LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70056,
+    "char": "𑆨",
+    "name": "SHARADA LETTER BHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70057,
+    "char": "𑆩",
+    "name": "SHARADA LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70058,
+    "char": "𑆪",
+    "name": "SHARADA LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70059,
+    "char": "𑆫",
+    "name": "SHARADA LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70060,
+    "char": "𑆬",
+    "name": "SHARADA LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70061,
+    "char": "𑆭",
+    "name": "SHARADA LETTER LLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70062,
+    "char": "𑆮",
+    "name": "SHARADA LETTER VA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70063,
+    "char": "𑆯",
+    "name": "SHARADA LETTER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70064,
+    "char": "𑆰",
+    "name": "SHARADA LETTER SSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70065,
+    "char": "𑆱",
+    "name": "SHARADA LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70066,
+    "char": "𑆲",
+    "name": "SHARADA LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70067,
+    "char": "𑆳",
+    "name": "SHARADA VOWEL SIGN AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70068,
+    "char": "𑆴",
+    "name": "SHARADA VOWEL SIGN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70069,
+    "char": "𑆵",
+    "name": "SHARADA VOWEL SIGN II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70070,
+    "char": "𑆶",
+    "name": "SHARADA VOWEL SIGN U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70071,
+    "char": "𑆷",
+    "name": "SHARADA VOWEL SIGN UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70072,
+    "char": "𑆸",
+    "name": "SHARADA VOWEL SIGN VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70073,
+    "char": "𑆹",
+    "name": "SHARADA VOWEL SIGN VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70074,
+    "char": "𑆺",
+    "name": "SHARADA VOWEL SIGN VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70075,
+    "char": "𑆻",
+    "name": "SHARADA VOWEL SIGN VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70076,
+    "char": "𑆼",
+    "name": "SHARADA VOWEL SIGN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70077,
+    "char": "𑆽",
+    "name": "SHARADA VOWEL SIGN AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70078,
+    "char": "𑆾",
+    "name": "SHARADA VOWEL SIGN O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70079,
+    "char": "𑆿",
+    "name": "SHARADA VOWEL SIGN AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70080,
+    "char": "𑇀",
+    "name": "SHARADA SIGN VIRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70081,
+    "char": "𑇁",
+    "name": "SHARADA SIGN AVAGRAHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70082,
+    "char": "𑇂",
+    "name": "SHARADA SIGN JIHVAMULIYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70083,
+    "char": "𑇃",
+    "name": "SHARADA SIGN UPADHMANIYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70084,
+    "char": "𑇄",
+    "name": "SHARADA OM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70085,
+    "char": "𑇅",
+    "name": "SHARADA DANDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70086,
+    "char": "𑇆",
+    "name": "SHARADA DOUBLE DANDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70087,
+    "char": "𑇇",
+    "name": "SHARADA ABBREVIATION SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70088,
+    "char": "𑇈",
+    "name": "SHARADA SEPARATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70089,
+    "char": "𑇉",
+    "name": "SHARADA SANDHI MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70090,
+    "char": "𑇊",
+    "name": "SHARADA SIGN NUKTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70091,
+    "char": "𑇋",
+    "name": "SHARADA VOWEL MODIFIER MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70092,
+    "char": "𑇌",
+    "name": "SHARADA EXTRA SHORT VOWEL MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70093,
+    "char": "𑇍",
+    "name": "SHARADA SUTRA MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70094,
+    "char": "𑇎",
+    "name": "SHARADA VOWEL SIGN PRISHTHAMATRA E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70095,
+    "char": "𑇏",
+    "name": "SHARADA SIGN INVERTED CANDRABINDU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70096,
+    "char": "𑇐",
+    "name": "SHARADA DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70097,
+    "char": "𑇑",
+    "name": "SHARADA DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70098,
+    "char": "𑇒",
+    "name": "SHARADA DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70099,
+    "char": "𑇓",
+    "name": "SHARADA DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70100,
+    "char": "𑇔",
+    "name": "SHARADA DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70101,
+    "char": "𑇕",
+    "name": "SHARADA DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70102,
+    "char": "𑇖",
+    "name": "SHARADA DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70103,
+    "char": "𑇗",
+    "name": "SHARADA DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70104,
+    "char": "𑇘",
+    "name": "SHARADA DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70105,
+    "char": "𑇙",
+    "name": "SHARADA DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70106,
+    "char": "𑇚",
+    "name": "SHARADA EKAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70107,
+    "char": "𑇛",
+    "name": "SHARADA SIGN SIDDHAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70108,
+    "char": "𑇜",
+    "name": "SHARADA HEADSTROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70109,
+    "char": "𑇝",
+    "name": "SHARADA CONTINUATION SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70110,
+    "char": "𑇞",
+    "name": "SHARADA SECTION MARK-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 70111,
+    "char": "𑇟",
+    "name": "SHARADA SECTION MARK-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

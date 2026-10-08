@@ -1,0 +1,2050 @@
+[
+  {
+    "cp": 110592,
+    "char": "𛀀",
+    "name": "KATAKANA LETTER ARCHAIC E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110593,
+    "char": "𛀁",
+    "name": "HIRAGANA LETTER ARCHAIC YE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110594,
+    "char": "𛀂",
+    "name": "HENTAIGANA LETTER A-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110595,
+    "char": "𛀃",
+    "name": "HENTAIGANA LETTER A-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110596,
+    "char": "𛀄",
+    "name": "HENTAIGANA LETTER A-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110597,
+    "char": "𛀅",
+    "name": "HENTAIGANA LETTER A-WO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110598,
+    "char": "𛀆",
+    "name": "HENTAIGANA LETTER I-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110599,
+    "char": "𛀇",
+    "name": "HENTAIGANA LETTER I-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110600,
+    "char": "𛀈",
+    "name": "HENTAIGANA LETTER I-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110601,
+    "char": "𛀉",
+    "name": "HENTAIGANA LETTER I-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110602,
+    "char": "𛀊",
+    "name": "HENTAIGANA LETTER U-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110603,
+    "char": "𛀋",
+    "name": "HENTAIGANA LETTER U-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110604,
+    "char": "𛀌",
+    "name": "HENTAIGANA LETTER U-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110605,
+    "char": "𛀍",
+    "name": "HENTAIGANA LETTER U-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110606,
+    "char": "𛀎",
+    "name": "HENTAIGANA LETTER U-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110607,
+    "char": "𛀏",
+    "name": "HENTAIGANA LETTER E-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110608,
+    "char": "𛀐",
+    "name": "HENTAIGANA LETTER E-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110609,
+    "char": "𛀑",
+    "name": "HENTAIGANA LETTER E-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110610,
+    "char": "𛀒",
+    "name": "HENTAIGANA LETTER E-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110611,
+    "char": "𛀓",
+    "name": "HENTAIGANA LETTER E-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110612,
+    "char": "𛀔",
+    "name": "HENTAIGANA LETTER O-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110613,
+    "char": "𛀕",
+    "name": "HENTAIGANA LETTER O-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110614,
+    "char": "𛀖",
+    "name": "HENTAIGANA LETTER O-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110615,
+    "char": "𛀗",
+    "name": "HENTAIGANA LETTER KA-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110616,
+    "char": "𛀘",
+    "name": "HENTAIGANA LETTER KA-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110617,
+    "char": "𛀙",
+    "name": "HENTAIGANA LETTER KA-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110618,
+    "char": "𛀚",
+    "name": "HENTAIGANA LETTER KA-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110619,
+    "char": "𛀛",
+    "name": "HENTAIGANA LETTER KA-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110620,
+    "char": "𛀜",
+    "name": "HENTAIGANA LETTER KA-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110621,
+    "char": "𛀝",
+    "name": "HENTAIGANA LETTER KA-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110622,
+    "char": "𛀞",
+    "name": "HENTAIGANA LETTER KA-8",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110623,
+    "char": "𛀟",
+    "name": "HENTAIGANA LETTER KA-9",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110624,
+    "char": "𛀠",
+    "name": "HENTAIGANA LETTER KA-10",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110625,
+    "char": "𛀡",
+    "name": "HENTAIGANA LETTER KA-11",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110626,
+    "char": "𛀢",
+    "name": "HENTAIGANA LETTER KA-KE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110627,
+    "char": "𛀣",
+    "name": "HENTAIGANA LETTER KI-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110628,
+    "char": "𛀤",
+    "name": "HENTAIGANA LETTER KI-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110629,
+    "char": "𛀥",
+    "name": "HENTAIGANA LETTER KI-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110630,
+    "char": "𛀦",
+    "name": "HENTAIGANA LETTER KI-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110631,
+    "char": "𛀧",
+    "name": "HENTAIGANA LETTER KI-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110632,
+    "char": "𛀨",
+    "name": "HENTAIGANA LETTER KI-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110633,
+    "char": "𛀩",
+    "name": "HENTAIGANA LETTER KI-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110634,
+    "char": "𛀪",
+    "name": "HENTAIGANA LETTER KI-8",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110635,
+    "char": "𛀫",
+    "name": "HENTAIGANA LETTER KU-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110636,
+    "char": "𛀬",
+    "name": "HENTAIGANA LETTER KU-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110637,
+    "char": "𛀭",
+    "name": "HENTAIGANA LETTER KU-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110638,
+    "char": "𛀮",
+    "name": "HENTAIGANA LETTER KU-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110639,
+    "char": "𛀯",
+    "name": "HENTAIGANA LETTER KU-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110640,
+    "char": "𛀰",
+    "name": "HENTAIGANA LETTER KU-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110641,
+    "char": "𛀱",
+    "name": "HENTAIGANA LETTER KU-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110642,
+    "char": "𛀲",
+    "name": "HENTAIGANA LETTER KE-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110643,
+    "char": "𛀳",
+    "name": "HENTAIGANA LETTER KE-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110644,
+    "char": "𛀴",
+    "name": "HENTAIGANA LETTER KE-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110645,
+    "char": "𛀵",
+    "name": "HENTAIGANA LETTER KE-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110646,
+    "char": "𛀶",
+    "name": "HENTAIGANA LETTER KE-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110647,
+    "char": "𛀷",
+    "name": "HENTAIGANA LETTER KE-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110648,
+    "char": "𛀸",
+    "name": "HENTAIGANA LETTER KO-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110649,
+    "char": "𛀹",
+    "name": "HENTAIGANA LETTER KO-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110650,
+    "char": "𛀺",
+    "name": "HENTAIGANA LETTER KO-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110651,
+    "char": "𛀻",
+    "name": "HENTAIGANA LETTER KO-KI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110652,
+    "char": "𛀼",
+    "name": "HENTAIGANA LETTER SA-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110653,
+    "char": "𛀽",
+    "name": "HENTAIGANA LETTER SA-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110654,
+    "char": "𛀾",
+    "name": "HENTAIGANA LETTER SA-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110655,
+    "char": "𛀿",
+    "name": "HENTAIGANA LETTER SA-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110656,
+    "char": "𛁀",
+    "name": "HENTAIGANA LETTER SA-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110657,
+    "char": "𛁁",
+    "name": "HENTAIGANA LETTER SA-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110658,
+    "char": "𛁂",
+    "name": "HENTAIGANA LETTER SA-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110659,
+    "char": "𛁃",
+    "name": "HENTAIGANA LETTER SA-8",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110660,
+    "char": "𛁄",
+    "name": "HENTAIGANA LETTER SI-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110661,
+    "char": "𛁅",
+    "name": "HENTAIGANA LETTER SI-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110662,
+    "char": "𛁆",
+    "name": "HENTAIGANA LETTER SI-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110663,
+    "char": "𛁇",
+    "name": "HENTAIGANA LETTER SI-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110664,
+    "char": "𛁈",
+    "name": "HENTAIGANA LETTER SI-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110665,
+    "char": "𛁉",
+    "name": "HENTAIGANA LETTER SI-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110666,
+    "char": "𛁊",
+    "name": "HENTAIGANA LETTER SU-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110667,
+    "char": "𛁋",
+    "name": "HENTAIGANA LETTER SU-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110668,
+    "char": "𛁌",
+    "name": "HENTAIGANA LETTER SU-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110669,
+    "char": "𛁍",
+    "name": "HENTAIGANA LETTER SU-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110670,
+    "char": "𛁎",
+    "name": "HENTAIGANA LETTER SU-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110671,
+    "char": "𛁏",
+    "name": "HENTAIGANA LETTER SU-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110672,
+    "char": "𛁐",
+    "name": "HENTAIGANA LETTER SU-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110673,
+    "char": "𛁑",
+    "name": "HENTAIGANA LETTER SU-8",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110674,
+    "char": "𛁒",
+    "name": "HENTAIGANA LETTER SE-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110675,
+    "char": "𛁓",
+    "name": "HENTAIGANA LETTER SE-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110676,
+    "char": "𛁔",
+    "name": "HENTAIGANA LETTER SE-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110677,
+    "char": "𛁕",
+    "name": "HENTAIGANA LETTER SE-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110678,
+    "char": "𛁖",
+    "name": "HENTAIGANA LETTER SE-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110679,
+    "char": "𛁗",
+    "name": "HENTAIGANA LETTER SO-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110680,
+    "char": "𛁘",
+    "name": "HENTAIGANA LETTER SO-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110681,
+    "char": "𛁙",
+    "name": "HENTAIGANA LETTER SO-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110682,
+    "char": "𛁚",
+    "name": "HENTAIGANA LETTER SO-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110683,
+    "char": "𛁛",
+    "name": "HENTAIGANA LETTER SO-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110684,
+    "char": "𛁜",
+    "name": "HENTAIGANA LETTER SO-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110685,
+    "char": "𛁝",
+    "name": "HENTAIGANA LETTER SO-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110686,
+    "char": "𛁞",
+    "name": "HENTAIGANA LETTER TA-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110687,
+    "char": "𛁟",
+    "name": "HENTAIGANA LETTER TA-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110688,
+    "char": "𛁠",
+    "name": "HENTAIGANA LETTER TA-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110689,
+    "char": "𛁡",
+    "name": "HENTAIGANA LETTER TA-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110690,
+    "char": "𛁢",
+    "name": "HENTAIGANA LETTER TI-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110691,
+    "char": "𛁣",
+    "name": "HENTAIGANA LETTER TI-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110692,
+    "char": "𛁤",
+    "name": "HENTAIGANA LETTER TI-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110693,
+    "char": "𛁥",
+    "name": "HENTAIGANA LETTER TI-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110694,
+    "char": "𛁦",
+    "name": "HENTAIGANA LETTER TI-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110695,
+    "char": "𛁧",
+    "name": "HENTAIGANA LETTER TI-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110696,
+    "char": "𛁨",
+    "name": "HENTAIGANA LETTER TI-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110697,
+    "char": "𛁩",
+    "name": "HENTAIGANA LETTER TU-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110698,
+    "char": "𛁪",
+    "name": "HENTAIGANA LETTER TU-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110699,
+    "char": "𛁫",
+    "name": "HENTAIGANA LETTER TU-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110700,
+    "char": "𛁬",
+    "name": "HENTAIGANA LETTER TU-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110701,
+    "char": "𛁭",
+    "name": "HENTAIGANA LETTER TU-TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110702,
+    "char": "𛁮",
+    "name": "HENTAIGANA LETTER TE-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110703,
+    "char": "𛁯",
+    "name": "HENTAIGANA LETTER TE-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110704,
+    "char": "𛁰",
+    "name": "HENTAIGANA LETTER TE-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110705,
+    "char": "𛁱",
+    "name": "HENTAIGANA LETTER TE-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110706,
+    "char": "𛁲",
+    "name": "HENTAIGANA LETTER TE-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110707,
+    "char": "𛁳",
+    "name": "HENTAIGANA LETTER TE-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110708,
+    "char": "𛁴",
+    "name": "HENTAIGANA LETTER TE-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110709,
+    "char": "𛁵",
+    "name": "HENTAIGANA LETTER TE-8",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110710,
+    "char": "𛁶",
+    "name": "HENTAIGANA LETTER TE-9",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110711,
+    "char": "𛁷",
+    "name": "HENTAIGANA LETTER TO-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110712,
+    "char": "𛁸",
+    "name": "HENTAIGANA LETTER TO-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110713,
+    "char": "𛁹",
+    "name": "HENTAIGANA LETTER TO-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110714,
+    "char": "𛁺",
+    "name": "HENTAIGANA LETTER TO-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110715,
+    "char": "𛁻",
+    "name": "HENTAIGANA LETTER TO-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110716,
+    "char": "𛁼",
+    "name": "HENTAIGANA LETTER TO-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110717,
+    "char": "𛁽",
+    "name": "HENTAIGANA LETTER TO-RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110718,
+    "char": "𛁾",
+    "name": "HENTAIGANA LETTER NA-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110719,
+    "char": "𛁿",
+    "name": "HENTAIGANA LETTER NA-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110720,
+    "char": "𛂀",
+    "name": "HENTAIGANA LETTER NA-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110721,
+    "char": "𛂁",
+    "name": "HENTAIGANA LETTER NA-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110722,
+    "char": "𛂂",
+    "name": "HENTAIGANA LETTER NA-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110723,
+    "char": "𛂃",
+    "name": "HENTAIGANA LETTER NA-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110724,
+    "char": "𛂄",
+    "name": "HENTAIGANA LETTER NA-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110725,
+    "char": "𛂅",
+    "name": "HENTAIGANA LETTER NA-8",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110726,
+    "char": "𛂆",
+    "name": "HENTAIGANA LETTER NA-9",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110727,
+    "char": "𛂇",
+    "name": "HENTAIGANA LETTER NI-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110728,
+    "char": "𛂈",
+    "name": "HENTAIGANA LETTER NI-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110729,
+    "char": "𛂉",
+    "name": "HENTAIGANA LETTER NI-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110730,
+    "char": "𛂊",
+    "name": "HENTAIGANA LETTER NI-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110731,
+    "char": "𛂋",
+    "name": "HENTAIGANA LETTER NI-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110732,
+    "char": "𛂌",
+    "name": "HENTAIGANA LETTER NI-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110733,
+    "char": "𛂍",
+    "name": "HENTAIGANA LETTER NI-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110734,
+    "char": "𛂎",
+    "name": "HENTAIGANA LETTER NI-TE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110735,
+    "char": "𛂏",
+    "name": "HENTAIGANA LETTER NU-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110736,
+    "char": "𛂐",
+    "name": "HENTAIGANA LETTER NU-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110737,
+    "char": "𛂑",
+    "name": "HENTAIGANA LETTER NU-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110738,
+    "char": "𛂒",
+    "name": "HENTAIGANA LETTER NE-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110739,
+    "char": "𛂓",
+    "name": "HENTAIGANA LETTER NE-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110740,
+    "char": "𛂔",
+    "name": "HENTAIGANA LETTER NE-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110741,
+    "char": "𛂕",
+    "name": "HENTAIGANA LETTER NE-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110742,
+    "char": "𛂖",
+    "name": "HENTAIGANA LETTER NE-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110743,
+    "char": "𛂗",
+    "name": "HENTAIGANA LETTER NE-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110744,
+    "char": "𛂘",
+    "name": "HENTAIGANA LETTER NE-KO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110745,
+    "char": "𛂙",
+    "name": "HENTAIGANA LETTER NO-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110746,
+    "char": "𛂚",
+    "name": "HENTAIGANA LETTER NO-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110747,
+    "char": "𛂛",
+    "name": "HENTAIGANA LETTER NO-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110748,
+    "char": "𛂜",
+    "name": "HENTAIGANA LETTER NO-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110749,
+    "char": "𛂝",
+    "name": "HENTAIGANA LETTER NO-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110750,
+    "char": "𛂞",
+    "name": "HENTAIGANA LETTER HA-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110751,
+    "char": "𛂟",
+    "name": "HENTAIGANA LETTER HA-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110752,
+    "char": "𛂠",
+    "name": "HENTAIGANA LETTER HA-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110753,
+    "char": "𛂡",
+    "name": "HENTAIGANA LETTER HA-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110754,
+    "char": "𛂢",
+    "name": "HENTAIGANA LETTER HA-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110755,
+    "char": "𛂣",
+    "name": "HENTAIGANA LETTER HA-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110756,
+    "char": "𛂤",
+    "name": "HENTAIGANA LETTER HA-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110757,
+    "char": "𛂥",
+    "name": "HENTAIGANA LETTER HA-8",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110758,
+    "char": "𛂦",
+    "name": "HENTAIGANA LETTER HA-9",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110759,
+    "char": "𛂧",
+    "name": "HENTAIGANA LETTER HA-10",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110760,
+    "char": "𛂨",
+    "name": "HENTAIGANA LETTER HA-11",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110761,
+    "char": "𛂩",
+    "name": "HENTAIGANA LETTER HI-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110762,
+    "char": "𛂪",
+    "name": "HENTAIGANA LETTER HI-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110763,
+    "char": "𛂫",
+    "name": "HENTAIGANA LETTER HI-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110764,
+    "char": "𛂬",
+    "name": "HENTAIGANA LETTER HI-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110765,
+    "char": "𛂭",
+    "name": "HENTAIGANA LETTER HI-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110766,
+    "char": "𛂮",
+    "name": "HENTAIGANA LETTER HI-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110767,
+    "char": "𛂯",
+    "name": "HENTAIGANA LETTER HI-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110768,
+    "char": "𛂰",
+    "name": "HENTAIGANA LETTER HU-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110769,
+    "char": "𛂱",
+    "name": "HENTAIGANA LETTER HU-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110770,
+    "char": "𛂲",
+    "name": "HENTAIGANA LETTER HU-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110771,
+    "char": "𛂳",
+    "name": "HENTAIGANA LETTER HE-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110772,
+    "char": "𛂴",
+    "name": "HENTAIGANA LETTER HE-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110773,
+    "char": "𛂵",
+    "name": "HENTAIGANA LETTER HE-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110774,
+    "char": "𛂶",
+    "name": "HENTAIGANA LETTER HE-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110775,
+    "char": "𛂷",
+    "name": "HENTAIGANA LETTER HE-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110776,
+    "char": "𛂸",
+    "name": "HENTAIGANA LETTER HE-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110777,
+    "char": "𛂹",
+    "name": "HENTAIGANA LETTER HE-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110778,
+    "char": "𛂺",
+    "name": "HENTAIGANA LETTER HO-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110779,
+    "char": "𛂻",
+    "name": "HENTAIGANA LETTER HO-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110780,
+    "char": "𛂼",
+    "name": "HENTAIGANA LETTER HO-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110781,
+    "char": "𛂽",
+    "name": "HENTAIGANA LETTER HO-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110782,
+    "char": "𛂾",
+    "name": "HENTAIGANA LETTER HO-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110783,
+    "char": "𛂿",
+    "name": "HENTAIGANA LETTER HO-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110784,
+    "char": "𛃀",
+    "name": "HENTAIGANA LETTER HO-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110785,
+    "char": "𛃁",
+    "name": "HENTAIGANA LETTER HO-8",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110786,
+    "char": "𛃂",
+    "name": "HENTAIGANA LETTER MA-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110787,
+    "char": "𛃃",
+    "name": "HENTAIGANA LETTER MA-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110788,
+    "char": "𛃄",
+    "name": "HENTAIGANA LETTER MA-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110789,
+    "char": "𛃅",
+    "name": "HENTAIGANA LETTER MA-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110790,
+    "char": "𛃆",
+    "name": "HENTAIGANA LETTER MA-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110791,
+    "char": "𛃇",
+    "name": "HENTAIGANA LETTER MA-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110792,
+    "char": "𛃈",
+    "name": "HENTAIGANA LETTER MA-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110793,
+    "char": "𛃉",
+    "name": "HENTAIGANA LETTER MI-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110794,
+    "char": "𛃊",
+    "name": "HENTAIGANA LETTER MI-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110795,
+    "char": "𛃋",
+    "name": "HENTAIGANA LETTER MI-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110796,
+    "char": "𛃌",
+    "name": "HENTAIGANA LETTER MI-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110797,
+    "char": "𛃍",
+    "name": "HENTAIGANA LETTER MI-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110798,
+    "char": "𛃎",
+    "name": "HENTAIGANA LETTER MI-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110799,
+    "char": "𛃏",
+    "name": "HENTAIGANA LETTER MI-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110800,
+    "char": "𛃐",
+    "name": "HENTAIGANA LETTER MU-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110801,
+    "char": "𛃑",
+    "name": "HENTAIGANA LETTER MU-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110802,
+    "char": "𛃒",
+    "name": "HENTAIGANA LETTER MU-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110803,
+    "char": "𛃓",
+    "name": "HENTAIGANA LETTER MU-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110804,
+    "char": "𛃔",
+    "name": "HENTAIGANA LETTER ME-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110805,
+    "char": "𛃕",
+    "name": "HENTAIGANA LETTER ME-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110806,
+    "char": "𛃖",
+    "name": "HENTAIGANA LETTER ME-MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110807,
+    "char": "𛃗",
+    "name": "HENTAIGANA LETTER MO-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110808,
+    "char": "𛃘",
+    "name": "HENTAIGANA LETTER MO-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110809,
+    "char": "𛃙",
+    "name": "HENTAIGANA LETTER MO-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110810,
+    "char": "𛃚",
+    "name": "HENTAIGANA LETTER MO-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110811,
+    "char": "𛃛",
+    "name": "HENTAIGANA LETTER MO-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110812,
+    "char": "𛃜",
+    "name": "HENTAIGANA LETTER MO-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110813,
+    "char": "𛃝",
+    "name": "HENTAIGANA LETTER YA-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110814,
+    "char": "𛃞",
+    "name": "HENTAIGANA LETTER YA-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110815,
+    "char": "𛃟",
+    "name": "HENTAIGANA LETTER YA-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110816,
+    "char": "𛃠",
+    "name": "HENTAIGANA LETTER YA-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110817,
+    "char": "𛃡",
+    "name": "HENTAIGANA LETTER YA-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110818,
+    "char": "𛃢",
+    "name": "HENTAIGANA LETTER YA-YO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110819,
+    "char": "𛃣",
+    "name": "HENTAIGANA LETTER YU-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110820,
+    "char": "𛃤",
+    "name": "HENTAIGANA LETTER YU-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110821,
+    "char": "𛃥",
+    "name": "HENTAIGANA LETTER YU-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110822,
+    "char": "𛃦",
+    "name": "HENTAIGANA LETTER YU-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110823,
+    "char": "𛃧",
+    "name": "HENTAIGANA LETTER YO-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110824,
+    "char": "𛃨",
+    "name": "HENTAIGANA LETTER YO-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110825,
+    "char": "𛃩",
+    "name": "HENTAIGANA LETTER YO-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110826,
+    "char": "𛃪",
+    "name": "HENTAIGANA LETTER YO-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110827,
+    "char": "𛃫",
+    "name": "HENTAIGANA LETTER YO-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110828,
+    "char": "𛃬",
+    "name": "HENTAIGANA LETTER YO-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110829,
+    "char": "𛃭",
+    "name": "HENTAIGANA LETTER RA-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110830,
+    "char": "𛃮",
+    "name": "HENTAIGANA LETTER RA-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110831,
+    "char": "𛃯",
+    "name": "HENTAIGANA LETTER RA-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110832,
+    "char": "𛃰",
+    "name": "HENTAIGANA LETTER RA-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110833,
+    "char": "𛃱",
+    "name": "HENTAIGANA LETTER RI-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110834,
+    "char": "𛃲",
+    "name": "HENTAIGANA LETTER RI-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110835,
+    "char": "𛃳",
+    "name": "HENTAIGANA LETTER RI-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110836,
+    "char": "𛃴",
+    "name": "HENTAIGANA LETTER RI-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110837,
+    "char": "𛃵",
+    "name": "HENTAIGANA LETTER RI-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110838,
+    "char": "𛃶",
+    "name": "HENTAIGANA LETTER RI-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110839,
+    "char": "𛃷",
+    "name": "HENTAIGANA LETTER RI-7",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110840,
+    "char": "𛃸",
+    "name": "HENTAIGANA LETTER RU-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110841,
+    "char": "𛃹",
+    "name": "HENTAIGANA LETTER RU-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110842,
+    "char": "𛃺",
+    "name": "HENTAIGANA LETTER RU-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110843,
+    "char": "𛃻",
+    "name": "HENTAIGANA LETTER RU-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110844,
+    "char": "𛃼",
+    "name": "HENTAIGANA LETTER RU-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110845,
+    "char": "𛃽",
+    "name": "HENTAIGANA LETTER RU-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110846,
+    "char": "𛃾",
+    "name": "HENTAIGANA LETTER RE-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 110847,
+    "char": "𛃿",
+    "name": "HENTAIGANA LETTER RE-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

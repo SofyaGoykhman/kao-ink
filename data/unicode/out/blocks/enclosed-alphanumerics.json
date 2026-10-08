@@ -1,0 +1,1292 @@
+[
+  {
+    "cp": 9312,
+    "char": "①",
+    "name": "CIRCLED DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9313,
+    "char": "②",
+    "name": "CIRCLED DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9314,
+    "char": "③",
+    "name": "CIRCLED DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9315,
+    "char": "④",
+    "name": "CIRCLED DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9316,
+    "char": "⑤",
+    "name": "CIRCLED DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9317,
+    "char": "⑥",
+    "name": "CIRCLED DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9318,
+    "char": "⑦",
+    "name": "CIRCLED DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9319,
+    "char": "⑧",
+    "name": "CIRCLED DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9320,
+    "char": "⑨",
+    "name": "CIRCLED DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9321,
+    "char": "⑩",
+    "name": "CIRCLED NUMBER TEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9322,
+    "char": "⑪",
+    "name": "CIRCLED NUMBER ELEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9323,
+    "char": "⑫",
+    "name": "CIRCLED NUMBER TWELVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9324,
+    "char": "⑬",
+    "name": "CIRCLED NUMBER THIRTEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9325,
+    "char": "⑭",
+    "name": "CIRCLED NUMBER FOURTEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9326,
+    "char": "⑮",
+    "name": "CIRCLED NUMBER FIFTEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9327,
+    "char": "⑯",
+    "name": "CIRCLED NUMBER SIXTEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9328,
+    "char": "⑰",
+    "name": "CIRCLED NUMBER SEVENTEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9329,
+    "char": "⑱",
+    "name": "CIRCLED NUMBER EIGHTEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9330,
+    "char": "⑲",
+    "name": "CIRCLED NUMBER NINETEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9331,
+    "char": "⑳",
+    "name": "CIRCLED NUMBER TWENTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9332,
+    "char": "⑴",
+    "name": "PARENTHESIZED DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9333,
+    "char": "⑵",
+    "name": "PARENTHESIZED DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9334,
+    "char": "⑶",
+    "name": "PARENTHESIZED DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9335,
+    "char": "⑷",
+    "name": "PARENTHESIZED DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9336,
+    "char": "⑸",
+    "name": "PARENTHESIZED DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9337,
+    "char": "⑹",
+    "name": "PARENTHESIZED DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9338,
+    "char": "⑺",
+    "name": "PARENTHESIZED DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9339,
+    "char": "⑻",
+    "name": "PARENTHESIZED DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9340,
+    "char": "⑼",
+    "name": "PARENTHESIZED DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9341,
+    "char": "⑽",
+    "name": "PARENTHESIZED NUMBER TEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9342,
+    "char": "⑾",
+    "name": "PARENTHESIZED NUMBER ELEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9343,
+    "char": "⑿",
+    "name": "PARENTHESIZED NUMBER TWELVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9344,
+    "char": "⒀",
+    "name": "PARENTHESIZED NUMBER THIRTEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9345,
+    "char": "⒁",
+    "name": "PARENTHESIZED NUMBER FOURTEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9346,
+    "char": "⒂",
+    "name": "PARENTHESIZED NUMBER FIFTEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9347,
+    "char": "⒃",
+    "name": "PARENTHESIZED NUMBER SIXTEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9348,
+    "char": "⒄",
+    "name": "PARENTHESIZED NUMBER SEVENTEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9349,
+    "char": "⒅",
+    "name": "PARENTHESIZED NUMBER EIGHTEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9350,
+    "char": "⒆",
+    "name": "PARENTHESIZED NUMBER NINETEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9351,
+    "char": "⒇",
+    "name": "PARENTHESIZED NUMBER TWENTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9352,
+    "char": "⒈",
+    "name": "DIGIT ONE FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9353,
+    "char": "⒉",
+    "name": "DIGIT TWO FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9354,
+    "char": "⒊",
+    "name": "DIGIT THREE FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9355,
+    "char": "⒋",
+    "name": "DIGIT FOUR FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9356,
+    "char": "⒌",
+    "name": "DIGIT FIVE FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9357,
+    "char": "⒍",
+    "name": "DIGIT SIX FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9358,
+    "char": "⒎",
+    "name": "DIGIT SEVEN FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9359,
+    "char": "⒏",
+    "name": "DIGIT EIGHT FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9360,
+    "char": "⒐",
+    "name": "DIGIT NINE FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9361,
+    "char": "⒑",
+    "name": "NUMBER TEN FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9362,
+    "char": "⒒",
+    "name": "NUMBER ELEVEN FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9363,
+    "char": "⒓",
+    "name": "NUMBER TWELVE FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9364,
+    "char": "⒔",
+    "name": "NUMBER THIRTEEN FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9365,
+    "char": "⒕",
+    "name": "NUMBER FOURTEEN FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9366,
+    "char": "⒖",
+    "name": "NUMBER FIFTEEN FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9367,
+    "char": "⒗",
+    "name": "NUMBER SIXTEEN FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9368,
+    "char": "⒘",
+    "name": "NUMBER SEVENTEEN FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9369,
+    "char": "⒙",
+    "name": "NUMBER EIGHTEEN FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9370,
+    "char": "⒚",
+    "name": "NUMBER NINETEEN FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9371,
+    "char": "⒛",
+    "name": "NUMBER TWENTY FULL STOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9372,
+    "char": "⒜",
+    "name": "PARENTHESIZED LATIN SMALL LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9373,
+    "char": "⒝",
+    "name": "PARENTHESIZED LATIN SMALL LETTER B",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9374,
+    "char": "⒞",
+    "name": "PARENTHESIZED LATIN SMALL LETTER C",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9375,
+    "char": "⒟",
+    "name": "PARENTHESIZED LATIN SMALL LETTER D",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9376,
+    "char": "⒠",
+    "name": "PARENTHESIZED LATIN SMALL LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9377,
+    "char": "⒡",
+    "name": "PARENTHESIZED LATIN SMALL LETTER F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9378,
+    "char": "⒢",
+    "name": "PARENTHESIZED LATIN SMALL LETTER G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9379,
+    "char": "⒣",
+    "name": "PARENTHESIZED LATIN SMALL LETTER H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9380,
+    "char": "⒤",
+    "name": "PARENTHESIZED LATIN SMALL LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9381,
+    "char": "⒥",
+    "name": "PARENTHESIZED LATIN SMALL LETTER J",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9382,
+    "char": "⒦",
+    "name": "PARENTHESIZED LATIN SMALL LETTER K",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9383,
+    "char": "⒧",
+    "name": "PARENTHESIZED LATIN SMALL LETTER L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9384,
+    "char": "⒨",
+    "name": "PARENTHESIZED LATIN SMALL LETTER M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9385,
+    "char": "⒩",
+    "name": "PARENTHESIZED LATIN SMALL LETTER N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9386,
+    "char": "⒪",
+    "name": "PARENTHESIZED LATIN SMALL LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9387,
+    "char": "⒫",
+    "name": "PARENTHESIZED LATIN SMALL LETTER P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9388,
+    "char": "⒬",
+    "name": "PARENTHESIZED LATIN SMALL LETTER Q",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9389,
+    "char": "⒭",
+    "name": "PARENTHESIZED LATIN SMALL LETTER R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9390,
+    "char": "⒮",
+    "name": "PARENTHESIZED LATIN SMALL LETTER S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9391,
+    "char": "⒯",
+    "name": "PARENTHESIZED LATIN SMALL LETTER T",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9392,
+    "char": "⒰",
+    "name": "PARENTHESIZED LATIN SMALL LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9393,
+    "char": "⒱",
+    "name": "PARENTHESIZED LATIN SMALL LETTER V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9394,
+    "char": "⒲",
+    "name": "PARENTHESIZED LATIN SMALL LETTER W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9395,
+    "char": "⒳",
+    "name": "PARENTHESIZED LATIN SMALL LETTER X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9396,
+    "char": "⒴",
+    "name": "PARENTHESIZED LATIN SMALL LETTER Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9397,
+    "char": "⒵",
+    "name": "PARENTHESIZED LATIN SMALL LETTER Z",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9398,
+    "char": "Ⓐ",
+    "name": "CIRCLED LATIN CAPITAL LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9399,
+    "char": "Ⓑ",
+    "name": "CIRCLED LATIN CAPITAL LETTER B",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9400,
+    "char": "Ⓒ",
+    "name": "CIRCLED LATIN CAPITAL LETTER C",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9401,
+    "char": "Ⓓ",
+    "name": "CIRCLED LATIN CAPITAL LETTER D",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9402,
+    "char": "Ⓔ",
+    "name": "CIRCLED LATIN CAPITAL LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9403,
+    "char": "Ⓕ",
+    "name": "CIRCLED LATIN CAPITAL LETTER F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9404,
+    "char": "Ⓖ",
+    "name": "CIRCLED LATIN CAPITAL LETTER G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9405,
+    "char": "Ⓗ",
+    "name": "CIRCLED LATIN CAPITAL LETTER H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9406,
+    "char": "Ⓘ",
+    "name": "CIRCLED LATIN CAPITAL LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9407,
+    "char": "Ⓙ",
+    "name": "CIRCLED LATIN CAPITAL LETTER J",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9408,
+    "char": "Ⓚ",
+    "name": "CIRCLED LATIN CAPITAL LETTER K",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9409,
+    "char": "Ⓛ",
+    "name": "CIRCLED LATIN CAPITAL LETTER L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9410,
+    "char": "Ⓜ",
+    "name": "CIRCLED LATIN CAPITAL LETTER M",
+    "ru": "буква «м» в кружке",
+    "en": "circled M",
+    "keywords": {
+      "ru": [
+        "буква",
+        "буква \"м\" в кружке",
+        "буква «м» в кружке",
+        "буква в кружке",
+        "кружок",
+        "м"
+      ],
+      "en": ["circle", "circled", "M"]
+    }
+  },
+  {
+    "cp": 9411,
+    "char": "Ⓝ",
+    "name": "CIRCLED LATIN CAPITAL LETTER N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9412,
+    "char": "Ⓞ",
+    "name": "CIRCLED LATIN CAPITAL LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9413,
+    "char": "Ⓟ",
+    "name": "CIRCLED LATIN CAPITAL LETTER P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9414,
+    "char": "Ⓠ",
+    "name": "CIRCLED LATIN CAPITAL LETTER Q",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9415,
+    "char": "Ⓡ",
+    "name": "CIRCLED LATIN CAPITAL LETTER R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9416,
+    "char": "Ⓢ",
+    "name": "CIRCLED LATIN CAPITAL LETTER S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9417,
+    "char": "Ⓣ",
+    "name": "CIRCLED LATIN CAPITAL LETTER T",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9418,
+    "char": "Ⓤ",
+    "name": "CIRCLED LATIN CAPITAL LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9419,
+    "char": "Ⓥ",
+    "name": "CIRCLED LATIN CAPITAL LETTER V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9420,
+    "char": "Ⓦ",
+    "name": "CIRCLED LATIN CAPITAL LETTER W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9421,
+    "char": "Ⓧ",
+    "name": "CIRCLED LATIN CAPITAL LETTER X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9422,
+    "char": "Ⓨ",
+    "name": "CIRCLED LATIN CAPITAL LETTER Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9423,
+    "char": "Ⓩ",
+    "name": "CIRCLED LATIN CAPITAL LETTER Z",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9424,
+    "char": "ⓐ",
+    "name": "CIRCLED LATIN SMALL LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9425,
+    "char": "ⓑ",
+    "name": "CIRCLED LATIN SMALL LETTER B",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9426,
+    "char": "ⓒ",
+    "name": "CIRCLED LATIN SMALL LETTER C",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9427,
+    "char": "ⓓ",
+    "name": "CIRCLED LATIN SMALL LETTER D",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9428,
+    "char": "ⓔ",
+    "name": "CIRCLED LATIN SMALL LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9429,
+    "char": "ⓕ",
+    "name": "CIRCLED LATIN SMALL LETTER F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9430,
+    "char": "ⓖ",
+    "name": "CIRCLED LATIN SMALL LETTER G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9431,
+    "char": "ⓗ",
+    "name": "CIRCLED LATIN SMALL LETTER H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9432,
+    "char": "ⓘ",
+    "name": "CIRCLED LATIN SMALL LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9433,
+    "char": "ⓙ",
+    "name": "CIRCLED LATIN SMALL LETTER J",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9434,
+    "char": "ⓚ",
+    "name": "CIRCLED LATIN SMALL LETTER K",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9435,
+    "char": "ⓛ",
+    "name": "CIRCLED LATIN SMALL LETTER L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9436,
+    "char": "ⓜ",
+    "name": "CIRCLED LATIN SMALL LETTER M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9437,
+    "char": "ⓝ",
+    "name": "CIRCLED LATIN SMALL LETTER N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9438,
+    "char": "ⓞ",
+    "name": "CIRCLED LATIN SMALL LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9439,
+    "char": "ⓟ",
+    "name": "CIRCLED LATIN SMALL LETTER P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9440,
+    "char": "ⓠ",
+    "name": "CIRCLED LATIN SMALL LETTER Q",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9441,
+    "char": "ⓡ",
+    "name": "CIRCLED LATIN SMALL LETTER R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9442,
+    "char": "ⓢ",
+    "name": "CIRCLED LATIN SMALL LETTER S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9443,
+    "char": "ⓣ",
+    "name": "CIRCLED LATIN SMALL LETTER T",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9444,
+    "char": "ⓤ",
+    "name": "CIRCLED LATIN SMALL LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9445,
+    "char": "ⓥ",
+    "name": "CIRCLED LATIN SMALL LETTER V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9446,
+    "char": "ⓦ",
+    "name": "CIRCLED LATIN SMALL LETTER W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9447,
+    "char": "ⓧ",
+    "name": "CIRCLED LATIN SMALL LETTER X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9448,
+    "char": "ⓨ",
+    "name": "CIRCLED LATIN SMALL LETTER Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9449,
+    "char": "ⓩ",
+    "name": "CIRCLED LATIN SMALL LETTER Z",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9450,
+    "char": "⓪",
+    "name": "CIRCLED DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9451,
+    "char": "⓫",
+    "name": "NEGATIVE CIRCLED NUMBER ELEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9452,
+    "char": "⓬",
+    "name": "NEGATIVE CIRCLED NUMBER TWELVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9453,
+    "char": "⓭",
+    "name": "NEGATIVE CIRCLED NUMBER THIRTEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9454,
+    "char": "⓮",
+    "name": "NEGATIVE CIRCLED NUMBER FOURTEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9455,
+    "char": "⓯",
+    "name": "NEGATIVE CIRCLED NUMBER FIFTEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9456,
+    "char": "⓰",
+    "name": "NEGATIVE CIRCLED NUMBER SIXTEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9457,
+    "char": "⓱",
+    "name": "NEGATIVE CIRCLED NUMBER SEVENTEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9458,
+    "char": "⓲",
+    "name": "NEGATIVE CIRCLED NUMBER EIGHTEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9459,
+    "char": "⓳",
+    "name": "NEGATIVE CIRCLED NUMBER NINETEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9460,
+    "char": "⓴",
+    "name": "NEGATIVE CIRCLED NUMBER TWENTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9461,
+    "char": "⓵",
+    "name": "DOUBLE CIRCLED DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9462,
+    "char": "⓶",
+    "name": "DOUBLE CIRCLED DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9463,
+    "char": "⓷",
+    "name": "DOUBLE CIRCLED DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9464,
+    "char": "⓸",
+    "name": "DOUBLE CIRCLED DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9465,
+    "char": "⓹",
+    "name": "DOUBLE CIRCLED DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9466,
+    "char": "⓺",
+    "name": "DOUBLE CIRCLED DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9467,
+    "char": "⓻",
+    "name": "DOUBLE CIRCLED DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9468,
+    "char": "⓼",
+    "name": "DOUBLE CIRCLED DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9469,
+    "char": "⓽",
+    "name": "DOUBLE CIRCLED DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9470,
+    "char": "⓾",
+    "name": "DOUBLE CIRCLED NUMBER TEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 9471,
+    "char": "⓿",
+    "name": "NEGATIVE CIRCLED DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

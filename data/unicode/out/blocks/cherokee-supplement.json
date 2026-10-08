@@ -1,0 +1,642 @@
+[
+  {
+    "cp": 43888,
+    "char": "ꭰ",
+    "name": "CHEROKEE SMALL LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43889,
+    "char": "ꭱ",
+    "name": "CHEROKEE SMALL LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43890,
+    "char": "ꭲ",
+    "name": "CHEROKEE SMALL LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43891,
+    "char": "ꭳ",
+    "name": "CHEROKEE SMALL LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43892,
+    "char": "ꭴ",
+    "name": "CHEROKEE SMALL LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43893,
+    "char": "ꭵ",
+    "name": "CHEROKEE SMALL LETTER V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43894,
+    "char": "ꭶ",
+    "name": "CHEROKEE SMALL LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43895,
+    "char": "ꭷ",
+    "name": "CHEROKEE SMALL LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43896,
+    "char": "ꭸ",
+    "name": "CHEROKEE SMALL LETTER GE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43897,
+    "char": "ꭹ",
+    "name": "CHEROKEE SMALL LETTER GI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43898,
+    "char": "ꭺ",
+    "name": "CHEROKEE SMALL LETTER GO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43899,
+    "char": "ꭻ",
+    "name": "CHEROKEE SMALL LETTER GU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43900,
+    "char": "ꭼ",
+    "name": "CHEROKEE SMALL LETTER GV",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43901,
+    "char": "ꭽ",
+    "name": "CHEROKEE SMALL LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43902,
+    "char": "ꭾ",
+    "name": "CHEROKEE SMALL LETTER HE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43903,
+    "char": "ꭿ",
+    "name": "CHEROKEE SMALL LETTER HI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43904,
+    "char": "ꮀ",
+    "name": "CHEROKEE SMALL LETTER HO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43905,
+    "char": "ꮁ",
+    "name": "CHEROKEE SMALL LETTER HU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43906,
+    "char": "ꮂ",
+    "name": "CHEROKEE SMALL LETTER HV",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43907,
+    "char": "ꮃ",
+    "name": "CHEROKEE SMALL LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43908,
+    "char": "ꮄ",
+    "name": "CHEROKEE SMALL LETTER LE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43909,
+    "char": "ꮅ",
+    "name": "CHEROKEE SMALL LETTER LI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43910,
+    "char": "ꮆ",
+    "name": "CHEROKEE SMALL LETTER LO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43911,
+    "char": "ꮇ",
+    "name": "CHEROKEE SMALL LETTER LU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43912,
+    "char": "ꮈ",
+    "name": "CHEROKEE SMALL LETTER LV",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43913,
+    "char": "ꮉ",
+    "name": "CHEROKEE SMALL LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43914,
+    "char": "ꮊ",
+    "name": "CHEROKEE SMALL LETTER ME",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43915,
+    "char": "ꮋ",
+    "name": "CHEROKEE SMALL LETTER MI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43916,
+    "char": "ꮌ",
+    "name": "CHEROKEE SMALL LETTER MO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43917,
+    "char": "ꮍ",
+    "name": "CHEROKEE SMALL LETTER MU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43918,
+    "char": "ꮎ",
+    "name": "CHEROKEE SMALL LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43919,
+    "char": "ꮏ",
+    "name": "CHEROKEE SMALL LETTER HNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43920,
+    "char": "ꮐ",
+    "name": "CHEROKEE SMALL LETTER NAH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43921,
+    "char": "ꮑ",
+    "name": "CHEROKEE SMALL LETTER NE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43922,
+    "char": "ꮒ",
+    "name": "CHEROKEE SMALL LETTER NI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43923,
+    "char": "ꮓ",
+    "name": "CHEROKEE SMALL LETTER NO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43924,
+    "char": "ꮔ",
+    "name": "CHEROKEE SMALL LETTER NU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43925,
+    "char": "ꮕ",
+    "name": "CHEROKEE SMALL LETTER NV",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43926,
+    "char": "ꮖ",
+    "name": "CHEROKEE SMALL LETTER QUA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43927,
+    "char": "ꮗ",
+    "name": "CHEROKEE SMALL LETTER QUE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43928,
+    "char": "ꮘ",
+    "name": "CHEROKEE SMALL LETTER QUI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43929,
+    "char": "ꮙ",
+    "name": "CHEROKEE SMALL LETTER QUO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43930,
+    "char": "ꮚ",
+    "name": "CHEROKEE SMALL LETTER QUU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43931,
+    "char": "ꮛ",
+    "name": "CHEROKEE SMALL LETTER QUV",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43932,
+    "char": "ꮜ",
+    "name": "CHEROKEE SMALL LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43933,
+    "char": "ꮝ",
+    "name": "CHEROKEE SMALL LETTER S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43934,
+    "char": "ꮞ",
+    "name": "CHEROKEE SMALL LETTER SE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43935,
+    "char": "ꮟ",
+    "name": "CHEROKEE SMALL LETTER SI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43936,
+    "char": "ꮠ",
+    "name": "CHEROKEE SMALL LETTER SO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43937,
+    "char": "ꮡ",
+    "name": "CHEROKEE SMALL LETTER SU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43938,
+    "char": "ꮢ",
+    "name": "CHEROKEE SMALL LETTER SV",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43939,
+    "char": "ꮣ",
+    "name": "CHEROKEE SMALL LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43940,
+    "char": "ꮤ",
+    "name": "CHEROKEE SMALL LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43941,
+    "char": "ꮥ",
+    "name": "CHEROKEE SMALL LETTER DE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43942,
+    "char": "ꮦ",
+    "name": "CHEROKEE SMALL LETTER TE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43943,
+    "char": "ꮧ",
+    "name": "CHEROKEE SMALL LETTER DI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43944,
+    "char": "ꮨ",
+    "name": "CHEROKEE SMALL LETTER TI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43945,
+    "char": "ꮩ",
+    "name": "CHEROKEE SMALL LETTER DO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43946,
+    "char": "ꮪ",
+    "name": "CHEROKEE SMALL LETTER DU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43947,
+    "char": "ꮫ",
+    "name": "CHEROKEE SMALL LETTER DV",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43948,
+    "char": "ꮬ",
+    "name": "CHEROKEE SMALL LETTER DLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43949,
+    "char": "ꮭ",
+    "name": "CHEROKEE SMALL LETTER TLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43950,
+    "char": "ꮮ",
+    "name": "CHEROKEE SMALL LETTER TLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43951,
+    "char": "ꮯ",
+    "name": "CHEROKEE SMALL LETTER TLI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43952,
+    "char": "ꮰ",
+    "name": "CHEROKEE SMALL LETTER TLO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43953,
+    "char": "ꮱ",
+    "name": "CHEROKEE SMALL LETTER TLU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43954,
+    "char": "ꮲ",
+    "name": "CHEROKEE SMALL LETTER TLV",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43955,
+    "char": "ꮳ",
+    "name": "CHEROKEE SMALL LETTER TSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43956,
+    "char": "ꮴ",
+    "name": "CHEROKEE SMALL LETTER TSE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43957,
+    "char": "ꮵ",
+    "name": "CHEROKEE SMALL LETTER TSI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43958,
+    "char": "ꮶ",
+    "name": "CHEROKEE SMALL LETTER TSO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43959,
+    "char": "ꮷ",
+    "name": "CHEROKEE SMALL LETTER TSU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43960,
+    "char": "ꮸ",
+    "name": "CHEROKEE SMALL LETTER TSV",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43961,
+    "char": "ꮹ",
+    "name": "CHEROKEE SMALL LETTER WA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43962,
+    "char": "ꮺ",
+    "name": "CHEROKEE SMALL LETTER WE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43963,
+    "char": "ꮻ",
+    "name": "CHEROKEE SMALL LETTER WI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43964,
+    "char": "ꮼ",
+    "name": "CHEROKEE SMALL LETTER WO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43965,
+    "char": "ꮽ",
+    "name": "CHEROKEE SMALL LETTER WU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43966,
+    "char": "ꮾ",
+    "name": "CHEROKEE SMALL LETTER WV",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 43967,
+    "char": "ꮿ",
+    "name": "CHEROKEE SMALL LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

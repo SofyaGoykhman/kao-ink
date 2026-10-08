@@ -1,0 +1,578 @@
+[
+  {
+    "cp": 2946,
+    "char": "ஂ",
+    "name": "TAMIL SIGN ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2947,
+    "char": "ஃ",
+    "name": "TAMIL SIGN VISARGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2949,
+    "char": "அ",
+    "name": "TAMIL LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2950,
+    "char": "ஆ",
+    "name": "TAMIL LETTER AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2951,
+    "char": "இ",
+    "name": "TAMIL LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2952,
+    "char": "ஈ",
+    "name": "TAMIL LETTER II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2953,
+    "char": "உ",
+    "name": "TAMIL LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2954,
+    "char": "ஊ",
+    "name": "TAMIL LETTER UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2958,
+    "char": "எ",
+    "name": "TAMIL LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2959,
+    "char": "ஏ",
+    "name": "TAMIL LETTER EE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2960,
+    "char": "ஐ",
+    "name": "TAMIL LETTER AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2962,
+    "char": "ஒ",
+    "name": "TAMIL LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2963,
+    "char": "ஓ",
+    "name": "TAMIL LETTER OO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2964,
+    "char": "ஔ",
+    "name": "TAMIL LETTER AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2965,
+    "char": "க",
+    "name": "TAMIL LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2969,
+    "char": "ங",
+    "name": "TAMIL LETTER NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2970,
+    "char": "ச",
+    "name": "TAMIL LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2972,
+    "char": "ஜ",
+    "name": "TAMIL LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2974,
+    "char": "ஞ",
+    "name": "TAMIL LETTER NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2975,
+    "char": "ட",
+    "name": "TAMIL LETTER TTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2979,
+    "char": "ண",
+    "name": "TAMIL LETTER NNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2980,
+    "char": "த",
+    "name": "TAMIL LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2984,
+    "char": "ந",
+    "name": "TAMIL LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2985,
+    "char": "ன",
+    "name": "TAMIL LETTER NNNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2986,
+    "char": "ப",
+    "name": "TAMIL LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2990,
+    "char": "ம",
+    "name": "TAMIL LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2991,
+    "char": "ய",
+    "name": "TAMIL LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2992,
+    "char": "ர",
+    "name": "TAMIL LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2993,
+    "char": "ற",
+    "name": "TAMIL LETTER RRA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2994,
+    "char": "ல",
+    "name": "TAMIL LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2995,
+    "char": "ள",
+    "name": "TAMIL LETTER LLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2996,
+    "char": "ழ",
+    "name": "TAMIL LETTER LLLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2997,
+    "char": "வ",
+    "name": "TAMIL LETTER VA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2998,
+    "char": "ஶ",
+    "name": "TAMIL LETTER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 2999,
+    "char": "ஷ",
+    "name": "TAMIL LETTER SSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3000,
+    "char": "ஸ",
+    "name": "TAMIL LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3001,
+    "char": "ஹ",
+    "name": "TAMIL LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3006,
+    "char": "ா",
+    "name": "TAMIL VOWEL SIGN AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3007,
+    "char": "ி",
+    "name": "TAMIL VOWEL SIGN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3008,
+    "char": "ீ",
+    "name": "TAMIL VOWEL SIGN II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3009,
+    "char": "ு",
+    "name": "TAMIL VOWEL SIGN U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3010,
+    "char": "ூ",
+    "name": "TAMIL VOWEL SIGN UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3014,
+    "char": "ெ",
+    "name": "TAMIL VOWEL SIGN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3015,
+    "char": "ே",
+    "name": "TAMIL VOWEL SIGN EE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3016,
+    "char": "ை",
+    "name": "TAMIL VOWEL SIGN AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3018,
+    "char": "ொ",
+    "name": "TAMIL VOWEL SIGN O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3019,
+    "char": "ோ",
+    "name": "TAMIL VOWEL SIGN OO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3020,
+    "char": "ௌ",
+    "name": "TAMIL VOWEL SIGN AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3021,
+    "char": "்",
+    "name": "TAMIL SIGN VIRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3024,
+    "char": "ௐ",
+    "name": "TAMIL OM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3031,
+    "char": "ௗ",
+    "name": "TAMIL AU LENGTH MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3046,
+    "char": "௦",
+    "name": "TAMIL DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3047,
+    "char": "௧",
+    "name": "TAMIL DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3048,
+    "char": "௨",
+    "name": "TAMIL DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3049,
+    "char": "௩",
+    "name": "TAMIL DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3050,
+    "char": "௪",
+    "name": "TAMIL DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3051,
+    "char": "௫",
+    "name": "TAMIL DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3052,
+    "char": "௬",
+    "name": "TAMIL DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3053,
+    "char": "௭",
+    "name": "TAMIL DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3054,
+    "char": "௮",
+    "name": "TAMIL DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3055,
+    "char": "௯",
+    "name": "TAMIL DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3056,
+    "char": "௰",
+    "name": "TAMIL NUMBER TEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3057,
+    "char": "௱",
+    "name": "TAMIL NUMBER ONE HUNDRED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3058,
+    "char": "௲",
+    "name": "TAMIL NUMBER ONE THOUSAND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3059,
+    "char": "௳",
+    "name": "TAMIL DAY SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3060,
+    "char": "௴",
+    "name": "TAMIL MONTH SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3061,
+    "char": "௵",
+    "name": "TAMIL YEAR SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3062,
+    "char": "௶",
+    "name": "TAMIL DEBIT SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3063,
+    "char": "௷",
+    "name": "TAMIL CREDIT SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3064,
+    "char": "௸",
+    "name": "TAMIL AS ABOVE SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3065,
+    "char": "௹",
+    "name": "TAMIL RUPEE SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3066,
+    "char": "௺",
+    "name": "TAMIL NUMBER SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

@@ -1,0 +1,1026 @@
+[
+  {
+    "cp": 10624,
+    "char": "⦀",
+    "name": "TRIPLE VERTICAL BAR DELIMITER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10625,
+    "char": "⦁",
+    "name": "Z NOTATION SPOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10626,
+    "char": "⦂",
+    "name": "Z NOTATION TYPE COLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10627,
+    "char": "⦃",
+    "name": "LEFT WHITE CURLY BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10628,
+    "char": "⦄",
+    "name": "RIGHT WHITE CURLY BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10629,
+    "char": "⦅",
+    "name": "LEFT WHITE PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10630,
+    "char": "⦆",
+    "name": "RIGHT WHITE PARENTHESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10631,
+    "char": "⦇",
+    "name": "Z NOTATION LEFT IMAGE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10632,
+    "char": "⦈",
+    "name": "Z NOTATION RIGHT IMAGE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10633,
+    "char": "⦉",
+    "name": "Z NOTATION LEFT BINDING BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10634,
+    "char": "⦊",
+    "name": "Z NOTATION RIGHT BINDING BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10635,
+    "char": "⦋",
+    "name": "LEFT SQUARE BRACKET WITH UNDERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10636,
+    "char": "⦌",
+    "name": "RIGHT SQUARE BRACKET WITH UNDERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10637,
+    "char": "⦍",
+    "name": "LEFT SQUARE BRACKET WITH TICK IN TOP CORNER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10638,
+    "char": "⦎",
+    "name": "RIGHT SQUARE BRACKET WITH TICK IN BOTTOM CORNER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10639,
+    "char": "⦏",
+    "name": "LEFT SQUARE BRACKET WITH TICK IN BOTTOM CORNER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10640,
+    "char": "⦐",
+    "name": "RIGHT SQUARE BRACKET WITH TICK IN TOP CORNER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10641,
+    "char": "⦑",
+    "name": "LEFT ANGLE BRACKET WITH DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10642,
+    "char": "⦒",
+    "name": "RIGHT ANGLE BRACKET WITH DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10643,
+    "char": "⦓",
+    "name": "LEFT ARC LESS-THAN BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10644,
+    "char": "⦔",
+    "name": "RIGHT ARC GREATER-THAN BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10645,
+    "char": "⦕",
+    "name": "DOUBLE LEFT ARC GREATER-THAN BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10646,
+    "char": "⦖",
+    "name": "DOUBLE RIGHT ARC LESS-THAN BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10647,
+    "char": "⦗",
+    "name": "LEFT BLACK TORTOISE SHELL BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10648,
+    "char": "⦘",
+    "name": "RIGHT BLACK TORTOISE SHELL BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10649,
+    "char": "⦙",
+    "name": "DOTTED FENCE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10650,
+    "char": "⦚",
+    "name": "VERTICAL ZIGZAG LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10651,
+    "char": "⦛",
+    "name": "MEASURED ANGLE OPENING LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10652,
+    "char": "⦜",
+    "name": "RIGHT ANGLE VARIANT WITH SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10653,
+    "char": "⦝",
+    "name": "MEASURED RIGHT ANGLE WITH DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10654,
+    "char": "⦞",
+    "name": "ANGLE WITH S INSIDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10655,
+    "char": "⦟",
+    "name": "ACUTE ANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10656,
+    "char": "⦠",
+    "name": "SPHERICAL ANGLE OPENING LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10657,
+    "char": "⦡",
+    "name": "SPHERICAL ANGLE OPENING UP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10658,
+    "char": "⦢",
+    "name": "TURNED ANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10659,
+    "char": "⦣",
+    "name": "REVERSED ANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10660,
+    "char": "⦤",
+    "name": "ANGLE WITH UNDERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10661,
+    "char": "⦥",
+    "name": "REVERSED ANGLE WITH UNDERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10662,
+    "char": "⦦",
+    "name": "OBLIQUE ANGLE OPENING UP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10663,
+    "char": "⦧",
+    "name": "OBLIQUE ANGLE OPENING DOWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10664,
+    "char": "⦨",
+    "name": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10665,
+    "char": "⦩",
+    "name": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10666,
+    "char": "⦪",
+    "name": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10667,
+    "char": "⦫",
+    "name": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10668,
+    "char": "⦬",
+    "name": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND UP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10669,
+    "char": "⦭",
+    "name": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING LEFT AND UP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10670,
+    "char": "⦮",
+    "name": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND DOWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10671,
+    "char": "⦯",
+    "name": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING LEFT AND DOWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10672,
+    "char": "⦰",
+    "name": "REVERSED EMPTY SET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10673,
+    "char": "⦱",
+    "name": "EMPTY SET WITH OVERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10674,
+    "char": "⦲",
+    "name": "EMPTY SET WITH SMALL CIRCLE ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10675,
+    "char": "⦳",
+    "name": "EMPTY SET WITH RIGHT ARROW ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10676,
+    "char": "⦴",
+    "name": "EMPTY SET WITH LEFT ARROW ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10677,
+    "char": "⦵",
+    "name": "CIRCLE WITH HORIZONTAL BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10678,
+    "char": "⦶",
+    "name": "CIRCLED VERTICAL BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10679,
+    "char": "⦷",
+    "name": "CIRCLED PARALLEL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10680,
+    "char": "⦸",
+    "name": "CIRCLED REVERSE SOLIDUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10681,
+    "char": "⦹",
+    "name": "CIRCLED PERPENDICULAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10682,
+    "char": "⦺",
+    "name": "CIRCLE DIVIDED BY HORIZONTAL BAR AND TOP HALF DIVIDED BY VERTICAL BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10683,
+    "char": "⦻",
+    "name": "CIRCLE WITH SUPERIMPOSED X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10684,
+    "char": "⦼",
+    "name": "CIRCLED ANTICLOCKWISE-ROTATED DIVISION SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10685,
+    "char": "⦽",
+    "name": "UP ARROW THROUGH CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10686,
+    "char": "⦾",
+    "name": "CIRCLED WHITE BULLET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10687,
+    "char": "⦿",
+    "name": "CIRCLED BULLET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10688,
+    "char": "⧀",
+    "name": "CIRCLED LESS-THAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10689,
+    "char": "⧁",
+    "name": "CIRCLED GREATER-THAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10690,
+    "char": "⧂",
+    "name": "CIRCLE WITH SMALL CIRCLE TO THE RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10691,
+    "char": "⧃",
+    "name": "CIRCLE WITH TWO HORIZONTAL STROKES TO THE RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10692,
+    "char": "⧄",
+    "name": "SQUARED RISING DIAGONAL SLASH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10693,
+    "char": "⧅",
+    "name": "SQUARED FALLING DIAGONAL SLASH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10694,
+    "char": "⧆",
+    "name": "SQUARED ASTERISK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10695,
+    "char": "⧇",
+    "name": "SQUARED SMALL CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10696,
+    "char": "⧈",
+    "name": "SQUARED SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10697,
+    "char": "⧉",
+    "name": "TWO JOINED SQUARES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10698,
+    "char": "⧊",
+    "name": "TRIANGLE WITH DOT ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10699,
+    "char": "⧋",
+    "name": "TRIANGLE WITH UNDERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10700,
+    "char": "⧌",
+    "name": "S IN TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10701,
+    "char": "⧍",
+    "name": "TRIANGLE WITH SERIFS AT BOTTOM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10702,
+    "char": "⧎",
+    "name": "RIGHT TRIANGLE ABOVE LEFT TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10703,
+    "char": "⧏",
+    "name": "LEFT TRIANGLE BESIDE VERTICAL BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10704,
+    "char": "⧐",
+    "name": "VERTICAL BAR BESIDE RIGHT TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10705,
+    "char": "⧑",
+    "name": "BOWTIE WITH LEFT HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10706,
+    "char": "⧒",
+    "name": "BOWTIE WITH RIGHT HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10707,
+    "char": "⧓",
+    "name": "BLACK BOWTIE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10708,
+    "char": "⧔",
+    "name": "TIMES WITH LEFT HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10709,
+    "char": "⧕",
+    "name": "TIMES WITH RIGHT HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10710,
+    "char": "⧖",
+    "name": "WHITE HOURGLASS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10711,
+    "char": "⧗",
+    "name": "BLACK HOURGLASS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10712,
+    "char": "⧘",
+    "name": "LEFT WIGGLY FENCE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10713,
+    "char": "⧙",
+    "name": "RIGHT WIGGLY FENCE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10714,
+    "char": "⧚",
+    "name": "LEFT DOUBLE WIGGLY FENCE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10715,
+    "char": "⧛",
+    "name": "RIGHT DOUBLE WIGGLY FENCE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10716,
+    "char": "⧜",
+    "name": "INCOMPLETE INFINITY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10717,
+    "char": "⧝",
+    "name": "TIE OVER INFINITY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10718,
+    "char": "⧞",
+    "name": "INFINITY NEGATED WITH VERTICAL BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10719,
+    "char": "⧟",
+    "name": "DOUBLE-ENDED MULTIMAP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10720,
+    "char": "⧠",
+    "name": "SQUARE WITH CONTOURED OUTLINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10721,
+    "char": "⧡",
+    "name": "INCREASES AS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10722,
+    "char": "⧢",
+    "name": "SHUFFLE PRODUCT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10723,
+    "char": "⧣",
+    "name": "EQUALS SIGN AND SLANTED PARALLEL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10724,
+    "char": "⧤",
+    "name": "EQUALS SIGN AND SLANTED PARALLEL WITH TILDE ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10725,
+    "char": "⧥",
+    "name": "IDENTICAL TO AND SLANTED PARALLEL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10726,
+    "char": "⧦",
+    "name": "GLEICH STARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10727,
+    "char": "⧧",
+    "name": "THERMODYNAMIC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10728,
+    "char": "⧨",
+    "name": "DOWN-POINTING TRIANGLE WITH LEFT HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10729,
+    "char": "⧩",
+    "name": "DOWN-POINTING TRIANGLE WITH RIGHT HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10730,
+    "char": "⧪",
+    "name": "BLACK DIAMOND WITH DOWN ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10731,
+    "char": "⧫",
+    "name": "BLACK LOZENGE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10732,
+    "char": "⧬",
+    "name": "WHITE CIRCLE WITH DOWN ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10733,
+    "char": "⧭",
+    "name": "BLACK CIRCLE WITH DOWN ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10734,
+    "char": "⧮",
+    "name": "ERROR-BARRED WHITE SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10735,
+    "char": "⧯",
+    "name": "ERROR-BARRED BLACK SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10736,
+    "char": "⧰",
+    "name": "ERROR-BARRED WHITE DIAMOND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10737,
+    "char": "⧱",
+    "name": "ERROR-BARRED BLACK DIAMOND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10738,
+    "char": "⧲",
+    "name": "ERROR-BARRED WHITE CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10739,
+    "char": "⧳",
+    "name": "ERROR-BARRED BLACK CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10740,
+    "char": "⧴",
+    "name": "RULE-DELAYED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10741,
+    "char": "⧵",
+    "name": "REVERSE SOLIDUS OPERATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10742,
+    "char": "⧶",
+    "name": "SOLIDUS WITH OVERBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10743,
+    "char": "⧷",
+    "name": "REVERSE SOLIDUS WITH HORIZONTAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10744,
+    "char": "⧸",
+    "name": "BIG SOLIDUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10745,
+    "char": "⧹",
+    "name": "BIG REVERSE SOLIDUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10746,
+    "char": "⧺",
+    "name": "DOUBLE PLUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10747,
+    "char": "⧻",
+    "name": "TRIPLE PLUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10748,
+    "char": "⧼",
+    "name": "LEFT-POINTING CURVED ANGLE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10749,
+    "char": "⧽",
+    "name": "RIGHT-POINTING CURVED ANGLE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10750,
+    "char": "⧾",
+    "name": "TINY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 10751,
+    "char": "⧿",
+    "name": "MINY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

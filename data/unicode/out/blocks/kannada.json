@@ -1,0 +1,738 @@
+[
+  {
+    "cp": 3200,
+    "char": "ಀ",
+    "name": "KANNADA SIGN SPACING CANDRABINDU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3201,
+    "char": "ಁ",
+    "name": "KANNADA SIGN CANDRABINDU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3202,
+    "char": "ಂ",
+    "name": "KANNADA SIGN ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3203,
+    "char": "ಃ",
+    "name": "KANNADA SIGN VISARGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3204,
+    "char": "಄",
+    "name": "KANNADA SIGN SIDDHAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3205,
+    "char": "ಅ",
+    "name": "KANNADA LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3206,
+    "char": "ಆ",
+    "name": "KANNADA LETTER AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3207,
+    "char": "ಇ",
+    "name": "KANNADA LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3208,
+    "char": "ಈ",
+    "name": "KANNADA LETTER II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3209,
+    "char": "ಉ",
+    "name": "KANNADA LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3210,
+    "char": "ಊ",
+    "name": "KANNADA LETTER UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3211,
+    "char": "ಋ",
+    "name": "KANNADA LETTER VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3212,
+    "char": "ಌ",
+    "name": "KANNADA LETTER VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3214,
+    "char": "ಎ",
+    "name": "KANNADA LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3215,
+    "char": "ಏ",
+    "name": "KANNADA LETTER EE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3216,
+    "char": "ಐ",
+    "name": "KANNADA LETTER AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3218,
+    "char": "ಒ",
+    "name": "KANNADA LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3219,
+    "char": "ಓ",
+    "name": "KANNADA LETTER OO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3220,
+    "char": "ಔ",
+    "name": "KANNADA LETTER AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3221,
+    "char": "ಕ",
+    "name": "KANNADA LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3222,
+    "char": "ಖ",
+    "name": "KANNADA LETTER KHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3223,
+    "char": "ಗ",
+    "name": "KANNADA LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3224,
+    "char": "ಘ",
+    "name": "KANNADA LETTER GHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3225,
+    "char": "ಙ",
+    "name": "KANNADA LETTER NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3226,
+    "char": "ಚ",
+    "name": "KANNADA LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3227,
+    "char": "ಛ",
+    "name": "KANNADA LETTER CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3228,
+    "char": "ಜ",
+    "name": "KANNADA LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3229,
+    "char": "ಝ",
+    "name": "KANNADA LETTER JHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3230,
+    "char": "ಞ",
+    "name": "KANNADA LETTER NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3231,
+    "char": "ಟ",
+    "name": "KANNADA LETTER TTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3232,
+    "char": "ಠ",
+    "name": "KANNADA LETTER TTHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3233,
+    "char": "ಡ",
+    "name": "KANNADA LETTER DDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3234,
+    "char": "ಢ",
+    "name": "KANNADA LETTER DDHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3235,
+    "char": "ಣ",
+    "name": "KANNADA LETTER NNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3236,
+    "char": "ತ",
+    "name": "KANNADA LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3237,
+    "char": "ಥ",
+    "name": "KANNADA LETTER THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3238,
+    "char": "ದ",
+    "name": "KANNADA LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3239,
+    "char": "ಧ",
+    "name": "KANNADA LETTER DHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3240,
+    "char": "ನ",
+    "name": "KANNADA LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3242,
+    "char": "ಪ",
+    "name": "KANNADA LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3243,
+    "char": "ಫ",
+    "name": "KANNADA LETTER PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3244,
+    "char": "ಬ",
+    "name": "KANNADA LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3245,
+    "char": "ಭ",
+    "name": "KANNADA LETTER BHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3246,
+    "char": "ಮ",
+    "name": "KANNADA LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3247,
+    "char": "ಯ",
+    "name": "KANNADA LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3248,
+    "char": "ರ",
+    "name": "KANNADA LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3249,
+    "char": "ಱ",
+    "name": "KANNADA LETTER RRA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3250,
+    "char": "ಲ",
+    "name": "KANNADA LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3251,
+    "char": "ಳ",
+    "name": "KANNADA LETTER LLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3253,
+    "char": "ವ",
+    "name": "KANNADA LETTER VA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3254,
+    "char": "ಶ",
+    "name": "KANNADA LETTER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3255,
+    "char": "ಷ",
+    "name": "KANNADA LETTER SSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3256,
+    "char": "ಸ",
+    "name": "KANNADA LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3257,
+    "char": "ಹ",
+    "name": "KANNADA LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3260,
+    "char": "಼",
+    "name": "KANNADA SIGN NUKTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3261,
+    "char": "ಽ",
+    "name": "KANNADA SIGN AVAGRAHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3262,
+    "char": "ಾ",
+    "name": "KANNADA VOWEL SIGN AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3263,
+    "char": "ಿ",
+    "name": "KANNADA VOWEL SIGN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3264,
+    "char": "ೀ",
+    "name": "KANNADA VOWEL SIGN II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3265,
+    "char": "ು",
+    "name": "KANNADA VOWEL SIGN U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3266,
+    "char": "ೂ",
+    "name": "KANNADA VOWEL SIGN UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3267,
+    "char": "ೃ",
+    "name": "KANNADA VOWEL SIGN VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3268,
+    "char": "ೄ",
+    "name": "KANNADA VOWEL SIGN VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3270,
+    "char": "ೆ",
+    "name": "KANNADA VOWEL SIGN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3271,
+    "char": "ೇ",
+    "name": "KANNADA VOWEL SIGN EE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3272,
+    "char": "ೈ",
+    "name": "KANNADA VOWEL SIGN AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3274,
+    "char": "ೊ",
+    "name": "KANNADA VOWEL SIGN O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3275,
+    "char": "ೋ",
+    "name": "KANNADA VOWEL SIGN OO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3276,
+    "char": "ೌ",
+    "name": "KANNADA VOWEL SIGN AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3277,
+    "char": "್",
+    "name": "KANNADA SIGN VIRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3285,
+    "char": "ೕ",
+    "name": "KANNADA LENGTH MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3286,
+    "char": "ೖ",
+    "name": "KANNADA AI LENGTH MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3292,
+    "char": "೜",
+    "name": "KANNADA ARCHAIC SHRII",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3293,
+    "char": "ೝ",
+    "name": "KANNADA LETTER NAKAARA POLLU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3294,
+    "char": "ೞ",
+    "name": "KANNADA LETTER FA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3296,
+    "char": "ೠ",
+    "name": "KANNADA LETTER VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3297,
+    "char": "ೡ",
+    "name": "KANNADA LETTER VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3298,
+    "char": "ೢ",
+    "name": "KANNADA VOWEL SIGN VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3299,
+    "char": "ೣ",
+    "name": "KANNADA VOWEL SIGN VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3302,
+    "char": "೦",
+    "name": "KANNADA DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3303,
+    "char": "೧",
+    "name": "KANNADA DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3304,
+    "char": "೨",
+    "name": "KANNADA DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3305,
+    "char": "೩",
+    "name": "KANNADA DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3306,
+    "char": "೪",
+    "name": "KANNADA DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3307,
+    "char": "೫",
+    "name": "KANNADA DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3308,
+    "char": "೬",
+    "name": "KANNADA DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3309,
+    "char": "೭",
+    "name": "KANNADA DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3310,
+    "char": "೮",
+    "name": "KANNADA DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3311,
+    "char": "೯",
+    "name": "KANNADA DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3313,
+    "char": "ೱ",
+    "name": "KANNADA SIGN JIHVAMULIYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3314,
+    "char": "ೲ",
+    "name": "KANNADA SIGN UPADHMANIYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3315,
+    "char": "ೳ",
+    "name": "KANNADA SIGN COMBINING ANUSVARA ABOVE RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

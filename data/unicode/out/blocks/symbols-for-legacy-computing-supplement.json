@@ -1,0 +1,5562 @@
+[
+  {
+    "cp": 117760,
+    "char": "𜰀",
+    "name": "UP-POINTING GO-KART",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117761,
+    "char": "𜰁",
+    "name": "RIGHT-POINTING GO-KART",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117762,
+    "char": "𜰂",
+    "name": "LEFT-POINTING STICK FIGURE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117763,
+    "char": "𜰃",
+    "name": "RIGHT-POINTING STICK FIGURE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117764,
+    "char": "𜰄",
+    "name": "DOWN-POINTING STICK FIGURE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117765,
+    "char": "𜰅",
+    "name": "LOWER HORIZONTAL RULER SEGMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117766,
+    "char": "𜰆",
+    "name": "RIGHT VERTICAL RULER SEGMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117767,
+    "char": "𜰇",
+    "name": "LOWER RIGHT RULER SEGMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117768,
+    "char": "𜰈",
+    "name": "ANTENNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117769,
+    "char": "𜰉",
+    "name": "HORIZONTAL RESISTOR SEGMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117770,
+    "char": "𜰊",
+    "name": "VERTICAL RESISTOR SEGMENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117771,
+    "char": "𜰋",
+    "name": "LEFT THIRD INDUCTOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117772,
+    "char": "𜰌",
+    "name": "MIDDLE THIRD INDUCTOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117773,
+    "char": "𜰍",
+    "name": "RIGHT THIRD INDUCTOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117774,
+    "char": "𜰎",
+    "name": "LEFT-POINTING DIODE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117775,
+    "char": "𜰏",
+    "name": "RIGHT-POINTING DIODE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117776,
+    "char": "𜰐",
+    "name": "NPN TRANSISTOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117777,
+    "char": "𜰑",
+    "name": "PNP TRANSISTOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117778,
+    "char": "𜰒",
+    "name": "RECEPTACLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117779,
+    "char": "𜰓",
+    "name": "HORIZONTAL CAPACITOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117780,
+    "char": "𜰔",
+    "name": "VERTICAL CAPACITOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117781,
+    "char": "𜰕",
+    "name": "LOGIC GATE OR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117782,
+    "char": "𜰖",
+    "name": "LOGIC GATE AND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117783,
+    "char": "𜰗",
+    "name": "LOGIC GATE INVERTED INPUTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117784,
+    "char": "𜰘",
+    "name": "LOGIC GATE INVERTED OUTPUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117785,
+    "char": "𜰙",
+    "name": "LOGIC GATE BUFFER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117786,
+    "char": "𜰚",
+    "name": "LOGIC GATE BUFFER WITH INVERTED INPUT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117787,
+    "char": "𜰛",
+    "name": "BOX DRAWINGS LIGHT HORIZONTAL AND UPPER RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117788,
+    "char": "𜰜",
+    "name": "BOX DRAWINGS LIGHT HORIZONTAL AND LOWER RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117789,
+    "char": "𜰝",
+    "name": "BOX DRAWINGS LIGHT TOP AND UPPER LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117790,
+    "char": "𜰞",
+    "name": "BOX DRAWINGS LIGHT BOTTOM AND LOWER LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117791,
+    "char": "𜰟",
+    "name": "BOX DRAWINGS DOUBLE DIAGONAL UPPER RIGHT TO LOWER LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117792,
+    "char": "𜰠",
+    "name": "BOX DRAWINGS DOUBLE DIAGONAL UPPER LEFT TO LOWER RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117793,
+    "char": "𜰡",
+    "name": "SEPARATED BLOCK QUADRANT-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117794,
+    "char": "𜰢",
+    "name": "SEPARATED BLOCK QUADRANT-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117795,
+    "char": "𜰣",
+    "name": "SEPARATED BLOCK QUADRANT-12",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117796,
+    "char": "𜰤",
+    "name": "SEPARATED BLOCK QUADRANT-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117797,
+    "char": "𜰥",
+    "name": "SEPARATED BLOCK QUADRANT-13",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117798,
+    "char": "𜰦",
+    "name": "SEPARATED BLOCK QUADRANT-23",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117799,
+    "char": "𜰧",
+    "name": "SEPARATED BLOCK QUADRANT-123",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117800,
+    "char": "𜰨",
+    "name": "SEPARATED BLOCK QUADRANT-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117801,
+    "char": "𜰩",
+    "name": "SEPARATED BLOCK QUADRANT-14",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117802,
+    "char": "𜰪",
+    "name": "SEPARATED BLOCK QUADRANT-24",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117803,
+    "char": "𜰫",
+    "name": "SEPARATED BLOCK QUADRANT-124",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117804,
+    "char": "𜰬",
+    "name": "SEPARATED BLOCK QUADRANT-34",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117805,
+    "char": "𜰭",
+    "name": "SEPARATED BLOCK QUADRANT-134",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117806,
+    "char": "𜰮",
+    "name": "SEPARATED BLOCK QUADRANT-234",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117807,
+    "char": "𜰯",
+    "name": "SEPARATED BLOCK QUADRANT-1234",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117808,
+    "char": "𜰰",
+    "name": "UPPER LEFT TWELFTH CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117809,
+    "char": "𜰱",
+    "name": "UPPER CENTRE LEFT TWELFTH CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117810,
+    "char": "𜰲",
+    "name": "UPPER CENTRE RIGHT TWELFTH CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117811,
+    "char": "𜰳",
+    "name": "UPPER RIGHT TWELFTH CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117812,
+    "char": "𜰴",
+    "name": "UPPER MIDDLE LEFT TWELFTH CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117813,
+    "char": "𜰵",
+    "name": "UPPER LEFT QUARTER CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117814,
+    "char": "𜰶",
+    "name": "UPPER RIGHT QUARTER CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117815,
+    "char": "𜰷",
+    "name": "UPPER MIDDLE RIGHT TWELFTH CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117816,
+    "char": "𜰸",
+    "name": "LOWER MIDDLE LEFT TWELFTH CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117817,
+    "char": "𜰹",
+    "name": "LOWER LEFT QUARTER CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117818,
+    "char": "𜰺",
+    "name": "LOWER RIGHT QUARTER CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117819,
+    "char": "𜰻",
+    "name": "LOWER MIDDLE RIGHT TWELFTH CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117820,
+    "char": "𜰼",
+    "name": "LOWER LEFT TWELFTH CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117821,
+    "char": "𜰽",
+    "name": "LOWER CENTRE LEFT TWELFTH CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117822,
+    "char": "𜰾",
+    "name": "LOWER CENTRE RIGHT TWELFTH CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117823,
+    "char": "𜰿",
+    "name": "LOWER RIGHT TWELFTH CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117824,
+    "char": "𜱀",
+    "name": "SPARSE HORIZONTAL FILL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117825,
+    "char": "𜱁",
+    "name": "SPARSE VERTICAL FILL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117826,
+    "char": "𜱂",
+    "name": "ORTHOGONAL CROSSHATCH FILL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117827,
+    "char": "𜱃",
+    "name": "DIAGONAL CROSSHATCH FILL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117828,
+    "char": "𜱄",
+    "name": "DENSE VERTICAL FILL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117829,
+    "char": "𜱅",
+    "name": "DENSE HORIZONTAL FILL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117830,
+    "char": "𜱆",
+    "name": "SPECKLE FILL FRAME-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117831,
+    "char": "𜱇",
+    "name": "SPECKLE FILL FRAME-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117832,
+    "char": "𜱈",
+    "name": "LEFT-FACING BASSINET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117833,
+    "char": "𜱉",
+    "name": "RIGHT-FACING BASSINET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117834,
+    "char": "𜱊",
+    "name": "FLYING SAUCER WITH BEAMS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117835,
+    "char": "𜱋",
+    "name": "FLYING SAUCER WITHOUT BEAMS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117836,
+    "char": "𜱌",
+    "name": "ALIEN MONSTER OPEN JAWS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117837,
+    "char": "𜱍",
+    "name": "ALIEN MONSTER CLOSED JAWS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117838,
+    "char": "𜱎",
+    "name": "ALIEN SQUID OPEN TENTACLES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117839,
+    "char": "𜱏",
+    "name": "ALIEN SQUID CLOSED TENTACLES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117840,
+    "char": "𜱐",
+    "name": "ALIEN CRAB STEPPING RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117841,
+    "char": "𜱑",
+    "name": "ALIEN CRAB STEPPING LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117842,
+    "char": "𜱒",
+    "name": "ALIEN SPIDER CROUCHING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117843,
+    "char": "𜱓",
+    "name": "ALIEN SPIDER SPREAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117844,
+    "char": "𜱔",
+    "name": "ALIEN MONSTER STEP-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117845,
+    "char": "𜱕",
+    "name": "ALIEN MONSTER STEP-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117846,
+    "char": "𜱖",
+    "name": "LEFT-POINTING ROCKET SHIP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117847,
+    "char": "𜱗",
+    "name": "UP-POINTING ROCKET SHIP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117848,
+    "char": "𜱘",
+    "name": "RIGHT-POINTING ROCKET SHIP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117849,
+    "char": "𜱙",
+    "name": "DOWN-POINTING ROCKET SHIP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117850,
+    "char": "𜱚",
+    "name": "TOP HALF LEFT-FACING ROBOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117851,
+    "char": "𜱛",
+    "name": "TOP HALF FORWARD-FACING ROBOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117852,
+    "char": "𜱜",
+    "name": "TOP HALF RIGHT-FACING ROBOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117853,
+    "char": "𜱝",
+    "name": "BOTTOM HALF LEFT-FACING ROBOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117854,
+    "char": "𜱞",
+    "name": "BOTTOM HALF FORWARD-FACING ROBOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117855,
+    "char": "𜱟",
+    "name": "BOTTOM HALF RIGHT-FACING ROBOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117856,
+    "char": "𜱠",
+    "name": "LEFT-POINTING ATOMIC BOMB",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117857,
+    "char": "𜱡",
+    "name": "UP-POINTING ATOMIC BOMB",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117858,
+    "char": "𜱢",
+    "name": "RIGHT-POINTING ATOMIC BOMB",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117859,
+    "char": "𜱣",
+    "name": "DOWN-POINTING ATOMIC BOMB",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117860,
+    "char": "𜱤",
+    "name": "MUSHROOM CLOUD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117861,
+    "char": "𜱥",
+    "name": "LEFT-POINTING RIFLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117862,
+    "char": "𜱦",
+    "name": "UP-POINTING RIFLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117863,
+    "char": "𜱧",
+    "name": "RIGHT-POINTING RIFLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117864,
+    "char": "𜱨",
+    "name": "DOWN-POINTING RIFLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117865,
+    "char": "𜱩",
+    "name": "EIGHT RAYS INWARD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117866,
+    "char": "𜱪",
+    "name": "EIGHT RAYS OUTWARD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117867,
+    "char": "𜱫",
+    "name": "BLACK LARGE CIRCLE MINUS LEFT QUARTER SECTION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117868,
+    "char": "𜱬",
+    "name": "BLACK LARGE CIRCLE MINUS UPPER QUARTER SECTION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117869,
+    "char": "𜱭",
+    "name": "BLACK LARGE CIRCLE MINUS RIGHT QUARTER SECTION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117870,
+    "char": "𜱮",
+    "name": "BLACK LARGE CIRCLE MINUS LOWER QUARTER SECTION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117871,
+    "char": "𜱯",
+    "name": "BLACK NEUTRAL FACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117872,
+    "char": "𜱰",
+    "name": "LEFT-FACING SNAKE HEAD WITH OPEN MOUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117873,
+    "char": "𜱱",
+    "name": "UP-FACING SNAKE HEAD WITH OPEN MOUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117874,
+    "char": "𜱲",
+    "name": "RIGHT-FACING SNAKE HEAD WITH OPEN MOUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117875,
+    "char": "𜱳",
+    "name": "DOWN-FACING SNAKE HEAD WITH OPEN MOUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117876,
+    "char": "𜱴",
+    "name": "LEFT-FACING SNAKE HEAD WITH CLOSED MOUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117877,
+    "char": "𜱵",
+    "name": "UP-FACING SNAKE HEAD WITH CLOSED MOUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117878,
+    "char": "𜱶",
+    "name": "RIGHT-FACING SNAKE HEAD WITH CLOSED MOUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117879,
+    "char": "𜱷",
+    "name": "DOWN-FACING SNAKE HEAD WITH CLOSED MOUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117880,
+    "char": "𜱸",
+    "name": "LEFT-POINTING ENERGY WAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117881,
+    "char": "𜱹",
+    "name": "UP-POINTING ENERGY WAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117882,
+    "char": "𜱺",
+    "name": "RIGHT-POINTING ENERGY WAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117883,
+    "char": "𜱻",
+    "name": "DOWN-POINTING ENERGY WAVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117884,
+    "char": "𜱼",
+    "name": "SQUARE SPIRAL FROM TOP LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117885,
+    "char": "𜱽",
+    "name": "SQUARE SPIRAL FROM TOP RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117886,
+    "char": "𜱾",
+    "name": "SQUARE SPIRAL FROM BOTTOM RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117887,
+    "char": "𜱿",
+    "name": "SQUARE SPIRAL FROM BOTTOM LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117888,
+    "char": "𜲀",
+    "name": "STRIPED LEFT-POINTING TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117889,
+    "char": "𜲁",
+    "name": "STRIPED UP-POINTING TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117890,
+    "char": "𜲂",
+    "name": "STRIPED RIGHT-POINTING TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117891,
+    "char": "𜲃",
+    "name": "STRIPED DOWN-POINTING TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117892,
+    "char": "𜲄",
+    "name": "VERTICAL LADDER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117893,
+    "char": "𜲅",
+    "name": "HORIZONTAL LADDER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117894,
+    "char": "𜲆",
+    "name": "WHITE LOWER LEFT POINTER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117895,
+    "char": "𜲇",
+    "name": "WHITE LOWER RIGHT POINTER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117896,
+    "char": "𜲈",
+    "name": "TWO RINGS ALIGNED HORIZONTALLY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117897,
+    "char": "𜲉",
+    "name": "SQUARE FOUR CORNER SALTIRES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117898,
+    "char": "𜲊",
+    "name": "SQUARE FOUR CORNER DIAGONALS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117899,
+    "char": "𜲋",
+    "name": "SQUARE FOUR CORNER BLACK TRIANGLES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117900,
+    "char": "𜲌",
+    "name": "SQUARE APERTURE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117901,
+    "char": "𜲍",
+    "name": "INVERSE BLACK DIAMOND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117902,
+    "char": "𜲎",
+    "name": "LEFT AND UPPER ONE EIGHTH BLOCK CONTAINING BLACK SMALL SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117903,
+    "char": "𜲏",
+    "name": "INVERSE BLACK SMALL SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117904,
+    "char": "𜲐",
+    "name": "VERTICAL LINE WITH FOUR TICK MARKS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117905,
+    "char": "𜲑",
+    "name": "HORIZONTAL LINE WITH FOUR TICK MARKS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117906,
+    "char": "𜲒",
+    "name": "LEFT-FACING FISH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117907,
+    "char": "𜲓",
+    "name": "RIGHT-FACING FISH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117908,
+    "char": "𜲔",
+    "name": "LEFT-FACING FISH WITH OPEN MOUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117909,
+    "char": "𜲕",
+    "name": "RIGHT-FACING FISH WITH OPEN MOUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117910,
+    "char": "𜲖",
+    "name": "FLAPPING BIRD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117911,
+    "char": "𜲗",
+    "name": "LEFT-POINTING RACING CAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117912,
+    "char": "𜲘",
+    "name": "UP-POINTING RACING CAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117913,
+    "char": "𜲙",
+    "name": "RIGHT-POINTING RACING CAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117914,
+    "char": "𜲚",
+    "name": "DOWN-POINTING RACING CAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117915,
+    "char": "𜲛",
+    "name": "HORIZONTAL RACING CAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117916,
+    "char": "𜲜",
+    "name": "VERTICAL RACING CAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117917,
+    "char": "𜲝",
+    "name": "VERTICAL GO-KART",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117918,
+    "char": "𜲞",
+    "name": "LEFT-POINTING TANK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117919,
+    "char": "𜲟",
+    "name": "RIGHT-POINTING TANK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117920,
+    "char": "𜲠",
+    "name": "LEFT-POINTING ROCKET BOOSTER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117921,
+    "char": "𜲡",
+    "name": "RIGHT-POINTING ROCKET BOOSTER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117922,
+    "char": "𜲢",
+    "name": "LEFT-POINTING ROLLER COASTER CAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117923,
+    "char": "𜲣",
+    "name": "RIGHT-POINTING ROLLER COASTER CAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117924,
+    "char": "𜲤",
+    "name": "LEFT HALF FLYING SAUCER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117925,
+    "char": "𜲥",
+    "name": "RIGHT HALF FLYING SAUCER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117926,
+    "char": "𜲦",
+    "name": "UPPER LEFT QUADRANT FACE WITH OPEN EYES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117927,
+    "char": "𜲧",
+    "name": "UPPER RIGHT QUADRANT FACE WITH OPEN EYES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117928,
+    "char": "𜲨",
+    "name": "UPPER LEFT QUADRANT FACE WITH CLOSED EYES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117929,
+    "char": "𜲩",
+    "name": "UPPER RIGHT QUADRANT FACE WITH CLOSED EYES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117930,
+    "char": "𜲪",
+    "name": "LOWER LEFT QUADRANT SMILING FACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117931,
+    "char": "𜲫",
+    "name": "LOWER RIGHT QUADRANT SMILING FACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117932,
+    "char": "𜲬",
+    "name": "LOWER LEFT QUADRANT NEUTRAL FACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117933,
+    "char": "𜲭",
+    "name": "LOWER RIGHT QUADRANT NEUTRAL FACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117934,
+    "char": "𜲮",
+    "name": "LOWER LEFT QUADRANT FACE WITH OPEN MOUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117935,
+    "char": "𜲯",
+    "name": "LOWER RIGHT QUADRANT FACE WITH OPEN MOUTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117936,
+    "char": "𜲰",
+    "name": "LOWER LEFT QUADRANT FROWNING FACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117937,
+    "char": "𜲱",
+    "name": "LOWER RIGHT QUADRANT FROWNING FACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117938,
+    "char": "𜲲",
+    "name": "UPPER LEFT QUADRANT TELEVISION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117939,
+    "char": "𜲳",
+    "name": "UPPER RIGHT QUADRANT TELEVISION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117940,
+    "char": "𜲴",
+    "name": "LOWER LEFT QUADRANT TELEVISION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117941,
+    "char": "𜲵",
+    "name": "LOWER RIGHT QUADRANT TELEVISION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117942,
+    "char": "𜲶",
+    "name": "UPPER LEFT QUADRANT MICROCOMPUTER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117943,
+    "char": "𜲷",
+    "name": "UPPER RIGHT QUADRANT MICROCOMPUTER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117944,
+    "char": "𜲸",
+    "name": "LOWER LEFT QUADRANT MICROCOMPUTER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117945,
+    "char": "𜲹",
+    "name": "LOWER RIGHT QUADRANT MICROCOMPUTER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117946,
+    "char": "𜲺",
+    "name": "UPPER LEFT QUADRANT CHESS KING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117947,
+    "char": "𜲻",
+    "name": "UPPER RIGHT QUADRANT CHESS KING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117948,
+    "char": "𜲼",
+    "name": "LOWER LEFT QUADRANT CHESS KING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117949,
+    "char": "𜲽",
+    "name": "LOWER RIGHT QUADRANT CHESS KING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117950,
+    "char": "𜲾",
+    "name": "UPPER LEFT QUADRANT CHESS QUEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117951,
+    "char": "𜲿",
+    "name": "UPPER RIGHT QUADRANT CHESS QUEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117952,
+    "char": "𜳀",
+    "name": "LOWER LEFT QUADRANT CHESS QUEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117953,
+    "char": "𜳁",
+    "name": "LOWER RIGHT QUADRANT CHESS QUEEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117954,
+    "char": "𜳂",
+    "name": "UPPER LEFT QUADRANT CHESS ROOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117955,
+    "char": "𜳃",
+    "name": "UPPER RIGHT QUADRANT CHESS ROOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117956,
+    "char": "𜳄",
+    "name": "LOWER LEFT QUADRANT CHESS ROOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117957,
+    "char": "𜳅",
+    "name": "LOWER RIGHT QUADRANT CHESS ROOK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117958,
+    "char": "𜳆",
+    "name": "UPPER LEFT QUADRANT CHESS BISHOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117959,
+    "char": "𜳇",
+    "name": "UPPER RIGHT QUADRANT CHESS BISHOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117960,
+    "char": "𜳈",
+    "name": "LOWER LEFT QUADRANT CHESS BISHOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117961,
+    "char": "𜳉",
+    "name": "LOWER RIGHT QUADRANT CHESS BISHOP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117962,
+    "char": "𜳊",
+    "name": "UPPER LEFT QUADRANT CHESS KNIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117963,
+    "char": "𜳋",
+    "name": "UPPER RIGHT QUADRANT CHESS KNIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117964,
+    "char": "𜳌",
+    "name": "LOWER LEFT QUADRANT CHESS KNIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117965,
+    "char": "𜳍",
+    "name": "LOWER RIGHT QUADRANT CHESS KNIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117966,
+    "char": "𜳎",
+    "name": "UPPER LEFT QUADRANT CHESS PAWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117967,
+    "char": "𜳏",
+    "name": "UPPER RIGHT QUADRANT CHESS PAWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117968,
+    "char": "𜳐",
+    "name": "LOWER LEFT QUADRANT CHESS PAWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117969,
+    "char": "𜳑",
+    "name": "LOWER RIGHT QUADRANT CHESS PAWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117970,
+    "char": "𜳒",
+    "name": "UPPER LEFT QUADRANT STANDING KNIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117971,
+    "char": "𜳓",
+    "name": "UPPER RIGHT QUADRANT STANDING KNIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117972,
+    "char": "𜳔",
+    "name": "LOWER LEFT QUADRANT STANDING KNIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117973,
+    "char": "𜳕",
+    "name": "LOWER RIGHT QUADRANT STANDING KNIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117974,
+    "char": "𜳖",
+    "name": "OUTLINED LATIN CAPITAL LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117975,
+    "char": "𜳗",
+    "name": "OUTLINED LATIN CAPITAL LETTER B",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117976,
+    "char": "𜳘",
+    "name": "OUTLINED LATIN CAPITAL LETTER C",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117977,
+    "char": "𜳙",
+    "name": "OUTLINED LATIN CAPITAL LETTER D",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117978,
+    "char": "𜳚",
+    "name": "OUTLINED LATIN CAPITAL LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117979,
+    "char": "𜳛",
+    "name": "OUTLINED LATIN CAPITAL LETTER F",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117980,
+    "char": "𜳜",
+    "name": "OUTLINED LATIN CAPITAL LETTER G",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117981,
+    "char": "𜳝",
+    "name": "OUTLINED LATIN CAPITAL LETTER H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117982,
+    "char": "𜳞",
+    "name": "OUTLINED LATIN CAPITAL LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117983,
+    "char": "𜳟",
+    "name": "OUTLINED LATIN CAPITAL LETTER J",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117984,
+    "char": "𜳠",
+    "name": "OUTLINED LATIN CAPITAL LETTER K",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117985,
+    "char": "𜳡",
+    "name": "OUTLINED LATIN CAPITAL LETTER L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117986,
+    "char": "𜳢",
+    "name": "OUTLINED LATIN CAPITAL LETTER M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117987,
+    "char": "𜳣",
+    "name": "OUTLINED LATIN CAPITAL LETTER N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117988,
+    "char": "𜳤",
+    "name": "OUTLINED LATIN CAPITAL LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117989,
+    "char": "𜳥",
+    "name": "OUTLINED LATIN CAPITAL LETTER P",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117990,
+    "char": "𜳦",
+    "name": "OUTLINED LATIN CAPITAL LETTER Q",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117991,
+    "char": "𜳧",
+    "name": "OUTLINED LATIN CAPITAL LETTER R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117992,
+    "char": "𜳨",
+    "name": "OUTLINED LATIN CAPITAL LETTER S",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117993,
+    "char": "𜳩",
+    "name": "OUTLINED LATIN CAPITAL LETTER T",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117994,
+    "char": "𜳪",
+    "name": "OUTLINED LATIN CAPITAL LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117995,
+    "char": "𜳫",
+    "name": "OUTLINED LATIN CAPITAL LETTER V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117996,
+    "char": "𜳬",
+    "name": "OUTLINED LATIN CAPITAL LETTER W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117997,
+    "char": "𜳭",
+    "name": "OUTLINED LATIN CAPITAL LETTER X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117998,
+    "char": "𜳮",
+    "name": "OUTLINED LATIN CAPITAL LETTER Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 117999,
+    "char": "𜳯",
+    "name": "OUTLINED LATIN CAPITAL LETTER Z",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118000,
+    "char": "𜳰",
+    "name": "OUTLINED DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118001,
+    "char": "𜳱",
+    "name": "OUTLINED DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118002,
+    "char": "𜳲",
+    "name": "OUTLINED DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118003,
+    "char": "𜳳",
+    "name": "OUTLINED DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118004,
+    "char": "𜳴",
+    "name": "OUTLINED DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118005,
+    "char": "𜳵",
+    "name": "OUTLINED DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118006,
+    "char": "𜳶",
+    "name": "OUTLINED DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118007,
+    "char": "𜳷",
+    "name": "OUTLINED DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118008,
+    "char": "𜳸",
+    "name": "OUTLINED DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118009,
+    "char": "𜳹",
+    "name": "OUTLINED DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118010,
+    "char": "𜳺",
+    "name": "SNAKE SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118011,
+    "char": "𜳻",
+    "name": "FLYING SAUCER SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118012,
+    "char": "𜳼",
+    "name": "NOSE SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118016,
+    "char": "𜴀",
+    "name": "BLOCK OCTANT-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118017,
+    "char": "𜴁",
+    "name": "BLOCK OCTANT-23",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118018,
+    "char": "𜴂",
+    "name": "BLOCK OCTANT-123",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118019,
+    "char": "𜴃",
+    "name": "BLOCK OCTANT-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118020,
+    "char": "𜴄",
+    "name": "BLOCK OCTANT-14",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118021,
+    "char": "𜴅",
+    "name": "BLOCK OCTANT-124",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118022,
+    "char": "𜴆",
+    "name": "BLOCK OCTANT-34",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118023,
+    "char": "𜴇",
+    "name": "BLOCK OCTANT-134",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118024,
+    "char": "𜴈",
+    "name": "BLOCK OCTANT-234",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118025,
+    "char": "𜴉",
+    "name": "BLOCK OCTANT-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118026,
+    "char": "𜴊",
+    "name": "BLOCK OCTANT-15",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118027,
+    "char": "𜴋",
+    "name": "BLOCK OCTANT-25",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118028,
+    "char": "𜴌",
+    "name": "BLOCK OCTANT-125",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118029,
+    "char": "𜴍",
+    "name": "BLOCK OCTANT-135",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118030,
+    "char": "𜴎",
+    "name": "BLOCK OCTANT-235",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118031,
+    "char": "𜴏",
+    "name": "BLOCK OCTANT-1235",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118032,
+    "char": "𜴐",
+    "name": "BLOCK OCTANT-45",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118033,
+    "char": "𜴑",
+    "name": "BLOCK OCTANT-145",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118034,
+    "char": "𜴒",
+    "name": "BLOCK OCTANT-245",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118035,
+    "char": "𜴓",
+    "name": "BLOCK OCTANT-1245",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118036,
+    "char": "𜴔",
+    "name": "BLOCK OCTANT-345",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118037,
+    "char": "𜴕",
+    "name": "BLOCK OCTANT-1345",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118038,
+    "char": "𜴖",
+    "name": "BLOCK OCTANT-2345",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118039,
+    "char": "𜴗",
+    "name": "BLOCK OCTANT-12345",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118040,
+    "char": "𜴘",
+    "name": "BLOCK OCTANT-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118041,
+    "char": "𜴙",
+    "name": "BLOCK OCTANT-16",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118042,
+    "char": "𜴚",
+    "name": "BLOCK OCTANT-26",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118043,
+    "char": "𜴛",
+    "name": "BLOCK OCTANT-126",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118044,
+    "char": "𜴜",
+    "name": "BLOCK OCTANT-36",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118045,
+    "char": "𜴝",
+    "name": "BLOCK OCTANT-136",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118046,
+    "char": "𜴞",
+    "name": "BLOCK OCTANT-236",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118047,
+    "char": "𜴟",
+    "name": "BLOCK OCTANT-1236",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118048,
+    "char": "𜴠",
+    "name": "BLOCK OCTANT-146",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118049,
+    "char": "𜴡",
+    "name": "BLOCK OCTANT-246",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118050,
+    "char": "𜴢",
+    "name": "BLOCK OCTANT-1246",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118051,
+    "char": "𜴣",
+    "name": "BLOCK OCTANT-346",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118052,
+    "char": "𜴤",
+    "name": "BLOCK OCTANT-1346",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118053,
+    "char": "𜴥",
+    "name": "BLOCK OCTANT-2346",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118054,
+    "char": "𜴦",
+    "name": "BLOCK OCTANT-12346",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118055,
+    "char": "𜴧",
+    "name": "BLOCK OCTANT-56",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118056,
+    "char": "𜴨",
+    "name": "BLOCK OCTANT-156",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118057,
+    "char": "𜴩",
+    "name": "BLOCK OCTANT-256",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118058,
+    "char": "𜴪",
+    "name": "BLOCK OCTANT-1256",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118059,
+    "char": "𜴫",
+    "name": "BLOCK OCTANT-356",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118060,
+    "char": "𜴬",
+    "name": "BLOCK OCTANT-1356",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118061,
+    "char": "𜴭",
+    "name": "BLOCK OCTANT-2356",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118062,
+    "char": "𜴮",
+    "name": "BLOCK OCTANT-12356",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118063,
+    "char": "𜴯",
+    "name": "BLOCK OCTANT-456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118064,
+    "char": "𜴰",
+    "name": "BLOCK OCTANT-1456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118065,
+    "char": "𜴱",
+    "name": "BLOCK OCTANT-2456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118066,
+    "char": "𜴲",
+    "name": "BLOCK OCTANT-12456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118067,
+    "char": "𜴳",
+    "name": "BLOCK OCTANT-3456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118068,
+    "char": "𜴴",
+    "name": "BLOCK OCTANT-13456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118069,
+    "char": "𜴵",
+    "name": "BLOCK OCTANT-23456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118070,
+    "char": "𜴶",
+    "name": "BLOCK OCTANT-17",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118071,
+    "char": "𜴷",
+    "name": "BLOCK OCTANT-27",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118072,
+    "char": "𜴸",
+    "name": "BLOCK OCTANT-127",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118073,
+    "char": "𜴹",
+    "name": "BLOCK OCTANT-37",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118074,
+    "char": "𜴺",
+    "name": "BLOCK OCTANT-137",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118075,
+    "char": "𜴻",
+    "name": "BLOCK OCTANT-237",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118076,
+    "char": "𜴼",
+    "name": "BLOCK OCTANT-1237",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118077,
+    "char": "𜴽",
+    "name": "BLOCK OCTANT-47",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118078,
+    "char": "𜴾",
+    "name": "BLOCK OCTANT-147",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118079,
+    "char": "𜴿",
+    "name": "BLOCK OCTANT-247",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118080,
+    "char": "𜵀",
+    "name": "BLOCK OCTANT-1247",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118081,
+    "char": "𜵁",
+    "name": "BLOCK OCTANT-347",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118082,
+    "char": "𜵂",
+    "name": "BLOCK OCTANT-1347",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118083,
+    "char": "𜵃",
+    "name": "BLOCK OCTANT-2347",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118084,
+    "char": "𜵄",
+    "name": "BLOCK OCTANT-12347",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118085,
+    "char": "𜵅",
+    "name": "BLOCK OCTANT-157",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118086,
+    "char": "𜵆",
+    "name": "BLOCK OCTANT-257",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118087,
+    "char": "𜵇",
+    "name": "BLOCK OCTANT-1257",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118088,
+    "char": "𜵈",
+    "name": "BLOCK OCTANT-357",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118089,
+    "char": "𜵉",
+    "name": "BLOCK OCTANT-2357",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118090,
+    "char": "𜵊",
+    "name": "BLOCK OCTANT-12357",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118091,
+    "char": "𜵋",
+    "name": "BLOCK OCTANT-457",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118092,
+    "char": "𜵌",
+    "name": "BLOCK OCTANT-1457",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118093,
+    "char": "𜵍",
+    "name": "BLOCK OCTANT-12457",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118094,
+    "char": "𜵎",
+    "name": "BLOCK OCTANT-3457",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118095,
+    "char": "𜵏",
+    "name": "BLOCK OCTANT-13457",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118096,
+    "char": "𜵐",
+    "name": "BLOCK OCTANT-23457",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118097,
+    "char": "𜵑",
+    "name": "BLOCK OCTANT-67",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118098,
+    "char": "𜵒",
+    "name": "BLOCK OCTANT-167",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118099,
+    "char": "𜵓",
+    "name": "BLOCK OCTANT-267",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118100,
+    "char": "𜵔",
+    "name": "BLOCK OCTANT-1267",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118101,
+    "char": "𜵕",
+    "name": "BLOCK OCTANT-367",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118102,
+    "char": "𜵖",
+    "name": "BLOCK OCTANT-1367",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118103,
+    "char": "𜵗",
+    "name": "BLOCK OCTANT-2367",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118104,
+    "char": "𜵘",
+    "name": "BLOCK OCTANT-12367",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118105,
+    "char": "𜵙",
+    "name": "BLOCK OCTANT-467",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118106,
+    "char": "𜵚",
+    "name": "BLOCK OCTANT-1467",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118107,
+    "char": "𜵛",
+    "name": "BLOCK OCTANT-2467",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118108,
+    "char": "𜵜",
+    "name": "BLOCK OCTANT-12467",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118109,
+    "char": "𜵝",
+    "name": "BLOCK OCTANT-3467",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118110,
+    "char": "𜵞",
+    "name": "BLOCK OCTANT-13467",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118111,
+    "char": "𜵟",
+    "name": "BLOCK OCTANT-23467",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118112,
+    "char": "𜵠",
+    "name": "BLOCK OCTANT-123467",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118113,
+    "char": "𜵡",
+    "name": "BLOCK OCTANT-567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118114,
+    "char": "𜵢",
+    "name": "BLOCK OCTANT-1567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118115,
+    "char": "𜵣",
+    "name": "BLOCK OCTANT-2567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118116,
+    "char": "𜵤",
+    "name": "BLOCK OCTANT-12567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118117,
+    "char": "𜵥",
+    "name": "BLOCK OCTANT-3567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118118,
+    "char": "𜵦",
+    "name": "BLOCK OCTANT-13567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118119,
+    "char": "𜵧",
+    "name": "BLOCK OCTANT-23567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118120,
+    "char": "𜵨",
+    "name": "BLOCK OCTANT-123567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118121,
+    "char": "𜵩",
+    "name": "BLOCK OCTANT-4567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118122,
+    "char": "𜵪",
+    "name": "BLOCK OCTANT-14567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118123,
+    "char": "𜵫",
+    "name": "BLOCK OCTANT-24567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118124,
+    "char": "𜵬",
+    "name": "BLOCK OCTANT-124567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118125,
+    "char": "𜵭",
+    "name": "BLOCK OCTANT-34567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118126,
+    "char": "𜵮",
+    "name": "BLOCK OCTANT-134567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118127,
+    "char": "𜵯",
+    "name": "BLOCK OCTANT-234567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118128,
+    "char": "𜵰",
+    "name": "BLOCK OCTANT-1234567",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118129,
+    "char": "𜵱",
+    "name": "BLOCK OCTANT-18",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118130,
+    "char": "𜵲",
+    "name": "BLOCK OCTANT-28",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118131,
+    "char": "𜵳",
+    "name": "BLOCK OCTANT-128",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118132,
+    "char": "𜵴",
+    "name": "BLOCK OCTANT-38",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118133,
+    "char": "𜵵",
+    "name": "BLOCK OCTANT-138",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118134,
+    "char": "𜵶",
+    "name": "BLOCK OCTANT-238",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118135,
+    "char": "𜵷",
+    "name": "BLOCK OCTANT-1238",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118136,
+    "char": "𜵸",
+    "name": "BLOCK OCTANT-48",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118137,
+    "char": "𜵹",
+    "name": "BLOCK OCTANT-148",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118138,
+    "char": "𜵺",
+    "name": "BLOCK OCTANT-248",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118139,
+    "char": "𜵻",
+    "name": "BLOCK OCTANT-1248",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118140,
+    "char": "𜵼",
+    "name": "BLOCK OCTANT-348",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118141,
+    "char": "𜵽",
+    "name": "BLOCK OCTANT-1348",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118142,
+    "char": "𜵾",
+    "name": "BLOCK OCTANT-2348",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118143,
+    "char": "𜵿",
+    "name": "BLOCK OCTANT-12348",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118144,
+    "char": "𜶀",
+    "name": "BLOCK OCTANT-58",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118145,
+    "char": "𜶁",
+    "name": "BLOCK OCTANT-158",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118146,
+    "char": "𜶂",
+    "name": "BLOCK OCTANT-258",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118147,
+    "char": "𜶃",
+    "name": "BLOCK OCTANT-1258",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118148,
+    "char": "𜶄",
+    "name": "BLOCK OCTANT-358",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118149,
+    "char": "𜶅",
+    "name": "BLOCK OCTANT-1358",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118150,
+    "char": "𜶆",
+    "name": "BLOCK OCTANT-2358",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118151,
+    "char": "𜶇",
+    "name": "BLOCK OCTANT-12358",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118152,
+    "char": "𜶈",
+    "name": "BLOCK OCTANT-458",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118153,
+    "char": "𜶉",
+    "name": "BLOCK OCTANT-1458",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118154,
+    "char": "𜶊",
+    "name": "BLOCK OCTANT-2458",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118155,
+    "char": "𜶋",
+    "name": "BLOCK OCTANT-12458",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118156,
+    "char": "𜶌",
+    "name": "BLOCK OCTANT-3458",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118157,
+    "char": "𜶍",
+    "name": "BLOCK OCTANT-13458",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118158,
+    "char": "𜶎",
+    "name": "BLOCK OCTANT-23458",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118159,
+    "char": "𜶏",
+    "name": "BLOCK OCTANT-123458",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118160,
+    "char": "𜶐",
+    "name": "BLOCK OCTANT-168",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118161,
+    "char": "𜶑",
+    "name": "BLOCK OCTANT-268",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118162,
+    "char": "𜶒",
+    "name": "BLOCK OCTANT-1268",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118163,
+    "char": "𜶓",
+    "name": "BLOCK OCTANT-368",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118164,
+    "char": "𜶔",
+    "name": "BLOCK OCTANT-2368",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118165,
+    "char": "𜶕",
+    "name": "BLOCK OCTANT-12368",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118166,
+    "char": "𜶖",
+    "name": "BLOCK OCTANT-468",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118167,
+    "char": "𜶗",
+    "name": "BLOCK OCTANT-1468",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118168,
+    "char": "𜶘",
+    "name": "BLOCK OCTANT-12468",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118169,
+    "char": "𜶙",
+    "name": "BLOCK OCTANT-3468",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118170,
+    "char": "𜶚",
+    "name": "BLOCK OCTANT-13468",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118171,
+    "char": "𜶛",
+    "name": "BLOCK OCTANT-23468",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118172,
+    "char": "𜶜",
+    "name": "BLOCK OCTANT-568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118173,
+    "char": "𜶝",
+    "name": "BLOCK OCTANT-1568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118174,
+    "char": "𜶞",
+    "name": "BLOCK OCTANT-2568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118175,
+    "char": "𜶟",
+    "name": "BLOCK OCTANT-12568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118176,
+    "char": "𜶠",
+    "name": "BLOCK OCTANT-3568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118177,
+    "char": "𜶡",
+    "name": "BLOCK OCTANT-13568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118178,
+    "char": "𜶢",
+    "name": "BLOCK OCTANT-23568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118179,
+    "char": "𜶣",
+    "name": "BLOCK OCTANT-123568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118180,
+    "char": "𜶤",
+    "name": "BLOCK OCTANT-4568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118181,
+    "char": "𜶥",
+    "name": "BLOCK OCTANT-14568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118182,
+    "char": "𜶦",
+    "name": "BLOCK OCTANT-24568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118183,
+    "char": "𜶧",
+    "name": "BLOCK OCTANT-124568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118184,
+    "char": "𜶨",
+    "name": "BLOCK OCTANT-34568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118185,
+    "char": "𜶩",
+    "name": "BLOCK OCTANT-134568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118186,
+    "char": "𜶪",
+    "name": "BLOCK OCTANT-234568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118187,
+    "char": "𜶫",
+    "name": "BLOCK OCTANT-1234568",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118188,
+    "char": "𜶬",
+    "name": "BLOCK OCTANT-178",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118189,
+    "char": "𜶭",
+    "name": "BLOCK OCTANT-278",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118190,
+    "char": "𜶮",
+    "name": "BLOCK OCTANT-1278",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118191,
+    "char": "𜶯",
+    "name": "BLOCK OCTANT-378",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118192,
+    "char": "𜶰",
+    "name": "BLOCK OCTANT-1378",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118193,
+    "char": "𜶱",
+    "name": "BLOCK OCTANT-2378",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118194,
+    "char": "𜶲",
+    "name": "BLOCK OCTANT-12378",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118195,
+    "char": "𜶳",
+    "name": "BLOCK OCTANT-478",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118196,
+    "char": "𜶴",
+    "name": "BLOCK OCTANT-1478",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118197,
+    "char": "𜶵",
+    "name": "BLOCK OCTANT-2478",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118198,
+    "char": "𜶶",
+    "name": "BLOCK OCTANT-12478",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118199,
+    "char": "𜶷",
+    "name": "BLOCK OCTANT-3478",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118200,
+    "char": "𜶸",
+    "name": "BLOCK OCTANT-13478",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118201,
+    "char": "𜶹",
+    "name": "BLOCK OCTANT-23478",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118202,
+    "char": "𜶺",
+    "name": "BLOCK OCTANT-123478",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118203,
+    "char": "𜶻",
+    "name": "BLOCK OCTANT-578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118204,
+    "char": "𜶼",
+    "name": "BLOCK OCTANT-1578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118205,
+    "char": "𜶽",
+    "name": "BLOCK OCTANT-2578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118206,
+    "char": "𜶾",
+    "name": "BLOCK OCTANT-12578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118207,
+    "char": "𜶿",
+    "name": "BLOCK OCTANT-3578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118208,
+    "char": "𜷀",
+    "name": "BLOCK OCTANT-13578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118209,
+    "char": "𜷁",
+    "name": "BLOCK OCTANT-23578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118210,
+    "char": "𜷂",
+    "name": "BLOCK OCTANT-123578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118211,
+    "char": "𜷃",
+    "name": "BLOCK OCTANT-4578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118212,
+    "char": "𜷄",
+    "name": "BLOCK OCTANT-14578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118213,
+    "char": "𜷅",
+    "name": "BLOCK OCTANT-24578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118214,
+    "char": "𜷆",
+    "name": "BLOCK OCTANT-124578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118215,
+    "char": "𜷇",
+    "name": "BLOCK OCTANT-34578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118216,
+    "char": "𜷈",
+    "name": "BLOCK OCTANT-134578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118217,
+    "char": "𜷉",
+    "name": "BLOCK OCTANT-234578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118218,
+    "char": "𜷊",
+    "name": "BLOCK OCTANT-1234578",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118219,
+    "char": "𜷋",
+    "name": "BLOCK OCTANT-678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118220,
+    "char": "𜷌",
+    "name": "BLOCK OCTANT-1678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118221,
+    "char": "𜷍",
+    "name": "BLOCK OCTANT-2678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118222,
+    "char": "𜷎",
+    "name": "BLOCK OCTANT-12678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118223,
+    "char": "𜷏",
+    "name": "BLOCK OCTANT-3678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118224,
+    "char": "𜷐",
+    "name": "BLOCK OCTANT-13678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118225,
+    "char": "𜷑",
+    "name": "BLOCK OCTANT-23678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118226,
+    "char": "𜷒",
+    "name": "BLOCK OCTANT-123678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118227,
+    "char": "𜷓",
+    "name": "BLOCK OCTANT-4678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118228,
+    "char": "𜷔",
+    "name": "BLOCK OCTANT-14678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118229,
+    "char": "𜷕",
+    "name": "BLOCK OCTANT-24678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118230,
+    "char": "𜷖",
+    "name": "BLOCK OCTANT-124678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118231,
+    "char": "𜷗",
+    "name": "BLOCK OCTANT-34678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118232,
+    "char": "𜷘",
+    "name": "BLOCK OCTANT-134678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118233,
+    "char": "𜷙",
+    "name": "BLOCK OCTANT-234678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118234,
+    "char": "𜷚",
+    "name": "BLOCK OCTANT-1234678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118235,
+    "char": "𜷛",
+    "name": "BLOCK OCTANT-15678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118236,
+    "char": "𜷜",
+    "name": "BLOCK OCTANT-25678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118237,
+    "char": "𜷝",
+    "name": "BLOCK OCTANT-125678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118238,
+    "char": "𜷞",
+    "name": "BLOCK OCTANT-35678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118239,
+    "char": "𜷟",
+    "name": "BLOCK OCTANT-235678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118240,
+    "char": "𜷠",
+    "name": "BLOCK OCTANT-1235678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118241,
+    "char": "𜷡",
+    "name": "BLOCK OCTANT-45678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118242,
+    "char": "𜷢",
+    "name": "BLOCK OCTANT-145678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118243,
+    "char": "𜷣",
+    "name": "BLOCK OCTANT-1245678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118244,
+    "char": "𜷤",
+    "name": "BLOCK OCTANT-1345678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118245,
+    "char": "𜷥",
+    "name": "BLOCK OCTANT-2345678",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118246,
+    "char": "𜷦",
+    "name": "TOP HALF STANDING PERSON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118247,
+    "char": "𜷧",
+    "name": "BOTTOM HALF STANDING PERSON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118248,
+    "char": "𜷨",
+    "name": "TOP HALF RIGHT-FACING RUNNER FRAME-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118249,
+    "char": "𜷩",
+    "name": "BOTTOM HALF RIGHT-FACING RUNNER FRAME-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118250,
+    "char": "𜷪",
+    "name": "TOP HALF RIGHT-FACING RUNNER FRAME-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118251,
+    "char": "𜷫",
+    "name": "BOTTOM HALF RIGHT-FACING RUNNER FRAME-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118252,
+    "char": "𜷬",
+    "name": "TOP HALF LEFT-FACING RUNNER FRAME-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118253,
+    "char": "𜷭",
+    "name": "BOTTOM HALF LEFT-FACING RUNNER FRAME-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118254,
+    "char": "𜷮",
+    "name": "TOP HALF LEFT-FACING RUNNER FRAME-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118255,
+    "char": "𜷯",
+    "name": "BOTTOM HALF LEFT-FACING RUNNER FRAME-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118256,
+    "char": "𜷰",
+    "name": "TOP HALF FORWARD-FACING RUNNER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118257,
+    "char": "𜷱",
+    "name": "BOTTOM HALF FORWARD-FACING RUNNER FRAME-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118258,
+    "char": "𜷲",
+    "name": "BOTTOM HALF FORWARD-FACING RUNNER FRAME-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118259,
+    "char": "𜷳",
+    "name": "BOTTOM HALF FORWARD-FACING RUNNER FRAME-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118260,
+    "char": "𜷴",
+    "name": "BOTTOM HALF FORWARD-FACING RUNNER FRAME-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118261,
+    "char": "𜷵",
+    "name": "MOON LANDER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118262,
+    "char": "𜷶",
+    "name": "TOP HALF FLAILING ROBOT FRAME-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118263,
+    "char": "𜷷",
+    "name": "TOP HALF FLAILING ROBOT FRAME-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118264,
+    "char": "𜷸",
+    "name": "DOWN-POINTING AIRPLANE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118265,
+    "char": "𜷹",
+    "name": "LEFT-POINTING AIRPLANE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118266,
+    "char": "𜷺",
+    "name": "SMALL UP-POINTING AIRPLANE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118267,
+    "char": "𜷻",
+    "name": "UP-POINTING FROG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118268,
+    "char": "𜷼",
+    "name": "DOWN-POINTING FROG",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118269,
+    "char": "𜷽",
+    "name": "EXPLOSION FRAME-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118270,
+    "char": "𜷾",
+    "name": "EXPLOSION FRAME-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118271,
+    "char": "𜷿",
+    "name": "EXPLOSION FRAME-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118272,
+    "char": "𜸀",
+    "name": "RIGHT HALF AND LEFT HALF WHITE CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118273,
+    "char": "𜸁",
+    "name": "LOWER HALF AND UPPER HALF WHITE CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118274,
+    "char": "𜸂",
+    "name": "EXPLOSION AT HORIZON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118275,
+    "char": "𜸃",
+    "name": "UPPER HALF HEAVY WHITE SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118276,
+    "char": "𜸄",
+    "name": "LOWER HALF HEAVY WHITE SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118277,
+    "char": "𜸅",
+    "name": "HEAVY WHITE SQUARE CONTAINING BLACK VERY SMALL SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118278,
+    "char": "𜸆",
+    "name": "WHITE VERTICAL RECTANGLE WITH HORIZONTAL BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118279,
+    "char": "𜸇",
+    "name": "TOP LEFT BLACK LEFT-POINTING SMALL TRIANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118280,
+    "char": "𜸈",
+    "name": "FUNNEL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118281,
+    "char": "𜸉",
+    "name": "BOX DRAWINGS DOUBLE DIAGONAL LOWER LEFT TO MIDDLE CENTRE TO LOWER RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118282,
+    "char": "𜸊",
+    "name": "BOX DRAWINGS DOUBLE DIAGONAL UPPER LEFT TO MIDDLE CENTRE TO UPPER RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118283,
+    "char": "𜸋",
+    "name": "LEFT HALF WHITE ELLIPSE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118284,
+    "char": "𜸌",
+    "name": "RIGHT HALF WHITE ELLIPSE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118285,
+    "char": "𜸍",
+    "name": "LEFT HALF TRIPLE DASH HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118286,
+    "char": "𜸎",
+    "name": "RIGHT HALF TRIPLE DASH HORIZONTAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118287,
+    "char": "𜸏",
+    "name": "HORIZONTAL LINE WITH TICK MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118288,
+    "char": "𜸐",
+    "name": "LEFT HALF HORIZONTAL LINE WITH THREE TICK MARKS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118289,
+    "char": "𜸑",
+    "name": "RIGHT HALF HORIZONTAL LINE WITH THREE TICK MARKS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118290,
+    "char": "𜸒",
+    "name": "HORIZONTAL LINE WITH THREE TICK MARKS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118291,
+    "char": "𜸓",
+    "name": "LOWER HALF VERTICAL LINE WITH THREE TICK MARKS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118292,
+    "char": "𜸔",
+    "name": "UPPER HALF VERTICAL LINE WITH THREE TICK MARKS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118293,
+    "char": "𜸕",
+    "name": "VERTICAL LINE WITH THREE TICK MARKS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118294,
+    "char": "𜸖",
+    "name": "BOX DRAWINGS LIGHT VERTICAL AND TOP RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118295,
+    "char": "𜸗",
+    "name": "BOX DRAWINGS LIGHT VERTICAL AND BOTTOM RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118296,
+    "char": "𜸘",
+    "name": "BOX DRAWINGS LIGHT VERTICAL AND TOP LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118297,
+    "char": "𜸙",
+    "name": "BOX DRAWINGS LIGHT VERTICAL AND BOTTOM LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118298,
+    "char": "𜸚",
+    "name": "LARGE TYPE PIECE UPPER LEFT ARC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118299,
+    "char": "𜸛",
+    "name": "LARGE TYPE PIECE UPPER LEFT CORNER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118300,
+    "char": "𜸜",
+    "name": "LARGE TYPE PIECE UPPER TERMINAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118301,
+    "char": "𜸝",
+    "name": "LARGE TYPE PIECE UPPER LEFT CROTCH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118302,
+    "char": "𜸞",
+    "name": "LARGE TYPE PIECE LEFT ARM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118303,
+    "char": "𜸟",
+    "name": "LARGE TYPE PIECE CROSSBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118304,
+    "char": "𜸠",
+    "name": "LARGE TYPE PIECE CROSSBAR WITH LOWER STEM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118305,
+    "char": "𜸡",
+    "name": "LARGE TYPE PIECE UPPER HALF VERTEX OF M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118306,
+    "char": "𜸢",
+    "name": "LARGE TYPE PIECE DIAGONAL LOWER LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118307,
+    "char": "𜸣",
+    "name": "LARGE TYPE PIECE SHORT UPPER TERMINAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118308,
+    "char": "𜸤",
+    "name": "LARGE TYPE PIECE UPPER RIGHT ARC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118309,
+    "char": "𜸥",
+    "name": "LARGE TYPE PIECE RIGHT ARM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118310,
+    "char": "𜸦",
+    "name": "LARGE TYPE PIECE UPPER RIGHT CROTCH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118311,
+    "char": "𜸧",
+    "name": "LARGE TYPE PIECE UPPER RIGHT CORNER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118312,
+    "char": "𜸨",
+    "name": "LARGE TYPE PIECE STEM WITH RIGHT CROSSBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118313,
+    "char": "𜸩",
+    "name": "LARGE TYPE PIECE STEM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118314,
+    "char": "𜸪",
+    "name": "LARGE TYPE PIECE DIAGONAL UPPER RIGHT AND LOWER RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118315,
+    "char": "𜸫",
+    "name": "LARGE TYPE PIECE DIAGONAL UPPER RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118316,
+    "char": "𜸬",
+    "name": "LARGE TYPE PIECE DIAGONAL LOWER RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118317,
+    "char": "𜸭",
+    "name": "LARGE TYPE PIECE SHORT LOWER TERMINAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118318,
+    "char": "𜸮",
+    "name": "LARGE TYPE PIECE LOWER LEFT AND UPPER LEFT ARC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118319,
+    "char": "𜸯",
+    "name": "LARGE TYPE PIECE CENTRE OF K",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118320,
+    "char": "𜸰",
+    "name": "LARGE TYPE PIECE LOWER HALF VERTEX OF M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118321,
+    "char": "𜸱",
+    "name": "LARGE TYPE PIECE UPPER HALF VERTEX OF W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118322,
+    "char": "𜸲",
+    "name": "LARGE TYPE PIECE CENTRE OF X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118323,
+    "char": "𜸳",
+    "name": "LARGE TYPE PIECE CENTRE OF Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118324,
+    "char": "𜸴",
+    "name": "LARGE TYPE PIECE CENTRE OF Z WITH CROSSBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118325,
+    "char": "𜸵",
+    "name": "LARGE TYPE PIECE RAISED UPPER LEFT ARC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118326,
+    "char": "𜸶",
+    "name": "LARGE TYPE PIECE STEM WITH LEFT CROSSBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118327,
+    "char": "𜸷",
+    "name": "LARGE TYPE PIECE LOWER RIGHT AND UPPER RIGHT ARC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118328,
+    "char": "𜸸",
+    "name": "LARGE TYPE PIECE DIAGONAL UPPER LEFT AND LOWER LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118329,
+    "char": "𜸹",
+    "name": "LARGE TYPE PIECE STEM WITH LEFT JOINT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118330,
+    "char": "𜸺",
+    "name": "LARGE TYPE PIECE STEM WITH CROSSBAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118331,
+    "char": "𜸻",
+    "name": "LARGE TYPE PIECE DIAGONAL UPPER LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118332,
+    "char": "𜸼",
+    "name": "LARGE TYPE PIECE LOWER TERMINAL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118333,
+    "char": "𜸽",
+    "name": "LARGE TYPE PIECE LOWER LEFT CORNER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118334,
+    "char": "𜸾",
+    "name": "LARGE TYPE PIECE LOWER LEFT ARC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118335,
+    "char": "𜸿",
+    "name": "LARGE TYPE PIECE LOWER LEFT CROTCH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118336,
+    "char": "𜹀",
+    "name": "LARGE TYPE PIECE CROSSBAR WITH UPPER STEM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118337,
+    "char": "𜹁",
+    "name": "LARGE TYPE PIECE VERTEX OF V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118338,
+    "char": "𜹂",
+    "name": "LARGE TYPE PIECE LOWER HALF VERTEX OF W",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118339,
+    "char": "𜹃",
+    "name": "LARGE TYPE PIECE LOWER RIGHT ARC",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118340,
+    "char": "𜹄",
+    "name": "LARGE TYPE PIECE LOWER RIGHT CORNER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118341,
+    "char": "𜹅",
+    "name": "LARGE TYPE PIECE LOWER RIGHT ARC WITH TAIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118342,
+    "char": "𜹆",
+    "name": "LARGE TYPE PIECE LOWER RIGHT CROTCH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118343,
+    "char": "𜹇",
+    "name": "LARGE TYPE PIECE STEM-45",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118344,
+    "char": "𜹈",
+    "name": "LARGE TYPE PIECE STEM-2345",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118345,
+    "char": "𜹉",
+    "name": "LARGE TYPE PIECE STEM-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118346,
+    "char": "𜹊",
+    "name": "LARGE TYPE PIECE STEM-34",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118347,
+    "char": "𜹋",
+    "name": "LARGE TYPE PIECE STEM-234",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118348,
+    "char": "𜹌",
+    "name": "LARGE TYPE PIECE STEM-1234",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118349,
+    "char": "𜹍",
+    "name": "LARGE TYPE PIECE STEM-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118350,
+    "char": "𜹎",
+    "name": "LARGE TYPE PIECE STEM-23",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118351,
+    "char": "𜹏",
+    "name": "LARGE TYPE PIECE STEM-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118352,
+    "char": "𜹐",
+    "name": "LARGE TYPE PIECE STEM-12",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118353,
+    "char": "𜹑",
+    "name": "SEPARATED BLOCK SEXTANT-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118354,
+    "char": "𜹒",
+    "name": "SEPARATED BLOCK SEXTANT-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118355,
+    "char": "𜹓",
+    "name": "SEPARATED BLOCK SEXTANT-12",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118356,
+    "char": "𜹔",
+    "name": "SEPARATED BLOCK SEXTANT-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118357,
+    "char": "𜹕",
+    "name": "SEPARATED BLOCK SEXTANT-13",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118358,
+    "char": "𜹖",
+    "name": "SEPARATED BLOCK SEXTANT-23",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118359,
+    "char": "𜹗",
+    "name": "SEPARATED BLOCK SEXTANT-123",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118360,
+    "char": "𜹘",
+    "name": "SEPARATED BLOCK SEXTANT-4",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118361,
+    "char": "𜹙",
+    "name": "SEPARATED BLOCK SEXTANT-14",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118362,
+    "char": "𜹚",
+    "name": "SEPARATED BLOCK SEXTANT-24",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118363,
+    "char": "𜹛",
+    "name": "SEPARATED BLOCK SEXTANT-124",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118364,
+    "char": "𜹜",
+    "name": "SEPARATED BLOCK SEXTANT-34",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118365,
+    "char": "𜹝",
+    "name": "SEPARATED BLOCK SEXTANT-134",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118366,
+    "char": "𜹞",
+    "name": "SEPARATED BLOCK SEXTANT-234",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118367,
+    "char": "𜹟",
+    "name": "SEPARATED BLOCK SEXTANT-1234",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118368,
+    "char": "𜹠",
+    "name": "SEPARATED BLOCK SEXTANT-5",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118369,
+    "char": "𜹡",
+    "name": "SEPARATED BLOCK SEXTANT-15",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118370,
+    "char": "𜹢",
+    "name": "SEPARATED BLOCK SEXTANT-25",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118371,
+    "char": "𜹣",
+    "name": "SEPARATED BLOCK SEXTANT-125",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118372,
+    "char": "𜹤",
+    "name": "SEPARATED BLOCK SEXTANT-35",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118373,
+    "char": "𜹥",
+    "name": "SEPARATED BLOCK SEXTANT-135",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118374,
+    "char": "𜹦",
+    "name": "SEPARATED BLOCK SEXTANT-235",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118375,
+    "char": "𜹧",
+    "name": "SEPARATED BLOCK SEXTANT-1235",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118376,
+    "char": "𜹨",
+    "name": "SEPARATED BLOCK SEXTANT-45",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118377,
+    "char": "𜹩",
+    "name": "SEPARATED BLOCK SEXTANT-145",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118378,
+    "char": "𜹪",
+    "name": "SEPARATED BLOCK SEXTANT-245",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118379,
+    "char": "𜹫",
+    "name": "SEPARATED BLOCK SEXTANT-1245",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118380,
+    "char": "𜹬",
+    "name": "SEPARATED BLOCK SEXTANT-345",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118381,
+    "char": "𜹭",
+    "name": "SEPARATED BLOCK SEXTANT-1345",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118382,
+    "char": "𜹮",
+    "name": "SEPARATED BLOCK SEXTANT-2345",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118383,
+    "char": "𜹯",
+    "name": "SEPARATED BLOCK SEXTANT-12345",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118384,
+    "char": "𜹰",
+    "name": "SEPARATED BLOCK SEXTANT-6",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118385,
+    "char": "𜹱",
+    "name": "SEPARATED BLOCK SEXTANT-16",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118386,
+    "char": "𜹲",
+    "name": "SEPARATED BLOCK SEXTANT-26",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118387,
+    "char": "𜹳",
+    "name": "SEPARATED BLOCK SEXTANT-126",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118388,
+    "char": "𜹴",
+    "name": "SEPARATED BLOCK SEXTANT-36",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118389,
+    "char": "𜹵",
+    "name": "SEPARATED BLOCK SEXTANT-136",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118390,
+    "char": "𜹶",
+    "name": "SEPARATED BLOCK SEXTANT-236",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118391,
+    "char": "𜹷",
+    "name": "SEPARATED BLOCK SEXTANT-1236",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118392,
+    "char": "𜹸",
+    "name": "SEPARATED BLOCK SEXTANT-46",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118393,
+    "char": "𜹹",
+    "name": "SEPARATED BLOCK SEXTANT-146",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118394,
+    "char": "𜹺",
+    "name": "SEPARATED BLOCK SEXTANT-246",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118395,
+    "char": "𜹻",
+    "name": "SEPARATED BLOCK SEXTANT-1246",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118396,
+    "char": "𜹼",
+    "name": "SEPARATED BLOCK SEXTANT-346",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118397,
+    "char": "𜹽",
+    "name": "SEPARATED BLOCK SEXTANT-1346",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118398,
+    "char": "𜹾",
+    "name": "SEPARATED BLOCK SEXTANT-2346",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118399,
+    "char": "𜹿",
+    "name": "SEPARATED BLOCK SEXTANT-12346",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118400,
+    "char": "𜺀",
+    "name": "SEPARATED BLOCK SEXTANT-56",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118401,
+    "char": "𜺁",
+    "name": "SEPARATED BLOCK SEXTANT-156",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118402,
+    "char": "𜺂",
+    "name": "SEPARATED BLOCK SEXTANT-256",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118403,
+    "char": "𜺃",
+    "name": "SEPARATED BLOCK SEXTANT-1256",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118404,
+    "char": "𜺄",
+    "name": "SEPARATED BLOCK SEXTANT-356",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118405,
+    "char": "𜺅",
+    "name": "SEPARATED BLOCK SEXTANT-1356",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118406,
+    "char": "𜺆",
+    "name": "SEPARATED BLOCK SEXTANT-2356",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118407,
+    "char": "𜺇",
+    "name": "SEPARATED BLOCK SEXTANT-12356",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118408,
+    "char": "𜺈",
+    "name": "SEPARATED BLOCK SEXTANT-456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118409,
+    "char": "𜺉",
+    "name": "SEPARATED BLOCK SEXTANT-1456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118410,
+    "char": "𜺊",
+    "name": "SEPARATED BLOCK SEXTANT-2456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118411,
+    "char": "𜺋",
+    "name": "SEPARATED BLOCK SEXTANT-12456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118412,
+    "char": "𜺌",
+    "name": "SEPARATED BLOCK SEXTANT-3456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118413,
+    "char": "𜺍",
+    "name": "SEPARATED BLOCK SEXTANT-13456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118414,
+    "char": "𜺎",
+    "name": "SEPARATED BLOCK SEXTANT-23456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118415,
+    "char": "𜺏",
+    "name": "SEPARATED BLOCK SEXTANT-123456",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118416,
+    "char": "𜺐",
+    "name": "UPPER LEFT ONE SIXTEENTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118417,
+    "char": "𜺑",
+    "name": "UPPER CENTRE LEFT ONE SIXTEENTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118418,
+    "char": "𜺒",
+    "name": "UPPER CENTRE RIGHT ONE SIXTEENTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118419,
+    "char": "𜺓",
+    "name": "UPPER RIGHT ONE SIXTEENTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118420,
+    "char": "𜺔",
+    "name": "UPPER MIDDLE LEFT ONE SIXTEENTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118421,
+    "char": "𜺕",
+    "name": "UPPER MIDDLE CENTRE LEFT ONE SIXTEENTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118422,
+    "char": "𜺖",
+    "name": "UPPER MIDDLE CENTRE RIGHT ONE SIXTEENTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118423,
+    "char": "𜺗",
+    "name": "UPPER MIDDLE RIGHT ONE SIXTEENTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118424,
+    "char": "𜺘",
+    "name": "LOWER MIDDLE LEFT ONE SIXTEENTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118425,
+    "char": "𜺙",
+    "name": "LOWER MIDDLE CENTRE LEFT ONE SIXTEENTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118426,
+    "char": "𜺚",
+    "name": "LOWER MIDDLE CENTRE RIGHT ONE SIXTEENTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118427,
+    "char": "𜺛",
+    "name": "LOWER MIDDLE RIGHT ONE SIXTEENTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118428,
+    "char": "𜺜",
+    "name": "LOWER LEFT ONE SIXTEENTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118429,
+    "char": "𜺝",
+    "name": "LOWER CENTRE LEFT ONE SIXTEENTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118430,
+    "char": "𜺞",
+    "name": "LOWER CENTRE RIGHT ONE SIXTEENTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118431,
+    "char": "𜺟",
+    "name": "LOWER RIGHT ONE SIXTEENTH BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118432,
+    "char": "𜺠",
+    "name": "RIGHT HALF LOWER ONE QUARTER BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118433,
+    "char": "𜺡",
+    "name": "RIGHT THREE QUARTERS LOWER ONE QUARTER BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118434,
+    "char": "𜺢",
+    "name": "LEFT THREE QUARTERS LOWER ONE QUARTER BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118435,
+    "char": "𜺣",
+    "name": "LEFT HALF LOWER ONE QUARTER BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118436,
+    "char": "𜺤",
+    "name": "LOWER HALF LEFT ONE QUARTER BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118437,
+    "char": "𜺥",
+    "name": "LOWER THREE QUARTERS LEFT ONE QUARTER BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118438,
+    "char": "𜺦",
+    "name": "UPPER THREE QUARTERS LEFT ONE QUARTER BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118439,
+    "char": "𜺧",
+    "name": "UPPER HALF LEFT ONE QUARTER BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118440,
+    "char": "𜺨",
+    "name": "LEFT HALF UPPER ONE QUARTER BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118441,
+    "char": "𜺩",
+    "name": "LEFT THREE QUARTERS UPPER ONE QUARTER BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118442,
+    "char": "𜺪",
+    "name": "RIGHT THREE QUARTERS UPPER ONE QUARTER BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118443,
+    "char": "𜺫",
+    "name": "RIGHT HALF UPPER ONE QUARTER BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118444,
+    "char": "𜺬",
+    "name": "UPPER HALF RIGHT ONE QUARTER BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118445,
+    "char": "𜺭",
+    "name": "UPPER THREE QUARTERS RIGHT ONE QUARTER BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118446,
+    "char": "𜺮",
+    "name": "LOWER THREE QUARTERS RIGHT ONE QUARTER BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118447,
+    "char": "𜺯",
+    "name": "LOWER HALF RIGHT ONE QUARTER BLOCK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118448,
+    "char": "𜺰",
+    "name": "HORIZONTAL ZIGZAG LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118449,
+    "char": "𜺱",
+    "name": "KEYHOLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118450,
+    "char": "𜺲",
+    "name": "OLD PERSONAL COMPUTER WITH MONITOR IN PORTRAIT ORIENTATION",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118451,
+    "char": "𜺳",
+    "name": "BLACK RIGHT TRIANGLE CARET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118458,
+    "char": "𜺺",
+    "name": "FRAGILE SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118459,
+    "char": "𜺻",
+    "name": "OFFICE BUILDING SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118460,
+    "char": "𜺼",
+    "name": "TREE SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118461,
+    "char": "𜺽",
+    "name": "APPLE SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118462,
+    "char": "𜺾",
+    "name": "CHERRY SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 118463,
+    "char": "𜺿",
+    "name": "STRAWBERRY SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

@@ -1,0 +1,2063 @@
+[
+  {
+    "cp": 11008,
+    "char": "⬀",
+    "name": "NORTH EAST WHITE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11009,
+    "char": "⬁",
+    "name": "NORTH WEST WHITE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11010,
+    "char": "⬂",
+    "name": "SOUTH EAST WHITE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11011,
+    "char": "⬃",
+    "name": "SOUTH WEST WHITE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11012,
+    "char": "⬄",
+    "name": "LEFT RIGHT WHITE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11013,
+    "char": "⬅",
+    "name": "LEFTWARDS BLACK ARROW",
+    "ru": "стрелка влево",
+    "en": "left arrow",
+    "keywords": {
+      "ru": ["влево", "запад", "направление", "стрелка"],
+      "en": ["arrow", "cardinal", "direction", "left", "west"]
+    }
+  },
+  {
+    "cp": 11014,
+    "char": "⬆",
+    "name": "UPWARDS BLACK ARROW",
+    "ru": "стрелка вверх",
+    "en": "up arrow",
+    "keywords": {
+      "ru": ["вверх", "направление", "север", "стрелка"],
+      "en": ["arrow", "cardinal", "direction", "north", "up"]
+    }
+  },
+  {
+    "cp": 11015,
+    "char": "⬇",
+    "name": "DOWNWARDS BLACK ARROW",
+    "ru": "стрелка вниз",
+    "en": "down arrow",
+    "keywords": {
+      "ru": ["вниз", "направление", "стрелка", "юг"],
+      "en": ["arrow", "cardinal", "direction", "down", "south"]
+    }
+  },
+  {
+    "cp": 11016,
+    "char": "⬈",
+    "name": "NORTH EAST BLACK ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11017,
+    "char": "⬉",
+    "name": "NORTH WEST BLACK ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11018,
+    "char": "⬊",
+    "name": "SOUTH EAST BLACK ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11019,
+    "char": "⬋",
+    "name": "SOUTH WEST BLACK ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11020,
+    "char": "⬌",
+    "name": "LEFT RIGHT BLACK ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11021,
+    "char": "⬍",
+    "name": "UP DOWN BLACK ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11022,
+    "char": "⬎",
+    "name": "RIGHTWARDS ARROW WITH TIP DOWNWARDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11023,
+    "char": "⬏",
+    "name": "RIGHTWARDS ARROW WITH TIP UPWARDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11024,
+    "char": "⬐",
+    "name": "LEFTWARDS ARROW WITH TIP DOWNWARDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11025,
+    "char": "⬑",
+    "name": "LEFTWARDS ARROW WITH TIP UPWARDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11026,
+    "char": "⬒",
+    "name": "SQUARE WITH TOP HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11027,
+    "char": "⬓",
+    "name": "SQUARE WITH BOTTOM HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11028,
+    "char": "⬔",
+    "name": "SQUARE WITH UPPER RIGHT DIAGONAL HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11029,
+    "char": "⬕",
+    "name": "SQUARE WITH LOWER LEFT DIAGONAL HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11030,
+    "char": "⬖",
+    "name": "DIAMOND WITH LEFT HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11031,
+    "char": "⬗",
+    "name": "DIAMOND WITH RIGHT HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11032,
+    "char": "⬘",
+    "name": "DIAMOND WITH TOP HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11033,
+    "char": "⬙",
+    "name": "DIAMOND WITH BOTTOM HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11034,
+    "char": "⬚",
+    "name": "DOTTED SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11035,
+    "char": "⬛",
+    "name": "BLACK LARGE SQUARE",
+    "ru": "большой черный квадрат",
+    "en": "black large square",
+    "keywords": {
+      "ru": ["большой", "геометрия", "квадрат", "фигура", "черный"],
+      "en": ["black", "geometric", "large", "square"]
+    }
+  },
+  {
+    "cp": 11036,
+    "char": "⬜",
+    "name": "WHITE LARGE SQUARE",
+    "ru": "большой белый квадрат",
+    "en": "white large square",
+    "keywords": {
+      "ru": ["белый", "большой", "геометрия", "квадрат", "фигура"],
+      "en": ["geometric", "large", "square", "white"]
+    }
+  },
+  {
+    "cp": 11037,
+    "char": "⬝",
+    "name": "BLACK VERY SMALL SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11038,
+    "char": "⬞",
+    "name": "WHITE VERY SMALL SQUARE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11039,
+    "char": "⬟",
+    "name": "BLACK PENTAGON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11040,
+    "char": "⬠",
+    "name": "WHITE PENTAGON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11041,
+    "char": "⬡",
+    "name": "WHITE HEXAGON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11042,
+    "char": "⬢",
+    "name": "BLACK HEXAGON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11043,
+    "char": "⬣",
+    "name": "HORIZONTAL BLACK HEXAGON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11044,
+    "char": "⬤",
+    "name": "BLACK LARGE CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11045,
+    "char": "⬥",
+    "name": "BLACK MEDIUM DIAMOND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11046,
+    "char": "⬦",
+    "name": "WHITE MEDIUM DIAMOND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11047,
+    "char": "⬧",
+    "name": "BLACK MEDIUM LOZENGE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11048,
+    "char": "⬨",
+    "name": "WHITE MEDIUM LOZENGE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11049,
+    "char": "⬩",
+    "name": "BLACK SMALL DIAMOND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11050,
+    "char": "⬪",
+    "name": "BLACK SMALL LOZENGE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11051,
+    "char": "⬫",
+    "name": "WHITE SMALL LOZENGE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11052,
+    "char": "⬬",
+    "name": "BLACK HORIZONTAL ELLIPSE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11053,
+    "char": "⬭",
+    "name": "WHITE HORIZONTAL ELLIPSE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11054,
+    "char": "⬮",
+    "name": "BLACK VERTICAL ELLIPSE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11055,
+    "char": "⬯",
+    "name": "WHITE VERTICAL ELLIPSE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11056,
+    "char": "⬰",
+    "name": "LEFT ARROW WITH SMALL CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11057,
+    "char": "⬱",
+    "name": "THREE LEFTWARDS ARROWS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11058,
+    "char": "⬲",
+    "name": "LEFT ARROW WITH CIRCLED PLUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11059,
+    "char": "⬳",
+    "name": "LONG LEFTWARDS SQUIGGLE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11060,
+    "char": "⬴",
+    "name": "LEFTWARDS TWO-HEADED ARROW WITH VERTICAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11061,
+    "char": "⬵",
+    "name": "LEFTWARDS TWO-HEADED ARROW WITH DOUBLE VERTICAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11062,
+    "char": "⬶",
+    "name": "LEFTWARDS TWO-HEADED ARROW FROM BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11063,
+    "char": "⬷",
+    "name": "LEFTWARDS TWO-HEADED TRIPLE DASH ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11064,
+    "char": "⬸",
+    "name": "LEFTWARDS ARROW WITH DOTTED STEM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11065,
+    "char": "⬹",
+    "name": "LEFTWARDS ARROW WITH TAIL WITH VERTICAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11066,
+    "char": "⬺",
+    "name": "LEFTWARDS ARROW WITH TAIL WITH DOUBLE VERTICAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11067,
+    "char": "⬻",
+    "name": "LEFTWARDS TWO-HEADED ARROW WITH TAIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11068,
+    "char": "⬼",
+    "name": "LEFTWARDS TWO-HEADED ARROW WITH TAIL WITH VERTICAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11069,
+    "char": "⬽",
+    "name": "LEFTWARDS TWO-HEADED ARROW WITH TAIL WITH DOUBLE VERTICAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11070,
+    "char": "⬾",
+    "name": "LEFTWARDS ARROW THROUGH X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11071,
+    "char": "⬿",
+    "name": "WAVE ARROW POINTING DIRECTLY LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11072,
+    "char": "⭀",
+    "name": "EQUALS SIGN ABOVE LEFTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11073,
+    "char": "⭁",
+    "name": "REVERSE TILDE OPERATOR ABOVE LEFTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11074,
+    "char": "⭂",
+    "name": "LEFTWARDS ARROW ABOVE REVERSE ALMOST EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11075,
+    "char": "⭃",
+    "name": "RIGHTWARDS ARROW THROUGH GREATER-THAN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11076,
+    "char": "⭄",
+    "name": "RIGHTWARDS ARROW THROUGH SUPERSET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11077,
+    "char": "⭅",
+    "name": "LEFTWARDS QUADRUPLE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11078,
+    "char": "⭆",
+    "name": "RIGHTWARDS QUADRUPLE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11079,
+    "char": "⭇",
+    "name": "REVERSE TILDE OPERATOR ABOVE RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11080,
+    "char": "⭈",
+    "name": "RIGHTWARDS ARROW ABOVE REVERSE ALMOST EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11081,
+    "char": "⭉",
+    "name": "TILDE OPERATOR ABOVE LEFTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11082,
+    "char": "⭊",
+    "name": "LEFTWARDS ARROW ABOVE ALMOST EQUAL TO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11083,
+    "char": "⭋",
+    "name": "LEFTWARDS ARROW ABOVE REVERSE TILDE OPERATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11084,
+    "char": "⭌",
+    "name": "RIGHTWARDS ARROW ABOVE REVERSE TILDE OPERATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11085,
+    "char": "⭍",
+    "name": "DOWNWARDS TRIANGLE-HEADED ZIGZAG ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11086,
+    "char": "⭎",
+    "name": "SHORT SLANTED NORTH ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11087,
+    "char": "⭏",
+    "name": "SHORT BACKSLANTED SOUTH ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11088,
+    "char": "⭐",
+    "name": "WHITE MEDIUM STAR",
+    "ru": "желтая звезда",
+    "en": "star",
+    "keywords": {
+      "ru": ["астрономия", "желтая", "звезда", "звезды"],
+      "en": ["astronomy", "medium", "star", "stars", "white"]
+    }
+  },
+  {
+    "cp": 11089,
+    "char": "⭑",
+    "name": "BLACK SMALL STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11090,
+    "char": "⭒",
+    "name": "WHITE SMALL STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11091,
+    "char": "⭓",
+    "name": "BLACK RIGHT-POINTING PENTAGON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11092,
+    "char": "⭔",
+    "name": "WHITE RIGHT-POINTING PENTAGON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11093,
+    "char": "⭕",
+    "name": "HEAVY LARGE CIRCLE",
+    "ru": "красное кольцо",
+    "en": "hollow red circle",
+    "keywords": {
+      "ru": [
+        "большое кольцо",
+        "большой круг",
+        "кольцо",
+        "красное",
+        "красный круг",
+        "круг",
+        "синий круг"
+      ],
+      "en": ["circle", "heavy", "hollow", "large", "o", "red"]
+    }
+  },
+  {
+    "cp": 11094,
+    "char": "⭖",
+    "name": "HEAVY OVAL WITH OVAL INSIDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11095,
+    "char": "⭗",
+    "name": "HEAVY CIRCLE WITH CIRCLE INSIDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11096,
+    "char": "⭘",
+    "name": "HEAVY CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11097,
+    "char": "⭙",
+    "name": "HEAVY CIRCLED SALTIRE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11098,
+    "char": "⭚",
+    "name": "SLANTED NORTH ARROW WITH HOOKED HEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11099,
+    "char": "⭛",
+    "name": "BACKSLANTED SOUTH ARROW WITH HOOKED TAIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11100,
+    "char": "⭜",
+    "name": "SLANTED NORTH ARROW WITH HORIZONTAL TAIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11101,
+    "char": "⭝",
+    "name": "BACKSLANTED SOUTH ARROW WITH HORIZONTAL TAIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11102,
+    "char": "⭞",
+    "name": "BENT ARROW POINTING DOWNWARDS THEN NORTH EAST",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11103,
+    "char": "⭟",
+    "name": "SHORT BENT ARROW POINTING DOWNWARDS THEN NORTH EAST",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11104,
+    "char": "⭠",
+    "name": "LEFTWARDS TRIANGLE-HEADED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11105,
+    "char": "⭡",
+    "name": "UPWARDS TRIANGLE-HEADED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11106,
+    "char": "⭢",
+    "name": "RIGHTWARDS TRIANGLE-HEADED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11107,
+    "char": "⭣",
+    "name": "DOWNWARDS TRIANGLE-HEADED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11108,
+    "char": "⭤",
+    "name": "LEFT RIGHT TRIANGLE-HEADED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11109,
+    "char": "⭥",
+    "name": "UP DOWN TRIANGLE-HEADED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11110,
+    "char": "⭦",
+    "name": "NORTH WEST TRIANGLE-HEADED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11111,
+    "char": "⭧",
+    "name": "NORTH EAST TRIANGLE-HEADED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11112,
+    "char": "⭨",
+    "name": "SOUTH EAST TRIANGLE-HEADED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11113,
+    "char": "⭩",
+    "name": "SOUTH WEST TRIANGLE-HEADED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11114,
+    "char": "⭪",
+    "name": "LEFTWARDS TRIANGLE-HEADED DASHED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11115,
+    "char": "⭫",
+    "name": "UPWARDS TRIANGLE-HEADED DASHED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11116,
+    "char": "⭬",
+    "name": "RIGHTWARDS TRIANGLE-HEADED DASHED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11117,
+    "char": "⭭",
+    "name": "DOWNWARDS TRIANGLE-HEADED DASHED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11118,
+    "char": "⭮",
+    "name": "CLOCKWISE TRIANGLE-HEADED OPEN CIRCLE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11119,
+    "char": "⭯",
+    "name": "ANTICLOCKWISE TRIANGLE-HEADED OPEN CIRCLE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11120,
+    "char": "⭰",
+    "name": "LEFTWARDS TRIANGLE-HEADED ARROW TO BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11121,
+    "char": "⭱",
+    "name": "UPWARDS TRIANGLE-HEADED ARROW TO BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11122,
+    "char": "⭲",
+    "name": "RIGHTWARDS TRIANGLE-HEADED ARROW TO BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11123,
+    "char": "⭳",
+    "name": "DOWNWARDS TRIANGLE-HEADED ARROW TO BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11126,
+    "char": "⭶",
+    "name": "NORTH WEST TRIANGLE-HEADED ARROW TO BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11127,
+    "char": "⭷",
+    "name": "NORTH EAST TRIANGLE-HEADED ARROW TO BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11128,
+    "char": "⭸",
+    "name": "SOUTH EAST TRIANGLE-HEADED ARROW TO BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11129,
+    "char": "⭹",
+    "name": "SOUTH WEST TRIANGLE-HEADED ARROW TO BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11130,
+    "char": "⭺",
+    "name": "LEFTWARDS TRIANGLE-HEADED ARROW WITH DOUBLE HORIZONTAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11131,
+    "char": "⭻",
+    "name": "UPWARDS TRIANGLE-HEADED ARROW WITH DOUBLE HORIZONTAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11132,
+    "char": "⭼",
+    "name": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH DOUBLE HORIZONTAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11133,
+    "char": "⭽",
+    "name": "DOWNWARDS TRIANGLE-HEADED ARROW WITH DOUBLE HORIZONTAL STROKE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11134,
+    "char": "⭾",
+    "name": "HORIZONTAL TAB KEY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11135,
+    "char": "⭿",
+    "name": "VERTICAL TAB KEY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11136,
+    "char": "⮀",
+    "name": "LEFTWARDS TRIANGLE-HEADED ARROW OVER RIGHTWARDS TRIANGLE-HEADED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11137,
+    "char": "⮁",
+    "name": "UPWARDS TRIANGLE-HEADED ARROW LEFTWARDS OF DOWNWARDS TRIANGLE-HEADED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11138,
+    "char": "⮂",
+    "name": "RIGHTWARDS TRIANGLE-HEADED ARROW OVER LEFTWARDS TRIANGLE-HEADED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11139,
+    "char": "⮃",
+    "name": "DOWNWARDS TRIANGLE-HEADED ARROW LEFTWARDS OF UPWARDS TRIANGLE-HEADED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11140,
+    "char": "⮄",
+    "name": "LEFTWARDS TRIANGLE-HEADED PAIRED ARROWS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11141,
+    "char": "⮅",
+    "name": "UPWARDS TRIANGLE-HEADED PAIRED ARROWS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11142,
+    "char": "⮆",
+    "name": "RIGHTWARDS TRIANGLE-HEADED PAIRED ARROWS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11143,
+    "char": "⮇",
+    "name": "DOWNWARDS TRIANGLE-HEADED PAIRED ARROWS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11144,
+    "char": "⮈",
+    "name": "LEFTWARDS BLACK CIRCLED WHITE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11145,
+    "char": "⮉",
+    "name": "UPWARDS BLACK CIRCLED WHITE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11146,
+    "char": "⮊",
+    "name": "RIGHTWARDS BLACK CIRCLED WHITE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11147,
+    "char": "⮋",
+    "name": "DOWNWARDS BLACK CIRCLED WHITE ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11148,
+    "char": "⮌",
+    "name": "ANTICLOCKWISE TRIANGLE-HEADED RIGHT U-SHAPED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11149,
+    "char": "⮍",
+    "name": "ANTICLOCKWISE TRIANGLE-HEADED BOTTOM U-SHAPED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11150,
+    "char": "⮎",
+    "name": "ANTICLOCKWISE TRIANGLE-HEADED LEFT U-SHAPED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11151,
+    "char": "⮏",
+    "name": "ANTICLOCKWISE TRIANGLE-HEADED TOP U-SHAPED ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11152,
+    "char": "⮐",
+    "name": "RETURN LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11153,
+    "char": "⮑",
+    "name": "RETURN RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11154,
+    "char": "⮒",
+    "name": "NEWLINE LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11155,
+    "char": "⮓",
+    "name": "NEWLINE RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11156,
+    "char": "⮔",
+    "name": "FOUR CORNER ARROWS CIRCLING ANTICLOCKWISE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11157,
+    "char": "⮕",
+    "name": "RIGHTWARDS BLACK ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11158,
+    "char": "⮖",
+    "name": "EQUALS SIGN WITH INFINITY ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11159,
+    "char": "⮗",
+    "name": "SYMBOL FOR TYPE A ELECTRONICS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11160,
+    "char": "⮘",
+    "name": "THREE-D TOP-LIGHTED LEFTWARDS EQUILATERAL ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11161,
+    "char": "⮙",
+    "name": "THREE-D RIGHT-LIGHTED UPWARDS EQUILATERAL ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11162,
+    "char": "⮚",
+    "name": "THREE-D TOP-LIGHTED RIGHTWARDS EQUILATERAL ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11163,
+    "char": "⮛",
+    "name": "THREE-D LEFT-LIGHTED DOWNWARDS EQUILATERAL ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11164,
+    "char": "⮜",
+    "name": "BLACK LEFTWARDS EQUILATERAL ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11165,
+    "char": "⮝",
+    "name": "BLACK UPWARDS EQUILATERAL ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11166,
+    "char": "⮞",
+    "name": "BLACK RIGHTWARDS EQUILATERAL ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11167,
+    "char": "⮟",
+    "name": "BLACK DOWNWARDS EQUILATERAL ARROWHEAD",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11168,
+    "char": "⮠",
+    "name": "DOWNWARDS TRIANGLE-HEADED ARROW WITH LONG TIP LEFTWARDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11169,
+    "char": "⮡",
+    "name": "DOWNWARDS TRIANGLE-HEADED ARROW WITH LONG TIP RIGHTWARDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11170,
+    "char": "⮢",
+    "name": "UPWARDS TRIANGLE-HEADED ARROW WITH LONG TIP LEFTWARDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11171,
+    "char": "⮣",
+    "name": "UPWARDS TRIANGLE-HEADED ARROW WITH LONG TIP RIGHTWARDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11172,
+    "char": "⮤",
+    "name": "LEFTWARDS TRIANGLE-HEADED ARROW WITH LONG TIP UPWARDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11173,
+    "char": "⮥",
+    "name": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH LONG TIP UPWARDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11174,
+    "char": "⮦",
+    "name": "LEFTWARDS TRIANGLE-HEADED ARROW WITH LONG TIP DOWNWARDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11175,
+    "char": "⮧",
+    "name": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH LONG TIP DOWNWARDS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11176,
+    "char": "⮨",
+    "name": "BLACK CURVED DOWNWARDS AND LEFTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11177,
+    "char": "⮩",
+    "name": "BLACK CURVED DOWNWARDS AND RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11178,
+    "char": "⮪",
+    "name": "BLACK CURVED UPWARDS AND LEFTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11179,
+    "char": "⮫",
+    "name": "BLACK CURVED UPWARDS AND RIGHTWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11180,
+    "char": "⮬",
+    "name": "BLACK CURVED LEFTWARDS AND UPWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11181,
+    "char": "⮭",
+    "name": "BLACK CURVED RIGHTWARDS AND UPWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11182,
+    "char": "⮮",
+    "name": "BLACK CURVED LEFTWARDS AND DOWNWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11183,
+    "char": "⮯",
+    "name": "BLACK CURVED RIGHTWARDS AND DOWNWARDS ARROW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11184,
+    "char": "⮰",
+    "name": "RIBBON ARROW DOWN LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11185,
+    "char": "⮱",
+    "name": "RIBBON ARROW DOWN RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11186,
+    "char": "⮲",
+    "name": "RIBBON ARROW UP LEFT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11187,
+    "char": "⮳",
+    "name": "RIBBON ARROW UP RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11188,
+    "char": "⮴",
+    "name": "RIBBON ARROW LEFT UP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11189,
+    "char": "⮵",
+    "name": "RIBBON ARROW RIGHT UP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11190,
+    "char": "⮶",
+    "name": "RIBBON ARROW LEFT DOWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11191,
+    "char": "⮷",
+    "name": "RIBBON ARROW RIGHT DOWN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11192,
+    "char": "⮸",
+    "name": "UPWARDS WHITE ARROW FROM BAR WITH HORIZONTAL BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11193,
+    "char": "⮹",
+    "name": "UP ARROWHEAD IN A RECTANGLE BOX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11194,
+    "char": "⮺",
+    "name": "OVERLAPPING WHITE SQUARES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11195,
+    "char": "⮻",
+    "name": "OVERLAPPING WHITE AND BLACK SQUARES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11196,
+    "char": "⮼",
+    "name": "OVERLAPPING BLACK SQUARES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11197,
+    "char": "⮽",
+    "name": "BALLOT BOX WITH LIGHT X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11198,
+    "char": "⮾",
+    "name": "CIRCLED X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11199,
+    "char": "⮿",
+    "name": "CIRCLED BOLD X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11200,
+    "char": "⯀",
+    "name": "BLACK SQUARE CENTRED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11201,
+    "char": "⯁",
+    "name": "BLACK DIAMOND CENTRED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11202,
+    "char": "⯂",
+    "name": "TURNED BLACK PENTAGON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11203,
+    "char": "⯃",
+    "name": "HORIZONTAL BLACK OCTAGON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11204,
+    "char": "⯄",
+    "name": "BLACK OCTAGON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11205,
+    "char": "⯅",
+    "name": "BLACK MEDIUM UP-POINTING TRIANGLE CENTRED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11206,
+    "char": "⯆",
+    "name": "BLACK MEDIUM DOWN-POINTING TRIANGLE CENTRED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11207,
+    "char": "⯇",
+    "name": "BLACK MEDIUM LEFT-POINTING TRIANGLE CENTRED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11208,
+    "char": "⯈",
+    "name": "BLACK MEDIUM RIGHT-POINTING TRIANGLE CENTRED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11209,
+    "char": "⯉",
+    "name": "NEPTUNE FORM TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11210,
+    "char": "⯊",
+    "name": "TOP HALF BLACK CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11211,
+    "char": "⯋",
+    "name": "BOTTOM HALF BLACK CIRCLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11212,
+    "char": "⯌",
+    "name": "LIGHT FOUR POINTED BLACK CUSP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11213,
+    "char": "⯍",
+    "name": "ROTATED LIGHT FOUR POINTED BLACK CUSP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11214,
+    "char": "⯎",
+    "name": "WHITE FOUR POINTED CUSP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11215,
+    "char": "⯏",
+    "name": "ROTATED WHITE FOUR POINTED CUSP",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11216,
+    "char": "⯐",
+    "name": "SQUARE POSITION INDICATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11217,
+    "char": "⯑",
+    "name": "UNCERTAINTY SIGN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11218,
+    "char": "⯒",
+    "name": "GROUP MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11219,
+    "char": "⯓",
+    "name": "PLUTO FORM TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11220,
+    "char": "⯔",
+    "name": "PLUTO FORM THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11221,
+    "char": "⯕",
+    "name": "PLUTO FORM FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11222,
+    "char": "⯖",
+    "name": "PLUTO FORM FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11223,
+    "char": "⯗",
+    "name": "TRANSPLUTO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11224,
+    "char": "⯘",
+    "name": "PROSERPINA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11225,
+    "char": "⯙",
+    "name": "ASTRAEA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11226,
+    "char": "⯚",
+    "name": "HYGIEA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11227,
+    "char": "⯛",
+    "name": "PHOLUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11228,
+    "char": "⯜",
+    "name": "NESSUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11229,
+    "char": "⯝",
+    "name": "WHITE MOON SELENA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11230,
+    "char": "⯞",
+    "name": "BLACK DIAMOND ON CROSS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11231,
+    "char": "⯟",
+    "name": "TRUE LIGHT MOON ARTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11232,
+    "char": "⯠",
+    "name": "CUPIDO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11233,
+    "char": "⯡",
+    "name": "HADES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11234,
+    "char": "⯢",
+    "name": "ZEUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11235,
+    "char": "⯣",
+    "name": "KRONOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11236,
+    "char": "⯤",
+    "name": "APOLLON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11237,
+    "char": "⯥",
+    "name": "ADMETOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11238,
+    "char": "⯦",
+    "name": "VULCANUS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11239,
+    "char": "⯧",
+    "name": "POSEIDON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11240,
+    "char": "⯨",
+    "name": "LEFT HALF BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11241,
+    "char": "⯩",
+    "name": "RIGHT HALF BLACK STAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11242,
+    "char": "⯪",
+    "name": "STAR WITH LEFT HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11243,
+    "char": "⯫",
+    "name": "STAR WITH RIGHT HALF BLACK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11244,
+    "char": "⯬",
+    "name": "LEFTWARDS TWO-HEADED ARROW WITH TRIANGLE ARROWHEADS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11245,
+    "char": "⯭",
+    "name": "UPWARDS TWO-HEADED ARROW WITH TRIANGLE ARROWHEADS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11246,
+    "char": "⯮",
+    "name": "RIGHTWARDS TWO-HEADED ARROW WITH TRIANGLE ARROWHEADS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11247,
+    "char": "⯯",
+    "name": "DOWNWARDS TWO-HEADED ARROW WITH TRIANGLE ARROWHEADS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11248,
+    "char": "⯰",
+    "name": "ERIS FORM ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11249,
+    "char": "⯱",
+    "name": "ERIS FORM TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11250,
+    "char": "⯲",
+    "name": "SEDNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11251,
+    "char": "⯳",
+    "name": "RUSSIAN ASTROLOGICAL SYMBOL VIGINTILE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11252,
+    "char": "⯴",
+    "name": "RUSSIAN ASTROLOGICAL SYMBOL NOVILE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11253,
+    "char": "⯵",
+    "name": "RUSSIAN ASTROLOGICAL SYMBOL QUINTILE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11254,
+    "char": "⯶",
+    "name": "RUSSIAN ASTROLOGICAL SYMBOL BINOVILE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11255,
+    "char": "⯷",
+    "name": "RUSSIAN ASTROLOGICAL SYMBOL SENTAGON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11256,
+    "char": "⯸",
+    "name": "RUSSIAN ASTROLOGICAL SYMBOL TREDECILE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11257,
+    "char": "⯹",
+    "name": "EQUALS SIGN WITH INFINITY BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11258,
+    "char": "⯺",
+    "name": "UNITED SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11259,
+    "char": "⯻",
+    "name": "SEPARATED SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11260,
+    "char": "⯼",
+    "name": "DOUBLED SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11261,
+    "char": "⯽",
+    "name": "PASSED SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11262,
+    "char": "⯾",
+    "name": "REVERSED RIGHT ANGLE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 11263,
+    "char": "⯿",
+    "name": "HELLSCHREIBER PAUSE SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

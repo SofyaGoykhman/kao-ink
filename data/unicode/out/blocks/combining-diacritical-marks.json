@@ -1,0 +1,898 @@
+[
+  {
+    "cp": 768,
+    "char": "̀",
+    "name": "COMBINING GRAVE ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 769,
+    "char": "́",
+    "name": "COMBINING ACUTE ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 770,
+    "char": "̂",
+    "name": "COMBINING CIRCUMFLEX ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 771,
+    "char": "̃",
+    "name": "COMBINING TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 772,
+    "char": "̄",
+    "name": "COMBINING MACRON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 773,
+    "char": "̅",
+    "name": "COMBINING OVERLINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 774,
+    "char": "̆",
+    "name": "COMBINING BREVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 775,
+    "char": "̇",
+    "name": "COMBINING DOT ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 776,
+    "char": "̈",
+    "name": "COMBINING DIAERESIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 777,
+    "char": "̉",
+    "name": "COMBINING HOOK ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 778,
+    "char": "̊",
+    "name": "COMBINING RING ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 779,
+    "char": "̋",
+    "name": "COMBINING DOUBLE ACUTE ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 780,
+    "char": "̌",
+    "name": "COMBINING CARON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 781,
+    "char": "̍",
+    "name": "COMBINING VERTICAL LINE ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 782,
+    "char": "̎",
+    "name": "COMBINING DOUBLE VERTICAL LINE ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 783,
+    "char": "̏",
+    "name": "COMBINING DOUBLE GRAVE ACCENT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 784,
+    "char": "̐",
+    "name": "COMBINING CANDRABINDU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 785,
+    "char": "̑",
+    "name": "COMBINING INVERTED BREVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 786,
+    "char": "̒",
+    "name": "COMBINING TURNED COMMA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 787,
+    "char": "̓",
+    "name": "COMBINING COMMA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 788,
+    "char": "̔",
+    "name": "COMBINING REVERSED COMMA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 789,
+    "char": "̕",
+    "name": "COMBINING COMMA ABOVE RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 790,
+    "char": "̖",
+    "name": "COMBINING GRAVE ACCENT BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 791,
+    "char": "̗",
+    "name": "COMBINING ACUTE ACCENT BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 792,
+    "char": "̘",
+    "name": "COMBINING LEFT TACK BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 793,
+    "char": "̙",
+    "name": "COMBINING RIGHT TACK BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 794,
+    "char": "̚",
+    "name": "COMBINING LEFT ANGLE ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 795,
+    "char": "̛",
+    "name": "COMBINING HORN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 796,
+    "char": "̜",
+    "name": "COMBINING LEFT HALF RING BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 797,
+    "char": "̝",
+    "name": "COMBINING UP TACK BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 798,
+    "char": "̞",
+    "name": "COMBINING DOWN TACK BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 799,
+    "char": "̟",
+    "name": "COMBINING PLUS SIGN BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 800,
+    "char": "̠",
+    "name": "COMBINING MINUS SIGN BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 801,
+    "char": "̡",
+    "name": "COMBINING PALATALIZED HOOK BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 802,
+    "char": "̢",
+    "name": "COMBINING RETROFLEX HOOK BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 803,
+    "char": "̣",
+    "name": "COMBINING DOT BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 804,
+    "char": "̤",
+    "name": "COMBINING DIAERESIS BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 805,
+    "char": "̥",
+    "name": "COMBINING RING BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 806,
+    "char": "̦",
+    "name": "COMBINING COMMA BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 807,
+    "char": "̧",
+    "name": "COMBINING CEDILLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 808,
+    "char": "̨",
+    "name": "COMBINING OGONEK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 809,
+    "char": "̩",
+    "name": "COMBINING VERTICAL LINE BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 810,
+    "char": "̪",
+    "name": "COMBINING BRIDGE BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 811,
+    "char": "̫",
+    "name": "COMBINING INVERTED DOUBLE ARCH BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 812,
+    "char": "̬",
+    "name": "COMBINING CARON BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 813,
+    "char": "̭",
+    "name": "COMBINING CIRCUMFLEX ACCENT BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 814,
+    "char": "̮",
+    "name": "COMBINING BREVE BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 815,
+    "char": "̯",
+    "name": "COMBINING INVERTED BREVE BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 816,
+    "char": "̰",
+    "name": "COMBINING TILDE BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 817,
+    "char": "̱",
+    "name": "COMBINING MACRON BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 818,
+    "char": "̲",
+    "name": "COMBINING LOW LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 819,
+    "char": "̳",
+    "name": "COMBINING DOUBLE LOW LINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 820,
+    "char": "̴",
+    "name": "COMBINING TILDE OVERLAY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 821,
+    "char": "̵",
+    "name": "COMBINING SHORT STROKE OVERLAY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 822,
+    "char": "̶",
+    "name": "COMBINING LONG STROKE OVERLAY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 823,
+    "char": "̷",
+    "name": "COMBINING SHORT SOLIDUS OVERLAY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 824,
+    "char": "̸",
+    "name": "COMBINING LONG SOLIDUS OVERLAY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 825,
+    "char": "̹",
+    "name": "COMBINING RIGHT HALF RING BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 826,
+    "char": "̺",
+    "name": "COMBINING INVERTED BRIDGE BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 827,
+    "char": "̻",
+    "name": "COMBINING SQUARE BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 828,
+    "char": "̼",
+    "name": "COMBINING SEAGULL BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 829,
+    "char": "̽",
+    "name": "COMBINING X ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 830,
+    "char": "̾",
+    "name": "COMBINING VERTICAL TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 831,
+    "char": "̿",
+    "name": "COMBINING DOUBLE OVERLINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 832,
+    "char": "̀",
+    "name": "COMBINING GRAVE TONE MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 833,
+    "char": "́",
+    "name": "COMBINING ACUTE TONE MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 834,
+    "char": "͂",
+    "name": "COMBINING GREEK PERISPOMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 835,
+    "char": "̓",
+    "name": "COMBINING GREEK KORONIS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 836,
+    "char": "̈́",
+    "name": "COMBINING GREEK DIALYTIKA TONOS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 837,
+    "char": "ͅ",
+    "name": "COMBINING GREEK YPOGEGRAMMENI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 838,
+    "char": "͆",
+    "name": "COMBINING BRIDGE ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 839,
+    "char": "͇",
+    "name": "COMBINING EQUALS SIGN BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 840,
+    "char": "͈",
+    "name": "COMBINING DOUBLE VERTICAL LINE BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 841,
+    "char": "͉",
+    "name": "COMBINING LEFT ANGLE BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 842,
+    "char": "͊",
+    "name": "COMBINING NOT TILDE ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 843,
+    "char": "͋",
+    "name": "COMBINING HOMOTHETIC ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 844,
+    "char": "͌",
+    "name": "COMBINING ALMOST EQUAL TO ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 845,
+    "char": "͍",
+    "name": "COMBINING LEFT RIGHT ARROW BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 846,
+    "char": "͎",
+    "name": "COMBINING UPWARDS ARROW BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 847,
+    "char": "͏",
+    "name": "COMBINING GRAPHEME JOINER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 848,
+    "char": "͐",
+    "name": "COMBINING RIGHT ARROWHEAD ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 849,
+    "char": "͑",
+    "name": "COMBINING LEFT HALF RING ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 850,
+    "char": "͒",
+    "name": "COMBINING FERMATA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 851,
+    "char": "͓",
+    "name": "COMBINING X BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 852,
+    "char": "͔",
+    "name": "COMBINING LEFT ARROWHEAD BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 853,
+    "char": "͕",
+    "name": "COMBINING RIGHT ARROWHEAD BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 854,
+    "char": "͖",
+    "name": "COMBINING RIGHT ARROWHEAD AND UP ARROWHEAD BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 855,
+    "char": "͗",
+    "name": "COMBINING RIGHT HALF RING ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 856,
+    "char": "͘",
+    "name": "COMBINING DOT ABOVE RIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 857,
+    "char": "͙",
+    "name": "COMBINING ASTERISK BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 858,
+    "char": "͚",
+    "name": "COMBINING DOUBLE RING BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 859,
+    "char": "͛",
+    "name": "COMBINING ZIGZAG ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 860,
+    "char": "͜",
+    "name": "COMBINING DOUBLE BREVE BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 861,
+    "char": "͝",
+    "name": "COMBINING DOUBLE BREVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 862,
+    "char": "͞",
+    "name": "COMBINING DOUBLE MACRON",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 863,
+    "char": "͟",
+    "name": "COMBINING DOUBLE MACRON BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 864,
+    "char": "͠",
+    "name": "COMBINING DOUBLE TILDE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 865,
+    "char": "͡",
+    "name": "COMBINING DOUBLE INVERTED BREVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 866,
+    "char": "͢",
+    "name": "COMBINING DOUBLE RIGHTWARDS ARROW BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 867,
+    "char": "ͣ",
+    "name": "COMBINING LATIN SMALL LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 868,
+    "char": "ͤ",
+    "name": "COMBINING LATIN SMALL LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 869,
+    "char": "ͥ",
+    "name": "COMBINING LATIN SMALL LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 870,
+    "char": "ͦ",
+    "name": "COMBINING LATIN SMALL LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 871,
+    "char": "ͧ",
+    "name": "COMBINING LATIN SMALL LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 872,
+    "char": "ͨ",
+    "name": "COMBINING LATIN SMALL LETTER C",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 873,
+    "char": "ͩ",
+    "name": "COMBINING LATIN SMALL LETTER D",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 874,
+    "char": "ͪ",
+    "name": "COMBINING LATIN SMALL LETTER H",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 875,
+    "char": "ͫ",
+    "name": "COMBINING LATIN SMALL LETTER M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 876,
+    "char": "ͬ",
+    "name": "COMBINING LATIN SMALL LETTER R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 877,
+    "char": "ͭ",
+    "name": "COMBINING LATIN SMALL LETTER T",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 878,
+    "char": "ͮ",
+    "name": "COMBINING LATIN SMALL LETTER V",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 879,
+    "char": "ͯ",
+    "name": "COMBINING LATIN SMALL LETTER X",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

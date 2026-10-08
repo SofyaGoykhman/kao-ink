@@ -1,0 +1,621 @@
+[
+  {
+    "cp": 12288,
+    "char": "\u3000",
+    "name": "IDEOGRAPHIC SPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12289,
+    "char": "、",
+    "name": "IDEOGRAPHIC COMMA",
+    "ru": "идеографическая запятая",
+    "en": "ideographic comma",
+    "keywords": { "ru": ["запятая", "идеографическая"], "en": ["comma", "ideographic"] }
+  },
+  {
+    "cp": 12290,
+    "char": "。",
+    "name": "IDEOGRAPHIC FULL STOP",
+    "ru": "идеографическая точка",
+    "en": "ideographic period",
+    "keywords": {
+      "ru": ["идеографическая точка", "точка"],
+      "en": ["full", "ideographic", "period", "stop"]
+    }
+  },
+  {
+    "cp": 12291,
+    "char": "〃",
+    "name": "DITTO MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12292,
+    "char": "〄",
+    "name": "JAPANESE INDUSTRIAL STANDARD SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12293,
+    "char": "々",
+    "name": "IDEOGRAPHIC ITERATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12294,
+    "char": "〆",
+    "name": "IDEOGRAPHIC CLOSING MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12295,
+    "char": "〇",
+    "name": "IDEOGRAPHIC NUMBER ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12296,
+    "char": "〈",
+    "name": "LEFT ANGLE BRACKET",
+    "ru": "открывающая угловая скобка",
+    "en": "open angle bracket",
+    "keywords": {
+      "ru": ["открывающая скобка", "открывающая угловая скобка", "скобка", "угловая скобка"],
+      "en": ["angle", "bracket", "brackets", "chevron", "diamond", "open", "pointy", "tuple"]
+    }
+  },
+  {
+    "cp": 12297,
+    "char": "〉",
+    "name": "RIGHT ANGLE BRACKET",
+    "ru": "закрывающая угловая скобка",
+    "en": "close angle bracket",
+    "keywords": {
+      "ru": ["закрывающая скобка", "закрывающая угловая скобка", "скобка", "угловая скобка"],
+      "en": ["angle", "bracket", "brackets", "chevron", "close", "diamond", "pointy", "tuple"]
+    }
+  },
+  {
+    "cp": 12298,
+    "char": "《",
+    "name": "LEFT DOUBLE ANGLE BRACKET",
+    "ru": "открывающая двойная угловая скобка",
+    "en": "open double angle bracket",
+    "keywords": {
+      "ru": [
+        "двойная угловая скобка",
+        "открывающая двойная угловая скобка",
+        "открывающая скобка",
+        "скобка",
+        "угловая скобка"
+      ],
+      "en": ["angle", "bracket", "double", "open"]
+    }
+  },
+  {
+    "cp": 12299,
+    "char": "》",
+    "name": "RIGHT DOUBLE ANGLE BRACKET",
+    "ru": "закрывающая двойная угловая скобка",
+    "en": "close double angle bracket",
+    "keywords": {
+      "ru": [
+        "двойная угловая скобка",
+        "закрывающая двойная угловая скобка",
+        "закрывающая скобка",
+        "скобка",
+        "угловая скобка"
+      ],
+      "en": ["angle", "bracket", "close", "double"]
+    }
+  },
+  {
+    "cp": 12300,
+    "char": "「",
+    "name": "LEFT CORNER BRACKET",
+    "ru": "открывающая прямоугольная скобка",
+    "en": "open corner bracket",
+    "keywords": {
+      "ru": [
+        "открывающая прямоугольная скобка",
+        "открывающая скобка",
+        "прямоугольная скобка",
+        "скобка"
+      ],
+      "en": ["bracket", "corner", "open"]
+    }
+  },
+  {
+    "cp": 12301,
+    "char": "」",
+    "name": "RIGHT CORNER BRACKET",
+    "ru": "закрывающая прямоугольная скобка",
+    "en": "close corner bracket",
+    "keywords": {
+      "ru": [
+        "закрывающая прямоугольная скобка",
+        "закрывающая скобка",
+        "прямоугольная скобка",
+        "скобка"
+      ],
+      "en": ["bracket", "close", "corner"]
+    }
+  },
+  {
+    "cp": 12302,
+    "char": "『",
+    "name": "LEFT WHITE CORNER BRACKET",
+    "ru": "открывающая незакрашенная прямоугольная скобка",
+    "en": "open hollow corner bracket",
+    "keywords": {
+      "ru": [
+        "открывающая незакрашенная прямоугольная скобка",
+        "открывающая скобка",
+        "прямоугольная скобка",
+        "скобка"
+      ],
+      "en": ["bracket", "corner", "hollow", "open"]
+    }
+  },
+  {
+    "cp": 12303,
+    "char": "』",
+    "name": "RIGHT WHITE CORNER BRACKET",
+    "ru": "закрывающая незакрашенная прямоугольная скобка",
+    "en": "close hollow corner bracket",
+    "keywords": {
+      "ru": [
+        "закрывающая незакрашенная прямоугольная скобка",
+        "закрывающая скобка",
+        "прямоугольная скобка",
+        "скобка"
+      ],
+      "en": ["bracket", "close", "corner", "hollow"]
+    }
+  },
+  {
+    "cp": 12304,
+    "char": "【",
+    "name": "LEFT BLACK LENTICULAR BRACKET",
+    "ru": "открывающая закрашенная линзовидная скобка",
+    "en": "open black lens bracket",
+    "keywords": {
+      "ru": [
+        "линзовая скобка",
+        "линзовидная скобка",
+        "открывающая закрашенная линзовидная скобка",
+        "открывающая скобка",
+        "скобка"
+      ],
+      "en": ["black", "bracket", "lens", "lenticular", "open"]
+    }
+  },
+  {
+    "cp": 12305,
+    "char": "】",
+    "name": "RIGHT BLACK LENTICULAR BRACKET",
+    "ru": "закрывающая закрашенная линзовидная скобка",
+    "en": "close black lens bracket",
+    "keywords": {
+      "ru": [
+        "закрывающая закрашенная линзовидная скобка",
+        "закрывающая скобка",
+        "линзовая скобка",
+        "линзовидная скобка",
+        "скобка"
+      ],
+      "en": ["black", "bracket", "close", "lens", "lenticular"]
+    }
+  },
+  {
+    "cp": 12306,
+    "char": "〒",
+    "name": "POSTAL MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12307,
+    "char": "〓",
+    "name": "GETA MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12308,
+    "char": "〔",
+    "name": "LEFT TORTOISE SHELL BRACKET",
+    "ru": "открывающая черепашья скобка",
+    "en": "open tortoise shell bracket",
+    "keywords": {
+      "ru": ["открывающая скобка", "открывающая черепашья скобка", "скобка", "черепашья скобка"],
+      "en": ["bracket", "open", "shell", "tortoise"]
+    }
+  },
+  {
+    "cp": 12309,
+    "char": "〕",
+    "name": "RIGHT TORTOISE SHELL BRACKET",
+    "ru": "закрывающая черепашья скобка",
+    "en": "close tortoise shell bracket",
+    "keywords": {
+      "ru": ["закрывающая скобка", "закрывающая черепашья скобка", "скобка", "черепашья скобка"],
+      "en": ["bracket", "close", "shell", "tortoise"]
+    }
+  },
+  {
+    "cp": 12310,
+    "char": "〖",
+    "name": "LEFT WHITE LENTICULAR BRACKET",
+    "ru": "открывающая незакрашенная линзовидная скобка",
+    "en": "open hollow lens bracket",
+    "keywords": {
+      "ru": [
+        "линзовая скобка",
+        "линзовидная скобка",
+        "открывающая незакрашенная линзовидная скобка",
+        "открывающая скобка",
+        "скобка"
+      ],
+      "en": ["bracket", "hollow", "lens", "lenticular", "open"]
+    }
+  },
+  {
+    "cp": 12311,
+    "char": "〗",
+    "name": "RIGHT WHITE LENTICULAR BRACKET",
+    "ru": "закрывающая незакрашенная линзовидная скобка",
+    "en": "close hollow lens bracket",
+    "keywords": {
+      "ru": [
+        "закрывающая незакрашенная линзовидная скобка",
+        "закрывающая скобка",
+        "линзовая скобка",
+        "линзовидная скобка",
+        "скобка"
+      ],
+      "en": ["bracket", "close", "hollow", "lens", "lenticular"]
+    }
+  },
+  {
+    "cp": 12312,
+    "char": "〘",
+    "name": "LEFT WHITE TORTOISE SHELL BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12313,
+    "char": "〙",
+    "name": "RIGHT WHITE TORTOISE SHELL BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12314,
+    "char": "〚",
+    "name": "LEFT WHITE SQUARE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12315,
+    "char": "〛",
+    "name": "RIGHT WHITE SQUARE BRACKET",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12316,
+    "char": "〜",
+    "name": "WAVE DASH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12317,
+    "char": "〝",
+    "name": "REVERSED DOUBLE PRIME QUOTATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12318,
+    "char": "〞",
+    "name": "DOUBLE PRIME QUOTATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12319,
+    "char": "〟",
+    "name": "LOW DOUBLE PRIME QUOTATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12320,
+    "char": "〠",
+    "name": "POSTAL MARK FACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12321,
+    "char": "〡",
+    "name": "HANGZHOU NUMERAL ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12322,
+    "char": "〢",
+    "name": "HANGZHOU NUMERAL TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12323,
+    "char": "〣",
+    "name": "HANGZHOU NUMERAL THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12324,
+    "char": "〤",
+    "name": "HANGZHOU NUMERAL FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12325,
+    "char": "〥",
+    "name": "HANGZHOU NUMERAL FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12326,
+    "char": "〦",
+    "name": "HANGZHOU NUMERAL SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12327,
+    "char": "〧",
+    "name": "HANGZHOU NUMERAL SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12328,
+    "char": "〨",
+    "name": "HANGZHOU NUMERAL EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12329,
+    "char": "〩",
+    "name": "HANGZHOU NUMERAL NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12330,
+    "char": "〪",
+    "name": "IDEOGRAPHIC LEVEL TONE MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12331,
+    "char": "〫",
+    "name": "IDEOGRAPHIC RISING TONE MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12332,
+    "char": "〬",
+    "name": "IDEOGRAPHIC DEPARTING TONE MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12333,
+    "char": "〭",
+    "name": "IDEOGRAPHIC ENTERING TONE MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12334,
+    "char": "〮",
+    "name": "HANGUL SINGLE DOT TONE MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12335,
+    "char": "〯",
+    "name": "HANGUL DOUBLE DOT TONE MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12336,
+    "char": "〰",
+    "name": "WAVY DASH",
+    "ru": "волнистая линия",
+    "en": "wavy dash",
+    "keywords": {
+      "ru": ["волна", "волнистая", "знак", "линия", "пунктуация"],
+      "en": ["dash", "punctuation", "wavy"]
+    }
+  },
+  {
+    "cp": 12337,
+    "char": "〱",
+    "name": "VERTICAL KANA REPEAT MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12338,
+    "char": "〲",
+    "name": "VERTICAL KANA REPEAT WITH VOICED SOUND MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12339,
+    "char": "〳",
+    "name": "VERTICAL KANA REPEAT MARK UPPER HALF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12340,
+    "char": "〴",
+    "name": "VERTICAL KANA REPEAT WITH VOICED SOUND MARK UPPER HALF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12341,
+    "char": "〵",
+    "name": "VERTICAL KANA REPEAT MARK LOWER HALF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12342,
+    "char": "〶",
+    "name": "CIRCLED POSTAL MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12343,
+    "char": "〷",
+    "name": "IDEOGRAPHIC TELEGRAPH LINE FEED SEPARATOR SYMBOL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12344,
+    "char": "〸",
+    "name": "HANGZHOU NUMERAL TEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12345,
+    "char": "〹",
+    "name": "HANGZHOU NUMERAL TWENTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12346,
+    "char": "〺",
+    "name": "HANGZHOU NUMERAL THIRTY",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12347,
+    "char": "〻",
+    "name": "VERTICAL IDEOGRAPHIC ITERATION MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12348,
+    "char": "〼",
+    "name": "MASU MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12349,
+    "char": "〽",
+    "name": "PART ALTERNATION MARK",
+    "ru": "вступает другой голос",
+    "en": "part alternation mark",
+    "keywords": {
+      "ru": ["вступает другой голос", "голос", "другой голос", "знак", "певцы", "япония"],
+      "en": ["alternation", "mark", "part"]
+    }
+  },
+  {
+    "cp": 12350,
+    "char": "〾",
+    "name": "IDEOGRAPHIC VARIATION INDICATOR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 12351,
+    "char": "〿",
+    "name": "IDEOGRAPHIC HALF FILL SPACE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

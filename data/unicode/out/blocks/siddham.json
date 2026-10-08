@@ -1,0 +1,738 @@
+[
+  {
+    "cp": 71040,
+    "char": "𑖀",
+    "name": "SIDDHAM LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71041,
+    "char": "𑖁",
+    "name": "SIDDHAM LETTER AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71042,
+    "char": "𑖂",
+    "name": "SIDDHAM LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71043,
+    "char": "𑖃",
+    "name": "SIDDHAM LETTER II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71044,
+    "char": "𑖄",
+    "name": "SIDDHAM LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71045,
+    "char": "𑖅",
+    "name": "SIDDHAM LETTER UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71046,
+    "char": "𑖆",
+    "name": "SIDDHAM LETTER VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71047,
+    "char": "𑖇",
+    "name": "SIDDHAM LETTER VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71048,
+    "char": "𑖈",
+    "name": "SIDDHAM LETTER VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71049,
+    "char": "𑖉",
+    "name": "SIDDHAM LETTER VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71050,
+    "char": "𑖊",
+    "name": "SIDDHAM LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71051,
+    "char": "𑖋",
+    "name": "SIDDHAM LETTER AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71052,
+    "char": "𑖌",
+    "name": "SIDDHAM LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71053,
+    "char": "𑖍",
+    "name": "SIDDHAM LETTER AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71054,
+    "char": "𑖎",
+    "name": "SIDDHAM LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71055,
+    "char": "𑖏",
+    "name": "SIDDHAM LETTER KHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71056,
+    "char": "𑖐",
+    "name": "SIDDHAM LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71057,
+    "char": "𑖑",
+    "name": "SIDDHAM LETTER GHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71058,
+    "char": "𑖒",
+    "name": "SIDDHAM LETTER NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71059,
+    "char": "𑖓",
+    "name": "SIDDHAM LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71060,
+    "char": "𑖔",
+    "name": "SIDDHAM LETTER CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71061,
+    "char": "𑖕",
+    "name": "SIDDHAM LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71062,
+    "char": "𑖖",
+    "name": "SIDDHAM LETTER JHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71063,
+    "char": "𑖗",
+    "name": "SIDDHAM LETTER NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71064,
+    "char": "𑖘",
+    "name": "SIDDHAM LETTER TTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71065,
+    "char": "𑖙",
+    "name": "SIDDHAM LETTER TTHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71066,
+    "char": "𑖚",
+    "name": "SIDDHAM LETTER DDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71067,
+    "char": "𑖛",
+    "name": "SIDDHAM LETTER DDHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71068,
+    "char": "𑖜",
+    "name": "SIDDHAM LETTER NNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71069,
+    "char": "𑖝",
+    "name": "SIDDHAM LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71070,
+    "char": "𑖞",
+    "name": "SIDDHAM LETTER THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71071,
+    "char": "𑖟",
+    "name": "SIDDHAM LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71072,
+    "char": "𑖠",
+    "name": "SIDDHAM LETTER DHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71073,
+    "char": "𑖡",
+    "name": "SIDDHAM LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71074,
+    "char": "𑖢",
+    "name": "SIDDHAM LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71075,
+    "char": "𑖣",
+    "name": "SIDDHAM LETTER PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71076,
+    "char": "𑖤",
+    "name": "SIDDHAM LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71077,
+    "char": "𑖥",
+    "name": "SIDDHAM LETTER BHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71078,
+    "char": "𑖦",
+    "name": "SIDDHAM LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71079,
+    "char": "𑖧",
+    "name": "SIDDHAM LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71080,
+    "char": "𑖨",
+    "name": "SIDDHAM LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71081,
+    "char": "𑖩",
+    "name": "SIDDHAM LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71082,
+    "char": "𑖪",
+    "name": "SIDDHAM LETTER VA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71083,
+    "char": "𑖫",
+    "name": "SIDDHAM LETTER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71084,
+    "char": "𑖬",
+    "name": "SIDDHAM LETTER SSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71085,
+    "char": "𑖭",
+    "name": "SIDDHAM LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71086,
+    "char": "𑖮",
+    "name": "SIDDHAM LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71087,
+    "char": "𑖯",
+    "name": "SIDDHAM VOWEL SIGN AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71088,
+    "char": "𑖰",
+    "name": "SIDDHAM VOWEL SIGN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71089,
+    "char": "𑖱",
+    "name": "SIDDHAM VOWEL SIGN II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71090,
+    "char": "𑖲",
+    "name": "SIDDHAM VOWEL SIGN U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71091,
+    "char": "𑖳",
+    "name": "SIDDHAM VOWEL SIGN UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71092,
+    "char": "𑖴",
+    "name": "SIDDHAM VOWEL SIGN VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71093,
+    "char": "𑖵",
+    "name": "SIDDHAM VOWEL SIGN VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71096,
+    "char": "𑖸",
+    "name": "SIDDHAM VOWEL SIGN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71097,
+    "char": "𑖹",
+    "name": "SIDDHAM VOWEL SIGN AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71098,
+    "char": "𑖺",
+    "name": "SIDDHAM VOWEL SIGN O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71099,
+    "char": "𑖻",
+    "name": "SIDDHAM VOWEL SIGN AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71100,
+    "char": "𑖼",
+    "name": "SIDDHAM SIGN CANDRABINDU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71101,
+    "char": "𑖽",
+    "name": "SIDDHAM SIGN ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71102,
+    "char": "𑖾",
+    "name": "SIDDHAM SIGN VISARGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71103,
+    "char": "𑖿",
+    "name": "SIDDHAM SIGN VIRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71104,
+    "char": "𑗀",
+    "name": "SIDDHAM SIGN NUKTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71105,
+    "char": "𑗁",
+    "name": "SIDDHAM SIGN SIDDHAM",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71106,
+    "char": "𑗂",
+    "name": "SIDDHAM DANDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71107,
+    "char": "𑗃",
+    "name": "SIDDHAM DOUBLE DANDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71108,
+    "char": "𑗄",
+    "name": "SIDDHAM SEPARATOR DOT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71109,
+    "char": "𑗅",
+    "name": "SIDDHAM SEPARATOR BAR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71110,
+    "char": "𑗆",
+    "name": "SIDDHAM REPETITION MARK-1",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71111,
+    "char": "𑗇",
+    "name": "SIDDHAM REPETITION MARK-2",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71112,
+    "char": "𑗈",
+    "name": "SIDDHAM REPETITION MARK-3",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71113,
+    "char": "𑗉",
+    "name": "SIDDHAM END OF TEXT MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71114,
+    "char": "𑗊",
+    "name": "SIDDHAM SECTION MARK WITH TRIDENT AND U-SHAPED ORNAMENTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71115,
+    "char": "𑗋",
+    "name": "SIDDHAM SECTION MARK WITH TRIDENT AND DOTTED CRESCENTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71116,
+    "char": "𑗌",
+    "name": "SIDDHAM SECTION MARK WITH RAYS AND DOTTED CRESCENTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71117,
+    "char": "𑗍",
+    "name": "SIDDHAM SECTION MARK WITH RAYS AND DOTTED DOUBLE CRESCENTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71118,
+    "char": "𑗎",
+    "name": "SIDDHAM SECTION MARK WITH RAYS AND DOTTED TRIPLE CRESCENTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71119,
+    "char": "𑗏",
+    "name": "SIDDHAM SECTION MARK DOUBLE RING",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71120,
+    "char": "𑗐",
+    "name": "SIDDHAM SECTION MARK DOUBLE RING WITH RAYS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71121,
+    "char": "𑗑",
+    "name": "SIDDHAM SECTION MARK WITH DOUBLE CRESCENTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71122,
+    "char": "𑗒",
+    "name": "SIDDHAM SECTION MARK WITH TRIPLE CRESCENTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71123,
+    "char": "𑗓",
+    "name": "SIDDHAM SECTION MARK WITH QUADRUPLE CRESCENTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71124,
+    "char": "𑗔",
+    "name": "SIDDHAM SECTION MARK WITH SEPTUPLE CRESCENTS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71125,
+    "char": "𑗕",
+    "name": "SIDDHAM SECTION MARK WITH CIRCLES AND RAYS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71126,
+    "char": "𑗖",
+    "name": "SIDDHAM SECTION MARK WITH CIRCLES AND TWO ENCLOSURES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71127,
+    "char": "𑗗",
+    "name": "SIDDHAM SECTION MARK WITH CIRCLES AND FOUR ENCLOSURES",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71128,
+    "char": "𑗘",
+    "name": "SIDDHAM LETTER THREE-CIRCLE ALTERNATE I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71129,
+    "char": "𑗙",
+    "name": "SIDDHAM LETTER TWO-CIRCLE ALTERNATE I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71130,
+    "char": "𑗚",
+    "name": "SIDDHAM LETTER TWO-CIRCLE ALTERNATE II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71131,
+    "char": "𑗛",
+    "name": "SIDDHAM LETTER ALTERNATE U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71132,
+    "char": "𑗜",
+    "name": "SIDDHAM VOWEL SIGN ALTERNATE U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 71133,
+    "char": "𑗝",
+    "name": "SIDDHAM VOWEL SIGN ALTERNATE UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

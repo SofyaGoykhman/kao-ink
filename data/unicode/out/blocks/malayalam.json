@@ -1,0 +1,946 @@
+[
+  {
+    "cp": 3328,
+    "char": "ഀ",
+    "name": "MALAYALAM SIGN COMBINING ANUSVARA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3329,
+    "char": "ഁ",
+    "name": "MALAYALAM SIGN CANDRABINDU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3330,
+    "char": "ം",
+    "name": "MALAYALAM SIGN ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3331,
+    "char": "ഃ",
+    "name": "MALAYALAM SIGN VISARGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3332,
+    "char": "ഄ",
+    "name": "MALAYALAM LETTER VEDIC ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3333,
+    "char": "അ",
+    "name": "MALAYALAM LETTER A",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3334,
+    "char": "ആ",
+    "name": "MALAYALAM LETTER AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3335,
+    "char": "ഇ",
+    "name": "MALAYALAM LETTER I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3336,
+    "char": "ഈ",
+    "name": "MALAYALAM LETTER II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3337,
+    "char": "ഉ",
+    "name": "MALAYALAM LETTER U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3338,
+    "char": "ഊ",
+    "name": "MALAYALAM LETTER UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3339,
+    "char": "ഋ",
+    "name": "MALAYALAM LETTER VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3340,
+    "char": "ഌ",
+    "name": "MALAYALAM LETTER VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3342,
+    "char": "എ",
+    "name": "MALAYALAM LETTER E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3343,
+    "char": "ഏ",
+    "name": "MALAYALAM LETTER EE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3344,
+    "char": "ഐ",
+    "name": "MALAYALAM LETTER AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3346,
+    "char": "ഒ",
+    "name": "MALAYALAM LETTER O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3347,
+    "char": "ഓ",
+    "name": "MALAYALAM LETTER OO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3348,
+    "char": "ഔ",
+    "name": "MALAYALAM LETTER AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3349,
+    "char": "ക",
+    "name": "MALAYALAM LETTER KA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3350,
+    "char": "ഖ",
+    "name": "MALAYALAM LETTER KHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3351,
+    "char": "ഗ",
+    "name": "MALAYALAM LETTER GA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3352,
+    "char": "ഘ",
+    "name": "MALAYALAM LETTER GHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3353,
+    "char": "ങ",
+    "name": "MALAYALAM LETTER NGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3354,
+    "char": "ച",
+    "name": "MALAYALAM LETTER CA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3355,
+    "char": "ഛ",
+    "name": "MALAYALAM LETTER CHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3356,
+    "char": "ജ",
+    "name": "MALAYALAM LETTER JA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3357,
+    "char": "ഝ",
+    "name": "MALAYALAM LETTER JHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3358,
+    "char": "ഞ",
+    "name": "MALAYALAM LETTER NYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3359,
+    "char": "ട",
+    "name": "MALAYALAM LETTER TTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3360,
+    "char": "ഠ",
+    "name": "MALAYALAM LETTER TTHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3361,
+    "char": "ഡ",
+    "name": "MALAYALAM LETTER DDA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3362,
+    "char": "ഢ",
+    "name": "MALAYALAM LETTER DDHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3363,
+    "char": "ണ",
+    "name": "MALAYALAM LETTER NNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3364,
+    "char": "ത",
+    "name": "MALAYALAM LETTER TA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3365,
+    "char": "ഥ",
+    "name": "MALAYALAM LETTER THA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3366,
+    "char": "ദ",
+    "name": "MALAYALAM LETTER DA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3367,
+    "char": "ധ",
+    "name": "MALAYALAM LETTER DHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3368,
+    "char": "ന",
+    "name": "MALAYALAM LETTER NA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3369,
+    "char": "ഩ",
+    "name": "MALAYALAM LETTER NNNA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3370,
+    "char": "പ",
+    "name": "MALAYALAM LETTER PA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3371,
+    "char": "ഫ",
+    "name": "MALAYALAM LETTER PHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3372,
+    "char": "ബ",
+    "name": "MALAYALAM LETTER BA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3373,
+    "char": "ഭ",
+    "name": "MALAYALAM LETTER BHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3374,
+    "char": "മ",
+    "name": "MALAYALAM LETTER MA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3375,
+    "char": "യ",
+    "name": "MALAYALAM LETTER YA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3376,
+    "char": "ര",
+    "name": "MALAYALAM LETTER RA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3377,
+    "char": "റ",
+    "name": "MALAYALAM LETTER RRA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3378,
+    "char": "ല",
+    "name": "MALAYALAM LETTER LA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3379,
+    "char": "ള",
+    "name": "MALAYALAM LETTER LLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3380,
+    "char": "ഴ",
+    "name": "MALAYALAM LETTER LLLA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3381,
+    "char": "വ",
+    "name": "MALAYALAM LETTER VA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3382,
+    "char": "ശ",
+    "name": "MALAYALAM LETTER SHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3383,
+    "char": "ഷ",
+    "name": "MALAYALAM LETTER SSA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3384,
+    "char": "സ",
+    "name": "MALAYALAM LETTER SA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3385,
+    "char": "ഹ",
+    "name": "MALAYALAM LETTER HA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3386,
+    "char": "ഺ",
+    "name": "MALAYALAM LETTER TTTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3387,
+    "char": "഻",
+    "name": "MALAYALAM SIGN VERTICAL BAR VIRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3388,
+    "char": "഼",
+    "name": "MALAYALAM SIGN CIRCULAR VIRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3389,
+    "char": "ഽ",
+    "name": "MALAYALAM SIGN AVAGRAHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3390,
+    "char": "ാ",
+    "name": "MALAYALAM VOWEL SIGN AA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3391,
+    "char": "ി",
+    "name": "MALAYALAM VOWEL SIGN I",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3392,
+    "char": "ീ",
+    "name": "MALAYALAM VOWEL SIGN II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3393,
+    "char": "ു",
+    "name": "MALAYALAM VOWEL SIGN U",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3394,
+    "char": "ൂ",
+    "name": "MALAYALAM VOWEL SIGN UU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3395,
+    "char": "ൃ",
+    "name": "MALAYALAM VOWEL SIGN VOCALIC R",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3396,
+    "char": "ൄ",
+    "name": "MALAYALAM VOWEL SIGN VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3398,
+    "char": "െ",
+    "name": "MALAYALAM VOWEL SIGN E",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3399,
+    "char": "േ",
+    "name": "MALAYALAM VOWEL SIGN EE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3400,
+    "char": "ൈ",
+    "name": "MALAYALAM VOWEL SIGN AI",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3402,
+    "char": "ൊ",
+    "name": "MALAYALAM VOWEL SIGN O",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3403,
+    "char": "ോ",
+    "name": "MALAYALAM VOWEL SIGN OO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3404,
+    "char": "ൌ",
+    "name": "MALAYALAM VOWEL SIGN AU",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3405,
+    "char": "്",
+    "name": "MALAYALAM SIGN VIRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3406,
+    "char": "ൎ",
+    "name": "MALAYALAM LETTER DOT REPH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3407,
+    "char": "൏",
+    "name": "MALAYALAM SIGN PARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3412,
+    "char": "ൔ",
+    "name": "MALAYALAM LETTER CHILLU M",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3413,
+    "char": "ൕ",
+    "name": "MALAYALAM LETTER CHILLU Y",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3414,
+    "char": "ൖ",
+    "name": "MALAYALAM LETTER CHILLU LLL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3415,
+    "char": "ൗ",
+    "name": "MALAYALAM AU LENGTH MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3416,
+    "char": "൘",
+    "name": "MALAYALAM FRACTION ONE ONE-HUNDRED-AND-SIXTIETH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3417,
+    "char": "൙",
+    "name": "MALAYALAM FRACTION ONE FORTIETH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3418,
+    "char": "൚",
+    "name": "MALAYALAM FRACTION THREE EIGHTIETHS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3419,
+    "char": "൛",
+    "name": "MALAYALAM FRACTION ONE TWENTIETH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3420,
+    "char": "൜",
+    "name": "MALAYALAM FRACTION ONE TENTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3421,
+    "char": "൝",
+    "name": "MALAYALAM FRACTION THREE TWENTIETHS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3422,
+    "char": "൞",
+    "name": "MALAYALAM FRACTION ONE FIFTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3423,
+    "char": "ൟ",
+    "name": "MALAYALAM LETTER ARCHAIC II",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3424,
+    "char": "ൠ",
+    "name": "MALAYALAM LETTER VOCALIC RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3425,
+    "char": "ൡ",
+    "name": "MALAYALAM LETTER VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3426,
+    "char": "ൢ",
+    "name": "MALAYALAM VOWEL SIGN VOCALIC L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3427,
+    "char": "ൣ",
+    "name": "MALAYALAM VOWEL SIGN VOCALIC LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3430,
+    "char": "൦",
+    "name": "MALAYALAM DIGIT ZERO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3431,
+    "char": "൧",
+    "name": "MALAYALAM DIGIT ONE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3432,
+    "char": "൨",
+    "name": "MALAYALAM DIGIT TWO",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3433,
+    "char": "൩",
+    "name": "MALAYALAM DIGIT THREE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3434,
+    "char": "൪",
+    "name": "MALAYALAM DIGIT FOUR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3435,
+    "char": "൫",
+    "name": "MALAYALAM DIGIT FIVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3436,
+    "char": "൬",
+    "name": "MALAYALAM DIGIT SIX",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3437,
+    "char": "൭",
+    "name": "MALAYALAM DIGIT SEVEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3438,
+    "char": "൮",
+    "name": "MALAYALAM DIGIT EIGHT",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3439,
+    "char": "൯",
+    "name": "MALAYALAM DIGIT NINE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3440,
+    "char": "൰",
+    "name": "MALAYALAM NUMBER TEN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3441,
+    "char": "൱",
+    "name": "MALAYALAM NUMBER ONE HUNDRED",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3442,
+    "char": "൲",
+    "name": "MALAYALAM NUMBER ONE THOUSAND",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3443,
+    "char": "൳",
+    "name": "MALAYALAM FRACTION ONE QUARTER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3444,
+    "char": "൴",
+    "name": "MALAYALAM FRACTION ONE HALF",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3445,
+    "char": "൵",
+    "name": "MALAYALAM FRACTION THREE QUARTERS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3446,
+    "char": "൶",
+    "name": "MALAYALAM FRACTION ONE SIXTEENTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3447,
+    "char": "൷",
+    "name": "MALAYALAM FRACTION ONE EIGHTH",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3448,
+    "char": "൸",
+    "name": "MALAYALAM FRACTION THREE SIXTEENTHS",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3449,
+    "char": "൹",
+    "name": "MALAYALAM DATE MARK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3450,
+    "char": "ൺ",
+    "name": "MALAYALAM LETTER CHILLU NN",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3451,
+    "char": "ൻ",
+    "name": "MALAYALAM LETTER CHILLU N",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3452,
+    "char": "ർ",
+    "name": "MALAYALAM LETTER CHILLU RR",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3453,
+    "char": "ൽ",
+    "name": "MALAYALAM LETTER CHILLU L",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3454,
+    "char": "ൾ",
+    "name": "MALAYALAM LETTER CHILLU LL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 3455,
+    "char": "ൿ",
+    "name": "MALAYALAM LETTER CHILLU K",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]

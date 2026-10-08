@@ -1,0 +1,346 @@
+[
+  {
+    "cp": 7376,
+    "char": "᳐",
+    "name": "VEDIC TONE KARSHANA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7377,
+    "char": "᳑",
+    "name": "VEDIC TONE SHARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7378,
+    "char": "᳒",
+    "name": "VEDIC TONE PRENKHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7379,
+    "char": "᳓",
+    "name": "VEDIC SIGN NIHSHVASA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7380,
+    "char": "᳔",
+    "name": "VEDIC SIGN YAJURVEDIC MIDLINE SVARITA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7381,
+    "char": "᳕",
+    "name": "VEDIC TONE YAJURVEDIC AGGRAVATED INDEPENDENT SVARITA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7382,
+    "char": "᳖",
+    "name": "VEDIC TONE YAJURVEDIC INDEPENDENT SVARITA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7383,
+    "char": "᳗",
+    "name": "VEDIC TONE YAJURVEDIC KATHAKA INDEPENDENT SVARITA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7384,
+    "char": "᳘",
+    "name": "VEDIC TONE CANDRA BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7385,
+    "char": "᳙",
+    "name": "VEDIC TONE YAJURVEDIC KATHAKA INDEPENDENT SVARITA SCHROEDER",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7386,
+    "char": "᳚",
+    "name": "VEDIC TONE DOUBLE SVARITA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7387,
+    "char": "᳛",
+    "name": "VEDIC TONE TRIPLE SVARITA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7388,
+    "char": "᳜",
+    "name": "VEDIC TONE KATHAKA ANUDATTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7389,
+    "char": "᳝",
+    "name": "VEDIC TONE DOT BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7390,
+    "char": "᳞",
+    "name": "VEDIC TONE TWO DOTS BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7391,
+    "char": "᳟",
+    "name": "VEDIC TONE THREE DOTS BELOW",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7392,
+    "char": "᳠",
+    "name": "VEDIC TONE RIGVEDIC KASHMIRI INDEPENDENT SVARITA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7393,
+    "char": "᳡",
+    "name": "VEDIC TONE ATHARVAVEDIC INDEPENDENT SVARITA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7394,
+    "char": "᳢",
+    "name": "VEDIC SIGN VISARGA SVARITA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7395,
+    "char": "᳣",
+    "name": "VEDIC SIGN VISARGA UDATTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7396,
+    "char": "᳤",
+    "name": "VEDIC SIGN REVERSED VISARGA UDATTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7397,
+    "char": "᳥",
+    "name": "VEDIC SIGN VISARGA ANUDATTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7398,
+    "char": "᳦",
+    "name": "VEDIC SIGN REVERSED VISARGA ANUDATTA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7399,
+    "char": "᳧",
+    "name": "VEDIC SIGN VISARGA UDATTA WITH TAIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7400,
+    "char": "᳨",
+    "name": "VEDIC SIGN VISARGA ANUDATTA WITH TAIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7401,
+    "char": "ᳩ",
+    "name": "VEDIC SIGN ANUSVARA ANTARGOMUKHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7402,
+    "char": "ᳪ",
+    "name": "VEDIC SIGN ANUSVARA BAHIRGOMUKHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7403,
+    "char": "ᳫ",
+    "name": "VEDIC SIGN ANUSVARA VAMAGOMUKHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7404,
+    "char": "ᳬ",
+    "name": "VEDIC SIGN ANUSVARA VAMAGOMUKHA WITH TAIL",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7405,
+    "char": "᳭",
+    "name": "VEDIC SIGN TIRYAK",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7406,
+    "char": "ᳮ",
+    "name": "VEDIC SIGN HEXIFORM LONG ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7407,
+    "char": "ᳯ",
+    "name": "VEDIC SIGN LONG ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7408,
+    "char": "ᳰ",
+    "name": "VEDIC SIGN RTHANG LONG ANUSVARA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7409,
+    "char": "ᳱ",
+    "name": "VEDIC SIGN ANUSVARA UBHAYATO MUKHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7410,
+    "char": "ᳲ",
+    "name": "VEDIC SIGN ARDHAVISARGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7411,
+    "char": "ᳳ",
+    "name": "VEDIC SIGN ROTATED ARDHAVISARGA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7412,
+    "char": "᳴",
+    "name": "VEDIC TONE CANDRA ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7413,
+    "char": "ᳵ",
+    "name": "VEDIC SIGN JIHVAMULIYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7414,
+    "char": "ᳶ",
+    "name": "VEDIC SIGN UPADHMANIYA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7415,
+    "char": "᳷",
+    "name": "VEDIC SIGN ATIKRAMA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7416,
+    "char": "᳸",
+    "name": "VEDIC TONE RING ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7417,
+    "char": "᳹",
+    "name": "VEDIC TONE DOUBLE RING ABOVE",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  },
+  {
+    "cp": 7418,
+    "char": "ᳺ",
+    "name": "VEDIC SIGN DOUBLE ANUSVARA ANTARGOMUKHA",
+    "ru": null,
+    "en": null,
+    "keywords": { "ru": [], "en": [] }
+  }
+]
