@@ -6,7 +6,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "квинтэссенция"],
     "concepts": []
   },
   {
@@ -16,8 +16,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "воздух"],
+    "concepts": ["air", "elements"]
   },
   {
     "cp": 128770,
@@ -26,8 +26,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "огонь"],
+    "concepts": ["fire", "elements"]
   },
   {
     "cp": 128771,
@@ -36,8 +36,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "земля"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128772,
@@ -46,8 +46,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "вода"],
+    "concepts": ["water", "drop", "elements"]
   },
   {
     "cp": 128773,
@@ -56,8 +56,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "крепкая водка (азотная кислота)"],
+    "concepts": ["water"]
   },
   {
     "cp": 128774,
@@ -66,8 +66,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "вода (aqua)", "царская"],
+    "concepts": ["water"]
   },
   {
     "cp": 128775,
@@ -76,8 +76,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "вода (aqua)", "царская"],
+    "concepts": ["water"]
   },
   {
     "cp": 128776,
@@ -86,8 +86,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "вода (aqua)", "жизни"],
+    "concepts": ["water"]
   },
   {
     "cp": 128777,
@@ -96,7 +96,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "вода (aqua)", "жизни"],
     "concepts": []
   },
   {
@@ -106,7 +106,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "уксус"],
     "concepts": []
   },
   {
@@ -116,7 +116,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "уксус"],
     "concepts": []
   },
   {
@@ -126,7 +126,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "уксус"],
     "concepts": []
   },
   {
@@ -136,8 +136,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "сера"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128782,
@@ -146,7 +146,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "философская", "сера"],
     "concepts": []
   },
   {
@@ -156,7 +156,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "чёрный (закрашенный)", "сера"],
     "concepts": []
   },
   {
@@ -166,7 +166,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "Меркурий (ртуть)", "сублимат"],
     "concepts": []
   },
   {
@@ -176,7 +176,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "Меркурий (ртуть)", "сублимат"],
     "concepts": []
   },
   {
@@ -186,7 +186,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "Меркурий (ртуть)", "сублимат"],
     "concepts": []
   },
   {
@@ -196,7 +196,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "киноварь"],
     "concepts": []
   },
   {
@@ -206,8 +206,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "соль"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128789,
@@ -216,7 +216,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "селитра"],
     "concepts": []
   },
   {
@@ -226,7 +226,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "купорос"],
     "concepts": []
   },
   {
@@ -236,7 +236,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "купорос"],
     "concepts": []
   },
   {
@@ -246,7 +246,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "камень (скала)", "соль"],
     "concepts": []
   },
   {
@@ -256,7 +256,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "камень (скала)", "соль"],
     "concepts": []
   },
   {
@@ -266,8 +266,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "золото"],
+    "concepts": ["sun", "elements"]
   },
   {
     "cp": 128795,
@@ -276,8 +276,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "серебро"],
+    "concepts": ["moon", "elements"]
   },
   {
     "cp": 128796,
@@ -286,7 +286,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "железо", "руда"],
     "concepts": []
   },
   {
@@ -296,7 +296,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "железо", "руда"],
     "concepts": []
   },
   {
@@ -306,7 +306,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "крокус", "из", "железо"],
     "concepts": []
   },
   {
@@ -316,7 +316,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "регулус", "из", "железо"],
     "concepts": []
   },
   {
@@ -326,7 +326,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "медь", "руда"],
     "concepts": []
   },
   {
@@ -336,7 +336,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "железо", "медь", "руда"],
     "concepts": []
   },
   {
@@ -346,7 +346,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "сублимат", "из", "медь"],
     "concepts": []
   },
   {
@@ -356,7 +356,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "крокус", "из", "медь"],
     "concepts": []
   },
   {
@@ -366,7 +366,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "крокус", "из", "медь"],
     "concepts": []
   },
   {
@@ -376,7 +376,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "медь", "антимонат"],
     "concepts": []
   },
   {
@@ -386,7 +386,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "соль", "из", "медь", "антимонат"],
     "concepts": []
   },
   {
@@ -396,7 +396,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "сублимат", "из", "соль", "медь"],
     "concepts": []
   },
   {
@@ -406,8 +406,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "ярь-медянка"],
+    "concepts": ["planet", "earth"]
   },
   {
     "cp": 128809,
@@ -416,7 +416,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "олово", "руда"],
     "concepts": []
   },
   {
@@ -426,7 +426,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "свинец", "руда"],
     "concepts": []
   },
   {
@@ -436,7 +436,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "сурьма", "руда"],
     "concepts": []
   },
   {
@@ -446,7 +446,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "сублимат", "из", "сурьма"],
     "concepts": []
   },
   {
@@ -456,7 +456,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "соль", "из", "сурьма"],
     "concepts": []
   },
   {
@@ -466,7 +466,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "сублимат", "из", "соль", "сурьма"],
     "concepts": []
   },
   {
@@ -476,7 +476,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "уксус", "из", "сурьма"],
     "concepts": []
   },
   {
@@ -486,7 +486,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "регулус", "из", "сурьма"],
     "concepts": []
   },
   {
@@ -496,7 +496,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "регулус", "из", "сурьма"],
     "concepts": []
   },
   {
@@ -506,8 +506,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "регулус"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128819,
@@ -516,7 +516,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "регулус"],
     "concepts": []
   },
   {
@@ -526,7 +526,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "регулус"],
     "concepts": []
   },
   {
@@ -536,7 +536,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "регулус"],
     "concepts": []
   },
   {
@@ -546,7 +546,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "щёлочь"],
     "concepts": []
   },
   {
@@ -556,7 +556,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "щёлочь"],
     "concepts": []
   },
   {
@@ -566,7 +566,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["алхимический", "символ", "для", "марказит"],
     "concepts": []
   },
   {
@@ -576,8 +576,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "соль (sal)", "нашатырь"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128826,
@@ -586,8 +586,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "мышьяк"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128827,
@@ -596,8 +596,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "реальгар"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128828,
@@ -606,8 +606,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "реальгар"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128829,
@@ -616,8 +616,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "аурипигмент"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128830,
@@ -626,8 +626,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "висмут", "руда"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128831,
@@ -636,8 +636,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "винный камень"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128832,
@@ -646,8 +646,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "винный камень"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128833,
@@ -656,8 +656,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "негашёная", "известь (лайм)"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128834,
@@ -666,8 +666,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "бура"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128835,
@@ -676,8 +676,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "бура"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128836,
@@ -686,8 +686,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "бура"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128837,
@@ -696,8 +696,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "квасцы"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128838,
@@ -706,8 +706,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "масло"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128839,
@@ -716,8 +716,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "дух (спирт)"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128840,
@@ -726,8 +726,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "настойка"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128841,
@@ -736,8 +736,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "камедь"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128842,
@@ -746,8 +746,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "воск"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128843,
@@ -756,8 +756,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "порошок"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128844,
@@ -766,8 +766,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "окалина"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128845,
@@ -776,8 +776,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "тутия"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128846,
@@ -786,8 +786,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "голова (caput)", "мёртвая"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128847,
@@ -796,8 +796,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "скипетр", "из", "Юпитера"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128848,
@@ -806,8 +806,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "кадуцей"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128849,
@@ -816,8 +816,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "трезубец"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128850,
@@ -826,8 +826,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "со звездой", "трезубец"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128851,
@@ -836,8 +836,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "магнетит"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128852,
@@ -846,8 +846,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "мыло"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128853,
@@ -856,8 +856,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "моча"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128854,
@@ -866,8 +866,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "лошадь", "навоз"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128855,
@@ -876,8 +876,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "пепел"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128856,
@@ -886,8 +886,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "горшок (кастрюля)", "пепел"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128857,
@@ -896,8 +896,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "кирпич"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128858,
@@ -906,8 +906,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "толчёный", "кирпич"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128859,
@@ -916,8 +916,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "амальгама"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128860,
@@ -926,8 +926,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "слой", "над (супер)"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128861,
@@ -936,8 +936,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "слой", "над (супер)"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128862,
@@ -946,8 +946,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "возгонка"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128863,
@@ -956,8 +956,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "осадок"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128864,
@@ -966,8 +966,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "перегонять"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128865,
@@ -976,8 +976,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "растворить"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128866,
@@ -986,8 +986,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "растворить"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128867,
@@ -996,8 +996,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "очищать"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128868,
@@ -1006,8 +1006,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "гниение"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128869,
@@ -1016,8 +1016,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "тигель"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128870,
@@ -1026,8 +1026,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "тигель"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128871,
@@ -1036,8 +1036,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "тигель"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128872,
@@ -1046,8 +1046,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "тигель"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128873,
@@ -1056,8 +1056,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "тигель"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128874,
@@ -1066,8 +1066,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "перегонный куб"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128875,
@@ -1076,8 +1076,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "ванна", "из", "Марии"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128876,
@@ -1086,8 +1086,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "ванна", "из", "пара (испарений)"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128877,
@@ -1096,8 +1096,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "реторта"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128878,
@@ -1106,8 +1106,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "час"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128879,
@@ -1116,8 +1116,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "ночь"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128880,
@@ -1126,8 +1126,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "день", "ночь"],
+    "concepts": ["eclipse", "elements"]
   },
   {
     "cp": 128881,
@@ -1136,8 +1136,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "месяц"],
+    "concepts": ["eclipse", "elements"]
   },
   {
     "cp": 128882,
@@ -1146,8 +1146,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "половина", "драм"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128883,
@@ -1156,8 +1156,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["алхимический", "символ", "для", "половина", "унция"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128884,
@@ -1166,7 +1166,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["жребий (участь)", "из", "удача (судьба)"],
     "concepts": []
   },
   {
@@ -1176,7 +1176,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["покрытие"],
     "concepts": []
   },
   {
@@ -1186,7 +1186,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["лунное", "затмение"],
     "concepts": []
   },
   {
@@ -1196,7 +1196,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["Веста", "форма", "два"],
     "concepts": []
   },
   {
@@ -1206,7 +1206,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["Астрея", "форма", "два"],
     "concepts": []
   },
   {
@@ -1216,7 +1216,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["Гигея", "форма", "два"],
     "concepts": []
   },
   {
@@ -1226,7 +1226,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["Партенопа", "форма", "два"],
     "concepts": []
   },
   {
@@ -1236,7 +1236,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["Хаумеа"],
     "concepts": []
   },
   {
@@ -1246,7 +1246,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["Макемаке"],
     "concepts": []
   },
   {
@@ -1256,7 +1256,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["Гунгун"],
     "concepts": []
   },
   {
@@ -1266,7 +1266,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["Квавар"],
     "concepts": []
   },
   {
@@ -1276,7 +1276,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["Орк"],
     "concepts": []
   }
 ]

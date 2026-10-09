@@ -6,7 +6,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "знак", "с пробелом", "чандрабинду"],
     "concepts": []
   },
   {
@@ -16,7 +16,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "знак", "чандрабинду"],
     "concepts": []
   },
   {
@@ -26,7 +26,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "знак", "анусвара"],
     "concepts": []
   },
   {
@@ -36,7 +36,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "знак", "висарга"],
     "concepts": []
   },
   {
@@ -46,7 +46,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "знак", "сиддхам"],
     "concepts": []
   },
   {
@@ -56,7 +56,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква"],
     "concepts": []
   },
   {
@@ -66,7 +66,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "аа"],
     "concepts": []
   },
   {
@@ -76,7 +76,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква"],
     "concepts": []
   },
   {
@@ -86,7 +86,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "ии"],
     "concepts": []
   },
   {
@@ -96,7 +96,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква"],
     "concepts": []
   },
   {
@@ -106,7 +106,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "уу"],
     "concepts": []
   },
   {
@@ -116,7 +116,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "слоговой (вокалический)"],
     "concepts": []
   },
   {
@@ -126,8 +126,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["каннада", "буква", "слоговой (вокалический)"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 3214,
@@ -136,7 +136,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква"],
     "concepts": []
   },
   {
@@ -146,7 +146,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "ее"],
     "concepts": []
   },
   {
@@ -156,7 +156,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "аи"],
     "concepts": []
   },
   {
@@ -166,7 +166,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква"],
     "concepts": []
   },
   {
@@ -176,7 +176,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "оо"],
     "concepts": []
   },
   {
@@ -186,7 +186,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "ау"],
     "concepts": []
   },
   {
@@ -196,7 +196,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "ка"],
     "concepts": []
   },
   {
@@ -206,7 +206,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "кха"],
     "concepts": []
   },
   {
@@ -216,7 +216,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "га"],
     "concepts": []
   },
   {
@@ -226,7 +226,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "гха"],
     "concepts": []
   },
   {
@@ -236,7 +236,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "нга"],
     "concepts": []
   },
   {
@@ -246,7 +246,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "ча"],
     "concepts": []
   },
   {
@@ -256,7 +256,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "ча"],
     "concepts": []
   },
   {
@@ -266,7 +266,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "джа"],
     "concepts": []
   },
   {
@@ -276,7 +276,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "джха"],
     "concepts": []
   },
   {
@@ -286,7 +286,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "ня"],
     "concepts": []
   },
   {
@@ -296,7 +296,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "тта"],
     "concepts": []
   },
   {
@@ -306,8 +306,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["каннада", "буква", "ттха"],
+    "concepts": ["fruit", "cherry"]
   },
   {
     "cp": 3233,
@@ -316,7 +316,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "дда"],
     "concepts": []
   },
   {
@@ -326,7 +326,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "ддха"],
     "concepts": []
   },
   {
@@ -336,7 +336,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "нна"],
     "concepts": []
   },
   {
@@ -346,7 +346,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "та"],
     "concepts": []
   },
   {
@@ -356,7 +356,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "тха"],
     "concepts": []
   },
   {
@@ -366,7 +366,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "да"],
     "concepts": []
   },
   {
@@ -376,7 +376,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "дха"],
     "concepts": []
   },
   {
@@ -386,7 +386,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "на"],
     "concepts": []
   },
   {
@@ -396,7 +396,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "па"],
     "concepts": []
   },
   {
@@ -406,7 +406,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "пха"],
     "concepts": []
   },
   {
@@ -416,7 +416,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "ба"],
     "concepts": []
   },
   {
@@ -426,7 +426,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "бха"],
     "concepts": []
   },
   {
@@ -436,7 +436,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "ма"],
     "concepts": []
   },
   {
@@ -446,7 +446,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "я"],
     "concepts": []
   },
   {
@@ -456,7 +456,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "ра"],
     "concepts": []
   },
   {
@@ -466,7 +466,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "рра"],
     "concepts": []
   },
   {
@@ -476,7 +476,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "ла"],
     "concepts": []
   },
   {
@@ -486,7 +486,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "лла"],
     "concepts": []
   },
   {
@@ -496,7 +496,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "ва"],
     "concepts": []
   },
   {
@@ -506,7 +506,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "ша"],
     "concepts": []
   },
   {
@@ -516,7 +516,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "сса"],
     "concepts": []
   },
   {
@@ -526,7 +526,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "са"],
     "concepts": []
   },
   {
@@ -536,7 +536,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "ха"],
     "concepts": []
   },
   {
@@ -546,7 +546,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "знак", "нукта"],
     "concepts": []
   },
   {
@@ -556,7 +556,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "знак", "аваграха"],
     "concepts": []
   },
   {
@@ -566,7 +566,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "гласная", "знак", "аа"],
     "concepts": []
   },
   {
@@ -576,7 +576,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -586,7 +586,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "гласная", "знак", "ии"],
     "concepts": []
   },
   {
@@ -596,7 +596,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -606,7 +606,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "гласная", "знак", "уу"],
     "concepts": []
   },
   {
@@ -616,7 +616,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "гласная", "знак", "слоговой (вокалический)"],
     "concepts": []
   },
   {
@@ -626,7 +626,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "гласная", "знак", "слоговой (вокалический)", "рр"],
     "concepts": []
   },
   {
@@ -636,7 +636,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -646,7 +646,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "гласная", "знак", "ее"],
     "concepts": []
   },
   {
@@ -656,7 +656,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "гласная", "знак", "аи"],
     "concepts": []
   },
   {
@@ -666,7 +666,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -676,7 +676,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "гласная", "знак", "оо"],
     "concepts": []
   },
   {
@@ -686,7 +686,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "гласная", "знак", "ау"],
     "concepts": []
   },
   {
@@ -696,7 +696,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "знак", "вирама"],
     "concepts": []
   },
   {
@@ -706,7 +706,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "долгота", "метка (знак)"],
     "concepts": []
   },
   {
@@ -716,7 +716,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "аи", "долгота", "метка (знак)"],
     "concepts": []
   },
   {
@@ -726,7 +726,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "архаичный", "шри"],
     "concepts": []
   },
   {
@@ -736,7 +736,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква"],
     "concepts": []
   },
   {
@@ -746,7 +746,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "фа"],
     "concepts": []
   },
   {
@@ -756,7 +756,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "слоговой (вокалический)", "рр"],
     "concepts": []
   },
   {
@@ -766,7 +766,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "буква", "слоговой (вокалический)", "лл"],
     "concepts": []
   },
   {
@@ -776,7 +776,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "гласная", "знак", "слоговой (вокалический)"],
     "concepts": []
   },
   {
@@ -786,7 +786,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "гласная", "знак", "слоговой (вокалический)", "лл"],
     "concepts": []
   },
   {
@@ -796,7 +796,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "цифра", "ноль"],
     "concepts": []
   },
   {
@@ -806,7 +806,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "цифра", "один"],
     "concepts": []
   },
   {
@@ -816,7 +816,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "цифра", "два"],
     "concepts": []
   },
   {
@@ -826,7 +826,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "цифра", "три"],
     "concepts": []
   },
   {
@@ -836,7 +836,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "цифра", "четыре"],
     "concepts": []
   },
   {
@@ -846,7 +846,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "цифра", "пять"],
     "concepts": []
   },
   {
@@ -856,7 +856,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "цифра", "шесть"],
     "concepts": []
   },
   {
@@ -866,7 +866,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "цифра", "семь"],
     "concepts": []
   },
   {
@@ -876,7 +876,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "цифра", "восемь"],
     "concepts": []
   },
   {
@@ -886,8 +886,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["каннада", "цифра", "девять"],
+    "concepts": ["spiral"]
   },
   {
     "cp": 3313,
@@ -896,7 +896,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "знак", "джихвамулия"],
     "concepts": []
   },
   {
@@ -906,7 +906,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "знак", "упадхмания"],
     "concepts": []
   },
   {
@@ -916,7 +916,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каннада", "знак", "комбинируемый", "анусвара", "сверху", "правый (вправо)"],
     "concepts": []
   }
 ]

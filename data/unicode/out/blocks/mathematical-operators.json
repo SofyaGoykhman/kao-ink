@@ -9,7 +9,7 @@
       "ru": ["данность", "для всех", "любое", "универсально"],
       "en": ["all", "any", "for", "given", "universal"]
     },
-    "desc": [],
+    "desc": ["для", "все"],
     "concepts": []
   },
   {
@@ -19,7 +19,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["дополнение"],
     "concepts": []
   },
   {
@@ -32,8 +32,8 @@
       "ru": ["дифференциал", "частичный дифференциал"],
       "en": ["differential", "partial"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["частный", "дифференциал"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 8707,
@@ -42,7 +42,7 @@
     "ru": "существует",
     "en": "there exists",
     "keywords": { "ru": ["существует"], "en": ["exists", "there"] },
-    "desc": [],
+    "desc": ["существует"],
     "concepts": []
   },
   {
@@ -52,7 +52,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["существует", "не"],
     "concepts": []
   },
   {
@@ -65,7 +65,7 @@
       "ru": ["математика", "оператор над множеством", "пустое множество"],
       "en": ["empty", "mathematics", "operator", "set"]
     },
-    "desc": [],
+    "desc": ["пустой", "множество"],
     "concepts": []
   },
   {
@@ -75,7 +75,7 @@
     "ru": "инкремент",
     "en": "increment",
     "keywords": { "ru": ["инкремент", "треугольник"], "en": ["increment", "triangle"] },
-    "desc": [],
+    "desc": ["приращение"],
     "concepts": []
   },
   {
@@ -85,7 +85,7 @@
     "ru": "набла",
     "en": "nabla",
     "keywords": { "ru": ["набла", "треугольник"], "en": ["nabla", "triangle"] },
-    "desc": [],
+    "desc": ["набла"],
     "concepts": []
   },
   {
@@ -105,7 +105,7 @@
       ],
       "en": ["contains", "element", "membership", "of", "set"]
     },
-    "desc": [],
+    "desc": ["элемент", "из"],
     "concepts": []
   },
   {
@@ -115,7 +115,7 @@
     "ru": "не принадлежит",
     "en": "not an element",
     "keywords": { "ru": ["не принадлежит"], "en": ["an", "element", "not"] },
-    "desc": [],
+    "desc": ["не", "ан", "элемент", "из"],
     "concepts": []
   },
   {
@@ -125,7 +125,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["маленький (строчный)", "элемент", "из"],
     "concepts": []
   },
   {
@@ -138,7 +138,7 @@
       "ru": ["содержит в качестве члена"],
       "en": ["as", "contains", "element", "member"]
     },
-    "desc": [],
+    "desc": ["содержит", "как", "элемент"],
     "concepts": []
   },
   {
@@ -148,7 +148,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "содержать", "как", "элемент"],
     "concepts": []
   },
   {
@@ -158,7 +158,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["маленький (строчный)", "содержит", "как", "элемент"],
     "concepts": []
   },
   {
@@ -171,7 +171,7 @@
       "ru": ["конец доказательства", "надгробие", "ч. т. д.", "что и требовалось доказать"],
       "en": ["end", "halmos", "proof", "q.e.d.", "qed", "tombstone"]
     },
-    "desc": [],
+    "desc": ["конец", "из", "доказательство"],
     "concepts": []
   },
   {
@@ -184,8 +184,8 @@
       "ru": ["n-арное произведение", "логика", "произведение"],
       "en": ["logic", "n-ary", "product"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["арный", "произведение"],
+    "concepts": ["rainbow"]
   },
   {
     "cp": 8720,
@@ -194,7 +194,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["арный", "копроизведение"],
     "concepts": []
   },
   {
@@ -207,7 +207,7 @@
       "ru": ["n-арное суммирование", "сумма", "суммирование"],
       "en": ["mathematics", "n-ary", "summation"]
     },
-    "desc": [],
+    "desc": ["арный", "сумма"],
     "concepts": []
   },
   {
@@ -220,7 +220,7 @@
       "ru": ["вычитание", "знак минуса", "минус", "уменьшение"],
       "en": ["minus", "sign", "subtract"]
     },
-    "desc": [],
+    "desc": ["минус", "знак"],
     "concepts": []
   },
   {
@@ -230,7 +230,7 @@
     "ru": "знак минус-плюс",
     "en": "minus-or-plus",
     "keywords": { "ru": ["знак минус-плюс"], "en": ["minus-or-plus", "plus-minus"] },
-    "desc": [],
+    "desc": ["минус", "или", "плюс", "знак"],
     "concepts": []
   },
   {
@@ -240,7 +240,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["точка", "плюс"],
     "concepts": []
   },
   {
@@ -250,7 +250,7 @@
     "ru": "разделительный знак",
     "en": "division slash",
     "keywords": { "ru": ["разделительный знак"], "en": ["division", "slash", "stroke", "virgule"] },
-    "desc": [],
+    "desc": ["деление", "слэш (косая черта)"],
     "concepts": []
   },
   {
@@ -260,7 +260,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["множество", "минус"],
     "concepts": []
   },
   {
@@ -273,8 +273,8 @@
       "ru": ["звездочка", "оператор звездочки"],
       "en": ["asterisk", "operator", "star"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["звёздочка (астериск)", "оператор"],
+    "concepts": ["star", "asterisk", "snow"]
   },
   {
     "cp": 8728,
@@ -283,7 +283,7 @@
     "ru": "кольцевой оператор",
     "en": "ring operator",
     "keywords": { "ru": ["кольцевой оператор"], "en": ["composition", "operator", "ring"] },
-    "desc": [],
+    "desc": ["кольцо", "оператор"],
     "concepts": []
   },
   {
@@ -296,7 +296,7 @@
       "ru": ["буллет-оператор", "оператор", "оператор произведения"],
       "en": ["bullet", "operator"]
     },
-    "desc": [],
+    "desc": ["маркер списка (точка)", "оператор"],
     "concepts": []
   },
   {
@@ -309,7 +309,7 @@
       "ru": ["знак корня", "иррациональное число", "квадратный", "корень", "радикал"],
       "en": ["radical", "radix", "root", "square", "surd"]
     },
-    "desc": [],
+    "desc": ["квадрат", "корень"],
     "concepts": []
   },
   {
@@ -319,7 +319,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["куб", "корень"],
     "concepts": []
   },
   {
@@ -329,7 +329,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["четвёртый", "корень"],
     "concepts": []
   },
   {
@@ -342,8 +342,8 @@
       "ru": ["пропорционально", "пропорциональность"],
       "en": ["proportional", "proportionality"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["пропорционально", "к"],
+    "concepts": ["infinity"]
   },
   {
     "cp": 8734,
@@ -352,8 +352,8 @@
     "ru": "знак бесконечности",
     "en": "infinity sign",
     "keywords": { "ru": ["бесконечность", "знак бесконечности"], "en": ["infinity", "sign"] },
-    "desc": [],
-    "concepts": []
+    "desc": ["бесконечность"],
+    "concepts": ["wedding", "couple", "infinity", "forever", "cloud"]
   },
   {
     "cp": 8735,
@@ -365,7 +365,7 @@
       "ru": ["математика", "правый угол", "прямой угол"],
       "en": ["angle", "mathematics", "right"]
     },
-    "desc": [],
+    "desc": ["правый (вправо)", "угол"],
     "concepts": []
   },
   {
@@ -375,7 +375,7 @@
     "ru": "острый угол",
     "en": "angle",
     "keywords": { "ru": ["острый угол", "угол"], "en": ["acute", "angle"] },
-    "desc": [],
+    "desc": ["угол"],
     "concepts": []
   },
   {
@@ -385,7 +385,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["измеренный", "угол"],
     "concepts": []
   },
   {
@@ -395,7 +395,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["сферический", "угол"],
     "concepts": []
   },
   {
@@ -408,7 +408,7 @@
       "ru": ["вертикальная", "линия", "разделитель", "разделительная", "черта"],
       "en": ["divides", "divisor"]
     },
-    "desc": [],
+    "desc": ["делит"],
     "concepts": []
   },
   {
@@ -418,7 +418,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "делит"],
     "concepts": []
   },
   {
@@ -431,7 +431,7 @@
       "ru": ["знаки", "отношений", "параллельно", "параллельность"],
       "en": ["parallel"]
     },
-    "desc": [],
+    "desc": ["параллельно", "к"],
     "concepts": []
   },
   {
@@ -441,7 +441,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "параллельно", "к"],
     "concepts": []
   },
   {
@@ -454,8 +454,8 @@
       "ru": ["конъюнктор", "конъюнкция", "логический оператор «и»", "логическое и"],
       "en": ["ac", "and", "atque", "logical", "wedge"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["логический", "и"],
+    "concepts": ["mountain"]
   },
   {
     "cp": 8744,
@@ -464,7 +464,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["логический", "или"],
     "concepts": []
   },
   {
@@ -474,8 +474,8 @@
     "ru": "пересечение",
     "en": "intersection",
     "keywords": { "ru": ["множество", "пересечение"], "en": ["intersection", "set"] },
-    "desc": [],
-    "concepts": []
+    "desc": ["пересечение"],
+    "concepts": ["mushroom", "rainbow"]
   },
   {
     "cp": 8746,
@@ -487,7 +487,7 @@
       "ru": ["множество", "объединение", "совокупность"],
       "en": ["collection", "set", "union"]
     },
-    "desc": [],
+    "desc": ["объединение"],
     "concepts": []
   },
   {
@@ -497,7 +497,7 @@
     "ru": "интеграл",
     "en": "integral",
     "keywords": { "ru": ["интеграл", "математический анализ"], "en": ["calculus", "integral"] },
-    "desc": [],
+    "desc": ["интеграл"],
     "concepts": []
   },
   {
@@ -510,7 +510,7 @@
       "ru": ["двойной интеграл", "математический анализ"],
       "en": ["calculus", "double", "integral"]
     },
-    "desc": [],
+    "desc": ["двойной", "интеграл"],
     "concepts": []
   },
   {
@@ -520,7 +520,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["тройной", "интеграл"],
     "concepts": []
   },
   {
@@ -533,7 +533,7 @@
       "ru": ["интеграл по замкнутому контуру", "интеграл по контуру", "криволинейный интеграл"],
       "en": ["contour", "integral"]
     },
-    "desc": [],
+    "desc": ["контурный", "интеграл"],
     "concepts": []
   },
   {
@@ -543,7 +543,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["поверхность", "интеграл"],
     "concepts": []
   },
   {
@@ -553,7 +553,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["объём (громкость)", "интеграл"],
     "concepts": []
   },
   {
@@ -563,7 +563,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["по часовой стрелке", "интеграл"],
     "concepts": []
   },
   {
@@ -573,7 +573,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["по часовой стрелке", "контурный", "интеграл"],
     "concepts": []
   },
   {
@@ -583,7 +583,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["против часовой стрелки", "контурный", "интеграл"],
     "concepts": []
   },
   {
@@ -593,8 +593,8 @@
     "ru": "следовательно",
     "en": "therefore",
     "keywords": { "ru": ["логический оператор", "следовательно"], "en": ["logic", "therefore"] },
-    "desc": [],
-    "concepts": []
+    "desc": ["следовательно"],
+    "concepts": ["asterism", "constellation", "clover"]
   },
   {
     "cp": 8757,
@@ -606,8 +606,8 @@
       "ru": ["логический оператор", "поскольку", "потому что", "так как"],
       "en": ["because", "logic"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["потому что"],
+    "concepts": ["asterism", "constellation"]
   },
   {
     "cp": 8758,
@@ -616,7 +616,7 @@
     "ru": "соотношение",
     "en": "ratio",
     "keywords": { "ru": ["отношение", "соотношение"], "en": ["ratio"] },
-    "desc": [],
+    "desc": ["отношение"],
     "concepts": []
   },
   {
@@ -629,7 +629,7 @@
       "ru": ["пропорциональность", "пропорция"],
       "en": ["proportion", "proportionality"]
     },
-    "desc": [],
+    "desc": ["пропорция"],
     "concepts": []
   },
   {
@@ -639,7 +639,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["точка", "минус"],
     "concepts": []
   },
   {
@@ -649,7 +649,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["избыток"],
     "concepts": []
   },
   {
@@ -659,7 +659,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["геометрический", "пропорция"],
     "concepts": []
   },
   {
@@ -669,7 +669,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гомотетия"],
     "concepts": []
   },
   {
@@ -679,8 +679,8 @@
     "ru": "оператор тильды",
     "en": "tilde operator",
     "keywords": { "ru": ["оператор", "оператор тильды", "тильда"], "en": ["operator", "tilde"] },
-    "desc": [],
-    "concepts": []
+    "desc": ["тильда", "оператор"],
+    "concepts": ["wave"]
   },
   {
     "cp": 8765,
@@ -689,8 +689,8 @@
     "ru": "обратная тильда",
     "en": "reversed tilde",
     "keywords": { "ru": ["обратная тильда", "тильда"], "en": ["reversed", "tilde"] },
-    "desc": [],
-    "concepts": []
+    "desc": ["зеркальный (обратный)", "тильда"],
+    "concepts": ["infinity", "wind", "water", "wave"]
   },
   {
     "cp": 8766,
@@ -699,8 +699,8 @@
     "ru": "инвертированная плавная S",
     "en": "inverted lazy s",
     "keywords": { "ru": ["инвертированная плавная S"], "en": ["inverted", "lazy", "s"] },
-    "desc": [],
-    "concepts": []
+    "desc": ["перевёрнутый", "ленивый"],
+    "concepts": ["infinity", "wind", "water", "wave"]
   },
   {
     "cp": 8767,
@@ -709,8 +709,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["синус", "волна"],
+    "concepts": ["weather", "wind", "fog", "water", "wave"]
   },
   {
     "cp": 8768,
@@ -719,8 +719,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["венок", "произведение"],
+    "concepts": ["water", "wave"]
   },
   {
     "cp": 8769,
@@ -729,7 +729,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "тильда"],
     "concepts": []
   },
   {
@@ -739,7 +739,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["минус", "тильда"],
     "concepts": []
   },
   {
@@ -752,8 +752,8 @@
       "ru": ["асимптотически равно", "асимптотическое равенство", "математика"],
       "en": ["asymptote", "asymptotically", "equal", "mathematics"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["асимптотически", "равно", "к"],
+    "concepts": ["water"]
   },
   {
     "cp": 8772,
@@ -762,7 +762,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "асимптотически", "равно", "к"],
     "concepts": []
   },
   {
@@ -775,8 +775,8 @@
       "ru": ["изоморфизм", "конгруэнтность", "приблизительно равно", "примерно равно", "равенство"],
       "en": ["approximately", "congruence", "equal", "equality", "isomorphism", "mathematics"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["приблизительно", "равно", "к"],
+    "concepts": ["water"]
   },
   {
     "cp": 8774,
@@ -785,7 +785,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["приблизительно", "но", "не", "на самом деле", "равно", "к"],
     "concepts": []
   },
   {
@@ -795,7 +795,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ни", "приблизительно", "на самом деле", "равно", "к"],
     "concepts": []
   },
   {
@@ -815,8 +815,8 @@
       ],
       "en": ["almost", "approximate", "approximation", "equal"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["почти", "равно", "к"],
+    "concepts": ["wind", "fog", "water", "wave"]
   },
   {
     "cp": 8777,
@@ -825,7 +825,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "почти", "равно", "к"],
     "concepts": []
   },
   {
@@ -835,7 +835,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["почти", "равно", "или", "к"],
     "concepts": []
   },
   {
@@ -845,8 +845,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["тройной", "тильда"],
+    "concepts": ["weather", "wind", "fog", "water", "air", "wave"]
   },
   {
     "cp": 8780,
@@ -858,7 +858,7 @@
       "ru": ["все равны", "математика", "равенство"],
       "en": ["all", "equal", "equality", "mathematics"]
     },
-    "desc": [],
+    "desc": ["все", "равно", "к"],
     "concepts": []
   },
   {
@@ -868,7 +868,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["эквивалентный", "к"],
     "concepts": []
   },
   {
@@ -878,7 +878,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["геометрически", "эквивалентный", "к"],
     "concepts": []
   },
   {
@@ -888,7 +888,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["разность", "между"],
     "concepts": []
   },
   {
@@ -898,7 +898,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["стремится", "предел"],
     "concepts": []
   },
   {
@@ -908,7 +908,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["геометрически", "равно", "к"],
     "concepts": []
   },
   {
@@ -921,7 +921,7 @@
       "ru": ["знак приблизительного равенства", "приблизительное равенство"],
       "en": ["approximately", "equal", "image", "the"]
     },
-    "desc": [],
+    "desc": ["приблизительно", "равно", "к", "или", "образ (изображение)", "из"],
     "concepts": []
   },
   {
@@ -931,7 +931,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["образ (изображение)", "из", "или", "приблизительно", "равно", "к"],
     "concepts": []
   },
   {
@@ -941,7 +941,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["двоеточие", "равно"],
     "concepts": []
   },
   {
@@ -951,7 +951,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["равно", "двоеточие"],
     "concepts": []
   },
   {
@@ -964,7 +964,7 @@
       "ru": ["кольцо в равно", "математика", "равенство"],
       "en": ["equal", "equality", "in", "mathematics", "ring"]
     },
-    "desc": [],
+    "desc": ["кольцо", "в", "равно", "к"],
     "concepts": []
   },
   {
@@ -974,7 +974,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["кольцо", "равно", "к"],
     "concepts": []
   },
   {
@@ -984,7 +984,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["соответствует", "к"],
     "concepts": []
   },
   {
@@ -994,7 +994,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["оценивает"],
     "concepts": []
   },
   {
@@ -1004,7 +1004,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["равноугольный", "к"],
     "concepts": []
   },
   {
@@ -1014,7 +1014,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["звезда", "равно"],
     "concepts": []
   },
   {
@@ -1024,7 +1024,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["дельта", "равно", "к"],
     "concepts": []
   },
   {
@@ -1034,7 +1034,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["равно", "к", "на (через)", "определение"],
     "concepts": []
   },
   {
@@ -1044,7 +1044,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["измеренный", "на (через)"],
     "concepts": []
   },
   {
@@ -1054,7 +1054,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["под вопросом", "равно", "к"],
     "concepts": []
   },
   {
@@ -1067,7 +1067,7 @@
       "ru": ["знак неравенства", "не равно", "не равняется", "неравенство"],
       "en": ["equal", "inequality", "inequation", "not"]
     },
-    "desc": [],
+    "desc": ["не", "равно", "к"],
     "concepts": []
   },
   {
@@ -1080,8 +1080,8 @@
       "ru": ["идентичный", "равный", "тождественное равенство", "тождество", "тройной"],
       "en": ["exact", "identical", "to", "triple"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["тождественно", "к"],
+    "concepts": ["fog"]
   },
   {
     "cp": 8802,
@@ -1090,7 +1090,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "тождественно", "к"],
     "concepts": []
   },
   {
@@ -1103,8 +1103,8 @@
       "ru": ["математика", "равенство", "строго эквивалентно"],
       "en": ["equality", "equivalent", "mathematics", "strictly"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["строго", "эквивалентный", "к"],
+    "concepts": ["fog"]
   },
   {
     "cp": 8804,
@@ -1116,7 +1116,7 @@
       "ru": ["меньше или равно", "не более", "не более чем", "неравенство"],
       "en": ["equal", "equals", "inequality", "less-than", "or"]
     },
-    "desc": [],
+    "desc": ["меньше", "чем", "или", "равно", "к"],
     "concepts": []
   },
   {
@@ -1129,7 +1129,7 @@
       "ru": ["больше или равно", "не менее", "не менее чем", "неравенство"],
       "en": ["equal", "equals", "greater-than", "inequality", "or"]
     },
-    "desc": [],
+    "desc": ["больше", "чем", "или", "равно", "к"],
     "concepts": []
   },
   {
@@ -1142,7 +1142,7 @@
       "ru": ["математика", "меньше над равно", "неравенство"],
       "en": ["equal", "inequality", "less-than", "mathematics", "over"]
     },
-    "desc": [],
+    "desc": ["меньше", "чем", "над", "равно", "к"],
     "concepts": []
   },
   {
@@ -1155,7 +1155,7 @@
       "ru": ["больше над равно", "математика", "неравенство"],
       "en": ["equal", "greater-than", "inequality", "mathematics", "over"]
     },
-    "desc": [],
+    "desc": ["больше", "чем", "над", "равно", "к"],
     "concepts": []
   },
   {
@@ -1165,7 +1165,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["меньше", "чем", "но", "не", "равно", "к"],
     "concepts": []
   },
   {
@@ -1175,7 +1175,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["больше", "чем", "но", "не", "равно", "к"],
     "concepts": []
   },
   {
@@ -1188,7 +1188,7 @@
       "ru": ["математика", "намного меньше", "неравенство"],
       "en": ["inequality", "less-than", "mathematics", "much"]
     },
-    "desc": [],
+    "desc": ["много", "меньше", "чем"],
     "concepts": []
   },
   {
@@ -1201,7 +1201,7 @@
       "ru": ["математика", "намного больше", "неравенство"],
       "en": ["greater-than", "inequality", "mathematics", "much"]
     },
-    "desc": [],
+    "desc": ["много", "больше", "чем"],
     "concepts": []
   },
   {
@@ -1211,7 +1211,7 @@
     "ru": "между",
     "en": "between",
     "keywords": { "ru": ["между"], "en": ["between"] },
-    "desc": [],
+    "desc": ["между"],
     "concepts": []
   },
   {
@@ -1221,7 +1221,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "эквивалентный", "к"],
     "concepts": []
   },
   {
@@ -1234,7 +1234,7 @@
       "ru": ["не меньше чем"],
       "en": ["inequality", "less-than", "mathematics", "not"]
     },
-    "desc": [],
+    "desc": ["не", "меньше", "чем"],
     "concepts": []
   },
   {
@@ -1247,7 +1247,7 @@
       "ru": ["не больше чем"],
       "en": ["greater-than", "inequality", "mathematics", "not"]
     },
-    "desc": [],
+    "desc": ["не", "больше", "чем"],
     "concepts": []
   },
   {
@@ -1257,7 +1257,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ни", "меньше", "чем", "равно", "к"],
     "concepts": []
   },
   {
@@ -1267,7 +1267,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ни", "больше", "чем", "равно", "к"],
     "concepts": []
   },
   {
@@ -1277,7 +1277,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["меньше", "чем", "или", "эквивалентный", "к"],
     "concepts": []
   },
   {
@@ -1290,7 +1290,7 @@
       "ru": ["больше или эквивалентно", "больше либо эквивалентно", "математика", "неравенство"],
       "en": ["equivalent", "greater-than", "inequality", "mathematics"]
     },
-    "desc": [],
+    "desc": ["больше", "чем", "или", "эквивалентный", "к"],
     "concepts": []
   },
   {
@@ -1300,7 +1300,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ни", "меньше", "чем", "эквивалентный", "к"],
     "concepts": []
   },
   {
@@ -1310,7 +1310,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ни", "больше", "чем", "эквивалентный", "к"],
     "concepts": []
   },
   {
@@ -1320,8 +1320,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["меньше", "чем", "или", "больше"],
+    "concepts": ["lightning"]
   },
   {
     "cp": 8823,
@@ -1330,7 +1330,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["больше", "чем", "или", "меньше"],
     "concepts": []
   },
   {
@@ -1340,7 +1340,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ни", "меньше", "чем", "больше"],
     "concepts": []
   },
   {
@@ -1350,7 +1350,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ни", "больше", "чем", "меньше"],
     "concepts": []
   },
   {
@@ -1363,7 +1363,7 @@
       "ru": ["математика", "оператор над множеством", "предшествует"],
       "en": ["mathematics", "operator", "precedes", "set"]
     },
-    "desc": [],
+    "desc": ["предшествует"],
     "concepts": []
   },
   {
@@ -1376,7 +1376,7 @@
       "ru": ["математика", "оператор над множеством", "следует"],
       "en": ["mathematics", "operator", "set", "succeeds"]
     },
-    "desc": [],
+    "desc": ["следует"],
     "concepts": []
   },
   {
@@ -1386,7 +1386,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["предшествует", "или", "равно", "к"],
     "concepts": []
   },
   {
@@ -1396,7 +1396,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["следует", "или", "равно", "к"],
     "concepts": []
   },
   {
@@ -1406,7 +1406,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["предшествует", "или", "эквивалентный", "к"],
     "concepts": []
   },
   {
@@ -1416,7 +1416,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["следует", "или", "эквивалентный", "к"],
     "concepts": []
   },
   {
@@ -1426,7 +1426,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "предшествовать"],
     "concepts": []
   },
   {
@@ -1439,7 +1439,7 @@
       "ru": ["математика", "не следует", "оператор над множеством"],
       "en": ["does", "mathematics", "not", "operator", "set", "succeed"]
     },
-    "desc": [],
+    "desc": ["не", "следовать"],
     "concepts": []
   },
   {
@@ -1452,8 +1452,8 @@
       "ru": ["включено в", "множество", "подмножество"],
       "en": ["of", "set", "subset"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["подмножество", "из"],
+    "concepts": ["moon", "cloud"]
   },
   {
     "cp": 8835,
@@ -1465,8 +1465,8 @@
       "ru": ["математика", "надмножество", "оператор над множеством", "супермножество"],
       "en": ["mathematics", "operator", "set", "superset"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["надмножество", "из"],
+    "concepts": ["moon", "cloud"]
   },
   {
     "cp": 8836,
@@ -1475,7 +1475,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "подмножество", "из"],
     "concepts": []
   },
   {
@@ -1485,7 +1485,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "надмножество", "из"],
     "concepts": []
   },
   {
@@ -1495,8 +1495,8 @@
     "ru": "подмножество равно",
     "en": "subset equal",
     "keywords": { "ru": ["подмножество равно"], "en": ["equal", "subset"] },
-    "desc": [],
-    "concepts": []
+    "desc": ["подмножество", "из", "или", "равно", "к"],
+    "concepts": ["moon"]
   },
   {
     "cp": 8839,
@@ -1508,8 +1508,8 @@
       "ru": ["математика", "надмножество равно", "равенство"],
       "en": ["equal", "equality", "mathematics", "superset"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["надмножество", "из", "или", "равно", "к"],
+    "concepts": ["moon"]
   },
   {
     "cp": 8840,
@@ -1518,7 +1518,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ни", "подмножество", "из", "равно", "к"],
     "concepts": []
   },
   {
@@ -1528,7 +1528,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ни", "надмножество", "из", "равно", "к"],
     "concepts": []
   },
   {
@@ -1538,7 +1538,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["подмножество", "из", "с", "не", "равно", "к"],
     "concepts": []
   },
   {
@@ -1548,7 +1548,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["надмножество", "из", "с", "не", "равно", "к"],
     "concepts": []
   },
   {
@@ -1558,7 +1558,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["мультимножество"],
     "concepts": []
   },
   {
@@ -1568,7 +1568,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["мультимножество", "умножение"],
     "concepts": []
   },
   {
@@ -1578,7 +1578,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["мультимножество", "объединение"],
     "concepts": []
   },
   {
@@ -1588,8 +1588,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["квадрат", "образ (изображение)", "из"],
+    "concepts": ["moon"]
   },
   {
     "cp": 8848,
@@ -1598,8 +1598,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["квадрат", "оригинал", "из"],
+    "concepts": ["moon"]
   },
   {
     "cp": 8849,
@@ -1608,7 +1608,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["квадрат", "образ (изображение)", "из", "или", "равно", "к"],
     "concepts": []
   },
   {
@@ -1618,7 +1618,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["квадрат", "оригинал", "из", "или", "равно", "к"],
     "concepts": []
   },
   {
@@ -1628,8 +1628,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["квадрат", "крышка (шапка)"],
+    "concepts": ["mushroom", "rainbow"]
   },
   {
     "cp": 8852,
@@ -1638,7 +1638,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["квадрат", "чаша (чашка)"],
     "concepts": []
   },
   {
@@ -1648,8 +1648,8 @@
     "ru": "плюс в круге",
     "en": "circled plus",
     "keywords": { "ru": ["знак плюса в круге", "плюс в круге"], "en": ["circled", "plus"] },
-    "desc": [],
-    "concepts": []
+    "desc": ["в кружке", "плюс"],
+    "concepts": ["gender", "planet", "flower", "earth", "elements"]
   },
   {
     "cp": 8854,
@@ -1661,8 +1661,8 @@
       "ru": ["минус в круге", "симметрическая разность"],
       "en": ["circled", "difference", "erosion", "minus", "symmetric"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["в кружке", "минус"],
+    "concepts": ["planet", "eclipse", "earth"]
   },
   {
     "cp": 8855,
@@ -1674,8 +1674,8 @@
       "ru": ["знак умножения в круге", "произведение", "тензор"],
       "en": ["circled", "product", "tensor", "times"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["в кружке", "умножить (раз)"],
+    "concepts": ["gender", "flower", "earth", "elements"]
   },
   {
     "cp": 8856,
@@ -1687,8 +1687,8 @@
       "ru": ["дробная черта в круге", "математика"],
       "en": ["circled", "division", "division-like", "mathematics", "slash"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["в кружке", "деление", "слэш (косая черта)"],
+    "concepts": ["planet", "eclipse", "earth"]
   },
   {
     "cp": 8857,
@@ -1700,8 +1700,8 @@
       "ru": ["оператор", "оператор точки в круге"],
       "en": ["circled", "dot", "operator", "XNOR"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["в кружке", "точка", "оператор"],
+    "concepts": ["planet", "sun", "earth"]
   },
   {
     "cp": 8858,
@@ -1710,8 +1710,8 @@
     "ru": "кольцевой оператор в круге",
     "en": "circled ring operator",
     "keywords": { "ru": ["кольцевой оператор в круге"], "en": ["circled", "operator", "ring"] },
-    "desc": [],
-    "concepts": []
+    "desc": ["в кружке", "кольцо", "оператор"],
+    "concepts": ["wedding", "planet", "earth", "spiral"]
   },
   {
     "cp": 8859,
@@ -1723,8 +1723,8 @@
       "ru": ["оператор", "оператор звездочки в круге"],
       "en": ["asterisk", "circled", "operator"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["в кружке", "звёздочка (астериск)", "оператор"],
+    "concepts": ["star", "asterisk", "sun", "flower", "snow", "earth"]
   },
   {
     "cp": 8860,
@@ -1733,8 +1733,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["в кружке", "равно"],
+    "concepts": ["planet", "earth"]
   },
   {
     "cp": 8861,
@@ -1743,8 +1743,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["в кружке", "тире"],
+    "concepts": ["planet", "earth"]
   },
   {
     "cp": 8862,
@@ -1756,7 +1756,7 @@
       "ru": ["знак плюса", "квадрат", "математика", "плюс в квадрате", "сложение"],
       "en": ["addition-like", "mathematics", "plus", "squared"]
     },
-    "desc": [],
+    "desc": ["в квадрате", "плюс"],
     "concepts": []
   },
   {
@@ -1769,7 +1769,7 @@
       "ru": ["вычитание", "знак минуса", "математика", "минус", "минус в квадрате"],
       "en": ["mathematics", "minus", "squared", "subtraction-like"]
     },
-    "desc": [],
+    "desc": ["в квадрате", "минус"],
     "concepts": []
   },
   {
@@ -1779,7 +1779,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["в квадрате", "умножить (раз)"],
     "concepts": []
   },
   {
@@ -1789,7 +1789,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["в квадрате", "точка", "оператор"],
     "concepts": []
   },
   {
@@ -1799,7 +1799,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["правый (вправо)", "кнопка (упор)"],
     "concepts": []
   },
   {
@@ -1809,7 +1809,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["левый (влево)", "кнопка (упор)"],
     "concepts": []
   },
   {
@@ -1819,8 +1819,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["вниз", "кнопка (упор)"],
+    "concepts": ["mushroom"]
   },
   {
     "cp": 8869,
@@ -1832,7 +1832,7 @@
       "ru": ["вертикальный шип", "фальсум", "шип"],
       "en": ["eet", "falsum", "tack", "up"]
     },
-    "desc": [],
+    "desc": ["вверх", "кнопка (упор)"],
     "concepts": []
   },
   {
@@ -1842,7 +1842,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["утверждение"],
     "concepts": []
   },
   {
@@ -1852,7 +1852,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["моделирует"],
     "concepts": []
   },
   {
@@ -1862,7 +1862,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["истина"],
     "concepts": []
   },
   {
@@ -1872,7 +1872,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["вынуждает"],
     "concepts": []
   },
   {
@@ -1882,7 +1882,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["тройной", "вертикальный", "черта", "правый (вправо)", "турникет"],
     "concepts": []
   },
   {
@@ -1892,7 +1892,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["двойной", "вертикальный", "черта", "правый (вправо)", "турникет"],
     "concepts": []
   },
   {
@@ -1902,7 +1902,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "доказывает"],
     "concepts": []
   },
   {
@@ -1912,7 +1912,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "истина"],
     "concepts": []
   },
   {
@@ -1922,7 +1922,7 @@
     "ru": "не влечет",
     "en": "does not force",
     "keywords": { "ru": ["не влечет"], "en": ["does", "force", "not"] },
-    "desc": [],
+    "desc": ["не", "вынуждает (сила)"],
     "concepts": []
   },
   {
@@ -1932,7 +1932,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["отрицаемый", "двойной", "вертикальный", "черта", "правый (вправо)", "турникет"],
     "concepts": []
   },
   {
@@ -1945,8 +1945,8 @@
       "ru": ["математика", "оператор над множеством", "предшествует", "предшествует относительно"],
       "en": ["mathematics", "operator", "precedes", "relation", "set", "under"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["предшествует", "под", "отношение"],
+    "concepts": ["wings", "lightning"]
   },
   {
     "cp": 8881,
@@ -1958,8 +1958,8 @@
       "ru": ["математика", "оператор над множеством", "следует", "следует относительно"],
       "en": ["mathematics", "operator", "relation", "set", "succeeds", "under"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["следует", "под", "отношение"],
+    "concepts": ["wings"]
   },
   {
     "cp": 8882,
@@ -1968,7 +1968,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["нормальный", "подгруппа", "из"],
     "concepts": []
   },
   {
@@ -1978,7 +1978,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["содержит", "как", "нормальный", "подгруппа"],
     "concepts": []
   },
   {
@@ -1988,7 +1988,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["нормальный", "подгруппа", "из", "или", "равно", "к"],
     "concepts": []
   },
   {
@@ -1998,7 +1998,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["содержит", "как", "нормальный", "подгруппа", "или", "равно", "к"],
     "concepts": []
   },
   {
@@ -2008,8 +2008,8 @@
     "ru": "прообраз",
     "en": "original",
     "keywords": { "ru": ["прообраз"], "en": ["original"] },
-    "desc": [],
-    "concepts": []
+    "desc": ["оригинал", "из"],
+    "concepts": ["female"]
   },
   {
     "cp": 8887,
@@ -2018,7 +2018,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["образ (изображение)", "из"],
     "concepts": []
   },
   {
@@ -2028,8 +2028,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["мультиотображение"],
+    "concepts": ["thermometer"]
   },
   {
     "cp": 8889,
@@ -2046,8 +2046,8 @@
       ],
       "en": ["conjugate", "hermitian", "mathematics", "matrix", "self-adjoint", "square"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["эрмитов", "сопряжённый", "матрица"],
+    "concepts": ["star", "star-small", "sparkle", "constellation", "clover", "snow"]
   },
   {
     "cp": 8890,
@@ -2056,7 +2056,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["интеркаляция"],
     "concepts": []
   },
   {
@@ -2066,7 +2066,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["исключающее или (XOR)"],
     "concepts": []
   },
   {
@@ -2076,8 +2076,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["и-не (NAND)"],
+    "concepts": ["tree", "air", "elements", "mountain"]
   },
   {
     "cp": 8893,
@@ -2086,8 +2086,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["ни"],
+    "concepts": ["air", "elements"]
   },
   {
     "cp": 8894,
@@ -2096,7 +2096,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["правый (вправо)", "угол", "с", "дуга"],
     "concepts": []
   },
   {
@@ -2109,7 +2109,7 @@
       "ru": ["математика", "прямоугольный", "треугольник"],
       "en": ["mathematics", "right", "right-angled", "triangle"]
     },
-    "desc": [],
+    "desc": ["правый (вправо)", "треугольник"],
     "concepts": []
   },
   {
@@ -2119,8 +2119,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["арный", "логический", "и"],
+    "concepts": ["fire", "mountain"]
   },
   {
     "cp": 8897,
@@ -2132,7 +2132,7 @@
       "ru": ["n-арное логическое или", "дизъюнкция", "логика"],
       "en": ["disjunction", "logic", "logical", "n-ary", "or"]
     },
-    "desc": [],
+    "desc": ["арный", "логический", "или"],
     "concepts": []
   },
   {
@@ -2145,8 +2145,8 @@
       "ru": ["n-арное пересечение", "математика", "оператор над множеством", "пересечение"],
       "en": ["intersection", "mathematics", "n-ary", "operator", "set"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["арный", "пересечение"],
+    "concepts": ["rainbow"]
   },
   {
     "cp": 8899,
@@ -2158,7 +2158,7 @@
       "ru": ["n-арное объединение", "математика", "объединение", "оператор над множеством"],
       "en": ["mathematics", "n-ary", "operator", "set", "union"]
     },
-    "desc": [],
+    "desc": ["арный", "объединение"],
     "concepts": []
   },
   {
@@ -2168,8 +2168,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["ромб", "оператор"],
+    "concepts": ["sparkle"]
   },
   {
     "cp": 8901,
@@ -2178,7 +2178,7 @@
     "ru": "оператор точки",
     "en": "dot operator",
     "keywords": { "ru": ["оператор", "оператор точки"], "en": ["dot", "operator"] },
-    "desc": [],
+    "desc": ["точка", "оператор"],
     "concepts": []
   },
   {
@@ -2188,8 +2188,17 @@
     "ru": "оператор звезды",
     "en": "star operator",
     "keywords": { "ru": ["оператор", "оператор звезды"], "en": ["operator", "star"] },
-    "desc": [],
-    "concepts": []
+    "desc": ["звезда", "оператор"],
+    "concepts": [
+      "star",
+      "star-small",
+      "sparkle",
+      "asterisk",
+      "shooting-star",
+      "constellation",
+      "night",
+      "snow"
+    ]
   },
   {
     "cp": 8903,
@@ -2198,8 +2207,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["деление", "умножить (раз)"],
+    "concepts": ["star", "asterisk", "snow"]
   },
   {
     "cp": 8904,
@@ -2211,8 +2220,8 @@
       "ru": ["бабочка", "бинарный оператор", "галстук-бабочка", "естественное соединение"],
       "en": ["binary", "bowtie", "join", "natural", "operator"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["бабочка (галстук-бабочка)"],
+    "concepts": ["snowman"]
   },
   {
     "cp": 8905,
@@ -2221,7 +2230,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["левый (влево)", "нормальный", "фактор", "полупрямое", "произведение"],
     "concepts": []
   },
   {
@@ -2231,7 +2240,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["правый (вправо)", "нормальный", "фактор", "полупрямое", "произведение"],
     "concepts": []
   },
   {
@@ -2241,7 +2250,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["левый (влево)", "полупрямое", "произведение"],
     "concepts": []
   },
   {
@@ -2251,7 +2260,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["правый (вправо)", "полупрямое", "произведение"],
     "concepts": []
   },
   {
@@ -2261,8 +2270,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["зеркальный (обратный)", "тильда", "равно"],
+    "concepts": ["water", "wave"]
   },
   {
     "cp": 8910,
@@ -2271,8 +2280,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["фигурный", "логический", "или"],
+    "concepts": ["tulip"]
   },
   {
     "cp": 8911,
@@ -2281,8 +2290,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["фигурный", "логический", "и"],
+    "concepts": ["tree", "fire", "mountain"]
   },
   {
     "cp": 8912,
@@ -2291,8 +2300,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["двойной", "подмножество"],
+    "concepts": ["moon"]
   },
   {
     "cp": 8913,
@@ -2301,8 +2310,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["двойной", "надмножество"],
+    "concepts": ["moon"]
   },
   {
     "cp": 8914,
@@ -2314,8 +2323,8 @@
       "ru": ["двойное пересечение", "математика", "оператор над множеством", "пересечение"],
       "en": ["double", "intersection", "mathematics", "operator", "set"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["двойной", "пересечение"],
+    "concepts": ["rainbow"]
   },
   {
     "cp": 8915,
@@ -2324,7 +2333,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["двойной", "объединение"],
     "concepts": []
   },
   {
@@ -2334,8 +2343,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["вилы"],
+    "concepts": ["lily", "cactus"]
   },
   {
     "cp": 8917,
@@ -2344,7 +2353,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["равно", "и", "параллельно", "к"],
     "concepts": []
   },
   {
@@ -2354,7 +2363,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["меньше", "чем", "с", "точка"],
     "concepts": []
   },
   {
@@ -2364,7 +2373,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["больше", "чем", "с", "точка"],
     "concepts": []
   },
   {
@@ -2377,7 +2386,7 @@
       "ru": ["гораздо меньше", "математика", "меньше", "неравенство"],
       "en": ["inequality", "less-than", "mathematics", "much", "very"]
     },
-    "desc": [],
+    "desc": ["очень", "много", "меньше", "чем"],
     "concepts": []
   },
   {
@@ -2390,7 +2399,7 @@
       "ru": ["больше", "гораздо больше", "математика", "неравенство"],
       "en": ["greater-than", "inequality", "mathematics", "much", "very"]
     },
-    "desc": [],
+    "desc": ["очень", "много", "больше", "чем"],
     "concepts": []
   },
   {
@@ -2400,7 +2409,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["меньше", "чем", "равно", "к", "или", "больше"],
     "concepts": []
   },
   {
@@ -2410,7 +2419,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["больше", "чем", "равно", "к", "или", "меньше"],
     "concepts": []
   },
   {
@@ -2420,7 +2429,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["равно", "к", "или", "меньше", "чем"],
     "concepts": []
   },
   {
@@ -2430,7 +2439,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["равно", "к", "или", "больше", "чем"],
     "concepts": []
   },
   {
@@ -2440,7 +2449,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["равно", "к", "или", "предшествует"],
     "concepts": []
   },
   {
@@ -2450,7 +2459,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["равно", "к", "или", "следует"],
     "concepts": []
   },
   {
@@ -2460,7 +2469,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "предшествовать", "или", "равно"],
     "concepts": []
   },
   {
@@ -2470,7 +2479,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "следовать", "или", "равно"],
     "concepts": []
   },
   {
@@ -2480,7 +2489,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "квадрат", "образ (изображение)", "из", "или", "равно", "к"],
     "concepts": []
   },
   {
@@ -2490,7 +2499,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "квадрат", "оригинал", "из", "или", "равно", "к"],
     "concepts": []
   },
   {
@@ -2500,7 +2509,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["квадрат", "образ (изображение)", "из", "или", "не", "равно", "к"],
     "concepts": []
   },
   {
@@ -2510,7 +2519,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["квадрат", "оригинал", "из", "или", "не", "равно", "к"],
     "concepts": []
   },
   {
@@ -2520,7 +2529,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["меньше", "чем", "но", "не", "эквивалентный", "к"],
     "concepts": []
   },
   {
@@ -2530,7 +2539,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["больше", "чем", "но", "не", "эквивалентный", "к"],
     "concepts": []
   },
   {
@@ -2540,7 +2549,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["предшествует", "но", "не", "эквивалентный", "к"],
     "concepts": []
   },
   {
@@ -2550,7 +2559,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["следует", "но", "не", "эквивалентный", "к"],
     "concepts": []
   },
   {
@@ -2560,7 +2569,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "нормальный", "подгруппа", "из"],
     "concepts": []
   },
   {
@@ -2570,7 +2579,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "содержать", "как", "нормальный", "подгруппа"],
     "concepts": []
   },
   {
@@ -2580,7 +2589,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "нормальный", "подгруппа", "из", "или", "равно", "к"],
     "concepts": []
   },
   {
@@ -2604,7 +2613,7 @@
         "theory"
       ]
     },
-    "desc": [],
+    "desc": ["не", "содержать", "как", "нормальный", "подгруппа", "или", "равно"],
     "concepts": []
   },
   {
@@ -2617,8 +2626,8 @@
       "ru": ["вертикальное многоточие", "математика", "многоточие"],
       "en": ["ellipsis", "mathematics", "vertical"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["вертикальный", "многоточие"],
+    "concepts": ["constellation", "rain"]
   },
   {
     "cp": 8943,
@@ -2630,7 +2639,7 @@
       "ru": ["внутристрочное горизонтальное многоточие", "многоточие"],
       "en": ["ellipsis", "horizontal", "midline"]
     },
-    "desc": [],
+    "desc": ["средняя линия", "горизонтальный", "многоточие"],
     "concepts": []
   },
   {
@@ -2643,8 +2652,8 @@
       "ru": ["диагональное многоточие вверх вправо", "математика", "многоточие"],
       "en": ["diagonal", "ellipsis", "mathematics", "right", "up"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["вверх", "правый (вправо)", "диагональный", "многоточие"],
+    "concepts": ["constellation"]
   },
   {
     "cp": 8945,
@@ -2656,8 +2665,8 @@
       "ru": ["диагональное многоточие вниз вправо", "математика", "многоточие"],
       "en": ["diagonal", "down", "ellipsis", "mathematics", "right"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["вниз", "правый (вправо)", "диагональный", "многоточие"],
+    "concepts": ["constellation"]
   },
   {
     "cp": 8946,
@@ -2666,7 +2675,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["элемент", "из", "с", "длинный", "горизонтальный", "черта (штрих)"],
     "concepts": []
   },
   {
@@ -2676,7 +2685,17 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": [
+      "элемент",
+      "из",
+      "с",
+      "вертикальный",
+      "черта",
+      "при (собачка)",
+      "конец",
+      "горизонтальный",
+      "черта (штрих)"
+    ],
     "concepts": []
   },
   {
@@ -2686,7 +2705,18 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": [
+      "маленький (строчный)",
+      "элемент",
+      "из",
+      "с",
+      "вертикальный",
+      "черта",
+      "при (собачка)",
+      "конец",
+      "горизонтальный",
+      "черта (штрих)"
+    ],
     "concepts": []
   },
   {
@@ -2696,7 +2726,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["элемент", "из", "с", "точка", "сверху"],
     "concepts": []
   },
   {
@@ -2706,7 +2736,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["элемент", "из", "с", "черта сверху"],
     "concepts": []
   },
   {
@@ -2716,7 +2746,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["маленький (строчный)", "элемент", "из", "с", "черта сверху"],
     "concepts": []
   },
   {
@@ -2726,7 +2756,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["элемент", "из", "с", "подчёркивание"],
     "concepts": []
   },
   {
@@ -2736,7 +2766,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["элемент", "из", "с", "два", "горизонтальный", "черты"],
     "concepts": []
   },
   {
@@ -2746,7 +2776,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["содержит", "с", "длинный", "горизонтальный", "черта (штрих)"],
     "concepts": []
   },
   {
@@ -2756,7 +2786,17 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": [
+      "содержит",
+      "с",
+      "вертикальный",
+      "черта",
+      "при (собачка)",
+      "конец",
+      "из",
+      "горизонтальный",
+      "черта (штрих)"
+    ],
     "concepts": []
   },
   {
@@ -2766,7 +2806,18 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": [
+      "маленький (строчный)",
+      "содержит",
+      "с",
+      "вертикальный",
+      "черта",
+      "при (собачка)",
+      "конец",
+      "из",
+      "горизонтальный",
+      "черта (штрих)"
+    ],
     "concepts": []
   },
   {
@@ -2776,7 +2827,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["содержит", "с", "черта сверху"],
     "concepts": []
   },
   {
@@ -2786,7 +2837,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["маленький (строчный)", "содержит", "с", "черта сверху"],
     "concepts": []
   },
   {
@@ -2796,7 +2847,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["нотация", "мешок (сумка)", "принадлежность"],
+    "concepts": ["fog"]
   }
 ]

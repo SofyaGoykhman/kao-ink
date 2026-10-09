@@ -307,7 +307,9 @@ const searchWords = (texts) => [
 
 /**
  * out/search.json: { blocks: [id], concepts: [{id, ru, en, chars, like}],
- *   chars: [[char, blockIndex, "space separated words", ruLabel, enLabel]] }.
+ *   chars: [[char, blockIndex, "extra words", ruLabel, enLabel]] }.
+ * The site searches the labels plus the extra words (name, description and CLDR keywords
+ * not already in a label).
  * Labels: the CLDR name, else the Russian description / lowercased Unicode name.
  * Words come from the Unicode name, the Russian description and CLDR names and keywords;
  * the site normalizes and stems them when it loads the index.
@@ -318,16 +320,14 @@ function buildSearchIndex(entries, concepts) {
   for (const { block, records } of entries) {
     const b = blocks.push(block.id) - 1;
     for (const r of records) {
-      const words = searchWords([
-        r.name,
-        ...r.desc,
-        r.ru,
-        r.en,
-        ...r.keywords.ru,
-        ...r.keywords.en,
-      ]);
       const ru = r.ru ?? (r.desc.length ? r.desc.join(', ') : r.name.toLowerCase());
-      chars.push([r.char, b, words.join(' '), ru, r.en ?? r.name.toLowerCase()]);
+      const en = r.en ?? r.name.toLowerCase();
+      // Words already in the labels are not repeated; the site searches labels too.
+      const inLabels = new Set(searchWords([ru, en]));
+      const extra = searchWords([r.name, ...r.desc, ...r.keywords.ru, ...r.keywords.en]).filter(
+        (w) => !inLabels.has(w),
+      );
+      chars.push([r.char, b, extra.join(' '), ru, en]);
     }
   }
   return { blocks, concepts: concepts ?? [], chars };

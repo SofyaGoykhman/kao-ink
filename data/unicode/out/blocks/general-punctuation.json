@@ -6,7 +6,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["короткое (en)", "четверной"],
     "concepts": []
   },
   {
@@ -16,7 +16,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["круглая (em)", "четверной"],
     "concepts": []
   },
   {
@@ -26,7 +26,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["короткое (en)", "пробел"],
     "concepts": []
   },
   {
@@ -36,7 +36,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["круглая (em)", "пробел"],
     "concepts": []
   },
   {
@@ -46,7 +46,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["три", "на (per)", "круглая (em)", "пробел"],
     "concepts": []
   },
   {
@@ -56,7 +56,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["четыре", "на (per)", "круглая (em)", "пробел"],
     "concepts": []
   },
   {
@@ -66,7 +66,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["шесть", "на (per)", "круглая (em)", "пробел"],
     "concepts": []
   },
   {
@@ -76,7 +76,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["фигура", "пробел"],
     "concepts": []
   },
   {
@@ -86,7 +86,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["пунктуация", "пробел"],
     "concepts": []
   },
   {
@@ -96,7 +96,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["тонкий", "пробел"],
     "concepts": []
   },
   {
@@ -106,7 +106,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["волос (тонкий)", "пробел"],
     "concepts": []
   },
   {
@@ -116,7 +116,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ноль", "ширина", "пробел"],
     "concepts": []
   },
   {
@@ -126,7 +126,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ноль", "ширина", "не", "соединитель"],
     "concepts": []
   },
   {
@@ -136,7 +136,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ноль", "ширина", "соединитель"],
     "concepts": []
   },
   {
@@ -146,7 +146,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["левый (влево)", "к", "правый (вправо)", "метка (знак)"],
     "concepts": []
   },
   {
@@ -156,7 +156,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["правый (вправо)", "к", "левый (влево)", "метка (знак)"],
     "concepts": []
   },
   {
@@ -166,7 +166,7 @@
     "ru": "дефис",
     "en": "hyphen",
     "keywords": { "ru": ["дефис", "тире", "черточка"], "en": ["dash", "hyphen"] },
-    "desc": [],
+    "desc": ["дефис"],
     "concepts": []
   },
   {
@@ -176,7 +176,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["не", "разрывный", "дефис"],
     "concepts": []
   },
   {
@@ -186,7 +186,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["фигура", "тире"],
     "concepts": []
   },
   {
@@ -196,7 +196,7 @@
     "ru": "среднее тире",
     "en": "en dash",
     "keywords": { "ru": ["среднее", "тире"], "en": ["dash", "en"] },
-    "desc": [],
+    "desc": ["короткое (en)", "тире"],
     "concepts": []
   },
   {
@@ -206,7 +206,7 @@
     "ru": "длинное тире",
     "en": "em dash",
     "keywords": { "ru": ["длинное", "тире"], "en": ["dash", "em"] },
-    "desc": [],
+    "desc": ["круглая (em)", "тире"],
     "concepts": []
   },
   {
@@ -219,7 +219,7 @@
       "ru": ["горизонтальная линия", "горизонтальная полоса", "линия", "тире"],
       "en": ["bar", "dash", "horizontal", "line"]
     },
-    "desc": [],
+    "desc": ["горизонтальный", "черта"],
     "concepts": []
   },
   {
@@ -229,7 +229,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["двойной", "вертикальный", "линия"],
     "concepts": []
   },
   {
@@ -239,7 +239,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["двойной", "низкий", "линия"],
     "concepts": []
   },
   {
@@ -258,8 +258,8 @@
       ],
       "en": ["apostrophe", "left", "quote", "single", "smart"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["левый (влево)", "одинарный", "кавычка", "метка (знак)"],
+    "concepts": ["rain"]
   },
   {
     "cp": 8217,
@@ -277,7 +277,7 @@
       ],
       "en": ["apostrophe", "quote", "right", "single", "smart"]
     },
-    "desc": [],
+    "desc": ["правый (вправо)", "одинарный", "кавычка", "метка (знак)"],
     "concepts": []
   },
   {
@@ -297,7 +297,7 @@
       ],
       "en": ["apostrophe", "low", "quote", "right"]
     },
-    "desc": [],
+    "desc": ["одинарный", "низкий", "кавычка", "метка (знак)"],
     "concepts": []
   },
   {
@@ -307,7 +307,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["одинарный", "высокий", "зеркальный (обратный)", "кавычка", "метка (знак)"],
     "concepts": []
   },
   {
@@ -320,7 +320,7 @@
       "ru": ["двойная кавычка", "кавычка", "открывающая двойная кавычка", "открывающая кавычка"],
       "en": ["double", "left", "mark", "quotation", "quote", "smart"]
     },
-    "desc": [],
+    "desc": ["левый (влево)", "двойной", "кавычка", "метка (знак)"],
     "concepts": []
   },
   {
@@ -333,7 +333,7 @@
       "ru": ["двойная кавычка", "закрывающая двойная кавычка", "закрывающая кавычка", "кавычка"],
       "en": ["double", "mark", "quotation", "quote", "right", "smart"]
     },
-    "desc": [],
+    "desc": ["правый (вправо)", "двойной", "кавычка", "метка (знак)"],
     "concepts": []
   },
   {
@@ -352,7 +352,7 @@
       ],
       "en": ["double", "low", "mark", "quotation", "quote", "right", "smart"]
     },
-    "desc": [],
+    "desc": ["двойной", "низкий", "кавычка", "метка (знак)"],
     "concepts": []
   },
   {
@@ -362,7 +362,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["двойной", "высокий", "зеркальный (обратный)", "кавычка", "метка (знак)"],
     "concepts": []
   },
   {
@@ -375,7 +375,7 @@
       "ru": ["даггер", "крестик", "обелиск", "типографский крестик"],
       "en": ["dagger", "obelisk", "obelus", "sign"]
     },
-    "desc": [],
+    "desc": ["кинжал (крестик сноски)"],
     "concepts": []
   },
   {
@@ -388,7 +388,7 @@
       "ru": ["даггер", "двойной", "крестик", "обелиск"],
       "en": ["dagger", "double", "obelisk", "obelus", "sign"]
     },
-    "desc": [],
+    "desc": ["двойной", "кинжал (крестик сноски)"],
     "concepts": []
   },
   {
@@ -408,7 +408,7 @@
       ],
       "en": ["bullet", "dot"]
     },
-    "desc": [],
+    "desc": ["маркер списка (точка)"],
     "concepts": []
   },
   {
@@ -418,7 +418,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["треугольный", "маркер списка (точка)"],
     "concepts": []
   },
   {
@@ -428,7 +428,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["один", "точка", "отточие"],
     "concepts": []
   },
   {
@@ -438,7 +438,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["два", "точка", "отточие"],
     "concepts": []
   },
   {
@@ -451,7 +451,7 @@
       "ru": ["многоточие", "отточие", "точки"],
       "en": ["dots", "ellipsis", "omission"]
     },
-    "desc": [],
+    "desc": ["горизонтальный", "многоточие"],
     "concepts": []
   },
   {
@@ -464,8 +464,8 @@
       "ru": ["дефис", "перенос", "точка", "точка переноса"],
       "en": ["dash", "hyphen", "hyphenation", "point"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["перенос", "точка (кончик)"],
+    "concepts": ["sparkle"]
   },
   {
     "cp": 8232,
@@ -474,7 +474,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["линия", "разделитель"],
     "concepts": []
   },
   {
@@ -484,7 +484,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["абзац", "разделитель"],
     "concepts": []
   },
   {
@@ -494,7 +494,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["левый (влево)", "к", "правый (вправо)", "встраивание"],
     "concepts": []
   },
   {
@@ -504,7 +504,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["правый (вправо)", "к", "левый (влево)", "встраивание"],
     "concepts": []
   },
   {
@@ -514,7 +514,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["снятие (pop)", "направленный", "форматирование"],
     "concepts": []
   },
   {
@@ -524,7 +524,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["левый (влево)", "к", "правый (вправо)", "переопределение"],
     "concepts": []
   },
   {
@@ -534,7 +534,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["правый (вправо)", "к", "левый (влево)", "переопределение"],
     "concepts": []
   },
   {
@@ -544,7 +544,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["узкий", "нет", "разрыв", "пробел"],
     "concepts": []
   },
   {
@@ -557,7 +557,7 @@
       "ru": ["миллионная доля", "промилле"],
       "en": ["mil", "mille", "per", "permil", "permille"]
     },
-    "desc": [],
+    "desc": ["на (per)", "промилле", "знак"],
     "concepts": []
   },
   {
@@ -567,7 +567,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["на (per)", "десять", "тысяча", "знак"],
     "concepts": []
   },
   {
@@ -577,7 +577,7 @@
     "ru": "штрих",
     "en": "prime",
     "keywords": { "ru": ["прим", "штрих"], "en": ["prime"] },
-    "desc": [],
+    "desc": ["штрих"],
     "concepts": []
   },
   {
@@ -587,7 +587,7 @@
     "ru": "двойной штрих",
     "en": "double prime",
     "keywords": { "ru": ["двойной", "прим", "штрих"], "en": ["double", "prime"] },
-    "desc": [],
+    "desc": ["двойной", "штрих"],
     "concepts": []
   },
   {
@@ -597,7 +597,7 @@
     "ru": "тройной штрих",
     "en": "triple prime",
     "keywords": { "ru": ["прим", "тройной", "штрих"], "en": ["prime", "triple"] },
-    "desc": [],
+    "desc": ["тройной", "штрих"],
     "concepts": []
   },
   {
@@ -607,7 +607,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["зеркальный (обратный)", "штрих"],
     "concepts": []
   },
   {
@@ -617,7 +617,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["зеркальный (обратный)", "двойной", "штрих"],
     "concepts": []
   },
   {
@@ -627,7 +627,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["зеркальный (обратный)", "тройной", "штрих"],
     "concepts": []
   },
   {
@@ -637,7 +637,7 @@
     "ru": "карет",
     "en": "caret",
     "keywords": { "ru": ["знак вставки", "карет"], "en": ["caret"] },
-    "desc": [],
+    "desc": ["каретка"],
     "concepts": []
   },
   {
@@ -647,7 +647,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["одинарный", "левый (влево)", "указывающий", "угол", "кавычка", "метка (знак)"],
     "concepts": []
   },
   {
@@ -657,7 +657,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["одинарный", "правый (вправо)", "указывающий", "угол", "кавычка", "метка (знак)"],
     "concepts": []
   },
   {
@@ -667,8 +667,8 @@
     "ru": "знак сноски",
     "en": "reference mark",
     "keywords": { "ru": ["знак", "знак сноски", "сноска"], "en": ["mark", "reference"] },
-    "desc": [],
-    "concepts": []
+    "desc": ["сноска (ссылка)", "метка (знак)"],
+    "concepts": ["asterisk", "asterism", "snow"]
   },
   {
     "cp": 8252,
@@ -690,7 +690,7 @@
       ],
       "en": ["!", "!!", "bangbang", "double", "exclamation", "mark", "punctuation"]
     },
-    "desc": [],
+    "desc": ["двойной", "восклицательный", "метка (знак)"],
     "concepts": []
   },
   {
@@ -700,7 +700,7 @@
     "ru": "интерробанг",
     "en": "interrobang",
     "keywords": { "ru": ["интерробанг"], "en": ["interabang", "interrobang"] },
-    "desc": [],
+    "desc": ["интерробанг (?!)"],
     "concepts": []
   },
   {
@@ -710,7 +710,7 @@
     "ru": "надчеркивание",
     "en": "overline",
     "keywords": { "ru": ["надчеркивание"], "en": ["overline", "overstrike", "vinculum"] },
-    "desc": [],
+    "desc": ["надчёркивание"],
     "concepts": []
   },
   {
@@ -720,8 +720,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["нижняя лига"],
+    "concepts": ["water", "wave"]
   },
   {
     "cp": 8256,
@@ -730,8 +730,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["символ", "лига (галстук)"],
+    "concepts": ["rainbow", "water", "wave"]
   },
   {
     "cp": 8257,
@@ -740,7 +740,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["каретка", "вставка", "точка (кончик)"],
     "concepts": []
   },
   {
@@ -750,8 +750,17 @@
     "ru": "астеризм",
     "en": "asterism",
     "keywords": { "ru": ["астеризм", "три звездочки"], "en": ["asterism", "dinkus", "stars"] },
-    "desc": [],
-    "concepts": []
+    "desc": ["астеризм (три звёздочки)"],
+    "concepts": [
+      "star",
+      "sparkle",
+      "asterisk",
+      "asterism",
+      "constellation",
+      "flower",
+      "weather",
+      "snow"
+    ]
   },
   {
     "cp": 8259,
@@ -760,7 +769,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["дефис", "маркер списка (точка)"],
     "concepts": []
   },
   {
@@ -773,8 +782,8 @@
       "ru": ["дробная наклонная черта"],
       "en": ["fraction", "slash", "stroke", "virgule"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["дробь", "слэш (косая черта)"],
+    "concepts": ["rain"]
   },
   {
     "cp": 8261,
@@ -783,7 +792,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["левый (влево)", "квадрат", "скобка", "с", "перо (гусиное)"],
     "concepts": []
   },
   {
@@ -793,7 +802,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["правый (вправо)", "квадрат", "скобка", "с", "перо (гусиное)"],
     "concepts": []
   },
   {
@@ -803,7 +812,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["двойной", "вопрос", "метка (знак)"],
     "concepts": []
   },
   {
@@ -813,7 +822,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["вопрос", "восклицательный", "метка (знак)"],
     "concepts": []
   },
   {
@@ -835,7 +844,7 @@
       ],
       "en": ["!", "!?", "?", "exclamation", "interrobang", "mark", "punctuation", "question"]
     },
-    "desc": [],
+    "desc": ["восклицательный", "вопрос", "метка (знак)"],
     "concepts": []
   },
   {
@@ -845,7 +854,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["тиронов", "знак", "и (et)"],
     "concepts": []
   },
   {
@@ -855,7 +864,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["зеркальный (обратный)", "знак абзаца (¶)", "знак"],
     "concepts": []
   },
   {
@@ -865,7 +874,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "влево", "маркер списка (точка)"],
     "concepts": []
   },
   {
@@ -875,7 +884,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "вправо", "маркер списка (точка)"],
     "concepts": []
   },
   {
@@ -885,8 +894,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["низкий", "звёздочка (астериск)"],
+    "concepts": ["star", "star-small", "sparkle", "asterisk", "asterism", "snow"]
   },
   {
     "cp": 8271,
@@ -895,8 +904,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["зеркальный (обратный)", "точка с запятой"],
+    "concepts": ["rain"]
   },
   {
     "cp": 8272,
@@ -905,7 +914,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["закрыть", "вверх"],
     "concepts": []
   },
   {
@@ -915,8 +924,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["два", "звёздочки", "выровненный", "вертикально"],
+    "concepts": ["star", "sparkle", "asterisk", "asterism", "snow"]
   },
   {
     "cp": 8274,
@@ -925,8 +934,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["коммерческий", "минус", "знак"],
+    "concepts": ["rain"]
   },
   {
     "cp": 8275,
@@ -935,8 +944,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["волнистое", "тире"],
+    "concepts": ["water", "wave"]
   },
   {
     "cp": 8276,
@@ -945,8 +954,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["перевёрнутый", "нижняя лига"],
+    "concepts": ["rainbow"]
   },
   {
     "cp": 8277,
@@ -955,8 +964,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["цветок", "пунктуация", "метка (знак)"],
+    "concepts": ["star", "star-small", "sparkle", "asterisk", "flower", "snow"]
   },
   {
     "cp": 8278,
@@ -965,8 +974,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["три", "точка", "пунктуация"],
+    "concepts": ["asterism", "constellation"]
   },
   {
     "cp": 8279,
@@ -975,7 +984,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["четверной", "штрих"],
     "concepts": []
   },
   {
@@ -985,8 +994,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["четыре", "точка", "пунктуация"],
+    "concepts": ["asterism", "constellation", "clover"]
   },
   {
     "cp": 8281,
@@ -995,8 +1004,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["пять", "точка", "пунктуация"],
+    "concepts": ["constellation"]
   },
   {
     "cp": 8282,
@@ -1005,7 +1014,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["два", "точка", "пунктуация"],
     "concepts": []
   },
   {
@@ -1015,7 +1024,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["четыре", "точка", "метка (знак)"],
     "concepts": []
   },
   {
@@ -1025,8 +1034,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["пунктирный (с точкой)", "крест"],
+    "concepts": ["asterisk", "asterism", "clover"]
   },
   {
     "cp": 8285,
@@ -1035,8 +1044,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["троеточие (тройное двоеточие)"],
+    "concepts": ["rain"]
   },
   {
     "cp": 8286,
@@ -1045,8 +1054,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["вертикальный", "четыре", "точки"],
+    "concepts": ["rain"]
   },
   {
     "cp": 8287,
@@ -1055,7 +1064,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["средний", "математический", "пробел"],
     "concepts": []
   },
   {
@@ -1065,7 +1074,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["слово", "соединитель"],
     "concepts": []
   },
   {
@@ -1075,7 +1084,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["функция", "применение"],
     "concepts": []
   },
   {
@@ -1085,7 +1094,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["невидимый", "умножить (раз)"],
     "concepts": []
   },
   {
@@ -1095,7 +1104,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["невидимый", "разделитель"],
     "concepts": []
   },
   {
@@ -1105,7 +1114,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["невидимый", "плюс"],
     "concepts": []
   },
   {
@@ -1115,7 +1124,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["левый (влево)", "к", "правый (вправо)", "изолят"],
     "concepts": []
   },
   {
@@ -1125,7 +1134,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["правый (вправо)", "к", "левый (влево)", "изолят"],
     "concepts": []
   },
   {
@@ -1135,7 +1144,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["первый", "сильный", "изолят"],
     "concepts": []
   },
   {
@@ -1145,7 +1154,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["снятие (pop)", "направленный", "изолят"],
     "concepts": []
   },
   {
@@ -1155,7 +1164,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["запрет", "симметричный", "замена"],
     "concepts": []
   },
   {
@@ -1165,7 +1174,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["включить", "симметричный", "замена"],
     "concepts": []
   },
   {
@@ -1175,7 +1184,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["запрет", "арабский", "форма", "формирование"],
     "concepts": []
   },
   {
@@ -1185,7 +1194,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["включить", "арабский", "форма", "формирование"],
     "concepts": []
   },
   {
@@ -1195,7 +1204,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["национальный", "цифра", "формы"],
     "concepts": []
   },
   {
@@ -1205,7 +1214,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["номинальный", "цифра", "формы"],
     "concepts": []
   }
 ]

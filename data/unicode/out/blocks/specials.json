@@ -6,7 +6,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["подстрочный", "аннотация", "якорь"],
     "concepts": []
   },
   {
@@ -16,7 +16,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["подстрочный", "аннотация", "разделитель"],
     "concepts": []
   },
   {
@@ -26,7 +26,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["подстрочный", "аннотация", "завершитель"],
     "concepts": []
   },
   {
@@ -36,7 +36,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["объект", "замена", "символ"],
     "concepts": []
   },
   {
@@ -46,7 +46,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["замена", "символ"],
     "concepts": []
   }
 ]

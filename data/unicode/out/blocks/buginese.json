@@ -6,7 +6,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "буква", "ка"],
     "concepts": []
   },
   {
@@ -16,7 +16,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "буква", "га"],
     "concepts": []
   },
   {
@@ -26,7 +26,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "буква", "нга"],
     "concepts": []
   },
   {
@@ -36,7 +36,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "буква"],
     "concepts": []
   },
   {
@@ -46,7 +46,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "буква", "па"],
     "concepts": []
   },
   {
@@ -56,7 +56,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "буква", "ба"],
     "concepts": []
   },
   {
@@ -66,7 +66,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "буква", "ма"],
     "concepts": []
   },
   {
@@ -76,7 +76,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "буква"],
     "concepts": []
   },
   {
@@ -86,7 +86,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "буква", "та"],
     "concepts": []
   },
   {
@@ -96,7 +96,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "буква", "да"],
     "concepts": []
   },
   {
@@ -106,7 +106,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "буква", "на"],
     "concepts": []
   },
   {
@@ -116,7 +116,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "буква", "нра"],
     "concepts": []
   },
   {
@@ -126,7 +126,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "буква", "ча"],
     "concepts": []
   },
   {
@@ -136,7 +136,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "буква", "джа"],
     "concepts": []
   },
   {
@@ -146,7 +146,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "буква", "ня"],
     "concepts": []
   },
   {
@@ -156,8 +156,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["бугийский", "буква"],
+    "concepts": ["cloud"]
   },
   {
     "cp": 6672,
@@ -166,8 +166,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["бугийский", "буква", "я"],
+    "concepts": ["cloud", "fire", "wave", "spiral"]
   },
   {
     "cp": 6673,
@@ -176,7 +176,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "буква", "ра"],
     "concepts": []
   },
   {
@@ -186,8 +186,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["бугийский", "буква", "ла"],
+    "concepts": ["lotus"]
   },
   {
     "cp": 6675,
@@ -196,8 +196,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["бугийский", "буква", "ва"],
+    "concepts": ["mountain"]
   },
   {
     "cp": 6676,
@@ -206,7 +206,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "буква", "са"],
     "concepts": []
   },
   {
@@ -216,7 +216,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "буква"],
     "concepts": []
   },
   {
@@ -226,7 +226,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "буква", "ха"],
     "concepts": []
   },
   {
@@ -236,7 +236,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -246,7 +246,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -256,7 +256,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -266,7 +266,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -276,7 +276,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "гласная", "знак", "ae (лигатура)"],
     "concepts": []
   },
   {
@@ -286,7 +286,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский"],
     "concepts": []
   },
   {
@@ -296,7 +296,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бугийский", "конец", "из", "параграф (раздел)"],
     "concepts": []
   }
 ]

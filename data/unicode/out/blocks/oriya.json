@@ -6,7 +6,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "знак", "чандрабинду"],
     "concepts": []
   },
   {
@@ -16,7 +16,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "знак", "анусвара"],
     "concepts": []
   },
   {
@@ -26,7 +26,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "знак", "висарга"],
     "concepts": []
   },
   {
@@ -36,7 +36,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква"],
     "concepts": []
   },
   {
@@ -46,7 +46,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "аа"],
     "concepts": []
   },
   {
@@ -56,7 +56,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква"],
     "concepts": []
   },
   {
@@ -66,7 +66,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "ии"],
     "concepts": []
   },
   {
@@ -76,7 +76,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква"],
     "concepts": []
   },
   {
@@ -86,7 +86,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "уу"],
     "concepts": []
   },
   {
@@ -96,7 +96,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "слоговой (вокалический)"],
     "concepts": []
   },
   {
@@ -106,7 +106,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "слоговой (вокалический)"],
     "concepts": []
   },
   {
@@ -116,7 +116,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква"],
     "concepts": []
   },
   {
@@ -126,7 +126,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "аи"],
     "concepts": []
   },
   {
@@ -136,8 +136,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["ория", "буква"],
+    "concepts": ["spiral"]
   },
   {
     "cp": 2836,
@@ -146,7 +146,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "ау"],
     "concepts": []
   },
   {
@@ -156,7 +156,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "ка"],
     "concepts": []
   },
   {
@@ -166,7 +166,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "кха"],
     "concepts": []
   },
   {
@@ -176,7 +176,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "га"],
     "concepts": []
   },
   {
@@ -186,7 +186,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "гха"],
     "concepts": []
   },
   {
@@ -196,7 +196,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "нга"],
     "concepts": []
   },
   {
@@ -206,7 +206,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "ча"],
     "concepts": []
   },
   {
@@ -216,7 +216,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "ча"],
     "concepts": []
   },
   {
@@ -226,7 +226,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "джа"],
     "concepts": []
   },
   {
@@ -236,7 +236,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "джха"],
     "concepts": []
   },
   {
@@ -246,7 +246,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "ня"],
     "concepts": []
   },
   {
@@ -256,7 +256,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "тта"],
     "concepts": []
   },
   {
@@ -266,7 +266,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "ттха"],
     "concepts": []
   },
   {
@@ -276,7 +276,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "дда"],
     "concepts": []
   },
   {
@@ -286,7 +286,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "ддха"],
     "concepts": []
   },
   {
@@ -296,7 +296,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "нна"],
     "concepts": []
   },
   {
@@ -306,7 +306,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "та"],
     "concepts": []
   },
   {
@@ -316,7 +316,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "тха"],
     "concepts": []
   },
   {
@@ -326,7 +326,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "да"],
     "concepts": []
   },
   {
@@ -336,7 +336,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "дха"],
     "concepts": []
   },
   {
@@ -346,7 +346,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "на"],
     "concepts": []
   },
   {
@@ -356,7 +356,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "па"],
     "concepts": []
   },
   {
@@ -366,7 +366,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "пха"],
     "concepts": []
   },
   {
@@ -376,7 +376,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "ба"],
     "concepts": []
   },
   {
@@ -386,7 +386,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "бха"],
     "concepts": []
   },
   {
@@ -396,7 +396,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "ма"],
     "concepts": []
   },
   {
@@ -406,7 +406,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "я"],
     "concepts": []
   },
   {
@@ -416,7 +416,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "ра"],
     "concepts": []
   },
   {
@@ -426,7 +426,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "ла"],
     "concepts": []
   },
   {
@@ -436,7 +436,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "лла"],
     "concepts": []
   },
   {
@@ -446,7 +446,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "ва"],
     "concepts": []
   },
   {
@@ -456,7 +456,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "ша"],
     "concepts": []
   },
   {
@@ -466,7 +466,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "сса"],
     "concepts": []
   },
   {
@@ -476,7 +476,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "са"],
     "concepts": []
   },
   {
@@ -486,7 +486,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "ха"],
     "concepts": []
   },
   {
@@ -496,7 +496,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "знак", "нукта"],
     "concepts": []
   },
   {
@@ -506,8 +506,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["ория", "знак", "аваграха"],
+    "concepts": ["drop"]
   },
   {
     "cp": 2878,
@@ -516,7 +516,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "гласная", "знак", "аа"],
     "concepts": []
   },
   {
@@ -526,7 +526,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -536,7 +536,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "гласная", "знак", "ии"],
     "concepts": []
   },
   {
@@ -546,7 +546,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -556,7 +556,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "гласная", "знак", "уу"],
     "concepts": []
   },
   {
@@ -566,7 +566,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "гласная", "знак", "слоговой (вокалический)"],
     "concepts": []
   },
   {
@@ -576,7 +576,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "гласная", "знак", "слоговой (вокалический)", "рр"],
     "concepts": []
   },
   {
@@ -586,7 +586,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -596,7 +596,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "гласная", "знак", "аи"],
     "concepts": []
   },
   {
@@ -606,7 +606,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -616,7 +616,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "гласная", "знак", "ау"],
     "concepts": []
   },
   {
@@ -626,7 +626,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "знак", "вирама"],
     "concepts": []
   },
   {
@@ -636,7 +636,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "знак", "точка", "сверху"],
     "concepts": []
   },
   {
@@ -646,7 +646,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "знак", "двойной", "точка", "сверху"],
     "concepts": []
   },
   {
@@ -656,7 +656,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "знак", "надчёркивание"],
     "concepts": []
   },
   {
@@ -666,7 +666,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "аи", "долгота", "метка (знак)"],
     "concepts": []
   },
   {
@@ -676,7 +676,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "ау", "долгота", "метка (знак)"],
     "concepts": []
   },
   {
@@ -686,7 +686,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "рра"],
     "concepts": []
   },
   {
@@ -696,7 +696,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "рха"],
     "concepts": []
   },
   {
@@ -706,7 +706,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "йя"],
     "concepts": []
   },
   {
@@ -716,8 +716,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["ория", "буква", "слоговой (вокалический)", "рр"],
+    "concepts": ["spiral"]
   },
   {
     "cp": 2913,
@@ -726,7 +726,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "слоговой (вокалический)", "лл"],
     "concepts": []
   },
   {
@@ -736,7 +736,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "гласная", "знак", "слоговой (вокалический)"],
     "concepts": []
   },
   {
@@ -746,7 +746,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "гласная", "знак", "слоговой (вокалический)", "лл"],
     "concepts": []
   },
   {
@@ -756,7 +756,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "цифра", "ноль"],
     "concepts": []
   },
   {
@@ -766,8 +766,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["ория", "цифра", "один"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 2920,
@@ -776,8 +776,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["ория", "цифра", "два"],
+    "concepts": ["rose", "leaf"]
   },
   {
     "cp": 2921,
@@ -786,7 +786,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "цифра", "три"],
     "concepts": []
   },
   {
@@ -796,7 +796,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "цифра", "четыре"],
     "concepts": []
   },
   {
@@ -806,7 +806,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "цифра", "пять"],
     "concepts": []
   },
   {
@@ -816,7 +816,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "цифра", "шесть"],
     "concepts": []
   },
   {
@@ -826,8 +826,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["ория", "цифра", "семь"],
+    "concepts": ["rose", "spiral"]
   },
   {
     "cp": 2926,
@@ -836,7 +836,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "цифра", "восемь"],
     "concepts": []
   },
   {
@@ -846,8 +846,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["ория", "цифра", "девять"],
+    "concepts": ["spiral"]
   },
   {
     "cp": 2928,
@@ -856,7 +856,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория"],
     "concepts": []
   },
   {
@@ -866,7 +866,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "буква", "ва"],
     "concepts": []
   },
   {
@@ -876,7 +876,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "дробь", "один", "четверть"],
     "concepts": []
   },
   {
@@ -886,7 +886,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "дробь", "один", "половина"],
     "concepts": []
   },
   {
@@ -896,7 +896,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "дробь", "три", "четверти"],
     "concepts": []
   },
   {
@@ -906,7 +906,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "дробь", "один", "шестнадцатая"],
     "concepts": []
   },
   {
@@ -916,7 +916,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "дробь", "один", "восьмая"],
     "concepts": []
   },
   {
@@ -926,7 +926,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ория", "дробь", "три", "шестнадцатые"],
     "concepts": []
   }
 ]

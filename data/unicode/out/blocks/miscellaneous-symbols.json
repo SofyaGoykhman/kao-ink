@@ -9,8 +9,8 @@
       "ru": ["жарко", "лучи", "планета", "погода", "солнце"],
       "en": ["bright", "rays", "space", "sun", "sunny", "weather"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["чёрный (закрашенный)", "солнце", "с", "лучи"],
+    "concepts": ["sun", "weather"]
   },
   {
     "cp": 9729,
@@ -19,8 +19,8 @@
     "ru": "облако",
     "en": "cloud",
     "keywords": { "ru": ["небо", "облако", "туча"], "en": ["cloud", "weather"] },
-    "desc": [],
-    "concepts": []
+    "desc": ["облако"],
+    "concepts": ["weather", "cloud"]
   },
   {
     "cp": 9730,
@@ -32,8 +32,8 @@
       "ru": ["вода", "дождь", "зонт", "зонтик", "осадки", "открытый зонт", "погода"],
       "en": ["clothing", "rain", "umbrella"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["зонтик"],
+    "concepts": ["mushroom", "weather", "rain", "umbrella"]
   },
   {
     "cp": 9731,
@@ -45,8 +45,8 @@
       "ru": ["снег", "снеговик", "снеговик под снегом", "фигура", "человек", "человечек"],
       "en": ["cold", "man", "snow", "snowman"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["снеговик"],
+    "concepts": ["weather", "snow", "snowman"]
   },
   {
     "cp": 9732,
@@ -58,8 +58,8 @@
       "ru": ["комета", "космос", "метеор", "метеорит", "метеоритный дождь", "небо", "планета"],
       "en": ["comet", "space"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["комета"],
+    "concepts": ["shooting-star", "constellation", "weather"]
   },
   {
     "cp": 9733,
@@ -68,8 +68,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["чёрный (закрашенный)", "звезда"],
+    "concepts": ["star", "star-five", "weather"]
   },
   {
     "cp": 9734,
@@ -78,8 +78,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["белый (контурный)", "звезда"],
+    "concepts": ["star", "star-five"]
   },
   {
     "cp": 9735,
@@ -88,8 +88,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["молния"],
+    "concepts": ["weather", "lightning"]
   },
   {
     "cp": 9736,
@@ -98,8 +98,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["гроза"],
+    "concepts": ["weather", "lightning"]
   },
   {
     "cp": 9737,
@@ -108,8 +108,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["солнце"],
+    "concepts": ["planet", "sun", "elements"]
   },
   {
     "cp": 9738,
@@ -118,8 +118,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["восходящий", "узел"],
+    "concepts": ["moon"]
   },
   {
     "cp": 9739,
@@ -128,8 +128,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["нисходящий", "узел"],
+    "concepts": ["moon"]
   },
   {
     "cp": 9740,
@@ -138,8 +138,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["соединение"],
+    "concepts": ["eclipse"]
   },
   {
     "cp": 9741,
@@ -148,7 +148,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["противостояние"],
     "concepts": []
   },
   {
@@ -158,7 +158,7 @@
     "ru": "телефон",
     "en": "telephone",
     "keywords": { "ru": ["аппарат", "линия", "телефон", "трубка"], "en": ["phone", "telephone"] },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "телефон"],
     "concepts": []
   },
   {
@@ -168,7 +168,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["белый (контурный)", "телефон"],
     "concepts": []
   },
   {
@@ -178,7 +178,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бюллетень (галочка)", "рамка (псевдографика)"],
     "concepts": []
   },
   {
@@ -202,7 +202,7 @@
       ],
       "en": ["✓", "ballot", "box", "check", "checked", "done", "off", "tick"]
     },
-    "desc": [],
+    "desc": ["бюллетень (галочка)", "рамка (псевдографика)", "с", "галочка (проверка)"],
     "concepts": []
   },
   {
@@ -212,7 +212,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бюллетень (галочка)", "рамка (псевдографика)", "с"],
     "concepts": []
   },
   {
@@ -222,7 +222,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["косой крест"],
     "concepts": []
   },
   {
@@ -232,7 +232,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["белый (контурный)", "сёги", "фигура (деталь)"],
     "concepts": []
   },
   {
@@ -242,7 +242,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "сёги", "фигура (деталь)"],
     "concepts": []
   },
   {
@@ -255,8 +255,8 @@
       "ru": ["Ирландия", "клевер", "растение", "трилистник"],
       "en": ["irish", "plant", "shamrock"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["трилистник (клевер)"],
+    "concepts": ["leaf", "clover", "plant"]
   },
   {
     "cp": 9753,
@@ -265,8 +265,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["зеркальный (обратный)", "повёрнутый", "цветочный", "сердце", "маркер списка (точка)"],
+    "concepts": ["heart", "heart-floral", "leaf"]
   },
   {
     "cp": 9754,
@@ -275,7 +275,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "левый (влево)", "указывающий", "указательный"],
     "concepts": []
   },
   {
@@ -285,7 +285,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "правый (вправо)", "указывающий", "указательный"],
     "concepts": []
   },
   {
@@ -295,7 +295,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["белый (контурный)", "левый (влево)", "указывающий", "указательный"],
     "concepts": []
   },
   {
@@ -308,7 +308,7 @@
       "ru": ["вверх", "внимание", "направление", "палец", "послушайте", "рука", "указательный"],
       "en": ["finger", "hand", "index", "point", "pointing", "this", "up"]
     },
-    "desc": [],
+    "desc": ["белый (контурный)", "вверх", "указывающий", "указательный"],
     "concepts": []
   },
   {
@@ -318,7 +318,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["белый (контурный)", "правый (вправо)", "указывающий", "указательный"],
     "concepts": []
   },
   {
@@ -328,7 +328,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["белый (контурный)", "вниз", "указывающий", "указательный"],
     "concepts": []
   },
   {
@@ -341,7 +341,7 @@
       "ru": ["конец", "кости", "метка", "опасно", "пират", "смерть", "умереть", "флаг", "череп"],
       "en": ["bone", "crossbones", "dead", "death", "face", "monster", "skull"]
     },
-    "desc": [],
+    "desc": ["череп", "и", "скрещённые кости"],
     "concepts": []
   },
   {
@@ -351,7 +351,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["осторожно", "знак"],
     "concepts": []
   },
   {
@@ -364,7 +364,7 @@
       "ru": ["знак", "опасность", "радиация", "радиоактивность", "символ", "угроза"],
       "en": ["radioactive", "sign"]
     },
-    "desc": [],
+    "desc": ["радиация", "знак"],
     "concepts": []
   },
   {
@@ -377,7 +377,7 @@
       "ru": ["биологическая", "знак", "опасность", "угроза", "химическая"],
       "en": ["biohazard", "sign"]
     },
-    "desc": [],
+    "desc": ["биологическая опасность", "знак"],
     "concepts": []
   },
   {
@@ -387,7 +387,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["кадуцей"],
     "concepts": []
   },
   {
@@ -397,8 +397,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["анх"],
+    "concepts": ["female"]
   },
   {
     "cp": 9766,
@@ -418,7 +418,7 @@
       ],
       "en": ["Christian", "cross", "orthodox", "religion"]
     },
-    "desc": [],
+    "desc": ["православный", "крест"],
     "concepts": []
   },
   {
@@ -428,7 +428,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["хи", "ро"],
     "concepts": []
   },
   {
@@ -438,7 +438,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["крест", "из", "лотарингский"],
     "concepts": []
   },
   {
@@ -448,7 +448,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["крест", "из", "иерусалимский"],
     "concepts": []
   },
   {
@@ -472,8 +472,8 @@
       ],
       "en": ["crescent", "islam", "Muslim", "ramadan", "religion", "star"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["звезда", "и", "полумесяц"],
+    "concepts": ["moon"]
   },
   {
     "cp": 9771,
@@ -482,7 +482,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["персидский (фарси)", "символ"],
     "concepts": []
   },
   {
@@ -492,7 +492,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ади", "шакти"],
     "concepts": []
   },
   {
@@ -502,7 +502,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["молот", "и", "серп"],
     "concepts": []
   },
   {
@@ -515,7 +515,7 @@
       "ru": ["значок", "мир", "пацифизм", "пацифик", "символ"],
       "en": ["healing", "peace", "peaceful", "symbol"]
     },
-    "desc": [],
+    "desc": ["мир (пацифик)", "символ"],
     "concepts": []
   },
   {
@@ -528,7 +528,7 @@
       "ru": ["вера", "инь", "инь-ян", "инь-янь", "религия", "символ", "тао", "таоизм", "ян", "янь"],
       "en": ["difficult", "lives", "religion", "tao", "taoist", "total", "yang", "yin", "yinyang"]
     },
-    "desc": [],
+    "desc": ["инь", "ян"],
     "concepts": []
   },
   {
@@ -538,8 +538,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["триграмма", "для", "небо"],
+    "concepts": ["fog"]
   },
   {
     "cp": 9777,
@@ -548,7 +548,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["триграмма", "для", "озеро"],
     "concepts": []
   },
   {
@@ -558,8 +558,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["триграмма", "для", "огонь"],
+    "concepts": ["fire"]
   },
   {
     "cp": 9779,
@@ -568,7 +568,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["триграмма", "для", "гром"],
     "concepts": []
   },
   {
@@ -578,8 +578,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["триграмма", "для", "ветер"],
+    "concepts": ["wind", "fog", "air"]
   },
   {
     "cp": 9781,
@@ -588,8 +588,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["триграмма", "для", "вода"],
+    "concepts": ["water"]
   },
   {
     "cp": 9782,
@@ -598,8 +598,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["триграмма", "для", "гора"],
+    "concepts": ["mountain"]
   },
   {
     "cp": 9783,
@@ -608,8 +608,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["триграмма", "для", "земля"],
+    "concepts": ["earth"]
   },
   {
     "cp": 9784,
@@ -621,8 +621,8 @@
       "ru": ["буддизм", "буддийский", "дхарма", "колесо", "религия"],
       "en": ["Buddhist", "dharma", "religion", "wheel"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["колесо", "из", "дхармы"],
+    "concepts": ["sun", "lotus"]
   },
   {
     "cp": 9785,
@@ -643,7 +643,7 @@
       ],
       "en": ["face", "frown", "frowning", "sad"]
     },
-    "desc": [],
+    "desc": ["белый (контурный)", "хмурый", "лицо (смайлик)"],
     "concepts": []
   },
   {
@@ -666,7 +666,7 @@
       ],
       "en": ["face", "happy", "outlined", "relaxed", "smile", "smiling"]
     },
-    "desc": [],
+    "desc": ["белый (контурный)", "улыбающийся", "лицо (смайлик)"],
     "concepts": []
   },
   {
@@ -676,8 +676,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["чёрный (закрашенный)", "улыбающийся", "лицо (смайлик)"],
+    "concepts": ["snowman"]
   },
   {
     "cp": 9788,
@@ -686,8 +686,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["белый (контурный)", "солнце", "с", "лучи"],
+    "concepts": ["star", "sparkle", "sun", "weather"]
   },
   {
     "cp": 9789,
@@ -696,8 +696,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["первый", "четверть", "луна"],
+    "concepts": ["moon", "night", "elements"]
   },
   {
     "cp": 9790,
@@ -706,8 +706,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["последний", "четверть", "луна"],
+    "concepts": ["moon", "night", "sleep"]
   },
   {
     "cp": 9791,
@@ -716,8 +716,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["Меркурий (ртуть)"],
+    "concepts": ["gender", "planet", "elements"]
   },
   {
     "cp": 9792,
@@ -729,8 +729,8 @@
       "ru": ["венера", "женский символ", "женщина", "символ"],
       "en": ["female", "sign", "woman"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["женский", "знак"],
+    "concepts": ["female", "gender", "planet", "elements"]
   },
   {
     "cp": 9793,
@@ -739,8 +739,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["земля"],
+    "concepts": ["female", "male", "planet", "earth"]
   },
   {
     "cp": 9794,
@@ -752,8 +752,8 @@
       "ru": ["марс", "мужской символ", "мужчина", "символ"],
       "en": ["male", "man", "sign"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["мужской", "знак"],
+    "concepts": ["male", "gender", "planet", "elements"]
   },
   {
     "cp": 9795,
@@ -762,8 +762,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["Юпитер"],
+    "concepts": ["planet", "elements"]
   },
   {
     "cp": 9796,
@@ -772,8 +772,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["Сатурн"],
+    "concepts": ["planet", "elements"]
   },
   {
     "cp": 9797,
@@ -782,8 +782,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["Уран"],
+    "concepts": ["planet"]
   },
   {
     "cp": 9798,
@@ -792,8 +792,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["Нептун"],
+    "concepts": ["planet"]
   },
   {
     "cp": 9799,
@@ -802,8 +802,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["Плутон"],
+    "concepts": ["planet"]
   },
   {
     "cp": 9812,
@@ -812,7 +812,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["белый (контурный)", "шахматы", "король"],
     "concepts": []
   },
   {
@@ -822,7 +822,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["белый (контурный)", "шахматы", "ферзь (королева)"],
     "concepts": []
   },
   {
@@ -832,7 +832,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["белый (контурный)", "шахматы", "ладья"],
     "concepts": []
   },
   {
@@ -842,7 +842,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["белый (контурный)", "шахматы", "слон"],
     "concepts": []
   },
   {
@@ -852,7 +852,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["белый (контурный)", "шахматы", "конь"],
     "concepts": []
   },
   {
@@ -862,7 +862,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["белый (контурный)", "шахматы", "пешка"],
     "concepts": []
   },
   {
@@ -872,7 +872,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "шахматы", "король"],
     "concepts": []
   },
   {
@@ -882,7 +882,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "шахматы", "ферзь (королева)"],
     "concepts": []
   },
   {
@@ -892,7 +892,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "шахматы", "ладья"],
     "concepts": []
   },
   {
@@ -902,7 +902,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "шахматы", "слон"],
     "concepts": []
   },
   {
@@ -912,7 +912,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "шахматы", "конь"],
     "concepts": []
   },
   {
@@ -925,7 +925,7 @@
       "ru": ["игра", "пешка", "фигура", "шахматная фигура", "шахматы"],
       "en": ["chess", "dupe", "expendable", "pawn"]
     },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "шахматы", "пешка"],
     "concepts": []
   },
   {
@@ -938,7 +938,7 @@
       "ru": ["игра", "карты", "масть", "пики"],
       "en": ["card", "game", "spade", "suit"]
     },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "пика (лопата)", "масть"],
     "concepts": []
   },
   {
@@ -948,8 +948,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["белый (контурный)", "сердце", "масть"],
+    "concepts": ["heart", "heart-white", "heart-broken", "couple"]
   },
   {
     "cp": 9826,
@@ -958,7 +958,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["белый (контурный)", "ромб", "масть"],
     "concepts": []
   },
   {
@@ -971,8 +971,8 @@
       "ru": ["игра", "карты", "масть", "трефы"],
       "en": ["card", "club", "clubs", "game", "suit"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["чёрный (закрашенный)", "трефа (булава)", "масть"],
+    "concepts": ["clover"]
   },
   {
     "cp": 9828,
@@ -981,8 +981,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["белый (контурный)", "пика (лопата)", "масть"],
+    "concepts": ["heart"]
   },
   {
     "cp": 9829,
@@ -994,8 +994,8 @@
       "ru": ["игра", "карты", "масть", "червы"],
       "en": ["card", "emotion", "game", "heart", "hearts", "suit"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["чёрный (закрашенный)", "сердце", "масть"],
+    "concepts": ["heart", "heart-black"]
   },
   {
     "cp": 9830,
@@ -1007,7 +1007,7 @@
       "ru": ["бубны", "игра", "карты", "масть"],
       "en": ["card", "diamond", "game", "suit"]
     },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "ромб", "масть"],
     "concepts": []
   },
   {
@@ -1017,8 +1017,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["белый (контурный)", "трефа (булава)", "масть"],
+    "concepts": ["clover"]
   },
   {
     "cp": 9832,
@@ -1030,8 +1030,8 @@
       "ru": ["гейзер", "горячие", "источники", "пар", "поток"],
       "en": ["hot", "hotsprings", "springs", "steaming"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["горячий", "источники"],
+    "concepts": ["fog", "thermometer", "fire"]
   },
   {
     "cp": 9833,
@@ -1040,7 +1040,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["четверть", "нота"],
     "concepts": []
   },
   {
@@ -1050,7 +1050,7 @@
     "ru": "восьмая нота",
     "en": "eighth note",
     "keywords": { "ru": ["восьмая", "музыка", "нота"], "en": ["eighth", "music", "note"] },
-    "desc": [],
+    "desc": ["восьмая", "нота"],
     "concepts": []
   },
   {
@@ -1060,7 +1060,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["связанные (ноты)", "восьмая", "ноты"],
     "concepts": []
   },
   {
@@ -1070,7 +1070,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["связанные (ноты)", "шестнадцатая", "ноты"],
     "concepts": []
   },
   {
@@ -1080,7 +1080,7 @@
     "ru": "бемоль",
     "en": "flat",
     "keywords": { "ru": ["бемоль", "музыка", "нота"], "en": ["bemolle", "flat", "music", "note"] },
-    "desc": [],
+    "desc": ["музыка", "бемоль (плоский)", "знак"],
     "concepts": []
   },
   {
@@ -1090,7 +1090,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["музыка", "бекар (натуральный)", "знак"],
     "concepts": []
   },
   {
@@ -1103,7 +1103,7 @@
       "ru": ["диез", "музыка", "нота"],
       "en": ["dièse", "diesis", "music", "note", "sharp"]
     },
-    "desc": [],
+    "desc": ["музыка", "диез (острый)", "знак"],
     "concepts": []
   },
   {
@@ -1113,7 +1113,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["запад", "сирийский", "крест"],
     "concepts": []
   },
   {
@@ -1123,7 +1123,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["восток", "сирийский", "крест"],
     "concepts": []
   },
   {
@@ -1133,7 +1133,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["универсальный", "переработка", "символ"],
     "concepts": []
   },
   {
@@ -1143,7 +1143,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["переработка", "символ", "для", "тип", "пластик"],
     "concepts": []
   },
   {
@@ -1153,7 +1153,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["переработка", "символ", "для", "тип", "пластик"],
     "concepts": []
   },
   {
@@ -1163,7 +1163,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["переработка", "символ", "для", "тип", "пластик"],
     "concepts": []
   },
   {
@@ -1173,7 +1173,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["переработка", "символ", "для", "тип", "пластик"],
     "concepts": []
   },
   {
@@ -1183,7 +1183,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["переработка", "символ", "для", "тип", "пластик"],
     "concepts": []
   },
   {
@@ -1193,7 +1193,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["переработка", "символ", "для", "тип", "пластик"],
     "concepts": []
   },
   {
@@ -1203,7 +1203,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["переработка", "символ", "для", "тип", "пластик"],
     "concepts": []
   },
   {
@@ -1213,7 +1213,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["переработка", "символ", "для", "общий", "материалы"],
     "concepts": []
   },
   {
@@ -1226,7 +1226,7 @@
       "ru": ["мусор", "мусорный", "отходы", "переработка", "переработка отходов", "утилизация"],
       "en": ["recycle", "recycling", "symbol"]
     },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "универсальный", "переработка", "символ"],
     "concepts": []
   },
   {
@@ -1236,7 +1236,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["переработанный", "бумага", "символ"],
     "concepts": []
   },
   {
@@ -1246,7 +1246,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["частично", "переработанный", "бумага", "символ"],
     "concepts": []
   },
   {
@@ -1259,8 +1259,8 @@
       "ru": ["бесконечность", "знак бесконечности", "навсегда", "постоянно"],
       "en": ["forever", "infinity", "unbounded", "universal"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["постоянный", "бумага", "знак"],
+    "concepts": ["infinity", "forever"]
   },
   {
     "cp": 9856,
@@ -1269,7 +1269,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["игральная кость (кубик)", "лицо (смайлик)"],
     "concepts": []
   },
   {
@@ -1279,7 +1279,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["игральная кость (кубик)", "лицо (смайлик)"],
     "concepts": []
   },
   {
@@ -1289,7 +1289,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["игральная кость (кубик)", "лицо (смайлик)"],
     "concepts": []
   },
   {
@@ -1299,7 +1299,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["игральная кость (кубик)", "лицо (смайлик)"],
     "concepts": []
   },
   {
@@ -1309,7 +1309,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["игральная кость (кубик)", "лицо (смайлик)"],
     "concepts": []
   },
   {
@@ -1319,7 +1319,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["игральная кость (кубик)", "лицо (смайлик)"],
     "concepts": []
   },
   {
@@ -1329,7 +1329,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["белый (контурный)", "круг", "с", "точка", "правый (вправо)"],
     "concepts": []
   },
   {
@@ -1339,8 +1339,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["белый (контурный)", "круг", "с", "два", "точки"],
+    "concepts": ["wedding", "snowman"]
   },
   {
     "cp": 9864,
@@ -1349,7 +1349,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "круг", "с", "белый (контурный)", "точка", "правый (вправо)"],
     "concepts": []
   },
   {
@@ -1359,8 +1359,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["чёрный (закрашенный)", "круг", "с", "два", "белый (контурный)", "точки"],
+    "concepts": ["snowman"]
   },
   {
     "cp": 9866,
@@ -1369,7 +1369,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["монограмма", "для", "ян"],
     "concepts": []
   },
   {
@@ -1379,7 +1379,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["монограмма", "для", "инь"],
     "concepts": []
   },
   {
@@ -1389,7 +1389,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["диграмма", "для", "больше", "ян"],
     "concepts": []
   },
   {
@@ -1399,7 +1399,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["диграмма", "для", "малый", "инь"],
     "concepts": []
   },
   {
@@ -1409,7 +1409,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["диграмма", "для", "малый", "ян"],
     "concepts": []
   },
   {
@@ -1419,7 +1419,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["диграмма", "для", "больше", "инь"],
     "concepts": []
   },
   {
@@ -1429,7 +1429,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["белый (контурный)", "флаг"],
     "concepts": []
   },
   {
@@ -1439,7 +1439,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "флаг"],
     "concepts": []
   },
   {
@@ -1463,7 +1463,7 @@
       ],
       "en": ["hammer", "pick", "tool"]
     },
-    "desc": [],
+    "desc": ["молот", "и", "кирка"],
     "concepts": []
   },
   {
@@ -1487,7 +1487,7 @@
       ],
       "en": ["crossed", "swords", "weapon"]
     },
-    "desc": [],
+    "desc": ["перечёркнутый", "мечи"],
     "concepts": []
   },
   {
@@ -1512,7 +1512,7 @@
       ],
       "en": ["aesculapius", "medical", "medicine", "staff", "symbol"]
     },
-    "desc": [],
+    "desc": ["посох (нотный стан)", "из", "Асклепия (Эскулапа)"],
     "concepts": []
   },
   {
@@ -1525,7 +1525,7 @@
       "ru": ["весы", "взвешивание", "знак", "зодиак", "правосудие", "справедливость"],
       "en": ["balance", "justice", "Libra", "scale", "scales", "tool", "weight", "zodiac"]
     },
-    "desc": [],
+    "desc": ["весы"],
     "concepts": []
   },
   {
@@ -1538,7 +1538,7 @@
       "ru": ["аппарат", "куб", "перегонный", "сосуд", "химия"],
       "en": ["alembic", "chemistry", "tool"]
     },
-    "desc": [],
+    "desc": ["перегонный куб"],
     "concepts": []
   },
   {
@@ -1548,8 +1548,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["цветок"],
+    "concepts": ["flower", "rose", "tulip", "lily", "leaf", "clover", "plant"]
   },
   {
     "cp": 9881,
@@ -1561,8 +1561,8 @@
       "ru": ["деталь", "зубчатое", "колесо", "шестеренка", "шестерня"],
       "en": ["cog", "cogwheel", "gear", "tool"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["шестерёнка"],
+    "concepts": ["sun", "flower"]
   },
   {
     "cp": 9882,
@@ -1571,7 +1571,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["посох (нотный стан)", "из", "Гермеса"],
     "concepts": []
   },
   {
@@ -1584,8 +1584,8 @@
       "ru": ["атеизм", "атеист", "атом", "атомный", "символ", "частица"],
       "en": ["atheist", "atom", "symbol"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["атом", "символ"],
+    "concepts": ["flower", "snow"]
   },
   {
     "cp": 9884,
@@ -1597,8 +1597,8 @@
       "ru": ["геральдика", "геральдическая лилия", "герб", "лилия", "фигура", "флер-де-лис"],
       "en": ["fleur-de-lis", "knights"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["флёр-де-лис (лилия)", "де", "лилия"],
+    "concepts": ["flower", "rose", "tulip", "lily", "lotus"]
   },
   {
     "cp": 9885,
@@ -1607,8 +1607,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["контурный", "белый (контурный)", "звезда"],
+    "concepts": ["star", "star-five"]
   },
   {
     "cp": 9886,
@@ -1617,8 +1617,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["три", "линии", "сходящиеся", "правый (вправо)"],
+    "concepts": ["lightning", "wind"]
   },
   {
     "cp": 9887,
@@ -1627,8 +1627,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["три", "линии", "сходящиеся", "левый (влево)"],
+    "concepts": ["lightning", "wind"]
   },
   {
     "cp": 9888,
@@ -1648,7 +1648,7 @@
       ],
       "en": ["caution", "warning"]
     },
-    "desc": [],
+    "desc": ["предупреждение (внимание)", "знак"],
     "concepts": []
   },
   {
@@ -1658,8 +1658,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["удвоенный", "женский", "знак"],
+    "concepts": ["female", "gender", "couple"]
   },
   {
     "cp": 9891,
@@ -1668,8 +1668,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["удвоенный", "мужской", "знак"],
+    "concepts": ["male", "gender", "couple"]
   },
   {
     "cp": 9892,
@@ -1678,8 +1678,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["сцепленные", "женский", "и", "мужской", "знак"],
+    "concepts": ["wedding", "gender", "couple"]
   },
   {
     "cp": 9893,
@@ -1688,8 +1688,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["мужской", "и", "женский", "знак"],
+    "concepts": ["wedding", "gender"]
   },
   {
     "cp": 9894,
@@ -1698,8 +1698,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["мужской", "с", "черта (штрих)", "знак"],
+    "concepts": ["male", "gender"]
   },
   {
     "cp": 9895,
@@ -1718,8 +1718,8 @@
       ],
       "en": ["symbol", "transgender"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["мужской", "с", "черта (штрих)", "и", "женский", "знак"],
+    "concepts": ["gender"]
   },
   {
     "cp": 9896,
@@ -1728,8 +1728,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["вертикальный", "мужской", "с", "черта (штрих)", "знак"],
+    "concepts": ["female", "male", "gender"]
   },
   {
     "cp": 9897,
@@ -1738,8 +1738,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["горизонтальный", "мужской", "с", "черта (штрих)", "знак"],
+    "concepts": ["male", "gender"]
   },
   {
     "cp": 9900,
@@ -1748,8 +1748,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["средний", "маленький (строчный)", "белый (контурный)", "круг"],
+    "concepts": ["wedding", "gender", "sun"]
   },
   {
     "cp": 9901,
@@ -1758,8 +1758,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["брак", "символ"],
+    "concepts": ["wedding", "couple", "infinity"]
   },
   {
     "cp": 9902,
@@ -1768,8 +1768,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["развод", "символ"],
+    "concepts": ["wedding", "couple", "infinity"]
   },
   {
     "cp": 9903,
@@ -1778,8 +1778,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["неженатые", "партнёрство", "символ"],
+    "concepts": ["wedding", "couple"]
   },
   {
     "cp": 9904,
@@ -1791,7 +1791,7 @@
       "ru": ["гибель", "гроб", "погребение", "похороны", "смерть"],
       "en": ["coffin", "dead", "death", "vampire"]
     },
-    "desc": [],
+    "desc": ["гроб"],
     "concepts": []
   },
   {
@@ -1804,7 +1804,7 @@
       "ru": ["останки", "пепел", "похороны", "прах", "смерть", "урна", "урна с прахом"],
       "en": ["ashes", "death", "funeral", "urn"]
     },
-    "desc": [],
+    "desc": ["похоронный", "урна"],
     "concepts": []
   },
   {
@@ -1814,8 +1814,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["средний род"],
+    "concepts": ["gender"]
   },
   {
     "cp": 9907,
@@ -1824,7 +1824,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["Церера"],
     "concepts": []
   },
   {
@@ -1834,7 +1834,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["Паллада"],
     "concepts": []
   },
   {
@@ -1844,7 +1844,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["Юнона"],
     "concepts": []
   },
   {
@@ -1854,7 +1854,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["Веста"],
     "concepts": []
   },
   {
@@ -1864,7 +1864,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["Хирон"],
     "concepts": []
   },
   {
@@ -1874,8 +1874,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["чёрный (закрашенный)", "луна", "Лилит"],
+    "concepts": ["moon"]
   },
   {
     "cp": 9913,
@@ -1884,8 +1884,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["секстиль"],
+    "concepts": ["star", "star-david", "asterisk", "snow"]
   },
   {
     "cp": 9914,
@@ -1894,7 +1894,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["полусекстиль"],
     "concepts": []
   },
   {
@@ -1904,7 +1904,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["квинконс"],
     "concepts": []
   },
   {
@@ -1914,7 +1914,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["полутораквадрат"],
     "concepts": []
   },
   {
@@ -1924,7 +1924,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["в квадрате", "ключ (клавиша)"],
     "concepts": []
   },
   {
@@ -1934,7 +1934,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["белый (контурный)", "шашки", "мужчина"],
     "concepts": []
   },
   {
@@ -1944,7 +1944,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["белый (контурный)", "шашки", "король"],
     "concepts": []
   },
   {
@@ -1954,7 +1954,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "шашки", "мужчина"],
     "concepts": []
   },
   {
@@ -1964,7 +1964,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "шашки", "король"],
     "concepts": []
   },
   {
@@ -1974,8 +1974,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["дождь"],
+    "concepts": ["weather", "rain", "umbrella"]
   },
   {
     "cp": 9927,
@@ -1984,8 +1984,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["чёрный (закрашенный)", "снеговик"],
+    "concepts": ["weather", "snow", "snowman"]
   },
   {
     "cp": 9928,
@@ -1997,8 +1997,8 @@
       "ru": ["гроза", "гром", "дождь", "молния", "облако", "туча"],
       "en": ["cloud", "lightning", "rain", "thunder", "thunderstorm"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["гром", "облако", "и", "дождь"],
+    "concepts": ["weather", "cloud", "rain", "lightning"]
   },
   {
     "cp": 9929,
@@ -2007,7 +2007,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["перевёрнутый", "белый (контурный)", "сёги", "фигура (деталь)"],
     "concepts": []
   },
   {
@@ -2017,7 +2017,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["перевёрнутый", "чёрный (закрашенный)", "сёги", "фигура (деталь)"],
     "concepts": []
   },
   {
@@ -2027,7 +2027,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["белый (контурный)", "ромб", "в", "квадрат"],
     "concepts": []
   },
   {
@@ -2037,7 +2037,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["пересекающий", "полосы"],
     "concepts": []
   },
   {
@@ -2047,7 +2047,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["сломанный", "машина (вагон)"],
     "concepts": []
   },
   {
@@ -2060,8 +2060,8 @@
       "ru": ["добыча", "инструмент", "кирка", "шахта"],
       "en": ["hammer", "mining", "pick", "tool"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["кирка"],
+    "concepts": ["mountain"]
   },
   {
     "cp": 9936,
@@ -2070,7 +2070,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["машина (вагон)", "скользящий"],
     "concepts": []
   },
   {
@@ -2083,7 +2083,7 @@
       "ru": ["головной убор", "каска с белым крестом", "крест", "лицо", "спасатель", "шлем"],
       "en": ["aid", "cross", "face", "hat", "helmet", "rescue", "worker’s"]
     },
-    "desc": [],
+    "desc": ["шлем (каска)", "с", "белый (контурный)", "крест"],
     "concepts": []
   },
   {
@@ -2093,7 +2093,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["в кружке", "пересекающий", "полосы"],
     "concepts": []
   },
   {
@@ -2103,7 +2103,7 @@
     "ru": "цепь",
     "en": "chains",
     "keywords": { "ru": ["звено", "звенья", "цепи", "цепочка", "цепь"], "en": ["chain", "chains"] },
-    "desc": [],
+    "desc": ["цепи"],
     "concepts": []
   },
   {
@@ -2113,7 +2113,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["попеременный", "один", "путь (направление)", "левый (влево)", "дорожный (светофор)"],
     "concepts": []
   },
   {
@@ -2123,7 +2123,13 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": [
+      "чёрный (закрашенный)",
+      "два",
+      "путь (направление)",
+      "левый (влево)",
+      "дорожный (светофор)"
+    ],
     "concepts": []
   },
   {
@@ -2133,7 +2139,13 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": [
+      "белый (контурный)",
+      "два",
+      "путь (направление)",
+      "левый (влево)",
+      "дорожный (светофор)"
+    ],
     "concepts": []
   },
   {
@@ -2143,7 +2155,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "левый (влево)", "полоса", "слияние"],
     "concepts": []
   },
   {
@@ -2153,7 +2165,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["белый (контурный)", "левый (влево)", "полоса", "слияние"],
     "concepts": []
   },
   {
@@ -2163,7 +2175,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["привод (ехать)", "медленно", "знак"],
     "concepts": []
   },
   {
@@ -2173,7 +2185,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["жирный (толстый)", "белый (контурный)", "вниз", "указывающий", "треугольник"],
     "concepts": []
   },
   {
@@ -2183,7 +2195,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["левый (влево)", "закрытый", "вход"],
     "concepts": []
   },
   {
@@ -2193,7 +2205,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["в квадрате", "косой крест"],
     "concepts": []
   },
   {
@@ -2203,7 +2215,15 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": [
+      "падающий",
+      "диагональный",
+      "в",
+      "белый (контурный)",
+      "круг",
+      "чёрный (закрашенный)",
+      "квадрат"
+    ],
     "concepts": []
   },
   {
@@ -2213,7 +2233,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "грузовик"],
     "concepts": []
   },
   {
@@ -2223,7 +2243,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ограниченный", "левый (влево)", "вход"],
     "concepts": []
   },
   {
@@ -2233,7 +2253,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ограниченный", "левый (влево)", "вход"],
     "concepts": []
   },
   {
@@ -2243,8 +2263,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["астрономический", "символ", "для", "Уран"],
+    "concepts": ["planet"]
   },
   {
     "cp": 9955,
@@ -2253,7 +2273,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["жирный (толстый)", "круг", "с", "черта (штрих)", "и", "два", "точки", "сверху"],
     "concepts": []
   },
   {
@@ -2263,8 +2283,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["пентаграмма"],
+    "concepts": ["star", "star-five"]
   },
   {
     "cp": 9957,
@@ -2273,8 +2293,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["правый (вправо)", "рукий (направленный)", "переплетённый", "пентаграмма"],
+    "concepts": ["star", "star-five", "fire"]
   },
   {
     "cp": 9958,
@@ -2283,8 +2303,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["левый (влево)", "рукий (направленный)", "переплетённый", "пентаграмма"],
+    "concepts": ["star", "star-five", "fire"]
   },
   {
     "cp": 9959,
@@ -2293,8 +2313,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["перевёрнутый", "пентаграмма"],
+    "concepts": ["star", "star-five"]
   },
   {
     "cp": 9960,
@@ -2303,7 +2323,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["чёрный (закрашенный)", "крест", "на", "щит"],
     "concepts": []
   },
   {
@@ -2316,7 +2336,7 @@
       "ru": ["религия", "святилище", "синто", "синтоизм", "синтоистский", "храм", "Япония"],
       "en": ["religion", "shinto", "shrine"]
     },
-    "desc": [],
+    "desc": ["синтоистский", "святилище"],
     "concepts": []
   },
   {
@@ -2326,7 +2346,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["замок (крепость)"],
     "concepts": []
   },
   {
@@ -2336,7 +2356,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["исторический", "место"],
     "concepts": []
   },
   {
@@ -2346,8 +2366,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["шестерёнка", "без", "ступица"],
+    "concepts": ["sun", "flower"]
   },
   {
     "cp": 9966,
@@ -2356,8 +2376,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["шестерёнка", "с", "ручки"],
+    "concepts": ["flower"]
   },
   {
     "cp": 9967,
@@ -2366,8 +2386,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["карта", "символ", "для", "маяк"],
+    "concepts": ["star", "sun", "snow"]
   },
   {
     "cp": 9968,
@@ -2376,8 +2396,8 @@
     "ru": "гора",
     "en": "mountain",
     "keywords": { "ru": ["вершина", "гора", "пик"], "en": ["mountain"] },
-    "desc": [],
-    "concepts": []
+    "desc": ["гора"],
+    "concepts": ["mountain"]
   },
   {
     "cp": 9969,
@@ -2399,8 +2419,8 @@
       ],
       "en": ["ground", "rain", "sun", "umbrella"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["зонтик", "на", "заземление (земля)"],
+    "concepts": ["mushroom", "rain", "umbrella"]
   },
   {
     "cp": 9972,
@@ -2409,7 +2429,7 @@
     "ru": "паром",
     "en": "ferry",
     "keywords": { "ru": ["паром", "перевозки", "транспорт"], "en": ["boat", "ferry", "passenger"] },
-    "desc": [],
+    "desc": ["паром"],
     "concepts": []
   },
   {
@@ -2419,7 +2439,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["квадрат", "четыре", "углы"],
     "concepts": []
   },
   {
@@ -2432,8 +2452,8 @@
       "ru": ["горнолыжный", "горные", "лыжи", "склон", "скорость", "спортсмен", "человек"],
       "en": ["ski", "skier", "snow"]
     },
-    "desc": [],
-    "concepts": []
+    "desc": ["лыжник"],
+    "concepts": ["mountain"]
   },
   {
     "cp": 9976,
@@ -2455,7 +2475,7 @@
       ],
       "en": ["ice", "skate", "skating"]
     },
-    "desc": [],
+    "desc": ["лёд", "конёк"],
     "concepts": []
   },
   {
@@ -2479,7 +2499,7 @@
         "throw"
       ]
     },
-    "desc": [],
+    "desc": ["человек", "с", "мяч (шар)"],
     "concepts": []
   },
   {
@@ -2489,7 +2509,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["японский", "банк", "символ"],
     "concepts": []
   },
   {
@@ -2499,7 +2519,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["надгробие", "кладбище", "символ"],
     "concepts": []
   },
   {
@@ -2509,7 +2529,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["чаша (чашка)", "на", "чёрный (закрашенный)", "квадрат"],
     "concepts": []
   },
   {
@@ -2519,7 +2539,15 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": [
+      "белый (контурный)",
+      "флаг",
+      "с",
+      "горизонтальный",
+      "средний",
+      "чёрный (закрашенный)",
+      "полоса"
+    ],
     "concepts": []
   }
 ]

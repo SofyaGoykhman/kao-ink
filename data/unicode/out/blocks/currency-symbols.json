@@ -6,7 +6,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["евро", "валюта", "знак"],
     "concepts": []
   },
   {
@@ -16,7 +16,7 @@
     "ru": "костариканский колон",
     "en": "Costa Rican Colón",
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["двоеточие", "знак"],
     "concepts": []
   },
   {
@@ -26,7 +26,7 @@
     "ru": "крузейро",
     "en": "cruzeiro",
     "keywords": { "ru": ["валюта", "крузейро"], "en": ["BRB", "cruzeiro", "currency"] },
-    "desc": [],
+    "desc": ["крузейро", "знак"],
     "concepts": []
   },
   {
@@ -39,7 +39,7 @@
       "ru": ["валюта", "франк", "французский франк"],
       "en": ["currency", "franc", "french"]
     },
-    "desc": [],
+    "desc": ["французский", "франк", "знак"],
     "concepts": []
   },
   {
@@ -49,7 +49,7 @@
     "ru": "лира",
     "en": "lira",
     "keywords": { "ru": ["валюта", "лира"], "en": ["currency", "lira"] },
-    "desc": [],
+    "desc": ["лира", "знак"],
     "concepts": []
   },
   {
@@ -62,7 +62,7 @@
       "ru": ["мил", "милесимо", "миллим", "милль", "милльем", "миль", "мильем"],
       "en": ["mil", "mill"]
     },
-    "desc": [],
+    "desc": ["милль", "знак"],
     "concepts": []
   },
   {
@@ -72,7 +72,7 @@
     "ru": "нигерийская найра",
     "en": "Nigerian Naira",
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["найра", "знак"],
     "concepts": []
   },
   {
@@ -82,7 +82,7 @@
     "ru": "Испанская песета",
     "en": "Spanish Peseta",
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["песета", "знак"],
     "concepts": []
   },
   {
@@ -92,7 +92,7 @@
     "ru": "рупия",
     "en": "rupee",
     "keywords": { "ru": ["валюта", "рупия"], "en": ["currency", "rupee"] },
-    "desc": [],
+    "desc": ["рупия", "знак"],
     "concepts": []
   },
   {
@@ -102,7 +102,7 @@
     "ru": "вона",
     "en": "won",
     "keywords": { "ru": ["вона", "ЮКВ/СКВ"], "en": ["KPW", "KRW", "won"] },
-    "desc": [],
+    "desc": ["вона", "знак"],
     "concepts": []
   },
   {
@@ -112,7 +112,7 @@
     "ru": "новый израильский шекель",
     "en": "Israeli New Shekel",
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["новый", "шекель", "знак"],
     "concepts": []
   },
   {
@@ -122,7 +122,7 @@
     "ru": "вьетнамский донг",
     "en": "Vietnamese Dong",
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["донг", "знак"],
     "concepts": []
   },
   {
@@ -132,7 +132,7 @@
     "ru": "евро",
     "en": "euro",
     "keywords": { "ru": ["валюта", "евро"], "en": ["currency", "EUR", "euro"] },
-    "desc": [],
+    "desc": ["евро", "знак"],
     "concepts": []
   },
   {
@@ -142,7 +142,7 @@
     "ru": "лаосский кип",
     "en": "Laotian Kip",
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["кип", "знак"],
     "concepts": []
   },
   {
@@ -152,7 +152,7 @@
     "ru": "монгольский тугрик",
     "en": "Mongolian Tugrik",
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["тугрик", "знак"],
     "concepts": []
   },
   {
@@ -162,7 +162,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["драхма", "знак"],
     "concepts": []
   },
   {
@@ -175,7 +175,7 @@
       "ru": ["валюта", "немецкий пенни"],
       "en": ["currency", "german", "penny", "pfennig"]
     },
-    "desc": [],
+    "desc": ["немецкий", "пенни (пфенниг)", "знак"],
     "concepts": []
   },
   {
@@ -185,7 +185,7 @@
     "ru": "песо",
     "en": "peso",
     "keywords": { "ru": ["песо"], "en": ["peso"] },
-    "desc": [],
+    "desc": ["песо", "знак"],
     "concepts": []
   },
   {
@@ -195,7 +195,7 @@
     "ru": "парагвайский гуарани",
     "en": "Paraguayan Guarani",
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуарани", "знак"],
     "concepts": []
   },
   {
@@ -205,7 +205,7 @@
     "ru": "аустраль",
     "en": "austral",
     "keywords": { "ru": ["аустраль", "валюта"], "en": ["ARA", "austral", "currency"] },
-    "desc": [],
+    "desc": ["аустраль", "знак"],
     "concepts": []
   },
   {
@@ -215,7 +215,7 @@
     "ru": "украинская гривна",
     "en": "Ukrainian Hryvnia",
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гривна", "знак"],
     "concepts": []
   },
   {
@@ -225,7 +225,7 @@
     "ru": "ганский седи",
     "en": "Ghanaian Cedi",
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["седи", "знак"],
     "concepts": []
   },
   {
@@ -235,7 +235,7 @@
     "ru": "турский ливр",
     "en": "livre tournois",
     "keywords": { "ru": ["валюта", "турский ливр"], "en": ["currency", "livre", "tournois"] },
-    "desc": [],
+    "desc": ["ливр", "турский", "знак"],
     "concepts": []
   },
   {
@@ -245,7 +245,7 @@
     "ru": "спесмило",
     "en": "spesmilo",
     "keywords": { "ru": ["валюта", "спесмило"], "en": ["currency", "spesmilo"] },
-    "desc": [],
+    "desc": ["спесмило", "знак"],
     "concepts": []
   },
   {
@@ -255,7 +255,7 @@
     "ru": "казахский тенге",
     "en": "Kazakhstani Tenge",
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["тенге", "знак"],
     "concepts": []
   },
   {
@@ -268,7 +268,7 @@
       "ru": ["валюта", "индийская рупия", "рупия"],
       "en": ["currency", "indian", "rupee"]
     },
-    "desc": [],
+    "desc": ["индийский", "рупия", "знак"],
     "concepts": []
   },
   {
@@ -278,7 +278,7 @@
     "ru": "турецкая лира",
     "en": "Turkish Lira",
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["турецкий", "лира", "знак"],
     "concepts": []
   },
   {
@@ -288,7 +288,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["северный", "метка (знак)", "знак"],
     "concepts": []
   },
   {
@@ -298,7 +298,7 @@
     "ru": "азербайджанский манат",
     "en": "Azerbaijani Manat",
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["манат", "знак"],
     "concepts": []
   },
   {
@@ -308,7 +308,7 @@
     "ru": "рубль",
     "en": "ruble",
     "keywords": { "ru": ["валюта", "рубль"], "en": ["currency", "ruble"] },
-    "desc": [],
+    "desc": ["рубль", "знак"],
     "concepts": []
   },
   {
@@ -318,7 +318,7 @@
     "ru": "грузинский лари",
     "en": "Georgian Lari",
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["лари", "знак"],
     "concepts": []
   },
   {
@@ -328,7 +328,7 @@
     "ru": "биткоин",
     "en": "bitcoin",
     "keywords": { "ru": ["btc", "биткоин", "биткойн", "бтк"], "en": ["bitcoin", "BTC"] },
-    "desc": [],
+    "desc": ["биткоин", "знак"],
     "concepts": []
   },
   {
@@ -338,7 +338,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["сом", "знак"],
     "concepts": []
   },
   {
@@ -348,7 +348,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["саудовский", "риял", "знак"],
     "concepts": []
   },
   {
@@ -358,7 +358,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["руфия", "знак"],
     "concepts": []
   },
   {
@@ -368,7 +368,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["ОАЭ", "дирхам", "знак"],
     "concepts": []
   },
   {
@@ -378,7 +378,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["оманский", "риал", "знак"],
     "concepts": []
   }
 ]

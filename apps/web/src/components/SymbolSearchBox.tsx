@@ -108,7 +108,7 @@ export default function SymbolSearchBox({ lang, labels, examples, blockNames }: 
                       title={`${hit[lang]} · ${codePoint(hit.char)}`}
                       onClick={() => setPicked(hit)}
                     >
-                      {hit.char}
+                      {/^\p{M}/u.test(hit.char) ? `◌${hit.char}` : hit.char}
                     </button>
                   </li>
                 ))}

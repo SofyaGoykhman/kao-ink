@@ -4,7 +4,7 @@ import { matchesStem, stems } from '@kaomoji/ascii-core';
 export interface SymbolSearchIndex {
   blocks: string[];
   concepts: { id: string; ru: string[]; en: string[]; chars: string[]; like: string[] }[];
-  chars: [char: string, block: number, words: string, ru: string, en: string][];
+  chars: [char: string, block: number, extraWords: string, ru: string, en: string][];
 }
 
 export interface SymbolHit {
@@ -27,6 +27,12 @@ interface PreparedConcept {
 /** Symbols that depict a concept rank above those that resemble it, then name matches. */
 const DEPICTS = 100;
 const RESEMBLES = 50;
+/** A query word equal to an indexed word counts more than one that is only its prefix. */
+const EXACT = 3;
+const PREFIX = 1;
+/** Combining marks are nearly invisible on their own, so they go after standalone symbols. */
+const COMBINING = /^\p{M}/u;
+const COMBINING_PENALTY = 0.5;
 
 export class SymbolSearch {
   private readonly chars: PreparedChar[];
@@ -38,7 +44,7 @@ export class SymbolSearch {
       block: index.blocks[block] ?? '',
       ru,
       en,
-      stems: stems(words),
+      stems: stems(`${ru} ${en} ${words}`),
     }));
     this.concepts = index.concepts.map((c) => ({
       stems: stems([...c.ru, ...c.en].join(' ')),
@@ -72,8 +78,12 @@ export class SymbolSearch {
     this.chars.forEach((c, order) => {
       const own = maskOf(c.stems);
       if (((own | (conceptMask.get(c.char) ?? 0)) & all) !== all) return;
-      const ownCount = queryStems.filter((_, i) => own & (1 << i)).length;
-      scored.push({ hit: c, score: (conceptScore.get(c.char) ?? 0) + ownCount, order });
+      const ownScore = queryStems.reduce(
+        (sum, q, i) => (own & (1 << i) ? sum + (c.stems.includes(q) ? EXACT : PREFIX) : sum),
+        0,
+      );
+      const penalty = COMBINING.test(c.char) ? COMBINING_PENALTY : 0;
+      scored.push({ hit: c, score: (conceptScore.get(c.char) ?? 0) + ownScore - penalty, order });
     });
     scored.sort((a, b) => b.score - a.score || a.order - b.order);
     return {

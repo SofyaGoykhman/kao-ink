@@ -6,7 +6,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "анджи"],
     "concepts": []
   },
   {
@@ -16,7 +16,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "знак", "чандрабинду"],
     "concepts": []
   },
   {
@@ -26,7 +26,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "знак", "анусвара"],
     "concepts": []
   },
   {
@@ -36,7 +36,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "знак", "висарга"],
     "concepts": []
   },
   {
@@ -46,7 +46,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква"],
     "concepts": []
   },
   {
@@ -56,7 +56,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "аа"],
     "concepts": []
   },
   {
@@ -66,7 +66,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква"],
     "concepts": []
   },
   {
@@ -76,7 +76,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "ии"],
     "concepts": []
   },
   {
@@ -86,7 +86,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква"],
     "concepts": []
   },
   {
@@ -96,7 +96,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "уу"],
     "concepts": []
   },
   {
@@ -106,7 +106,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "слоговой (вокалический)"],
     "concepts": []
   },
   {
@@ -116,8 +116,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["бенгальский", "буква", "слоговой (вокалический)"],
+    "concepts": ["rose", "apple", "fire"]
   },
   {
     "cp": 2447,
@@ -126,7 +126,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква"],
     "concepts": []
   },
   {
@@ -136,7 +136,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "аи"],
     "concepts": []
   },
   {
@@ -146,7 +146,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква"],
     "concepts": []
   },
   {
@@ -156,8 +156,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["бенгальский", "буква", "ау"],
+    "concepts": ["fire"]
   },
   {
     "cp": 2453,
@@ -166,7 +166,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "ка"],
     "concepts": []
   },
   {
@@ -176,7 +176,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "кха"],
     "concepts": []
   },
   {
@@ -186,7 +186,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "га"],
     "concepts": []
   },
   {
@@ -196,7 +196,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "гха"],
     "concepts": []
   },
   {
@@ -206,7 +206,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "нга"],
     "concepts": []
   },
   {
@@ -216,7 +216,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "ча"],
     "concepts": []
   },
   {
@@ -226,7 +226,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "ча"],
     "concepts": []
   },
   {
@@ -236,7 +236,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "джа"],
     "concepts": []
   },
   {
@@ -246,7 +246,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "джха"],
     "concepts": []
   },
   {
@@ -256,7 +256,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "ня"],
     "concepts": []
   },
   {
@@ -266,7 +266,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "тта"],
     "concepts": []
   },
   {
@@ -276,7 +276,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "ттха"],
     "concepts": []
   },
   {
@@ -286,7 +286,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "дда"],
     "concepts": []
   },
   {
@@ -296,7 +296,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "ддха"],
     "concepts": []
   },
   {
@@ -306,7 +306,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "нна"],
     "concepts": []
   },
   {
@@ -316,7 +316,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "та"],
     "concepts": []
   },
   {
@@ -326,7 +326,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "тха"],
     "concepts": []
   },
   {
@@ -336,7 +336,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "да"],
     "concepts": []
   },
   {
@@ -346,7 +346,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "дха"],
     "concepts": []
   },
   {
@@ -356,7 +356,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "на"],
     "concepts": []
   },
   {
@@ -366,7 +366,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "па"],
     "concepts": []
   },
   {
@@ -376,7 +376,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "пха"],
     "concepts": []
   },
   {
@@ -386,7 +386,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "ба"],
     "concepts": []
   },
   {
@@ -396,7 +396,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "бха"],
     "concepts": []
   },
   {
@@ -406,7 +406,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "ма"],
     "concepts": []
   },
   {
@@ -416,7 +416,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "я"],
     "concepts": []
   },
   {
@@ -426,7 +426,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "ра"],
     "concepts": []
   },
   {
@@ -436,7 +436,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "ла"],
     "concepts": []
   },
   {
@@ -446,7 +446,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "ша"],
     "concepts": []
   },
   {
@@ -456,7 +456,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "сса"],
     "concepts": []
   },
   {
@@ -466,7 +466,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "са"],
     "concepts": []
   },
   {
@@ -476,7 +476,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "ха"],
     "concepts": []
   },
   {
@@ -486,7 +486,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "знак", "нукта"],
     "concepts": []
   },
   {
@@ -496,7 +496,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "знак", "аваграха"],
     "concepts": []
   },
   {
@@ -506,7 +506,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "гласная", "знак", "аа"],
     "concepts": []
   },
   {
@@ -516,7 +516,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -526,7 +526,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "гласная", "знак", "ии"],
     "concepts": []
   },
   {
@@ -536,7 +536,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -546,7 +546,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "гласная", "знак", "уу"],
     "concepts": []
   },
   {
@@ -556,7 +556,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "гласная", "знак", "слоговой (вокалический)"],
     "concepts": []
   },
   {
@@ -566,7 +566,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "гласная", "знак", "слоговой (вокалический)", "рр"],
     "concepts": []
   },
   {
@@ -576,7 +576,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -586,7 +586,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "гласная", "знак", "аи"],
     "concepts": []
   },
   {
@@ -596,7 +596,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -606,7 +606,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "гласная", "знак", "ау"],
     "concepts": []
   },
   {
@@ -616,7 +616,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "знак", "вирама"],
     "concepts": []
   },
   {
@@ -626,7 +626,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "кханда", "та"],
     "concepts": []
   },
   {
@@ -636,7 +636,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "ау", "долгота", "метка (знак)"],
     "concepts": []
   },
   {
@@ -646,7 +646,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "рра"],
     "concepts": []
   },
   {
@@ -656,7 +656,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "рха"],
     "concepts": []
   },
   {
@@ -666,7 +666,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "йя"],
     "concepts": []
   },
   {
@@ -676,7 +676,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "слоговой (вокалический)", "рр"],
     "concepts": []
   },
   {
@@ -686,7 +686,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "слоговой (вокалический)", "лл"],
     "concepts": []
   },
   {
@@ -696,7 +696,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "гласная", "знак", "слоговой (вокалический)"],
     "concepts": []
   },
   {
@@ -706,7 +706,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "гласная", "знак", "слоговой (вокалический)", "лл"],
     "concepts": []
   },
   {
@@ -716,7 +716,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "цифра", "ноль"],
     "concepts": []
   },
   {
@@ -726,8 +726,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["бенгальский", "цифра", "один"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 2536,
@@ -736,7 +736,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "цифра", "два"],
     "concepts": []
   },
   {
@@ -746,8 +746,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["бенгальский", "цифра", "три"],
+    "concepts": ["heart"]
   },
   {
     "cp": 2538,
@@ -756,7 +756,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "цифра", "четыре"],
     "concepts": []
   },
   {
@@ -766,7 +766,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "цифра", "пять"],
     "concepts": []
   },
   {
@@ -776,8 +776,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["бенгальский", "цифра", "шесть"],
+    "concepts": ["fire"]
   },
   {
     "cp": 2541,
@@ -786,7 +786,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "цифра", "семь"],
     "concepts": []
   },
   {
@@ -796,7 +796,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "цифра", "восемь"],
     "concepts": []
   },
   {
@@ -806,7 +806,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "цифра", "девять"],
     "concepts": []
   },
   {
@@ -816,7 +816,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "ра", "с", "средний", "диагональный"],
     "concepts": []
   },
   {
@@ -826,7 +826,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "ра", "с", "нижний", "диагональный"],
     "concepts": []
   },
   {
@@ -836,7 +836,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "рупия", "метка (знак)"],
     "concepts": []
   },
   {
@@ -846,8 +846,8 @@
     "ru": "бангладешская така",
     "en": "Bangladeshi Taka",
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["бенгальский", "рупия", "знак"],
+    "concepts": ["fruit"]
   },
   {
     "cp": 2548,
@@ -856,7 +856,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "валюта", "числитель", "один"],
     "concepts": []
   },
   {
@@ -866,7 +866,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "валюта", "числитель", "два"],
     "concepts": []
   },
   {
@@ -876,7 +876,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "валюта", "числитель", "три"],
     "concepts": []
   },
   {
@@ -886,7 +886,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "валюта", "числитель", "четыре"],
     "concepts": []
   },
   {
@@ -896,7 +896,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "валюта", "числитель", "один", "меньше", "чем"],
     "concepts": []
   },
   {
@@ -906,7 +906,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "валюта", "шестнадцать"],
     "concepts": []
   },
   {
@@ -916,7 +916,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский"],
     "concepts": []
   },
   {
@@ -926,7 +926,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "метка (знак)"],
     "concepts": []
   },
   {
@@ -936,7 +936,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "буква", "ведический", "анусвара"],
     "concepts": []
   },
   {
@@ -946,7 +946,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "сокращение", "знак"],
     "concepts": []
   },
   {
@@ -956,7 +956,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["бенгальский", "сандхи", "метка (знак)"],
     "concepts": []
   }
 ]

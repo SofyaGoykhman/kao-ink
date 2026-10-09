@@ -6,7 +6,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "знак", "чандрабинду"],
     "concepts": []
   },
   {
@@ -16,7 +16,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "знак", "анусвара"],
     "concepts": []
   },
   {
@@ -26,7 +26,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "знак", "висарга"],
     "concepts": []
   },
   {
@@ -36,7 +36,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква"],
     "concepts": []
   },
   {
@@ -46,7 +46,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "аа"],
     "concepts": []
   },
   {
@@ -56,7 +56,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква"],
     "concepts": []
   },
   {
@@ -66,8 +66,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["гуджарати", "буква", "ии"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 2697,
@@ -76,7 +76,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква"],
     "concepts": []
   },
   {
@@ -86,7 +86,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "уу"],
     "concepts": []
   },
   {
@@ -96,7 +96,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "слоговой (вокалический)"],
     "concepts": []
   },
   {
@@ -106,7 +106,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "слоговой (вокалический)"],
     "concepts": []
   },
   {
@@ -116,7 +116,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "гласная", "чандра"],
     "concepts": []
   },
   {
@@ -126,7 +126,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква"],
     "concepts": []
   },
   {
@@ -136,7 +136,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "аи"],
     "concepts": []
   },
   {
@@ -146,7 +146,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "гласная", "чандра"],
     "concepts": []
   },
   {
@@ -156,7 +156,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква"],
     "concepts": []
   },
   {
@@ -166,7 +166,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "ау"],
     "concepts": []
   },
   {
@@ -176,7 +176,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "ка"],
     "concepts": []
   },
   {
@@ -186,7 +186,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "кха"],
     "concepts": []
   },
   {
@@ -196,7 +196,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "га"],
     "concepts": []
   },
   {
@@ -206,7 +206,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "гха"],
     "concepts": []
   },
   {
@@ -216,7 +216,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "нга"],
     "concepts": []
   },
   {
@@ -226,7 +226,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "ча"],
     "concepts": []
   },
   {
@@ -236,7 +236,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "ча"],
     "concepts": []
   },
   {
@@ -246,7 +246,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "джа"],
     "concepts": []
   },
   {
@@ -256,8 +256,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["гуджарати", "буква", "джха"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 2718,
@@ -266,7 +266,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "ня"],
     "concepts": []
   },
   {
@@ -276,7 +276,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "тта"],
     "concepts": []
   },
   {
@@ -286,8 +286,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["гуджарати", "буква", "ттха"],
+    "concepts": ["fruit"]
   },
   {
     "cp": 2721,
@@ -296,7 +296,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "дда"],
     "concepts": []
   },
   {
@@ -306,7 +306,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "ддха"],
     "concepts": []
   },
   {
@@ -316,7 +316,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "нна"],
     "concepts": []
   },
   {
@@ -326,7 +326,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "та"],
     "concepts": []
   },
   {
@@ -336,7 +336,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "тха"],
     "concepts": []
   },
   {
@@ -346,7 +346,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "да"],
     "concepts": []
   },
   {
@@ -356,7 +356,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "дха"],
     "concepts": []
   },
   {
@@ -366,7 +366,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "на"],
     "concepts": []
   },
   {
@@ -376,7 +376,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "па"],
     "concepts": []
   },
   {
@@ -386,7 +386,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "пха"],
     "concepts": []
   },
   {
@@ -396,7 +396,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "ба"],
     "concepts": []
   },
   {
@@ -406,7 +406,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "бха"],
     "concepts": []
   },
   {
@@ -416,7 +416,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "ма"],
     "concepts": []
   },
   {
@@ -426,7 +426,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "я"],
     "concepts": []
   },
   {
@@ -436,7 +436,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "ра"],
     "concepts": []
   },
   {
@@ -446,7 +446,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "ла"],
     "concepts": []
   },
   {
@@ -456,7 +456,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "лла"],
     "concepts": []
   },
   {
@@ -466,7 +466,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "ва"],
     "concepts": []
   },
   {
@@ -476,7 +476,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "ша"],
     "concepts": []
   },
   {
@@ -486,7 +486,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "сса"],
     "concepts": []
   },
   {
@@ -496,7 +496,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "са"],
     "concepts": []
   },
   {
@@ -506,7 +506,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "ха"],
     "concepts": []
   },
   {
@@ -516,7 +516,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "знак", "нукта"],
     "concepts": []
   },
   {
@@ -526,8 +526,8 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
-    "concepts": []
+    "desc": ["гуджарати", "знак", "аваграха"],
+    "concepts": ["infinity"]
   },
   {
     "cp": 2750,
@@ -536,7 +536,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "гласная", "знак", "аа"],
     "concepts": []
   },
   {
@@ -546,7 +546,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -556,7 +556,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "гласная", "знак", "ии"],
     "concepts": []
   },
   {
@@ -566,7 +566,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -576,7 +576,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "гласная", "знак", "уу"],
     "concepts": []
   },
   {
@@ -586,7 +586,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "гласная", "знак", "слоговой (вокалический)"],
     "concepts": []
   },
   {
@@ -596,7 +596,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "гласная", "знак", "слоговой (вокалический)", "рр"],
     "concepts": []
   },
   {
@@ -606,7 +606,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "гласная", "знак", "чандра"],
     "concepts": []
   },
   {
@@ -616,7 +616,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -626,7 +626,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "гласная", "знак", "аи"],
     "concepts": []
   },
   {
@@ -636,7 +636,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "гласная", "знак", "чандра"],
     "concepts": []
   },
   {
@@ -646,7 +646,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "гласная", "знак"],
     "concepts": []
   },
   {
@@ -656,7 +656,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "гласная", "знак", "ау"],
     "concepts": []
   },
   {
@@ -666,7 +666,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "знак", "вирама"],
     "concepts": []
   },
   {
@@ -676,7 +676,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "ом (ॐ)"],
     "concepts": []
   },
   {
@@ -686,7 +686,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "слоговой (вокалический)", "рр"],
     "concepts": []
   },
   {
@@ -696,7 +696,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "слоговой (вокалический)", "лл"],
     "concepts": []
   },
   {
@@ -706,7 +706,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "гласная", "знак", "слоговой (вокалический)"],
     "concepts": []
   },
   {
@@ -716,7 +716,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "гласная", "знак", "слоговой (вокалический)", "лл"],
     "concepts": []
   },
   {
@@ -726,7 +726,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "цифра", "ноль"],
     "concepts": []
   },
   {
@@ -736,7 +736,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "цифра", "один"],
     "concepts": []
   },
   {
@@ -746,7 +746,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "цифра", "два"],
     "concepts": []
   },
   {
@@ -756,7 +756,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "цифра", "три"],
     "concepts": []
   },
   {
@@ -766,7 +766,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "цифра", "четыре"],
     "concepts": []
   },
   {
@@ -776,7 +776,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "цифра", "пять"],
     "concepts": []
   },
   {
@@ -786,7 +786,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "цифра", "шесть"],
     "concepts": []
   },
   {
@@ -796,7 +796,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "цифра", "семь"],
     "concepts": []
   },
   {
@@ -806,7 +806,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "цифра", "восемь"],
     "concepts": []
   },
   {
@@ -816,7 +816,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "цифра", "девять"],
     "concepts": []
   },
   {
@@ -826,7 +826,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "сокращение", "знак"],
     "concepts": []
   },
   {
@@ -836,7 +836,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "рупия", "знак"],
     "concepts": []
   },
   {
@@ -846,7 +846,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "буква", "жа"],
     "concepts": []
   },
   {
@@ -856,7 +856,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "знак", "сукун"],
     "concepts": []
   },
   {
@@ -866,7 +866,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "знак", "шадда"],
     "concepts": []
   },
   {
@@ -876,7 +876,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "знак", "мадда"],
     "concepts": []
   },
   {
@@ -886,7 +886,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "знак", "три", "точка", "нукта", "сверху"],
     "concepts": []
   },
   {
@@ -896,7 +896,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "знак", "круг", "нукта", "сверху"],
     "concepts": []
   },
   {
@@ -906,7 +906,7 @@
     "ru": null,
     "en": null,
     "keywords": { "ru": [], "en": [] },
-    "desc": [],
+    "desc": ["гуджарати", "знак", "два", "круг", "нукта", "сверху"],
     "concepts": []
   }
 ]
