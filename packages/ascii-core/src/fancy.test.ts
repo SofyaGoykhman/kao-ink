@@ -52,7 +52,7 @@ describe('toFancy', () => {
     ['sans-italic', 'Ab', '𝘈𝘣'],
     ['sans-bold-italic', 'Ab', '𝘼𝙗'],
     ['monospace', 'mono 0', '𝚖𝚘𝚗𝚘 𝟶'],
-    ['fullwidth', 'full width!', 'ｆｕｌｌ　ｗｉｄｔｈ！'],
+    ['fullwidth', 'full width!', 'ｆｕｌｌ\u3000ｗｉｄｔｈ！'],
     ['circled', 'Circled 10', 'Ⓒⓘⓡⓒⓛⓔⓓ ①⓪'],
     ['circled-negative', 'Circled 10', '🅒🅘🅡🅒🅛🅔🅓 ❶⓿'],
     ['squared', 'Boxed', '🄱🄾🅇🄴🄳'],

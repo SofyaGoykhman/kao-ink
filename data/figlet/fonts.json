@@ -1,0 +1,786 @@
+[
+  {
+    "id": "3d-diagonal",
+    "name": "3D Diagonal",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 16
+  },
+  {
+    "id": "ansi-compact",
+    "name": "ANSI Compact",
+    "license": "mit",
+    "cyrillic": false,
+    "height": 6
+  },
+  {
+    "id": "ascii-12",
+    "name": "ASCII 12",
+    "license": "wtfpl",
+    "cyrillic": true,
+    "height": 10
+  },
+  {
+    "id": "ascii-9",
+    "name": "ASCII 9",
+    "license": "wtfpl",
+    "cyrillic": true,
+    "height": 8
+  },
+  {
+    "id": "ascii-new-roman",
+    "name": "ASCII New Roman",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 4
+  },
+  {
+    "id": "avatar",
+    "name": "Avatar",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 6
+  },
+  {
+    "id": "b1ff",
+    "name": "B1FF",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 1
+  },
+  {
+    "id": "banner",
+    "name": "Banner",
+    "license": "figlet-bsd",
+    "cyrillic": true,
+    "height": 8
+  },
+  {
+    "id": "bear",
+    "name": "Bear",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 9
+  },
+  {
+    "id": "big-ascii-12",
+    "name": "Big ASCII 12",
+    "license": "wtfpl",
+    "cyrillic": true,
+    "height": 19
+  },
+  {
+    "id": "big-ascii-9",
+    "name": "Big ASCII 9",
+    "license": "wtfpl",
+    "cyrillic": true,
+    "height": 15
+  },
+  {
+    "id": "big-mono-12",
+    "name": "Big Mono 12",
+    "license": "wtfpl",
+    "cyrillic": true,
+    "height": 19
+  },
+  {
+    "id": "big-mono-9",
+    "name": "Big Mono 9",
+    "license": "wtfpl",
+    "cyrillic": true,
+    "height": 15
+  },
+  {
+    "id": "big",
+    "name": "Big",
+    "license": "figlet-bsd",
+    "cyrillic": false,
+    "height": 8
+  },
+  {
+    "id": "bigfig",
+    "name": "Bigfig",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 3
+  },
+  {
+    "id": "block",
+    "name": "Block",
+    "license": "figlet-bsd",
+    "cyrillic": false,
+    "height": 8
+  },
+  {
+    "id": "blocks",
+    "name": "Blocks",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 11
+  },
+  {
+    "id": "braced",
+    "name": "Braced",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 5
+  },
+  {
+    "id": "broadway-kb",
+    "name": "Broadway KB",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 3
+  },
+  {
+    "id": "bubble",
+    "name": "Bubble",
+    "license": "figlet-bsd",
+    "cyrillic": false,
+    "height": 4
+  },
+  {
+    "id": "cards",
+    "name": "Cards",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 6
+  },
+  {
+    "id": "chiseled",
+    "name": "Chiseled",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 9
+  },
+  {
+    "id": "circle",
+    "name": "Circle",
+    "license": "wtfpl",
+    "cyrillic": false,
+    "height": 1
+  },
+  {
+    "id": "classy",
+    "name": "Classy",
+    "license": "mit",
+    "cyrillic": false,
+    "height": 9
+  },
+  {
+    "id": "coder-mini",
+    "name": "Coder Mini",
+    "license": "mit",
+    "cyrillic": false,
+    "height": 8
+  },
+  {
+    "id": "cola",
+    "name": "Cola",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 6
+  },
+  {
+    "id": "crazy",
+    "name": "Crazy",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 13
+  },
+  {
+    "id": "dancing-font",
+    "name": "Dancing Font",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 7
+  },
+  {
+    "id": "diet-cola",
+    "name": "Diet Cola",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 6
+  },
+  {
+    "id": "digital",
+    "name": "Digital",
+    "license": "figlet-bsd",
+    "cyrillic": false,
+    "height": 3
+  },
+  {
+    "id": "doom",
+    "name": "Doom",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 8
+  },
+  {
+    "id": "double-shorts",
+    "name": "Double Shorts",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 3
+  },
+  {
+    "id": "emboss-2",
+    "name": "Emboss 2",
+    "license": "wtfpl",
+    "cyrillic": false,
+    "height": 3
+  },
+  {
+    "id": "emboss",
+    "name": "Emboss",
+    "license": "wtfpl",
+    "cyrillic": false,
+    "height": 3
+  },
+  {
+    "id": "epic",
+    "name": "Epic",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 9
+  },
+  {
+    "id": "filter",
+    "name": "Filter",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 5
+  },
+  {
+    "id": "fire-font-k",
+    "name": "Fire Font-k",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 9
+  },
+  {
+    "id": "fire-font-s",
+    "name": "Fire Font-s",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 9
+  },
+  {
+    "id": "flipped",
+    "name": "Flipped",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 4
+  },
+  {
+    "id": "flower-power",
+    "name": "Flower Power",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 10
+  },
+  {
+    "id": "font-font",
+    "name": "Font Font",
+    "license": "mit",
+    "cyrillic": false,
+    "height": 11
+  },
+  {
+    "id": "fun-face",
+    "name": "Fun Face",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 7
+  },
+  {
+    "id": "fun-faces",
+    "name": "Fun Faces",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 7
+  },
+  {
+    "id": "future-smooth",
+    "name": "Future Smooth",
+    "license": "wtfpl",
+    "cyrillic": false,
+    "height": 3
+  },
+  {
+    "id": "future-thin",
+    "name": "Future Thin",
+    "license": "wtfpl",
+    "cyrillic": false,
+    "height": 3
+  },
+  {
+    "id": "future",
+    "name": "Future",
+    "license": "wtfpl",
+    "cyrillic": false,
+    "height": 3
+  },
+  {
+    "id": "ghost",
+    "name": "Ghost",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 9
+  },
+  {
+    "id": "ghoulish",
+    "name": "Ghoulish",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 7
+  },
+  {
+    "id": "glenyn",
+    "name": "Glenyn",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 4
+  },
+  {
+    "id": "graceful",
+    "name": "Graceful",
+    "license": "permission",
+    "cyrillic": true,
+    "height": 4
+  },
+  {
+    "id": "heart-left",
+    "name": "Heart Left",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 4
+  },
+  {
+    "id": "heart-right",
+    "name": "Heart Right",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 4
+  },
+  {
+    "id": "hieroglyphs",
+    "name": "Hieroglyphs",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 4
+  },
+  {
+    "id": "horizontal-left",
+    "name": "Horizontal Left",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 6
+  },
+  {
+    "id": "horizontal-right",
+    "name": "Horizontal Right",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 6
+  },
+  {
+    "id": "icl-1900",
+    "name": "ICL-1900",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 13
+  },
+  {
+    "id": "impossible",
+    "name": "Impossible",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 12
+  },
+  {
+    "id": "js-capital-curves",
+    "name": "JS Capital Curves",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 4
+  },
+  {
+    "id": "knob",
+    "name": "Knob",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 4
+  },
+  {
+    "id": "konto-slant",
+    "name": "Konto Slant",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 2
+  },
+  {
+    "id": "konto",
+    "name": "Konto",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 2
+  },
+  {
+    "id": "lean",
+    "name": "Lean",
+    "license": "figlet-bsd",
+    "cyrillic": false,
+    "height": 8
+  },
+  {
+    "id": "letter",
+    "name": "Letter",
+    "license": "wtfpl",
+    "cyrillic": false,
+    "height": 6
+  },
+  {
+    "id": "lil-devil",
+    "name": "Lil Devil",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 8
+  },
+  {
+    "id": "line-blocks",
+    "name": "Line Blocks",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 5
+  },
+  {
+    "id": "linguaholic-mini-block",
+    "name": "Linguaholic Mini Block",
+    "license": "mit",
+    "cyrillic": false,
+    "height": 4
+  },
+  {
+    "id": "linguaholic-neon",
+    "name": "Linguaholic Neon",
+    "license": "mit",
+    "cyrillic": false,
+    "height": 8
+  },
+  {
+    "id": "linguaholic-rounded",
+    "name": "Linguaholic Rounded",
+    "license": "mit",
+    "cyrillic": false,
+    "height": 8
+  },
+  {
+    "id": "linguaholic-shadow-3d",
+    "name": "Linguaholic Shadow 3D",
+    "license": "mit",
+    "cyrillic": false,
+    "height": 8
+  },
+  {
+    "id": "merlin1",
+    "name": "Merlin1",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 8
+  },
+  {
+    "id": "merlin2",
+    "name": "Merlin2",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 9
+  },
+  {
+    "id": "mini",
+    "name": "Mini",
+    "license": "figlet-bsd",
+    "cyrillic": false,
+    "height": 4
+  },
+  {
+    "id": "mirror",
+    "name": "Mirror",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 6
+  },
+  {
+    "id": "modular",
+    "name": "Modular",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 7
+  },
+  {
+    "id": "mono-12",
+    "name": "Mono 12",
+    "license": "wtfpl",
+    "cyrillic": true,
+    "height": 10
+  },
+  {
+    "id": "mono-9",
+    "name": "Mono 9",
+    "license": "wtfpl",
+    "cyrillic": true,
+    "height": 8
+  },
+  {
+    "id": "muzzle",
+    "name": "Muzzle",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 4
+  },
+  {
+    "id": "pagga",
+    "name": "Pagga",
+    "license": "wtfpl",
+    "cyrillic": false,
+    "height": 3
+  },
+  {
+    "id": "puzzle",
+    "name": "Puzzle",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 5
+  },
+  {
+    "id": "pyramid",
+    "name": "Pyramid",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 3
+  },
+  {
+    "id": "rammstein",
+    "name": "Rammstein",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 7
+  },
+  {
+    "id": "rotated",
+    "name": "Rotated",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 3
+  },
+  {
+    "id": "script",
+    "name": "Script",
+    "license": "figlet-bsd",
+    "cyrillic": false,
+    "height": 7
+  },
+  {
+    "id": "shadow",
+    "name": "Shadow",
+    "license": "figlet-bsd",
+    "cyrillic": false,
+    "height": 5
+  },
+  {
+    "id": "slant-relief",
+    "name": "Slant Relief",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 9
+  },
+  {
+    "id": "slant",
+    "name": "Slant",
+    "license": "figlet-bsd",
+    "cyrillic": false,
+    "height": 6
+  },
+  {
+    "id": "small-ascii-12",
+    "name": "Small ASCII 12",
+    "license": "wtfpl",
+    "cyrillic": true,
+    "height": 10
+  },
+  {
+    "id": "small-ascii-9",
+    "name": "Small ASCII 9",
+    "license": "wtfpl",
+    "cyrillic": true,
+    "height": 8
+  },
+  {
+    "id": "small-block",
+    "name": "Small Block",
+    "license": "wtfpl",
+    "cyrillic": false,
+    "height": 4
+  },
+  {
+    "id": "small-braille",
+    "name": "Small Braille",
+    "license": "wtfpl",
+    "cyrillic": false,
+    "height": 2
+  },
+  {
+    "id": "small-caps",
+    "name": "Small Caps",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 5
+  },
+  {
+    "id": "small-mono-12",
+    "name": "Small Mono 12",
+    "license": "wtfpl",
+    "cyrillic": true,
+    "height": 10
+  },
+  {
+    "id": "small-mono-9",
+    "name": "Small Mono 9",
+    "license": "wtfpl",
+    "cyrillic": true,
+    "height": 8
+  },
+  {
+    "id": "small-script",
+    "name": "Small Script",
+    "license": "figlet-bsd",
+    "cyrillic": false,
+    "height": 5
+  },
+  {
+    "id": "small-shadow",
+    "name": "Small Shadow",
+    "license": "figlet-bsd",
+    "cyrillic": false,
+    "height": 4
+  },
+  {
+    "id": "small-slant",
+    "name": "Small Slant",
+    "license": "figlet-bsd",
+    "cyrillic": false,
+    "height": 5
+  },
+  {
+    "id": "small",
+    "name": "Small",
+    "license": "figlet-bsd",
+    "cyrillic": false,
+    "height": 5
+  },
+  {
+    "id": "soft",
+    "name": "Soft",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 7
+  },
+  {
+    "id": "speed",
+    "name": "Speed",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 6
+  },
+  {
+    "id": "standard",
+    "name": "Standard",
+    "license": "figlet-bsd",
+    "cyrillic": false,
+    "height": 6
+  },
+  {
+    "id": "star-strips",
+    "name": "Star Strips",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 9
+  },
+  {
+    "id": "swamp-land",
+    "name": "Swamp Land",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 8
+  },
+  {
+    "id": "sweet",
+    "name": "Sweet",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 13
+  },
+  {
+    "id": "test1",
+    "name": "Test1",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 4
+  },
+  {
+    "id": "thorned",
+    "name": "Thorned",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 5
+  },
+  {
+    "id": "train",
+    "name": "Train",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 6
+  },
+  {
+    "id": "twisted",
+    "name": "Twisted",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 8
+  },
+  {
+    "id": "upside-down-text",
+    "name": "Upside Down Text",
+    "license": "wtfpl",
+    "cyrillic": false,
+    "height": 1
+  },
+  {
+    "id": "varsity",
+    "name": "Varsity",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 7
+  },
+  {
+    "id": "wet-letter",
+    "name": "Wet Letter",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 7
+  },
+  {
+    "id": "wideterm",
+    "name": "WideTerm",
+    "license": "wtfpl",
+    "cyrillic": false,
+    "height": 1
+  },
+  {
+    "id": "wow",
+    "name": "Wow",
+    "license": "permission",
+    "cyrillic": false,
+    "height": 1
+  }
+]

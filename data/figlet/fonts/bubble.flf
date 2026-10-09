@@ -1,0 +1,900 @@
+flf2a 4 3 8 15 11 0 10127 242
+Bubble by Glenn Chappell 4/93
+Includes characters 128-255
+Enhanced for Latin-2,3,4 by John Cowan <cowan@ccil.org>
+Latin character sets supported only if your screen font does
+figlet release 2.2 -- November 1996
+Permission is hereby given to modify this font, as long as the
+modifier's name is placed on a comment line.
+
+Modified by Paul Burton <solution@earthlink.net> 12/96 to include new parameter
+supported by FIGlet and FIGWin.  May also be slightly modified for better use
+of new full-width/kern/smush alternatives, but default output is NOT changed.
+ @
+ @
+ @
+ @@
+   _  @
+  / \ @
+ ( ! )@
+  \_/ @@
+   _  @
+  / \ @
+ ( " )@
+  \_/ @@
+   _  @
+  / \ @
+ ( # )@
+  \_/ @@
+   _  @
+  / \ @
+ ( $ )@
+  \_/ @@
+   _  @
+  / \ @
+ ( % )@
+  \_/ @@
+   _  @
+  / \ @
+ ( & )@
+  \_/ @@
+   _  @
+  / \ @
+ ( ' )@
+  \_/ @@
+   _  @
+  / \ @
+ ( ( )@
+  \_/ @@
+   _  @
+  / \ @
+ ( ) )@
+  \_/ @@
+   _  @
+  / \ @
+ ( * )@
+  \_/ @@
+   _  @
+  / \ @
+ ( + )@
+  \_/ @@
+   _  @
+  / \ @
+ ( , )@
+  \_/ @@
+   _  @
+  / \ @
+ ( - )@
+  \_/ @@
+   _  @
+  / \ @
+ ( . )@
+  \_/ @@
+   _  @
+  / \ @
+ ( / )@
+  \_/ @@
+   _  @
+  / \ @
+ ( 0 )@
+  \_/ @@
+   _  @
+  / \ @
+ ( 1 )@
+  \_/ @@
+   _  @
+  / \ @
+ ( 2 )@
+  \_/ @@
+   _  @
+  / \ @
+ ( 3 )@
+  \_/ @@
+   _  @
+  / \ @
+ ( 4 )@
+  \_/ @@
+   _  @
+  / \ @
+ ( 5 )@
+  \_/ @@
+   _  @
+  / \ @
+ ( 6 )@
+  \_/ @@
+   _  @
+  / \ @
+ ( 7 )@
+  \_/ @@
+   _  @
+  / \ @
+ ( 8 )@
+  \_/ @@
+   _  @
+  / \ @
+ ( 9 )@
+  \_/ @@
+   _  @
+  / \ @
+ ( : )@
+  \_/ @@
+   _  @
+  / \ @
+ ( ; )@
+  \_/ @@
+   _  @
+  / \ @
+ ( < )@
+  \_/ @@
+   _  @
+  / \ @
+ ( = )@
+  \_/ @@
+   _  @
+  / \ @
+ ( > )@
+  \_/ @@
+   _  @
+  / \ @
+ ( ? )@
+  \_/ @@
+   _  @
+  / \ @
+ ( @ )@
+  \_/ @@
+   _  @
+  / \ @
+ ( A )@
+  \_/ @@
+   _  @
+  / \ @
+ ( B )@
+  \_/ @@
+   _  @
+  / \ @
+ ( C )@
+  \_/ @@
+   _  @
+  / \ @
+ ( D )@
+  \_/ @@
+   _  @
+  / \ @
+ ( E )@
+  \_/ @@
+   _  @
+  / \ @
+ ( F )@
+  \_/ @@
+   _  @
+  / \ @
+ ( G )@
+  \_/ @@
+   _  @
+  / \ @
+ ( H )@
+  \_/ @@
+   _  @
+  / \ @
+ ( I )@
+  \_/ @@
+   _  @
+  / \ @
+ ( J )@
+  \_/ @@
+   _  @
+  / \ @
+ ( K )@
+  \_/ @@
+   _  @
+  / \ @
+ ( L )@
+  \_/ @@
+   _  @
+  / \ @
+ ( M )@
+  \_/ @@
+   _  @
+  / \ @
+ ( N )@
+  \_/ @@
+   _  @
+  / \ @
+ ( O )@
+  \_/ @@
+   _  @
+  / \ @
+ ( P )@
+  \_/ @@
+   _  @
+  / \ @
+ ( Q )@
+  \_/ @@
+   _  @
+  / \ @
+ ( R )@
+  \_/ @@
+   _  @
+  / \ @
+ ( S )@
+  \_/ @@
+   _  @
+  / \ @
+ ( T )@
+  \_/ @@
+   _  @
+  / \ @
+ ( U )@
+  \_/ @@
+   _  @
+  / \ @
+ ( V )@
+  \_/ @@
+   _  @
+  / \ @
+ ( W )@
+  \_/ @@
+   _  @
+  / \ @
+ ( X )@
+  \_/ @@
+   _  @
+  / \ @
+ ( Y )@
+  \_/ @@
+   _  @
+  / \ @
+ ( Z )@
+  \_/ @@
+   _  @
+  / \ @
+ ( [ )@
+  \_/ @@
+   _  @
+  / \ @
+ ( \ )@
+  \_/ @@
+   _  @
+  / \ @
+ ( ] )@
+  \_/ @@
+   _  @
+  / \ @
+ ( ^ )@
+  \_/ @@
+   _  @
+  / \ @
+ ( _ )@
+  \_/ @@
+   _  @
+  / \ @
+ ( ` )@
+  \_/ @@
+   _  @
+  / \ @
+ ( a )@
+  \_/ @@
+   _  @
+  / \ @
+ ( b )@
+  \_/ @@
+   _  @
+  / \ @
+ ( c )@
+  \_/ @@
+   _  @
+  / \ @
+ ( d )@
+  \_/ @@
+   _  @
+  / \ @
+ ( e )@
+  \_/ @@
+   _  @
+  / \ @
+ ( f )@
+  \_/ @@
+   _  @
+  / \ @
+ ( g )@
+  \_/ @@
+   _  @
+  / \ @
+ ( h )@
+  \_/ @@
+   _  @
+  / \ @
+ ( i )@
+  \_/ @@
+   _  @
+  / \ @
+ ( j )@
+  \_/ @@
+   _  @
+  / \ @
+ ( k )@
+  \_/ @@
+   _  @
+  / \ @
+ ( l )@
+  \_/ @@
+   _  @
+  / \ @
+ ( m )@
+  \_/ @@
+   _  @
+  / \ @
+ ( n )@
+  \_/ @@
+   _  @
+  / \ @
+ ( o )@
+  \_/ @@
+   _  @
+  / \ @
+ ( p )@
+  \_/ @@
+   _  @
+  / \ @
+ ( q )@
+  \_/ @@
+   _  @
+  / \ @
+ ( r )@
+  \_/ @@
+   _  @
+  / \ @
+ ( s )@
+  \_/ @@
+   _  @
+  / \ @
+ ( t )@
+  \_/ @@
+   _  @
+  / \ @
+ ( u )@
+  \_/ @@
+   _  @
+  / \ @
+ ( v )@
+  \_/ @@
+   _  @
+  / \ @
+ ( w )@
+  \_/ @@
+   _  @
+  / \ @
+ ( x )@
+  \_/ @@
+   _  @
+  / \ @
+ ( y )@
+  \_/ @@
+   _  @
+  / \ @
+ ( z )@
+  \_/ @@
+   _  @
+  / \ @
+ ( { )@
+  \_/ @@
+   _  @
+  / \ @
+ ( | )@
+  \_/ @@
+   _  @
+  / \ @
+ ( } )@
+  \_/ @@
+   _  @
+  / \ @
+ ( ~ )@
+  \_/ @@
+   _  @
+  / \ @
+ ( Ä )@
+  \_/ @@
+   _  @
+  / \ @
+ ( Ö )@
+  \_/ @@
+   _  @
+  / \ @
+ ( Ü )@
+  \_/ @@
+   _  @
+  / \ @
+ ( ä )@
+  \_/ @@
+   _  @
+  / \ @
+ ( ö )@
+  \_/ @@
+   _  @
+  / \ @
+ ( ü )@
+  \_/ @@
+   _  @
+  / \ @
+ ( ß )@
+  \_/ @@
+160  NO-BREAK SPACE
+   _  @
+  / \ @
+ (   )@
+  \_/ @@
+161  INVERTED EXCLAMATION MARK
+   _  @
+  / \ @
+ ( ¡ )@
+  \_/ @@
+162  CENT SIGN
+   _  @
+  / \ @
+ ( ¢ )@
+  \_/ @@
+163  POUND SIGN
+   _  @
+  / \ @
+ ( £ )@
+  \_/ @@
+164  CURRENCY SIGN
+   _  @
+  / \ @
+ ( ¤ )@
+  \_/ @@
+165  YEN SIGN
+   _  @
+  / \ @
+ ( ¥ )@
+  \_/ @@
+166  BROKEN BAR
+   _  @
+  / \ @
+ ( ¦ )@
+  \_/ @@
+167  SECTION SIGN
+   _  @
+  / \ @
+ ( § )@
+  \_/ @@
+168  DIAERESIS
+   _  @
+  / \ @
+ ( ¨ )@
+  \_/ @@
+169  COPYRIGHT SIGN
+   _  @
+  / \ @
+ ( © )@
+  \_/ @@
+170  FEMININE ORDINAL INDICATOR
+   _  @
+  / \ @
+ ( ª )@
+  \_/ @@
+171  LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+   _  @
+  / \ @
+ ( « )@
+  \_/ @@
+172  NOT SIGN
+   _  @
+  / \ @
+ ( ¬ )@
+  \_/ @@
+173  SOFT HYPHEN
+   _  @
+  / \ @
+ ( ­ )@
+  \_/ @@
+174  REGISTERED SIGN
+   _  @
+  / \ @
+ ( ® )@
+  \_/ @@
+175  MACRON
+   _  @
+  / \ @
+ ( ¯ )@
+  \_/ @@
+176  DEGREE SIGN
+   _  @
+  / \ @
+ ( ° )@
+  \_/ @@
+177  PLUS-MINUS SIGN
+   _  @
+  / \ @
+ ( ± )@
+  \_/ @@
+178  SUPERSCRIPT TWO
+   _  @
+  / \ @
+ ( ² )@
+  \_/ @@
+179  SUPERSCRIPT THREE
+   _  @
+  / \ @
+ ( ³ )@
+  \_/ @@
+180  ACUTE ACCENT
+   _  @
+  / \ @
+ ( ´ )@
+  \_/ @@
+181  MICRO SIGN
+   _  @
+  / \ @
+ ( µ )@
+  \_/ @@
+182  PILCROW SIGN
+   _  @
+  / \ @
+ ( ¶ )@
+  \_/ @@
+183  MIDDLE DOT
+   _  @
+  / \ @
+ ( · )@
+  \_/ @@
+184  CEDILLA
+   _  @
+  / \ @
+ ( ¸ )@
+  \_/ @@
+185  SUPERSCRIPT ONE
+   _  @
+  / \ @
+ ( ¹ )@
+  \_/ @@
+186  MASCULINE ORDINAL INDICATOR
+   _  @
+  / \ @
+ ( º )@
+  \_/ @@
+187  RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
+   _  @
+  / \ @
+ ( » )@
+  \_/ @@
+188  VULGAR FRACTION ONE QUARTER
+   _  @
+  / \ @
+ ( ¼ )@
+  \_/ @@
+189  VULGAR FRACTION ONE HALF
+   _  @
+  / \ @
+ ( ½ )@
+  \_/ @@
+190  VULGAR FRACTION THREE QUARTERS
+   _  @
+  / \ @
+ ( ¾ )@
+  \_/ @@
+191  INVERTED QUESTION MARK
+   _  @
+  / \ @
+ ( ¿ )@
+  \_/ @@
+192  LATIN CAPITAL LETTER A WITH GRAVE
+   _  @
+  / \ @
+ ( À )@
+  \_/ @@
+193  LATIN CAPITAL LETTER A WITH ACUTE
+   _  @
+  / \ @
+ ( Á )@
+  \_/ @@
+194  LATIN CAPITAL LETTER A WITH CIRCUMFLEX
+   _  @
+  / \ @
+ ( Â )@
+  \_/ @@
+195  LATIN CAPITAL LETTER A WITH TILDE
+   _  @
+  / \ @
+ ( Ã )@
+  \_/ @@
+196  LATIN CAPITAL LETTER A WITH DIAERESIS
+   _  @
+  / \ @
+ ( Ä )@
+  \_/ @@
+197  LATIN CAPITAL LETTER A WITH RING ABOVE
+   _  @
+  / \ @
+ ( Å )@
+  \_/ @@
+198  LATIN CAPITAL LETTER AE
+   _  @
+  / \ @
+ ( Æ )@
+  \_/ @@
+199  LATIN CAPITAL LETTER C WITH CEDILLA
+   _  @
+  / \ @
+ ( Ç )@
+  \_/ @@
+200  LATIN CAPITAL LETTER E WITH GRAVE
+   _  @
+  / \ @
+ ( È )@
+  \_/ @@
+201  LATIN CAPITAL LETTER E WITH ACUTE
+   _  @
+  / \ @
+ ( É )@
+  \_/ @@
+202  LATIN CAPITAL LETTER E WITH CIRCUMFLEX
+   _  @
+  / \ @
+ ( Ê )@
+  \_/ @@
+203  LATIN CAPITAL LETTER E WITH DIAERESIS
+   _  @
+  / \ @
+ ( Ë )@
+  \_/ @@
+204  LATIN CAPITAL LETTER I WITH GRAVE
+   _  @
+  / \ @
+ ( Ì )@
+  \_/ @@
+205  LATIN CAPITAL LETTER I WITH ACUTE
+   _  @
+  / \ @
+ ( Í )@
+  \_/ @@
+206  LATIN CAPITAL LETTER I WITH CIRCUMFLEX
+   _  @
+  / \ @
+ ( Î )@
+  \_/ @@
+207  LATIN CAPITAL LETTER I WITH DIAERESIS
+   _  @
+  / \ @
+ ( Ï )@
+  \_/ @@
+208  LATIN CAPITAL LETTER ETH
+   _  @
+  / \ @
+ ( Ð )@
+  \_/ @@
+209  LATIN CAPITAL LETTER N WITH TILDE
+   _  @
+  / \ @
+ ( Ñ )@
+  \_/ @@
+210  LATIN CAPITAL LETTER O WITH GRAVE
+   _  @
+  / \ @
+ ( Ò )@
+  \_/ @@
+211  LATIN CAPITAL LETTER O WITH ACUTE
+   _  @
+  / \ @
+ ( Ó )@
+  \_/ @@
+212  LATIN CAPITAL LETTER O WITH CIRCUMFLEX
+   _  @
+  / \ @
+ ( Ô )@
+  \_/ @@
+213  LATIN CAPITAL LETTER O WITH TILDE
+   _  @
+  / \ @
+ ( Õ )@
+  \_/ @@
+214  LATIN CAPITAL LETTER O WITH DIAERESIS
+   _  @
+  / \ @
+ ( Ö )@
+  \_/ @@
+215  MULTIPLICATION SIGN
+   _  @
+  / \ @
+ ( × )@
+  \_/ @@
+216  LATIN CAPITAL LETTER O WITH STROKE
+   _  @
+  / \ @
+ ( Ø )@
+  \_/ @@
+217  LATIN CAPITAL LETTER U WITH GRAVE
+   _  @
+  / \ @
+ ( Ù )@
+  \_/ @@
+218  LATIN CAPITAL LETTER U WITH ACUTE
+   _  @
+  / \ @
+ ( Ú )@
+  \_/ @@
+219  LATIN CAPITAL LETTER U WITH CIRCUMFLEX
+   _  @
+  / \ @
+ ( Û )@
+  \_/ @@
+220  LATIN CAPITAL LETTER U WITH DIAERESIS
+   _  @
+  / \ @
+ ( Ü )@
+  \_/ @@
+221  LATIN CAPITAL LETTER Y WITH ACUTE
+   _  @
+  / \ @
+ ( Ý )@
+  \_/ @@
+222  LATIN CAPITAL LETTER THORN
+   _  @
+  / \ @
+ ( Þ )@
+  \_/ @@
+223  LATIN SMALL LETTER SHARP S
+   _  @
+  / \ @
+ ( ß )@
+  \_/ @@
+224  LATIN SMALL LETTER A WITH GRAVE
+   _  @
+  / \ @
+ ( à )@
+  \_/ @@
+225  LATIN SMALL LETTER A WITH ACUTE
+   _  @
+  / \ @
+ ( á )@
+  \_/ @@
+226  LATIN SMALL LETTER A WITH CIRCUMFLEX
+   _  @
+  / \ @
+ ( â )@
+  \_/ @@
+227  LATIN SMALL LETTER A WITH TILDE
+   _  @
+  / \ @
+ ( ã )@
+  \_/ @@
+228  LATIN SMALL LETTER A WITH DIAERESIS
+   _  @
+  / \ @
+ ( ä )@
+  \_/ @@
+229  LATIN SMALL LETTER A WITH RING ABOVE
+   _  @
+  / \ @
+ ( å )@
+  \_/ @@
+230  LATIN SMALL LETTER AE
+   _  @
+  / \ @
+ ( æ )@
+  \_/ @@
+231  LATIN SMALL LETTER C WITH CEDILLA
+   _  @
+  / \ @
+ ( ç )@
+  \_/ @@
+232  LATIN SMALL LETTER E WITH GRAVE
+   _  @
+  / \ @
+ ( è )@
+  \_/ @@
+233  LATIN SMALL LETTER E WITH ACUTE
+   _  @
+  / \ @
+ ( é )@
+  \_/ @@
+234  LATIN SMALL LETTER E WITH CIRCUMFLEX
+   _  @
+  / \ @
+ ( ê )@
+  \_/ @@
+235  LATIN SMALL LETTER E WITH DIAERESIS
+   _  @
+  / \ @
+ ( ë )@
+  \_/ @@
+236  LATIN SMALL LETTER I WITH GRAVE
+   _  @
+  / \ @
+ ( ì )@
+  \_/ @@
+237  LATIN SMALL LETTER I WITH ACUTE
+   _  @
+  / \ @
+ ( í )@
+  \_/ @@
+238  LATIN SMALL LETTER I WITH CIRCUMFLEX
+   _  @
+  / \ @
+ ( î )@
+  \_/ @@
+239  LATIN SMALL LETTER I WITH DIAERESIS
+   _  @
+  / \ @
+ ( ï )@
+  \_/ @@
+240  LATIN SMALL LETTER ETH
+   _  @
+  / \ @
+ ( ð )@
+  \_/ @@
+241  LATIN SMALL LETTER N WITH TILDE
+   _  @
+  / \ @
+ ( ñ )@
+  \_/ @@
+242  LATIN SMALL LETTER O WITH GRAVE
+   _  @
+  / \ @
+ ( ò )@
+  \_/ @@
+243  LATIN SMALL LETTER O WITH ACUTE
+   _  @
+  / \ @
+ ( ó )@
+  \_/ @@
+244  LATIN SMALL LETTER O WITH CIRCUMFLEX
+   _  @
+  / \ @
+ ( ô )@
+  \_/ @@
+245  LATIN SMALL LETTER O WITH TILDE
+   _  @
+  / \ @
+ ( õ )@
+  \_/ @@
+246  LATIN SMALL LETTER O WITH DIAERESIS
+   _  @
+  / \ @
+ ( ö )@
+  \_/ @@
+247  DIVISION SIGN
+   _  @
+  / \ @
+ ( ÷ )@
+  \_/ @@
+248  LATIN SMALL LETTER O WITH STROKE
+   _  @
+  / \ @
+ ( ø )@
+  \_/ @@
+249  LATIN SMALL LETTER U WITH GRAVE
+   _  @
+  / \ @
+ ( ù )@
+  \_/ @@
+250  LATIN SMALL LETTER U WITH ACUTE
+   _  @
+  / \ @
+ ( ú )@
+  \_/ @@
+251  LATIN SMALL LETTER U WITH CIRCUMFLEX
+   _  @
+  / \ @
+ ( û )@
+  \_/ @@
+252  LATIN SMALL LETTER U WITH DIAERESIS
+   _  @
+  / \ @
+ ( ü )@
+  \_/ @@
+253  LATIN SMALL LETTER Y WITH ACUTE
+   _  @
+  / \ @
+ ( ý )@
+  \_/ @@
+254  LATIN SMALL LETTER THORN
+   _  @
+  / \ @
+ ( þ )@
+  \_/ @@
+255  LATIN SMALL LETTER Y WITH DIAERESIS
+   _  @
+  / \ @
+ ( ÿ )@
+  \_/ @@
