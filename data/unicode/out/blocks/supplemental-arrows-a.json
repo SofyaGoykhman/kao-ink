@@ -5,7 +5,9 @@
     "name": "UPWARDS QUADRUPLE ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вверх", "четверной", "стрелка"],
+    "concepts": ["tree"]
   },
   {
     "cp": 10225,
@@ -13,7 +15,9 @@
     "name": "DOWNWARDS QUADRUPLE ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вниз", "четверной", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 10226,
@@ -21,7 +25,9 @@
     "name": "ANTICLOCKWISE GAPPED CIRCLE ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["против часовой стрелки", "с разрывом", "круг", "стрелка"],
+    "concepts": ["spiral"]
   },
   {
     "cp": 10227,
@@ -29,7 +35,9 @@
     "name": "CLOCKWISE GAPPED CIRCLE ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["по часовой стрелке", "с разрывом", "круг", "стрелка"],
+    "concepts": ["spiral"]
   },
   {
     "cp": 10228,
@@ -37,7 +45,9 @@
     "name": "RIGHT ARROW WITH CIRCLED PLUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "стрелка", "с", "в кружке", "плюс"],
+    "concepts": []
   },
   {
     "cp": 10229,
@@ -45,7 +55,9 @@
     "name": "LONG LEFTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["длинный", "влево", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 10230,
@@ -53,7 +65,9 @@
     "name": "LONG RIGHTWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["длинный", "вправо", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 10231,
@@ -61,7 +75,9 @@
     "name": "LONG LEFT RIGHT ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["длинный", "левый (влево)", "правый (вправо)", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 10232,
@@ -69,7 +85,9 @@
     "name": "LONG LEFTWARDS DOUBLE ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["длинный", "влево", "двойной", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 10233,
@@ -77,7 +95,9 @@
     "name": "LONG RIGHTWARDS DOUBLE ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["длинный", "вправо", "двойной", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 10234,
@@ -85,7 +105,9 @@
     "name": "LONG LEFT RIGHT DOUBLE ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["длинный", "левый (влево)", "правый (вправо)", "двойной", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 10235,
@@ -93,7 +115,9 @@
     "name": "LONG LEFTWARDS ARROW FROM BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["длинный", "влево", "стрелка", "от", "черта"],
+    "concepts": []
   },
   {
     "cp": 10236,
@@ -101,7 +125,9 @@
     "name": "LONG RIGHTWARDS ARROW FROM BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["длинный", "вправо", "стрелка", "от", "черта"],
+    "concepts": []
   },
   {
     "cp": 10237,
@@ -109,7 +135,9 @@
     "name": "LONG LEFTWARDS DOUBLE ARROW FROM BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["длинный", "влево", "двойной", "стрелка", "от", "черта"],
+    "concepts": []
   },
   {
     "cp": 10238,
@@ -117,7 +145,9 @@
     "name": "LONG RIGHTWARDS DOUBLE ARROW FROM BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["длинный", "вправо", "двойной", "стрелка", "от", "черта"],
+    "concepts": []
   },
   {
     "cp": 10239,
@@ -125,6 +155,8 @@
     "name": "LONG RIGHTWARDS SQUIGGLE ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["длинный", "вправо", "волнистая (закорючка)", "стрелка"],
+    "concepts": ["shooting-star", "wind"]
   }
 ]

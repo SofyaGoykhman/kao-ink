@@ -5,7 +5,9 @@
     "name": "COUNTING ROD UNIT DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётный", "палочка", "единица", "цифра", "один"],
+    "concepts": []
   },
   {
     "cp": 119649,
@@ -13,7 +15,9 @@
     "name": "COUNTING ROD UNIT DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётный", "палочка", "единица", "цифра", "два"],
+    "concepts": []
   },
   {
     "cp": 119650,
@@ -21,7 +25,9 @@
     "name": "COUNTING ROD UNIT DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётный", "палочка", "единица", "цифра", "три"],
+    "concepts": []
   },
   {
     "cp": 119651,
@@ -29,7 +35,9 @@
     "name": "COUNTING ROD UNIT DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётный", "палочка", "единица", "цифра", "четыре"],
+    "concepts": []
   },
   {
     "cp": 119652,
@@ -37,7 +45,9 @@
     "name": "COUNTING ROD UNIT DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётный", "палочка", "единица", "цифра", "пять"],
+    "concepts": []
   },
   {
     "cp": 119653,
@@ -45,7 +55,9 @@
     "name": "COUNTING ROD UNIT DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётный", "палочка", "единица", "цифра", "шесть"],
+    "concepts": []
   },
   {
     "cp": 119654,
@@ -53,7 +65,9 @@
     "name": "COUNTING ROD UNIT DIGIT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётный", "палочка", "единица", "цифра", "семь"],
+    "concepts": []
   },
   {
     "cp": 119655,
@@ -61,7 +75,9 @@
     "name": "COUNTING ROD UNIT DIGIT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётный", "палочка", "единица", "цифра", "восемь"],
+    "concepts": []
   },
   {
     "cp": 119656,
@@ -69,7 +85,9 @@
     "name": "COUNTING ROD UNIT DIGIT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётный", "палочка", "единица", "цифра", "девять"],
+    "concepts": []
   },
   {
     "cp": 119657,
@@ -77,7 +95,9 @@
     "name": "COUNTING ROD TENS DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётный", "палочка", "десятки", "цифра", "один"],
+    "concepts": []
   },
   {
     "cp": 119658,
@@ -85,7 +105,9 @@
     "name": "COUNTING ROD TENS DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётный", "палочка", "десятки", "цифра", "два"],
+    "concepts": []
   },
   {
     "cp": 119659,
@@ -93,7 +115,9 @@
     "name": "COUNTING ROD TENS DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётный", "палочка", "десятки", "цифра", "три"],
+    "concepts": []
   },
   {
     "cp": 119660,
@@ -101,7 +125,9 @@
     "name": "COUNTING ROD TENS DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётный", "палочка", "десятки", "цифра", "четыре"],
+    "concepts": []
   },
   {
     "cp": 119661,
@@ -109,7 +135,9 @@
     "name": "COUNTING ROD TENS DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётный", "палочка", "десятки", "цифра", "пять"],
+    "concepts": []
   },
   {
     "cp": 119662,
@@ -117,7 +145,9 @@
     "name": "COUNTING ROD TENS DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётный", "палочка", "десятки", "цифра", "шесть"],
+    "concepts": []
   },
   {
     "cp": 119663,
@@ -125,7 +155,9 @@
     "name": "COUNTING ROD TENS DIGIT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётный", "палочка", "десятки", "цифра", "семь"],
+    "concepts": []
   },
   {
     "cp": 119664,
@@ -133,7 +165,9 @@
     "name": "COUNTING ROD TENS DIGIT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётный", "палочка", "десятки", "цифра", "восемь"],
+    "concepts": []
   },
   {
     "cp": 119665,
@@ -141,7 +175,9 @@
     "name": "COUNTING ROD TENS DIGIT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётный", "палочка", "десятки", "цифра", "девять"],
+    "concepts": []
   },
   {
     "cp": 119666,
@@ -149,7 +185,9 @@
     "name": "IDEOGRAPHIC TALLY MARK ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "счётная метка", "метка (знак)", "один"],
+    "concepts": []
   },
   {
     "cp": 119667,
@@ -157,7 +195,9 @@
     "name": "IDEOGRAPHIC TALLY MARK TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "счётная метка", "метка (знак)", "два"],
+    "concepts": []
   },
   {
     "cp": 119668,
@@ -165,7 +205,9 @@
     "name": "IDEOGRAPHIC TALLY MARK THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "счётная метка", "метка (знак)", "три"],
+    "concepts": []
   },
   {
     "cp": 119669,
@@ -173,7 +215,9 @@
     "name": "IDEOGRAPHIC TALLY MARK FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "счётная метка", "метка (знак)", "четыре"],
+    "concepts": []
   },
   {
     "cp": 119670,
@@ -181,7 +225,9 @@
     "name": "IDEOGRAPHIC TALLY MARK FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "счётная метка", "метка (знак)", "пять"],
+    "concepts": []
   },
   {
     "cp": 119671,
@@ -189,7 +235,9 @@
     "name": "TALLY MARK ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётная метка", "метка (знак)", "один"],
+    "concepts": []
   },
   {
     "cp": 119672,
@@ -197,6 +245,8 @@
     "name": "TALLY MARK FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["счётная метка", "метка (знак)", "пять"],
+    "concepts": []
   }
 ]

@@ -5,7 +5,9 @@
     "name": "PRESENTATION FORM FOR VERTICAL TWO DOT LEADER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["представление", "форма", "для", "вертикальный", "два", "точка", "отточие"],
+    "concepts": []
   },
   {
     "cp": 65073,
@@ -13,7 +15,9 @@
     "name": "PRESENTATION FORM FOR VERTICAL EM DASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["представление", "форма", "для", "вертикальный", "круглая (em)", "тире"],
+    "concepts": []
   },
   {
     "cp": 65074,
@@ -21,7 +25,9 @@
     "name": "PRESENTATION FORM FOR VERTICAL EN DASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["представление", "форма", "для", "вертикальный", "короткое (en)", "тире"],
+    "concepts": []
   },
   {
     "cp": 65075,
@@ -29,7 +35,9 @@
     "name": "PRESENTATION FORM FOR VERTICAL LOW LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["представление", "форма", "для", "вертикальный", "низкий", "линия"],
+    "concepts": []
   },
   {
     "cp": 65076,
@@ -37,7 +45,9 @@
     "name": "PRESENTATION FORM FOR VERTICAL WAVY LOW LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["представление", "форма", "для", "вертикальный", "волнистый", "низкий", "линия"],
+    "concepts": []
   },
   {
     "cp": 65077,
@@ -45,7 +55,9 @@
     "name": "PRESENTATION FORM FOR VERTICAL LEFT PARENTHESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["представление", "форма", "для", "вертикальный", "левый (влево)", "круглая скобка"],
+    "concepts": []
   },
   {
     "cp": 65078,
@@ -53,7 +65,9 @@
     "name": "PRESENTATION FORM FOR VERTICAL RIGHT PARENTHESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["представление", "форма", "для", "вертикальный", "правый (вправо)", "круглая скобка"],
+    "concepts": []
   },
   {
     "cp": 65079,
@@ -61,7 +75,17 @@
     "name": "PRESENTATION FORM FOR VERTICAL LEFT CURLY BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "представление",
+      "форма",
+      "для",
+      "вертикальный",
+      "левый (влево)",
+      "фигурный",
+      "скобка"
+    ],
+    "concepts": []
   },
   {
     "cp": 65080,
@@ -69,7 +93,17 @@
     "name": "PRESENTATION FORM FOR VERTICAL RIGHT CURLY BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "представление",
+      "форма",
+      "для",
+      "вертикальный",
+      "правый (вправо)",
+      "фигурный",
+      "скобка"
+    ],
+    "concepts": []
   },
   {
     "cp": 65081,
@@ -77,7 +111,18 @@
     "name": "PRESENTATION FORM FOR VERTICAL LEFT TORTOISE SHELL BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "представление",
+      "форма",
+      "для",
+      "вертикальный",
+      "левый (влево)",
+      "черепаха (черепаховая скобка)",
+      "ракушка (оболочка)",
+      "скобка"
+    ],
+    "concepts": []
   },
   {
     "cp": 65082,
@@ -85,7 +130,18 @@
     "name": "PRESENTATION FORM FOR VERTICAL RIGHT TORTOISE SHELL BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "представление",
+      "форма",
+      "для",
+      "вертикальный",
+      "правый (вправо)",
+      "черепаха (черепаховая скобка)",
+      "ракушка (оболочка)",
+      "скобка"
+    ],
+    "concepts": []
   },
   {
     "cp": 65083,
@@ -93,7 +149,18 @@
     "name": "PRESENTATION FORM FOR VERTICAL LEFT BLACK LENTICULAR BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "представление",
+      "форма",
+      "для",
+      "вертикальный",
+      "левый (влево)",
+      "чёрный (закрашенный)",
+      "линзовидная (скобка)",
+      "скобка"
+    ],
+    "concepts": []
   },
   {
     "cp": 65084,
@@ -101,7 +168,18 @@
     "name": "PRESENTATION FORM FOR VERTICAL RIGHT BLACK LENTICULAR BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "представление",
+      "форма",
+      "для",
+      "вертикальный",
+      "правый (вправо)",
+      "чёрный (закрашенный)",
+      "линзовидная (скобка)",
+      "скобка"
+    ],
+    "concepts": []
   },
   {
     "cp": 65085,
@@ -109,7 +187,18 @@
     "name": "PRESENTATION FORM FOR VERTICAL LEFT DOUBLE ANGLE BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "представление",
+      "форма",
+      "для",
+      "вертикальный",
+      "левый (влево)",
+      "двойной",
+      "угол",
+      "скобка"
+    ],
+    "concepts": []
   },
   {
     "cp": 65086,
@@ -117,7 +206,18 @@
     "name": "PRESENTATION FORM FOR VERTICAL RIGHT DOUBLE ANGLE BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "представление",
+      "форма",
+      "для",
+      "вертикальный",
+      "правый (вправо)",
+      "двойной",
+      "угол",
+      "скобка"
+    ],
+    "concepts": []
   },
   {
     "cp": 65087,
@@ -125,7 +225,9 @@
     "name": "PRESENTATION FORM FOR VERTICAL LEFT ANGLE BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["представление", "форма", "для", "вертикальный", "левый (влево)", "угол", "скобка"],
+    "concepts": []
   },
   {
     "cp": 65088,
@@ -133,7 +235,9 @@
     "name": "PRESENTATION FORM FOR VERTICAL RIGHT ANGLE BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["представление", "форма", "для", "вертикальный", "правый (вправо)", "угол", "скобка"],
+    "concepts": []
   },
   {
     "cp": 65089,
@@ -141,7 +245,17 @@
     "name": "PRESENTATION FORM FOR VERTICAL LEFT CORNER BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "представление",
+      "форма",
+      "для",
+      "вертикальный",
+      "левый (влево)",
+      "угол (уголок)",
+      "скобка"
+    ],
+    "concepts": []
   },
   {
     "cp": 65090,
@@ -149,7 +263,17 @@
     "name": "PRESENTATION FORM FOR VERTICAL RIGHT CORNER BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "представление",
+      "форма",
+      "для",
+      "вертикальный",
+      "правый (вправо)",
+      "угол (уголок)",
+      "скобка"
+    ],
+    "concepts": []
   },
   {
     "cp": 65091,
@@ -157,7 +281,18 @@
     "name": "PRESENTATION FORM FOR VERTICAL LEFT WHITE CORNER BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "представление",
+      "форма",
+      "для",
+      "вертикальный",
+      "левый (влево)",
+      "белый (контурный)",
+      "угол (уголок)",
+      "скобка"
+    ],
+    "concepts": []
   },
   {
     "cp": 65092,
@@ -165,7 +300,18 @@
     "name": "PRESENTATION FORM FOR VERTICAL RIGHT WHITE CORNER BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "представление",
+      "форма",
+      "для",
+      "вертикальный",
+      "правый (вправо)",
+      "белый (контурный)",
+      "угол (уголок)",
+      "скобка"
+    ],
+    "concepts": []
   },
   {
     "cp": 65093,
@@ -173,7 +319,9 @@
     "name": "SESAME DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["точка"],
+    "concepts": []
   },
   {
     "cp": 65094,
@@ -181,7 +329,9 @@
     "name": "WHITE SESAME DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["белый (контурный)", "точка"],
+    "concepts": []
   },
   {
     "cp": 65095,
@@ -189,7 +339,9 @@
     "name": "PRESENTATION FORM FOR VERTICAL LEFT SQUARE BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["представление", "форма", "для", "вертикальный", "левый (влево)", "квадрат", "скобка"],
+    "concepts": []
   },
   {
     "cp": 65096,
@@ -197,7 +349,17 @@
     "name": "PRESENTATION FORM FOR VERTICAL RIGHT SQUARE BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "представление",
+      "форма",
+      "для",
+      "вертикальный",
+      "правый (вправо)",
+      "квадрат",
+      "скобка"
+    ],
+    "concepts": []
   },
   {
     "cp": 65097,
@@ -205,7 +367,9 @@
     "name": "DASHED OVERLINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["штриховой", "надчёркивание"],
+    "concepts": []
   },
   {
     "cp": 65098,
@@ -213,7 +377,9 @@
     "name": "CENTRELINE OVERLINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надчёркивание"],
+    "concepts": []
   },
   {
     "cp": 65099,
@@ -221,7 +387,9 @@
     "name": "WAVY OVERLINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["волнистый", "надчёркивание"],
+    "concepts": ["water", "wave"]
   },
   {
     "cp": 65100,
@@ -229,7 +397,9 @@
     "name": "DOUBLE WAVY OVERLINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["двойной", "волнистый", "надчёркивание"],
+    "concepts": ["water", "wave"]
   },
   {
     "cp": 65101,
@@ -237,7 +407,9 @@
     "name": "DASHED LOW LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["штриховой", "низкий", "линия"],
+    "concepts": ["water", "wave"]
   },
   {
     "cp": 65102,
@@ -245,7 +417,9 @@
     "name": "CENTRELINE LOW LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["низкий", "линия"],
+    "concepts": ["water", "wave"]
   },
   {
     "cp": 65103,
@@ -253,6 +427,8 @@
     "name": "WAVY LOW LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["волнистый", "низкий", "линия"],
+    "concepts": ["water", "wave"]
   }
 ]

@@ -5,7 +5,9 @@
     "name": "NEWA LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква"],
+    "concepts": []
   },
   {
     "cp": 70657,
@@ -13,7 +15,9 @@
     "name": "NEWA LETTER AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "аа"],
+    "concepts": []
   },
   {
     "cp": 70658,
@@ -21,7 +25,9 @@
     "name": "NEWA LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква"],
+    "concepts": []
   },
   {
     "cp": 70659,
@@ -29,7 +35,9 @@
     "name": "NEWA LETTER II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "ии"],
+    "concepts": []
   },
   {
     "cp": 70660,
@@ -37,7 +45,9 @@
     "name": "NEWA LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква"],
+    "concepts": []
   },
   {
     "cp": 70661,
@@ -45,7 +55,9 @@
     "name": "NEWA LETTER UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "уу"],
+    "concepts": []
   },
   {
     "cp": 70662,
@@ -53,7 +65,9 @@
     "name": "NEWA LETTER VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 70663,
@@ -61,7 +75,9 @@
     "name": "NEWA LETTER VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 70664,
@@ -69,7 +85,9 @@
     "name": "NEWA LETTER VOCALIC L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 70665,
@@ -77,7 +95,9 @@
     "name": "NEWA LETTER VOCALIC LL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "слоговой (вокалический)", "лл"],
+    "concepts": []
   },
   {
     "cp": 70666,
@@ -85,7 +105,9 @@
     "name": "NEWA LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква"],
+    "concepts": []
   },
   {
     "cp": 70667,
@@ -93,7 +115,9 @@
     "name": "NEWA LETTER AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "аи"],
+    "concepts": []
   },
   {
     "cp": 70668,
@@ -101,7 +125,9 @@
     "name": "NEWA LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква"],
+    "concepts": []
   },
   {
     "cp": 70669,
@@ -109,7 +135,9 @@
     "name": "NEWA LETTER AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "ау"],
+    "concepts": []
   },
   {
     "cp": 70670,
@@ -117,7 +145,9 @@
     "name": "NEWA LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 70671,
@@ -125,7 +155,9 @@
     "name": "NEWA LETTER KHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "кха"],
+    "concepts": []
   },
   {
     "cp": 70672,
@@ -133,7 +165,9 @@
     "name": "NEWA LETTER GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "га"],
+    "concepts": []
   },
   {
     "cp": 70673,
@@ -141,7 +175,9 @@
     "name": "NEWA LETTER GHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "гха"],
+    "concepts": []
   },
   {
     "cp": 70674,
@@ -149,7 +185,9 @@
     "name": "NEWA LETTER NGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "нга"],
+    "concepts": []
   },
   {
     "cp": 70675,
@@ -157,7 +195,9 @@
     "name": "NEWA LETTER NGHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква"],
+    "concepts": []
   },
   {
     "cp": 70676,
@@ -165,7 +205,9 @@
     "name": "NEWA LETTER CA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 70677,
@@ -173,7 +215,9 @@
     "name": "NEWA LETTER CHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 70678,
@@ -181,7 +225,9 @@
     "name": "NEWA LETTER JA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "джа"],
+    "concepts": []
   },
   {
     "cp": 70679,
@@ -189,7 +235,9 @@
     "name": "NEWA LETTER JHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "джха"],
+    "concepts": []
   },
   {
     "cp": 70680,
@@ -197,7 +245,9 @@
     "name": "NEWA LETTER NYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "ня"],
+    "concepts": []
   },
   {
     "cp": 70681,
@@ -205,7 +255,9 @@
     "name": "NEWA LETTER NYHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква"],
+    "concepts": []
   },
   {
     "cp": 70682,
@@ -213,7 +265,9 @@
     "name": "NEWA LETTER TTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "тта"],
+    "concepts": []
   },
   {
     "cp": 70683,
@@ -221,7 +275,9 @@
     "name": "NEWA LETTER TTHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "ттха"],
+    "concepts": []
   },
   {
     "cp": 70684,
@@ -229,7 +285,9 @@
     "name": "NEWA LETTER DDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "дда"],
+    "concepts": []
   },
   {
     "cp": 70685,
@@ -237,7 +295,9 @@
     "name": "NEWA LETTER DDHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "ддха"],
+    "concepts": []
   },
   {
     "cp": 70686,
@@ -245,7 +305,9 @@
     "name": "NEWA LETTER NNA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "нна"],
+    "concepts": []
   },
   {
     "cp": 70687,
@@ -253,7 +315,9 @@
     "name": "NEWA LETTER TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 70688,
@@ -261,7 +325,9 @@
     "name": "NEWA LETTER THA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "тха"],
+    "concepts": []
   },
   {
     "cp": 70689,
@@ -269,7 +335,9 @@
     "name": "NEWA LETTER DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "да"],
+    "concepts": []
   },
   {
     "cp": 70690,
@@ -277,7 +345,9 @@
     "name": "NEWA LETTER DHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "дха"],
+    "concepts": []
   },
   {
     "cp": 70691,
@@ -285,7 +355,9 @@
     "name": "NEWA LETTER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 70692,
@@ -293,7 +365,9 @@
     "name": "NEWA LETTER NHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "нха"],
+    "concepts": []
   },
   {
     "cp": 70693,
@@ -301,7 +375,9 @@
     "name": "NEWA LETTER PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "па"],
+    "concepts": []
   },
   {
     "cp": 70694,
@@ -309,7 +385,9 @@
     "name": "NEWA LETTER PHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "пха"],
+    "concepts": []
   },
   {
     "cp": 70695,
@@ -317,7 +395,9 @@
     "name": "NEWA LETTER BA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "ба"],
+    "concepts": []
   },
   {
     "cp": 70696,
@@ -325,7 +405,9 @@
     "name": "NEWA LETTER BHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "бха"],
+    "concepts": []
   },
   {
     "cp": 70697,
@@ -333,7 +415,9 @@
     "name": "NEWA LETTER MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 70698,
@@ -341,7 +425,9 @@
     "name": "NEWA LETTER MHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква"],
+    "concepts": []
   },
   {
     "cp": 70699,
@@ -349,7 +435,9 @@
     "name": "NEWA LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 70700,
@@ -357,7 +445,9 @@
     "name": "NEWA LETTER RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 70701,
@@ -365,7 +455,9 @@
     "name": "NEWA LETTER RHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "рха"],
+    "concepts": []
   },
   {
     "cp": 70702,
@@ -373,7 +465,9 @@
     "name": "NEWA LETTER LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "ла"],
+    "concepts": []
   },
   {
     "cp": 70703,
@@ -381,7 +475,9 @@
     "name": "NEWA LETTER LHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "лха"],
+    "concepts": []
   },
   {
     "cp": 70704,
@@ -389,7 +485,9 @@
     "name": "NEWA LETTER WA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "ва"],
+    "concepts": []
   },
   {
     "cp": 70705,
@@ -397,7 +495,9 @@
     "name": "NEWA LETTER SHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "ша"],
+    "concepts": []
   },
   {
     "cp": 70706,
@@ -405,7 +505,9 @@
     "name": "NEWA LETTER SSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "сса"],
+    "concepts": []
   },
   {
     "cp": 70707,
@@ -413,7 +515,9 @@
     "name": "NEWA LETTER SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 70708,
@@ -421,7 +525,9 @@
     "name": "NEWA LETTER HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 70709,
@@ -429,7 +535,9 @@
     "name": "NEWA VOWEL SIGN AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "гласная", "знак", "аа"],
+    "concepts": []
   },
   {
     "cp": 70710,
@@ -437,7 +545,9 @@
     "name": "NEWA VOWEL SIGN I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 70711,
@@ -445,7 +555,9 @@
     "name": "NEWA VOWEL SIGN II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "гласная", "знак", "ии"],
+    "concepts": []
   },
   {
     "cp": 70712,
@@ -453,7 +565,9 @@
     "name": "NEWA VOWEL SIGN U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 70713,
@@ -461,7 +575,9 @@
     "name": "NEWA VOWEL SIGN UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "гласная", "знак", "уу"],
+    "concepts": []
   },
   {
     "cp": 70714,
@@ -469,7 +585,9 @@
     "name": "NEWA VOWEL SIGN VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "гласная", "знак", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 70715,
@@ -477,7 +595,9 @@
     "name": "NEWA VOWEL SIGN VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "гласная", "знак", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 70716,
@@ -485,7 +605,9 @@
     "name": "NEWA VOWEL SIGN VOCALIC L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "гласная", "знак", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 70717,
@@ -493,7 +615,9 @@
     "name": "NEWA VOWEL SIGN VOCALIC LL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "гласная", "знак", "слоговой (вокалический)", "лл"],
+    "concepts": []
   },
   {
     "cp": 70718,
@@ -501,7 +625,9 @@
     "name": "NEWA VOWEL SIGN E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 70719,
@@ -509,7 +635,9 @@
     "name": "NEWA VOWEL SIGN AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "гласная", "знак", "аи"],
+    "concepts": []
   },
   {
     "cp": 70720,
@@ -517,7 +645,9 @@
     "name": "NEWA VOWEL SIGN O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 70721,
@@ -525,7 +655,9 @@
     "name": "NEWA VOWEL SIGN AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "гласная", "знак", "ау"],
+    "concepts": []
   },
   {
     "cp": 70722,
@@ -533,7 +665,9 @@
     "name": "NEWA SIGN VIRAMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "знак", "вирама"],
+    "concepts": []
   },
   {
     "cp": 70723,
@@ -541,7 +675,9 @@
     "name": "NEWA SIGN CANDRABINDU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "знак", "чандрабинду"],
+    "concepts": []
   },
   {
     "cp": 70724,
@@ -549,7 +685,9 @@
     "name": "NEWA SIGN ANUSVARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "знак", "анусвара"],
+    "concepts": []
   },
   {
     "cp": 70725,
@@ -557,7 +695,9 @@
     "name": "NEWA SIGN VISARGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "знак", "висарга"],
+    "concepts": []
   },
   {
     "cp": 70726,
@@ -565,7 +705,9 @@
     "name": "NEWA SIGN NUKTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "знак", "нукта"],
+    "concepts": []
   },
   {
     "cp": 70727,
@@ -573,7 +715,9 @@
     "name": "NEWA SIGN AVAGRAHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "знак", "аваграха"],
+    "concepts": []
   },
   {
     "cp": 70728,
@@ -581,7 +725,9 @@
     "name": "NEWA SIGN FINAL ANUSVARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "знак", "конечный", "анусвара"],
+    "concepts": []
   },
   {
     "cp": 70729,
@@ -589,7 +735,9 @@
     "name": "NEWA OM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "ом (ॐ)"],
+    "concepts": []
   },
   {
     "cp": 70730,
@@ -597,7 +745,9 @@
     "name": "NEWA SIDDHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева"],
+    "concepts": []
   },
   {
     "cp": 70731,
@@ -605,7 +755,9 @@
     "name": "NEWA DANDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "данда"],
+    "concepts": []
   },
   {
     "cp": 70732,
@@ -613,7 +765,9 @@
     "name": "NEWA DOUBLE DANDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "двойной", "данда"],
+    "concepts": []
   },
   {
     "cp": 70733,
@@ -621,7 +775,9 @@
     "name": "NEWA COMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "запятая"],
+    "concepts": []
   },
   {
     "cp": 70734,
@@ -629,7 +785,9 @@
     "name": "NEWA GAP FILLER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "гап", "заполнитель"],
+    "concepts": []
   },
   {
     "cp": 70735,
@@ -637,7 +795,9 @@
     "name": "NEWA ABBREVIATION SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "сокращение", "знак"],
+    "concepts": []
   },
   {
     "cp": 70736,
@@ -645,7 +805,9 @@
     "name": "NEWA DIGIT ZERO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "цифра", "ноль"],
+    "concepts": []
   },
   {
     "cp": 70737,
@@ -653,7 +815,9 @@
     "name": "NEWA DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "цифра", "один"],
+    "concepts": []
   },
   {
     "cp": 70738,
@@ -661,7 +825,9 @@
     "name": "NEWA DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "цифра", "два"],
+    "concepts": []
   },
   {
     "cp": 70739,
@@ -669,7 +835,9 @@
     "name": "NEWA DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "цифра", "три"],
+    "concepts": []
   },
   {
     "cp": 70740,
@@ -677,7 +845,9 @@
     "name": "NEWA DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "цифра", "четыре"],
+    "concepts": []
   },
   {
     "cp": 70741,
@@ -685,7 +855,9 @@
     "name": "NEWA DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "цифра", "пять"],
+    "concepts": []
   },
   {
     "cp": 70742,
@@ -693,7 +865,9 @@
     "name": "NEWA DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "цифра", "шесть"],
+    "concepts": []
   },
   {
     "cp": 70743,
@@ -701,7 +875,9 @@
     "name": "NEWA DIGIT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "цифра", "семь"],
+    "concepts": []
   },
   {
     "cp": 70744,
@@ -709,7 +885,9 @@
     "name": "NEWA DIGIT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "цифра", "восемь"],
+    "concepts": []
   },
   {
     "cp": 70745,
@@ -717,7 +895,9 @@
     "name": "NEWA DIGIT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "цифра", "девять"],
+    "concepts": []
   },
   {
     "cp": 70746,
@@ -725,7 +905,9 @@
     "name": "NEWA DOUBLE COMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "двойной", "запятая"],
+    "concepts": []
   },
   {
     "cp": 70747,
@@ -733,7 +915,9 @@
     "name": "NEWA PLACEHOLDER MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "заполнитель", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 70749,
@@ -741,7 +925,9 @@
     "name": "NEWA INSERTION SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "вставка", "знак"],
+    "concepts": []
   },
   {
     "cp": 70750,
@@ -749,7 +935,9 @@
     "name": "NEWA SANDHI MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "сандхи", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 70751,
@@ -757,7 +945,9 @@
     "name": "NEWA LETTER VEDIC ANUSVARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "буква", "ведический", "анусвара"],
+    "concepts": []
   },
   {
     "cp": 70752,
@@ -765,7 +955,9 @@
     "name": "NEWA SIGN JIHVAMULIYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "знак", "джихвамулия"],
+    "concepts": []
   },
   {
     "cp": 70753,
@@ -773,6 +965,8 @@
     "name": "NEWA SIGN UPADHMANIYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нева", "знак", "упадхмания"],
+    "concepts": []
   }
 ]

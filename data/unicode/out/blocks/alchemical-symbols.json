@@ -5,7 +5,9 @@
     "name": "ALCHEMICAL SYMBOL FOR QUINTESSENCE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "квинтэссенция"],
+    "concepts": []
   },
   {
     "cp": 128769,
@@ -13,7 +15,9 @@
     "name": "ALCHEMICAL SYMBOL FOR AIR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "воздух"],
+    "concepts": ["air", "elements"]
   },
   {
     "cp": 128770,
@@ -21,7 +25,9 @@
     "name": "ALCHEMICAL SYMBOL FOR FIRE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "огонь"],
+    "concepts": ["fire", "elements"]
   },
   {
     "cp": 128771,
@@ -29,7 +35,9 @@
     "name": "ALCHEMICAL SYMBOL FOR EARTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "земля"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128772,
@@ -37,7 +45,9 @@
     "name": "ALCHEMICAL SYMBOL FOR WATER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "вода"],
+    "concepts": ["water", "drop", "elements"]
   },
   {
     "cp": 128773,
@@ -45,7 +55,9 @@
     "name": "ALCHEMICAL SYMBOL FOR AQUAFORTIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "крепкая водка (азотная кислота)"],
+    "concepts": ["water"]
   },
   {
     "cp": 128774,
@@ -53,7 +65,9 @@
     "name": "ALCHEMICAL SYMBOL FOR AQUA REGIA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "вода (aqua)", "царская"],
+    "concepts": ["water"]
   },
   {
     "cp": 128775,
@@ -61,7 +75,9 @@
     "name": "ALCHEMICAL SYMBOL FOR AQUA REGIA-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "вода (aqua)", "царская"],
+    "concepts": ["water"]
   },
   {
     "cp": 128776,
@@ -69,7 +85,9 @@
     "name": "ALCHEMICAL SYMBOL FOR AQUA VITAE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "вода (aqua)", "жизни"],
+    "concepts": ["water"]
   },
   {
     "cp": 128777,
@@ -77,7 +95,9 @@
     "name": "ALCHEMICAL SYMBOL FOR AQUA VITAE-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "вода (aqua)", "жизни"],
+    "concepts": []
   },
   {
     "cp": 128778,
@@ -85,7 +105,9 @@
     "name": "ALCHEMICAL SYMBOL FOR VINEGAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "уксус"],
+    "concepts": []
   },
   {
     "cp": 128779,
@@ -93,7 +115,9 @@
     "name": "ALCHEMICAL SYMBOL FOR VINEGAR-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "уксус"],
+    "concepts": []
   },
   {
     "cp": 128780,
@@ -101,7 +125,9 @@
     "name": "ALCHEMICAL SYMBOL FOR VINEGAR-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "уксус"],
+    "concepts": []
   },
   {
     "cp": 128781,
@@ -109,7 +135,9 @@
     "name": "ALCHEMICAL SYMBOL FOR SULFUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "сера"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128782,
@@ -117,7 +145,9 @@
     "name": "ALCHEMICAL SYMBOL FOR PHILOSOPHERS SULFUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "философская", "сера"],
+    "concepts": []
   },
   {
     "cp": 128783,
@@ -125,7 +155,9 @@
     "name": "ALCHEMICAL SYMBOL FOR BLACK SULFUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "чёрный (закрашенный)", "сера"],
+    "concepts": []
   },
   {
     "cp": 128784,
@@ -133,7 +165,9 @@
     "name": "ALCHEMICAL SYMBOL FOR MERCURY SUBLIMATE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "Меркурий (ртуть)", "сублимат"],
+    "concepts": []
   },
   {
     "cp": 128785,
@@ -141,7 +175,9 @@
     "name": "ALCHEMICAL SYMBOL FOR MERCURY SUBLIMATE-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "Меркурий (ртуть)", "сублимат"],
+    "concepts": []
   },
   {
     "cp": 128786,
@@ -149,7 +185,9 @@
     "name": "ALCHEMICAL SYMBOL FOR MERCURY SUBLIMATE-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "Меркурий (ртуть)", "сублимат"],
+    "concepts": []
   },
   {
     "cp": 128787,
@@ -157,7 +195,9 @@
     "name": "ALCHEMICAL SYMBOL FOR CINNABAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "киноварь"],
+    "concepts": []
   },
   {
     "cp": 128788,
@@ -165,7 +205,9 @@
     "name": "ALCHEMICAL SYMBOL FOR SALT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "соль"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128789,
@@ -173,7 +215,9 @@
     "name": "ALCHEMICAL SYMBOL FOR NITRE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "селитра"],
+    "concepts": []
   },
   {
     "cp": 128790,
@@ -181,7 +225,9 @@
     "name": "ALCHEMICAL SYMBOL FOR VITRIOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "купорос"],
+    "concepts": []
   },
   {
     "cp": 128791,
@@ -189,7 +235,9 @@
     "name": "ALCHEMICAL SYMBOL FOR VITRIOL-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "купорос"],
+    "concepts": []
   },
   {
     "cp": 128792,
@@ -197,7 +245,9 @@
     "name": "ALCHEMICAL SYMBOL FOR ROCK SALT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "камень (скала)", "соль"],
+    "concepts": []
   },
   {
     "cp": 128793,
@@ -205,7 +255,9 @@
     "name": "ALCHEMICAL SYMBOL FOR ROCK SALT-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "камень (скала)", "соль"],
+    "concepts": []
   },
   {
     "cp": 128794,
@@ -213,7 +265,9 @@
     "name": "ALCHEMICAL SYMBOL FOR GOLD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "золото"],
+    "concepts": ["sun", "elements"]
   },
   {
     "cp": 128795,
@@ -221,7 +275,9 @@
     "name": "ALCHEMICAL SYMBOL FOR SILVER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "серебро"],
+    "concepts": ["moon", "elements"]
   },
   {
     "cp": 128796,
@@ -229,7 +285,9 @@
     "name": "ALCHEMICAL SYMBOL FOR IRON ORE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "железо", "руда"],
+    "concepts": []
   },
   {
     "cp": 128797,
@@ -237,7 +295,9 @@
     "name": "ALCHEMICAL SYMBOL FOR IRON ORE-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "железо", "руда"],
+    "concepts": []
   },
   {
     "cp": 128798,
@@ -245,7 +305,9 @@
     "name": "ALCHEMICAL SYMBOL FOR CROCUS OF IRON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "крокус", "из", "железо"],
+    "concepts": []
   },
   {
     "cp": 128799,
@@ -253,7 +315,9 @@
     "name": "ALCHEMICAL SYMBOL FOR REGULUS OF IRON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "регулус", "из", "железо"],
+    "concepts": []
   },
   {
     "cp": 128800,
@@ -261,7 +325,9 @@
     "name": "ALCHEMICAL SYMBOL FOR COPPER ORE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "медь", "руда"],
+    "concepts": []
   },
   {
     "cp": 128801,
@@ -269,7 +335,9 @@
     "name": "ALCHEMICAL SYMBOL FOR IRON-COPPER ORE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "железо", "медь", "руда"],
+    "concepts": []
   },
   {
     "cp": 128802,
@@ -277,7 +345,9 @@
     "name": "ALCHEMICAL SYMBOL FOR SUBLIMATE OF COPPER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "сублимат", "из", "медь"],
+    "concepts": []
   },
   {
     "cp": 128803,
@@ -285,7 +355,9 @@
     "name": "ALCHEMICAL SYMBOL FOR CROCUS OF COPPER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "крокус", "из", "медь"],
+    "concepts": []
   },
   {
     "cp": 128804,
@@ -293,7 +365,9 @@
     "name": "ALCHEMICAL SYMBOL FOR CROCUS OF COPPER-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "крокус", "из", "медь"],
+    "concepts": []
   },
   {
     "cp": 128805,
@@ -301,7 +375,9 @@
     "name": "ALCHEMICAL SYMBOL FOR COPPER ANTIMONIATE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "медь", "антимонат"],
+    "concepts": []
   },
   {
     "cp": 128806,
@@ -309,7 +385,9 @@
     "name": "ALCHEMICAL SYMBOL FOR SALT OF COPPER ANTIMONIATE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "соль", "из", "медь", "антимонат"],
+    "concepts": []
   },
   {
     "cp": 128807,
@@ -317,7 +395,9 @@
     "name": "ALCHEMICAL SYMBOL FOR SUBLIMATE OF SALT OF COPPER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "сублимат", "из", "соль", "медь"],
+    "concepts": []
   },
   {
     "cp": 128808,
@@ -325,7 +405,9 @@
     "name": "ALCHEMICAL SYMBOL FOR VERDIGRIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "ярь-медянка"],
+    "concepts": ["planet", "earth"]
   },
   {
     "cp": 128809,
@@ -333,7 +415,9 @@
     "name": "ALCHEMICAL SYMBOL FOR TIN ORE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "олово", "руда"],
+    "concepts": []
   },
   {
     "cp": 128810,
@@ -341,7 +425,9 @@
     "name": "ALCHEMICAL SYMBOL FOR LEAD ORE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "свинец", "руда"],
+    "concepts": []
   },
   {
     "cp": 128811,
@@ -349,7 +435,9 @@
     "name": "ALCHEMICAL SYMBOL FOR ANTIMONY ORE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "сурьма", "руда"],
+    "concepts": []
   },
   {
     "cp": 128812,
@@ -357,7 +445,9 @@
     "name": "ALCHEMICAL SYMBOL FOR SUBLIMATE OF ANTIMONY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "сублимат", "из", "сурьма"],
+    "concepts": []
   },
   {
     "cp": 128813,
@@ -365,7 +455,9 @@
     "name": "ALCHEMICAL SYMBOL FOR SALT OF ANTIMONY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "соль", "из", "сурьма"],
+    "concepts": []
   },
   {
     "cp": 128814,
@@ -373,7 +465,9 @@
     "name": "ALCHEMICAL SYMBOL FOR SUBLIMATE OF SALT OF ANTIMONY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "сублимат", "из", "соль", "сурьма"],
+    "concepts": []
   },
   {
     "cp": 128815,
@@ -381,7 +475,9 @@
     "name": "ALCHEMICAL SYMBOL FOR VINEGAR OF ANTIMONY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "уксус", "из", "сурьма"],
+    "concepts": []
   },
   {
     "cp": 128816,
@@ -389,7 +485,9 @@
     "name": "ALCHEMICAL SYMBOL FOR REGULUS OF ANTIMONY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "регулус", "из", "сурьма"],
+    "concepts": []
   },
   {
     "cp": 128817,
@@ -397,7 +495,9 @@
     "name": "ALCHEMICAL SYMBOL FOR REGULUS OF ANTIMONY-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "регулус", "из", "сурьма"],
+    "concepts": []
   },
   {
     "cp": 128818,
@@ -405,7 +505,9 @@
     "name": "ALCHEMICAL SYMBOL FOR REGULUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "регулус"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128819,
@@ -413,7 +515,9 @@
     "name": "ALCHEMICAL SYMBOL FOR REGULUS-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "регулус"],
+    "concepts": []
   },
   {
     "cp": 128820,
@@ -421,7 +525,9 @@
     "name": "ALCHEMICAL SYMBOL FOR REGULUS-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "регулус"],
+    "concepts": []
   },
   {
     "cp": 128821,
@@ -429,7 +535,9 @@
     "name": "ALCHEMICAL SYMBOL FOR REGULUS-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "регулус"],
+    "concepts": []
   },
   {
     "cp": 128822,
@@ -437,7 +545,9 @@
     "name": "ALCHEMICAL SYMBOL FOR ALKALI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "щёлочь"],
+    "concepts": []
   },
   {
     "cp": 128823,
@@ -445,7 +555,9 @@
     "name": "ALCHEMICAL SYMBOL FOR ALKALI-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "щёлочь"],
+    "concepts": []
   },
   {
     "cp": 128824,
@@ -453,7 +565,9 @@
     "name": "ALCHEMICAL SYMBOL FOR MARCASITE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "марказит"],
+    "concepts": []
   },
   {
     "cp": 128825,
@@ -461,7 +575,9 @@
     "name": "ALCHEMICAL SYMBOL FOR SAL-AMMONIAC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "соль (sal)", "нашатырь"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128826,
@@ -469,7 +585,9 @@
     "name": "ALCHEMICAL SYMBOL FOR ARSENIC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "мышьяк"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128827,
@@ -477,7 +595,9 @@
     "name": "ALCHEMICAL SYMBOL FOR REALGAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "реальгар"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128828,
@@ -485,7 +605,9 @@
     "name": "ALCHEMICAL SYMBOL FOR REALGAR-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "реальгар"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128829,
@@ -493,7 +615,9 @@
     "name": "ALCHEMICAL SYMBOL FOR AURIPIGMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "аурипигмент"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128830,
@@ -501,7 +625,9 @@
     "name": "ALCHEMICAL SYMBOL FOR BISMUTH ORE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "висмут", "руда"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128831,
@@ -509,7 +635,9 @@
     "name": "ALCHEMICAL SYMBOL FOR TARTAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "винный камень"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128832,
@@ -517,7 +645,9 @@
     "name": "ALCHEMICAL SYMBOL FOR TARTAR-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "винный камень"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128833,
@@ -525,7 +655,9 @@
     "name": "ALCHEMICAL SYMBOL FOR QUICK LIME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "негашёная", "известь (лайм)"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128834,
@@ -533,7 +665,9 @@
     "name": "ALCHEMICAL SYMBOL FOR BORAX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "бура"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128835,
@@ -541,7 +675,9 @@
     "name": "ALCHEMICAL SYMBOL FOR BORAX-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "бура"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128836,
@@ -549,7 +685,9 @@
     "name": "ALCHEMICAL SYMBOL FOR BORAX-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "бура"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128837,
@@ -557,7 +695,9 @@
     "name": "ALCHEMICAL SYMBOL FOR ALUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "квасцы"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128838,
@@ -565,7 +705,9 @@
     "name": "ALCHEMICAL SYMBOL FOR OIL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "масло"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128839,
@@ -573,7 +715,9 @@
     "name": "ALCHEMICAL SYMBOL FOR SPIRIT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "дух (спирт)"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128840,
@@ -581,7 +725,9 @@
     "name": "ALCHEMICAL SYMBOL FOR TINCTURE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "настойка"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128841,
@@ -589,7 +735,9 @@
     "name": "ALCHEMICAL SYMBOL FOR GUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "камедь"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128842,
@@ -597,7 +745,9 @@
     "name": "ALCHEMICAL SYMBOL FOR WAX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "воск"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128843,
@@ -605,7 +755,9 @@
     "name": "ALCHEMICAL SYMBOL FOR POWDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "порошок"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128844,
@@ -613,7 +765,9 @@
     "name": "ALCHEMICAL SYMBOL FOR CALX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "окалина"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128845,
@@ -621,7 +775,9 @@
     "name": "ALCHEMICAL SYMBOL FOR TUTTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "тутия"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128846,
@@ -629,7 +785,9 @@
     "name": "ALCHEMICAL SYMBOL FOR CAPUT MORTUUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "голова (caput)", "мёртвая"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128847,
@@ -637,7 +795,9 @@
     "name": "ALCHEMICAL SYMBOL FOR SCEPTER OF JOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "скипетр", "из", "Юпитера"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128848,
@@ -645,7 +805,9 @@
     "name": "ALCHEMICAL SYMBOL FOR CADUCEUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "кадуцей"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128849,
@@ -653,7 +815,9 @@
     "name": "ALCHEMICAL SYMBOL FOR TRIDENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "трезубец"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128850,
@@ -661,7 +825,9 @@
     "name": "ALCHEMICAL SYMBOL FOR STARRED TRIDENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "со звездой", "трезубец"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128851,
@@ -669,7 +835,9 @@
     "name": "ALCHEMICAL SYMBOL FOR LODESTONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "магнетит"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128852,
@@ -677,7 +845,9 @@
     "name": "ALCHEMICAL SYMBOL FOR SOAP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "мыло"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128853,
@@ -685,7 +855,9 @@
     "name": "ALCHEMICAL SYMBOL FOR URINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "моча"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128854,
@@ -693,7 +865,9 @@
     "name": "ALCHEMICAL SYMBOL FOR HORSE DUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "лошадь", "навоз"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128855,
@@ -701,7 +875,9 @@
     "name": "ALCHEMICAL SYMBOL FOR ASHES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "пепел"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128856,
@@ -709,7 +885,9 @@
     "name": "ALCHEMICAL SYMBOL FOR POT ASHES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "горшок (кастрюля)", "пепел"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128857,
@@ -717,7 +895,9 @@
     "name": "ALCHEMICAL SYMBOL FOR BRICK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "кирпич"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128858,
@@ -725,7 +905,9 @@
     "name": "ALCHEMICAL SYMBOL FOR POWDERED BRICK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "толчёный", "кирпич"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128859,
@@ -733,7 +915,9 @@
     "name": "ALCHEMICAL SYMBOL FOR AMALGAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "амальгама"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128860,
@@ -741,7 +925,9 @@
     "name": "ALCHEMICAL SYMBOL FOR STRATUM SUPER STRATUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "слой", "над (супер)"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128861,
@@ -749,7 +935,9 @@
     "name": "ALCHEMICAL SYMBOL FOR STRATUM SUPER STRATUM-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "слой", "над (супер)"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128862,
@@ -757,7 +945,9 @@
     "name": "ALCHEMICAL SYMBOL FOR SUBLIMATION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "возгонка"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128863,
@@ -765,7 +955,9 @@
     "name": "ALCHEMICAL SYMBOL FOR PRECIPITATE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "осадок"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128864,
@@ -773,7 +965,9 @@
     "name": "ALCHEMICAL SYMBOL FOR DISTILL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "перегонять"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128865,
@@ -781,7 +975,9 @@
     "name": "ALCHEMICAL SYMBOL FOR DISSOLVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "растворить"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128866,
@@ -789,7 +985,9 @@
     "name": "ALCHEMICAL SYMBOL FOR DISSOLVE-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "растворить"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128867,
@@ -797,7 +995,9 @@
     "name": "ALCHEMICAL SYMBOL FOR PURIFY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "очищать"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128868,
@@ -805,7 +1005,9 @@
     "name": "ALCHEMICAL SYMBOL FOR PUTREFACTION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "гниение"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128869,
@@ -813,7 +1015,9 @@
     "name": "ALCHEMICAL SYMBOL FOR CRUCIBLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "тигель"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128870,
@@ -821,7 +1025,9 @@
     "name": "ALCHEMICAL SYMBOL FOR CRUCIBLE-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "тигель"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128871,
@@ -829,7 +1035,9 @@
     "name": "ALCHEMICAL SYMBOL FOR CRUCIBLE-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "тигель"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128872,
@@ -837,7 +1045,9 @@
     "name": "ALCHEMICAL SYMBOL FOR CRUCIBLE-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "тигель"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128873,
@@ -845,7 +1055,9 @@
     "name": "ALCHEMICAL SYMBOL FOR CRUCIBLE-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "тигель"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128874,
@@ -853,7 +1065,9 @@
     "name": "ALCHEMICAL SYMBOL FOR ALEMBIC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "перегонный куб"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128875,
@@ -861,7 +1075,9 @@
     "name": "ALCHEMICAL SYMBOL FOR BATH OF MARY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "ванна", "из", "Марии"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128876,
@@ -869,7 +1085,9 @@
     "name": "ALCHEMICAL SYMBOL FOR BATH OF VAPOURS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "ванна", "из", "пара (испарений)"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128877,
@@ -877,7 +1095,9 @@
     "name": "ALCHEMICAL SYMBOL FOR RETORT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "реторта"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128878,
@@ -885,7 +1105,9 @@
     "name": "ALCHEMICAL SYMBOL FOR HOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "час"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128879,
@@ -893,7 +1115,9 @@
     "name": "ALCHEMICAL SYMBOL FOR NIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "ночь"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128880,
@@ -901,7 +1125,9 @@
     "name": "ALCHEMICAL SYMBOL FOR DAY-NIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "день", "ночь"],
+    "concepts": ["eclipse", "elements"]
   },
   {
     "cp": 128881,
@@ -909,7 +1135,9 @@
     "name": "ALCHEMICAL SYMBOL FOR MONTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "месяц"],
+    "concepts": ["eclipse", "elements"]
   },
   {
     "cp": 128882,
@@ -917,7 +1145,9 @@
     "name": "ALCHEMICAL SYMBOL FOR HALF DRAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "половина", "драм"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128883,
@@ -925,7 +1155,9 @@
     "name": "ALCHEMICAL SYMBOL FOR HALF OUNCE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "половина", "унция"],
+    "concepts": ["elements"]
   },
   {
     "cp": 128884,
@@ -933,7 +1165,9 @@
     "name": "LOT OF FORTUNE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["жребий (участь)", "из", "удача (судьба)"],
+    "concepts": []
   },
   {
     "cp": 128885,
@@ -941,7 +1175,9 @@
     "name": "OCCULTATION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["покрытие"],
+    "concepts": []
   },
   {
     "cp": 128886,
@@ -949,7 +1185,9 @@
     "name": "LUNAR ECLIPSE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лунное", "затмение"],
+    "concepts": []
   },
   {
     "cp": 128887,
@@ -957,7 +1195,9 @@
     "name": "VESTA FORM TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Веста", "форма", "два"],
+    "concepts": []
   },
   {
     "cp": 128888,
@@ -965,7 +1205,9 @@
     "name": "ASTRAEA FORM TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Астрея", "форма", "два"],
+    "concepts": []
   },
   {
     "cp": 128889,
@@ -973,7 +1215,9 @@
     "name": "HYGIEA FORM TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Гигея", "форма", "два"],
+    "concepts": []
   },
   {
     "cp": 128890,
@@ -981,7 +1225,9 @@
     "name": "PARTHENOPE FORM TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Партенопа", "форма", "два"],
+    "concepts": []
   },
   {
     "cp": 128891,
@@ -989,7 +1235,9 @@
     "name": "HAUMEA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Хаумеа"],
+    "concepts": []
   },
   {
     "cp": 128892,
@@ -997,7 +1245,9 @@
     "name": "MAKEMAKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Макемаке"],
+    "concepts": []
   },
   {
     "cp": 128893,
@@ -1005,7 +1255,9 @@
     "name": "GONGGONG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Гунгун"],
+    "concepts": []
   },
   {
     "cp": 128894,
@@ -1013,7 +1265,9 @@
     "name": "QUAOAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Квавар"],
+    "concepts": []
   },
   {
     "cp": 128895,
@@ -1021,6 +1275,8 @@
     "name": "ORCUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Орк"],
+    "concepts": []
   }
 ]

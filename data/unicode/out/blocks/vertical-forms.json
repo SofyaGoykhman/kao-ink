@@ -5,7 +5,9 @@
     "name": "PRESENTATION FORM FOR VERTICAL COMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["представление", "форма", "для", "вертикальный", "запятая"],
+    "concepts": []
   },
   {
     "cp": 65041,
@@ -13,7 +15,9 @@
     "name": "PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC COMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["представление", "форма", "для", "вертикальный", "иероглифический", "запятая"],
+    "concepts": []
   },
   {
     "cp": 65042,
@@ -21,7 +25,9 @@
     "name": "PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC FULL STOP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["представление", "форма", "для", "вертикальный", "иероглифический", "полный", "стоп"],
+    "concepts": []
   },
   {
     "cp": 65043,
@@ -29,7 +35,9 @@
     "name": "PRESENTATION FORM FOR VERTICAL COLON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["представление", "форма", "для", "вертикальный", "двоеточие"],
+    "concepts": []
   },
   {
     "cp": 65044,
@@ -37,7 +45,9 @@
     "name": "PRESENTATION FORM FOR VERTICAL SEMICOLON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["представление", "форма", "для", "вертикальный", "точка с запятой"],
+    "concepts": []
   },
   {
     "cp": 65045,
@@ -45,7 +55,9 @@
     "name": "PRESENTATION FORM FOR VERTICAL EXCLAMATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["представление", "форма", "для", "вертикальный", "восклицательный", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 65046,
@@ -53,7 +65,9 @@
     "name": "PRESENTATION FORM FOR VERTICAL QUESTION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["представление", "форма", "для", "вертикальный", "вопрос", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 65047,
@@ -61,7 +75,18 @@
     "name": "PRESENTATION FORM FOR VERTICAL LEFT WHITE LENTICULAR BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "представление",
+      "форма",
+      "для",
+      "вертикальный",
+      "левый (влево)",
+      "белый (контурный)",
+      "линзовидная (скобка)",
+      "скобка"
+    ],
+    "concepts": []
   },
   {
     "cp": 65048,
@@ -69,7 +94,17 @@
     "name": "PRESENTATION FORM FOR VERTICAL RIGHT WHITE LENTICULAR BRAKCET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "представление",
+      "форма",
+      "для",
+      "вертикальный",
+      "правый (вправо)",
+      "белый (контурный)",
+      "линзовидная (скобка)"
+    ],
+    "concepts": []
   },
   {
     "cp": 65049,
@@ -77,6 +112,8 @@
     "name": "PRESENTATION FORM FOR VERTICAL HORIZONTAL ELLIPSIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["представление", "форма", "для", "вертикальный", "горизонтальный", "многоточие"],
+    "concepts": []
   }
 ]

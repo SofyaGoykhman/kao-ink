@@ -5,7 +5,9 @@
     "name": "MONGOLIAN BIRGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "бирга"],
+    "concepts": []
   },
   {
     "cp": 6145,
@@ -13,7 +15,9 @@
     "name": "MONGOLIAN ELLIPSIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "многоточие"],
+    "concepts": []
   },
   {
     "cp": 6146,
@@ -21,7 +25,9 @@
     "name": "MONGOLIAN COMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "запятая"],
+    "concepts": []
   },
   {
     "cp": 6147,
@@ -29,7 +35,9 @@
     "name": "MONGOLIAN FULL STOP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "полный", "стоп"],
+    "concepts": []
   },
   {
     "cp": 6148,
@@ -37,7 +45,9 @@
     "name": "MONGOLIAN COLON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "двоеточие"],
+    "concepts": []
   },
   {
     "cp": 6149,
@@ -45,7 +55,9 @@
     "name": "MONGOLIAN FOUR DOTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "четыре", "точки"],
+    "concepts": []
   },
   {
     "cp": 6150,
@@ -53,7 +65,9 @@
     "name": "MONGOLIAN TODO SOFT HYPHEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "тодо (ясное письмо)", "мягкий", "дефис"],
+    "concepts": []
   },
   {
     "cp": 6151,
@@ -61,7 +75,9 @@
     "name": "MONGOLIAN SIBE SYLLABLE BOUNDARY MARKER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "сибо", "слог", "маркер"],
+    "concepts": []
   },
   {
     "cp": 6152,
@@ -69,7 +85,9 @@
     "name": "MONGOLIAN MANCHU COMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "маньчжурский", "запятая"],
+    "concepts": []
   },
   {
     "cp": 6153,
@@ -77,7 +95,9 @@
     "name": "MONGOLIAN MANCHU FULL STOP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "маньчжурский", "полный", "стоп"],
+    "concepts": []
   },
   {
     "cp": 6154,
@@ -85,7 +105,9 @@
     "name": "MONGOLIAN NIRUGU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский"],
+    "concepts": []
   },
   {
     "cp": 6155,
@@ -93,7 +115,9 @@
     "name": "MONGOLIAN FREE VARIATION SELECTOR ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "бесплатно (свободный)", "вариант", "селектор", "один"],
+    "concepts": []
   },
   {
     "cp": 6156,
@@ -101,7 +125,9 @@
     "name": "MONGOLIAN FREE VARIATION SELECTOR TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "бесплатно (свободный)", "вариант", "селектор", "два"],
+    "concepts": []
   },
   {
     "cp": 6157,
@@ -109,7 +135,9 @@
     "name": "MONGOLIAN FREE VARIATION SELECTOR THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "бесплатно (свободный)", "вариант", "селектор", "три"],
+    "concepts": []
   },
   {
     "cp": 6158,
@@ -117,7 +145,9 @@
     "name": "MONGOLIAN VOWEL SEPARATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "гласная", "разделитель"],
+    "concepts": []
   },
   {
     "cp": 6159,
@@ -125,7 +155,9 @@
     "name": "MONGOLIAN FREE VARIATION SELECTOR FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "бесплатно (свободный)", "вариант", "селектор", "четыре"],
+    "concepts": []
   },
   {
     "cp": 6160,
@@ -133,7 +165,9 @@
     "name": "MONGOLIAN DIGIT ZERO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "цифра", "ноль"],
+    "concepts": []
   },
   {
     "cp": 6161,
@@ -141,7 +175,9 @@
     "name": "MONGOLIAN DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "цифра", "один"],
+    "concepts": []
   },
   {
     "cp": 6162,
@@ -149,7 +185,9 @@
     "name": "MONGOLIAN DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "цифра", "два"],
+    "concepts": []
   },
   {
     "cp": 6163,
@@ -157,7 +195,9 @@
     "name": "MONGOLIAN DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "цифра", "три"],
+    "concepts": []
   },
   {
     "cp": 6164,
@@ -165,7 +205,9 @@
     "name": "MONGOLIAN DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "цифра", "четыре"],
+    "concepts": []
   },
   {
     "cp": 6165,
@@ -173,7 +215,9 @@
     "name": "MONGOLIAN DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "цифра", "пять"],
+    "concepts": []
   },
   {
     "cp": 6166,
@@ -181,7 +225,9 @@
     "name": "MONGOLIAN DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "цифра", "шесть"],
+    "concepts": []
   },
   {
     "cp": 6167,
@@ -189,7 +235,9 @@
     "name": "MONGOLIAN DIGIT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "цифра", "семь"],
+    "concepts": []
   },
   {
     "cp": 6168,
@@ -197,7 +245,9 @@
     "name": "MONGOLIAN DIGIT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "цифра", "восемь"],
+    "concepts": []
   },
   {
     "cp": 6169,
@@ -205,7 +255,9 @@
     "name": "MONGOLIAN DIGIT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "цифра", "девять"],
+    "concepts": []
   },
   {
     "cp": 6176,
@@ -213,7 +265,9 @@
     "name": "MONGOLIAN LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква"],
+    "concepts": []
   },
   {
     "cp": 6177,
@@ -221,7 +275,9 @@
     "name": "MONGOLIAN LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква"],
+    "concepts": []
   },
   {
     "cp": 6178,
@@ -229,7 +285,9 @@
     "name": "MONGOLIAN LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква"],
+    "concepts": []
   },
   {
     "cp": 6179,
@@ -237,7 +295,9 @@
     "name": "MONGOLIAN LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква"],
+    "concepts": []
   },
   {
     "cp": 6180,
@@ -245,7 +305,9 @@
     "name": "MONGOLIAN LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква"],
+    "concepts": []
   },
   {
     "cp": 6181,
@@ -253,7 +315,9 @@
     "name": "MONGOLIAN LETTER OE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "oe (лигатура)"],
+    "concepts": []
   },
   {
     "cp": 6182,
@@ -261,7 +325,9 @@
     "name": "MONGOLIAN LETTER UE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "уэ"],
+    "concepts": []
   },
   {
     "cp": 6183,
@@ -269,7 +335,9 @@
     "name": "MONGOLIAN LETTER EE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "ее"],
+    "concepts": []
   },
   {
     "cp": 6184,
@@ -277,7 +345,9 @@
     "name": "MONGOLIAN LETTER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 6185,
@@ -285,7 +355,9 @@
     "name": "MONGOLIAN LETTER ANG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "анг"],
+    "concepts": []
   },
   {
     "cp": 6186,
@@ -293,7 +365,9 @@
     "name": "MONGOLIAN LETTER BA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "ба"],
+    "concepts": []
   },
   {
     "cp": 6187,
@@ -301,7 +375,9 @@
     "name": "MONGOLIAN LETTER PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "па"],
+    "concepts": []
   },
   {
     "cp": 6188,
@@ -309,7 +385,9 @@
     "name": "MONGOLIAN LETTER QA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "ка (qa)"],
+    "concepts": []
   },
   {
     "cp": 6189,
@@ -317,7 +395,9 @@
     "name": "MONGOLIAN LETTER GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "га"],
+    "concepts": []
   },
   {
     "cp": 6190,
@@ -325,7 +405,9 @@
     "name": "MONGOLIAN LETTER MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 6191,
@@ -333,7 +415,9 @@
     "name": "MONGOLIAN LETTER LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "ла"],
+    "concepts": []
   },
   {
     "cp": 6192,
@@ -341,7 +425,9 @@
     "name": "MONGOLIAN LETTER SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 6193,
@@ -349,7 +435,9 @@
     "name": "MONGOLIAN LETTER SHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "ша"],
+    "concepts": []
   },
   {
     "cp": 6194,
@@ -357,7 +445,9 @@
     "name": "MONGOLIAN LETTER TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 6195,
@@ -365,7 +455,9 @@
     "name": "MONGOLIAN LETTER DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "да"],
+    "concepts": []
   },
   {
     "cp": 6196,
@@ -373,7 +465,9 @@
     "name": "MONGOLIAN LETTER CHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 6197,
@@ -381,7 +475,9 @@
     "name": "MONGOLIAN LETTER JA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "джа"],
+    "concepts": []
   },
   {
     "cp": 6198,
@@ -389,7 +485,9 @@
     "name": "MONGOLIAN LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 6199,
@@ -397,7 +495,9 @@
     "name": "MONGOLIAN LETTER RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 6200,
@@ -405,7 +505,9 @@
     "name": "MONGOLIAN LETTER WA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "ва"],
+    "concepts": []
   },
   {
     "cp": 6201,
@@ -413,7 +515,9 @@
     "name": "MONGOLIAN LETTER FA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "фа"],
+    "concepts": []
   },
   {
     "cp": 6202,
@@ -421,7 +525,9 @@
     "name": "MONGOLIAN LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 6203,
@@ -429,7 +535,9 @@
     "name": "MONGOLIAN LETTER KHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "кха"],
+    "concepts": []
   },
   {
     "cp": 6204,
@@ -437,7 +545,9 @@
     "name": "MONGOLIAN LETTER TSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "ца"],
+    "concepts": []
   },
   {
     "cp": 6205,
@@ -445,7 +555,9 @@
     "name": "MONGOLIAN LETTER ZA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "за"],
+    "concepts": []
   },
   {
     "cp": 6206,
@@ -453,7 +565,9 @@
     "name": "MONGOLIAN LETTER HAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "хаа"],
+    "concepts": []
   },
   {
     "cp": 6207,
@@ -461,7 +575,9 @@
     "name": "MONGOLIAN LETTER ZRA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква"],
+    "concepts": ["fire"]
   },
   {
     "cp": 6208,
@@ -469,7 +585,9 @@
     "name": "MONGOLIAN LETTER LHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "лха"],
+    "concepts": []
   },
   {
     "cp": 6209,
@@ -477,7 +595,9 @@
     "name": "MONGOLIAN LETTER ZHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "жи"],
+    "concepts": []
   },
   {
     "cp": 6210,
@@ -485,7 +605,9 @@
     "name": "MONGOLIAN LETTER CHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "хи"],
+    "concepts": []
   },
   {
     "cp": 6211,
@@ -493,7 +615,9 @@
     "name": "MONGOLIAN LETTER TODO LONG VOWEL SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "длинный", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 6212,
@@ -501,7 +625,9 @@
     "name": "MONGOLIAN LETTER TODO E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)"],
+    "concepts": []
   },
   {
     "cp": 6213,
@@ -509,7 +635,9 @@
     "name": "MONGOLIAN LETTER TODO I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)"],
+    "concepts": []
   },
   {
     "cp": 6214,
@@ -517,7 +645,9 @@
     "name": "MONGOLIAN LETTER TODO O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)"],
+    "concepts": []
   },
   {
     "cp": 6215,
@@ -525,7 +655,9 @@
     "name": "MONGOLIAN LETTER TODO U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)"],
+    "concepts": []
   },
   {
     "cp": 6216,
@@ -533,7 +665,9 @@
     "name": "MONGOLIAN LETTER TODO OE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "oe (лигатура)"],
+    "concepts": []
   },
   {
     "cp": 6217,
@@ -541,7 +675,9 @@
     "name": "MONGOLIAN LETTER TODO UE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "уэ"],
+    "concepts": []
   },
   {
     "cp": 6218,
@@ -549,7 +685,9 @@
     "name": "MONGOLIAN LETTER TODO ANG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "анг"],
+    "concepts": []
   },
   {
     "cp": 6219,
@@ -557,7 +695,9 @@
     "name": "MONGOLIAN LETTER TODO BA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "ба"],
+    "concepts": []
   },
   {
     "cp": 6220,
@@ -565,7 +705,9 @@
     "name": "MONGOLIAN LETTER TODO PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "па"],
+    "concepts": []
   },
   {
     "cp": 6221,
@@ -573,7 +715,9 @@
     "name": "MONGOLIAN LETTER TODO QA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "ка (qa)"],
+    "concepts": []
   },
   {
     "cp": 6222,
@@ -581,7 +725,9 @@
     "name": "MONGOLIAN LETTER TODO GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "га"],
+    "concepts": []
   },
   {
     "cp": 6223,
@@ -589,7 +735,9 @@
     "name": "MONGOLIAN LETTER TODO MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "ма"],
+    "concepts": []
   },
   {
     "cp": 6224,
@@ -597,7 +745,9 @@
     "name": "MONGOLIAN LETTER TODO TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "та"],
+    "concepts": []
   },
   {
     "cp": 6225,
@@ -605,7 +755,9 @@
     "name": "MONGOLIAN LETTER TODO DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "да"],
+    "concepts": []
   },
   {
     "cp": 6226,
@@ -613,7 +765,9 @@
     "name": "MONGOLIAN LETTER TODO CHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "ча"],
+    "concepts": []
   },
   {
     "cp": 6227,
@@ -621,7 +775,9 @@
     "name": "MONGOLIAN LETTER TODO JA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "джа"],
+    "concepts": []
   },
   {
     "cp": 6228,
@@ -629,7 +785,9 @@
     "name": "MONGOLIAN LETTER TODO TSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "ца"],
+    "concepts": []
   },
   {
     "cp": 6229,
@@ -637,7 +795,9 @@
     "name": "MONGOLIAN LETTER TODO YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "я"],
+    "concepts": []
   },
   {
     "cp": 6230,
@@ -645,7 +805,9 @@
     "name": "MONGOLIAN LETTER TODO WA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "ва"],
+    "concepts": []
   },
   {
     "cp": 6231,
@@ -653,7 +815,9 @@
     "name": "MONGOLIAN LETTER TODO KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "ка"],
+    "concepts": []
   },
   {
     "cp": 6232,
@@ -661,7 +825,9 @@
     "name": "MONGOLIAN LETTER TODO GAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "гаа"],
+    "concepts": []
   },
   {
     "cp": 6233,
@@ -669,7 +835,9 @@
     "name": "MONGOLIAN LETTER TODO HAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "хаа"],
+    "concepts": []
   },
   {
     "cp": 6234,
@@ -677,7 +845,9 @@
     "name": "MONGOLIAN LETTER TODO JIA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)"],
+    "concepts": []
   },
   {
     "cp": 6235,
@@ -685,7 +855,9 @@
     "name": "MONGOLIAN LETTER TODO NIA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)"],
+    "concepts": []
   },
   {
     "cp": 6236,
@@ -693,7 +865,9 @@
     "name": "MONGOLIAN LETTER TODO DZA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "дза"],
+    "concepts": []
   },
   {
     "cp": 6237,
@@ -701,7 +875,9 @@
     "name": "MONGOLIAN LETTER SIBE E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо"],
+    "concepts": []
   },
   {
     "cp": 6238,
@@ -709,7 +885,9 @@
     "name": "MONGOLIAN LETTER SIBE I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо"],
+    "concepts": []
   },
   {
     "cp": 6239,
@@ -717,7 +895,9 @@
     "name": "MONGOLIAN LETTER SIBE IY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо", "ий"],
+    "concepts": []
   },
   {
     "cp": 6240,
@@ -725,7 +905,9 @@
     "name": "MONGOLIAN LETTER SIBE UE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо", "уэ"],
+    "concepts": []
   },
   {
     "cp": 6241,
@@ -733,7 +915,9 @@
     "name": "MONGOLIAN LETTER SIBE U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо"],
+    "concepts": []
   },
   {
     "cp": 6242,
@@ -741,7 +925,9 @@
     "name": "MONGOLIAN LETTER SIBE ANG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо", "анг"],
+    "concepts": []
   },
   {
     "cp": 6243,
@@ -749,7 +935,9 @@
     "name": "MONGOLIAN LETTER SIBE KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо", "ка"],
+    "concepts": []
   },
   {
     "cp": 6244,
@@ -757,7 +945,9 @@
     "name": "MONGOLIAN LETTER SIBE GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо", "га"],
+    "concepts": []
   },
   {
     "cp": 6245,
@@ -765,7 +955,9 @@
     "name": "MONGOLIAN LETTER SIBE HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо", "ха"],
+    "concepts": []
   },
   {
     "cp": 6246,
@@ -773,7 +965,9 @@
     "name": "MONGOLIAN LETTER SIBE PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо", "па"],
+    "concepts": []
   },
   {
     "cp": 6247,
@@ -781,7 +975,9 @@
     "name": "MONGOLIAN LETTER SIBE SHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо", "ша"],
+    "concepts": []
   },
   {
     "cp": 6248,
@@ -789,7 +985,9 @@
     "name": "MONGOLIAN LETTER SIBE TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо", "та"],
+    "concepts": []
   },
   {
     "cp": 6249,
@@ -797,7 +995,9 @@
     "name": "MONGOLIAN LETTER SIBE DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо", "да"],
+    "concepts": []
   },
   {
     "cp": 6250,
@@ -805,7 +1005,9 @@
     "name": "MONGOLIAN LETTER SIBE JA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо", "джа"],
+    "concepts": []
   },
   {
     "cp": 6251,
@@ -813,7 +1015,9 @@
     "name": "MONGOLIAN LETTER SIBE FA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо", "фа"],
+    "concepts": []
   },
   {
     "cp": 6252,
@@ -821,7 +1025,9 @@
     "name": "MONGOLIAN LETTER SIBE GAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо", "гаа"],
+    "concepts": []
   },
   {
     "cp": 6253,
@@ -829,7 +1035,9 @@
     "name": "MONGOLIAN LETTER SIBE HAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо", "хаа"],
+    "concepts": []
   },
   {
     "cp": 6254,
@@ -837,7 +1045,9 @@
     "name": "MONGOLIAN LETTER SIBE TSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо", "ца"],
+    "concepts": []
   },
   {
     "cp": 6255,
@@ -845,7 +1055,9 @@
     "name": "MONGOLIAN LETTER SIBE ZA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо", "за"],
+    "concepts": []
   },
   {
     "cp": 6256,
@@ -853,7 +1065,9 @@
     "name": "MONGOLIAN LETTER SIBE RAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо", "раа"],
+    "concepts": []
   },
   {
     "cp": 6257,
@@ -861,7 +1075,9 @@
     "name": "MONGOLIAN LETTER SIBE CHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо", "ча"],
+    "concepts": []
   },
   {
     "cp": 6258,
@@ -869,7 +1085,9 @@
     "name": "MONGOLIAN LETTER SIBE ZHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "сибо", "жа"],
+    "concepts": []
   },
   {
     "cp": 6259,
@@ -877,7 +1095,9 @@
     "name": "MONGOLIAN LETTER MANCHU I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "маньчжурский"],
+    "concepts": []
   },
   {
     "cp": 6260,
@@ -885,7 +1105,9 @@
     "name": "MONGOLIAN LETTER MANCHU KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "маньчжурский", "ка"],
+    "concepts": []
   },
   {
     "cp": 6261,
@@ -893,7 +1115,9 @@
     "name": "MONGOLIAN LETTER MANCHU RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "маньчжурский", "ра"],
+    "concepts": []
   },
   {
     "cp": 6262,
@@ -901,7 +1125,9 @@
     "name": "MONGOLIAN LETTER MANCHU FA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "маньчжурский", "фа"],
+    "concepts": []
   },
   {
     "cp": 6263,
@@ -909,7 +1135,9 @@
     "name": "MONGOLIAN LETTER MANCHU ZHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "маньчжурский", "жа"],
+    "concepts": []
   },
   {
     "cp": 6264,
@@ -917,7 +1145,9 @@
     "name": "MONGOLIAN LETTER CHA WITH TWO DOTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "ча", "с", "два", "точки"],
+    "concepts": []
   },
   {
     "cp": 6272,
@@ -925,7 +1155,9 @@
     "name": "MONGOLIAN LETTER ALI GALI ANUSVARA ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "анусвара", "один"],
+    "concepts": []
   },
   {
     "cp": 6273,
@@ -933,7 +1165,9 @@
     "name": "MONGOLIAN LETTER ALI GALI VISARGA ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "висарга", "один"],
+    "concepts": []
   },
   {
     "cp": 6274,
@@ -941,7 +1175,9 @@
     "name": "MONGOLIAN LETTER ALI GALI DAMARU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали"],
+    "concepts": []
   },
   {
     "cp": 6275,
@@ -949,7 +1185,9 @@
     "name": "MONGOLIAN LETTER ALI GALI UBADAMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали"],
+    "concepts": []
   },
   {
     "cp": 6276,
@@ -957,7 +1195,9 @@
     "name": "MONGOLIAN LETTER ALI GALI INVERTED UBADAMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "перевёрнутый"],
+    "concepts": []
   },
   {
     "cp": 6277,
@@ -965,7 +1205,9 @@
     "name": "MONGOLIAN LETTER ALI GALI BALUDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали"],
+    "concepts": []
   },
   {
     "cp": 6278,
@@ -973,7 +1215,9 @@
     "name": "MONGOLIAN LETTER ALI GALI THREE BALUDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "три"],
+    "concepts": []
   },
   {
     "cp": 6279,
@@ -981,7 +1225,9 @@
     "name": "MONGOLIAN LETTER ALI GALI A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали"],
+    "concepts": []
   },
   {
     "cp": 6280,
@@ -989,7 +1235,9 @@
     "name": "MONGOLIAN LETTER ALI GALI I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали"],
+    "concepts": []
   },
   {
     "cp": 6281,
@@ -997,7 +1245,9 @@
     "name": "MONGOLIAN LETTER ALI GALI KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "ка"],
+    "concepts": []
   },
   {
     "cp": 6282,
@@ -1005,7 +1255,9 @@
     "name": "MONGOLIAN LETTER ALI GALI NGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "нга"],
+    "concepts": []
   },
   {
     "cp": 6283,
@@ -1013,7 +1265,9 @@
     "name": "MONGOLIAN LETTER ALI GALI CA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "ча"],
+    "concepts": []
   },
   {
     "cp": 6284,
@@ -1021,7 +1275,9 @@
     "name": "MONGOLIAN LETTER ALI GALI TTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "тта"],
+    "concepts": []
   },
   {
     "cp": 6285,
@@ -1029,7 +1285,9 @@
     "name": "MONGOLIAN LETTER ALI GALI TTHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "ттха"],
+    "concepts": []
   },
   {
     "cp": 6286,
@@ -1037,7 +1295,9 @@
     "name": "MONGOLIAN LETTER ALI GALI DDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "дда"],
+    "concepts": []
   },
   {
     "cp": 6287,
@@ -1045,7 +1305,9 @@
     "name": "MONGOLIAN LETTER ALI GALI NNA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "нна"],
+    "concepts": []
   },
   {
     "cp": 6288,
@@ -1053,7 +1315,9 @@
     "name": "MONGOLIAN LETTER ALI GALI TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "та"],
+    "concepts": []
   },
   {
     "cp": 6289,
@@ -1061,7 +1325,9 @@
     "name": "MONGOLIAN LETTER ALI GALI DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "да"],
+    "concepts": []
   },
   {
     "cp": 6290,
@@ -1069,7 +1335,9 @@
     "name": "MONGOLIAN LETTER ALI GALI PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "па"],
+    "concepts": []
   },
   {
     "cp": 6291,
@@ -1077,7 +1345,9 @@
     "name": "MONGOLIAN LETTER ALI GALI PHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "пха"],
+    "concepts": []
   },
   {
     "cp": 6292,
@@ -1085,7 +1355,9 @@
     "name": "MONGOLIAN LETTER ALI GALI SSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "сса"],
+    "concepts": []
   },
   {
     "cp": 6293,
@@ -1093,7 +1365,9 @@
     "name": "MONGOLIAN LETTER ALI GALI ZHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "жа"],
+    "concepts": []
   },
   {
     "cp": 6294,
@@ -1101,7 +1375,9 @@
     "name": "MONGOLIAN LETTER ALI GALI ZA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "за"],
+    "concepts": []
   },
   {
     "cp": 6295,
@@ -1109,7 +1385,9 @@
     "name": "MONGOLIAN LETTER ALI GALI AH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "ах"],
+    "concepts": []
   },
   {
     "cp": 6296,
@@ -1117,7 +1395,9 @@
     "name": "MONGOLIAN LETTER TODO ALI GALI TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "али", "гали", "та"],
+    "concepts": []
   },
   {
     "cp": 6297,
@@ -1125,7 +1405,9 @@
     "name": "MONGOLIAN LETTER TODO ALI GALI ZHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "тодо (ясное письмо)", "али", "гали", "жа"],
+    "concepts": []
   },
   {
     "cp": 6298,
@@ -1133,7 +1415,9 @@
     "name": "MONGOLIAN LETTER MANCHU ALI GALI GHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "маньчжурский", "али", "гали", "гха"],
+    "concepts": []
   },
   {
     "cp": 6299,
@@ -1141,7 +1425,9 @@
     "name": "MONGOLIAN LETTER MANCHU ALI GALI NGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "маньчжурский", "али", "гали", "нга"],
+    "concepts": []
   },
   {
     "cp": 6300,
@@ -1149,7 +1435,9 @@
     "name": "MONGOLIAN LETTER MANCHU ALI GALI CA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "маньчжурский", "али", "гали", "ча"],
+    "concepts": []
   },
   {
     "cp": 6301,
@@ -1157,7 +1445,9 @@
     "name": "MONGOLIAN LETTER MANCHU ALI GALI JHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "маньчжурский", "али", "гали", "джха"],
+    "concepts": []
   },
   {
     "cp": 6302,
@@ -1165,7 +1455,9 @@
     "name": "MONGOLIAN LETTER MANCHU ALI GALI TTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "маньчжурский", "али", "гали", "тта"],
+    "concepts": []
   },
   {
     "cp": 6303,
@@ -1173,7 +1465,9 @@
     "name": "MONGOLIAN LETTER MANCHU ALI GALI DDHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "маньчжурский", "али", "гали", "ддха"],
+    "concepts": []
   },
   {
     "cp": 6304,
@@ -1181,7 +1475,9 @@
     "name": "MONGOLIAN LETTER MANCHU ALI GALI TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "маньчжурский", "али", "гали", "та"],
+    "concepts": []
   },
   {
     "cp": 6305,
@@ -1189,7 +1485,9 @@
     "name": "MONGOLIAN LETTER MANCHU ALI GALI DHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "маньчжурский", "али", "гали", "дха"],
+    "concepts": []
   },
   {
     "cp": 6306,
@@ -1197,7 +1495,9 @@
     "name": "MONGOLIAN LETTER MANCHU ALI GALI SSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "маньчжурский", "али", "гали", "сса"],
+    "concepts": []
   },
   {
     "cp": 6307,
@@ -1205,7 +1505,9 @@
     "name": "MONGOLIAN LETTER MANCHU ALI GALI CYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "маньчжурский", "али", "гали"],
+    "concepts": []
   },
   {
     "cp": 6308,
@@ -1213,7 +1515,9 @@
     "name": "MONGOLIAN LETTER MANCHU ALI GALI ZHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "маньчжурский", "али", "гали", "жа"],
+    "concepts": []
   },
   {
     "cp": 6309,
@@ -1221,7 +1525,9 @@
     "name": "MONGOLIAN LETTER MANCHU ALI GALI ZA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "маньчжурский", "али", "гали", "за"],
+    "concepts": []
   },
   {
     "cp": 6310,
@@ -1229,7 +1535,9 @@
     "name": "MONGOLIAN LETTER ALI GALI HALF U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "половина"],
+    "concepts": []
   },
   {
     "cp": 6311,
@@ -1237,7 +1545,9 @@
     "name": "MONGOLIAN LETTER ALI GALI HALF YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали", "половина", "я"],
+    "concepts": []
   },
   {
     "cp": 6312,
@@ -1245,7 +1555,9 @@
     "name": "MONGOLIAN LETTER MANCHU ALI GALI BHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "маньчжурский", "али", "гали", "бха"],
+    "concepts": []
   },
   {
     "cp": 6313,
@@ -1253,7 +1565,9 @@
     "name": "MONGOLIAN LETTER ALI GALI DAGALGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "али", "гали"],
+    "concepts": []
   },
   {
     "cp": 6314,
@@ -1261,6 +1575,8 @@
     "name": "MONGOLIAN LETTER MANCHU ALI GALI LHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["монгольский", "буква", "маньчжурский", "али", "гали", "лха"],
+    "concepts": []
   }
 ]

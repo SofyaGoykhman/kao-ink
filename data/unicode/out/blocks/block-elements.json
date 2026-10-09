@@ -5,7 +5,9 @@
     "name": "UPPER HALF BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["верхний", "половина", "блок"],
+    "concepts": []
   },
   {
     "cp": 9601,
@@ -13,7 +15,9 @@
     "name": "LOWER ONE EIGHTH BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний", "один", "восьмая", "блок"],
+    "concepts": []
   },
   {
     "cp": 9602,
@@ -21,7 +25,9 @@
     "name": "LOWER ONE QUARTER BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний", "один", "четверть", "блок"],
+    "concepts": []
   },
   {
     "cp": 9603,
@@ -29,7 +35,9 @@
     "name": "LOWER THREE EIGHTHS BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний", "три", "восьмые", "блок"],
+    "concepts": []
   },
   {
     "cp": 9604,
@@ -37,7 +45,9 @@
     "name": "LOWER HALF BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний", "половина", "блок"],
+    "concepts": []
   },
   {
     "cp": 9605,
@@ -45,7 +55,9 @@
     "name": "LOWER FIVE EIGHTHS BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний", "пять", "восьмые", "блок"],
+    "concepts": []
   },
   {
     "cp": 9606,
@@ -53,7 +65,9 @@
     "name": "LOWER THREE QUARTERS BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний", "три", "четверти", "блок"],
+    "concepts": []
   },
   {
     "cp": 9607,
@@ -61,7 +75,9 @@
     "name": "LOWER SEVEN EIGHTHS BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний", "семь", "восьмые", "блок"],
+    "concepts": []
   },
   {
     "cp": 9608,
@@ -69,7 +85,9 @@
     "name": "FULL BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["полный", "блок"],
+    "concepts": []
   },
   {
     "cp": 9609,
@@ -77,7 +95,9 @@
     "name": "LEFT SEVEN EIGHTHS BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "семь", "восьмые", "блок"],
+    "concepts": []
   },
   {
     "cp": 9610,
@@ -85,7 +105,9 @@
     "name": "LEFT THREE QUARTERS BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "три", "четверти", "блок"],
+    "concepts": []
   },
   {
     "cp": 9611,
@@ -93,7 +115,9 @@
     "name": "LEFT FIVE EIGHTHS BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "пять", "восьмые", "блок"],
+    "concepts": []
   },
   {
     "cp": 9612,
@@ -101,7 +125,9 @@
     "name": "LEFT HALF BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "половина", "блок"],
+    "concepts": []
   },
   {
     "cp": 9613,
@@ -109,7 +135,9 @@
     "name": "LEFT THREE EIGHTHS BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "три", "восьмые", "блок"],
+    "concepts": []
   },
   {
     "cp": 9614,
@@ -117,7 +145,9 @@
     "name": "LEFT ONE QUARTER BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "один", "четверть", "блок"],
+    "concepts": []
   },
   {
     "cp": 9615,
@@ -125,7 +155,9 @@
     "name": "LEFT ONE EIGHTH BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "один", "восьмая", "блок"],
+    "concepts": []
   },
   {
     "cp": 9616,
@@ -133,7 +165,9 @@
     "name": "RIGHT HALF BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "половина", "блок"],
+    "concepts": []
   },
   {
     "cp": 9617,
@@ -141,7 +175,9 @@
     "name": "LIGHT SHADE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тонкий (светлый)", "штриховка (тень)"],
+    "concepts": []
   },
   {
     "cp": 9618,
@@ -149,7 +185,9 @@
     "name": "MEDIUM SHADE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["средний", "штриховка (тень)"],
+    "concepts": []
   },
   {
     "cp": 9619,
@@ -157,7 +195,9 @@
     "name": "DARK SHADE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тёмный", "штриховка (тень)"],
+    "concepts": []
   },
   {
     "cp": 9620,
@@ -165,7 +205,9 @@
     "name": "UPPER ONE EIGHTH BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["верхний", "один", "восьмая", "блок"],
+    "concepts": []
   },
   {
     "cp": 9621,
@@ -173,7 +215,9 @@
     "name": "RIGHT ONE EIGHTH BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "один", "восьмая", "блок"],
+    "concepts": []
   },
   {
     "cp": 9622,
@@ -181,7 +225,9 @@
     "name": "QUADRANT LOWER LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["квадрант (четверть клетки)", "нижний", "левый (влево)"],
+    "concepts": []
   },
   {
     "cp": 9623,
@@ -189,7 +235,9 @@
     "name": "QUADRANT LOWER RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["квадрант (четверть клетки)", "нижний", "правый (вправо)"],
+    "concepts": []
   },
   {
     "cp": 9624,
@@ -197,7 +245,9 @@
     "name": "QUADRANT UPPER LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["квадрант (четверть клетки)", "верхний", "левый (влево)"],
+    "concepts": []
   },
   {
     "cp": 9625,
@@ -205,7 +255,16 @@
     "name": "QUADRANT UPPER LEFT AND LOWER LEFT AND LOWER RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "квадрант (четверть клетки)",
+      "верхний",
+      "левый (влево)",
+      "и",
+      "нижний",
+      "правый (вправо)"
+    ],
+    "concepts": []
   },
   {
     "cp": 9626,
@@ -213,7 +272,16 @@
     "name": "QUADRANT UPPER LEFT AND LOWER RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "квадрант (четверть клетки)",
+      "верхний",
+      "левый (влево)",
+      "и",
+      "нижний",
+      "правый (вправо)"
+    ],
+    "concepts": []
   },
   {
     "cp": 9627,
@@ -221,7 +289,16 @@
     "name": "QUADRANT UPPER LEFT AND UPPER RIGHT AND LOWER LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "квадрант (четверть клетки)",
+      "верхний",
+      "левый (влево)",
+      "и",
+      "правый (вправо)",
+      "нижний"
+    ],
+    "concepts": []
   },
   {
     "cp": 9628,
@@ -229,7 +306,16 @@
     "name": "QUADRANT UPPER LEFT AND UPPER RIGHT AND LOWER RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "квадрант (четверть клетки)",
+      "верхний",
+      "левый (влево)",
+      "и",
+      "правый (вправо)",
+      "нижний"
+    ],
+    "concepts": []
   },
   {
     "cp": 9629,
@@ -237,7 +323,9 @@
     "name": "QUADRANT UPPER RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["квадрант (четверть клетки)", "верхний", "правый (вправо)"],
+    "concepts": []
   },
   {
     "cp": 9630,
@@ -245,7 +333,16 @@
     "name": "QUADRANT UPPER RIGHT AND LOWER LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "квадрант (четверть клетки)",
+      "верхний",
+      "правый (вправо)",
+      "и",
+      "нижний",
+      "левый (влево)"
+    ],
+    "concepts": []
   },
   {
     "cp": 9631,
@@ -253,6 +350,15 @@
     "name": "QUADRANT UPPER RIGHT AND LOWER LEFT AND LOWER RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "квадрант (четверть клетки)",
+      "верхний",
+      "правый (вправо)",
+      "и",
+      "нижний",
+      "левый (влево)"
+    ],
+    "concepts": []
   }
 ]

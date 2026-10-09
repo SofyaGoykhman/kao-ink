@@ -5,7 +5,9 @@
     "name": "ROMAN SEXTANS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "секстанс", "знак"],
+    "concepts": []
   },
   {
     "cp": 65937,
@@ -13,7 +15,9 @@
     "name": "ROMAN UNCIA SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "унция", "знак"],
+    "concepts": []
   },
   {
     "cp": 65938,
@@ -21,7 +25,9 @@
     "name": "ROMAN SEMUNCIA SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "семунция", "знак"],
+    "concepts": []
   },
   {
     "cp": 65939,
@@ -29,7 +35,9 @@
     "name": "ROMAN SEXTULA SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "секстула", "знак"],
+    "concepts": []
   },
   {
     "cp": 65940,
@@ -37,7 +45,9 @@
     "name": "ROMAN DIMIDIA SEXTULA SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "половина", "секстула", "знак"],
+    "concepts": []
   },
   {
     "cp": 65941,
@@ -45,7 +55,9 @@
     "name": "ROMAN SILIQUA SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "силиква", "знак"],
+    "concepts": []
   },
   {
     "cp": 65942,
@@ -53,7 +65,9 @@
     "name": "ROMAN DENARIUS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "денарий", "знак"],
+    "concepts": []
   },
   {
     "cp": 65943,
@@ -61,7 +75,9 @@
     "name": "ROMAN QUINARIUS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "квинарий", "знак"],
+    "concepts": []
   },
   {
     "cp": 65944,
@@ -69,7 +85,9 @@
     "name": "ROMAN SESTERTIUS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "сестерций", "знак"],
+    "concepts": []
   },
   {
     "cp": 65945,
@@ -77,7 +95,9 @@
     "name": "ROMAN DUPONDIUS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "дупондий", "знак"],
+    "concepts": []
   },
   {
     "cp": 65946,
@@ -85,7 +105,9 @@
     "name": "ROMAN AS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "как", "знак"],
+    "concepts": []
   },
   {
     "cp": 65947,
@@ -93,7 +115,9 @@
     "name": "ROMAN CENTURIAL SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "центурия", "знак"],
+    "concepts": []
   },
   {
     "cp": 65948,
@@ -101,7 +125,9 @@
     "name": "ASCIA SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["асция (тесло)", "символ"],
+    "concepts": []
   },
   {
     "cp": 65952,
@@ -109,6 +135,8 @@
     "name": "GREEK SYMBOL TAU RHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "символ", "тау", "ро"],
+    "concepts": []
   }
 ]

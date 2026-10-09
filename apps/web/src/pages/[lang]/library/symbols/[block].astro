@@ -2,7 +2,7 @@
 import Crumbs from '../../../../components/Crumbs.astro';
 import Base from '../../../../layouts/Base.astro';
 import { langs, useTranslations, type Lang } from '../../../../i18n/ui';
-import { blocks, formatCodePoint, loadBlockChars } from '../../../../data/unicode';
+import { blocks, charLabel, formatCodePoint, loadBlockChars } from '../../../../data/unicode';
 
 export function getStaticPaths() {
   return langs.flatMap((lang) =>
@@ -15,8 +15,7 @@ const t = useTranslations(lang);
 const block = blocks.find((b) => b.id === Astro.params.block)!;
 const chars = await loadBlockChars(block.id);
 const title = lang === 'ru' ? block.ru : block.name;
-const label = (c: (typeof chars)[number]) =>
-  (lang === 'ru' ? (c.ru ?? c.en) : c.en) ?? c.name.toLowerCase();
+const label = (c: (typeof chars)[number]) => charLabel(c, lang);
 ---
 
 <Base
@@ -44,7 +43,15 @@ const label = (c: (typeof chars)[number]) =>
   <ul class="grid">
     {chars.map((c) => (
       <li
-        data-search={[c.name, c.ru, c.en, ...c.keywords.ru, ...c.keywords.en, formatCodePoint(c.cp)]
+        data-search={[
+          c.name,
+          c.ru,
+          c.en,
+          ...c.desc,
+          ...c.keywords.ru,
+          ...c.keywords.en,
+          formatCodePoint(c.cp),
+        ]
           .filter(Boolean)
           .join(' ')
           .toLowerCase()}

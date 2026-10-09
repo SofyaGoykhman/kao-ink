@@ -5,7 +5,9 @@
     "name": "MODIFIER LETTER SMALL CAPITAL AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "заглавный", "аа"],
+    "concepts": []
   },
   {
     "cp": 67457,
@@ -13,7 +15,9 @@
     "name": "MODIFIER LETTER SUPERSCRIPT TRIANGULAR COLON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "верхний индекс", "треугольный", "двоеточие"],
+    "concepts": []
   },
   {
     "cp": 67458,
@@ -21,7 +25,9 @@
     "name": "MODIFIER LETTER SUPERSCRIPT HALF TRIANGULAR COLON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "верхний индекс", "половина", "треугольный", "двоеточие"],
+    "concepts": []
   },
   {
     "cp": 67459,
@@ -29,7 +35,9 @@
     "name": "MODIFIER LETTER SMALL AE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "ae (лигатура)"],
+    "concepts": []
   },
   {
     "cp": 67460,
@@ -37,7 +45,9 @@
     "name": "MODIFIER LETTER SMALL CAPITAL B",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 67461,
@@ -45,7 +55,9 @@
     "name": "MODIFIER LETTER SMALL B WITH HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "с", "крючок"],
+    "concepts": []
   },
   {
     "cp": 67463,
@@ -53,7 +65,9 @@
     "name": "MODIFIER LETTER SMALL DZ DIGRAPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "дз", "диграф"],
+    "concepts": []
   },
   {
     "cp": 67464,
@@ -61,7 +75,18 @@
     "name": "MODIFIER LETTER SMALL DZ DIGRAPH WITH RETROFLEX HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "модификатор",
+      "буква",
+      "маленький (строчный)",
+      "дз",
+      "диграф",
+      "с",
+      "ретрофлексный",
+      "крючок"
+    ],
+    "concepts": []
   },
   {
     "cp": 67465,
@@ -69,7 +94,9 @@
     "name": "MODIFIER LETTER SMALL DZ DIGRAPH WITH CURL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "дз", "диграф", "с", "завиток"],
+    "concepts": []
   },
   {
     "cp": 67466,
@@ -77,7 +104,9 @@
     "name": "MODIFIER LETTER SMALL DEZH DIGRAPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "дэж (ʤ)", "диграф"],
+    "concepts": []
   },
   {
     "cp": 67467,
@@ -85,7 +114,9 @@
     "name": "MODIFIER LETTER SMALL D WITH TAIL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "с", "хвост"],
+    "concepts": []
   },
   {
     "cp": 67468,
@@ -93,7 +124,9 @@
     "name": "MODIFIER LETTER SMALL D WITH HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "с", "крючок"],
+    "concepts": []
   },
   {
     "cp": 67469,
@@ -101,7 +134,9 @@
     "name": "MODIFIER LETTER SMALL D WITH HOOK AND TAIL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "с", "крючок", "и", "хвост"],
+    "concepts": []
   },
   {
     "cp": 67470,
@@ -109,7 +144,9 @@
     "name": "MODIFIER LETTER SMALL REVERSED E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "зеркальный (обратный)"],
+    "concepts": []
   },
   {
     "cp": 67471,
@@ -117,7 +154,16 @@
     "name": "MODIFIER LETTER SMALL CLOSED REVERSED OPEN E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "модификатор",
+      "буква",
+      "маленький (строчный)",
+      "закрытый",
+      "зеркальный (обратный)",
+      "открытый"
+    ],
+    "concepts": []
   },
   {
     "cp": 67472,
@@ -125,7 +171,9 @@
     "name": "MODIFIER LETTER SMALL FENG DIGRAPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "фэн", "диграф"],
+    "concepts": []
   },
   {
     "cp": 67473,
@@ -133,7 +181,9 @@
     "name": "MODIFIER LETTER SMALL RAMS HORN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "бараны", "рожок"],
+    "concepts": []
   },
   {
     "cp": 67474,
@@ -141,7 +191,9 @@
     "name": "MODIFIER LETTER SMALL CAPITAL G",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 67475,
@@ -149,7 +201,9 @@
     "name": "MODIFIER LETTER SMALL G WITH HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "с", "крючок"],
+    "concepts": []
   },
   {
     "cp": 67476,
@@ -157,7 +211,9 @@
     "name": "MODIFIER LETTER SMALL CAPITAL G WITH HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "заглавный", "с", "крючок"],
+    "concepts": []
   },
   {
     "cp": 67477,
@@ -165,7 +221,9 @@
     "name": "MODIFIER LETTER SMALL H WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 67478,
@@ -173,7 +231,9 @@
     "name": "MODIFIER LETTER SMALL CAPITAL H",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 67479,
@@ -181,7 +241,9 @@
     "name": "MODIFIER LETTER SMALL HENG WITH HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "хенг", "с", "крючок"],
+    "concepts": []
   },
   {
     "cp": 67480,
@@ -189,7 +251,18 @@
     "name": "MODIFIER LETTER SMALL DOTLESS J WITH STROKE AND HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "модификатор",
+      "буква",
+      "маленький (строчный)",
+      "без точки",
+      "с",
+      "черта (штрих)",
+      "и",
+      "крючок"
+    ],
+    "concepts": []
   },
   {
     "cp": 67481,
@@ -197,7 +270,9 @@
     "name": "MODIFIER LETTER SMALL LS DIGRAPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "лс", "диграф"],
+    "concepts": []
   },
   {
     "cp": 67482,
@@ -205,7 +280,9 @@
     "name": "MODIFIER LETTER SMALL LZ DIGRAPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "лз", "диграф"],
+    "concepts": []
   },
   {
     "cp": 67483,
@@ -213,7 +290,9 @@
     "name": "MODIFIER LETTER SMALL L WITH BELT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "с", "пояс (ремень)"],
+    "concepts": []
   },
   {
     "cp": 67484,
@@ -221,7 +300,9 @@
     "name": "MODIFIER LETTER SMALL CAPITAL L WITH BELT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "заглавный", "с", "пояс (ремень)"],
+    "concepts": []
   },
   {
     "cp": 67485,
@@ -229,7 +310,18 @@
     "name": "MODIFIER LETTER SMALL L WITH RETROFLEX HOOK AND BELT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "модификатор",
+      "буква",
+      "маленький (строчный)",
+      "с",
+      "ретрофлексный",
+      "крючок",
+      "и",
+      "пояс (ремень)"
+    ],
+    "concepts": []
   },
   {
     "cp": 67486,
@@ -237,7 +329,9 @@
     "name": "MODIFIER LETTER SMALL LEZH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "леж (ɮ)"],
+    "concepts": []
   },
   {
     "cp": 67487,
@@ -245,7 +339,17 @@
     "name": "MODIFIER LETTER SMALL LEZH WITH RETROFLEX HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "модификатор",
+      "буква",
+      "маленький (строчный)",
+      "леж (ɮ)",
+      "с",
+      "ретрофлексный",
+      "крючок"
+    ],
+    "concepts": []
   },
   {
     "cp": 67488,
@@ -253,7 +357,9 @@
     "name": "MODIFIER LETTER SMALL TURNED Y",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "перевёрнутый"],
+    "concepts": []
   },
   {
     "cp": 67489,
@@ -261,7 +367,9 @@
     "name": "MODIFIER LETTER SMALL TURNED Y WITH BELT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "перевёрнутый", "с", "пояс (ремень)"],
+    "concepts": []
   },
   {
     "cp": 67490,
@@ -269,7 +377,9 @@
     "name": "MODIFIER LETTER SMALL O WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 67491,
@@ -277,7 +387,9 @@
     "name": "MODIFIER LETTER SMALL CAPITAL OE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "заглавный", "oe (лигатура)"],
+    "concepts": []
   },
   {
     "cp": 67492,
@@ -285,7 +397,9 @@
     "name": "MODIFIER LETTER SMALL CLOSED OMEGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "закрытый", "омега"],
+    "concepts": []
   },
   {
     "cp": 67493,
@@ -293,7 +407,9 @@
     "name": "MODIFIER LETTER SMALL Q",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 67494,
@@ -301,7 +417,17 @@
     "name": "MODIFIER LETTER SMALL TURNED R WITH LONG LEG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "модификатор",
+      "буква",
+      "маленький (строчный)",
+      "перевёрнутый",
+      "с",
+      "длинный",
+      "нога"
+    ],
+    "concepts": []
   },
   {
     "cp": 67495,
@@ -309,7 +435,20 @@
     "name": "MODIFIER LETTER SMALL TURNED R WITH LONG LEG AND RETROFLEX HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "модификатор",
+      "буква",
+      "маленький (строчный)",
+      "перевёрнутый",
+      "с",
+      "длинный",
+      "нога",
+      "и",
+      "ретрофлексный",
+      "крючок"
+    ],
+    "concepts": []
   },
   {
     "cp": 67496,
@@ -317,7 +456,9 @@
     "name": "MODIFIER LETTER SMALL R WITH TAIL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "с", "хвост"],
+    "concepts": []
   },
   {
     "cp": 67497,
@@ -325,7 +466,9 @@
     "name": "MODIFIER LETTER SMALL R WITH FISHHOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "с", "рыболовный крючок"],
+    "concepts": []
   },
   {
     "cp": 67498,
@@ -333,7 +476,9 @@
     "name": "MODIFIER LETTER SMALL CAPITAL R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 67499,
@@ -341,7 +486,9 @@
     "name": "MODIFIER LETTER SMALL TC DIGRAPH WITH CURL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "тч", "диграф", "с", "завиток"],
+    "concepts": []
   },
   {
     "cp": 67500,
@@ -349,7 +496,9 @@
     "name": "MODIFIER LETTER SMALL TS DIGRAPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "ц", "диграф"],
+    "concepts": []
   },
   {
     "cp": 67501,
@@ -357,7 +506,18 @@
     "name": "MODIFIER LETTER SMALL TS DIGRAPH WITH RETROFLEX HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "модификатор",
+      "буква",
+      "маленький (строчный)",
+      "ц",
+      "диграф",
+      "с",
+      "ретрофлексный",
+      "крючок"
+    ],
+    "concepts": []
   },
   {
     "cp": 67502,
@@ -365,7 +525,9 @@
     "name": "MODIFIER LETTER SMALL TESH DIGRAPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "тэш (ʧ)", "диграф"],
+    "concepts": []
   },
   {
     "cp": 67503,
@@ -373,7 +535,9 @@
     "name": "MODIFIER LETTER SMALL T WITH RETROFLEX HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "с", "ретрофлексный", "крючок"],
+    "concepts": []
   },
   {
     "cp": 67504,
@@ -381,7 +545,9 @@
     "name": "MODIFIER LETTER SMALL V WITH RIGHT HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "с", "правый (вправо)", "крючок"],
+    "concepts": []
   },
   {
     "cp": 67506,
@@ -389,7 +555,9 @@
     "name": "MODIFIER LETTER SMALL CAPITAL Y",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 67507,
@@ -397,7 +565,9 @@
     "name": "MODIFIER LETTER GLOTTAL STOP WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "гортанный", "стоп", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 67508,
@@ -405,7 +575,17 @@
     "name": "MODIFIER LETTER REVERSED GLOTTAL STOP WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "модификатор",
+      "буква",
+      "зеркальный (обратный)",
+      "гортанный",
+      "стоп",
+      "с",
+      "черта (штрих)"
+    ],
+    "concepts": []
   },
   {
     "cp": 67509,
@@ -413,7 +593,9 @@
     "name": "MODIFIER LETTER BILABIAL CLICK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "губно-губной", "щелчок"],
+    "concepts": []
   },
   {
     "cp": 67510,
@@ -421,7 +603,9 @@
     "name": "MODIFIER LETTER DENTAL CLICK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "зубной", "щелчок"],
+    "concepts": []
   },
   {
     "cp": 67511,
@@ -429,7 +613,9 @@
     "name": "MODIFIER LETTER LATERAL CLICK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "боковой", "щелчок"],
+    "concepts": []
   },
   {
     "cp": 67512,
@@ -437,7 +623,9 @@
     "name": "MODIFIER LETTER ALVEOLAR CLICK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "альвеолярный", "щелчок"],
+    "concepts": []
   },
   {
     "cp": 67513,
@@ -445,7 +633,9 @@
     "name": "MODIFIER LETTER RETROFLEX CLICK WITH RETROFLEX HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "ретрофлексный", "щелчок", "с", "крючок"],
+    "concepts": []
   },
   {
     "cp": 67514,
@@ -453,7 +643,9 @@
     "name": "MODIFIER LETTER SMALL S WITH CURL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "с", "завиток"],
+    "concepts": []
   },
   {
     "cp": 67515,
@@ -461,7 +653,9 @@
     "name": "MODIFIER LETTER SMALL TURNED T",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "перевёрнутый"],
+    "concepts": []
   },
   {
     "cp": 67516,
@@ -469,7 +663,9 @@
     "name": "MODIFIER LETTER INVERTED GLOTTAL STOP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "перевёрнутый", "гортанный", "стоп"],
+    "concepts": []
   },
   {
     "cp": 67517,
@@ -477,7 +673,9 @@
     "name": "MODIFIER LETTER STRETCHED C",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "растянутый"],
+    "concepts": []
   },
   {
     "cp": 67518,
@@ -485,7 +683,9 @@
     "name": "MODIFIER LETTER SMALL TURNED K",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "перевёрнутый"],
+    "concepts": []
   },
   {
     "cp": 67519,
@@ -493,6 +693,8 @@
     "name": "MODIFIER LETTER SMALL ESH WITH DOUBLE BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "эш (ʃ)", "с", "двойной", "черта"],
+    "concepts": []
   }
 ]

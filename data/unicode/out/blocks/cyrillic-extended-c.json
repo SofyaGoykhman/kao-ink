@@ -5,7 +5,9 @@
     "name": "CYRILLIC SMALL LETTER ROUNDED VE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "скруглённый", "ве"],
+    "concepts": []
   },
   {
     "cp": 7297,
@@ -13,7 +15,9 @@
     "name": "CYRILLIC SMALL LETTER LONG-LEGGED DE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "длинный", "де"],
+    "concepts": []
   },
   {
     "cp": 7298,
@@ -21,7 +25,9 @@
     "name": "CYRILLIC SMALL LETTER NARROW O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "узкий"],
+    "concepts": []
   },
   {
     "cp": 7299,
@@ -29,7 +35,9 @@
     "name": "CYRILLIC SMALL LETTER WIDE ES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "широкий", "эс"],
+    "concepts": []
   },
   {
     "cp": 7300,
@@ -37,7 +45,9 @@
     "name": "CYRILLIC SMALL LETTER TALL TE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "высокий", "те"],
+    "concepts": []
   },
   {
     "cp": 7301,
@@ -45,7 +55,9 @@
     "name": "CYRILLIC SMALL LETTER THREE-LEGGED TE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "три", "те"],
+    "concepts": []
   },
   {
     "cp": 7302,
@@ -53,7 +65,9 @@
     "name": "CYRILLIC SMALL LETTER TALL HARD SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "высокий", "твёрдый", "знак"],
+    "concepts": []
   },
   {
     "cp": 7303,
@@ -61,7 +75,9 @@
     "name": "CYRILLIC SMALL LETTER TALL YAT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "высокий", "ять"],
+    "concepts": []
   },
   {
     "cp": 7304,
@@ -69,7 +85,9 @@
     "name": "CYRILLIC SMALL LETTER UNBLENDED UK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ук"],
+    "concepts": []
   },
   {
     "cp": 7305,
@@ -77,7 +95,9 @@
     "name": "CYRILLIC CAPITAL LETTER TJE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "тье"],
+    "concepts": []
   },
   {
     "cp": 7306,
@@ -85,6 +105,8 @@
     "name": "CYRILLIC SMALL LETTER TJE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "тье"],
+    "concepts": []
   }
 ]

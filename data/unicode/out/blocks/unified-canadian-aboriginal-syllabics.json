@@ -5,7 +5,9 @@
     "name": "CANADIAN SYLLABICS HYPHEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "дефис"],
+    "concepts": []
   },
   {
     "cp": 5121,
@@ -13,7 +15,9 @@
     "name": "CANADIAN SYLLABICS E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5122,
@@ -21,7 +25,9 @@
     "name": "CANADIAN SYLLABICS AAI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": ["fire"]
   },
   {
     "cp": 5123,
@@ -29,7 +35,9 @@
     "name": "CANADIAN SYLLABICS I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": ["tree", "fire", "mountain"]
   },
   {
     "cp": 5124,
@@ -37,7 +45,9 @@
     "name": "CANADIAN SYLLABICS II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ии"],
+    "concepts": ["fire"]
   },
   {
     "cp": 5125,
@@ -45,7 +55,9 @@
     "name": "CANADIAN SYLLABICS O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": ["fire"]
   },
   {
     "cp": 5126,
@@ -53,7 +65,9 @@
     "name": "CANADIAN SYLLABICS OO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "оо"],
+    "concepts": ["fire"]
   },
   {
     "cp": 5127,
@@ -61,7 +75,9 @@
     "name": "CANADIAN SYLLABICS Y-CREE OO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кри", "оо"],
+    "concepts": ["fire"]
   },
   {
     "cp": 5128,
@@ -69,7 +85,9 @@
     "name": "CANADIAN SYLLABICS CARRIER EE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ее"],
+    "concepts": ["fire"]
   },
   {
     "cp": 5129,
@@ -77,7 +95,9 @@
     "name": "CANADIAN SYLLABICS CARRIER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": ["fire"]
   },
   {
     "cp": 5130,
@@ -85,7 +105,9 @@
     "name": "CANADIAN SYLLABICS A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": ["fire"]
   },
   {
     "cp": 5131,
@@ -93,7 +115,9 @@
     "name": "CANADIAN SYLLABICS AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "аа"],
+    "concepts": ["fire"]
   },
   {
     "cp": 5132,
@@ -101,7 +125,9 @@
     "name": "CANADIAN SYLLABICS WE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ве"],
+    "concepts": []
   },
   {
     "cp": 5133,
@@ -109,7 +135,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE WE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "ве"],
+    "concepts": []
   },
   {
     "cp": 5134,
@@ -117,7 +145,9 @@
     "name": "CANADIAN SYLLABICS WI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ви"],
+    "concepts": []
   },
   {
     "cp": 5135,
@@ -125,7 +155,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE WI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "ви"],
+    "concepts": []
   },
   {
     "cp": 5136,
@@ -133,7 +165,9 @@
     "name": "CANADIAN SYLLABICS WII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5137,
@@ -141,7 +175,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE WII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5138,
@@ -149,7 +185,9 @@
     "name": "CANADIAN SYLLABICS WO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "во"],
+    "concepts": []
   },
   {
     "cp": 5139,
@@ -157,7 +195,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE WO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "во"],
+    "concepts": []
   },
   {
     "cp": 5140,
@@ -165,7 +205,9 @@
     "name": "CANADIAN SYLLABICS WOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ву"],
+    "concepts": []
   },
   {
     "cp": 5141,
@@ -173,7 +215,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE WOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "ву"],
+    "concepts": []
   },
   {
     "cp": 5142,
@@ -181,7 +225,9 @@
     "name": "CANADIAN SYLLABICS NASKAPI WOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "наскапи", "ву"],
+    "concepts": []
   },
   {
     "cp": 5143,
@@ -189,7 +235,9 @@
     "name": "CANADIAN SYLLABICS WA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ва"],
+    "concepts": []
   },
   {
     "cp": 5144,
@@ -197,7 +245,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE WA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "ва"],
+    "concepts": []
   },
   {
     "cp": 5145,
@@ -205,7 +255,9 @@
     "name": "CANADIAN SYLLABICS WAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ваа"],
+    "concepts": []
   },
   {
     "cp": 5146,
@@ -213,7 +265,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE WAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "ваа"],
+    "concepts": []
   },
   {
     "cp": 5147,
@@ -221,7 +275,9 @@
     "name": "CANADIAN SYLLABICS NASKAPI WAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "наскапи", "ваа"],
+    "concepts": ["cloud", "wave"]
   },
   {
     "cp": 5148,
@@ -229,7 +285,9 @@
     "name": "CANADIAN SYLLABICS AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "аи"],
+    "concepts": []
   },
   {
     "cp": 5149,
@@ -237,7 +295,9 @@
     "name": "CANADIAN SYLLABICS Y-CREE W",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кри"],
+    "concepts": []
   },
   {
     "cp": 5150,
@@ -245,7 +305,9 @@
     "name": "CANADIAN SYLLABICS GLOTTAL STOP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "гортанный", "стоп"],
+    "concepts": ["drop", "mountain"]
   },
   {
     "cp": 5151,
@@ -253,7 +315,9 @@
     "name": "CANADIAN SYLLABICS FINAL ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "конечный", "акут (ударение)"],
+    "concepts": ["drop"]
   },
   {
     "cp": 5152,
@@ -261,7 +325,9 @@
     "name": "CANADIAN SYLLABICS FINAL GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "конечный", "гравис"],
+    "concepts": ["drop"]
   },
   {
     "cp": 5153,
@@ -269,7 +335,9 @@
     "name": "CANADIAN SYLLABICS FINAL BOTTOM HALF RING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "конечный", "низ", "половина", "кольцо"],
+    "concepts": ["drop"]
   },
   {
     "cp": 5154,
@@ -277,7 +345,9 @@
     "name": "CANADIAN SYLLABICS FINAL TOP HALF RING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "конечный", "верх", "половина", "кольцо"],
+    "concepts": ["drop"]
   },
   {
     "cp": 5155,
@@ -285,7 +355,9 @@
     "name": "CANADIAN SYLLABICS FINAL RIGHT HALF RING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "конечный", "правый (вправо)", "половина", "кольцо"],
+    "concepts": ["drop"]
   },
   {
     "cp": 5156,
@@ -293,7 +365,9 @@
     "name": "CANADIAN SYLLABICS FINAL RING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "конечный", "кольцо"],
+    "concepts": ["drop"]
   },
   {
     "cp": 5157,
@@ -301,7 +375,9 @@
     "name": "CANADIAN SYLLABICS FINAL DOUBLE ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "конечный", "двойной", "акут (ударение)"],
+    "concepts": ["drop"]
   },
   {
     "cp": 5158,
@@ -309,7 +385,17 @@
     "name": "CANADIAN SYLLABICS FINAL DOUBLE SHORT VERTICAL STROKES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "канадский",
+      "слоговое письмо",
+      "конечный",
+      "двойной",
+      "короткий",
+      "вертикальный",
+      "черты"
+    ],
+    "concepts": ["drop"]
   },
   {
     "cp": 5159,
@@ -317,7 +403,9 @@
     "name": "CANADIAN SYLLABICS FINAL MIDDLE DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "конечный", "средний", "точка"],
+    "concepts": ["drop"]
   },
   {
     "cp": 5160,
@@ -325,7 +413,16 @@
     "name": "CANADIAN SYLLABICS FINAL SHORT HORIZONTAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "канадский",
+      "слоговое письмо",
+      "конечный",
+      "короткий",
+      "горизонтальный",
+      "черта (штрих)"
+    ],
+    "concepts": ["drop"]
   },
   {
     "cp": 5161,
@@ -333,7 +430,9 @@
     "name": "CANADIAN SYLLABICS FINAL PLUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "конечный", "плюс"],
+    "concepts": ["drop"]
   },
   {
     "cp": 5162,
@@ -341,7 +440,9 @@
     "name": "CANADIAN SYLLABICS FINAL DOWN TACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "конечный", "вниз", "кнопка (упор)"],
+    "concepts": ["drop"]
   },
   {
     "cp": 5163,
@@ -349,7 +450,9 @@
     "name": "CANADIAN SYLLABICS EN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "короткое (en)"],
+    "concepts": ["drop"]
   },
   {
     "cp": 5164,
@@ -357,7 +460,9 @@
     "name": "CANADIAN SYLLABICS IN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "в"],
+    "concepts": ["drop"]
   },
   {
     "cp": 5165,
@@ -365,7 +470,9 @@
     "name": "CANADIAN SYLLABICS ON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "на"],
+    "concepts": ["drop"]
   },
   {
     "cp": 5166,
@@ -373,7 +480,9 @@
     "name": "CANADIAN SYLLABICS AN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ан"],
+    "concepts": ["drop"]
   },
   {
     "cp": 5167,
@@ -381,7 +490,9 @@
     "name": "CANADIAN SYLLABICS PE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "пе"],
+    "concepts": ["drop"]
   },
   {
     "cp": 5168,
@@ -389,7 +500,9 @@
     "name": "CANADIAN SYLLABICS PAAI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5169,
@@ -397,7 +510,9 @@
     "name": "CANADIAN SYLLABICS PI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "пи"],
+    "concepts": ["mountain"]
   },
   {
     "cp": 5170,
@@ -405,7 +520,9 @@
     "name": "CANADIAN SYLLABICS PII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "пии"],
+    "concepts": []
   },
   {
     "cp": 5171,
@@ -413,7 +530,9 @@
     "name": "CANADIAN SYLLABICS PO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "по"],
+    "concepts": []
   },
   {
     "cp": 5172,
@@ -421,7 +540,9 @@
     "name": "CANADIAN SYLLABICS POO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "какашка"],
+    "concepts": []
   },
   {
     "cp": 5173,
@@ -429,7 +550,9 @@
     "name": "CANADIAN SYLLABICS Y-CREE POO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кри", "какашка"],
+    "concepts": []
   },
   {
     "cp": 5174,
@@ -437,7 +560,9 @@
     "name": "CANADIAN SYLLABICS CARRIER HEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "хии"],
+    "concepts": []
   },
   {
     "cp": 5175,
@@ -445,7 +570,9 @@
     "name": "CANADIAN SYLLABICS CARRIER HI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "хай (HI)"],
+    "concepts": []
   },
   {
     "cp": 5176,
@@ -453,7 +580,9 @@
     "name": "CANADIAN SYLLABICS PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "па"],
+    "concepts": []
   },
   {
     "cp": 5177,
@@ -461,7 +590,9 @@
     "name": "CANADIAN SYLLABICS PAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "паа"],
+    "concepts": []
   },
   {
     "cp": 5178,
@@ -469,7 +600,9 @@
     "name": "CANADIAN SYLLABICS PWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "пве"],
+    "concepts": []
   },
   {
     "cp": 5179,
@@ -477,7 +610,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE PWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "пве"],
+    "concepts": []
   },
   {
     "cp": 5180,
@@ -485,7 +620,9 @@
     "name": "CANADIAN SYLLABICS PWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "пви"],
+    "concepts": []
   },
   {
     "cp": 5181,
@@ -493,7 +630,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE PWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "пви"],
+    "concepts": []
   },
   {
     "cp": 5182,
@@ -501,7 +640,9 @@
     "name": "CANADIAN SYLLABICS PWII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5183,
@@ -509,7 +650,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE PWII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5184,
@@ -517,7 +660,9 @@
     "name": "CANADIAN SYLLABICS PWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "пво"],
+    "concepts": []
   },
   {
     "cp": 5185,
@@ -525,7 +670,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE PWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "пво"],
+    "concepts": []
   },
   {
     "cp": 5186,
@@ -533,7 +680,9 @@
     "name": "CANADIAN SYLLABICS PWOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5187,
@@ -541,7 +690,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE PWOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5188,
@@ -549,7 +700,9 @@
     "name": "CANADIAN SYLLABICS PWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "пва"],
+    "concepts": []
   },
   {
     "cp": 5189,
@@ -557,7 +710,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE PWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "пва"],
+    "concepts": []
   },
   {
     "cp": 5190,
@@ -565,7 +720,9 @@
     "name": "CANADIAN SYLLABICS PWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "пваа"],
+    "concepts": []
   },
   {
     "cp": 5191,
@@ -573,7 +730,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE PWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "пваа"],
+    "concepts": []
   },
   {
     "cp": 5192,
@@ -581,7 +740,9 @@
     "name": "CANADIAN SYLLABICS Y-CREE PWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кри", "пваа"],
+    "concepts": []
   },
   {
     "cp": 5193,
@@ -589,7 +750,9 @@
     "name": "CANADIAN SYLLABICS P",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5194,
@@ -597,7 +760,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE P",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5195,
@@ -605,7 +770,9 @@
     "name": "CANADIAN SYLLABICS CARRIER H",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5196,
@@ -613,7 +780,9 @@
     "name": "CANADIAN SYLLABICS TE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "те"],
+    "concepts": []
   },
   {
     "cp": 5197,
@@ -621,7 +790,9 @@
     "name": "CANADIAN SYLLABICS TAAI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5198,
@@ -629,7 +800,9 @@
     "name": "CANADIAN SYLLABICS TI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ти"],
+    "concepts": []
   },
   {
     "cp": 5199,
@@ -637,7 +810,9 @@
     "name": "CANADIAN SYLLABICS TII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5200,
@@ -645,7 +820,9 @@
     "name": "CANADIAN SYLLABICS TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "к"],
+    "concepts": ["moon"]
   },
   {
     "cp": 5201,
@@ -653,7 +830,9 @@
     "name": "CANADIAN SYLLABICS TOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ту"],
+    "concepts": []
   },
   {
     "cp": 5202,
@@ -661,7 +840,9 @@
     "name": "CANADIAN SYLLABICS Y-CREE TOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кри", "ту"],
+    "concepts": []
   },
   {
     "cp": 5203,
@@ -669,7 +850,9 @@
     "name": "CANADIAN SYLLABICS CARRIER DEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "дее"],
+    "concepts": []
   },
   {
     "cp": 5204,
@@ -677,7 +860,9 @@
     "name": "CANADIAN SYLLABICS CARRIER DI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ди"],
+    "concepts": []
   },
   {
     "cp": 5205,
@@ -685,7 +870,9 @@
     "name": "CANADIAN SYLLABICS TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "та"],
+    "concepts": ["moon"]
   },
   {
     "cp": 5206,
@@ -693,7 +880,9 @@
     "name": "CANADIAN SYLLABICS TAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "таа"],
+    "concepts": []
   },
   {
     "cp": 5207,
@@ -701,7 +890,9 @@
     "name": "CANADIAN SYLLABICS TWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "тве"],
+    "concepts": []
   },
   {
     "cp": 5208,
@@ -709,7 +900,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE TWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "тве"],
+    "concepts": []
   },
   {
     "cp": 5209,
@@ -717,7 +910,9 @@
     "name": "CANADIAN SYLLABICS TWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5210,
@@ -725,7 +920,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE TWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5211,
@@ -733,7 +930,9 @@
     "name": "CANADIAN SYLLABICS TWII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5212,
@@ -741,7 +940,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE TWII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5213,
@@ -749,7 +950,9 @@
     "name": "CANADIAN SYLLABICS TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "два"],
+    "concepts": []
   },
   {
     "cp": 5214,
@@ -757,7 +960,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "два"],
+    "concepts": []
   },
   {
     "cp": 5215,
@@ -765,7 +970,9 @@
     "name": "CANADIAN SYLLABICS TWOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5216,
@@ -773,7 +980,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE TWOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5217,
@@ -781,7 +990,9 @@
     "name": "CANADIAN SYLLABICS TWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "тва"],
+    "concepts": []
   },
   {
     "cp": 5218,
@@ -789,7 +1000,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE TWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "тва"],
+    "concepts": []
   },
   {
     "cp": 5219,
@@ -797,7 +1010,9 @@
     "name": "CANADIAN SYLLABICS TWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "тваа"],
+    "concepts": []
   },
   {
     "cp": 5220,
@@ -805,7 +1020,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE TWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "тваа"],
+    "concepts": []
   },
   {
     "cp": 5221,
@@ -813,7 +1030,9 @@
     "name": "CANADIAN SYLLABICS NASKAPI TWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "наскапи", "тваа"],
+    "concepts": []
   },
   {
     "cp": 5222,
@@ -821,7 +1040,9 @@
     "name": "CANADIAN SYLLABICS T",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5223,
@@ -829,7 +1050,9 @@
     "name": "CANADIAN SYLLABICS TTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "тте"],
+    "concepts": []
   },
   {
     "cp": 5224,
@@ -837,7 +1060,9 @@
     "name": "CANADIAN SYLLABICS TTI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5225,
@@ -845,7 +1070,9 @@
     "name": "CANADIAN SYLLABICS TTO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "тто"],
+    "concepts": []
   },
   {
     "cp": 5226,
@@ -853,7 +1080,9 @@
     "name": "CANADIAN SYLLABICS TTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "тта"],
+    "concepts": []
   },
   {
     "cp": 5227,
@@ -861,7 +1090,9 @@
     "name": "CANADIAN SYLLABICS KE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ке"],
+    "concepts": []
   },
   {
     "cp": 5228,
@@ -869,7 +1100,9 @@
     "name": "CANADIAN SYLLABICS KAAI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5229,
@@ -877,7 +1110,9 @@
     "name": "CANADIAN SYLLABICS KI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ки"],
+    "concepts": []
   },
   {
     "cp": 5230,
@@ -885,7 +1120,9 @@
     "name": "CANADIAN SYLLABICS KII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5231,
@@ -893,7 +1130,9 @@
     "name": "CANADIAN SYLLABICS KO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ко"],
+    "concepts": []
   },
   {
     "cp": 5232,
@@ -901,7 +1140,9 @@
     "name": "CANADIAN SYLLABICS KOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ку"],
+    "concepts": []
   },
   {
     "cp": 5233,
@@ -909,7 +1150,9 @@
     "name": "CANADIAN SYLLABICS Y-CREE KOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кри", "ку"],
+    "concepts": []
   },
   {
     "cp": 5234,
@@ -917,7 +1160,9 @@
     "name": "CANADIAN SYLLABICS KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ка"],
+    "concepts": []
   },
   {
     "cp": 5235,
@@ -925,7 +1170,9 @@
     "name": "CANADIAN SYLLABICS KAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "каа"],
+    "concepts": []
   },
   {
     "cp": 5236,
@@ -933,7 +1180,9 @@
     "name": "CANADIAN SYLLABICS KWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кве"],
+    "concepts": []
   },
   {
     "cp": 5237,
@@ -941,7 +1190,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE KWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "кве"],
+    "concepts": []
   },
   {
     "cp": 5238,
@@ -949,7 +1200,9 @@
     "name": "CANADIAN SYLLABICS KWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кви"],
+    "concepts": []
   },
   {
     "cp": 5239,
@@ -957,7 +1210,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE KWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "кви"],
+    "concepts": []
   },
   {
     "cp": 5240,
@@ -965,7 +1220,9 @@
     "name": "CANADIAN SYLLABICS KWII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5241,
@@ -973,7 +1230,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE KWII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5242,
@@ -981,7 +1240,9 @@
     "name": "CANADIAN SYLLABICS KWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5243,
@@ -989,7 +1250,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE KWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5244,
@@ -997,7 +1260,9 @@
     "name": "CANADIAN SYLLABICS KWOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5245,
@@ -1005,7 +1270,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE KWOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5246,
@@ -1013,7 +1280,9 @@
     "name": "CANADIAN SYLLABICS KWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ква"],
+    "concepts": []
   },
   {
     "cp": 5247,
@@ -1021,7 +1290,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE KWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "ква"],
+    "concepts": []
   },
   {
     "cp": 5248,
@@ -1029,7 +1300,9 @@
     "name": "CANADIAN SYLLABICS KWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кваа"],
+    "concepts": []
   },
   {
     "cp": 5249,
@@ -1037,7 +1310,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE KWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "кваа"],
+    "concepts": []
   },
   {
     "cp": 5250,
@@ -1045,7 +1320,9 @@
     "name": "CANADIAN SYLLABICS NASKAPI KWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "наскапи", "кваа"],
+    "concepts": []
   },
   {
     "cp": 5251,
@@ -1053,7 +1330,9 @@
     "name": "CANADIAN SYLLABICS K",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5252,
@@ -1061,7 +1340,9 @@
     "name": "CANADIAN SYLLABICS KW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кв"],
+    "concepts": []
   },
   {
     "cp": 5253,
@@ -1069,7 +1350,9 @@
     "name": "CANADIAN SYLLABICS SOUTH-SLAVEY KEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "юг", "слейви", "кех"],
+    "concepts": []
   },
   {
     "cp": 5254,
@@ -1077,7 +1360,9 @@
     "name": "CANADIAN SYLLABICS SOUTH-SLAVEY KIH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "юг", "слейви"],
+    "concepts": []
   },
   {
     "cp": 5255,
@@ -1085,7 +1370,9 @@
     "name": "CANADIAN SYLLABICS SOUTH-SLAVEY KOH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "юг", "слейви"],
+    "concepts": []
   },
   {
     "cp": 5256,
@@ -1093,7 +1380,9 @@
     "name": "CANADIAN SYLLABICS SOUTH-SLAVEY KAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "юг", "слейви"],
+    "concepts": []
   },
   {
     "cp": 5257,
@@ -1101,7 +1390,9 @@
     "name": "CANADIAN SYLLABICS CE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "че"],
+    "concepts": []
   },
   {
     "cp": 5258,
@@ -1109,7 +1400,9 @@
     "name": "CANADIAN SYLLABICS CAAI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5259,
@@ -1117,7 +1410,9 @@
     "name": "CANADIAN SYLLABICS CI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "чи"],
+    "concepts": []
   },
   {
     "cp": 5260,
@@ -1125,7 +1420,9 @@
     "name": "CANADIAN SYLLABICS CII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5261,
@@ -1133,7 +1430,9 @@
     "name": "CANADIAN SYLLABICS CO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "цо"],
+    "concepts": []
   },
   {
     "cp": 5262,
@@ -1141,7 +1440,9 @@
     "name": "CANADIAN SYLLABICS COO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "чу"],
+    "concepts": []
   },
   {
     "cp": 5263,
@@ -1149,7 +1450,9 @@
     "name": "CANADIAN SYLLABICS Y-CREE COO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кри", "чу"],
+    "concepts": []
   },
   {
     "cp": 5264,
@@ -1157,7 +1460,9 @@
     "name": "CANADIAN SYLLABICS CA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ча"],
+    "concepts": []
   },
   {
     "cp": 5265,
@@ -1165,7 +1470,9 @@
     "name": "CANADIAN SYLLABICS CAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "чаа"],
+    "concepts": []
   },
   {
     "cp": 5266,
@@ -1173,7 +1480,9 @@
     "name": "CANADIAN SYLLABICS CWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5267,
@@ -1181,7 +1490,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE CWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5268,
@@ -1189,7 +1500,9 @@
     "name": "CANADIAN SYLLABICS CWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "чви"],
+    "concepts": []
   },
   {
     "cp": 5269,
@@ -1197,7 +1510,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE CWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "чви"],
+    "concepts": []
   },
   {
     "cp": 5270,
@@ -1205,7 +1520,9 @@
     "name": "CANADIAN SYLLABICS CWII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5271,
@@ -1213,7 +1530,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE CWII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5272,
@@ -1221,7 +1540,9 @@
     "name": "CANADIAN SYLLABICS CWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5273,
@@ -1229,7 +1550,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE CWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5274,
@@ -1237,7 +1560,9 @@
     "name": "CANADIAN SYLLABICS CWOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5275,
@@ -1245,7 +1570,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE CWOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5276,
@@ -1253,7 +1580,9 @@
     "name": "CANADIAN SYLLABICS CWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "чва"],
+    "concepts": []
   },
   {
     "cp": 5277,
@@ -1261,7 +1590,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE CWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "чва"],
+    "concepts": []
   },
   {
     "cp": 5278,
@@ -1269,7 +1600,9 @@
     "name": "CANADIAN SYLLABICS CWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "чваа"],
+    "concepts": []
   },
   {
     "cp": 5279,
@@ -1277,7 +1610,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE CWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "чваа"],
+    "concepts": []
   },
   {
     "cp": 5280,
@@ -1285,7 +1620,9 @@
     "name": "CANADIAN SYLLABICS NASKAPI CWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "наскапи", "чваа"],
+    "concepts": []
   },
   {
     "cp": 5281,
@@ -1293,7 +1630,9 @@
     "name": "CANADIAN SYLLABICS C",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5282,
@@ -1301,7 +1640,9 @@
     "name": "CANADIAN SYLLABICS SAYISI TH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "саиси", "th"],
+    "concepts": []
   },
   {
     "cp": 5283,
@@ -1309,7 +1650,9 @@
     "name": "CANADIAN SYLLABICS ME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "мне"],
+    "concepts": []
   },
   {
     "cp": 5284,
@@ -1317,7 +1660,9 @@
     "name": "CANADIAN SYLLABICS MAAI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5285,
@@ -1325,7 +1670,9 @@
     "name": "CANADIAN SYLLABICS MI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ми"],
+    "concepts": []
   },
   {
     "cp": 5286,
@@ -1333,7 +1680,9 @@
     "name": "CANADIAN SYLLABICS MII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5287,
@@ -1341,7 +1690,9 @@
     "name": "CANADIAN SYLLABICS MO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "мо"],
+    "concepts": ["umbrella"]
   },
   {
     "cp": 5288,
@@ -1349,7 +1700,9 @@
     "name": "CANADIAN SYLLABICS MOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "му"],
+    "concepts": []
   },
   {
     "cp": 5289,
@@ -1357,7 +1710,9 @@
     "name": "CANADIAN SYLLABICS Y-CREE MOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кри", "му"],
+    "concepts": []
   },
   {
     "cp": 5290,
@@ -1365,7 +1720,9 @@
     "name": "CANADIAN SYLLABICS MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ма"],
+    "concepts": []
   },
   {
     "cp": 5291,
@@ -1373,7 +1730,9 @@
     "name": "CANADIAN SYLLABICS MAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "маа"],
+    "concepts": []
   },
   {
     "cp": 5292,
@@ -1381,7 +1740,9 @@
     "name": "CANADIAN SYLLABICS MWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "мве"],
+    "concepts": []
   },
   {
     "cp": 5293,
@@ -1389,7 +1750,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE MWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "мве"],
+    "concepts": []
   },
   {
     "cp": 5294,
@@ -1397,7 +1760,9 @@
     "name": "CANADIAN SYLLABICS MWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "мви"],
+    "concepts": []
   },
   {
     "cp": 5295,
@@ -1405,7 +1770,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE MWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "мви"],
+    "concepts": []
   },
   {
     "cp": 5296,
@@ -1413,7 +1780,9 @@
     "name": "CANADIAN SYLLABICS MWII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5297,
@@ -1421,7 +1790,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE MWII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5298,
@@ -1429,7 +1800,9 @@
     "name": "CANADIAN SYLLABICS MWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5299,
@@ -1437,7 +1810,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE MWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5300,
@@ -1445,7 +1820,9 @@
     "name": "CANADIAN SYLLABICS MWOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5301,
@@ -1453,7 +1830,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE MWOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5302,
@@ -1461,7 +1840,9 @@
     "name": "CANADIAN SYLLABICS MWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "мва"],
+    "concepts": []
   },
   {
     "cp": 5303,
@@ -1469,7 +1850,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE MWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "мва"],
+    "concepts": []
   },
   {
     "cp": 5304,
@@ -1477,7 +1860,9 @@
     "name": "CANADIAN SYLLABICS MWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "мваа"],
+    "concepts": []
   },
   {
     "cp": 5305,
@@ -1485,7 +1870,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE MWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "мваа"],
+    "concepts": []
   },
   {
     "cp": 5306,
@@ -1493,7 +1880,9 @@
     "name": "CANADIAN SYLLABICS NASKAPI MWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "наскапи", "мваа"],
+    "concepts": []
   },
   {
     "cp": 5307,
@@ -1501,7 +1890,9 @@
     "name": "CANADIAN SYLLABICS M",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5308,
@@ -1509,7 +1900,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE M",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5309,
@@ -1517,7 +1910,9 @@
     "name": "CANADIAN SYLLABICS MH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5310,
@@ -1525,7 +1920,9 @@
     "name": "CANADIAN SYLLABICS ATHAPASCAN M",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5311,
@@ -1533,7 +1930,9 @@
     "name": "CANADIAN SYLLABICS SAYISI M",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "саиси"],
+    "concepts": []
   },
   {
     "cp": 5312,
@@ -1541,7 +1940,9 @@
     "name": "CANADIAN SYLLABICS NE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "не"],
+    "concepts": []
   },
   {
     "cp": 5313,
@@ -1549,7 +1950,9 @@
     "name": "CANADIAN SYLLABICS NAAI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5314,
@@ -1557,7 +1960,9 @@
     "name": "CANADIAN SYLLABICS NI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ни"],
+    "concepts": []
   },
   {
     "cp": 5315,
@@ -1565,7 +1970,9 @@
     "name": "CANADIAN SYLLABICS NII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5316,
@@ -1573,7 +1980,9 @@
     "name": "CANADIAN SYLLABICS NO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "нет"],
+    "concepts": []
   },
   {
     "cp": 5317,
@@ -1581,7 +1990,9 @@
     "name": "CANADIAN SYLLABICS NOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ну"],
+    "concepts": []
   },
   {
     "cp": 5318,
@@ -1589,7 +2000,9 @@
     "name": "CANADIAN SYLLABICS Y-CREE NOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кри", "ну"],
+    "concepts": []
   },
   {
     "cp": 5319,
@@ -1597,7 +2010,9 @@
     "name": "CANADIAN SYLLABICS NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "на"],
+    "concepts": []
   },
   {
     "cp": 5320,
@@ -1605,7 +2020,9 @@
     "name": "CANADIAN SYLLABICS NAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "наа"],
+    "concepts": []
   },
   {
     "cp": 5321,
@@ -1613,7 +2030,9 @@
     "name": "CANADIAN SYLLABICS NWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5322,
@@ -1621,7 +2040,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE NWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5323,
@@ -1629,7 +2050,9 @@
     "name": "CANADIAN SYLLABICS NWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "нва"],
+    "concepts": []
   },
   {
     "cp": 5324,
@@ -1637,7 +2060,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE NWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "нва"],
+    "concepts": []
   },
   {
     "cp": 5325,
@@ -1645,7 +2070,9 @@
     "name": "CANADIAN SYLLABICS NWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "нваа"],
+    "concepts": []
   },
   {
     "cp": 5326,
@@ -1653,7 +2080,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE NWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "нваа"],
+    "concepts": []
   },
   {
     "cp": 5327,
@@ -1661,7 +2090,9 @@
     "name": "CANADIAN SYLLABICS NASKAPI NWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "наскапи", "нваа"],
+    "concepts": []
   },
   {
     "cp": 5328,
@@ -1669,7 +2100,9 @@
     "name": "CANADIAN SYLLABICS N",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5329,
@@ -1677,7 +2110,9 @@
     "name": "CANADIAN SYLLABICS CARRIER NG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "NG"],
+    "concepts": []
   },
   {
     "cp": 5330,
@@ -1685,7 +2120,9 @@
     "name": "CANADIAN SYLLABICS NH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5331,
@@ -1693,7 +2130,9 @@
     "name": "CANADIAN SYLLABICS LE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ле"],
+    "concepts": []
   },
   {
     "cp": 5332,
@@ -1701,7 +2140,9 @@
     "name": "CANADIAN SYLLABICS LAAI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5333,
@@ -1709,7 +2150,9 @@
     "name": "CANADIAN SYLLABICS LI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ли"],
+    "concepts": []
   },
   {
     "cp": 5334,
@@ -1717,7 +2160,9 @@
     "name": "CANADIAN SYLLABICS LII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5335,
@@ -1725,7 +2170,9 @@
     "name": "CANADIAN SYLLABICS LO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ло"],
+    "concepts": []
   },
   {
     "cp": 5336,
@@ -1733,7 +2180,9 @@
     "name": "CANADIAN SYLLABICS LOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "лу"],
+    "concepts": []
   },
   {
     "cp": 5337,
@@ -1741,7 +2190,9 @@
     "name": "CANADIAN SYLLABICS Y-CREE LOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кри", "лу"],
+    "concepts": []
   },
   {
     "cp": 5338,
@@ -1749,7 +2200,9 @@
     "name": "CANADIAN SYLLABICS LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ла"],
+    "concepts": []
   },
   {
     "cp": 5339,
@@ -1757,7 +2210,9 @@
     "name": "CANADIAN SYLLABICS LAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "лаа"],
+    "concepts": []
   },
   {
     "cp": 5340,
@@ -1765,7 +2220,9 @@
     "name": "CANADIAN SYLLABICS LWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5341,
@@ -1773,7 +2230,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE LWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5342,
@@ -1781,7 +2240,9 @@
     "name": "CANADIAN SYLLABICS LWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5343,
@@ -1789,7 +2250,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE LWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5344,
@@ -1797,7 +2260,9 @@
     "name": "CANADIAN SYLLABICS LWII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5345,
@@ -1805,7 +2270,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE LWII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5346,
@@ -1813,7 +2280,9 @@
     "name": "CANADIAN SYLLABICS LWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5347,
@@ -1821,7 +2290,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE LWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5348,
@@ -1829,7 +2300,9 @@
     "name": "CANADIAN SYLLABICS LWOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5349,
@@ -1837,7 +2310,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE LWOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5350,
@@ -1845,7 +2320,9 @@
     "name": "CANADIAN SYLLABICS LWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "лва"],
+    "concepts": []
   },
   {
     "cp": 5351,
@@ -1853,7 +2330,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE LWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "лва"],
+    "concepts": []
   },
   {
     "cp": 5352,
@@ -1861,7 +2340,9 @@
     "name": "CANADIAN SYLLABICS LWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5353,
@@ -1869,7 +2350,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE LWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5354,
@@ -1877,7 +2360,9 @@
     "name": "CANADIAN SYLLABICS L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5355,
@@ -1885,7 +2370,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5356,
@@ -1893,7 +2380,9 @@
     "name": "CANADIAN SYLLABICS MEDIAL L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "срединный"],
+    "concepts": ["cloud"]
   },
   {
     "cp": 5357,
@@ -1901,7 +2390,9 @@
     "name": "CANADIAN SYLLABICS SE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "се"],
+    "concepts": []
   },
   {
     "cp": 5358,
@@ -1909,7 +2400,9 @@
     "name": "CANADIAN SYLLABICS SAAI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5359,
@@ -1917,7 +2410,9 @@
     "name": "CANADIAN SYLLABICS SI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "си"],
+    "concepts": []
   },
   {
     "cp": 5360,
@@ -1925,7 +2420,9 @@
     "name": "CANADIAN SYLLABICS SII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "сии"],
+    "concepts": []
   },
   {
     "cp": 5361,
@@ -1933,7 +2430,9 @@
     "name": "CANADIAN SYLLABICS SO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "со"],
+    "concepts": []
   },
   {
     "cp": 5362,
@@ -1941,7 +2440,9 @@
     "name": "CANADIAN SYLLABICS SOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "су"],
+    "concepts": []
   },
   {
     "cp": 5363,
@@ -1949,7 +2450,9 @@
     "name": "CANADIAN SYLLABICS Y-CREE SOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кри", "су"],
+    "concepts": []
   },
   {
     "cp": 5364,
@@ -1957,7 +2460,9 @@
     "name": "CANADIAN SYLLABICS SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "са"],
+    "concepts": []
   },
   {
     "cp": 5365,
@@ -1965,7 +2470,9 @@
     "name": "CANADIAN SYLLABICS SAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "саа"],
+    "concepts": []
   },
   {
     "cp": 5366,
@@ -1973,7 +2480,9 @@
     "name": "CANADIAN SYLLABICS SWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5367,
@@ -1981,7 +2490,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE SWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5368,
@@ -1989,7 +2500,9 @@
     "name": "CANADIAN SYLLABICS SWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5369,
@@ -1997,7 +2510,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE SWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5370,
@@ -2005,7 +2520,9 @@
     "name": "CANADIAN SYLLABICS SWII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5371,
@@ -2013,7 +2530,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE SWII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5372,
@@ -2021,7 +2540,9 @@
     "name": "CANADIAN SYLLABICS SWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5373,
@@ -2029,7 +2550,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE SWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5374,
@@ -2037,7 +2560,9 @@
     "name": "CANADIAN SYLLABICS SWOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5375,
@@ -2045,7 +2570,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE SWOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5376,
@@ -2053,7 +2580,9 @@
     "name": "CANADIAN SYLLABICS SWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "сва"],
+    "concepts": []
   },
   {
     "cp": 5377,
@@ -2061,7 +2590,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE SWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "сва"],
+    "concepts": []
   },
   {
     "cp": 5378,
@@ -2069,7 +2600,9 @@
     "name": "CANADIAN SYLLABICS SWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "сваа"],
+    "concepts": []
   },
   {
     "cp": 5379,
@@ -2077,7 +2610,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE SWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "сваа"],
+    "concepts": []
   },
   {
     "cp": 5380,
@@ -2085,7 +2620,9 @@
     "name": "CANADIAN SYLLABICS NASKAPI SWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "наскапи", "сваа"],
+    "concepts": []
   },
   {
     "cp": 5381,
@@ -2093,7 +2630,9 @@
     "name": "CANADIAN SYLLABICS S",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5382,
@@ -2101,7 +2640,9 @@
     "name": "CANADIAN SYLLABICS ATHAPASCAN S",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5383,
@@ -2109,7 +2650,9 @@
     "name": "CANADIAN SYLLABICS SW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5384,
@@ -2117,7 +2660,9 @@
     "name": "CANADIAN SYLLABICS BLACKFOOT S",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "черноногие"],
+    "concepts": []
   },
   {
     "cp": 5385,
@@ -2125,7 +2670,9 @@
     "name": "CANADIAN SYLLABICS MOOSE-CREE SK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "лось", "кри"],
+    "concepts": []
   },
   {
     "cp": 5386,
@@ -2133,7 +2680,9 @@
     "name": "CANADIAN SYLLABICS NASKAPI SKW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "наскапи"],
+    "concepts": []
   },
   {
     "cp": 5387,
@@ -2141,7 +2690,9 @@
     "name": "CANADIAN SYLLABICS NASKAPI S-W",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "наскапи"],
+    "concepts": []
   },
   {
     "cp": 5388,
@@ -2149,7 +2700,9 @@
     "name": "CANADIAN SYLLABICS NASKAPI SPWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "наскапи"],
+    "concepts": []
   },
   {
     "cp": 5389,
@@ -2157,7 +2710,9 @@
     "name": "CANADIAN SYLLABICS NASKAPI STWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "наскапи"],
+    "concepts": []
   },
   {
     "cp": 5390,
@@ -2165,7 +2720,9 @@
     "name": "CANADIAN SYLLABICS NASKAPI SKWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "наскапи"],
+    "concepts": []
   },
   {
     "cp": 5391,
@@ -2173,7 +2730,9 @@
     "name": "CANADIAN SYLLABICS NASKAPI SCWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "наскапи"],
+    "concepts": []
   },
   {
     "cp": 5392,
@@ -2181,7 +2740,9 @@
     "name": "CANADIAN SYLLABICS SHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ше"],
+    "concepts": []
   },
   {
     "cp": 5393,
@@ -2189,7 +2750,9 @@
     "name": "CANADIAN SYLLABICS SHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ши"],
+    "concepts": []
   },
   {
     "cp": 5394,
@@ -2197,7 +2760,9 @@
     "name": "CANADIAN SYLLABICS SHII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "шии"],
+    "concepts": []
   },
   {
     "cp": 5395,
@@ -2205,7 +2770,9 @@
     "name": "CANADIAN SYLLABICS SHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "шо"],
+    "concepts": []
   },
   {
     "cp": 5396,
@@ -2213,7 +2780,9 @@
     "name": "CANADIAN SYLLABICS SHOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "шу"],
+    "concepts": []
   },
   {
     "cp": 5397,
@@ -2221,7 +2790,9 @@
     "name": "CANADIAN SYLLABICS SHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ша"],
+    "concepts": ["infinity", "cloud", "wave"]
   },
   {
     "cp": 5398,
@@ -2229,7 +2800,9 @@
     "name": "CANADIAN SYLLABICS SHAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5399,
@@ -2237,7 +2810,9 @@
     "name": "CANADIAN SYLLABICS SHWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "шве"],
+    "concepts": []
   },
   {
     "cp": 5400,
@@ -2245,7 +2820,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE SHWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "шве"],
+    "concepts": []
   },
   {
     "cp": 5401,
@@ -2253,7 +2830,9 @@
     "name": "CANADIAN SYLLABICS SHWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5402,
@@ -2261,7 +2840,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE SHWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5403,
@@ -2269,7 +2850,9 @@
     "name": "CANADIAN SYLLABICS SHWII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5404,
@@ -2277,7 +2860,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE SHWII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5405,
@@ -2285,7 +2870,9 @@
     "name": "CANADIAN SYLLABICS SHWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5406,
@@ -2293,7 +2880,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE SHWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5407,
@@ -2301,7 +2890,9 @@
     "name": "CANADIAN SYLLABICS SHWOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5408,
@@ -2309,7 +2900,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE SHWOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5409,
@@ -2317,7 +2910,9 @@
     "name": "CANADIAN SYLLABICS SHWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "шва"],
+    "concepts": []
   },
   {
     "cp": 5410,
@@ -2325,7 +2920,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE SHWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "шва"],
+    "concepts": []
   },
   {
     "cp": 5411,
@@ -2333,7 +2930,9 @@
     "name": "CANADIAN SYLLABICS SHWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5412,
@@ -2341,7 +2940,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE SHWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5413,
@@ -2349,7 +2950,9 @@
     "name": "CANADIAN SYLLABICS SH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ш"],
+    "concepts": []
   },
   {
     "cp": 5414,
@@ -2357,7 +2960,9 @@
     "name": "CANADIAN SYLLABICS YE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "йе"],
+    "concepts": []
   },
   {
     "cp": 5415,
@@ -2365,7 +2970,9 @@
     "name": "CANADIAN SYLLABICS YAAI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5416,
@@ -2373,7 +2980,9 @@
     "name": "CANADIAN SYLLABICS YI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "и (письмо и)"],
+    "concepts": []
   },
   {
     "cp": 5417,
@@ -2381,7 +2990,9 @@
     "name": "CANADIAN SYLLABICS YII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5418,
@@ -2389,7 +3000,9 @@
     "name": "CANADIAN SYLLABICS YO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "йо"],
+    "concepts": []
   },
   {
     "cp": 5419,
@@ -2397,7 +3010,9 @@
     "name": "CANADIAN SYLLABICS YOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ёо"],
+    "concepts": []
   },
   {
     "cp": 5420,
@@ -2405,7 +3020,9 @@
     "name": "CANADIAN SYLLABICS Y-CREE YOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кри", "ёо"],
+    "concepts": []
   },
   {
     "cp": 5421,
@@ -2413,7 +3030,9 @@
     "name": "CANADIAN SYLLABICS YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "я"],
+    "concepts": []
   },
   {
     "cp": 5422,
@@ -2421,7 +3040,9 @@
     "name": "CANADIAN SYLLABICS YAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "яа"],
+    "concepts": []
   },
   {
     "cp": 5423,
@@ -2429,7 +3050,9 @@
     "name": "CANADIAN SYLLABICS YWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5424,
@@ -2437,7 +3060,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE YWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5425,
@@ -2445,7 +3070,9 @@
     "name": "CANADIAN SYLLABICS YWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5426,
@@ -2453,7 +3080,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE YWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5427,
@@ -2461,7 +3090,9 @@
     "name": "CANADIAN SYLLABICS YWII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5428,
@@ -2469,7 +3100,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE YWII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5429,
@@ -2477,7 +3110,9 @@
     "name": "CANADIAN SYLLABICS YWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5430,
@@ -2485,7 +3120,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE YWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5431,
@@ -2493,7 +3130,9 @@
     "name": "CANADIAN SYLLABICS YWOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5432,
@@ -2501,7 +3140,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE YWOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5433,
@@ -2509,7 +3150,9 @@
     "name": "CANADIAN SYLLABICS YWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "йва"],
+    "concepts": []
   },
   {
     "cp": 5434,
@@ -2517,7 +3160,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE YWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "йва"],
+    "concepts": []
   },
   {
     "cp": 5435,
@@ -2525,7 +3170,9 @@
     "name": "CANADIAN SYLLABICS YWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "йваа"],
+    "concepts": []
   },
   {
     "cp": 5436,
@@ -2533,7 +3180,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE YWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "йваа"],
+    "concepts": []
   },
   {
     "cp": 5437,
@@ -2541,7 +3190,9 @@
     "name": "CANADIAN SYLLABICS NASKAPI YWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "наскапи", "йваа"],
+    "concepts": []
   },
   {
     "cp": 5438,
@@ -2549,7 +3200,9 @@
     "name": "CANADIAN SYLLABICS Y",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5439,
@@ -2557,7 +3210,9 @@
     "name": "CANADIAN SYLLABICS BIBLE-CREE Y",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кри"],
+    "concepts": []
   },
   {
     "cp": 5440,
@@ -2565,7 +3220,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE Y",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5441,
@@ -2573,7 +3230,9 @@
     "name": "CANADIAN SYLLABICS SAYISI YI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "саиси", "и (письмо и)"],
+    "concepts": []
   },
   {
     "cp": 5442,
@@ -2581,7 +3240,9 @@
     "name": "CANADIAN SYLLABICS RE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ре"],
+    "concepts": []
   },
   {
     "cp": 5443,
@@ -2589,7 +3250,9 @@
     "name": "CANADIAN SYLLABICS R-CREE RE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кри", "ре"],
+    "concepts": []
   },
   {
     "cp": 5444,
@@ -2597,7 +3260,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE LE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "ле"],
+    "concepts": []
   },
   {
     "cp": 5445,
@@ -2605,7 +3270,9 @@
     "name": "CANADIAN SYLLABICS RAAI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5446,
@@ -2613,7 +3280,9 @@
     "name": "CANADIAN SYLLABICS RI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ри"],
+    "concepts": []
   },
   {
     "cp": 5447,
@@ -2621,7 +3290,9 @@
     "name": "CANADIAN SYLLABICS RII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "рии"],
+    "concepts": []
   },
   {
     "cp": 5448,
@@ -2629,7 +3300,9 @@
     "name": "CANADIAN SYLLABICS RO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ро"],
+    "concepts": []
   },
   {
     "cp": 5449,
@@ -2637,7 +3310,9 @@
     "name": "CANADIAN SYLLABICS ROO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5450,
@@ -2645,7 +3320,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE LO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "ло"],
+    "concepts": []
   },
   {
     "cp": 5451,
@@ -2653,7 +3330,9 @@
     "name": "CANADIAN SYLLABICS RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ра"],
+    "concepts": []
   },
   {
     "cp": 5452,
@@ -2661,7 +3340,9 @@
     "name": "CANADIAN SYLLABICS RAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "раа"],
+    "concepts": []
   },
   {
     "cp": 5453,
@@ -2669,7 +3350,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "ла"],
+    "concepts": []
   },
   {
     "cp": 5454,
@@ -2677,7 +3360,9 @@
     "name": "CANADIAN SYLLABICS RWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5455,
@@ -2685,7 +3370,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE RWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5456,
@@ -2693,7 +3380,9 @@
     "name": "CANADIAN SYLLABICS R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5457,
@@ -2701,7 +3390,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5458,
@@ -2709,7 +3400,9 @@
     "name": "CANADIAN SYLLABICS MEDIAL R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "срединный"],
+    "concepts": []
   },
   {
     "cp": 5459,
@@ -2717,7 +3410,9 @@
     "name": "CANADIAN SYLLABICS FE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "фе"],
+    "concepts": []
   },
   {
     "cp": 5460,
@@ -2725,7 +3420,9 @@
     "name": "CANADIAN SYLLABICS FAAI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5461,
@@ -2733,7 +3430,9 @@
     "name": "CANADIAN SYLLABICS FI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "фи"],
+    "concepts": ["spiral"]
   },
   {
     "cp": 5462,
@@ -2741,7 +3440,9 @@
     "name": "CANADIAN SYLLABICS FII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5463,
@@ -2749,7 +3450,9 @@
     "name": "CANADIAN SYLLABICS FO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "фо"],
+    "concepts": ["spiral"]
   },
   {
     "cp": 5464,
@@ -2757,7 +3460,9 @@
     "name": "CANADIAN SYLLABICS FOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "фу"],
+    "concepts": []
   },
   {
     "cp": 5465,
@@ -2765,7 +3470,9 @@
     "name": "CANADIAN SYLLABICS FA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "фа"],
+    "concepts": []
   },
   {
     "cp": 5466,
@@ -2773,7 +3480,9 @@
     "name": "CANADIAN SYLLABICS FAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "фаа"],
+    "concepts": []
   },
   {
     "cp": 5467,
@@ -2781,7 +3490,9 @@
     "name": "CANADIAN SYLLABICS FWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5468,
@@ -2789,7 +3500,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE FWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри"],
+    "concepts": []
   },
   {
     "cp": 5469,
@@ -2797,7 +3510,9 @@
     "name": "CANADIAN SYLLABICS F",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5470,
@@ -2805,7 +3520,9 @@
     "name": "CANADIAN SYLLABICS THE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5471,
@@ -2813,7 +3530,9 @@
     "name": "CANADIAN SYLLABICS N-CREE THE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кри"],
+    "concepts": []
   },
   {
     "cp": 5472,
@@ -2821,7 +3540,9 @@
     "name": "CANADIAN SYLLABICS THI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "тхи"],
+    "concepts": []
   },
   {
     "cp": 5473,
@@ -2829,7 +3550,9 @@
     "name": "CANADIAN SYLLABICS N-CREE THI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кри", "тхи"],
+    "concepts": []
   },
   {
     "cp": 5474,
@@ -2837,7 +3560,9 @@
     "name": "CANADIAN SYLLABICS THII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "тхии"],
+    "concepts": []
   },
   {
     "cp": 5475,
@@ -2845,7 +3570,9 @@
     "name": "CANADIAN SYLLABICS N-CREE THII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "кри", "тхии"],
+    "concepts": []
   },
   {
     "cp": 5476,
@@ -2853,7 +3580,9 @@
     "name": "CANADIAN SYLLABICS THO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "тхо"],
+    "concepts": []
   },
   {
     "cp": 5477,
@@ -2861,7 +3590,9 @@
     "name": "CANADIAN SYLLABICS THOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "тху"],
+    "concepts": []
   },
   {
     "cp": 5478,
@@ -2869,7 +3600,9 @@
     "name": "CANADIAN SYLLABICS THA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "тха"],
+    "concepts": []
   },
   {
     "cp": 5479,
@@ -2877,7 +3610,9 @@
     "name": "CANADIAN SYLLABICS THAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "тхаа"],
+    "concepts": []
   },
   {
     "cp": 5480,
@@ -2885,7 +3620,9 @@
     "name": "CANADIAN SYLLABICS THWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "тхваа"],
+    "concepts": []
   },
   {
     "cp": 5481,
@@ -2893,7 +3630,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE THWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "тхваа"],
+    "concepts": []
   },
   {
     "cp": 5482,
@@ -2901,7 +3640,9 @@
     "name": "CANADIAN SYLLABICS TH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "th"],
+    "concepts": []
   },
   {
     "cp": 5483,
@@ -2909,7 +3650,9 @@
     "name": "CANADIAN SYLLABICS TTHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5484,
@@ -2917,7 +3660,9 @@
     "name": "CANADIAN SYLLABICS TTHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5485,
@@ -2925,7 +3670,9 @@
     "name": "CANADIAN SYLLABICS TTHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ттхо"],
+    "concepts": []
   },
   {
     "cp": 5486,
@@ -2933,7 +3680,9 @@
     "name": "CANADIAN SYLLABICS TTHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ттха"],
+    "concepts": []
   },
   {
     "cp": 5487,
@@ -2941,7 +3690,9 @@
     "name": "CANADIAN SYLLABICS TTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": ["snow"]
   },
   {
     "cp": 5488,
@@ -2949,7 +3700,9 @@
     "name": "CANADIAN SYLLABICS TYE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5489,
@@ -2957,7 +3710,9 @@
     "name": "CANADIAN SYLLABICS TYI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5490,
@@ -2965,7 +3720,9 @@
     "name": "CANADIAN SYLLABICS TYO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5491,
@@ -2973,7 +3730,9 @@
     "name": "CANADIAN SYLLABICS TYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5492,
@@ -2981,7 +3740,9 @@
     "name": "CANADIAN SYLLABICS NUNAVIK HE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "нунавик", "хе"],
+    "concepts": []
   },
   {
     "cp": 5493,
@@ -2989,7 +3750,9 @@
     "name": "CANADIAN SYLLABICS NUNAVIK HI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "нунавик", "хай (HI)"],
+    "concepts": []
   },
   {
     "cp": 5494,
@@ -2997,7 +3760,9 @@
     "name": "CANADIAN SYLLABICS NUNAVIK HII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "нунавик"],
+    "concepts": []
   },
   {
     "cp": 5495,
@@ -3005,7 +3770,9 @@
     "name": "CANADIAN SYLLABICS NUNAVIK HO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "нунавик", "хо"],
+    "concepts": []
   },
   {
     "cp": 5496,
@@ -3013,7 +3780,9 @@
     "name": "CANADIAN SYLLABICS NUNAVIK HOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "нунавик", "ху"],
+    "concepts": []
   },
   {
     "cp": 5497,
@@ -3021,7 +3790,9 @@
     "name": "CANADIAN SYLLABICS NUNAVIK HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "нунавик", "ха"],
+    "concepts": []
   },
   {
     "cp": 5498,
@@ -3029,7 +3800,9 @@
     "name": "CANADIAN SYLLABICS NUNAVIK HAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "нунавик", "хаа"],
+    "concepts": []
   },
   {
     "cp": 5499,
@@ -3037,7 +3810,9 @@
     "name": "CANADIAN SYLLABICS NUNAVIK H",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "нунавик"],
+    "concepts": []
   },
   {
     "cp": 5500,
@@ -3045,7 +3820,9 @@
     "name": "CANADIAN SYLLABICS NUNAVUT H",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5501,
@@ -3053,7 +3830,9 @@
     "name": "CANADIAN SYLLABICS HK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5502,
@@ -3061,7 +3840,9 @@
     "name": "CANADIAN SYLLABICS QAAI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5503,
@@ -3069,7 +3850,9 @@
     "name": "CANADIAN SYLLABICS QI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ки"],
+    "concepts": []
   },
   {
     "cp": 5504,
@@ -3077,7 +3860,9 @@
     "name": "CANADIAN SYLLABICS QII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5505,
@@ -3085,7 +3870,9 @@
     "name": "CANADIAN SYLLABICS QO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ко"],
+    "concepts": []
   },
   {
     "cp": 5506,
@@ -3093,7 +3880,9 @@
     "name": "CANADIAN SYLLABICS QOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ку"],
+    "concepts": []
   },
   {
     "cp": 5507,
@@ -3101,7 +3890,9 @@
     "name": "CANADIAN SYLLABICS QA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "ка (qa)"],
+    "concepts": []
   },
   {
     "cp": 5508,
@@ -3109,7 +3900,9 @@
     "name": "CANADIAN SYLLABICS QAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "каа"],
+    "concepts": []
   },
   {
     "cp": 5509,
@@ -3117,7 +3910,9 @@
     "name": "CANADIAN SYLLABICS Q",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5510,
@@ -3125,7 +3920,9 @@
     "name": "CANADIAN SYLLABICS TLHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5511,
@@ -3133,7 +3930,9 @@
     "name": "CANADIAN SYLLABICS TLHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5512,
@@ -3141,7 +3940,9 @@
     "name": "CANADIAN SYLLABICS TLHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5513,
@@ -3149,7 +3950,9 @@
     "name": "CANADIAN SYLLABICS TLHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "тлха"],
+    "concepts": []
   },
   {
     "cp": 5514,
@@ -3157,7 +3960,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE RE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "ре"],
+    "concepts": []
   },
   {
     "cp": 5515,
@@ -3165,7 +3970,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE RI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "ри"],
+    "concepts": []
   },
   {
     "cp": 5516,
@@ -3173,7 +3980,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE RO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "ро"],
+    "concepts": []
   },
   {
     "cp": 5517,
@@ -3181,7 +3990,9 @@
     "name": "CANADIAN SYLLABICS WEST-CREE RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "запад", "кри", "ра"],
+    "concepts": []
   },
   {
     "cp": 5518,
@@ -3189,7 +4000,9 @@
     "name": "CANADIAN SYLLABICS NGAAI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5519,
@@ -3197,7 +4010,9 @@
     "name": "CANADIAN SYLLABICS NGI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "нги"],
+    "concepts": []
   },
   {
     "cp": 5520,
@@ -3205,7 +4020,9 @@
     "name": "CANADIAN SYLLABICS NGII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5521,
@@ -3213,7 +4030,9 @@
     "name": "CANADIAN SYLLABICS NGO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "нго"],
+    "concepts": []
   },
   {
     "cp": 5522,
@@ -3221,7 +4040,9 @@
     "name": "CANADIAN SYLLABICS NGOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5523,
@@ -3229,7 +4050,9 @@
     "name": "CANADIAN SYLLABICS NGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "нга"],
+    "concepts": []
   },
   {
     "cp": 5524,
@@ -3237,7 +4060,9 @@
     "name": "CANADIAN SYLLABICS NGAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "нгаа"],
+    "concepts": []
   },
   {
     "cp": 5525,
@@ -3245,7 +4070,9 @@
     "name": "CANADIAN SYLLABICS NG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "NG"],
+    "concepts": []
   },
   {
     "cp": 5526,
@@ -3253,7 +4080,9 @@
     "name": "CANADIAN SYLLABICS NNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5527,
@@ -3261,7 +4090,9 @@
     "name": "CANADIAN SYLLABICS SAYISI SHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "саиси", "ше"],
+    "concepts": []
   },
   {
     "cp": 5528,
@@ -3269,7 +4100,9 @@
     "name": "CANADIAN SYLLABICS SAYISI SHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "саиси", "ши"],
+    "concepts": []
   },
   {
     "cp": 5529,
@@ -3277,7 +4110,9 @@
     "name": "CANADIAN SYLLABICS SAYISI SHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "саиси", "шо"],
+    "concepts": []
   },
   {
     "cp": 5530,
@@ -3285,7 +4120,9 @@
     "name": "CANADIAN SYLLABICS SAYISI SHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "саиси", "ша"],
+    "concepts": []
   },
   {
     "cp": 5531,
@@ -3293,7 +4130,9 @@
     "name": "CANADIAN SYLLABICS WOODS-CREE THE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "лесной", "кри"],
+    "concepts": []
   },
   {
     "cp": 5532,
@@ -3301,7 +4140,9 @@
     "name": "CANADIAN SYLLABICS WOODS-CREE THI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "лесной", "кри", "тхи"],
+    "concepts": []
   },
   {
     "cp": 5533,
@@ -3309,7 +4150,9 @@
     "name": "CANADIAN SYLLABICS WOODS-CREE THO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "лесной", "кри", "тхо"],
+    "concepts": []
   },
   {
     "cp": 5534,
@@ -3317,7 +4160,9 @@
     "name": "CANADIAN SYLLABICS WOODS-CREE THA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "лесной", "кри", "тха"],
+    "concepts": []
   },
   {
     "cp": 5535,
@@ -3325,7 +4170,9 @@
     "name": "CANADIAN SYLLABICS WOODS-CREE TH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "лесной", "кри", "th"],
+    "concepts": []
   },
   {
     "cp": 5536,
@@ -3333,7 +4180,9 @@
     "name": "CANADIAN SYLLABICS LHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5537,
@@ -3341,7 +4190,9 @@
     "name": "CANADIAN SYLLABICS LHII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5538,
@@ -3349,7 +4200,9 @@
     "name": "CANADIAN SYLLABICS LHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5539,
@@ -3357,7 +4210,9 @@
     "name": "CANADIAN SYLLABICS LHOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5540,
@@ -3365,7 +4220,9 @@
     "name": "CANADIAN SYLLABICS LHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "лха"],
+    "concepts": []
   },
   {
     "cp": 5541,
@@ -3373,7 +4230,9 @@
     "name": "CANADIAN SYLLABICS LHAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5542,
@@ -3381,7 +4240,9 @@
     "name": "CANADIAN SYLLABICS LH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "лх"],
+    "concepts": []
   },
   {
     "cp": 5543,
@@ -3389,7 +4250,9 @@
     "name": "CANADIAN SYLLABICS TH-CREE THE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "th", "кри"],
+    "concepts": []
   },
   {
     "cp": 5544,
@@ -3397,7 +4260,9 @@
     "name": "CANADIAN SYLLABICS TH-CREE THI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "th", "кри", "тхи"],
+    "concepts": []
   },
   {
     "cp": 5545,
@@ -3405,7 +4270,9 @@
     "name": "CANADIAN SYLLABICS TH-CREE THII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "th", "кри", "тхии"],
+    "concepts": []
   },
   {
     "cp": 5546,
@@ -3413,7 +4280,9 @@
     "name": "CANADIAN SYLLABICS TH-CREE THO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "th", "кри", "тхо"],
+    "concepts": []
   },
   {
     "cp": 5547,
@@ -3421,7 +4290,9 @@
     "name": "CANADIAN SYLLABICS TH-CREE THOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "th", "кри", "тху"],
+    "concepts": []
   },
   {
     "cp": 5548,
@@ -3429,7 +4300,9 @@
     "name": "CANADIAN SYLLABICS TH-CREE THA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "th", "кри", "тха"],
+    "concepts": []
   },
   {
     "cp": 5549,
@@ -3437,7 +4310,9 @@
     "name": "CANADIAN SYLLABICS TH-CREE THAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "th", "кри", "тхаа"],
+    "concepts": []
   },
   {
     "cp": 5550,
@@ -3445,7 +4320,9 @@
     "name": "CANADIAN SYLLABICS TH-CREE TH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "th", "кри"],
+    "concepts": []
   },
   {
     "cp": 5551,
@@ -3453,7 +4330,9 @@
     "name": "CANADIAN SYLLABICS AIVILIK B",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5552,
@@ -3461,7 +4340,9 @@
     "name": "CANADIAN SYLLABICS BLACKFOOT E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "черноногие"],
+    "concepts": []
   },
   {
     "cp": 5553,
@@ -3469,7 +4350,9 @@
     "name": "CANADIAN SYLLABICS BLACKFOOT I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "черноногие"],
+    "concepts": []
   },
   {
     "cp": 5554,
@@ -3477,7 +4360,9 @@
     "name": "CANADIAN SYLLABICS BLACKFOOT O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "черноногие"],
+    "concepts": []
   },
   {
     "cp": 5555,
@@ -3485,7 +4370,9 @@
     "name": "CANADIAN SYLLABICS BLACKFOOT A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "черноногие"],
+    "concepts": []
   },
   {
     "cp": 5556,
@@ -3493,7 +4380,9 @@
     "name": "CANADIAN SYLLABICS BLACKFOOT WE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "черноногие", "ве"],
+    "concepts": []
   },
   {
     "cp": 5557,
@@ -3501,7 +4390,9 @@
     "name": "CANADIAN SYLLABICS BLACKFOOT WI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "черноногие", "ви"],
+    "concepts": []
   },
   {
     "cp": 5558,
@@ -3509,7 +4400,9 @@
     "name": "CANADIAN SYLLABICS BLACKFOOT WO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "черноногие", "во"],
+    "concepts": []
   },
   {
     "cp": 5559,
@@ -3517,7 +4410,9 @@
     "name": "CANADIAN SYLLABICS BLACKFOOT WA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "черноногие", "ва"],
+    "concepts": []
   },
   {
     "cp": 5560,
@@ -3525,7 +4420,9 @@
     "name": "CANADIAN SYLLABICS BLACKFOOT NE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "черноногие", "не"],
+    "concepts": []
   },
   {
     "cp": 5561,
@@ -3533,7 +4430,9 @@
     "name": "CANADIAN SYLLABICS BLACKFOOT NI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "черноногие", "ни"],
+    "concepts": []
   },
   {
     "cp": 5562,
@@ -3541,7 +4440,9 @@
     "name": "CANADIAN SYLLABICS BLACKFOOT NO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "черноногие", "нет"],
+    "concepts": []
   },
   {
     "cp": 5563,
@@ -3549,7 +4450,9 @@
     "name": "CANADIAN SYLLABICS BLACKFOOT NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "черноногие", "на"],
+    "concepts": []
   },
   {
     "cp": 5564,
@@ -3557,7 +4460,9 @@
     "name": "CANADIAN SYLLABICS BLACKFOOT KE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "черноногие", "ке"],
+    "concepts": []
   },
   {
     "cp": 5565,
@@ -3565,7 +4470,9 @@
     "name": "CANADIAN SYLLABICS BLACKFOOT KI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "черноногие", "ки"],
+    "concepts": []
   },
   {
     "cp": 5566,
@@ -3573,7 +4480,9 @@
     "name": "CANADIAN SYLLABICS BLACKFOOT KO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "черноногие", "ко"],
+    "concepts": []
   },
   {
     "cp": 5567,
@@ -3581,7 +4490,9 @@
     "name": "CANADIAN SYLLABICS BLACKFOOT KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "черноногие", "ка"],
+    "concepts": []
   },
   {
     "cp": 5568,
@@ -3589,7 +4500,9 @@
     "name": "CANADIAN SYLLABICS SAYISI HE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "саиси", "хе"],
+    "concepts": []
   },
   {
     "cp": 5569,
@@ -3597,7 +4510,9 @@
     "name": "CANADIAN SYLLABICS SAYISI HI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "саиси", "хай (HI)"],
+    "concepts": []
   },
   {
     "cp": 5570,
@@ -3605,7 +4520,9 @@
     "name": "CANADIAN SYLLABICS SAYISI HO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "саиси", "хо"],
+    "concepts": []
   },
   {
     "cp": 5571,
@@ -3613,7 +4530,9 @@
     "name": "CANADIAN SYLLABICS SAYISI HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "саиси", "ха"],
+    "concepts": []
   },
   {
     "cp": 5572,
@@ -3621,7 +4540,9 @@
     "name": "CANADIAN SYLLABICS CARRIER GHU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5573,
@@ -3629,7 +4550,9 @@
     "name": "CANADIAN SYLLABICS CARRIER GHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5574,
@@ -3637,7 +4560,9 @@
     "name": "CANADIAN SYLLABICS CARRIER GHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ге"],
+    "concepts": []
   },
   {
     "cp": 5575,
@@ -3645,7 +4570,9 @@
     "name": "CANADIAN SYLLABICS CARRIER GHEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5576,
@@ -3653,7 +4580,9 @@
     "name": "CANADIAN SYLLABICS CARRIER GHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5577,
@@ -3661,7 +4590,9 @@
     "name": "CANADIAN SYLLABICS CARRIER GHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "гха"],
+    "concepts": []
   },
   {
     "cp": 5578,
@@ -3669,7 +4600,9 @@
     "name": "CANADIAN SYLLABICS CARRIER RU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ру"],
+    "concepts": []
   },
   {
     "cp": 5579,
@@ -3677,7 +4610,9 @@
     "name": "CANADIAN SYLLABICS CARRIER RO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ро"],
+    "concepts": []
   },
   {
     "cp": 5580,
@@ -3685,7 +4620,9 @@
     "name": "CANADIAN SYLLABICS CARRIER RE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ре"],
+    "concepts": []
   },
   {
     "cp": 5581,
@@ -3693,7 +4630,9 @@
     "name": "CANADIAN SYLLABICS CARRIER REE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "рии"],
+    "concepts": []
   },
   {
     "cp": 5582,
@@ -3701,7 +4640,9 @@
     "name": "CANADIAN SYLLABICS CARRIER RI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ри"],
+    "concepts": []
   },
   {
     "cp": 5583,
@@ -3709,7 +4650,9 @@
     "name": "CANADIAN SYLLABICS CARRIER RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ра"],
+    "concepts": []
   },
   {
     "cp": 5584,
@@ -3717,7 +4660,9 @@
     "name": "CANADIAN SYLLABICS CARRIER WU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ву"],
+    "concepts": []
   },
   {
     "cp": 5585,
@@ -3725,7 +4670,9 @@
     "name": "CANADIAN SYLLABICS CARRIER WO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "во"],
+    "concepts": []
   },
   {
     "cp": 5586,
@@ -3733,7 +4680,9 @@
     "name": "CANADIAN SYLLABICS CARRIER WE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ве"],
+    "concepts": []
   },
   {
     "cp": 5587,
@@ -3741,7 +4690,9 @@
     "name": "CANADIAN SYLLABICS CARRIER WEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "вии"],
+    "concepts": []
   },
   {
     "cp": 5588,
@@ -3749,7 +4700,9 @@
     "name": "CANADIAN SYLLABICS CARRIER WI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ви"],
+    "concepts": []
   },
   {
     "cp": 5589,
@@ -3757,7 +4710,9 @@
     "name": "CANADIAN SYLLABICS CARRIER WA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ва"],
+    "concepts": []
   },
   {
     "cp": 5590,
@@ -3765,7 +4720,9 @@
     "name": "CANADIAN SYLLABICS CARRIER HWU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5591,
@@ -3773,7 +4730,9 @@
     "name": "CANADIAN SYLLABICS CARRIER HWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5592,
@@ -3781,7 +4740,9 @@
     "name": "CANADIAN SYLLABICS CARRIER HWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "хве"],
+    "concepts": []
   },
   {
     "cp": 5593,
@@ -3789,7 +4750,9 @@
     "name": "CANADIAN SYLLABICS CARRIER HWEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5594,
@@ -3797,7 +4760,9 @@
     "name": "CANADIAN SYLLABICS CARRIER HWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5595,
@@ -3805,7 +4770,9 @@
     "name": "CANADIAN SYLLABICS CARRIER HWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5596,
@@ -3813,7 +4780,9 @@
     "name": "CANADIAN SYLLABICS CARRIER THU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "тху"],
+    "concepts": []
   },
   {
     "cp": 5597,
@@ -3821,7 +4790,9 @@
     "name": "CANADIAN SYLLABICS CARRIER THO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "тхо"],
+    "concepts": ["rainbow"]
   },
   {
     "cp": 5598,
@@ -3829,7 +4800,9 @@
     "name": "CANADIAN SYLLABICS CARRIER THE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5599,
@@ -3837,7 +4810,9 @@
     "name": "CANADIAN SYLLABICS CARRIER THEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "тхии"],
+    "concepts": []
   },
   {
     "cp": 5600,
@@ -3845,7 +4820,9 @@
     "name": "CANADIAN SYLLABICS CARRIER THI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "тхи"],
+    "concepts": []
   },
   {
     "cp": 5601,
@@ -3853,7 +4830,9 @@
     "name": "CANADIAN SYLLABICS CARRIER THA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "тха"],
+    "concepts": []
   },
   {
     "cp": 5602,
@@ -3861,7 +4840,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TTU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5603,
@@ -3869,7 +4850,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TTO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "тто"],
+    "concepts": ["cherry"]
   },
   {
     "cp": 5604,
@@ -3877,7 +4860,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "тте"],
+    "concepts": []
   },
   {
     "cp": 5605,
@@ -3885,7 +4870,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TTEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5606,
@@ -3893,7 +4880,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TTI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5607,
@@ -3901,7 +4890,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "тта"],
+    "concepts": []
   },
   {
     "cp": 5608,
@@ -3909,7 +4900,9 @@
     "name": "CANADIAN SYLLABICS CARRIER PU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "пу"],
+    "concepts": []
   },
   {
     "cp": 5609,
@@ -3917,7 +4910,9 @@
     "name": "CANADIAN SYLLABICS CARRIER PO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "по"],
+    "concepts": []
   },
   {
     "cp": 5610,
@@ -3925,7 +4920,9 @@
     "name": "CANADIAN SYLLABICS CARRIER PE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "пе"],
+    "concepts": []
   },
   {
     "cp": 5611,
@@ -3933,7 +4930,9 @@
     "name": "CANADIAN SYLLABICS CARRIER PEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "пее"],
+    "concepts": []
   },
   {
     "cp": 5612,
@@ -3941,7 +4940,9 @@
     "name": "CANADIAN SYLLABICS CARRIER PI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "пи"],
+    "concepts": []
   },
   {
     "cp": 5613,
@@ -3949,7 +4950,9 @@
     "name": "CANADIAN SYLLABICS CARRIER PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "па"],
+    "concepts": []
   },
   {
     "cp": 5614,
@@ -3957,7 +4960,9 @@
     "name": "CANADIAN SYLLABICS CARRIER P",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5615,
@@ -3965,7 +4970,9 @@
     "name": "CANADIAN SYLLABICS CARRIER GU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "гу"],
+    "concepts": []
   },
   {
     "cp": 5616,
@@ -3973,7 +4980,9 @@
     "name": "CANADIAN SYLLABICS CARRIER GO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "го"],
+    "concepts": ["night", "wave"]
   },
   {
     "cp": 5617,
@@ -3981,7 +4990,9 @@
     "name": "CANADIAN SYLLABICS CARRIER GE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ге"],
+    "concepts": []
   },
   {
     "cp": 5618,
@@ -3989,7 +5000,9 @@
     "name": "CANADIAN SYLLABICS CARRIER GEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "гии"],
+    "concepts": []
   },
   {
     "cp": 5619,
@@ -3997,7 +5010,9 @@
     "name": "CANADIAN SYLLABICS CARRIER GI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ги"],
+    "concepts": []
   },
   {
     "cp": 5620,
@@ -4005,7 +5020,9 @@
     "name": "CANADIAN SYLLABICS CARRIER GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "га"],
+    "concepts": []
   },
   {
     "cp": 5621,
@@ -4013,7 +5030,9 @@
     "name": "CANADIAN SYLLABICS CARRIER KHU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5622,
@@ -4021,7 +5040,9 @@
     "name": "CANADIAN SYLLABICS CARRIER KHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "кхо"],
+    "concepts": []
   },
   {
     "cp": 5623,
@@ -4029,7 +5050,9 @@
     "name": "CANADIAN SYLLABICS CARRIER KHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "хе"],
+    "concepts": []
   },
   {
     "cp": 5624,
@@ -4037,7 +5060,9 @@
     "name": "CANADIAN SYLLABICS CARRIER KHEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5625,
@@ -4045,7 +5070,9 @@
     "name": "CANADIAN SYLLABICS CARRIER KHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "хи"],
+    "concepts": []
   },
   {
     "cp": 5626,
@@ -4053,7 +5080,9 @@
     "name": "CANADIAN SYLLABICS CARRIER KHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "кха"],
+    "concepts": []
   },
   {
     "cp": 5627,
@@ -4061,7 +5090,9 @@
     "name": "CANADIAN SYLLABICS CARRIER KKU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5628,
@@ -4069,7 +5100,9 @@
     "name": "CANADIAN SYLLABICS CARRIER KKO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5629,
@@ -4077,7 +5110,9 @@
     "name": "CANADIAN SYLLABICS CARRIER KKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5630,
@@ -4085,7 +5120,9 @@
     "name": "CANADIAN SYLLABICS CARRIER KKEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5631,
@@ -4093,7 +5130,9 @@
     "name": "CANADIAN SYLLABICS CARRIER KKI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5632,
@@ -4101,7 +5140,9 @@
     "name": "CANADIAN SYLLABICS CARRIER KKA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "кка"],
+    "concepts": []
   },
   {
     "cp": 5633,
@@ -4109,7 +5150,9 @@
     "name": "CANADIAN SYLLABICS CARRIER KK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "кк"],
+    "concepts": []
   },
   {
     "cp": 5634,
@@ -4117,7 +5160,9 @@
     "name": "CANADIAN SYLLABICS CARRIER NU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ню"],
+    "concepts": []
   },
   {
     "cp": 5635,
@@ -4125,7 +5170,9 @@
     "name": "CANADIAN SYLLABICS CARRIER NO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "нет"],
+    "concepts": []
   },
   {
     "cp": 5636,
@@ -4133,7 +5180,9 @@
     "name": "CANADIAN SYLLABICS CARRIER NE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "не"],
+    "concepts": []
   },
   {
     "cp": 5637,
@@ -4141,7 +5190,9 @@
     "name": "CANADIAN SYLLABICS CARRIER NEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "нии"],
+    "concepts": []
   },
   {
     "cp": 5638,
@@ -4149,7 +5200,9 @@
     "name": "CANADIAN SYLLABICS CARRIER NI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ни"],
+    "concepts": []
   },
   {
     "cp": 5639,
@@ -4157,7 +5210,9 @@
     "name": "CANADIAN SYLLABICS CARRIER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "на"],
+    "concepts": []
   },
   {
     "cp": 5640,
@@ -4165,7 +5220,9 @@
     "name": "CANADIAN SYLLABICS CARRIER MU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "мю"],
+    "concepts": []
   },
   {
     "cp": 5641,
@@ -4173,7 +5230,9 @@
     "name": "CANADIAN SYLLABICS CARRIER MO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "мо"],
+    "concepts": ["cloud"]
   },
   {
     "cp": 5642,
@@ -4181,7 +5240,9 @@
     "name": "CANADIAN SYLLABICS CARRIER ME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "мне"],
+    "concepts": ["cloud"]
   },
   {
     "cp": 5643,
@@ -4189,7 +5250,9 @@
     "name": "CANADIAN SYLLABICS CARRIER MEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "мии"],
+    "concepts": []
   },
   {
     "cp": 5644,
@@ -4197,7 +5260,9 @@
     "name": "CANADIAN SYLLABICS CARRIER MI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ми"],
+    "concepts": []
   },
   {
     "cp": 5645,
@@ -4205,7 +5270,9 @@
     "name": "CANADIAN SYLLABICS CARRIER MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ма"],
+    "concepts": []
   },
   {
     "cp": 5646,
@@ -4213,7 +5280,9 @@
     "name": "CANADIAN SYLLABICS CARRIER YU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ю"],
+    "concepts": ["rainbow"]
   },
   {
     "cp": 5647,
@@ -4221,7 +5290,9 @@
     "name": "CANADIAN SYLLABICS CARRIER YO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "йо"],
+    "concepts": ["wave", "spiral"]
   },
   {
     "cp": 5648,
@@ -4229,7 +5300,9 @@
     "name": "CANADIAN SYLLABICS CARRIER YE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "йе"],
+    "concepts": ["cloud", "spiral"]
   },
   {
     "cp": 5649,
@@ -4237,7 +5310,9 @@
     "name": "CANADIAN SYLLABICS CARRIER YEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "йее"],
+    "concepts": []
   },
   {
     "cp": 5650,
@@ -4245,7 +5320,9 @@
     "name": "CANADIAN SYLLABICS CARRIER YI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "и (письмо и)"],
+    "concepts": []
   },
   {
     "cp": 5651,
@@ -4253,7 +5330,9 @@
     "name": "CANADIAN SYLLABICS CARRIER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "я"],
+    "concepts": ["moon", "cloud", "spiral"]
   },
   {
     "cp": 5652,
@@ -4261,7 +5340,9 @@
     "name": "CANADIAN SYLLABICS CARRIER JU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "джу"],
+    "concepts": ["night", "sleep", "spiral"]
   },
   {
     "cp": 5653,
@@ -4269,7 +5350,9 @@
     "name": "CANADIAN SYLLABICS SAYISI JU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "саиси", "джу"],
+    "concepts": []
   },
   {
     "cp": 5654,
@@ -4277,7 +5360,9 @@
     "name": "CANADIAN SYLLABICS CARRIER JO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "джо"],
+    "concepts": []
   },
   {
     "cp": 5655,
@@ -4285,7 +5370,9 @@
     "name": "CANADIAN SYLLABICS CARRIER JE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "йе (ј)"],
+    "concepts": []
   },
   {
     "cp": 5656,
@@ -4293,7 +5380,9 @@
     "name": "CANADIAN SYLLABICS CARRIER JEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "джее"],
+    "concepts": []
   },
   {
     "cp": 5657,
@@ -4301,7 +5390,9 @@
     "name": "CANADIAN SYLLABICS CARRIER JI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "джи"],
+    "concepts": []
   },
   {
     "cp": 5658,
@@ -4309,7 +5400,9 @@
     "name": "CANADIAN SYLLABICS SAYISI JI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "саиси", "джи"],
+    "concepts": []
   },
   {
     "cp": 5659,
@@ -4317,7 +5410,9 @@
     "name": "CANADIAN SYLLABICS CARRIER JA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "джа"],
+    "concepts": []
   },
   {
     "cp": 5660,
@@ -4325,7 +5420,9 @@
     "name": "CANADIAN SYLLABICS CARRIER JJU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5661,
@@ -4333,7 +5430,9 @@
     "name": "CANADIAN SYLLABICS CARRIER JJO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5662,
@@ -4341,7 +5440,9 @@
     "name": "CANADIAN SYLLABICS CARRIER JJE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5663,
@@ -4349,7 +5450,9 @@
     "name": "CANADIAN SYLLABICS CARRIER JJEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5664,
@@ -4357,7 +5460,9 @@
     "name": "CANADIAN SYLLABICS CARRIER JJI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5665,
@@ -4365,7 +5470,9 @@
     "name": "CANADIAN SYLLABICS CARRIER JJA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "джджа"],
+    "concepts": []
   },
   {
     "cp": 5666,
@@ -4373,7 +5480,9 @@
     "name": "CANADIAN SYLLABICS CARRIER LU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "лу"],
+    "concepts": []
   },
   {
     "cp": 5667,
@@ -4381,7 +5490,9 @@
     "name": "CANADIAN SYLLABICS CARRIER LO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ло"],
+    "concepts": []
   },
   {
     "cp": 5668,
@@ -4389,7 +5500,9 @@
     "name": "CANADIAN SYLLABICS CARRIER LE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ле"],
+    "concepts": []
   },
   {
     "cp": 5669,
@@ -4397,7 +5510,9 @@
     "name": "CANADIAN SYLLABICS CARRIER LEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "лии"],
+    "concepts": []
   },
   {
     "cp": 5670,
@@ -4405,7 +5520,9 @@
     "name": "CANADIAN SYLLABICS CARRIER LI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ли"],
+    "concepts": []
   },
   {
     "cp": 5671,
@@ -4413,7 +5530,9 @@
     "name": "CANADIAN SYLLABICS CARRIER LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ла"],
+    "concepts": []
   },
   {
     "cp": 5672,
@@ -4421,7 +5540,9 @@
     "name": "CANADIAN SYLLABICS CARRIER DLU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5673,
@@ -4429,7 +5550,9 @@
     "name": "CANADIAN SYLLABICS CARRIER DLO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5674,
@@ -4437,7 +5560,9 @@
     "name": "CANADIAN SYLLABICS CARRIER DLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5675,
@@ -4445,7 +5570,9 @@
     "name": "CANADIAN SYLLABICS CARRIER DLEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5676,
@@ -4453,7 +5580,9 @@
     "name": "CANADIAN SYLLABICS CARRIER DLI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5677,
@@ -4461,7 +5590,9 @@
     "name": "CANADIAN SYLLABICS CARRIER DLA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "дла"],
+    "concepts": []
   },
   {
     "cp": 5678,
@@ -4469,7 +5600,9 @@
     "name": "CANADIAN SYLLABICS CARRIER LHU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5679,
@@ -4477,7 +5610,9 @@
     "name": "CANADIAN SYLLABICS CARRIER LHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5680,
@@ -4485,7 +5620,9 @@
     "name": "CANADIAN SYLLABICS CARRIER LHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5681,
@@ -4493,7 +5630,9 @@
     "name": "CANADIAN SYLLABICS CARRIER LHEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5682,
@@ -4501,7 +5640,9 @@
     "name": "CANADIAN SYLLABICS CARRIER LHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5683,
@@ -4509,7 +5650,9 @@
     "name": "CANADIAN SYLLABICS CARRIER LHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "лха"],
+    "concepts": []
   },
   {
     "cp": 5684,
@@ -4517,7 +5660,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TLHU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5685,
@@ -4525,7 +5670,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TLHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5686,
@@ -4533,7 +5680,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TLHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5687,
@@ -4541,7 +5690,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TLHEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5688,
@@ -4549,7 +5700,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TLHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5689,
@@ -4557,7 +5710,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TLHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "тлха"],
+    "concepts": []
   },
   {
     "cp": 5690,
@@ -4565,7 +5720,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TLU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "тлу"],
+    "concepts": []
   },
   {
     "cp": 5691,
@@ -4573,7 +5730,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TLO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "тло"],
+    "concepts": []
   },
   {
     "cp": 5692,
@@ -4581,7 +5740,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "тле"],
+    "concepts": []
   },
   {
     "cp": 5693,
@@ -4589,7 +5750,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TLEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5694,
@@ -4597,7 +5760,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TLI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "тли"],
+    "concepts": []
   },
   {
     "cp": 5695,
@@ -4605,7 +5770,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TLA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "тла"],
+    "concepts": []
   },
   {
     "cp": 5696,
@@ -4613,7 +5780,9 @@
     "name": "CANADIAN SYLLABICS CARRIER ZU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "зу"],
+    "concepts": []
   },
   {
     "cp": 5697,
@@ -4621,7 +5790,9 @@
     "name": "CANADIAN SYLLABICS CARRIER ZO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "зо"],
+    "concepts": []
   },
   {
     "cp": 5698,
@@ -4629,7 +5800,9 @@
     "name": "CANADIAN SYLLABICS CARRIER ZE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "зе"],
+    "concepts": []
   },
   {
     "cp": 5699,
@@ -4637,7 +5810,9 @@
     "name": "CANADIAN SYLLABICS CARRIER ZEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "зии"],
+    "concepts": []
   },
   {
     "cp": 5700,
@@ -4645,7 +5820,9 @@
     "name": "CANADIAN SYLLABICS CARRIER ZI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "зи"],
+    "concepts": []
   },
   {
     "cp": 5701,
@@ -4653,7 +5830,9 @@
     "name": "CANADIAN SYLLABICS CARRIER ZA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "за"],
+    "concepts": []
   },
   {
     "cp": 5702,
@@ -4661,7 +5840,9 @@
     "name": "CANADIAN SYLLABICS CARRIER Z",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": ["night"]
   },
   {
     "cp": 5703,
@@ -4669,7 +5850,9 @@
     "name": "CANADIAN SYLLABICS CARRIER INITIAL Z",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "начальный"],
+    "concepts": []
   },
   {
     "cp": 5704,
@@ -4677,7 +5860,9 @@
     "name": "CANADIAN SYLLABICS CARRIER DZU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5705,
@@ -4685,7 +5870,9 @@
     "name": "CANADIAN SYLLABICS CARRIER DZO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5706,
@@ -4693,7 +5880,9 @@
     "name": "CANADIAN SYLLABICS CARRIER DZE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "дзе (ѕ)"],
+    "concepts": []
   },
   {
     "cp": 5707,
@@ -4701,7 +5890,9 @@
     "name": "CANADIAN SYLLABICS CARRIER DZEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5708,
@@ -4709,7 +5900,9 @@
     "name": "CANADIAN SYLLABICS CARRIER DZI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5709,
@@ -4717,7 +5910,9 @@
     "name": "CANADIAN SYLLABICS CARRIER DZA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "дза"],
+    "concepts": []
   },
   {
     "cp": 5710,
@@ -4725,7 +5920,9 @@
     "name": "CANADIAN SYLLABICS CARRIER SU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "су"],
+    "concepts": []
   },
   {
     "cp": 5711,
@@ -4733,7 +5930,9 @@
     "name": "CANADIAN SYLLABICS CARRIER SO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "со"],
+    "concepts": []
   },
   {
     "cp": 5712,
@@ -4741,7 +5940,9 @@
     "name": "CANADIAN SYLLABICS CARRIER SE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "се"],
+    "concepts": []
   },
   {
     "cp": 5713,
@@ -4749,7 +5950,9 @@
     "name": "CANADIAN SYLLABICS CARRIER SEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "видеть"],
+    "concepts": []
   },
   {
     "cp": 5714,
@@ -4757,7 +5960,9 @@
     "name": "CANADIAN SYLLABICS CARRIER SI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "си"],
+    "concepts": []
   },
   {
     "cp": 5715,
@@ -4765,7 +5970,9 @@
     "name": "CANADIAN SYLLABICS CARRIER SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "са"],
+    "concepts": []
   },
   {
     "cp": 5716,
@@ -4773,7 +5980,9 @@
     "name": "CANADIAN SYLLABICS CARRIER SHU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "шу"],
+    "concepts": []
   },
   {
     "cp": 5717,
@@ -4781,7 +5990,9 @@
     "name": "CANADIAN SYLLABICS CARRIER SHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "шо"],
+    "concepts": []
   },
   {
     "cp": 5718,
@@ -4789,7 +6000,9 @@
     "name": "CANADIAN SYLLABICS CARRIER SHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ше"],
+    "concepts": []
   },
   {
     "cp": 5719,
@@ -4797,7 +6010,9 @@
     "name": "CANADIAN SYLLABICS CARRIER SHEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "шии"],
+    "concepts": []
   },
   {
     "cp": 5720,
@@ -4805,7 +6020,9 @@
     "name": "CANADIAN SYLLABICS CARRIER SHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ши"],
+    "concepts": []
   },
   {
     "cp": 5721,
@@ -4813,7 +6030,9 @@
     "name": "CANADIAN SYLLABICS CARRIER SHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ша"],
+    "concepts": []
   },
   {
     "cp": 5722,
@@ -4821,7 +6040,9 @@
     "name": "CANADIAN SYLLABICS CARRIER SH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ш"],
+    "concepts": []
   },
   {
     "cp": 5723,
@@ -4829,7 +6050,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TSU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "цу"],
+    "concepts": []
   },
   {
     "cp": 5724,
@@ -4837,7 +6060,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TSO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "цо"],
+    "concepts": []
   },
   {
     "cp": 5725,
@@ -4845,7 +6070,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TSE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "це"],
+    "concepts": []
   },
   {
     "cp": 5726,
@@ -4853,7 +6080,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TSEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5727,
@@ -4861,7 +6090,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TSI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ци"],
+    "concepts": []
   },
   {
     "cp": 5728,
@@ -4869,7 +6100,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ца"],
+    "concepts": []
   },
   {
     "cp": 5729,
@@ -4877,7 +6110,9 @@
     "name": "CANADIAN SYLLABICS CARRIER CHU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "чу"],
+    "concepts": []
   },
   {
     "cp": 5730,
@@ -4885,7 +6120,9 @@
     "name": "CANADIAN SYLLABICS CARRIER CHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "чо"],
+    "concepts": []
   },
   {
     "cp": 5731,
@@ -4893,7 +6130,9 @@
     "name": "CANADIAN SYLLABICS CARRIER CHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "че"],
+    "concepts": []
   },
   {
     "cp": 5732,
@@ -4901,7 +6140,9 @@
     "name": "CANADIAN SYLLABICS CARRIER CHEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "чии"],
+    "concepts": []
   },
   {
     "cp": 5733,
@@ -4909,7 +6150,9 @@
     "name": "CANADIAN SYLLABICS CARRIER CHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "хи"],
+    "concepts": []
   },
   {
     "cp": 5734,
@@ -4917,7 +6160,9 @@
     "name": "CANADIAN SYLLABICS CARRIER CHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель", "ча"],
+    "concepts": []
   },
   {
     "cp": 5735,
@@ -4925,7 +6170,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TTSU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5736,
@@ -4933,7 +6180,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TTSO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5737,
@@ -4941,7 +6190,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TTSE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5738,
@@ -4949,7 +6200,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TTSEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5739,
@@ -4957,7 +6210,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TTSI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5740,
@@ -4965,7 +6220,9 @@
     "name": "CANADIAN SYLLABICS CARRIER TTSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "носитель"],
+    "concepts": []
   },
   {
     "cp": 5741,
@@ -4973,7 +6230,9 @@
     "name": "CANADIAN SYLLABICS CHI SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "хи", "знак"],
+    "concepts": []
   },
   {
     "cp": 5742,
@@ -4981,7 +6240,9 @@
     "name": "CANADIAN SYLLABICS FULL STOP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "полный", "стоп"],
+    "concepts": []
   },
   {
     "cp": 5743,
@@ -4989,7 +6250,9 @@
     "name": "CANADIAN SYLLABICS QAI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5744,
@@ -4997,7 +6260,9 @@
     "name": "CANADIAN SYLLABICS NGAI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5745,
@@ -5005,7 +6270,9 @@
     "name": "CANADIAN SYLLABICS NNGI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5746,
@@ -5013,7 +6280,9 @@
     "name": "CANADIAN SYLLABICS NNGII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5747,
@@ -5021,7 +6290,9 @@
     "name": "CANADIAN SYLLABICS NNGO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5748,
@@ -5029,7 +6300,9 @@
     "name": "CANADIAN SYLLABICS NNGOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5749,
@@ -5037,7 +6310,9 @@
     "name": "CANADIAN SYLLABICS NNGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5750,
@@ -5045,7 +6320,9 @@
     "name": "CANADIAN SYLLABICS NNGAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо"],
+    "concepts": []
   },
   {
     "cp": 5751,
@@ -5053,7 +6330,9 @@
     "name": "CANADIAN SYLLABICS WOODS-CREE THWEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "лесной", "кри"],
+    "concepts": []
   },
   {
     "cp": 5752,
@@ -5061,7 +6340,9 @@
     "name": "CANADIAN SYLLABICS WOODS-CREE THWI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "лесной", "кри"],
+    "concepts": []
   },
   {
     "cp": 5753,
@@ -5069,7 +6350,9 @@
     "name": "CANADIAN SYLLABICS WOODS-CREE THWII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "лесной", "кри"],
+    "concepts": []
   },
   {
     "cp": 5754,
@@ -5077,7 +6360,9 @@
     "name": "CANADIAN SYLLABICS WOODS-CREE THWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "лесной", "кри"],
+    "concepts": []
   },
   {
     "cp": 5755,
@@ -5085,7 +6370,9 @@
     "name": "CANADIAN SYLLABICS WOODS-CREE THWOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "лесной", "кри"],
+    "concepts": []
   },
   {
     "cp": 5756,
@@ -5093,7 +6380,9 @@
     "name": "CANADIAN SYLLABICS WOODS-CREE THWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "лесной", "кри", "тхва"],
+    "concepts": []
   },
   {
     "cp": 5757,
@@ -5101,7 +6390,9 @@
     "name": "CANADIAN SYLLABICS WOODS-CREE THWAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "лесной", "кри", "тхваа"],
+    "concepts": []
   },
   {
     "cp": 5758,
@@ -5109,7 +6400,9 @@
     "name": "CANADIAN SYLLABICS WOODS-CREE FINAL TH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "лесной", "кри", "конечный", "th"],
+    "concepts": []
   },
   {
     "cp": 5759,
@@ -5117,6 +6410,8 @@
     "name": "CANADIAN SYLLABICS BLACKFOOT W",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канадский", "слоговое письмо", "черноногие"],
+    "concepts": []
   }
 ]

@@ -5,7 +5,9 @@
     "name": "HIRAGANA LETTER SMALL A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 12354,
@@ -13,7 +15,9 @@
     "name": "HIRAGANA LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква"],
+    "concepts": []
   },
   {
     "cp": 12355,
@@ -21,7 +25,9 @@
     "name": "HIRAGANA LETTER SMALL I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 12356,
@@ -29,7 +35,9 @@
     "name": "HIRAGANA LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква"],
+    "concepts": []
   },
   {
     "cp": 12357,
@@ -37,7 +45,9 @@
     "name": "HIRAGANA LETTER SMALL U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 12358,
@@ -45,7 +55,9 @@
     "name": "HIRAGANA LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква"],
+    "concepts": []
   },
   {
     "cp": 12359,
@@ -53,7 +65,9 @@
     "name": "HIRAGANA LETTER SMALL E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 12360,
@@ -61,7 +75,9 @@
     "name": "HIRAGANA LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква"],
+    "concepts": []
   },
   {
     "cp": 12361,
@@ -69,7 +85,9 @@
     "name": "HIRAGANA LETTER SMALL O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 12362,
@@ -77,7 +95,9 @@
     "name": "HIRAGANA LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква"],
+    "concepts": []
   },
   {
     "cp": 12363,
@@ -85,7 +105,9 @@
     "name": "HIRAGANA LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 12364,
@@ -93,7 +115,9 @@
     "name": "HIRAGANA LETTER GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "га"],
+    "concepts": []
   },
   {
     "cp": 12365,
@@ -101,7 +125,9 @@
     "name": "HIRAGANA LETTER KI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ки"],
+    "concepts": []
   },
   {
     "cp": 12366,
@@ -109,7 +135,9 @@
     "name": "HIRAGANA LETTER GI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ги"],
+    "concepts": []
   },
   {
     "cp": 12367,
@@ -117,7 +145,9 @@
     "name": "HIRAGANA LETTER KU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ку"],
+    "concepts": []
   },
   {
     "cp": 12368,
@@ -125,7 +155,9 @@
     "name": "HIRAGANA LETTER GU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "гу"],
+    "concepts": []
   },
   {
     "cp": 12369,
@@ -133,7 +165,9 @@
     "name": "HIRAGANA LETTER KE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ке"],
+    "concepts": []
   },
   {
     "cp": 12370,
@@ -141,7 +175,9 @@
     "name": "HIRAGANA LETTER GE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ге"],
+    "concepts": []
   },
   {
     "cp": 12371,
@@ -149,7 +185,9 @@
     "name": "HIRAGANA LETTER KO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ко"],
+    "concepts": []
   },
   {
     "cp": 12372,
@@ -157,7 +195,9 @@
     "name": "HIRAGANA LETTER GO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "го"],
+    "concepts": []
   },
   {
     "cp": 12373,
@@ -165,7 +205,9 @@
     "name": "HIRAGANA LETTER SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 12374,
@@ -173,7 +215,9 @@
     "name": "HIRAGANA LETTER ZA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "за"],
+    "concepts": []
   },
   {
     "cp": 12375,
@@ -181,7 +225,9 @@
     "name": "HIRAGANA LETTER SI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "си"],
+    "concepts": []
   },
   {
     "cp": 12376,
@@ -189,7 +235,9 @@
     "name": "HIRAGANA LETTER ZI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "зи"],
+    "concepts": []
   },
   {
     "cp": 12377,
@@ -197,7 +245,9 @@
     "name": "HIRAGANA LETTER SU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "су"],
+    "concepts": []
   },
   {
     "cp": 12378,
@@ -205,7 +255,9 @@
     "name": "HIRAGANA LETTER ZU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "зу"],
+    "concepts": []
   },
   {
     "cp": 12379,
@@ -213,7 +265,9 @@
     "name": "HIRAGANA LETTER SE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "се"],
+    "concepts": []
   },
   {
     "cp": 12380,
@@ -221,7 +275,9 @@
     "name": "HIRAGANA LETTER ZE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "зе"],
+    "concepts": []
   },
   {
     "cp": 12381,
@@ -229,7 +285,9 @@
     "name": "HIRAGANA LETTER SO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "со"],
+    "concepts": []
   },
   {
     "cp": 12382,
@@ -237,7 +295,9 @@
     "name": "HIRAGANA LETTER ZO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "зо"],
+    "concepts": []
   },
   {
     "cp": 12383,
@@ -245,7 +305,9 @@
     "name": "HIRAGANA LETTER TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 12384,
@@ -253,7 +315,9 @@
     "name": "HIRAGANA LETTER DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "да"],
+    "concepts": []
   },
   {
     "cp": 12385,
@@ -261,7 +325,9 @@
     "name": "HIRAGANA LETTER TI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ти"],
+    "concepts": []
   },
   {
     "cp": 12386,
@@ -269,7 +335,9 @@
     "name": "HIRAGANA LETTER DI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ди"],
+    "concepts": []
   },
   {
     "cp": 12387,
@@ -277,7 +345,9 @@
     "name": "HIRAGANA LETTER SMALL TU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "маленький (строчный)", "ту"],
+    "concepts": []
   },
   {
     "cp": 12388,
@@ -285,7 +355,9 @@
     "name": "HIRAGANA LETTER TU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ту"],
+    "concepts": []
   },
   {
     "cp": 12389,
@@ -293,7 +365,9 @@
     "name": "HIRAGANA LETTER DU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ду"],
+    "concepts": []
   },
   {
     "cp": 12390,
@@ -301,7 +375,9 @@
     "name": "HIRAGANA LETTER TE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "те"],
+    "concepts": []
   },
   {
     "cp": 12391,
@@ -309,7 +385,9 @@
     "name": "HIRAGANA LETTER DE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "де"],
+    "concepts": []
   },
   {
     "cp": 12392,
@@ -317,7 +395,9 @@
     "name": "HIRAGANA LETTER TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "к"],
+    "concepts": []
   },
   {
     "cp": 12393,
@@ -325,7 +405,9 @@
     "name": "HIRAGANA LETTER DO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "делать"],
+    "concepts": []
   },
   {
     "cp": 12394,
@@ -333,7 +415,9 @@
     "name": "HIRAGANA LETTER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 12395,
@@ -341,7 +425,9 @@
     "name": "HIRAGANA LETTER NI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ни"],
+    "concepts": []
   },
   {
     "cp": 12396,
@@ -349,7 +435,9 @@
     "name": "HIRAGANA LETTER NU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ню"],
+    "concepts": []
   },
   {
     "cp": 12397,
@@ -357,7 +445,9 @@
     "name": "HIRAGANA LETTER NE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "не"],
+    "concepts": []
   },
   {
     "cp": 12398,
@@ -365,7 +455,9 @@
     "name": "HIRAGANA LETTER NO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "нет"],
+    "concepts": []
   },
   {
     "cp": 12399,
@@ -373,7 +465,9 @@
     "name": "HIRAGANA LETTER HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 12400,
@@ -381,7 +475,9 @@
     "name": "HIRAGANA LETTER BA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ба"],
+    "concepts": []
   },
   {
     "cp": 12401,
@@ -389,7 +485,9 @@
     "name": "HIRAGANA LETTER PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "па"],
+    "concepts": []
   },
   {
     "cp": 12402,
@@ -397,7 +495,9 @@
     "name": "HIRAGANA LETTER HI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "хай (HI)"],
+    "concepts": []
   },
   {
     "cp": 12403,
@@ -405,7 +505,9 @@
     "name": "HIRAGANA LETTER BI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "би"],
+    "concepts": []
   },
   {
     "cp": 12404,
@@ -413,7 +515,9 @@
     "name": "HIRAGANA LETTER PI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "пи"],
+    "concepts": []
   },
   {
     "cp": 12405,
@@ -421,7 +525,9 @@
     "name": "HIRAGANA LETTER HU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ху"],
+    "concepts": []
   },
   {
     "cp": 12406,
@@ -429,7 +535,9 @@
     "name": "HIRAGANA LETTER BU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "бу"],
+    "concepts": []
   },
   {
     "cp": 12407,
@@ -437,7 +545,9 @@
     "name": "HIRAGANA LETTER PU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "пу"],
+    "concepts": []
   },
   {
     "cp": 12408,
@@ -445,7 +555,9 @@
     "name": "HIRAGANA LETTER HE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "хе"],
+    "concepts": []
   },
   {
     "cp": 12409,
@@ -453,7 +565,9 @@
     "name": "HIRAGANA LETTER BE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "бе"],
+    "concepts": []
   },
   {
     "cp": 12410,
@@ -461,7 +575,9 @@
     "name": "HIRAGANA LETTER PE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "пе"],
+    "concepts": []
   },
   {
     "cp": 12411,
@@ -469,7 +585,9 @@
     "name": "HIRAGANA LETTER HO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "хо"],
+    "concepts": []
   },
   {
     "cp": 12412,
@@ -477,7 +595,9 @@
     "name": "HIRAGANA LETTER BO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "бо"],
+    "concepts": []
   },
   {
     "cp": 12413,
@@ -485,7 +605,9 @@
     "name": "HIRAGANA LETTER PO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "по"],
+    "concepts": []
   },
   {
     "cp": 12414,
@@ -493,7 +615,9 @@
     "name": "HIRAGANA LETTER MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 12415,
@@ -501,7 +625,9 @@
     "name": "HIRAGANA LETTER MI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ми"],
+    "concepts": []
   },
   {
     "cp": 12416,
@@ -509,7 +635,9 @@
     "name": "HIRAGANA LETTER MU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "мю"],
+    "concepts": []
   },
   {
     "cp": 12417,
@@ -517,7 +645,9 @@
     "name": "HIRAGANA LETTER ME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "мне"],
+    "concepts": []
   },
   {
     "cp": 12418,
@@ -525,7 +655,9 @@
     "name": "HIRAGANA LETTER MO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "мо"],
+    "concepts": []
   },
   {
     "cp": 12419,
@@ -533,7 +665,9 @@
     "name": "HIRAGANA LETTER SMALL YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "маленький (строчный)", "я"],
+    "concepts": []
   },
   {
     "cp": 12420,
@@ -541,7 +675,9 @@
     "name": "HIRAGANA LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 12421,
@@ -549,7 +685,9 @@
     "name": "HIRAGANA LETTER SMALL YU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "маленький (строчный)", "ю"],
+    "concepts": []
   },
   {
     "cp": 12422,
@@ -557,7 +695,9 @@
     "name": "HIRAGANA LETTER YU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ю"],
+    "concepts": []
   },
   {
     "cp": 12423,
@@ -565,7 +705,9 @@
     "name": "HIRAGANA LETTER SMALL YO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "маленький (строчный)", "йо"],
+    "concepts": []
   },
   {
     "cp": 12424,
@@ -573,7 +715,9 @@
     "name": "HIRAGANA LETTER YO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "йо"],
+    "concepts": []
   },
   {
     "cp": 12425,
@@ -581,7 +725,9 @@
     "name": "HIRAGANA LETTER RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 12426,
@@ -589,7 +735,9 @@
     "name": "HIRAGANA LETTER RI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ри"],
+    "concepts": []
   },
   {
     "cp": 12427,
@@ -597,7 +745,9 @@
     "name": "HIRAGANA LETTER RU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ру"],
+    "concepts": []
   },
   {
     "cp": 12428,
@@ -605,7 +755,9 @@
     "name": "HIRAGANA LETTER RE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ре"],
+    "concepts": []
   },
   {
     "cp": 12429,
@@ -613,7 +765,9 @@
     "name": "HIRAGANA LETTER RO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ро"],
+    "concepts": []
   },
   {
     "cp": 12430,
@@ -621,7 +775,9 @@
     "name": "HIRAGANA LETTER SMALL WA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "маленький (строчный)", "ва"],
+    "concepts": []
   },
   {
     "cp": 12431,
@@ -629,7 +785,9 @@
     "name": "HIRAGANA LETTER WA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ва"],
+    "concepts": []
   },
   {
     "cp": 12432,
@@ -637,7 +795,9 @@
     "name": "HIRAGANA LETTER WI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ви"],
+    "concepts": []
   },
   {
     "cp": 12433,
@@ -645,7 +805,9 @@
     "name": "HIRAGANA LETTER WE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ве"],
+    "concepts": []
   },
   {
     "cp": 12434,
@@ -653,7 +815,9 @@
     "name": "HIRAGANA LETTER WO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "во"],
+    "concepts": []
   },
   {
     "cp": 12435,
@@ -661,7 +825,9 @@
     "name": "HIRAGANA LETTER N",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква"],
+    "concepts": []
   },
   {
     "cp": 12436,
@@ -669,7 +835,9 @@
     "name": "HIRAGANA LETTER VU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "ву"],
+    "concepts": []
   },
   {
     "cp": 12437,
@@ -677,7 +845,9 @@
     "name": "HIRAGANA LETTER SMALL KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "маленький (строчный)", "ка"],
+    "concepts": []
   },
   {
     "cp": 12438,
@@ -685,7 +855,9 @@
     "name": "HIRAGANA LETTER SMALL KE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "маленький (строчный)", "ке"],
+    "concepts": []
   },
   {
     "cp": 12441,
@@ -693,7 +865,9 @@
     "name": "COMBINING KATAKANA-HIRAGANA VOICED SOUND MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "катакана", "хирагана", "звонкий", "звук", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12442,
@@ -701,7 +875,9 @@
     "name": "COMBINING KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "катакана", "хирагана", "полу", "звонкий", "звук", "метка (знак)"],
+    "concepts": ["sparkle"]
   },
   {
     "cp": 12443,
@@ -709,7 +885,9 @@
     "name": "KATAKANA-HIRAGANA VOICED SOUND MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["катакана", "хирагана", "звонкий", "звук", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12444,
@@ -717,7 +895,9 @@
     "name": "KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["катакана", "хирагана", "полу", "звонкий", "звук", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12445,
@@ -725,7 +905,9 @@
     "name": "HIRAGANA ITERATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "повтор", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12446,
@@ -733,7 +915,9 @@
     "name": "HIRAGANA VOICED ITERATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "звонкий", "повтор", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12447,
@@ -741,6 +925,8 @@
     "name": "HIRAGANA DIGRAPH YORI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "диграф"],
+    "concepts": []
   }
 ]

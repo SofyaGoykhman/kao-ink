@@ -5,7 +5,9 @@
     "name": "NORTH INDIC FRACTION ONE QUARTER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["север", "индийский", "дробь", "один", "четверть"],
+    "concepts": []
   },
   {
     "cp": 43057,
@@ -13,7 +15,9 @@
     "name": "NORTH INDIC FRACTION ONE HALF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["север", "индийский", "дробь", "один", "половина"],
+    "concepts": []
   },
   {
     "cp": 43058,
@@ -21,7 +25,9 @@
     "name": "NORTH INDIC FRACTION THREE QUARTERS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["север", "индийский", "дробь", "три", "четверти"],
+    "concepts": []
   },
   {
     "cp": 43059,
@@ -29,7 +35,9 @@
     "name": "NORTH INDIC FRACTION ONE SIXTEENTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["север", "индийский", "дробь", "один", "шестнадцатая"],
+    "concepts": []
   },
   {
     "cp": 43060,
@@ -37,7 +45,9 @@
     "name": "NORTH INDIC FRACTION ONE EIGHTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["север", "индийский", "дробь", "один", "восьмая"],
+    "concepts": []
   },
   {
     "cp": 43061,
@@ -45,7 +55,9 @@
     "name": "NORTH INDIC FRACTION THREE SIXTEENTHS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["север", "индийский", "дробь", "три", "шестнадцатые"],
+    "concepts": []
   },
   {
     "cp": 43062,
@@ -53,7 +65,9 @@
     "name": "NORTH INDIC QUARTER MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["север", "индийский", "четверть", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 43063,
@@ -61,7 +75,9 @@
     "name": "NORTH INDIC PLACEHOLDER MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["север", "индийский", "заполнитель", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 43064,
@@ -69,7 +85,9 @@
     "name": "NORTH INDIC RUPEE MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["север", "индийский", "рупия", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 43065,
@@ -77,6 +95,8 @@
     "name": "NORTH INDIC QUANTITY MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["север", "индийский", "метка (знак)"],
+    "concepts": []
   }
 ]

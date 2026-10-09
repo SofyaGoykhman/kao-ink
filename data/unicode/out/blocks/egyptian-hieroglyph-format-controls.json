@@ -5,7 +5,9 @@
     "name": "EGYPTIAN HIEROGLYPH VERTICAL JOINER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "вертикальный", "соединитель"],
+    "concepts": []
   },
   {
     "cp": 78897,
@@ -13,7 +15,9 @@
     "name": "EGYPTIAN HIEROGLYPH HORIZONTAL JOINER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "горизонтальный", "соединитель"],
+    "concepts": []
   },
   {
     "cp": 78898,
@@ -21,7 +25,9 @@
     "name": "EGYPTIAN HIEROGLYPH INSERT AT TOP START",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "вставка", "при (собачка)", "верх", "начало"],
+    "concepts": []
   },
   {
     "cp": 78899,
@@ -29,7 +35,9 @@
     "name": "EGYPTIAN HIEROGLYPH INSERT AT BOTTOM START",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "вставка", "при (собачка)", "низ", "начало"],
+    "concepts": []
   },
   {
     "cp": 78900,
@@ -37,7 +45,9 @@
     "name": "EGYPTIAN HIEROGLYPH INSERT AT TOP END",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "вставка", "при (собачка)", "верх", "конец"],
+    "concepts": []
   },
   {
     "cp": 78901,
@@ -45,7 +55,9 @@
     "name": "EGYPTIAN HIEROGLYPH INSERT AT BOTTOM END",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "вставка", "при (собачка)", "низ", "конец"],
+    "concepts": []
   },
   {
     "cp": 78902,
@@ -53,7 +65,9 @@
     "name": "EGYPTIAN HIEROGLYPH OVERLAY MIDDLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "наложение", "средний"],
+    "concepts": []
   },
   {
     "cp": 78903,
@@ -61,7 +75,9 @@
     "name": "EGYPTIAN HIEROGLYPH BEGIN SEGMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "начало", "отрезок"],
+    "concepts": []
   },
   {
     "cp": 78904,
@@ -69,7 +85,9 @@
     "name": "EGYPTIAN HIEROGLYPH END SEGMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "конец", "отрезок"],
+    "concepts": []
   },
   {
     "cp": 78905,
@@ -77,7 +95,9 @@
     "name": "EGYPTIAN HIEROGLYPH INSERT AT MIDDLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "вставка", "при (собачка)", "средний"],
+    "concepts": []
   },
   {
     "cp": 78906,
@@ -85,7 +105,9 @@
     "name": "EGYPTIAN HIEROGLYPH INSERT AT TOP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "вставка", "при (собачка)", "верх"],
+    "concepts": []
   },
   {
     "cp": 78907,
@@ -93,7 +115,9 @@
     "name": "EGYPTIAN HIEROGLYPH INSERT AT BOTTOM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "вставка", "при (собачка)", "низ"],
+    "concepts": []
   },
   {
     "cp": 78908,
@@ -101,7 +125,9 @@
     "name": "EGYPTIAN HIEROGLYPH BEGIN ENCLOSURE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "начало", "ограждение"],
+    "concepts": []
   },
   {
     "cp": 78909,
@@ -109,7 +135,9 @@
     "name": "EGYPTIAN HIEROGLYPH END ENCLOSURE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "конец", "ограждение"],
+    "concepts": []
   },
   {
     "cp": 78910,
@@ -117,7 +145,9 @@
     "name": "EGYPTIAN HIEROGLYPH BEGIN WALLED ENCLOSURE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "начало", "ограждение"],
+    "concepts": []
   },
   {
     "cp": 78911,
@@ -125,7 +155,9 @@
     "name": "EGYPTIAN HIEROGLYPH END WALLED ENCLOSURE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "конец", "ограждение"],
+    "concepts": []
   },
   {
     "cp": 78912,
@@ -133,7 +165,9 @@
     "name": "EGYPTIAN HIEROGLYPH MIRROR HORIZONTALLY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "зеркало", "горизонтально"],
+    "concepts": []
   },
   {
     "cp": 78913,
@@ -141,7 +175,9 @@
     "name": "EGYPTIAN HIEROGLYPH FULL BLANK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "полный", "пустой (пробел)"],
+    "concepts": []
   },
   {
     "cp": 78914,
@@ -149,7 +185,9 @@
     "name": "EGYPTIAN HIEROGLYPH HALF BLANK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "половина", "пустой (пробел)"],
+    "concepts": []
   },
   {
     "cp": 78915,
@@ -157,7 +195,9 @@
     "name": "EGYPTIAN HIEROGLYPH LOST SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "утерянный", "знак"],
+    "concepts": []
   },
   {
     "cp": 78916,
@@ -165,7 +205,9 @@
     "name": "EGYPTIAN HIEROGLYPH HALF LOST SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "половина", "утерянный", "знак"],
+    "concepts": []
   },
   {
     "cp": 78917,
@@ -173,7 +215,9 @@
     "name": "EGYPTIAN HIEROGLYPH TALL LOST SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "высокий", "утерянный", "знак"],
+    "concepts": []
   },
   {
     "cp": 78918,
@@ -181,7 +225,9 @@
     "name": "EGYPTIAN HIEROGLYPH WIDE LOST SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "широкий", "утерянный", "знак"],
+    "concepts": []
   },
   {
     "cp": 78919,
@@ -189,7 +235,17 @@
     "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT TOP START",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "египетский",
+      "иероглиф",
+      "модификатор",
+      "повреждённый",
+      "при (собачка)",
+      "верх",
+      "начало"
+    ],
+    "concepts": []
   },
   {
     "cp": 78920,
@@ -197,7 +253,17 @@
     "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT BOTTOM START",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "египетский",
+      "иероглиф",
+      "модификатор",
+      "повреждённый",
+      "при (собачка)",
+      "низ",
+      "начало"
+    ],
+    "concepts": []
   },
   {
     "cp": 78921,
@@ -205,7 +271,9 @@
     "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT START",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "модификатор", "повреждённый", "при (собачка)", "начало"],
+    "concepts": []
   },
   {
     "cp": 78922,
@@ -213,7 +281,17 @@
     "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT TOP END",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "египетский",
+      "иероглиф",
+      "модификатор",
+      "повреждённый",
+      "при (собачка)",
+      "верх",
+      "конец"
+    ],
+    "concepts": []
   },
   {
     "cp": 78923,
@@ -221,7 +299,9 @@
     "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT TOP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "модификатор", "повреждённый", "при (собачка)", "верх"],
+    "concepts": []
   },
   {
     "cp": 78924,
@@ -229,7 +309,20 @@
     "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT BOTTOM START AND TOP END",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "египетский",
+      "иероглиф",
+      "модификатор",
+      "повреждённый",
+      "при (собачка)",
+      "низ",
+      "начало",
+      "и",
+      "верх",
+      "конец"
+    ],
+    "concepts": []
   },
   {
     "cp": 78925,
@@ -237,7 +330,18 @@
     "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT START AND TOP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "египетский",
+      "иероглиф",
+      "модификатор",
+      "повреждённый",
+      "при (собачка)",
+      "начало",
+      "и",
+      "верх"
+    ],
+    "concepts": []
   },
   {
     "cp": 78926,
@@ -245,7 +349,17 @@
     "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT BOTTOM END",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "египетский",
+      "иероглиф",
+      "модификатор",
+      "повреждённый",
+      "при (собачка)",
+      "низ",
+      "конец"
+    ],
+    "concepts": []
   },
   {
     "cp": 78927,
@@ -253,7 +367,20 @@
     "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT TOP START AND BOTTOM END",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "египетский",
+      "иероглиф",
+      "модификатор",
+      "повреждённый",
+      "при (собачка)",
+      "верх",
+      "начало",
+      "и",
+      "низ",
+      "конец"
+    ],
+    "concepts": []
   },
   {
     "cp": 78928,
@@ -261,7 +388,9 @@
     "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT BOTTOM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "модификатор", "повреждённый", "при (собачка)", "низ"],
+    "concepts": []
   },
   {
     "cp": 78929,
@@ -269,7 +398,18 @@
     "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT START AND BOTTOM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "египетский",
+      "иероглиф",
+      "модификатор",
+      "повреждённый",
+      "при (собачка)",
+      "начало",
+      "и",
+      "низ"
+    ],
+    "concepts": []
   },
   {
     "cp": 78930,
@@ -277,7 +417,9 @@
     "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT END",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "модификатор", "повреждённый", "при (собачка)", "конец"],
+    "concepts": []
   },
   {
     "cp": 78931,
@@ -285,7 +427,18 @@
     "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT TOP AND END",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "египетский",
+      "иероглиф",
+      "модификатор",
+      "повреждённый",
+      "при (собачка)",
+      "верх",
+      "и",
+      "конец"
+    ],
+    "concepts": []
   },
   {
     "cp": 78932,
@@ -293,7 +446,18 @@
     "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED AT BOTTOM AND END",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "египетский",
+      "иероглиф",
+      "модификатор",
+      "повреждённый",
+      "при (собачка)",
+      "низ",
+      "и",
+      "конец"
+    ],
+    "concepts": []
   },
   {
     "cp": 78933,
@@ -301,6 +465,8 @@
     "name": "EGYPTIAN HIEROGLYPH MODIFIER DAMAGED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["египетский", "иероглиф", "модификатор", "повреждённый"],
+    "concepts": []
   }
 ]

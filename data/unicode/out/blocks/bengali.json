@@ -5,7 +5,9 @@
     "name": "BENGALI ANJI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "анджи"],
+    "concepts": []
   },
   {
     "cp": 2433,
@@ -13,7 +15,9 @@
     "name": "BENGALI SIGN CANDRABINDU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "знак", "чандрабинду"],
+    "concepts": []
   },
   {
     "cp": 2434,
@@ -21,7 +25,9 @@
     "name": "BENGALI SIGN ANUSVARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "знак", "анусвара"],
+    "concepts": []
   },
   {
     "cp": 2435,
@@ -29,7 +35,9 @@
     "name": "BENGALI SIGN VISARGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "знак", "висарга"],
+    "concepts": []
   },
   {
     "cp": 2437,
@@ -37,7 +45,9 @@
     "name": "BENGALI LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква"],
+    "concepts": []
   },
   {
     "cp": 2438,
@@ -45,7 +55,9 @@
     "name": "BENGALI LETTER AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "аа"],
+    "concepts": []
   },
   {
     "cp": 2439,
@@ -53,7 +65,9 @@
     "name": "BENGALI LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква"],
+    "concepts": []
   },
   {
     "cp": 2440,
@@ -61,7 +75,9 @@
     "name": "BENGALI LETTER II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "ии"],
+    "concepts": []
   },
   {
     "cp": 2441,
@@ -69,7 +85,9 @@
     "name": "BENGALI LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква"],
+    "concepts": []
   },
   {
     "cp": 2442,
@@ -77,7 +95,9 @@
     "name": "BENGALI LETTER UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "уу"],
+    "concepts": []
   },
   {
     "cp": 2443,
@@ -85,7 +105,9 @@
     "name": "BENGALI LETTER VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 2444,
@@ -93,7 +115,9 @@
     "name": "BENGALI LETTER VOCALIC L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "слоговой (вокалический)"],
+    "concepts": ["rose", "apple", "fire"]
   },
   {
     "cp": 2447,
@@ -101,7 +125,9 @@
     "name": "BENGALI LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква"],
+    "concepts": []
   },
   {
     "cp": 2448,
@@ -109,7 +135,9 @@
     "name": "BENGALI LETTER AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "аи"],
+    "concepts": []
   },
   {
     "cp": 2451,
@@ -117,7 +145,9 @@
     "name": "BENGALI LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква"],
+    "concepts": []
   },
   {
     "cp": 2452,
@@ -125,7 +155,9 @@
     "name": "BENGALI LETTER AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "ау"],
+    "concepts": ["fire"]
   },
   {
     "cp": 2453,
@@ -133,7 +165,9 @@
     "name": "BENGALI LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 2454,
@@ -141,7 +175,9 @@
     "name": "BENGALI LETTER KHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "кха"],
+    "concepts": []
   },
   {
     "cp": 2455,
@@ -149,7 +185,9 @@
     "name": "BENGALI LETTER GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "га"],
+    "concepts": []
   },
   {
     "cp": 2456,
@@ -157,7 +195,9 @@
     "name": "BENGALI LETTER GHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "гха"],
+    "concepts": []
   },
   {
     "cp": 2457,
@@ -165,7 +205,9 @@
     "name": "BENGALI LETTER NGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "нга"],
+    "concepts": []
   },
   {
     "cp": 2458,
@@ -173,7 +215,9 @@
     "name": "BENGALI LETTER CA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 2459,
@@ -181,7 +225,9 @@
     "name": "BENGALI LETTER CHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 2460,
@@ -189,7 +235,9 @@
     "name": "BENGALI LETTER JA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "джа"],
+    "concepts": []
   },
   {
     "cp": 2461,
@@ -197,7 +245,9 @@
     "name": "BENGALI LETTER JHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "джха"],
+    "concepts": []
   },
   {
     "cp": 2462,
@@ -205,7 +255,9 @@
     "name": "BENGALI LETTER NYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "ня"],
+    "concepts": []
   },
   {
     "cp": 2463,
@@ -213,7 +265,9 @@
     "name": "BENGALI LETTER TTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "тта"],
+    "concepts": []
   },
   {
     "cp": 2464,
@@ -221,7 +275,9 @@
     "name": "BENGALI LETTER TTHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "ттха"],
+    "concepts": []
   },
   {
     "cp": 2465,
@@ -229,7 +285,9 @@
     "name": "BENGALI LETTER DDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "дда"],
+    "concepts": []
   },
   {
     "cp": 2466,
@@ -237,7 +295,9 @@
     "name": "BENGALI LETTER DDHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "ддха"],
+    "concepts": []
   },
   {
     "cp": 2467,
@@ -245,7 +305,9 @@
     "name": "BENGALI LETTER NNA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "нна"],
+    "concepts": []
   },
   {
     "cp": 2468,
@@ -253,7 +315,9 @@
     "name": "BENGALI LETTER TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 2469,
@@ -261,7 +325,9 @@
     "name": "BENGALI LETTER THA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "тха"],
+    "concepts": []
   },
   {
     "cp": 2470,
@@ -269,7 +335,9 @@
     "name": "BENGALI LETTER DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "да"],
+    "concepts": []
   },
   {
     "cp": 2471,
@@ -277,7 +345,9 @@
     "name": "BENGALI LETTER DHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "дха"],
+    "concepts": []
   },
   {
     "cp": 2472,
@@ -285,7 +355,9 @@
     "name": "BENGALI LETTER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 2474,
@@ -293,7 +365,9 @@
     "name": "BENGALI LETTER PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "па"],
+    "concepts": []
   },
   {
     "cp": 2475,
@@ -301,7 +375,9 @@
     "name": "BENGALI LETTER PHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "пха"],
+    "concepts": []
   },
   {
     "cp": 2476,
@@ -309,7 +385,9 @@
     "name": "BENGALI LETTER BA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "ба"],
+    "concepts": []
   },
   {
     "cp": 2477,
@@ -317,7 +395,9 @@
     "name": "BENGALI LETTER BHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "бха"],
+    "concepts": []
   },
   {
     "cp": 2478,
@@ -325,7 +405,9 @@
     "name": "BENGALI LETTER MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 2479,
@@ -333,7 +415,9 @@
     "name": "BENGALI LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 2480,
@@ -341,7 +425,9 @@
     "name": "BENGALI LETTER RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 2482,
@@ -349,7 +435,9 @@
     "name": "BENGALI LETTER LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "ла"],
+    "concepts": []
   },
   {
     "cp": 2486,
@@ -357,7 +445,9 @@
     "name": "BENGALI LETTER SHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "ша"],
+    "concepts": []
   },
   {
     "cp": 2487,
@@ -365,7 +455,9 @@
     "name": "BENGALI LETTER SSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "сса"],
+    "concepts": []
   },
   {
     "cp": 2488,
@@ -373,7 +465,9 @@
     "name": "BENGALI LETTER SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 2489,
@@ -381,7 +475,9 @@
     "name": "BENGALI LETTER HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 2492,
@@ -389,7 +485,9 @@
     "name": "BENGALI SIGN NUKTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "знак", "нукта"],
+    "concepts": []
   },
   {
     "cp": 2493,
@@ -397,7 +495,9 @@
     "name": "BENGALI SIGN AVAGRAHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "знак", "аваграха"],
+    "concepts": []
   },
   {
     "cp": 2494,
@@ -405,7 +505,9 @@
     "name": "BENGALI VOWEL SIGN AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "гласная", "знак", "аа"],
+    "concepts": []
   },
   {
     "cp": 2495,
@@ -413,7 +515,9 @@
     "name": "BENGALI VOWEL SIGN I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 2496,
@@ -421,7 +525,9 @@
     "name": "BENGALI VOWEL SIGN II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "гласная", "знак", "ии"],
+    "concepts": []
   },
   {
     "cp": 2497,
@@ -429,7 +535,9 @@
     "name": "BENGALI VOWEL SIGN U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 2498,
@@ -437,7 +545,9 @@
     "name": "BENGALI VOWEL SIGN UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "гласная", "знак", "уу"],
+    "concepts": []
   },
   {
     "cp": 2499,
@@ -445,7 +555,9 @@
     "name": "BENGALI VOWEL SIGN VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "гласная", "знак", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 2500,
@@ -453,7 +565,9 @@
     "name": "BENGALI VOWEL SIGN VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "гласная", "знак", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 2503,
@@ -461,7 +575,9 @@
     "name": "BENGALI VOWEL SIGN E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 2504,
@@ -469,7 +585,9 @@
     "name": "BENGALI VOWEL SIGN AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "гласная", "знак", "аи"],
+    "concepts": []
   },
   {
     "cp": 2507,
@@ -477,7 +595,9 @@
     "name": "BENGALI VOWEL SIGN O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 2508,
@@ -485,7 +605,9 @@
     "name": "BENGALI VOWEL SIGN AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "гласная", "знак", "ау"],
+    "concepts": []
   },
   {
     "cp": 2509,
@@ -493,7 +615,9 @@
     "name": "BENGALI SIGN VIRAMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "знак", "вирама"],
+    "concepts": []
   },
   {
     "cp": 2510,
@@ -501,7 +625,9 @@
     "name": "BENGALI LETTER KHANDA TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "кханда", "та"],
+    "concepts": []
   },
   {
     "cp": 2519,
@@ -509,7 +635,9 @@
     "name": "BENGALI AU LENGTH MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "ау", "долгота", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 2524,
@@ -517,7 +645,9 @@
     "name": "BENGALI LETTER RRA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "рра"],
+    "concepts": []
   },
   {
     "cp": 2525,
@@ -525,7 +655,9 @@
     "name": "BENGALI LETTER RHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "рха"],
+    "concepts": []
   },
   {
     "cp": 2527,
@@ -533,7 +665,9 @@
     "name": "BENGALI LETTER YYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "йя"],
+    "concepts": []
   },
   {
     "cp": 2528,
@@ -541,7 +675,9 @@
     "name": "BENGALI LETTER VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 2529,
@@ -549,7 +685,9 @@
     "name": "BENGALI LETTER VOCALIC LL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "слоговой (вокалический)", "лл"],
+    "concepts": []
   },
   {
     "cp": 2530,
@@ -557,7 +695,9 @@
     "name": "BENGALI VOWEL SIGN VOCALIC L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "гласная", "знак", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 2531,
@@ -565,7 +705,9 @@
     "name": "BENGALI VOWEL SIGN VOCALIC LL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "гласная", "знак", "слоговой (вокалический)", "лл"],
+    "concepts": []
   },
   {
     "cp": 2534,
@@ -573,7 +715,9 @@
     "name": "BENGALI DIGIT ZERO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "цифра", "ноль"],
+    "concepts": []
   },
   {
     "cp": 2535,
@@ -581,7 +725,9 @@
     "name": "BENGALI DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "цифра", "один"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 2536,
@@ -589,7 +735,9 @@
     "name": "BENGALI DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "цифра", "два"],
+    "concepts": []
   },
   {
     "cp": 2537,
@@ -597,7 +745,9 @@
     "name": "BENGALI DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "цифра", "три"],
+    "concepts": ["heart"]
   },
   {
     "cp": 2538,
@@ -605,7 +755,9 @@
     "name": "BENGALI DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "цифра", "четыре"],
+    "concepts": []
   },
   {
     "cp": 2539,
@@ -613,7 +765,9 @@
     "name": "BENGALI DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "цифра", "пять"],
+    "concepts": []
   },
   {
     "cp": 2540,
@@ -621,7 +775,9 @@
     "name": "BENGALI DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "цифра", "шесть"],
+    "concepts": ["fire"]
   },
   {
     "cp": 2541,
@@ -629,7 +785,9 @@
     "name": "BENGALI DIGIT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "цифра", "семь"],
+    "concepts": []
   },
   {
     "cp": 2542,
@@ -637,7 +795,9 @@
     "name": "BENGALI DIGIT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "цифра", "восемь"],
+    "concepts": []
   },
   {
     "cp": 2543,
@@ -645,7 +805,9 @@
     "name": "BENGALI DIGIT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "цифра", "девять"],
+    "concepts": []
   },
   {
     "cp": 2544,
@@ -653,7 +815,9 @@
     "name": "BENGALI LETTER RA WITH MIDDLE DIAGONAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "ра", "с", "средний", "диагональный"],
+    "concepts": []
   },
   {
     "cp": 2545,
@@ -661,7 +825,9 @@
     "name": "BENGALI LETTER RA WITH LOWER DIAGONAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "ра", "с", "нижний", "диагональный"],
+    "concepts": []
   },
   {
     "cp": 2546,
@@ -669,7 +835,9 @@
     "name": "BENGALI RUPEE MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "рупия", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 2547,
@@ -677,7 +845,9 @@
     "name": "BENGALI RUPEE SIGN",
     "ru": "бангладешская така",
     "en": "Bangladeshi Taka",
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "рупия", "знак"],
+    "concepts": ["fruit"]
   },
   {
     "cp": 2548,
@@ -685,7 +855,9 @@
     "name": "BENGALI CURRENCY NUMERATOR ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "валюта", "числитель", "один"],
+    "concepts": []
   },
   {
     "cp": 2549,
@@ -693,7 +865,9 @@
     "name": "BENGALI CURRENCY NUMERATOR TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "валюта", "числитель", "два"],
+    "concepts": []
   },
   {
     "cp": 2550,
@@ -701,7 +875,9 @@
     "name": "BENGALI CURRENCY NUMERATOR THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "валюта", "числитель", "три"],
+    "concepts": []
   },
   {
     "cp": 2551,
@@ -709,7 +885,9 @@
     "name": "BENGALI CURRENCY NUMERATOR FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "валюта", "числитель", "четыре"],
+    "concepts": []
   },
   {
     "cp": 2552,
@@ -717,7 +895,9 @@
     "name": "BENGALI CURRENCY NUMERATOR ONE LESS THAN THE DENOMINATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "валюта", "числитель", "один", "меньше", "чем"],
+    "concepts": []
   },
   {
     "cp": 2553,
@@ -725,7 +905,9 @@
     "name": "BENGALI CURRENCY DENOMINATOR SIXTEEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "валюта", "шестнадцать"],
+    "concepts": []
   },
   {
     "cp": 2554,
@@ -733,7 +915,9 @@
     "name": "BENGALI ISSHAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский"],
+    "concepts": []
   },
   {
     "cp": 2555,
@@ -741,7 +925,9 @@
     "name": "BENGALI GANDA MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 2556,
@@ -749,7 +935,9 @@
     "name": "BENGALI LETTER VEDIC ANUSVARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "буква", "ведический", "анусвара"],
+    "concepts": []
   },
   {
     "cp": 2557,
@@ -757,7 +945,9 @@
     "name": "BENGALI ABBREVIATION SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "сокращение", "знак"],
+    "concepts": []
   },
   {
     "cp": 2558,
@@ -765,6 +955,8 @@
     "name": "BENGALI SANDHI MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бенгальский", "сандхи", "метка (знак)"],
+    "concepts": []
   }
 ]

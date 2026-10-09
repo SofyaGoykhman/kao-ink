@@ -5,7 +5,9 @@
     "name": "COPTIC EPACT THOUSANDS MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "тысячи", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 66273,
@@ -13,7 +15,9 @@
     "name": "COPTIC EPACT DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "цифра", "один"],
+    "concepts": []
   },
   {
     "cp": 66274,
@@ -21,7 +25,9 @@
     "name": "COPTIC EPACT DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "цифра", "два"],
+    "concepts": []
   },
   {
     "cp": 66275,
@@ -29,7 +35,9 @@
     "name": "COPTIC EPACT DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "цифра", "три"],
+    "concepts": []
   },
   {
     "cp": 66276,
@@ -37,7 +45,9 @@
     "name": "COPTIC EPACT DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "цифра", "четыре"],
+    "concepts": []
   },
   {
     "cp": 66277,
@@ -45,7 +55,9 @@
     "name": "COPTIC EPACT DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "цифра", "пять"],
+    "concepts": []
   },
   {
     "cp": 66278,
@@ -53,7 +65,9 @@
     "name": "COPTIC EPACT DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "цифра", "шесть"],
+    "concepts": []
   },
   {
     "cp": 66279,
@@ -61,7 +75,9 @@
     "name": "COPTIC EPACT DIGIT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "цифра", "семь"],
+    "concepts": []
   },
   {
     "cp": 66280,
@@ -69,7 +85,9 @@
     "name": "COPTIC EPACT DIGIT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "цифра", "восемь"],
+    "concepts": []
   },
   {
     "cp": 66281,
@@ -77,7 +95,9 @@
     "name": "COPTIC EPACT DIGIT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "цифра", "девять"],
+    "concepts": []
   },
   {
     "cp": 66282,
@@ -85,7 +105,9 @@
     "name": "COPTIC EPACT NUMBER TEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "число", "десять"],
+    "concepts": []
   },
   {
     "cp": 66283,
@@ -93,7 +115,9 @@
     "name": "COPTIC EPACT NUMBER TWENTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "число", "двадцать"],
+    "concepts": []
   },
   {
     "cp": 66284,
@@ -101,7 +125,9 @@
     "name": "COPTIC EPACT NUMBER THIRTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "число", "тридцать"],
+    "concepts": []
   },
   {
     "cp": 66285,
@@ -109,7 +135,9 @@
     "name": "COPTIC EPACT NUMBER FORTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "число", "сорок"],
+    "concepts": []
   },
   {
     "cp": 66286,
@@ -117,7 +145,9 @@
     "name": "COPTIC EPACT NUMBER FIFTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "число", "пятьдесят"],
+    "concepts": []
   },
   {
     "cp": 66287,
@@ -125,7 +155,9 @@
     "name": "COPTIC EPACT NUMBER SIXTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "число", "шестьдесят"],
+    "concepts": []
   },
   {
     "cp": 66288,
@@ -133,7 +165,9 @@
     "name": "COPTIC EPACT NUMBER SEVENTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "число", "семьдесят"],
+    "concepts": []
   },
   {
     "cp": 66289,
@@ -141,7 +175,9 @@
     "name": "COPTIC EPACT NUMBER EIGHTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "число", "восемьдесят"],
+    "concepts": []
   },
   {
     "cp": 66290,
@@ -149,7 +185,9 @@
     "name": "COPTIC EPACT NUMBER NINETY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "число", "девяносто"],
+    "concepts": []
   },
   {
     "cp": 66291,
@@ -157,7 +195,9 @@
     "name": "COPTIC EPACT NUMBER ONE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "число", "один", "сто"],
+    "concepts": []
   },
   {
     "cp": 66292,
@@ -165,7 +205,9 @@
     "name": "COPTIC EPACT NUMBER TWO HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "число", "два", "сто"],
+    "concepts": []
   },
   {
     "cp": 66293,
@@ -173,7 +215,9 @@
     "name": "COPTIC EPACT NUMBER THREE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "число", "три", "сто"],
+    "concepts": []
   },
   {
     "cp": 66294,
@@ -181,7 +225,9 @@
     "name": "COPTIC EPACT NUMBER FOUR HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "число", "четыре", "сто"],
+    "concepts": []
   },
   {
     "cp": 66295,
@@ -189,7 +235,9 @@
     "name": "COPTIC EPACT NUMBER FIVE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "число", "пять", "сто"],
+    "concepts": []
   },
   {
     "cp": 66296,
@@ -197,7 +245,9 @@
     "name": "COPTIC EPACT NUMBER SIX HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "число", "шесть", "сто"],
+    "concepts": []
   },
   {
     "cp": 66297,
@@ -205,7 +255,9 @@
     "name": "COPTIC EPACT NUMBER SEVEN HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "число", "семь", "сто"],
+    "concepts": []
   },
   {
     "cp": 66298,
@@ -213,7 +265,9 @@
     "name": "COPTIC EPACT NUMBER EIGHT HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "число", "восемь", "сто"],
+    "concepts": []
   },
   {
     "cp": 66299,
@@ -221,6 +275,8 @@
     "name": "COPTIC EPACT NUMBER NINE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "эпакта", "число", "девять", "сто"],
+    "concepts": []
   }
 ]

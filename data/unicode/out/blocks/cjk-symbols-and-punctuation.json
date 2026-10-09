@@ -5,7 +5,9 @@
     "name": "IDEOGRAPHIC SPACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "пробел"],
+    "concepts": []
   },
   {
     "cp": 12289,
@@ -13,7 +15,9 @@
     "name": "IDEOGRAPHIC COMMA",
     "ru": "идеографическая запятая",
     "en": "ideographic comma",
-    "keywords": { "ru": ["запятая", "идеографическая"], "en": ["comma", "ideographic"] }
+    "keywords": { "ru": ["запятая", "идеографическая"], "en": ["comma", "ideographic"] },
+    "desc": ["иероглифический", "запятая"],
+    "concepts": []
   },
   {
     "cp": 12290,
@@ -24,7 +28,9 @@
     "keywords": {
       "ru": ["идеографическая точка", "точка"],
       "en": ["full", "ideographic", "period", "stop"]
-    }
+    },
+    "desc": ["иероглифический", "полный", "стоп"],
+    "concepts": []
   },
   {
     "cp": 12291,
@@ -32,7 +38,9 @@
     "name": "DITTO MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12292,
@@ -40,7 +48,9 @@
     "name": "JAPANESE INDUSTRIAL STANDARD SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["японский", "символ"],
+    "concepts": []
   },
   {
     "cp": 12293,
@@ -48,7 +58,9 @@
     "name": "IDEOGRAPHIC ITERATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "повтор", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12294,
@@ -56,7 +68,9 @@
     "name": "IDEOGRAPHIC CLOSING MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "закрывающий", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12295,
@@ -64,7 +78,9 @@
     "name": "IDEOGRAPHIC NUMBER ZERO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "число", "ноль"],
+    "concepts": []
   },
   {
     "cp": 12296,
@@ -75,7 +91,9 @@
     "keywords": {
       "ru": ["открывающая скобка", "открывающая угловая скобка", "скобка", "угловая скобка"],
       "en": ["angle", "bracket", "brackets", "chevron", "diamond", "open", "pointy", "tuple"]
-    }
+    },
+    "desc": ["левый (влево)", "угол", "скобка"],
+    "concepts": []
   },
   {
     "cp": 12297,
@@ -86,7 +104,9 @@
     "keywords": {
       "ru": ["закрывающая скобка", "закрывающая угловая скобка", "скобка", "угловая скобка"],
       "en": ["angle", "bracket", "brackets", "chevron", "close", "diamond", "pointy", "tuple"]
-    }
+    },
+    "desc": ["правый (вправо)", "угол", "скобка"],
+    "concepts": []
   },
   {
     "cp": 12298,
@@ -103,7 +123,9 @@
         "угловая скобка"
       ],
       "en": ["angle", "bracket", "double", "open"]
-    }
+    },
+    "desc": ["левый (влево)", "двойной", "угол", "скобка"],
+    "concepts": []
   },
   {
     "cp": 12299,
@@ -120,7 +142,9 @@
         "угловая скобка"
       ],
       "en": ["angle", "bracket", "close", "double"]
-    }
+    },
+    "desc": ["правый (вправо)", "двойной", "угол", "скобка"],
+    "concepts": []
   },
   {
     "cp": 12300,
@@ -136,7 +160,9 @@
         "скобка"
       ],
       "en": ["bracket", "corner", "open"]
-    }
+    },
+    "desc": ["левый (влево)", "угол (уголок)", "скобка"],
+    "concepts": []
   },
   {
     "cp": 12301,
@@ -152,7 +178,9 @@
         "скобка"
       ],
       "en": ["bracket", "close", "corner"]
-    }
+    },
+    "desc": ["правый (вправо)", "угол (уголок)", "скобка"],
+    "concepts": []
   },
   {
     "cp": 12302,
@@ -168,7 +196,9 @@
         "скобка"
       ],
       "en": ["bracket", "corner", "hollow", "open"]
-    }
+    },
+    "desc": ["левый (влево)", "белый (контурный)", "угол (уголок)", "скобка"],
+    "concepts": []
   },
   {
     "cp": 12303,
@@ -184,7 +214,9 @@
         "скобка"
       ],
       "en": ["bracket", "close", "corner", "hollow"]
-    }
+    },
+    "desc": ["правый (вправо)", "белый (контурный)", "угол (уголок)", "скобка"],
+    "concepts": []
   },
   {
     "cp": 12304,
@@ -201,7 +233,9 @@
         "скобка"
       ],
       "en": ["black", "bracket", "lens", "lenticular", "open"]
-    }
+    },
+    "desc": ["левый (влево)", "чёрный (закрашенный)", "линзовидная (скобка)", "скобка"],
+    "concepts": []
   },
   {
     "cp": 12305,
@@ -218,7 +252,9 @@
         "скобка"
       ],
       "en": ["black", "bracket", "close", "lens", "lenticular"]
-    }
+    },
+    "desc": ["правый (вправо)", "чёрный (закрашенный)", "линзовидная (скобка)", "скобка"],
+    "concepts": []
   },
   {
     "cp": 12306,
@@ -226,7 +262,9 @@
     "name": "POSTAL MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["почтовый", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12307,
@@ -234,7 +272,9 @@
     "name": "GETA MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12308,
@@ -245,7 +285,9 @@
     "keywords": {
       "ru": ["открывающая скобка", "открывающая черепашья скобка", "скобка", "черепашья скобка"],
       "en": ["bracket", "open", "shell", "tortoise"]
-    }
+    },
+    "desc": ["левый (влево)", "черепаха (черепаховая скобка)", "ракушка (оболочка)", "скобка"],
+    "concepts": []
   },
   {
     "cp": 12309,
@@ -256,7 +298,9 @@
     "keywords": {
       "ru": ["закрывающая скобка", "закрывающая черепашья скобка", "скобка", "черепашья скобка"],
       "en": ["bracket", "close", "shell", "tortoise"]
-    }
+    },
+    "desc": ["правый (вправо)", "черепаха (черепаховая скобка)", "ракушка (оболочка)", "скобка"],
+    "concepts": []
   },
   {
     "cp": 12310,
@@ -273,7 +317,9 @@
         "скобка"
       ],
       "en": ["bracket", "hollow", "lens", "lenticular", "open"]
-    }
+    },
+    "desc": ["левый (влево)", "белый (контурный)", "линзовидная (скобка)", "скобка"],
+    "concepts": []
   },
   {
     "cp": 12311,
@@ -290,7 +336,9 @@
         "скобка"
       ],
       "en": ["bracket", "close", "hollow", "lens", "lenticular"]
-    }
+    },
+    "desc": ["правый (вправо)", "белый (контурный)", "линзовидная (скобка)", "скобка"],
+    "concepts": []
   },
   {
     "cp": 12312,
@@ -298,7 +346,15 @@
     "name": "LEFT WHITE TORTOISE SHELL BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "левый (влево)",
+      "белый (контурный)",
+      "черепаха (черепаховая скобка)",
+      "ракушка (оболочка)",
+      "скобка"
+    ],
+    "concepts": []
   },
   {
     "cp": 12313,
@@ -306,7 +362,15 @@
     "name": "RIGHT WHITE TORTOISE SHELL BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "правый (вправо)",
+      "белый (контурный)",
+      "черепаха (черепаховая скобка)",
+      "ракушка (оболочка)",
+      "скобка"
+    ],
+    "concepts": []
   },
   {
     "cp": 12314,
@@ -314,7 +378,9 @@
     "name": "LEFT WHITE SQUARE BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "белый (контурный)", "квадрат", "скобка"],
+    "concepts": []
   },
   {
     "cp": 12315,
@@ -322,7 +388,9 @@
     "name": "RIGHT WHITE SQUARE BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "белый (контурный)", "квадрат", "скобка"],
+    "concepts": []
   },
   {
     "cp": 12316,
@@ -330,7 +398,9 @@
     "name": "WAVE DASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["волна", "тире"],
+    "concepts": ["wind", "fog", "water", "wave"]
   },
   {
     "cp": 12317,
@@ -338,7 +408,9 @@
     "name": "REVERSED DOUBLE PRIME QUOTATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["зеркальный (обратный)", "двойной", "штрих", "кавычка", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12318,
@@ -346,7 +418,9 @@
     "name": "DOUBLE PRIME QUOTATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["двойной", "штрих", "кавычка", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12319,
@@ -354,7 +428,9 @@
     "name": "LOW DOUBLE PRIME QUOTATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["низкий", "двойной", "штрих", "кавычка", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12320,
@@ -362,7 +438,9 @@
     "name": "POSTAL MARK FACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["почтовый", "метка (знак)", "лицо (смайлик)"],
+    "concepts": []
   },
   {
     "cp": 12321,
@@ -370,7 +448,9 @@
     "name": "HANGZHOU NUMERAL ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ханчжоуский", "цифра (число)", "один"],
+    "concepts": []
   },
   {
     "cp": 12322,
@@ -378,7 +458,9 @@
     "name": "HANGZHOU NUMERAL TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ханчжоуский", "цифра (число)", "два"],
+    "concepts": []
   },
   {
     "cp": 12323,
@@ -386,7 +468,9 @@
     "name": "HANGZHOU NUMERAL THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ханчжоуский", "цифра (число)", "три"],
+    "concepts": []
   },
   {
     "cp": 12324,
@@ -394,7 +478,9 @@
     "name": "HANGZHOU NUMERAL FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ханчжоуский", "цифра (число)", "четыре"],
+    "concepts": []
   },
   {
     "cp": 12325,
@@ -402,7 +488,9 @@
     "name": "HANGZHOU NUMERAL FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ханчжоуский", "цифра (число)", "пять"],
+    "concepts": []
   },
   {
     "cp": 12326,
@@ -410,7 +498,9 @@
     "name": "HANGZHOU NUMERAL SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ханчжоуский", "цифра (число)", "шесть"],
+    "concepts": []
   },
   {
     "cp": 12327,
@@ -418,7 +508,9 @@
     "name": "HANGZHOU NUMERAL SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ханчжоуский", "цифра (число)", "семь"],
+    "concepts": []
   },
   {
     "cp": 12328,
@@ -426,7 +518,9 @@
     "name": "HANGZHOU NUMERAL EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ханчжоуский", "цифра (число)", "восемь"],
+    "concepts": []
   },
   {
     "cp": 12329,
@@ -434,7 +528,9 @@
     "name": "HANGZHOU NUMERAL NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ханчжоуский", "цифра (число)", "девять"],
+    "concepts": []
   },
   {
     "cp": 12330,
@@ -442,7 +538,9 @@
     "name": "IDEOGRAPHIC LEVEL TONE MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "уровень", "тон", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12331,
@@ -450,7 +548,9 @@
     "name": "IDEOGRAPHIC RISING TONE MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "восходящий", "тон", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12332,
@@ -458,7 +558,9 @@
     "name": "IDEOGRAPHIC DEPARTING TONE MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "уходящий", "тон", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12333,
@@ -466,7 +568,9 @@
     "name": "IDEOGRAPHIC ENTERING TONE MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "тон", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12334,
@@ -474,7 +578,9 @@
     "name": "HANGUL SINGLE DOT TONE MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "одинарный", "точка", "тон", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12335,
@@ -482,7 +588,9 @@
     "name": "HANGUL DOUBLE DOT TONE MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "двойной", "точка", "тон", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12336,
@@ -493,7 +601,9 @@
     "keywords": {
       "ru": ["волна", "волнистая", "знак", "линия", "пунктуация"],
       "en": ["dash", "punctuation", "wavy"]
-    }
+    },
+    "desc": ["волнистый", "тире"],
+    "concepts": ["fog", "water", "wave"]
   },
   {
     "cp": 12337,
@@ -501,7 +611,9 @@
     "name": "VERTICAL KANA REPEAT MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вертикальный", "кана", "повтор", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12338,
@@ -509,7 +621,9 @@
     "name": "VERTICAL KANA REPEAT WITH VOICED SOUND MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вертикальный", "кана", "повтор", "с", "звонкий", "звук", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12339,
@@ -517,7 +631,9 @@
     "name": "VERTICAL KANA REPEAT MARK UPPER HALF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вертикальный", "кана", "повтор", "метка (знак)", "верхний", "половина"],
+    "concepts": []
   },
   {
     "cp": 12340,
@@ -525,7 +641,19 @@
     "name": "VERTICAL KANA REPEAT WITH VOICED SOUND MARK UPPER HALF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "вертикальный",
+      "кана",
+      "повтор",
+      "с",
+      "звонкий",
+      "звук",
+      "метка (знак)",
+      "верхний",
+      "половина"
+    ],
+    "concepts": []
   },
   {
     "cp": 12341,
@@ -533,7 +661,9 @@
     "name": "VERTICAL KANA REPEAT MARK LOWER HALF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вертикальный", "кана", "повтор", "метка (знак)", "нижний", "половина"],
+    "concepts": []
   },
   {
     "cp": 12342,
@@ -541,7 +671,9 @@
     "name": "CIRCLED POSTAL MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в кружке", "почтовый", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12343,
@@ -549,7 +681,16 @@
     "name": "IDEOGRAPHIC TELEGRAPH LINE FEED SEPARATOR SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "иероглифический",
+      "телеграфный",
+      "линия",
+      "перевод (строки)",
+      "разделитель",
+      "символ"
+    ],
+    "concepts": []
   },
   {
     "cp": 12344,
@@ -557,7 +698,9 @@
     "name": "HANGZHOU NUMERAL TEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ханчжоуский", "цифра (число)", "десять"],
+    "concepts": []
   },
   {
     "cp": 12345,
@@ -565,7 +708,9 @@
     "name": "HANGZHOU NUMERAL TWENTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ханчжоуский", "цифра (число)", "двадцать"],
+    "concepts": []
   },
   {
     "cp": 12346,
@@ -573,7 +718,9 @@
     "name": "HANGZHOU NUMERAL THIRTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ханчжоуский", "цифра (число)", "тридцать"],
+    "concepts": []
   },
   {
     "cp": 12347,
@@ -581,7 +728,9 @@
     "name": "VERTICAL IDEOGRAPHIC ITERATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вертикальный", "иероглифический", "повтор", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12348,
@@ -589,7 +738,9 @@
     "name": "MASU MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12349,
@@ -600,7 +751,9 @@
     "keywords": {
       "ru": ["вступает другой голос", "голос", "другой голос", "знак", "певцы", "япония"],
       "en": ["alternation", "mark", "part"]
-    }
+    },
+    "desc": ["часть", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12350,
@@ -608,7 +761,9 @@
     "name": "IDEOGRAPHIC VARIATION INDICATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "вариант", "индикатор"],
+    "concepts": []
   },
   {
     "cp": 12351,
@@ -616,6 +771,8 @@
     "name": "IDEOGRAPHIC HALF FILL SPACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "половина", "заливка", "пробел"],
+    "concepts": []
   }
 ]

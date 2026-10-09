@@ -5,7 +5,9 @@
     "name": "MAHJONG TILE EAST WIND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "восток", "ветер"],
+    "concepts": []
   },
   {
     "cp": 126977,
@@ -13,7 +15,9 @@
     "name": "MAHJONG TILE SOUTH WIND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "юг", "ветер"],
+    "concepts": []
   },
   {
     "cp": 126978,
@@ -21,7 +25,9 @@
     "name": "MAHJONG TILE WEST WIND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "запад", "ветер"],
+    "concepts": []
   },
   {
     "cp": 126979,
@@ -29,18 +35,9 @@
     "name": "MAHJONG TILE NORTH WIND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
-  },
-  {
-    "cp": 126980,
-    "char": "🀄",
-    "name": "MAHJONG TILE RED DRAGON",
-    "ru": "маджонг",
-    "en": "mahjong red dragon",
-    "keywords": {
-      "ru": ["игра", "игральные", "Китай", "кости", "кубики", "маджонг"],
-      "en": ["dragon", "game", "mahjong", "red"]
-    }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "север", "ветер"],
+    "concepts": []
   },
   {
     "cp": 126981,
@@ -48,7 +45,9 @@
     "name": "MAHJONG TILE GREEN DRAGON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "зелёный", "дракон"],
+    "concepts": []
   },
   {
     "cp": 126982,
@@ -56,7 +55,9 @@
     "name": "MAHJONG TILE WHITE DRAGON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "белый (контурный)", "дракон"],
+    "concepts": []
   },
   {
     "cp": 126983,
@@ -64,7 +65,9 @@
     "name": "MAHJONG TILE ONE OF CHARACTERS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "один", "из", "символы"],
+    "concepts": []
   },
   {
     "cp": 126984,
@@ -72,7 +75,9 @@
     "name": "MAHJONG TILE TWO OF CHARACTERS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "два", "из", "символы"],
+    "concepts": []
   },
   {
     "cp": 126985,
@@ -80,7 +85,9 @@
     "name": "MAHJONG TILE THREE OF CHARACTERS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "три", "из", "символы"],
+    "concepts": []
   },
   {
     "cp": 126986,
@@ -88,7 +95,9 @@
     "name": "MAHJONG TILE FOUR OF CHARACTERS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "четыре", "из", "символы"],
+    "concepts": []
   },
   {
     "cp": 126987,
@@ -96,7 +105,9 @@
     "name": "MAHJONG TILE FIVE OF CHARACTERS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "пять", "из", "символы"],
+    "concepts": []
   },
   {
     "cp": 126988,
@@ -104,7 +115,9 @@
     "name": "MAHJONG TILE SIX OF CHARACTERS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "шесть", "из", "символы"],
+    "concepts": []
   },
   {
     "cp": 126989,
@@ -112,7 +125,9 @@
     "name": "MAHJONG TILE SEVEN OF CHARACTERS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "семь", "из", "символы"],
+    "concepts": []
   },
   {
     "cp": 126990,
@@ -120,7 +135,9 @@
     "name": "MAHJONG TILE EIGHT OF CHARACTERS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "восемь", "из", "символы"],
+    "concepts": []
   },
   {
     "cp": 126991,
@@ -128,7 +145,9 @@
     "name": "MAHJONG TILE NINE OF CHARACTERS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "девять", "из", "символы"],
+    "concepts": []
   },
   {
     "cp": 126992,
@@ -136,7 +155,9 @@
     "name": "MAHJONG TILE ONE OF BAMBOOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "один", "из", "бамбук"],
+    "concepts": []
   },
   {
     "cp": 126993,
@@ -144,7 +165,9 @@
     "name": "MAHJONG TILE TWO OF BAMBOOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "два", "из", "бамбук"],
+    "concepts": []
   },
   {
     "cp": 126994,
@@ -152,7 +175,9 @@
     "name": "MAHJONG TILE THREE OF BAMBOOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "три", "из", "бамбук"],
+    "concepts": []
   },
   {
     "cp": 126995,
@@ -160,7 +185,9 @@
     "name": "MAHJONG TILE FOUR OF BAMBOOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "четыре", "из", "бамбук"],
+    "concepts": []
   },
   {
     "cp": 126996,
@@ -168,7 +195,9 @@
     "name": "MAHJONG TILE FIVE OF BAMBOOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "пять", "из", "бамбук"],
+    "concepts": []
   },
   {
     "cp": 126997,
@@ -176,7 +205,9 @@
     "name": "MAHJONG TILE SIX OF BAMBOOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "шесть", "из", "бамбук"],
+    "concepts": []
   },
   {
     "cp": 126998,
@@ -184,7 +215,9 @@
     "name": "MAHJONG TILE SEVEN OF BAMBOOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "семь", "из", "бамбук"],
+    "concepts": []
   },
   {
     "cp": 126999,
@@ -192,7 +225,9 @@
     "name": "MAHJONG TILE EIGHT OF BAMBOOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "восемь", "из", "бамбук"],
+    "concepts": []
   },
   {
     "cp": 127000,
@@ -200,7 +235,9 @@
     "name": "MAHJONG TILE NINE OF BAMBOOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "девять", "из", "бамбук"],
+    "concepts": []
   },
   {
     "cp": 127001,
@@ -208,7 +245,9 @@
     "name": "MAHJONG TILE ONE OF CIRCLES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "один", "из", "круги"],
+    "concepts": []
   },
   {
     "cp": 127002,
@@ -216,7 +255,9 @@
     "name": "MAHJONG TILE TWO OF CIRCLES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "два", "из", "круги"],
+    "concepts": []
   },
   {
     "cp": 127003,
@@ -224,7 +265,9 @@
     "name": "MAHJONG TILE THREE OF CIRCLES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "три", "из", "круги"],
+    "concepts": []
   },
   {
     "cp": 127004,
@@ -232,7 +275,9 @@
     "name": "MAHJONG TILE FOUR OF CIRCLES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "четыре", "из", "круги"],
+    "concepts": []
   },
   {
     "cp": 127005,
@@ -240,7 +285,9 @@
     "name": "MAHJONG TILE FIVE OF CIRCLES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "пять", "из", "круги"],
+    "concepts": []
   },
   {
     "cp": 127006,
@@ -248,7 +295,9 @@
     "name": "MAHJONG TILE SIX OF CIRCLES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "шесть", "из", "круги"],
+    "concepts": []
   },
   {
     "cp": 127007,
@@ -256,7 +305,9 @@
     "name": "MAHJONG TILE SEVEN OF CIRCLES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "семь", "из", "круги"],
+    "concepts": []
   },
   {
     "cp": 127008,
@@ -264,7 +315,9 @@
     "name": "MAHJONG TILE EIGHT OF CIRCLES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "восемь", "из", "круги"],
+    "concepts": []
   },
   {
     "cp": 127009,
@@ -272,7 +325,9 @@
     "name": "MAHJONG TILE NINE OF CIRCLES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "девять", "из", "круги"],
+    "concepts": []
   },
   {
     "cp": 127010,
@@ -280,7 +335,9 @@
     "name": "MAHJONG TILE PLUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "слива"],
+    "concepts": []
   },
   {
     "cp": 127011,
@@ -288,7 +345,9 @@
     "name": "MAHJONG TILE ORCHID",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "орхидея"],
+    "concepts": []
   },
   {
     "cp": 127012,
@@ -296,7 +355,9 @@
     "name": "MAHJONG TILE BAMBOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "бамбук"],
+    "concepts": []
   },
   {
     "cp": 127013,
@@ -304,7 +365,9 @@
     "name": "MAHJONG TILE CHRYSANTHEMUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "хризантема"],
+    "concepts": []
   },
   {
     "cp": 127014,
@@ -312,7 +375,9 @@
     "name": "MAHJONG TILE SPRING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "весна"],
+    "concepts": []
   },
   {
     "cp": 127015,
@@ -320,7 +385,9 @@
     "name": "MAHJONG TILE SUMMER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "лето"],
+    "concepts": []
   },
   {
     "cp": 127016,
@@ -328,7 +395,9 @@
     "name": "MAHJONG TILE AUTUMN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "осень"],
+    "concepts": []
   },
   {
     "cp": 127017,
@@ -336,7 +405,9 @@
     "name": "MAHJONG TILE WINTER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "зима"],
+    "concepts": []
   },
   {
     "cp": 127018,
@@ -344,7 +415,9 @@
     "name": "MAHJONG TILE JOKER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "джокер"],
+    "concepts": []
   },
   {
     "cp": 127019,
@@ -352,6 +425,8 @@
     "name": "MAHJONG TILE BACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маджонг", "плитка (кость)", "назад (обратная сторона)"],
+    "concepts": []
   }
 ]

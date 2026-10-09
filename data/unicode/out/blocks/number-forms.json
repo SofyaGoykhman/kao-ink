@@ -5,7 +5,9 @@
     "name": "VULGAR FRACTION ONE SEVENTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["простая", "дробь", "один", "седьмая"],
+    "concepts": []
   },
   {
     "cp": 8529,
@@ -13,7 +15,9 @@
     "name": "VULGAR FRACTION ONE NINTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["простая", "дробь", "один", "девятая"],
+    "concepts": []
   },
   {
     "cp": 8530,
@@ -21,7 +25,9 @@
     "name": "VULGAR FRACTION ONE TENTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["простая", "дробь", "один", "десятая"],
+    "concepts": []
   },
   {
     "cp": 8531,
@@ -29,7 +35,9 @@
     "name": "VULGAR FRACTION ONE THIRD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["простая", "дробь", "один", "третий (треть)"],
+    "concepts": []
   },
   {
     "cp": 8532,
@@ -37,7 +45,9 @@
     "name": "VULGAR FRACTION TWO THIRDS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["простая", "дробь", "два", "трети"],
+    "concepts": []
   },
   {
     "cp": 8533,
@@ -45,7 +55,9 @@
     "name": "VULGAR FRACTION ONE FIFTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["простая", "дробь", "один", "пятая"],
+    "concepts": []
   },
   {
     "cp": 8534,
@@ -53,7 +65,9 @@
     "name": "VULGAR FRACTION TWO FIFTHS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["простая", "дробь", "два", "пятые"],
+    "concepts": []
   },
   {
     "cp": 8535,
@@ -61,7 +75,9 @@
     "name": "VULGAR FRACTION THREE FIFTHS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["простая", "дробь", "три", "пятые"],
+    "concepts": []
   },
   {
     "cp": 8536,
@@ -69,7 +85,9 @@
     "name": "VULGAR FRACTION FOUR FIFTHS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["простая", "дробь", "четыре", "пятые"],
+    "concepts": []
   },
   {
     "cp": 8537,
@@ -77,7 +95,9 @@
     "name": "VULGAR FRACTION ONE SIXTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["простая", "дробь", "один", "шестая"],
+    "concepts": []
   },
   {
     "cp": 8538,
@@ -85,7 +105,9 @@
     "name": "VULGAR FRACTION FIVE SIXTHS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["простая", "дробь", "пять", "шестые"],
+    "concepts": []
   },
   {
     "cp": 8539,
@@ -93,7 +115,9 @@
     "name": "VULGAR FRACTION ONE EIGHTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["простая", "дробь", "один", "восьмая"],
+    "concepts": []
   },
   {
     "cp": 8540,
@@ -101,7 +125,9 @@
     "name": "VULGAR FRACTION THREE EIGHTHS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["простая", "дробь", "три", "восьмые"],
+    "concepts": []
   },
   {
     "cp": 8541,
@@ -109,7 +135,9 @@
     "name": "VULGAR FRACTION FIVE EIGHTHS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["простая", "дробь", "пять", "восьмые"],
+    "concepts": []
   },
   {
     "cp": 8542,
@@ -117,7 +145,9 @@
     "name": "VULGAR FRACTION SEVEN EIGHTHS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["простая", "дробь", "семь", "восьмые"],
+    "concepts": []
   },
   {
     "cp": 8543,
@@ -125,7 +155,9 @@
     "name": "FRACTION NUMERATOR ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["дробь", "числитель", "один"],
+    "concepts": []
   },
   {
     "cp": 8544,
@@ -133,7 +165,9 @@
     "name": "ROMAN NUMERAL ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "один"],
+    "concepts": []
   },
   {
     "cp": 8545,
@@ -141,7 +175,9 @@
     "name": "ROMAN NUMERAL TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "два"],
+    "concepts": []
   },
   {
     "cp": 8546,
@@ -149,7 +185,9 @@
     "name": "ROMAN NUMERAL THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "три"],
+    "concepts": []
   },
   {
     "cp": 8547,
@@ -157,7 +195,9 @@
     "name": "ROMAN NUMERAL FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "четыре"],
+    "concepts": []
   },
   {
     "cp": 8548,
@@ -165,7 +205,9 @@
     "name": "ROMAN NUMERAL FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "пять"],
+    "concepts": []
   },
   {
     "cp": 8549,
@@ -173,7 +215,9 @@
     "name": "ROMAN NUMERAL SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "шесть"],
+    "concepts": []
   },
   {
     "cp": 8550,
@@ -181,7 +225,9 @@
     "name": "ROMAN NUMERAL SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "семь"],
+    "concepts": []
   },
   {
     "cp": 8551,
@@ -189,7 +235,9 @@
     "name": "ROMAN NUMERAL EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "восемь"],
+    "concepts": []
   },
   {
     "cp": 8552,
@@ -197,7 +245,9 @@
     "name": "ROMAN NUMERAL NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "девять"],
+    "concepts": []
   },
   {
     "cp": 8553,
@@ -205,7 +255,9 @@
     "name": "ROMAN NUMERAL TEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "десять"],
+    "concepts": []
   },
   {
     "cp": 8554,
@@ -213,7 +265,9 @@
     "name": "ROMAN NUMERAL ELEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "одиннадцать"],
+    "concepts": []
   },
   {
     "cp": 8555,
@@ -221,7 +275,9 @@
     "name": "ROMAN NUMERAL TWELVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "двенадцать"],
+    "concepts": []
   },
   {
     "cp": 8556,
@@ -229,7 +285,9 @@
     "name": "ROMAN NUMERAL FIFTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "пятьдесят"],
+    "concepts": []
   },
   {
     "cp": 8557,
@@ -237,7 +295,9 @@
     "name": "ROMAN NUMERAL ONE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "один", "сто"],
+    "concepts": []
   },
   {
     "cp": 8558,
@@ -245,7 +305,9 @@
     "name": "ROMAN NUMERAL FIVE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "пять", "сто"],
+    "concepts": []
   },
   {
     "cp": 8559,
@@ -253,7 +315,9 @@
     "name": "ROMAN NUMERAL ONE THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "один", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 8560,
@@ -261,7 +325,9 @@
     "name": "SMALL ROMAN NUMERAL ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "римский", "цифра (число)", "один"],
+    "concepts": []
   },
   {
     "cp": 8561,
@@ -269,7 +335,9 @@
     "name": "SMALL ROMAN NUMERAL TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "римский", "цифра (число)", "два"],
+    "concepts": []
   },
   {
     "cp": 8562,
@@ -277,7 +345,9 @@
     "name": "SMALL ROMAN NUMERAL THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "римский", "цифра (число)", "три"],
+    "concepts": []
   },
   {
     "cp": 8563,
@@ -285,7 +355,9 @@
     "name": "SMALL ROMAN NUMERAL FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "римский", "цифра (число)", "четыре"],
+    "concepts": []
   },
   {
     "cp": 8564,
@@ -293,7 +365,9 @@
     "name": "SMALL ROMAN NUMERAL FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "римский", "цифра (число)", "пять"],
+    "concepts": []
   },
   {
     "cp": 8565,
@@ -301,7 +375,9 @@
     "name": "SMALL ROMAN NUMERAL SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "римский", "цифра (число)", "шесть"],
+    "concepts": []
   },
   {
     "cp": 8566,
@@ -309,7 +385,9 @@
     "name": "SMALL ROMAN NUMERAL SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "римский", "цифра (число)", "семь"],
+    "concepts": []
   },
   {
     "cp": 8567,
@@ -317,7 +395,9 @@
     "name": "SMALL ROMAN NUMERAL EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "римский", "цифра (число)", "восемь"],
+    "concepts": []
   },
   {
     "cp": 8568,
@@ -325,7 +405,9 @@
     "name": "SMALL ROMAN NUMERAL NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "римский", "цифра (число)", "девять"],
+    "concepts": []
   },
   {
     "cp": 8569,
@@ -333,7 +415,9 @@
     "name": "SMALL ROMAN NUMERAL TEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "римский", "цифра (число)", "десять"],
+    "concepts": []
   },
   {
     "cp": 8570,
@@ -341,7 +425,9 @@
     "name": "SMALL ROMAN NUMERAL ELEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "римский", "цифра (число)", "одиннадцать"],
+    "concepts": []
   },
   {
     "cp": 8571,
@@ -349,7 +435,9 @@
     "name": "SMALL ROMAN NUMERAL TWELVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "римский", "цифра (число)", "двенадцать"],
+    "concepts": []
   },
   {
     "cp": 8572,
@@ -357,7 +445,9 @@
     "name": "SMALL ROMAN NUMERAL FIFTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "римский", "цифра (число)", "пятьдесят"],
+    "concepts": []
   },
   {
     "cp": 8573,
@@ -365,7 +455,9 @@
     "name": "SMALL ROMAN NUMERAL ONE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "римский", "цифра (число)", "один", "сто"],
+    "concepts": []
   },
   {
     "cp": 8574,
@@ -373,7 +465,9 @@
     "name": "SMALL ROMAN NUMERAL FIVE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "римский", "цифра (число)", "пять", "сто"],
+    "concepts": []
   },
   {
     "cp": 8575,
@@ -381,7 +475,9 @@
     "name": "SMALL ROMAN NUMERAL ONE THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "римский", "цифра (число)", "один", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 8576,
@@ -389,7 +485,9 @@
     "name": "ROMAN NUMERAL ONE THOUSAND C D",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "один", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 8577,
@@ -397,7 +495,9 @@
     "name": "ROMAN NUMERAL FIVE THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "пять", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 8578,
@@ -405,7 +505,9 @@
     "name": "ROMAN NUMERAL TEN THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "десять", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 8579,
@@ -413,7 +515,9 @@
     "name": "ROMAN NUMERAL REVERSED ONE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "зеркальный (обратный)", "один", "сто"],
+    "concepts": ["moon"]
   },
   {
     "cp": 8580,
@@ -421,7 +525,9 @@
     "name": "LATIN SMALL LETTER REVERSED C",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "зеркальный (обратный)"],
+    "concepts": ["moon"]
   },
   {
     "cp": 8581,
@@ -429,7 +535,9 @@
     "name": "ROMAN NUMERAL SIX LATE FORM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "шесть", "поздний", "форма"],
+    "concepts": []
   },
   {
     "cp": 8582,
@@ -437,7 +545,9 @@
     "name": "ROMAN NUMERAL FIFTY EARLY FORM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "пятьдесят", "ранний", "форма"],
+    "concepts": []
   },
   {
     "cp": 8583,
@@ -445,7 +555,9 @@
     "name": "ROMAN NUMERAL FIFTY THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "пятьдесят", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 8584,
@@ -453,7 +565,9 @@
     "name": "ROMAN NUMERAL ONE HUNDRED THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["римский", "цифра (число)", "один", "сто", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 8585,
@@ -461,7 +575,9 @@
     "name": "VULGAR FRACTION ZERO THIRDS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["простая", "дробь", "ноль", "трети"],
+    "concepts": []
   },
   {
     "cp": 8586,
@@ -469,7 +585,9 @@
     "name": "TURNED DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["перевёрнутый", "цифра", "два"],
+    "concepts": []
   },
   {
     "cp": 8587,
@@ -477,6 +595,8 @@
     "name": "TURNED DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["перевёрнутый", "цифра", "три"],
+    "concepts": []
   }
 ]

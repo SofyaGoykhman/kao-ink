@@ -5,7 +5,9 @@
     "name": "KANGXI RADICAL ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "один"],
+    "concepts": []
   },
   {
     "cp": 12033,
@@ -13,7 +15,9 @@
     "name": "KANGXI RADICAL LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "линия"],
+    "concepts": []
   },
   {
     "cp": 12034,
@@ -21,7 +25,9 @@
     "name": "KANGXI RADICAL DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "точка"],
+    "concepts": []
   },
   {
     "cp": 12035,
@@ -29,7 +35,9 @@
     "name": "KANGXI RADICAL SLASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "слэш (косая черта)"],
+    "concepts": []
   },
   {
     "cp": 12036,
@@ -37,7 +45,9 @@
     "name": "KANGXI RADICAL SECOND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "второй (секунда)"],
+    "concepts": []
   },
   {
     "cp": 12037,
@@ -45,7 +55,9 @@
     "name": "KANGXI RADICAL HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "крючок"],
+    "concepts": []
   },
   {
     "cp": 12038,
@@ -53,7 +65,9 @@
     "name": "KANGXI RADICAL TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "два"],
+    "concepts": []
   },
   {
     "cp": 12039,
@@ -61,7 +75,9 @@
     "name": "KANGXI RADICAL LID",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12040,
@@ -69,7 +85,9 @@
     "name": "KANGXI RADICAL MAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "мужчина"],
+    "concepts": ["tree"]
   },
   {
     "cp": 12041,
@@ -77,7 +95,9 @@
     "name": "KANGXI RADICAL LEGS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12042,
@@ -85,7 +105,9 @@
     "name": "KANGXI RADICAL ENTER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "ввод (enter)"],
+    "concepts": []
   },
   {
     "cp": 12043,
@@ -93,7 +115,9 @@
     "name": "KANGXI RADICAL EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "восемь"],
+    "concepts": []
   },
   {
     "cp": 12044,
@@ -101,7 +125,9 @@
     "name": "KANGXI RADICAL DOWN BOX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "вниз", "рамка (псевдографика)"],
+    "concepts": []
   },
   {
     "cp": 12045,
@@ -109,7 +135,9 @@
     "name": "KANGXI RADICAL COVER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "обложка"],
+    "concepts": []
   },
   {
     "cp": 12046,
@@ -117,7 +145,9 @@
     "name": "KANGXI RADICAL ICE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "лёд"],
+    "concepts": []
   },
   {
     "cp": 12047,
@@ -125,7 +155,9 @@
     "name": "KANGXI RADICAL TABLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "стол"],
+    "concepts": []
   },
   {
     "cp": 12048,
@@ -133,7 +165,9 @@
     "name": "KANGXI RADICAL OPEN BOX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "открытый", "рамка (псевдографика)"],
+    "concepts": []
   },
   {
     "cp": 12049,
@@ -141,7 +175,9 @@
     "name": "KANGXI RADICAL KNIFE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "нож"],
+    "concepts": []
   },
   {
     "cp": 12050,
@@ -149,7 +185,9 @@
     "name": "KANGXI RADICAL POWER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "питание (степень)"],
+    "concepts": []
   },
   {
     "cp": 12051,
@@ -157,7 +195,9 @@
     "name": "KANGXI RADICAL WRAP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12052,
@@ -165,7 +205,9 @@
     "name": "KANGXI RADICAL SPOON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "ложка"],
+    "concepts": []
   },
   {
     "cp": 12053,
@@ -173,7 +215,9 @@
     "name": "KANGXI RADICAL RIGHT OPEN BOX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "правый (вправо)", "открытый", "рамка (псевдографика)"],
+    "concepts": []
   },
   {
     "cp": 12054,
@@ -181,7 +225,9 @@
     "name": "KANGXI RADICAL HIDING ENCLOSURE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "ограждение"],
+    "concepts": []
   },
   {
     "cp": 12055,
@@ -189,7 +235,9 @@
     "name": "KANGXI RADICAL TEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "десять"],
+    "concepts": []
   },
   {
     "cp": 12056,
@@ -197,7 +245,9 @@
     "name": "KANGXI RADICAL DIVINATION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12057,
@@ -205,7 +255,9 @@
     "name": "KANGXI RADICAL SEAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "печать (тюлень)"],
+    "concepts": []
   },
   {
     "cp": 12058,
@@ -213,7 +265,9 @@
     "name": "KANGXI RADICAL CLIFF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "утёс"],
+    "concepts": []
   },
   {
     "cp": 12059,
@@ -221,7 +275,9 @@
     "name": "KANGXI RADICAL PRIVATE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12060,
@@ -229,7 +285,9 @@
     "name": "KANGXI RADICAL AGAIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12061,
@@ -237,7 +295,9 @@
     "name": "KANGXI RADICAL MOUTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "рот"],
+    "concepts": []
   },
   {
     "cp": 12062,
@@ -245,7 +305,9 @@
     "name": "KANGXI RADICAL ENCLOSURE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "ограждение"],
+    "concepts": []
   },
   {
     "cp": 12063,
@@ -253,7 +315,9 @@
     "name": "KANGXI RADICAL EARTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "земля"],
+    "concepts": []
   },
   {
     "cp": 12064,
@@ -261,7 +325,9 @@
     "name": "KANGXI RADICAL SCHOLAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12065,
@@ -269,7 +335,9 @@
     "name": "KANGXI RADICAL GO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "го"],
+    "concepts": []
   },
   {
     "cp": 12066,
@@ -277,7 +345,9 @@
     "name": "KANGXI RADICAL GO SLOWLY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "го"],
+    "concepts": []
   },
   {
     "cp": 12067,
@@ -285,7 +355,9 @@
     "name": "KANGXI RADICAL EVENING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12068,
@@ -293,7 +365,9 @@
     "name": "KANGXI RADICAL BIG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "большой"],
+    "concepts": []
   },
   {
     "cp": 12069,
@@ -301,7 +375,9 @@
     "name": "KANGXI RADICAL WOMAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "женщина"],
+    "concepts": []
   },
   {
     "cp": 12070,
@@ -309,7 +385,9 @@
     "name": "KANGXI RADICAL CHILD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "ребёнок"],
+    "concepts": []
   },
   {
     "cp": 12071,
@@ -317,7 +395,9 @@
     "name": "KANGXI RADICAL ROOF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12072,
@@ -325,7 +405,9 @@
     "name": "KANGXI RADICAL INCH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12073,
@@ -333,7 +415,9 @@
     "name": "KANGXI RADICAL SMALL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 12074,
@@ -341,7 +425,9 @@
     "name": "KANGXI RADICAL LAME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "ламе"],
+    "concepts": []
   },
   {
     "cp": 12075,
@@ -349,7 +435,9 @@
     "name": "KANGXI RADICAL CORPSE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12076,
@@ -357,7 +445,9 @@
     "name": "KANGXI RADICAL SPROUT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12077,
@@ -365,7 +455,9 @@
     "name": "KANGXI RADICAL MOUNTAIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "гора"],
+    "concepts": []
   },
   {
     "cp": 12078,
@@ -373,7 +465,9 @@
     "name": "KANGXI RADICAL RIVER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12079,
@@ -381,7 +475,9 @@
     "name": "KANGXI RADICAL WORK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "работа"],
+    "concepts": []
   },
   {
     "cp": 12080,
@@ -389,7 +485,9 @@
     "name": "KANGXI RADICAL ONESELF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12081,
@@ -397,7 +495,9 @@
     "name": "KANGXI RADICAL TURBAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "тюрбан"],
+    "concepts": []
   },
   {
     "cp": 12082,
@@ -405,7 +505,9 @@
     "name": "KANGXI RADICAL DRY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "сухой"],
+    "concepts": []
   },
   {
     "cp": 12083,
@@ -413,7 +515,9 @@
     "name": "KANGXI RADICAL SHORT THREAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "короткий", "нитка"],
+    "concepts": []
   },
   {
     "cp": 12084,
@@ -421,7 +525,9 @@
     "name": "KANGXI RADICAL DOTTED CLIFF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "пунктирный (с точкой)", "утёс"],
+    "concepts": []
   },
   {
     "cp": 12085,
@@ -429,7 +535,9 @@
     "name": "KANGXI RADICAL LONG STRIDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "длинный"],
+    "concepts": []
   },
   {
     "cp": 12086,
@@ -437,7 +545,9 @@
     "name": "KANGXI RADICAL TWO HANDS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "два", "руки"],
+    "concepts": []
   },
   {
     "cp": 12087,
@@ -445,7 +555,9 @@
     "name": "KANGXI RADICAL SHOOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12088,
@@ -453,7 +565,9 @@
     "name": "KANGXI RADICAL BOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "лук (бант)"],
+    "concepts": []
   },
   {
     "cp": 12089,
@@ -461,7 +575,9 @@
     "name": "KANGXI RADICAL SNOUT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "морда"],
+    "concepts": []
   },
   {
     "cp": 12090,
@@ -469,7 +585,9 @@
     "name": "KANGXI RADICAL BRISTLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12091,
@@ -477,7 +595,9 @@
     "name": "KANGXI RADICAL STEP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "шаг"],
+    "concepts": []
   },
   {
     "cp": 12092,
@@ -485,7 +605,9 @@
     "name": "KANGXI RADICAL HEART",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "сердце"],
+    "concepts": []
   },
   {
     "cp": 12093,
@@ -493,7 +615,9 @@
     "name": "KANGXI RADICAL HALBERD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12094,
@@ -501,7 +625,9 @@
     "name": "KANGXI RADICAL DOOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "дверь"],
+    "concepts": []
   },
   {
     "cp": 12095,
@@ -509,7 +635,9 @@
     "name": "KANGXI RADICAL HAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "рука"],
+    "concepts": []
   },
   {
     "cp": 12096,
@@ -517,7 +645,9 @@
     "name": "KANGXI RADICAL BRANCH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "ветка (филиал)"],
+    "concepts": []
   },
   {
     "cp": 12097,
@@ -525,7 +655,9 @@
     "name": "KANGXI RADICAL RAP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "рап"],
+    "concepts": []
   },
   {
     "cp": 12098,
@@ -533,7 +665,9 @@
     "name": "KANGXI RADICAL SCRIPT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "рукописный"],
+    "concepts": []
   },
   {
     "cp": 12099,
@@ -541,7 +675,9 @@
     "name": "KANGXI RADICAL DIPPER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12100,
@@ -549,7 +685,9 @@
     "name": "KANGXI RADICAL AXE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "топор"],
+    "concepts": []
   },
   {
     "cp": 12101,
@@ -557,7 +695,9 @@
     "name": "KANGXI RADICAL SQUARE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "квадрат"],
+    "concepts": []
   },
   {
     "cp": 12102,
@@ -565,7 +705,9 @@
     "name": "KANGXI RADICAL NOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "не"],
+    "concepts": []
   },
   {
     "cp": 12103,
@@ -573,7 +715,9 @@
     "name": "KANGXI RADICAL SUN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "солнце"],
+    "concepts": []
   },
   {
     "cp": 12104,
@@ -581,7 +725,9 @@
     "name": "KANGXI RADICAL SAY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12105,
@@ -589,7 +735,9 @@
     "name": "KANGXI RADICAL MOON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "луна"],
+    "concepts": []
   },
   {
     "cp": 12106,
@@ -597,7 +745,9 @@
     "name": "KANGXI RADICAL TREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "дерево"],
+    "concepts": []
   },
   {
     "cp": 12107,
@@ -605,7 +755,9 @@
     "name": "KANGXI RADICAL LACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12108,
@@ -613,7 +765,9 @@
     "name": "KANGXI RADICAL STOP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "стоп"],
+    "concepts": []
   },
   {
     "cp": 12109,
@@ -621,7 +775,9 @@
     "name": "KANGXI RADICAL DEATH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12110,
@@ -629,7 +785,9 @@
     "name": "KANGXI RADICAL WEAPON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12111,
@@ -637,7 +795,9 @@
     "name": "KANGXI RADICAL DO NOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "делать", "не"],
+    "concepts": []
   },
   {
     "cp": 12112,
@@ -645,7 +805,9 @@
     "name": "KANGXI RADICAL COMPARE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12113,
@@ -653,7 +815,9 @@
     "name": "KANGXI RADICAL FUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12114,
@@ -661,7 +825,9 @@
     "name": "KANGXI RADICAL CLAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "клан"],
+    "concepts": []
   },
   {
     "cp": 12115,
@@ -669,7 +835,9 @@
     "name": "KANGXI RADICAL STEAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "пар"],
+    "concepts": []
   },
   {
     "cp": 12116,
@@ -677,7 +845,9 @@
     "name": "KANGXI RADICAL WATER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "вода"],
+    "concepts": []
   },
   {
     "cp": 12117,
@@ -685,7 +855,9 @@
     "name": "KANGXI RADICAL FIRE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "огонь"],
+    "concepts": []
   },
   {
     "cp": 12118,
@@ -693,7 +865,9 @@
     "name": "KANGXI RADICAL CLAW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "коготь"],
+    "concepts": []
   },
   {
     "cp": 12119,
@@ -701,7 +875,9 @@
     "name": "KANGXI RADICAL FATHER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "отец"],
+    "concepts": []
   },
   {
     "cp": 12120,
@@ -709,7 +885,9 @@
     "name": "KANGXI RADICAL DOUBLE X",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "двойной"],
+    "concepts": []
   },
   {
     "cp": 12121,
@@ -717,7 +895,9 @@
     "name": "KANGXI RADICAL HALF TREE TRUNK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "половина", "дерево"],
+    "concepts": []
   },
   {
     "cp": 12122,
@@ -725,7 +905,9 @@
     "name": "KANGXI RADICAL SLICE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "ломтик (кусок)"],
+    "concepts": []
   },
   {
     "cp": 12123,
@@ -733,7 +915,9 @@
     "name": "KANGXI RADICAL FANG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12124,
@@ -741,7 +925,9 @@
     "name": "KANGXI RADICAL COW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "корова"],
+    "concepts": []
   },
   {
     "cp": 12125,
@@ -749,7 +935,9 @@
     "name": "KANGXI RADICAL DOG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "собака"],
+    "concepts": []
   },
   {
     "cp": 12126,
@@ -757,7 +945,9 @@
     "name": "KANGXI RADICAL PROFOUND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12127,
@@ -765,7 +955,9 @@
     "name": "KANGXI RADICAL JADE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12128,
@@ -773,7 +965,9 @@
     "name": "KANGXI RADICAL MELON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "дыня"],
+    "concepts": []
   },
   {
     "cp": 12129,
@@ -781,7 +975,9 @@
     "name": "KANGXI RADICAL TILE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "плитка (кость)"],
+    "concepts": []
   },
   {
     "cp": 12130,
@@ -789,7 +985,9 @@
     "name": "KANGXI RADICAL SWEET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "сладкий"],
+    "concepts": []
   },
   {
     "cp": 12131,
@@ -797,7 +995,9 @@
     "name": "KANGXI RADICAL LIFE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12132,
@@ -805,7 +1005,9 @@
     "name": "KANGXI RADICAL USE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12133,
@@ -813,7 +1015,9 @@
     "name": "KANGXI RADICAL FIELD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "поле"],
+    "concepts": []
   },
   {
     "cp": 12134,
@@ -821,7 +1025,9 @@
     "name": "KANGXI RADICAL BOLT OF CLOTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "болт", "из", "ткань"],
+    "concepts": []
   },
   {
     "cp": 12135,
@@ -829,7 +1035,9 @@
     "name": "KANGXI RADICAL SICKNESS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12136,
@@ -837,7 +1045,9 @@
     "name": "KANGXI RADICAL DOTTED TENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "пунктирный (с точкой)", "палатка"],
+    "concepts": []
   },
   {
     "cp": 12137,
@@ -845,7 +1055,9 @@
     "name": "KANGXI RADICAL WHITE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "белый (контурный)"],
+    "concepts": []
   },
   {
     "cp": 12138,
@@ -853,7 +1065,9 @@
     "name": "KANGXI RADICAL SKIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12139,
@@ -861,7 +1075,9 @@
     "name": "KANGXI RADICAL DISH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "блюдо (чашка)"],
+    "concepts": []
   },
   {
     "cp": 12140,
@@ -869,7 +1085,9 @@
     "name": "KANGXI RADICAL EYE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "глаз"],
+    "concepts": []
   },
   {
     "cp": 12141,
@@ -877,7 +1095,9 @@
     "name": "KANGXI RADICAL SPEAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12142,
@@ -885,7 +1105,9 @@
     "name": "KANGXI RADICAL ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 12143,
@@ -893,7 +1115,9 @@
     "name": "KANGXI RADICAL STONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "камень"],
+    "concepts": []
   },
   {
     "cp": 12144,
@@ -901,7 +1125,9 @@
     "name": "KANGXI RADICAL SPIRIT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "дух (спирт)"],
+    "concepts": []
   },
   {
     "cp": 12145,
@@ -909,7 +1135,9 @@
     "name": "KANGXI RADICAL TRACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "трасса"],
+    "concepts": []
   },
   {
     "cp": 12146,
@@ -917,7 +1145,9 @@
     "name": "KANGXI RADICAL GRAIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12147,
@@ -925,7 +1155,9 @@
     "name": "KANGXI RADICAL CAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12148,
@@ -933,7 +1165,9 @@
     "name": "KANGXI RADICAL STAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12149,
@@ -941,7 +1175,9 @@
     "name": "KANGXI RADICAL BAMBOO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "бамбук"],
+    "concepts": []
   },
   {
     "cp": 12150,
@@ -949,7 +1185,9 @@
     "name": "KANGXI RADICAL RICE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "рис"],
+    "concepts": []
   },
   {
     "cp": 12151,
@@ -957,7 +1195,9 @@
     "name": "KANGXI RADICAL SILK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "шёлк"],
+    "concepts": []
   },
   {
     "cp": 12152,
@@ -965,7 +1205,9 @@
     "name": "KANGXI RADICAL JAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "банка"],
+    "concepts": []
   },
   {
     "cp": 12153,
@@ -973,7 +1215,9 @@
     "name": "KANGXI RADICAL NET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "сеть"],
+    "concepts": []
   },
   {
     "cp": 12154,
@@ -981,7 +1225,9 @@
     "name": "KANGXI RADICAL SHEEP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "овца"],
+    "concepts": []
   },
   {
     "cp": 12155,
@@ -989,7 +1235,9 @@
     "name": "KANGXI RADICAL FEATHER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "перо"],
+    "concepts": []
   },
   {
     "cp": 12156,
@@ -997,7 +1245,9 @@
     "name": "KANGXI RADICAL OLD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "старый"],
+    "concepts": []
   },
   {
     "cp": 12157,
@@ -1005,7 +1255,9 @@
     "name": "KANGXI RADICAL AND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "и"],
+    "concepts": []
   },
   {
     "cp": 12158,
@@ -1013,7 +1265,9 @@
     "name": "KANGXI RADICAL PLOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12159,
@@ -1021,7 +1275,9 @@
     "name": "KANGXI RADICAL EAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "ухо"],
+    "concepts": []
   },
   {
     "cp": 12160,
@@ -1029,7 +1285,9 @@
     "name": "KANGXI RADICAL BRUSH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "кисть"],
+    "concepts": []
   },
   {
     "cp": 12161,
@@ -1037,7 +1295,9 @@
     "name": "KANGXI RADICAL MEAT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "мясо"],
+    "concepts": []
   },
   {
     "cp": 12162,
@@ -1045,7 +1305,9 @@
     "name": "KANGXI RADICAL MINISTER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12163,
@@ -1053,7 +1315,9 @@
     "name": "KANGXI RADICAL SELF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12164,
@@ -1061,7 +1325,9 @@
     "name": "KANGXI RADICAL ARRIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12165,
@@ -1069,7 +1335,9 @@
     "name": "KANGXI RADICAL MORTAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12166,
@@ -1077,7 +1345,9 @@
     "name": "KANGXI RADICAL TONGUE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "язык"],
+    "concepts": []
   },
   {
     "cp": 12167,
@@ -1085,7 +1355,9 @@
     "name": "KANGXI RADICAL OPPOSE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12168,
@@ -1093,7 +1365,9 @@
     "name": "KANGXI RADICAL BOAT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "лодка"],
+    "concepts": []
   },
   {
     "cp": 12169,
@@ -1101,7 +1375,9 @@
     "name": "KANGXI RADICAL STOPPING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12170,
@@ -1109,7 +1385,9 @@
     "name": "KANGXI RADICAL COLOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": ["tree"]
   },
   {
     "cp": 12171,
@@ -1117,7 +1395,9 @@
     "name": "KANGXI RADICAL GRASS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "трава"],
+    "concepts": []
   },
   {
     "cp": 12172,
@@ -1125,7 +1405,9 @@
     "name": "KANGXI RADICAL TIGER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "тигр"],
+    "concepts": []
   },
   {
     "cp": 12173,
@@ -1133,7 +1415,9 @@
     "name": "KANGXI RADICAL INSECT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12174,
@@ -1141,7 +1425,9 @@
     "name": "KANGXI RADICAL BLOOD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "кровь"],
+    "concepts": []
   },
   {
     "cp": 12175,
@@ -1149,7 +1435,9 @@
     "name": "KANGXI RADICAL WALK ENCLOSURE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "валк", "ограждение"],
+    "concepts": []
   },
   {
     "cp": 12176,
@@ -1157,7 +1445,9 @@
     "name": "KANGXI RADICAL CLOTHES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "одежда"],
+    "concepts": []
   },
   {
     "cp": 12177,
@@ -1165,7 +1455,9 @@
     "name": "KANGXI RADICAL WEST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "запад"],
+    "concepts": []
   },
   {
     "cp": 12178,
@@ -1173,7 +1465,9 @@
     "name": "KANGXI RADICAL SEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "видеть"],
+    "concepts": []
   },
   {
     "cp": 12179,
@@ -1181,7 +1475,9 @@
     "name": "KANGXI RADICAL HORN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "рожок"],
+    "concepts": []
   },
   {
     "cp": 12180,
@@ -1189,7 +1485,9 @@
     "name": "KANGXI RADICAL SPEECH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "речь"],
+    "concepts": []
   },
   {
     "cp": 12181,
@@ -1197,7 +1495,9 @@
     "name": "KANGXI RADICAL VALLEY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12182,
@@ -1205,7 +1505,9 @@
     "name": "KANGXI RADICAL BEAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12183,
@@ -1213,7 +1515,9 @@
     "name": "KANGXI RADICAL PIG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "свинья"],
+    "concepts": []
   },
   {
     "cp": 12184,
@@ -1221,7 +1525,9 @@
     "name": "KANGXI RADICAL BADGER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "барсук"],
+    "concepts": []
   },
   {
     "cp": 12185,
@@ -1229,7 +1535,9 @@
     "name": "KANGXI RADICAL SHELL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "ракушка (оболочка)"],
+    "concepts": []
   },
   {
     "cp": 12186,
@@ -1237,7 +1545,9 @@
     "name": "KANGXI RADICAL RED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "красный"],
+    "concepts": []
   },
   {
     "cp": 12187,
@@ -1245,7 +1555,9 @@
     "name": "KANGXI RADICAL RUN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12188,
@@ -1253,7 +1565,9 @@
     "name": "KANGXI RADICAL FOOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "фут (стопа)"],
+    "concepts": []
   },
   {
     "cp": 12189,
@@ -1261,7 +1575,9 @@
     "name": "KANGXI RADICAL BODY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12190,
@@ -1269,7 +1585,9 @@
     "name": "KANGXI RADICAL CART",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12191,
@@ -1277,7 +1595,9 @@
     "name": "KANGXI RADICAL BITTER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12192,
@@ -1285,7 +1605,9 @@
     "name": "KANGXI RADICAL MORNING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12193,
@@ -1293,7 +1615,9 @@
     "name": "KANGXI RADICAL WALK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "валк"],
+    "concepts": []
   },
   {
     "cp": 12194,
@@ -1301,7 +1625,9 @@
     "name": "KANGXI RADICAL CITY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12195,
@@ -1309,7 +1635,9 @@
     "name": "KANGXI RADICAL WINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "вино"],
+    "concepts": []
   },
   {
     "cp": 12196,
@@ -1317,7 +1645,9 @@
     "name": "KANGXI RADICAL DISTINGUISH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12197,
@@ -1325,7 +1655,9 @@
     "name": "KANGXI RADICAL VILLAGE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12198,
@@ -1333,7 +1665,9 @@
     "name": "KANGXI RADICAL GOLD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "золото"],
+    "concepts": []
   },
   {
     "cp": 12199,
@@ -1341,7 +1675,9 @@
     "name": "KANGXI RADICAL LONG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "длинный"],
+    "concepts": []
   },
   {
     "cp": 12200,
@@ -1349,7 +1685,9 @@
     "name": "KANGXI RADICAL GATE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "вентиль (ворота)"],
+    "concepts": []
   },
   {
     "cp": 12201,
@@ -1357,7 +1695,9 @@
     "name": "KANGXI RADICAL MOUND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "холм"],
+    "concepts": []
   },
   {
     "cp": 12202,
@@ -1365,7 +1705,9 @@
     "name": "KANGXI RADICAL SLAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12203,
@@ -1373,7 +1715,9 @@
     "name": "KANGXI RADICAL SHORT TAILED BIRD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "короткий", "с хвостом", "птица"],
+    "concepts": []
   },
   {
     "cp": 12204,
@@ -1381,7 +1725,9 @@
     "name": "KANGXI RADICAL RAIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "дождь"],
+    "concepts": []
   },
   {
     "cp": 12205,
@@ -1389,7 +1735,9 @@
     "name": "KANGXI RADICAL BLUE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "синий"],
+    "concepts": []
   },
   {
     "cp": 12206,
@@ -1397,7 +1745,9 @@
     "name": "KANGXI RADICAL WRONG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12207,
@@ -1405,7 +1755,9 @@
     "name": "KANGXI RADICAL FACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "лицо (смайлик)"],
+    "concepts": []
   },
   {
     "cp": 12208,
@@ -1413,7 +1765,9 @@
     "name": "KANGXI RADICAL LEATHER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "кожа"],
+    "concepts": []
   },
   {
     "cp": 12209,
@@ -1421,7 +1775,9 @@
     "name": "KANGXI RADICAL TANNED LEATHER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "кожа"],
+    "concepts": []
   },
   {
     "cp": 12210,
@@ -1429,7 +1785,9 @@
     "name": "KANGXI RADICAL LEEK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12211,
@@ -1437,7 +1795,9 @@
     "name": "KANGXI RADICAL SOUND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "звук"],
+    "concepts": []
   },
   {
     "cp": 12212,
@@ -1445,7 +1805,9 @@
     "name": "KANGXI RADICAL LEAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "лист"],
+    "concepts": []
   },
   {
     "cp": 12213,
@@ -1453,7 +1815,9 @@
     "name": "KANGXI RADICAL WIND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "ветер"],
+    "concepts": []
   },
   {
     "cp": 12214,
@@ -1461,7 +1825,9 @@
     "name": "KANGXI RADICAL FLY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "муха (летать)"],
+    "concepts": []
   },
   {
     "cp": 12215,
@@ -1469,7 +1835,9 @@
     "name": "KANGXI RADICAL EAT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "есть (еда)"],
+    "concepts": []
   },
   {
     "cp": 12216,
@@ -1477,7 +1845,9 @@
     "name": "KANGXI RADICAL HEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "голова"],
+    "concepts": []
   },
   {
     "cp": 12217,
@@ -1485,7 +1855,9 @@
     "name": "KANGXI RADICAL FRAGRANT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12218,
@@ -1493,7 +1865,9 @@
     "name": "KANGXI RADICAL HORSE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "лошадь"],
+    "concepts": []
   },
   {
     "cp": 12219,
@@ -1501,7 +1875,9 @@
     "name": "KANGXI RADICAL BONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "кость"],
+    "concepts": []
   },
   {
     "cp": 12220,
@@ -1509,7 +1885,9 @@
     "name": "KANGXI RADICAL TALL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "высокий"],
+    "concepts": []
   },
   {
     "cp": 12221,
@@ -1517,7 +1895,9 @@
     "name": "KANGXI RADICAL HAIR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "волос (тонкий)"],
+    "concepts": []
   },
   {
     "cp": 12222,
@@ -1525,7 +1905,9 @@
     "name": "KANGXI RADICAL FIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "драка"],
+    "concepts": []
   },
   {
     "cp": 12223,
@@ -1533,7 +1915,9 @@
     "name": "KANGXI RADICAL SACRIFICIAL WINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "вино"],
+    "concepts": []
   },
   {
     "cp": 12224,
@@ -1541,7 +1925,9 @@
     "name": "KANGXI RADICAL CAULDRON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "котёл (жертвенник)"],
+    "concepts": []
   },
   {
     "cp": 12225,
@@ -1549,7 +1935,9 @@
     "name": "KANGXI RADICAL GHOST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "привидение (призрак)"],
+    "concepts": []
   },
   {
     "cp": 12226,
@@ -1557,7 +1945,9 @@
     "name": "KANGXI RADICAL FISH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "рыба"],
+    "concepts": []
   },
   {
     "cp": 12227,
@@ -1565,7 +1955,9 @@
     "name": "KANGXI RADICAL BIRD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "птица"],
+    "concepts": []
   },
   {
     "cp": 12228,
@@ -1573,7 +1965,9 @@
     "name": "KANGXI RADICAL SALT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "соль"],
+    "concepts": []
   },
   {
     "cp": 12229,
@@ -1581,7 +1975,9 @@
     "name": "KANGXI RADICAL DEER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "олень"],
+    "concepts": []
   },
   {
     "cp": 12230,
@@ -1589,7 +1985,9 @@
     "name": "KANGXI RADICAL WHEAT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "пшеница"],
+    "concepts": []
   },
   {
     "cp": 12231,
@@ -1597,7 +1995,9 @@
     "name": "KANGXI RADICAL HEMP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12232,
@@ -1605,7 +2005,9 @@
     "name": "KANGXI RADICAL YELLOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "жёлтый"],
+    "concepts": []
   },
   {
     "cp": 12233,
@@ -1613,7 +2015,9 @@
     "name": "KANGXI RADICAL MILLET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12234,
@@ -1621,7 +2025,9 @@
     "name": "KANGXI RADICAL BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "чёрный (закрашенный)"],
+    "concepts": []
   },
   {
     "cp": 12235,
@@ -1629,7 +2035,9 @@
     "name": "KANGXI RADICAL EMBROIDERY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12236,
@@ -1637,7 +2045,9 @@
     "name": "KANGXI RADICAL FROG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "лягушка"],
+    "concepts": []
   },
   {
     "cp": 12237,
@@ -1645,7 +2055,9 @@
     "name": "KANGXI RADICAL TRIPOD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)"],
+    "concepts": []
   },
   {
     "cp": 12238,
@@ -1653,7 +2065,9 @@
     "name": "KANGXI RADICAL DRUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "барабан"],
+    "concepts": []
   },
   {
     "cp": 12239,
@@ -1661,7 +2075,9 @@
     "name": "KANGXI RADICAL RAT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "крыса"],
+    "concepts": []
   },
   {
     "cp": 12240,
@@ -1669,7 +2085,9 @@
     "name": "KANGXI RADICAL NOSE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "нос"],
+    "concepts": []
   },
   {
     "cp": 12241,
@@ -1677,7 +2095,9 @@
     "name": "KANGXI RADICAL EVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "чётный"],
+    "concepts": []
   },
   {
     "cp": 12242,
@@ -1685,7 +2105,9 @@
     "name": "KANGXI RADICAL TOOTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "зуб"],
+    "concepts": []
   },
   {
     "cp": 12243,
@@ -1693,7 +2115,9 @@
     "name": "KANGXI RADICAL DRAGON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "дракон"],
+    "concepts": []
   },
   {
     "cp": 12244,
@@ -1701,7 +2125,9 @@
     "name": "KANGXI RADICAL TURTLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "черепаха"],
+    "concepts": []
   },
   {
     "cp": 12245,
@@ -1709,6 +2135,8 @@
     "name": "KANGXI RADICAL FLUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["канси", "радикал (корень)", "флейта"],
+    "concepts": []
   }
 ]

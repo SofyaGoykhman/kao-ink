@@ -5,7 +5,9 @@
     "name": "BALINESE SIGN ULU RICEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "знак", "улу"],
+    "concepts": []
   },
   {
     "cp": 6913,
@@ -13,7 +15,9 @@
     "name": "BALINESE SIGN ULU CANDRA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "знак", "улу", "чандра"],
+    "concepts": []
   },
   {
     "cp": 6914,
@@ -21,7 +25,9 @@
     "name": "BALINESE SIGN CECEK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "знак"],
+    "concepts": []
   },
   {
     "cp": 6915,
@@ -29,7 +35,9 @@
     "name": "BALINESE SIGN SURANG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "знак"],
+    "concepts": []
   },
   {
     "cp": 6916,
@@ -37,7 +45,9 @@
     "name": "BALINESE SIGN BISAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "знак"],
+    "concepts": []
   },
   {
     "cp": 6917,
@@ -45,7 +55,9 @@
     "name": "BALINESE LETTER AKARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква"],
+    "concepts": []
   },
   {
     "cp": 6918,
@@ -53,7 +65,9 @@
     "name": "BALINESE LETTER AKARA TEDUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "тедунг"],
+    "concepts": []
   },
   {
     "cp": 6919,
@@ -61,7 +75,9 @@
     "name": "BALINESE LETTER IKARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква"],
+    "concepts": []
   },
   {
     "cp": 6920,
@@ -69,7 +85,9 @@
     "name": "BALINESE LETTER IKARA TEDUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "тедунг"],
+    "concepts": []
   },
   {
     "cp": 6921,
@@ -77,7 +95,9 @@
     "name": "BALINESE LETTER UKARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква"],
+    "concepts": []
   },
   {
     "cp": 6922,
@@ -85,7 +105,9 @@
     "name": "BALINESE LETTER UKARA TEDUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "тедунг"],
+    "concepts": []
   },
   {
     "cp": 6923,
@@ -93,7 +115,9 @@
     "name": "BALINESE LETTER RA REPA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "ра", "репа"],
+    "concepts": []
   },
   {
     "cp": 6924,
@@ -101,7 +125,9 @@
     "name": "BALINESE LETTER RA REPA TEDUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "ра", "репа", "тедунг"],
+    "concepts": []
   },
   {
     "cp": 6925,
@@ -109,7 +135,9 @@
     "name": "BALINESE LETTER LA LENGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "ла", "ленга"],
+    "concepts": []
   },
   {
     "cp": 6926,
@@ -117,7 +145,9 @@
     "name": "BALINESE LETTER LA LENGA TEDUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "ла", "ленга", "тедунг"],
+    "concepts": []
   },
   {
     "cp": 6927,
@@ -125,7 +155,9 @@
     "name": "BALINESE LETTER EKARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква"],
+    "concepts": []
   },
   {
     "cp": 6928,
@@ -133,7 +165,9 @@
     "name": "BALINESE LETTER AIKARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква"],
+    "concepts": []
   },
   {
     "cp": 6929,
@@ -141,7 +175,9 @@
     "name": "BALINESE LETTER OKARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква"],
+    "concepts": []
   },
   {
     "cp": 6930,
@@ -149,7 +185,9 @@
     "name": "BALINESE LETTER OKARA TEDUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "тедунг"],
+    "concepts": []
   },
   {
     "cp": 6931,
@@ -157,7 +195,9 @@
     "name": "BALINESE LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 6932,
@@ -165,7 +205,9 @@
     "name": "BALINESE LETTER KA MAHAPRANA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "ка", "махапрана"],
+    "concepts": []
   },
   {
     "cp": 6933,
@@ -173,7 +215,9 @@
     "name": "BALINESE LETTER GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "га"],
+    "concepts": []
   },
   {
     "cp": 6934,
@@ -181,7 +225,9 @@
     "name": "BALINESE LETTER GA GORA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "га"],
+    "concepts": []
   },
   {
     "cp": 6935,
@@ -189,7 +235,9 @@
     "name": "BALINESE LETTER NGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "нга"],
+    "concepts": []
   },
   {
     "cp": 6936,
@@ -197,7 +245,9 @@
     "name": "BALINESE LETTER CA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 6937,
@@ -205,7 +255,9 @@
     "name": "BALINESE LETTER CA LACA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 6938,
@@ -213,7 +265,9 @@
     "name": "BALINESE LETTER JA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "джа"],
+    "concepts": []
   },
   {
     "cp": 6939,
@@ -221,7 +275,9 @@
     "name": "BALINESE LETTER JA JERA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "джа"],
+    "concepts": []
   },
   {
     "cp": 6940,
@@ -229,7 +285,9 @@
     "name": "BALINESE LETTER NYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "ня"],
+    "concepts": []
   },
   {
     "cp": 6941,
@@ -237,7 +295,9 @@
     "name": "BALINESE LETTER TA LATIK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 6942,
@@ -245,7 +305,9 @@
     "name": "BALINESE LETTER TA MURDA MAHAPRANA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "та", "мурда", "махапрана"],
+    "concepts": []
   },
   {
     "cp": 6943,
@@ -253,7 +315,9 @@
     "name": "BALINESE LETTER DA MURDA ALPAPRANA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "да", "мурда"],
+    "concepts": []
   },
   {
     "cp": 6944,
@@ -261,7 +325,9 @@
     "name": "BALINESE LETTER DA MURDA MAHAPRANA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "да", "мурда", "махапрана"],
+    "concepts": []
   },
   {
     "cp": 6945,
@@ -269,7 +335,9 @@
     "name": "BALINESE LETTER NA RAMBAT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 6946,
@@ -277,7 +345,9 @@
     "name": "BALINESE LETTER TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 6947,
@@ -285,7 +355,9 @@
     "name": "BALINESE LETTER TA TAWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 6948,
@@ -293,7 +365,9 @@
     "name": "BALINESE LETTER DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "да"],
+    "concepts": []
   },
   {
     "cp": 6949,
@@ -301,7 +375,9 @@
     "name": "BALINESE LETTER DA MADU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "да"],
+    "concepts": []
   },
   {
     "cp": 6950,
@@ -309,7 +385,9 @@
     "name": "BALINESE LETTER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 6951,
@@ -317,7 +395,9 @@
     "name": "BALINESE LETTER PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "па"],
+    "concepts": []
   },
   {
     "cp": 6952,
@@ -325,7 +405,9 @@
     "name": "BALINESE LETTER PA KAPAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "па"],
+    "concepts": []
   },
   {
     "cp": 6953,
@@ -333,7 +415,9 @@
     "name": "BALINESE LETTER BA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "ба"],
+    "concepts": []
   },
   {
     "cp": 6954,
@@ -341,7 +425,9 @@
     "name": "BALINESE LETTER BA KEMBANG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "ба"],
+    "concepts": []
   },
   {
     "cp": 6955,
@@ -349,7 +435,9 @@
     "name": "BALINESE LETTER MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 6956,
@@ -357,7 +445,9 @@
     "name": "BALINESE LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 6957,
@@ -365,7 +455,9 @@
     "name": "BALINESE LETTER RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 6958,
@@ -373,7 +465,9 @@
     "name": "BALINESE LETTER LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "ла"],
+    "concepts": []
   },
   {
     "cp": 6959,
@@ -381,7 +475,9 @@
     "name": "BALINESE LETTER WA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "ва"],
+    "concepts": []
   },
   {
     "cp": 6960,
@@ -389,7 +485,9 @@
     "name": "BALINESE LETTER SA SAGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 6961,
@@ -397,7 +495,9 @@
     "name": "BALINESE LETTER SA SAPA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 6962,
@@ -405,7 +505,9 @@
     "name": "BALINESE LETTER SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 6963,
@@ -413,7 +515,9 @@
     "name": "BALINESE LETTER HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 6964,
@@ -421,7 +525,9 @@
     "name": "BALINESE SIGN REREKAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "знак"],
+    "concepts": []
   },
   {
     "cp": 6965,
@@ -429,7 +535,9 @@
     "name": "BALINESE VOWEL SIGN TEDUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "гласная", "знак", "тедунг"],
+    "concepts": []
   },
   {
     "cp": 6966,
@@ -437,7 +545,9 @@
     "name": "BALINESE VOWEL SIGN ULU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "гласная", "знак", "улу"],
+    "concepts": []
   },
   {
     "cp": 6967,
@@ -445,7 +555,9 @@
     "name": "BALINESE VOWEL SIGN ULU SARI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "гласная", "знак", "улу", "сари"],
+    "concepts": []
   },
   {
     "cp": 6968,
@@ -453,7 +565,9 @@
     "name": "BALINESE VOWEL SIGN SUKU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "гласная", "знак", "суку"],
+    "concepts": []
   },
   {
     "cp": 6969,
@@ -461,7 +575,9 @@
     "name": "BALINESE VOWEL SIGN SUKU ILUT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "гласная", "знак", "суку"],
+    "concepts": []
   },
   {
     "cp": 6970,
@@ -469,7 +585,9 @@
     "name": "BALINESE VOWEL SIGN RA REPA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "гласная", "знак", "ра", "репа"],
+    "concepts": []
   },
   {
     "cp": 6971,
@@ -477,7 +595,9 @@
     "name": "BALINESE VOWEL SIGN RA REPA TEDUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "гласная", "знак", "ра", "репа", "тедунг"],
+    "concepts": []
   },
   {
     "cp": 6972,
@@ -485,7 +605,9 @@
     "name": "BALINESE VOWEL SIGN LA LENGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "гласная", "знак", "ла", "ленга"],
+    "concepts": []
   },
   {
     "cp": 6973,
@@ -493,7 +615,9 @@
     "name": "BALINESE VOWEL SIGN LA LENGA TEDUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "гласная", "знак", "ла", "ленга", "тедунг"],
+    "concepts": []
   },
   {
     "cp": 6974,
@@ -501,7 +625,9 @@
     "name": "BALINESE VOWEL SIGN TALING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "гласная", "знак", "талинг"],
+    "concepts": []
   },
   {
     "cp": 6975,
@@ -509,7 +635,9 @@
     "name": "BALINESE VOWEL SIGN TALING REPA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "гласная", "знак", "талинг", "репа"],
+    "concepts": []
   },
   {
     "cp": 6976,
@@ -517,7 +645,9 @@
     "name": "BALINESE VOWEL SIGN TALING TEDUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "гласная", "знак", "талинг", "тедунг"],
+    "concepts": []
   },
   {
     "cp": 6977,
@@ -525,7 +655,9 @@
     "name": "BALINESE VOWEL SIGN TALING REPA TEDUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "гласная", "знак", "талинг", "репа", "тедунг"],
+    "concepts": []
   },
   {
     "cp": 6978,
@@ -533,7 +665,9 @@
     "name": "BALINESE VOWEL SIGN PEPET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "гласная", "знак", "пепет"],
+    "concepts": []
   },
   {
     "cp": 6979,
@@ -541,7 +675,9 @@
     "name": "BALINESE VOWEL SIGN PEPET TEDUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "гласная", "знак", "пепет", "тедунг"],
+    "concepts": []
   },
   {
     "cp": 6980,
@@ -549,7 +685,9 @@
     "name": "BALINESE ADEG ADEG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "адег"],
+    "concepts": []
   },
   {
     "cp": 6981,
@@ -557,7 +695,9 @@
     "name": "BALINESE LETTER KAF SASAK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "каф", "сасак"],
+    "concepts": []
   },
   {
     "cp": 6982,
@@ -565,7 +705,9 @@
     "name": "BALINESE LETTER KHOT SASAK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "сасак"],
+    "concepts": []
   },
   {
     "cp": 6983,
@@ -573,7 +715,9 @@
     "name": "BALINESE LETTER TZIR SASAK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "сасак"],
+    "concepts": []
   },
   {
     "cp": 6984,
@@ -581,7 +725,9 @@
     "name": "BALINESE LETTER EF SASAK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "эф", "сасак"],
+    "concepts": []
   },
   {
     "cp": 6985,
@@ -589,7 +735,9 @@
     "name": "BALINESE LETTER VE SASAK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "ве", "сасак"],
+    "concepts": []
   },
   {
     "cp": 6986,
@@ -597,7 +745,9 @@
     "name": "BALINESE LETTER ZAL SASAK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "зал", "сасак"],
+    "concepts": []
   },
   {
     "cp": 6987,
@@ -605,7 +755,9 @@
     "name": "BALINESE LETTER ASYURA SASAK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "сасак"],
+    "concepts": []
   },
   {
     "cp": 6988,
@@ -613,7 +765,9 @@
     "name": "BALINESE LETTER ARCHAIC JNYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "буква", "архаичный", "джня"],
+    "concepts": []
   },
   {
     "cp": 6990,
@@ -621,7 +775,9 @@
     "name": "BALINESE INVERTED CARIK SIKI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "перевёрнутый", "карик", "сики"],
+    "concepts": []
   },
   {
     "cp": 6991,
@@ -629,7 +785,9 @@
     "name": "BALINESE INVERTED CARIK PAREREN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "перевёрнутый", "карик"],
+    "concepts": []
   },
   {
     "cp": 6992,
@@ -637,7 +795,9 @@
     "name": "BALINESE DIGIT ZERO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "цифра", "ноль"],
+    "concepts": []
   },
   {
     "cp": 6993,
@@ -645,7 +805,9 @@
     "name": "BALINESE DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "цифра", "один"],
+    "concepts": []
   },
   {
     "cp": 6994,
@@ -653,7 +815,9 @@
     "name": "BALINESE DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "цифра", "два"],
+    "concepts": []
   },
   {
     "cp": 6995,
@@ -661,7 +825,9 @@
     "name": "BALINESE DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "цифра", "три"],
+    "concepts": []
   },
   {
     "cp": 6996,
@@ -669,7 +835,9 @@
     "name": "BALINESE DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "цифра", "четыре"],
+    "concepts": []
   },
   {
     "cp": 6997,
@@ -677,7 +845,9 @@
     "name": "BALINESE DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "цифра", "пять"],
+    "concepts": []
   },
   {
     "cp": 6998,
@@ -685,7 +855,9 @@
     "name": "BALINESE DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "цифра", "шесть"],
+    "concepts": []
   },
   {
     "cp": 6999,
@@ -693,7 +865,9 @@
     "name": "BALINESE DIGIT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "цифра", "семь"],
+    "concepts": []
   },
   {
     "cp": 7000,
@@ -701,7 +875,9 @@
     "name": "BALINESE DIGIT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "цифра", "восемь"],
+    "concepts": []
   },
   {
     "cp": 7001,
@@ -709,7 +885,9 @@
     "name": "BALINESE DIGIT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "цифра", "девять"],
+    "concepts": []
   },
   {
     "cp": 7002,
@@ -717,7 +895,9 @@
     "name": "BALINESE PANTI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "панти"],
+    "concepts": []
   },
   {
     "cp": 7003,
@@ -725,7 +905,9 @@
     "name": "BALINESE PAMADA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский"],
+    "concepts": []
   },
   {
     "cp": 7004,
@@ -733,7 +915,9 @@
     "name": "BALINESE WINDU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский"],
+    "concepts": []
   },
   {
     "cp": 7005,
@@ -741,7 +925,9 @@
     "name": "BALINESE CARIK PAMUNGKAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "карик"],
+    "concepts": []
   },
   {
     "cp": 7006,
@@ -749,7 +935,9 @@
     "name": "BALINESE CARIK SIKI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "карик", "сики"],
+    "concepts": []
   },
   {
     "cp": 7007,
@@ -757,7 +945,9 @@
     "name": "BALINESE CARIK PAREREN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "карик"],
+    "concepts": []
   },
   {
     "cp": 7008,
@@ -765,7 +955,9 @@
     "name": "BALINESE PAMENENG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский"],
+    "concepts": []
   },
   {
     "cp": 7009,
@@ -773,7 +965,9 @@
     "name": "BALINESE MUSICAL SYMBOL DONG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "донг"],
+    "concepts": []
   },
   {
     "cp": 7010,
@@ -781,7 +975,9 @@
     "name": "BALINESE MUSICAL SYMBOL DENG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ"],
+    "concepts": []
   },
   {
     "cp": 7011,
@@ -789,7 +985,9 @@
     "name": "BALINESE MUSICAL SYMBOL DUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "навоз"],
+    "concepts": []
   },
   {
     "cp": 7012,
@@ -797,7 +995,9 @@
     "name": "BALINESE MUSICAL SYMBOL DANG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "данг"],
+    "concepts": []
   },
   {
     "cp": 7013,
@@ -805,7 +1005,9 @@
     "name": "BALINESE MUSICAL SYMBOL DANG SURANG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "данг"],
+    "concepts": []
   },
   {
     "cp": 7014,
@@ -813,7 +1015,9 @@
     "name": "BALINESE MUSICAL SYMBOL DING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ"],
+    "concepts": []
   },
   {
     "cp": 7015,
@@ -821,7 +1025,9 @@
     "name": "BALINESE MUSICAL SYMBOL DAENG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ"],
+    "concepts": []
   },
   {
     "cp": 7016,
@@ -829,7 +1035,9 @@
     "name": "BALINESE MUSICAL SYMBOL DEUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ"],
+    "concepts": []
   },
   {
     "cp": 7017,
@@ -837,7 +1045,9 @@
     "name": "BALINESE MUSICAL SYMBOL DAING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ"],
+    "concepts": []
   },
   {
     "cp": 7018,
@@ -845,7 +1055,9 @@
     "name": "BALINESE MUSICAL SYMBOL DANG GEDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "данг"],
+    "concepts": []
   },
   {
     "cp": 7019,
@@ -853,7 +1065,9 @@
     "name": "BALINESE MUSICAL SYMBOL COMBINING TEGEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "комбинируемый"],
+    "concepts": []
   },
   {
     "cp": 7020,
@@ -861,7 +1075,9 @@
     "name": "BALINESE MUSICAL SYMBOL COMBINING ENDEP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "комбинируемый"],
+    "concepts": []
   },
   {
     "cp": 7021,
@@ -869,7 +1085,9 @@
     "name": "BALINESE MUSICAL SYMBOL COMBINING KEMPUL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "комбинируемый"],
+    "concepts": []
   },
   {
     "cp": 7022,
@@ -877,7 +1095,9 @@
     "name": "BALINESE MUSICAL SYMBOL COMBINING KEMPLI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "комбинируемый"],
+    "concepts": []
   },
   {
     "cp": 7023,
@@ -885,7 +1105,9 @@
     "name": "BALINESE MUSICAL SYMBOL COMBINING JEGOGAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "комбинируемый", "джегоган"],
+    "concepts": []
   },
   {
     "cp": 7024,
@@ -893,7 +1115,9 @@
     "name": "BALINESE MUSICAL SYMBOL COMBINING KEMPUL WITH JEGOGAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "комбинируемый", "с", "джегоган"],
+    "concepts": []
   },
   {
     "cp": 7025,
@@ -901,7 +1125,9 @@
     "name": "BALINESE MUSICAL SYMBOL COMBINING KEMPLI WITH JEGOGAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "комбинируемый", "с", "джегоган"],
+    "concepts": []
   },
   {
     "cp": 7026,
@@ -909,7 +1135,9 @@
     "name": "BALINESE MUSICAL SYMBOL COMBINING BENDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "комбинируемый"],
+    "concepts": []
   },
   {
     "cp": 7027,
@@ -917,7 +1145,9 @@
     "name": "BALINESE MUSICAL SYMBOL COMBINING GONG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "комбинируемый"],
+    "concepts": []
   },
   {
     "cp": 7028,
@@ -925,7 +1155,9 @@
     "name": "BALINESE MUSICAL SYMBOL RIGHT-HAND OPEN DUG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "правый (вправо)", "рука", "открытый", "дуг"],
+    "concepts": []
   },
   {
     "cp": 7029,
@@ -933,7 +1165,9 @@
     "name": "BALINESE MUSICAL SYMBOL RIGHT-HAND OPEN DAG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "правый (вправо)", "рука", "открытый", "даг"],
+    "concepts": []
   },
   {
     "cp": 7030,
@@ -941,7 +1175,9 @@
     "name": "BALINESE MUSICAL SYMBOL RIGHT-HAND CLOSED TUK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "правый (вправо)", "рука", "закрытый"],
+    "concepts": []
   },
   {
     "cp": 7031,
@@ -949,7 +1185,9 @@
     "name": "BALINESE MUSICAL SYMBOL RIGHT-HAND CLOSED TAK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "правый (вправо)", "рука", "закрытый"],
+    "concepts": []
   },
   {
     "cp": 7032,
@@ -957,7 +1195,9 @@
     "name": "BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PANG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "левый (влево)", "рука", "открытый"],
+    "concepts": []
   },
   {
     "cp": 7033,
@@ -965,7 +1205,9 @@
     "name": "BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "левый (влево)", "рука", "открытый"],
+    "concepts": []
   },
   {
     "cp": 7034,
@@ -973,7 +1215,9 @@
     "name": "BALINESE MUSICAL SYMBOL LEFT-HAND CLOSED PLAK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "левый (влево)", "рука", "закрытый"],
+    "concepts": []
   },
   {
     "cp": 7035,
@@ -981,7 +1225,9 @@
     "name": "BALINESE MUSICAL SYMBOL LEFT-HAND CLOSED PLUK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "левый (влево)", "рука", "закрытый"],
+    "concepts": []
   },
   {
     "cp": 7036,
@@ -989,7 +1235,9 @@
     "name": "BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "музыкальный", "символ", "левый (влево)", "рука", "открытый", "пинг"],
+    "concepts": []
   },
   {
     "cp": 7037,
@@ -997,7 +1245,9 @@
     "name": "BALINESE PANTI LANTANG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "панти"],
+    "concepts": []
   },
   {
     "cp": 7038,
@@ -1005,7 +1255,9 @@
     "name": "BALINESE PAMADA LANTANG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский"],
+    "concepts": []
   },
   {
     "cp": 7039,
@@ -1013,6 +1265,8 @@
     "name": "BALINESE PANTI BAWAK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["балийский", "панти"],
+    "concepts": []
   }
 ]

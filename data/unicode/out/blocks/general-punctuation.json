@@ -5,7 +5,9 @@
     "name": "EN QUAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["короткое (en)", "четверной"],
+    "concepts": []
   },
   {
     "cp": 8193,
@@ -13,7 +15,9 @@
     "name": "EM QUAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["круглая (em)", "четверной"],
+    "concepts": []
   },
   {
     "cp": 8194,
@@ -21,7 +25,9 @@
     "name": "EN SPACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["короткое (en)", "пробел"],
+    "concepts": []
   },
   {
     "cp": 8195,
@@ -29,7 +35,9 @@
     "name": "EM SPACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["круглая (em)", "пробел"],
+    "concepts": []
   },
   {
     "cp": 8196,
@@ -37,7 +45,9 @@
     "name": "THREE-PER-EM SPACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["три", "на (per)", "круглая (em)", "пробел"],
+    "concepts": []
   },
   {
     "cp": 8197,
@@ -45,7 +55,9 @@
     "name": "FOUR-PER-EM SPACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["четыре", "на (per)", "круглая (em)", "пробел"],
+    "concepts": []
   },
   {
     "cp": 8198,
@@ -53,7 +65,9 @@
     "name": "SIX-PER-EM SPACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шесть", "на (per)", "круглая (em)", "пробел"],
+    "concepts": []
   },
   {
     "cp": 8199,
@@ -61,7 +75,9 @@
     "name": "FIGURE SPACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фигура", "пробел"],
+    "concepts": []
   },
   {
     "cp": 8200,
@@ -69,7 +85,9 @@
     "name": "PUNCTUATION SPACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["пунктуация", "пробел"],
+    "concepts": []
   },
   {
     "cp": 8201,
@@ -77,7 +95,9 @@
     "name": "THIN SPACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тонкий", "пробел"],
+    "concepts": []
   },
   {
     "cp": 8202,
@@ -85,7 +105,9 @@
     "name": "HAIR SPACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["волос (тонкий)", "пробел"],
+    "concepts": []
   },
   {
     "cp": 8203,
@@ -93,7 +115,9 @@
     "name": "ZERO WIDTH SPACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ноль", "ширина", "пробел"],
+    "concepts": []
   },
   {
     "cp": 8204,
@@ -101,7 +125,9 @@
     "name": "ZERO WIDTH NON-JOINER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ноль", "ширина", "не", "соединитель"],
+    "concepts": []
   },
   {
     "cp": 8205,
@@ -109,7 +135,9 @@
     "name": "ZERO WIDTH JOINER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ноль", "ширина", "соединитель"],
+    "concepts": []
   },
   {
     "cp": 8206,
@@ -117,7 +145,9 @@
     "name": "LEFT-TO-RIGHT MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "к", "правый (вправо)", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 8207,
@@ -125,7 +155,9 @@
     "name": "RIGHT-TO-LEFT MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "к", "левый (влево)", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 8208,
@@ -133,7 +165,9 @@
     "name": "HYPHEN",
     "ru": "дефис",
     "en": "hyphen",
-    "keywords": { "ru": ["дефис", "тире", "черточка"], "en": ["dash", "hyphen"] }
+    "keywords": { "ru": ["дефис", "тире", "черточка"], "en": ["dash", "hyphen"] },
+    "desc": ["дефис"],
+    "concepts": []
   },
   {
     "cp": 8209,
@@ -141,7 +175,9 @@
     "name": "NON-BREAKING HYPHEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "разрывный", "дефис"],
+    "concepts": []
   },
   {
     "cp": 8210,
@@ -149,7 +185,9 @@
     "name": "FIGURE DASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фигура", "тире"],
+    "concepts": []
   },
   {
     "cp": 8211,
@@ -157,7 +195,9 @@
     "name": "EN DASH",
     "ru": "среднее тире",
     "en": "en dash",
-    "keywords": { "ru": ["среднее", "тире"], "en": ["dash", "en"] }
+    "keywords": { "ru": ["среднее", "тире"], "en": ["dash", "en"] },
+    "desc": ["короткое (en)", "тире"],
+    "concepts": []
   },
   {
     "cp": 8212,
@@ -165,7 +205,9 @@
     "name": "EM DASH",
     "ru": "длинное тире",
     "en": "em dash",
-    "keywords": { "ru": ["длинное", "тире"], "en": ["dash", "em"] }
+    "keywords": { "ru": ["длинное", "тире"], "en": ["dash", "em"] },
+    "desc": ["круглая (em)", "тире"],
+    "concepts": []
   },
   {
     "cp": 8213,
@@ -176,7 +218,9 @@
     "keywords": {
       "ru": ["горизонтальная линия", "горизонтальная полоса", "линия", "тире"],
       "en": ["bar", "dash", "horizontal", "line"]
-    }
+    },
+    "desc": ["горизонтальный", "черта"],
+    "concepts": []
   },
   {
     "cp": 8214,
@@ -184,7 +228,9 @@
     "name": "DOUBLE VERTICAL LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["двойной", "вертикальный", "линия"],
+    "concepts": []
   },
   {
     "cp": 8215,
@@ -192,7 +238,9 @@
     "name": "DOUBLE LOW LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["двойной", "низкий", "линия"],
+    "concepts": []
   },
   {
     "cp": 8216,
@@ -209,7 +257,9 @@
         "открывающая одинарная кавычка"
       ],
       "en": ["apostrophe", "left", "quote", "single", "smart"]
-    }
+    },
+    "desc": ["левый (влево)", "одинарный", "кавычка", "метка (знак)"],
+    "concepts": ["rain"]
   },
   {
     "cp": 8217,
@@ -226,7 +276,9 @@
         "одинарная кавычка"
       ],
       "en": ["apostrophe", "quote", "right", "single", "smart"]
-    }
+    },
+    "desc": ["правый (вправо)", "одинарный", "кавычка", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 8218,
@@ -244,7 +296,9 @@
         "одинарная кавычка"
       ],
       "en": ["apostrophe", "low", "quote", "right"]
-    }
+    },
+    "desc": ["одинарный", "низкий", "кавычка", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 8219,
@@ -252,7 +306,9 @@
     "name": "SINGLE HIGH-REVERSED-9 QUOTATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["одинарный", "высокий", "зеркальный (обратный)", "кавычка", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 8220,
@@ -263,7 +319,9 @@
     "keywords": {
       "ru": ["двойная кавычка", "кавычка", "открывающая двойная кавычка", "открывающая кавычка"],
       "en": ["double", "left", "mark", "quotation", "quote", "smart"]
-    }
+    },
+    "desc": ["левый (влево)", "двойной", "кавычка", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 8221,
@@ -274,7 +332,9 @@
     "keywords": {
       "ru": ["двойная кавычка", "закрывающая двойная кавычка", "закрывающая кавычка", "кавычка"],
       "en": ["double", "mark", "quotation", "quote", "right", "smart"]
-    }
+    },
+    "desc": ["правый (вправо)", "двойной", "кавычка", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 8222,
@@ -291,7 +351,9 @@
         "нижняя кавычка"
       ],
       "en": ["double", "low", "mark", "quotation", "quote", "right", "smart"]
-    }
+    },
+    "desc": ["двойной", "низкий", "кавычка", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 8223,
@@ -299,7 +361,9 @@
     "name": "DOUBLE HIGH-REVERSED-9 QUOTATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["двойной", "высокий", "зеркальный (обратный)", "кавычка", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 8224,
@@ -310,7 +374,9 @@
     "keywords": {
       "ru": ["даггер", "крестик", "обелиск", "типографский крестик"],
       "en": ["dagger", "obelisk", "obelus", "sign"]
-    }
+    },
+    "desc": ["кинжал (крестик сноски)"],
+    "concepts": []
   },
   {
     "cp": 8225,
@@ -321,7 +387,9 @@
     "keywords": {
       "ru": ["даггер", "двойной", "крестик", "обелиск"],
       "en": ["dagger", "double", "obelisk", "obelus", "sign"]
-    }
+    },
+    "desc": ["двойной", "кинжал (крестик сноски)"],
+    "concepts": []
   },
   {
     "cp": 8226,
@@ -339,7 +407,9 @@
         "пункт списка"
       ],
       "en": ["bullet", "dot"]
-    }
+    },
+    "desc": ["маркер списка (точка)"],
+    "concepts": []
   },
   {
     "cp": 8227,
@@ -347,7 +417,9 @@
     "name": "TRIANGULAR BULLET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["треугольный", "маркер списка (точка)"],
+    "concepts": []
   },
   {
     "cp": 8228,
@@ -355,7 +427,9 @@
     "name": "ONE DOT LEADER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["один", "точка", "отточие"],
+    "concepts": []
   },
   {
     "cp": 8229,
@@ -363,7 +437,9 @@
     "name": "TWO DOT LEADER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["два", "точка", "отточие"],
+    "concepts": []
   },
   {
     "cp": 8230,
@@ -371,7 +447,12 @@
     "name": "HORIZONTAL ELLIPSIS",
     "ru": "многоточие",
     "en": "ellipsis",
-    "keywords": { "ru": ["многоточие", "отточие", "точки"], "en": ["dots", "ellipsis", "omission"] }
+    "keywords": {
+      "ru": ["многоточие", "отточие", "точки"],
+      "en": ["dots", "ellipsis", "omission"]
+    },
+    "desc": ["горизонтальный", "многоточие"],
+    "concepts": []
   },
   {
     "cp": 8231,
@@ -382,7 +463,9 @@
     "keywords": {
       "ru": ["дефис", "перенос", "точка", "точка переноса"],
       "en": ["dash", "hyphen", "hyphenation", "point"]
-    }
+    },
+    "desc": ["перенос", "точка (кончик)"],
+    "concepts": ["sparkle"]
   },
   {
     "cp": 8232,
@@ -390,7 +473,9 @@
     "name": "LINE SEPARATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линия", "разделитель"],
+    "concepts": []
   },
   {
     "cp": 8233,
@@ -398,7 +483,9 @@
     "name": "PARAGRAPH SEPARATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["абзац", "разделитель"],
+    "concepts": []
   },
   {
     "cp": 8234,
@@ -406,7 +493,9 @@
     "name": "LEFT-TO-RIGHT EMBEDDING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "к", "правый (вправо)", "встраивание"],
+    "concepts": []
   },
   {
     "cp": 8235,
@@ -414,7 +503,9 @@
     "name": "RIGHT-TO-LEFT EMBEDDING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "к", "левый (влево)", "встраивание"],
+    "concepts": []
   },
   {
     "cp": 8236,
@@ -422,7 +513,9 @@
     "name": "POP DIRECTIONAL FORMATTING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["снятие (pop)", "направленный", "форматирование"],
+    "concepts": []
   },
   {
     "cp": 8237,
@@ -430,7 +523,9 @@
     "name": "LEFT-TO-RIGHT OVERRIDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "к", "правый (вправо)", "переопределение"],
+    "concepts": []
   },
   {
     "cp": 8238,
@@ -438,7 +533,9 @@
     "name": "RIGHT-TO-LEFT OVERRIDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "к", "левый (влево)", "переопределение"],
+    "concepts": []
   },
   {
     "cp": 8239,
@@ -446,7 +543,9 @@
     "name": "NARROW NO-BREAK SPACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["узкий", "нет", "разрыв", "пробел"],
+    "concepts": []
   },
   {
     "cp": 8240,
@@ -457,7 +556,9 @@
     "keywords": {
       "ru": ["миллионная доля", "промилле"],
       "en": ["mil", "mille", "per", "permil", "permille"]
-    }
+    },
+    "desc": ["на (per)", "промилле", "знак"],
+    "concepts": []
   },
   {
     "cp": 8241,
@@ -465,7 +566,9 @@
     "name": "PER TEN THOUSAND SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["на (per)", "десять", "тысяча", "знак"],
+    "concepts": []
   },
   {
     "cp": 8242,
@@ -473,7 +576,9 @@
     "name": "PRIME",
     "ru": "штрих",
     "en": "prime",
-    "keywords": { "ru": ["прим", "штрих"], "en": ["prime"] }
+    "keywords": { "ru": ["прим", "штрих"], "en": ["prime"] },
+    "desc": ["штрих"],
+    "concepts": []
   },
   {
     "cp": 8243,
@@ -481,7 +586,9 @@
     "name": "DOUBLE PRIME",
     "ru": "двойной штрих",
     "en": "double prime",
-    "keywords": { "ru": ["двойной", "прим", "штрих"], "en": ["double", "prime"] }
+    "keywords": { "ru": ["двойной", "прим", "штрих"], "en": ["double", "prime"] },
+    "desc": ["двойной", "штрих"],
+    "concepts": []
   },
   {
     "cp": 8244,
@@ -489,7 +596,9 @@
     "name": "TRIPLE PRIME",
     "ru": "тройной штрих",
     "en": "triple prime",
-    "keywords": { "ru": ["прим", "тройной", "штрих"], "en": ["prime", "triple"] }
+    "keywords": { "ru": ["прим", "тройной", "штрих"], "en": ["prime", "triple"] },
+    "desc": ["тройной", "штрих"],
+    "concepts": []
   },
   {
     "cp": 8245,
@@ -497,7 +606,9 @@
     "name": "REVERSED PRIME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["зеркальный (обратный)", "штрих"],
+    "concepts": []
   },
   {
     "cp": 8246,
@@ -505,7 +616,9 @@
     "name": "REVERSED DOUBLE PRIME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["зеркальный (обратный)", "двойной", "штрих"],
+    "concepts": []
   },
   {
     "cp": 8247,
@@ -513,7 +626,9 @@
     "name": "REVERSED TRIPLE PRIME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["зеркальный (обратный)", "тройной", "штрих"],
+    "concepts": []
   },
   {
     "cp": 8248,
@@ -521,7 +636,9 @@
     "name": "CARET",
     "ru": "карет",
     "en": "caret",
-    "keywords": { "ru": ["знак вставки", "карет"], "en": ["caret"] }
+    "keywords": { "ru": ["знак вставки", "карет"], "en": ["caret"] },
+    "desc": ["каретка"],
+    "concepts": []
   },
   {
     "cp": 8249,
@@ -529,7 +646,9 @@
     "name": "SINGLE LEFT-POINTING ANGLE QUOTATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["одинарный", "левый (влево)", "указывающий", "угол", "кавычка", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 8250,
@@ -537,7 +656,9 @@
     "name": "SINGLE RIGHT-POINTING ANGLE QUOTATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["одинарный", "правый (вправо)", "указывающий", "угол", "кавычка", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 8251,
@@ -545,7 +666,9 @@
     "name": "REFERENCE MARK",
     "ru": "знак сноски",
     "en": "reference mark",
-    "keywords": { "ru": ["знак", "знак сноски", "сноска"], "en": ["mark", "reference"] }
+    "keywords": { "ru": ["знак", "знак сноски", "сноска"], "en": ["mark", "reference"] },
+    "desc": ["сноска (ссылка)", "метка (знак)"],
+    "concepts": ["asterisk", "asterism", "snow"]
   },
   {
     "cp": 8252,
@@ -566,7 +689,9 @@
         "пунктуация"
       ],
       "en": ["!", "!!", "bangbang", "double", "exclamation", "mark", "punctuation"]
-    }
+    },
+    "desc": ["двойной", "восклицательный", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 8253,
@@ -574,7 +699,9 @@
     "name": "INTERROBANG",
     "ru": "интерробанг",
     "en": "interrobang",
-    "keywords": { "ru": ["интерробанг"], "en": ["interabang", "interrobang"] }
+    "keywords": { "ru": ["интерробанг"], "en": ["interabang", "interrobang"] },
+    "desc": ["интерробанг (?!)"],
+    "concepts": []
   },
   {
     "cp": 8254,
@@ -582,7 +709,9 @@
     "name": "OVERLINE",
     "ru": "надчеркивание",
     "en": "overline",
-    "keywords": { "ru": ["надчеркивание"], "en": ["overline", "overstrike", "vinculum"] }
+    "keywords": { "ru": ["надчеркивание"], "en": ["overline", "overstrike", "vinculum"] },
+    "desc": ["надчёркивание"],
+    "concepts": []
   },
   {
     "cp": 8255,
@@ -590,7 +719,9 @@
     "name": "UNDERTIE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижняя лига"],
+    "concepts": ["water", "wave"]
   },
   {
     "cp": 8256,
@@ -598,7 +729,9 @@
     "name": "CHARACTER TIE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "лига (галстук)"],
+    "concepts": ["rainbow", "water", "wave"]
   },
   {
     "cp": 8257,
@@ -606,7 +739,9 @@
     "name": "CARET INSERTION POINT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каретка", "вставка", "точка (кончик)"],
+    "concepts": []
   },
   {
     "cp": 8258,
@@ -614,7 +749,18 @@
     "name": "ASTERISM",
     "ru": "астеризм",
     "en": "asterism",
-    "keywords": { "ru": ["астеризм", "три звездочки"], "en": ["asterism", "dinkus", "stars"] }
+    "keywords": { "ru": ["астеризм", "три звездочки"], "en": ["asterism", "dinkus", "stars"] },
+    "desc": ["астеризм (три звёздочки)"],
+    "concepts": [
+      "star",
+      "sparkle",
+      "asterisk",
+      "asterism",
+      "constellation",
+      "flower",
+      "weather",
+      "snow"
+    ]
   },
   {
     "cp": 8259,
@@ -622,7 +768,9 @@
     "name": "HYPHEN BULLET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["дефис", "маркер списка (точка)"],
+    "concepts": []
   },
   {
     "cp": 8260,
@@ -633,7 +781,9 @@
     "keywords": {
       "ru": ["дробная наклонная черта"],
       "en": ["fraction", "slash", "stroke", "virgule"]
-    }
+    },
+    "desc": ["дробь", "слэш (косая черта)"],
+    "concepts": ["rain"]
   },
   {
     "cp": 8261,
@@ -641,7 +791,9 @@
     "name": "LEFT SQUARE BRACKET WITH QUILL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "квадрат", "скобка", "с", "перо (гусиное)"],
+    "concepts": []
   },
   {
     "cp": 8262,
@@ -649,7 +801,9 @@
     "name": "RIGHT SQUARE BRACKET WITH QUILL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "квадрат", "скобка", "с", "перо (гусиное)"],
+    "concepts": []
   },
   {
     "cp": 8263,
@@ -657,7 +811,9 @@
     "name": "DOUBLE QUESTION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["двойной", "вопрос", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 8264,
@@ -665,7 +821,9 @@
     "name": "QUESTION EXCLAMATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вопрос", "восклицательный", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 8265,
@@ -685,7 +843,9 @@
         "пунктуация"
       ],
       "en": ["!", "!?", "?", "exclamation", "interrobang", "mark", "punctuation", "question"]
-    }
+    },
+    "desc": ["восклицательный", "вопрос", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 8266,
@@ -693,7 +853,9 @@
     "name": "TIRONIAN SIGN ET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тиронов", "знак", "и (et)"],
+    "concepts": []
   },
   {
     "cp": 8267,
@@ -701,7 +863,9 @@
     "name": "REVERSED PILCROW SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["зеркальный (обратный)", "знак абзаца (¶)", "знак"],
+    "concepts": []
   },
   {
     "cp": 8268,
@@ -709,7 +873,9 @@
     "name": "BLACK LEFTWARDS BULLET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["чёрный (закрашенный)", "влево", "маркер списка (точка)"],
+    "concepts": []
   },
   {
     "cp": 8269,
@@ -717,7 +883,9 @@
     "name": "BLACK RIGHTWARDS BULLET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["чёрный (закрашенный)", "вправо", "маркер списка (точка)"],
+    "concepts": []
   },
   {
     "cp": 8270,
@@ -725,7 +893,9 @@
     "name": "LOW ASTERISK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["низкий", "звёздочка (астериск)"],
+    "concepts": ["star", "star-small", "sparkle", "asterisk", "asterism", "snow"]
   },
   {
     "cp": 8271,
@@ -733,7 +903,9 @@
     "name": "REVERSED SEMICOLON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["зеркальный (обратный)", "точка с запятой"],
+    "concepts": ["rain"]
   },
   {
     "cp": 8272,
@@ -741,7 +913,9 @@
     "name": "CLOSE UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["закрыть", "вверх"],
+    "concepts": []
   },
   {
     "cp": 8273,
@@ -749,7 +923,9 @@
     "name": "TWO ASTERISKS ALIGNED VERTICALLY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["два", "звёздочки", "выровненный", "вертикально"],
+    "concepts": ["star", "sparkle", "asterisk", "asterism", "snow"]
   },
   {
     "cp": 8274,
@@ -757,7 +933,9 @@
     "name": "COMMERCIAL MINUS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коммерческий", "минус", "знак"],
+    "concepts": ["rain"]
   },
   {
     "cp": 8275,
@@ -765,7 +943,9 @@
     "name": "SWUNG DASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["волнистое", "тире"],
+    "concepts": ["water", "wave"]
   },
   {
     "cp": 8276,
@@ -773,7 +953,9 @@
     "name": "INVERTED UNDERTIE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["перевёрнутый", "нижняя лига"],
+    "concepts": ["rainbow"]
   },
   {
     "cp": 8277,
@@ -781,7 +963,9 @@
     "name": "FLOWER PUNCTUATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["цветок", "пунктуация", "метка (знак)"],
+    "concepts": ["star", "star-small", "sparkle", "asterisk", "flower", "snow"]
   },
   {
     "cp": 8278,
@@ -789,7 +973,9 @@
     "name": "THREE DOT PUNCTUATION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["три", "точка", "пунктуация"],
+    "concepts": ["asterism", "constellation"]
   },
   {
     "cp": 8279,
@@ -797,7 +983,9 @@
     "name": "QUADRUPLE PRIME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["четверной", "штрих"],
+    "concepts": []
   },
   {
     "cp": 8280,
@@ -805,7 +993,9 @@
     "name": "FOUR DOT PUNCTUATION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["четыре", "точка", "пунктуация"],
+    "concepts": ["asterism", "constellation", "clover"]
   },
   {
     "cp": 8281,
@@ -813,7 +1003,9 @@
     "name": "FIVE DOT PUNCTUATION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["пять", "точка", "пунктуация"],
+    "concepts": ["constellation"]
   },
   {
     "cp": 8282,
@@ -821,7 +1013,9 @@
     "name": "TWO DOT PUNCTUATION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["два", "точка", "пунктуация"],
+    "concepts": []
   },
   {
     "cp": 8283,
@@ -829,7 +1023,9 @@
     "name": "FOUR DOT MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["четыре", "точка", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 8284,
@@ -837,7 +1033,9 @@
     "name": "DOTTED CROSS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["пунктирный (с точкой)", "крест"],
+    "concepts": ["asterisk", "asterism", "clover"]
   },
   {
     "cp": 8285,
@@ -845,7 +1043,9 @@
     "name": "TRICOLON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["троеточие (тройное двоеточие)"],
+    "concepts": ["rain"]
   },
   {
     "cp": 8286,
@@ -853,7 +1053,9 @@
     "name": "VERTICAL FOUR DOTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вертикальный", "четыре", "точки"],
+    "concepts": ["rain"]
   },
   {
     "cp": 8287,
@@ -861,7 +1063,9 @@
     "name": "MEDIUM MATHEMATICAL SPACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["средний", "математический", "пробел"],
+    "concepts": []
   },
   {
     "cp": 8288,
@@ -869,7 +1073,9 @@
     "name": "WORD JOINER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["слово", "соединитель"],
+    "concepts": []
   },
   {
     "cp": 8289,
@@ -877,7 +1083,9 @@
     "name": "FUNCTION APPLICATION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["функция", "применение"],
+    "concepts": []
   },
   {
     "cp": 8290,
@@ -885,7 +1093,9 @@
     "name": "INVISIBLE TIMES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["невидимый", "умножить (раз)"],
+    "concepts": []
   },
   {
     "cp": 8291,
@@ -893,7 +1103,9 @@
     "name": "INVISIBLE SEPARATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["невидимый", "разделитель"],
+    "concepts": []
   },
   {
     "cp": 8292,
@@ -901,7 +1113,9 @@
     "name": "INVISIBLE PLUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["невидимый", "плюс"],
+    "concepts": []
   },
   {
     "cp": 8294,
@@ -909,7 +1123,9 @@
     "name": "LEFT-TO-RIGHT ISOLATE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "к", "правый (вправо)", "изолят"],
+    "concepts": []
   },
   {
     "cp": 8295,
@@ -917,7 +1133,9 @@
     "name": "RIGHT-TO-LEFT ISOLATE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "к", "левый (влево)", "изолят"],
+    "concepts": []
   },
   {
     "cp": 8296,
@@ -925,7 +1143,9 @@
     "name": "FIRST STRONG ISOLATE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["первый", "сильный", "изолят"],
+    "concepts": []
   },
   {
     "cp": 8297,
@@ -933,7 +1153,9 @@
     "name": "POP DIRECTIONAL ISOLATE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["снятие (pop)", "направленный", "изолят"],
+    "concepts": []
   },
   {
     "cp": 8298,
@@ -941,7 +1163,9 @@
     "name": "INHIBIT SYMMETRIC SWAPPING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["запрет", "симметричный", "замена"],
+    "concepts": []
   },
   {
     "cp": 8299,
@@ -949,7 +1173,9 @@
     "name": "ACTIVATE SYMMETRIC SWAPPING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["включить", "симметричный", "замена"],
+    "concepts": []
   },
   {
     "cp": 8300,
@@ -957,7 +1183,9 @@
     "name": "INHIBIT ARABIC FORM SHAPING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["запрет", "арабский", "форма", "формирование"],
+    "concepts": []
   },
   {
     "cp": 8301,
@@ -965,7 +1193,9 @@
     "name": "ACTIVATE ARABIC FORM SHAPING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["включить", "арабский", "форма", "формирование"],
+    "concepts": []
   },
   {
     "cp": 8302,
@@ -973,7 +1203,9 @@
     "name": "NATIONAL DIGIT SHAPES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["национальный", "цифра", "формы"],
+    "concepts": []
   },
   {
     "cp": 8303,
@@ -981,6 +1213,8 @@
     "name": "NOMINAL DIGIT SHAPES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["номинальный", "цифра", "формы"],
+    "concepts": []
   }
 ]

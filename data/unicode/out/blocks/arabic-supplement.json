@@ -5,7 +5,9 @@
     "name": "ARABIC LETTER BEH WITH THREE DOTS HORIZONTALLY BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "бех (араб.)", "с", "три", "точки", "горизонтально", "снизу"],
+    "concepts": []
   },
   {
     "cp": 1873,
@@ -13,7 +15,20 @@
     "name": "ARABIC LETTER BEH WITH DOT BELOW AND THREE DOTS ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "бех (араб.)",
+      "с",
+      "точка",
+      "снизу",
+      "и",
+      "три",
+      "точки",
+      "сверху"
+    ],
+    "concepts": []
   },
   {
     "cp": 1874,
@@ -21,7 +36,19 @@
     "name": "ARABIC LETTER BEH WITH THREE DOTS POINTING UPWARDS BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "бех (араб.)",
+      "с",
+      "три",
+      "точки",
+      "указывающий",
+      "вверх",
+      "снизу"
+    ],
+    "concepts": []
   },
   {
     "cp": 1875,
@@ -29,7 +56,22 @@
     "name": "ARABIC LETTER BEH WITH THREE DOTS POINTING UPWARDS BELOW AND TWO DOTS ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "бех (араб.)",
+      "с",
+      "три",
+      "точки",
+      "указывающий",
+      "вверх",
+      "снизу",
+      "и",
+      "два",
+      "сверху"
+    ],
+    "concepts": []
   },
   {
     "cp": 1876,
@@ -37,7 +79,20 @@
     "name": "ARABIC LETTER BEH WITH TWO DOTS BELOW AND DOT ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "бех (араб.)",
+      "с",
+      "два",
+      "точки",
+      "снизу",
+      "и",
+      "точка",
+      "сверху"
+    ],
+    "concepts": []
   },
   {
     "cp": 1877,
@@ -45,7 +100,17 @@
     "name": "ARABIC LETTER BEH WITH INVERTED SMALL V BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "бех (араб.)",
+      "с",
+      "перевёрнутый",
+      "маленький (строчный)",
+      "снизу"
+    ],
+    "concepts": []
   },
   {
     "cp": 1878,
@@ -53,7 +118,9 @@
     "name": "ARABIC LETTER BEH WITH SMALL V",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "бех (араб.)", "с", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 1879,
@@ -61,7 +128,9 @@
     "name": "ARABIC LETTER HAH WITH TWO DOTS ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "ха (араб.)", "с", "два", "точки", "сверху"],
+    "concepts": []
   },
   {
     "cp": 1880,
@@ -69,7 +138,19 @@
     "name": "ARABIC LETTER HAH WITH THREE DOTS POINTING UPWARDS BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "ха (араб.)",
+      "с",
+      "три",
+      "точки",
+      "указывающий",
+      "вверх",
+      "снизу"
+    ],
+    "concepts": []
   },
   {
     "cp": 1881,
@@ -77,7 +158,21 @@
     "name": "ARABIC LETTER DAL WITH TWO DOTS VERTICALLY BELOW AND SMALL TAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "даль (араб.)",
+      "с",
+      "два",
+      "точки",
+      "вертикально",
+      "снизу",
+      "и",
+      "маленький (строчный)",
+      "та (араб.)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1882,
@@ -85,7 +180,17 @@
     "name": "ARABIC LETTER DAL WITH INVERTED SMALL V BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "даль (араб.)",
+      "с",
+      "перевёрнутый",
+      "маленький (строчный)",
+      "снизу"
+    ],
+    "concepts": []
   },
   {
     "cp": 1883,
@@ -93,7 +198,9 @@
     "name": "ARABIC LETTER REH WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "ра (араб.)", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 1884,
@@ -101,7 +208,9 @@
     "name": "ARABIC LETTER SEEN WITH FOUR DOTS ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "син (араб.)", "с", "четыре", "точки", "сверху"],
+    "concepts": []
   },
   {
     "cp": 1885,
@@ -109,7 +218,9 @@
     "name": "ARABIC LETTER AIN WITH TWO DOTS ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "айн", "с", "два", "точки", "сверху"],
+    "concepts": []
   },
   {
     "cp": 1886,
@@ -117,7 +228,9 @@
     "name": "ARABIC LETTER AIN WITH THREE DOTS POINTING DOWNWARDS ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "айн", "с", "три", "точки", "указывающий", "вниз", "сверху"],
+    "concepts": []
   },
   {
     "cp": 1887,
@@ -125,7 +238,9 @@
     "name": "ARABIC LETTER AIN WITH TWO DOTS VERTICALLY ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "айн", "с", "два", "точки", "вертикально", "сверху"],
+    "concepts": []
   },
   {
     "cp": 1888,
@@ -133,7 +248,9 @@
     "name": "ARABIC LETTER FEH WITH TWO DOTS BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "фех (араб.)", "с", "два", "точки", "снизу"],
+    "concepts": []
   },
   {
     "cp": 1889,
@@ -141,7 +258,19 @@
     "name": "ARABIC LETTER FEH WITH THREE DOTS POINTING UPWARDS BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "фех (араб.)",
+      "с",
+      "три",
+      "точки",
+      "указывающий",
+      "вверх",
+      "снизу"
+    ],
+    "concepts": []
   },
   {
     "cp": 1890,
@@ -149,7 +278,9 @@
     "name": "ARABIC LETTER KEHEH WITH DOT ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "кехех", "с", "точка", "сверху"],
+    "concepts": []
   },
   {
     "cp": 1891,
@@ -157,7 +288,9 @@
     "name": "ARABIC LETTER KEHEH WITH THREE DOTS ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "кехех", "с", "три", "точки", "сверху"],
+    "concepts": []
   },
   {
     "cp": 1892,
@@ -165,7 +298,9 @@
     "name": "ARABIC LETTER KEHEH WITH THREE DOTS POINTING UPWARDS BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "кехех", "с", "три", "точки", "указывающий", "вверх", "снизу"],
+    "concepts": []
   },
   {
     "cp": 1893,
@@ -173,7 +308,9 @@
     "name": "ARABIC LETTER MEEM WITH DOT ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "мим (араб.)", "с", "точка", "сверху"],
+    "concepts": []
   },
   {
     "cp": 1894,
@@ -181,7 +318,9 @@
     "name": "ARABIC LETTER MEEM WITH DOT BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "мим (араб.)", "с", "точка", "снизу"],
+    "concepts": []
   },
   {
     "cp": 1895,
@@ -189,7 +328,9 @@
     "name": "ARABIC LETTER NOON WITH TWO DOTS BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "нун", "с", "два", "точки", "снизу"],
+    "concepts": []
   },
   {
     "cp": 1896,
@@ -197,7 +338,9 @@
     "name": "ARABIC LETTER NOON WITH SMALL TAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "нун", "с", "маленький (строчный)", "та (араб.)"],
+    "concepts": []
   },
   {
     "cp": 1897,
@@ -205,7 +348,9 @@
     "name": "ARABIC LETTER NOON WITH SMALL V",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "нун", "с", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 1898,
@@ -213,7 +358,9 @@
     "name": "ARABIC LETTER LAM WITH BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "лам (араб.)", "с", "черта"],
+    "concepts": []
   },
   {
     "cp": 1899,
@@ -221,7 +368,9 @@
     "name": "ARABIC LETTER REH WITH TWO DOTS VERTICALLY ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "ра (араб.)", "с", "два", "точки", "вертикально", "сверху"],
+    "concepts": []
   },
   {
     "cp": 1900,
@@ -229,7 +378,9 @@
     "name": "ARABIC LETTER REH WITH HAMZA ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "ра (араб.)", "с", "хамза", "сверху"],
+    "concepts": []
   },
   {
     "cp": 1901,
@@ -237,7 +388,9 @@
     "name": "ARABIC LETTER SEEN WITH TWO DOTS VERTICALLY ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "син (араб.)", "с", "два", "точки", "вертикально", "сверху"],
+    "concepts": []
   },
   {
     "cp": 1902,
@@ -245,7 +398,9 @@
     "name": "ARABIC LETTER HAH WITH SMALL ARABIC LETTER TAH BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "ха (араб.)", "с", "маленький (строчный)", "та (араб.)", "снизу"],
+    "concepts": []
   },
   {
     "cp": 1903,
@@ -253,7 +408,19 @@
     "name": "ARABIC LETTER HAH WITH SMALL ARABIC LETTER TAH AND TWO DOTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "ха (араб.)",
+      "с",
+      "маленький (строчный)",
+      "та (араб.)",
+      "и",
+      "два",
+      "точки"
+    ],
+    "concepts": []
   },
   {
     "cp": 1904,
@@ -261,7 +428,19 @@
     "name": "ARABIC LETTER SEEN WITH SMALL ARABIC LETTER TAH AND TWO DOTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "син (араб.)",
+      "с",
+      "маленький (строчный)",
+      "та (араб.)",
+      "и",
+      "два",
+      "точки"
+    ],
+    "concepts": []
   },
   {
     "cp": 1905,
@@ -269,7 +448,19 @@
     "name": "ARABIC LETTER REH WITH SMALL ARABIC LETTER TAH AND TWO DOTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "ра (араб.)",
+      "с",
+      "маленький (строчный)",
+      "та (араб.)",
+      "и",
+      "два",
+      "точки"
+    ],
+    "concepts": []
   },
   {
     "cp": 1906,
@@ -277,7 +468,17 @@
     "name": "ARABIC LETTER HAH WITH SMALL ARABIC LETTER TAH ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "ха (араб.)",
+      "с",
+      "маленький (строчный)",
+      "та (араб.)",
+      "сверху"
+    ],
+    "concepts": []
   },
   {
     "cp": 1907,
@@ -285,7 +486,19 @@
     "name": "ARABIC LETTER ALEF WITH EXTENDED ARABIC-INDIC DIGIT TWO ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "алеф",
+      "с",
+      "расширенный",
+      "индийский",
+      "цифра",
+      "два",
+      "сверху"
+    ],
+    "concepts": []
   },
   {
     "cp": 1908,
@@ -293,7 +506,19 @@
     "name": "ARABIC LETTER ALEF WITH EXTENDED ARABIC-INDIC DIGIT THREE ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "алеф",
+      "с",
+      "расширенный",
+      "индийский",
+      "цифра",
+      "три",
+      "сверху"
+    ],
+    "concepts": []
   },
   {
     "cp": 1909,
@@ -301,7 +526,20 @@
     "name": "ARABIC LETTER FARSI YEH WITH EXTENDED ARABIC-INDIC DIGIT TWO ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "персидский (фарси)",
+      "йа (араб.)",
+      "с",
+      "расширенный",
+      "индийский",
+      "цифра",
+      "два",
+      "сверху"
+    ],
+    "concepts": []
   },
   {
     "cp": 1910,
@@ -309,7 +547,20 @@
     "name": "ARABIC LETTER FARSI YEH WITH EXTENDED ARABIC-INDIC DIGIT THREE ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "персидский (фарси)",
+      "йа (араб.)",
+      "с",
+      "расширенный",
+      "индийский",
+      "цифра",
+      "три",
+      "сверху"
+    ],
+    "concepts": []
   },
   {
     "cp": 1911,
@@ -317,7 +568,20 @@
     "name": "ARABIC LETTER FARSI YEH WITH EXTENDED ARABIC-INDIC DIGIT FOUR BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "персидский (фарси)",
+      "йа (араб.)",
+      "с",
+      "расширенный",
+      "индийский",
+      "цифра",
+      "четыре",
+      "снизу"
+    ],
+    "concepts": []
   },
   {
     "cp": 1912,
@@ -325,7 +589,9 @@
     "name": "ARABIC LETTER WAW WITH EXTENDED ARABIC-INDIC DIGIT TWO ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "вав", "с", "расширенный", "индийский", "цифра", "два", "сверху"],
+    "concepts": []
   },
   {
     "cp": 1913,
@@ -333,7 +599,9 @@
     "name": "ARABIC LETTER WAW WITH EXTENDED ARABIC-INDIC DIGIT THREE ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "вав", "с", "расширенный", "индийский", "цифра", "три", "сверху"],
+    "concepts": []
   },
   {
     "cp": 1914,
@@ -341,7 +609,20 @@
     "name": "ARABIC LETTER YEH BARREE WITH EXTENDED ARABIC-INDIC DIGIT TWO ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "йа (араб.)",
+      "барри",
+      "с",
+      "расширенный",
+      "индийский",
+      "цифра",
+      "два",
+      "сверху"
+    ],
+    "concepts": []
   },
   {
     "cp": 1915,
@@ -349,7 +630,20 @@
     "name": "ARABIC LETTER YEH BARREE WITH EXTENDED ARABIC-INDIC DIGIT THREE ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "йа (араб.)",
+      "барри",
+      "с",
+      "расширенный",
+      "индийский",
+      "цифра",
+      "три",
+      "сверху"
+    ],
+    "concepts": []
   },
   {
     "cp": 1916,
@@ -357,7 +651,19 @@
     "name": "ARABIC LETTER HAH WITH EXTENDED ARABIC-INDIC DIGIT FOUR BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "ха (араб.)",
+      "с",
+      "расширенный",
+      "индийский",
+      "цифра",
+      "четыре",
+      "снизу"
+    ],
+    "concepts": []
   },
   {
     "cp": 1917,
@@ -365,7 +671,19 @@
     "name": "ARABIC LETTER SEEN WITH EXTENDED ARABIC-INDIC DIGIT FOUR ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "буква",
+      "син (араб.)",
+      "с",
+      "расширенный",
+      "индийский",
+      "цифра",
+      "четыре",
+      "сверху"
+    ],
+    "concepts": []
   },
   {
     "cp": 1918,
@@ -373,7 +691,9 @@
     "name": "ARABIC LETTER SEEN WITH INVERTED V",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "син (араб.)", "с", "перевёрнутый"],
+    "concepts": []
   },
   {
     "cp": 1919,
@@ -381,6 +701,8 @@
     "name": "ARABIC LETTER KAF WITH TWO DOTS ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "каф", "с", "два", "точки", "сверху"],
+    "concepts": []
   }
 ]

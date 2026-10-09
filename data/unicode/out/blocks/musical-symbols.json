@@ -5,7 +5,9 @@
     "name": "MUSICAL SYMBOL SINGLE BARLINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "одинарный", "тактовая черта"],
+    "concepts": []
   },
   {
     "cp": 119041,
@@ -13,7 +15,9 @@
     "name": "MUSICAL SYMBOL DOUBLE BARLINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "двойной", "тактовая черта"],
+    "concepts": []
   },
   {
     "cp": 119042,
@@ -21,7 +25,9 @@
     "name": "MUSICAL SYMBOL FINAL BARLINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "конечный", "тактовая черта"],
+    "concepts": []
   },
   {
     "cp": 119043,
@@ -29,7 +35,9 @@
     "name": "MUSICAL SYMBOL REVERSE FINAL BARLINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "обратный", "конечный", "тактовая черта"],
+    "concepts": []
   },
   {
     "cp": 119044,
@@ -37,7 +45,9 @@
     "name": "MUSICAL SYMBOL DASHED BARLINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "штриховой", "тактовая черта"],
+    "concepts": []
   },
   {
     "cp": 119045,
@@ -45,7 +55,9 @@
     "name": "MUSICAL SYMBOL SHORT BARLINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "короткий", "тактовая черта"],
+    "concepts": []
   },
   {
     "cp": 119046,
@@ -53,7 +65,9 @@
     "name": "MUSICAL SYMBOL LEFT REPEAT SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "левый (влево)", "повтор", "знак"],
+    "concepts": []
   },
   {
     "cp": 119047,
@@ -61,7 +75,9 @@
     "name": "MUSICAL SYMBOL RIGHT REPEAT SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "правый (вправо)", "повтор", "знак"],
+    "concepts": []
   },
   {
     "cp": 119048,
@@ -69,7 +85,9 @@
     "name": "MUSICAL SYMBOL REPEAT DOTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "повтор", "точки"],
+    "concepts": []
   },
   {
     "cp": 119049,
@@ -77,7 +95,9 @@
     "name": "MUSICAL SYMBOL DAL SEGNO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "даль (араб.)", "сеньо"],
+    "concepts": []
   },
   {
     "cp": 119050,
@@ -85,7 +105,9 @@
     "name": "MUSICAL SYMBOL DA CAPO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "да", "капо"],
+    "concepts": []
   },
   {
     "cp": 119051,
@@ -93,7 +115,9 @@
     "name": "MUSICAL SYMBOL SEGNO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "сеньо"],
+    "concepts": []
   },
   {
     "cp": 119052,
@@ -101,7 +125,9 @@
     "name": "MUSICAL SYMBOL CODA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "кода"],
+    "concepts": []
   },
   {
     "cp": 119053,
@@ -109,7 +135,9 @@
     "name": "MUSICAL SYMBOL REPEATED FIGURE-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "повторённый", "фигура"],
+    "concepts": []
   },
   {
     "cp": 119054,
@@ -117,7 +145,9 @@
     "name": "MUSICAL SYMBOL REPEATED FIGURE-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "повторённый", "фигура"],
+    "concepts": []
   },
   {
     "cp": 119055,
@@ -125,7 +155,9 @@
     "name": "MUSICAL SYMBOL REPEATED FIGURE-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "повторённый", "фигура"],
+    "concepts": []
   },
   {
     "cp": 119056,
@@ -133,7 +165,9 @@
     "name": "MUSICAL SYMBOL FERMATA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "фермата"],
+    "concepts": ["lightning"]
   },
   {
     "cp": 119057,
@@ -141,7 +175,9 @@
     "name": "MUSICAL SYMBOL FERMATA BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "фермата", "снизу"],
+    "concepts": []
   },
   {
     "cp": 119058,
@@ -149,7 +185,9 @@
     "name": "MUSICAL SYMBOL BREATH MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "дыхание", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 119059,
@@ -157,7 +195,9 @@
     "name": "MUSICAL SYMBOL CAESURA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "цезура"],
+    "concepts": []
   },
   {
     "cp": 119060,
@@ -165,7 +205,9 @@
     "name": "MUSICAL SYMBOL BRACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "фигурная скобка (акколада)"],
+    "concepts": []
   },
   {
     "cp": 119061,
@@ -173,7 +215,9 @@
     "name": "MUSICAL SYMBOL BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "скобка"],
+    "concepts": []
   },
   {
     "cp": 119062,
@@ -181,7 +225,9 @@
     "name": "MUSICAL SYMBOL ONE-LINE STAFF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "один", "линия", "посох (нотный стан)"],
+    "concepts": []
   },
   {
     "cp": 119063,
@@ -189,7 +235,9 @@
     "name": "MUSICAL SYMBOL TWO-LINE STAFF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "два", "линия", "посох (нотный стан)"],
+    "concepts": []
   },
   {
     "cp": 119064,
@@ -197,7 +245,9 @@
     "name": "MUSICAL SYMBOL THREE-LINE STAFF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "три", "линия", "посох (нотный стан)"],
+    "concepts": []
   },
   {
     "cp": 119065,
@@ -205,7 +255,9 @@
     "name": "MUSICAL SYMBOL FOUR-LINE STAFF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "четыре", "линия", "посох (нотный стан)"],
+    "concepts": []
   },
   {
     "cp": 119066,
@@ -213,7 +265,9 @@
     "name": "MUSICAL SYMBOL FIVE-LINE STAFF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "пять", "линия", "посох (нотный стан)"],
+    "concepts": []
   },
   {
     "cp": 119067,
@@ -221,7 +275,9 @@
     "name": "MUSICAL SYMBOL SIX-LINE STAFF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "шесть", "линия", "посох (нотный стан)"],
+    "concepts": []
   },
   {
     "cp": 119068,
@@ -229,7 +285,9 @@
     "name": "MUSICAL SYMBOL SIX-STRING FRETBOARD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "шесть", "струна", "гриф (лады)"],
+    "concepts": []
   },
   {
     "cp": 119069,
@@ -237,7 +295,9 @@
     "name": "MUSICAL SYMBOL FOUR-STRING FRETBOARD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "четыре", "струна", "гриф (лады)"],
+    "concepts": []
   },
   {
     "cp": 119070,
@@ -245,7 +305,9 @@
     "name": "MUSICAL SYMBOL G CLEF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "ключ (нотный)"],
+    "concepts": []
   },
   {
     "cp": 119071,
@@ -253,7 +315,9 @@
     "name": "MUSICAL SYMBOL G CLEF OTTAVA ALTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "ключ (нотный)", "оттава", "альта"],
+    "concepts": []
   },
   {
     "cp": 119072,
@@ -261,7 +325,9 @@
     "name": "MUSICAL SYMBOL G CLEF OTTAVA BASSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "ключ (нотный)", "оттава", "басса (ниже)"],
+    "concepts": []
   },
   {
     "cp": 119073,
@@ -269,7 +335,9 @@
     "name": "MUSICAL SYMBOL C CLEF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "ключ (нотный)"],
+    "concepts": []
   },
   {
     "cp": 119074,
@@ -277,7 +345,9 @@
     "name": "MUSICAL SYMBOL F CLEF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "ключ (нотный)"],
+    "concepts": []
   },
   {
     "cp": 119075,
@@ -285,7 +355,9 @@
     "name": "MUSICAL SYMBOL F CLEF OTTAVA ALTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "ключ (нотный)", "оттава", "альта"],
+    "concepts": []
   },
   {
     "cp": 119076,
@@ -293,7 +365,9 @@
     "name": "MUSICAL SYMBOL F CLEF OTTAVA BASSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "ключ (нотный)", "оттава", "басса (ниже)"],
+    "concepts": []
   },
   {
     "cp": 119077,
@@ -301,7 +375,9 @@
     "name": "MUSICAL SYMBOL DRUM CLEF-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "барабан", "ключ (нотный)"],
+    "concepts": []
   },
   {
     "cp": 119078,
@@ -309,7 +385,9 @@
     "name": "MUSICAL SYMBOL DRUM CLEF-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "барабан", "ключ (нотный)"],
+    "concepts": []
   },
   {
     "cp": 119079,
@@ -317,7 +395,9 @@
     "name": "MUSICAL SYMBOL COMBINING STRESS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "ударение"],
+    "concepts": []
   },
   {
     "cp": 119080,
@@ -325,7 +405,9 @@
     "name": "MUSICAL SYMBOL COMBINING UNSTRESS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "безударный"],
+    "concepts": []
   },
   {
     "cp": 119081,
@@ -333,7 +415,9 @@
     "name": "MUSICAL SYMBOL MULTIPLE MEASURE REST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "множественный", "мера", "пауза"],
+    "concepts": []
   },
   {
     "cp": 119082,
@@ -341,7 +425,9 @@
     "name": "MUSICAL SYMBOL DOUBLE SHARP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "двойной", "диез (острый)"],
+    "concepts": []
   },
   {
     "cp": 119083,
@@ -349,7 +435,9 @@
     "name": "MUSICAL SYMBOL DOUBLE FLAT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "двойной", "бемоль (плоский)"],
+    "concepts": []
   },
   {
     "cp": 119084,
@@ -357,7 +445,9 @@
     "name": "MUSICAL SYMBOL FLAT UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "бемоль (плоский)", "вверх"],
+    "concepts": []
   },
   {
     "cp": 119085,
@@ -365,7 +455,9 @@
     "name": "MUSICAL SYMBOL FLAT DOWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "бемоль (плоский)", "вниз"],
+    "concepts": []
   },
   {
     "cp": 119086,
@@ -373,7 +465,9 @@
     "name": "MUSICAL SYMBOL NATURAL UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "бекар (натуральный)", "вверх"],
+    "concepts": []
   },
   {
     "cp": 119087,
@@ -381,7 +475,9 @@
     "name": "MUSICAL SYMBOL NATURAL DOWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "бекар (натуральный)", "вниз"],
+    "concepts": []
   },
   {
     "cp": 119088,
@@ -389,7 +485,9 @@
     "name": "MUSICAL SYMBOL SHARP UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "диез (острый)", "вверх"],
+    "concepts": []
   },
   {
     "cp": 119089,
@@ -397,7 +495,9 @@
     "name": "MUSICAL SYMBOL SHARP DOWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "диез (острый)", "вниз"],
+    "concepts": []
   },
   {
     "cp": 119090,
@@ -405,7 +505,9 @@
     "name": "MUSICAL SYMBOL QUARTER TONE SHARP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "четверть", "тон", "диез (острый)"],
+    "concepts": []
   },
   {
     "cp": 119091,
@@ -413,7 +515,9 @@
     "name": "MUSICAL SYMBOL QUARTER TONE FLAT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "четверть", "тон", "бемоль (плоский)"],
+    "concepts": []
   },
   {
     "cp": 119092,
@@ -421,7 +525,9 @@
     "name": "MUSICAL SYMBOL COMMON TIME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "общий", "время (размер)"],
+    "concepts": []
   },
   {
     "cp": 119093,
@@ -429,7 +535,9 @@
     "name": "MUSICAL SYMBOL CUT TIME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "разрез", "время (размер)"],
+    "concepts": []
   },
   {
     "cp": 119094,
@@ -437,7 +545,9 @@
     "name": "MUSICAL SYMBOL OTTAVA ALTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "оттава", "альта"],
+    "concepts": []
   },
   {
     "cp": 119095,
@@ -445,7 +555,9 @@
     "name": "MUSICAL SYMBOL OTTAVA BASSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "оттава", "басса (ниже)"],
+    "concepts": []
   },
   {
     "cp": 119096,
@@ -453,7 +565,9 @@
     "name": "MUSICAL SYMBOL QUINDICESIMA ALTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "квиндичезима", "альта"],
+    "concepts": []
   },
   {
     "cp": 119097,
@@ -461,7 +575,9 @@
     "name": "MUSICAL SYMBOL QUINDICESIMA BASSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "квиндичезима", "басса (ниже)"],
+    "concepts": []
   },
   {
     "cp": 119098,
@@ -469,7 +585,9 @@
     "name": "MUSICAL SYMBOL MULTI REST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "много", "пауза"],
+    "concepts": []
   },
   {
     "cp": 119099,
@@ -477,7 +595,9 @@
     "name": "MUSICAL SYMBOL WHOLE REST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "целая", "пауза"],
+    "concepts": []
   },
   {
     "cp": 119100,
@@ -485,7 +605,9 @@
     "name": "MUSICAL SYMBOL HALF REST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "половина", "пауза"],
+    "concepts": []
   },
   {
     "cp": 119101,
@@ -493,7 +615,9 @@
     "name": "MUSICAL SYMBOL QUARTER REST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "четверть", "пауза"],
+    "concepts": []
   },
   {
     "cp": 119102,
@@ -501,7 +625,9 @@
     "name": "MUSICAL SYMBOL EIGHTH REST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "восьмая", "пауза"],
+    "concepts": []
   },
   {
     "cp": 119103,
@@ -509,7 +635,9 @@
     "name": "MUSICAL SYMBOL SIXTEENTH REST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "шестнадцатая", "пауза"],
+    "concepts": []
   },
   {
     "cp": 119104,
@@ -517,7 +645,9 @@
     "name": "MUSICAL SYMBOL THIRTY-SECOND REST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "тридцать", "второй (секунда)", "пауза"],
+    "concepts": []
   },
   {
     "cp": 119105,
@@ -525,7 +655,9 @@
     "name": "MUSICAL SYMBOL SIXTY-FOURTH REST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "шестьдесят", "четвёртый", "пауза"],
+    "concepts": []
   },
   {
     "cp": 119106,
@@ -533,7 +665,9 @@
     "name": "MUSICAL SYMBOL ONE HUNDRED TWENTY-EIGHTH REST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "один", "сто", "двадцать", "восьмая", "пауза"],
+    "concepts": []
   },
   {
     "cp": 119107,
@@ -541,7 +675,9 @@
     "name": "MUSICAL SYMBOL X NOTEHEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "головка ноты"],
+    "concepts": []
   },
   {
     "cp": 119108,
@@ -549,7 +685,9 @@
     "name": "MUSICAL SYMBOL PLUS NOTEHEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "плюс", "головка ноты"],
+    "concepts": []
   },
   {
     "cp": 119109,
@@ -557,7 +695,9 @@
     "name": "MUSICAL SYMBOL CIRCLE X NOTEHEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "круг", "головка ноты"],
+    "concepts": []
   },
   {
     "cp": 119110,
@@ -565,7 +705,9 @@
     "name": "MUSICAL SYMBOL SQUARE NOTEHEAD WHITE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "квадрат", "головка ноты", "белый (контурный)"],
+    "concepts": []
   },
   {
     "cp": 119111,
@@ -573,7 +715,9 @@
     "name": "MUSICAL SYMBOL SQUARE NOTEHEAD BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "квадрат", "головка ноты", "чёрный (закрашенный)"],
+    "concepts": []
   },
   {
     "cp": 119112,
@@ -581,7 +725,9 @@
     "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD UP WHITE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "треугольник", "головка ноты", "вверх", "белый (контурный)"],
+    "concepts": []
   },
   {
     "cp": 119113,
@@ -589,7 +735,16 @@
     "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD UP BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "музыкальный",
+      "символ",
+      "треугольник",
+      "головка ноты",
+      "вверх",
+      "чёрный (закрашенный)"
+    ],
+    "concepts": []
   },
   {
     "cp": 119114,
@@ -597,7 +752,16 @@
     "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD LEFT WHITE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "музыкальный",
+      "символ",
+      "треугольник",
+      "головка ноты",
+      "левый (влево)",
+      "белый (контурный)"
+    ],
+    "concepts": []
   },
   {
     "cp": 119115,
@@ -605,7 +769,16 @@
     "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD LEFT BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "музыкальный",
+      "символ",
+      "треугольник",
+      "головка ноты",
+      "левый (влево)",
+      "чёрный (закрашенный)"
+    ],
+    "concepts": []
   },
   {
     "cp": 119116,
@@ -613,7 +786,16 @@
     "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD RIGHT WHITE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "музыкальный",
+      "символ",
+      "треугольник",
+      "головка ноты",
+      "правый (вправо)",
+      "белый (контурный)"
+    ],
+    "concepts": []
   },
   {
     "cp": 119117,
@@ -621,7 +803,16 @@
     "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD RIGHT BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "музыкальный",
+      "символ",
+      "треугольник",
+      "головка ноты",
+      "правый (вправо)",
+      "чёрный (закрашенный)"
+    ],
+    "concepts": []
   },
   {
     "cp": 119118,
@@ -629,7 +820,9 @@
     "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD DOWN WHITE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "треугольник", "головка ноты", "вниз", "белый (контурный)"],
+    "concepts": []
   },
   {
     "cp": 119119,
@@ -637,7 +830,16 @@
     "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD DOWN BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "музыкальный",
+      "символ",
+      "треугольник",
+      "головка ноты",
+      "вниз",
+      "чёрный (закрашенный)"
+    ],
+    "concepts": []
   },
   {
     "cp": 119120,
@@ -645,7 +847,17 @@
     "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD UP RIGHT WHITE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "музыкальный",
+      "символ",
+      "треугольник",
+      "головка ноты",
+      "вверх",
+      "правый (вправо)",
+      "белый (контурный)"
+    ],
+    "concepts": []
   },
   {
     "cp": 119121,
@@ -653,7 +865,17 @@
     "name": "MUSICAL SYMBOL TRIANGLE NOTEHEAD UP RIGHT BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "музыкальный",
+      "символ",
+      "треугольник",
+      "головка ноты",
+      "вверх",
+      "правый (вправо)",
+      "чёрный (закрашенный)"
+    ],
+    "concepts": []
   },
   {
     "cp": 119122,
@@ -661,7 +883,9 @@
     "name": "MUSICAL SYMBOL MOON NOTEHEAD WHITE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "луна", "головка ноты", "белый (контурный)"],
+    "concepts": []
   },
   {
     "cp": 119123,
@@ -669,7 +893,9 @@
     "name": "MUSICAL SYMBOL MOON NOTEHEAD BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "луна", "головка ноты", "чёрный (закрашенный)"],
+    "concepts": []
   },
   {
     "cp": 119124,
@@ -677,7 +903,17 @@
     "name": "MUSICAL SYMBOL TRIANGLE-ROUND NOTEHEAD DOWN WHITE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "музыкальный",
+      "символ",
+      "треугольник",
+      "круглый",
+      "головка ноты",
+      "вниз",
+      "белый (контурный)"
+    ],
+    "concepts": []
   },
   {
     "cp": 119125,
@@ -685,7 +921,17 @@
     "name": "MUSICAL SYMBOL TRIANGLE-ROUND NOTEHEAD DOWN BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "музыкальный",
+      "символ",
+      "треугольник",
+      "круглый",
+      "головка ноты",
+      "вниз",
+      "чёрный (закрашенный)"
+    ],
+    "concepts": []
   },
   {
     "cp": 119126,
@@ -693,7 +939,9 @@
     "name": "MUSICAL SYMBOL PARENTHESIS NOTEHEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "круглая скобка", "головка ноты"],
+    "concepts": []
   },
   {
     "cp": 119127,
@@ -701,7 +949,9 @@
     "name": "MUSICAL SYMBOL VOID NOTEHEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "пустой", "головка ноты"],
+    "concepts": []
   },
   {
     "cp": 119128,
@@ -709,7 +959,9 @@
     "name": "MUSICAL SYMBOL NOTEHEAD BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "головка ноты", "чёрный (закрашенный)"],
+    "concepts": []
   },
   {
     "cp": 119129,
@@ -717,7 +969,9 @@
     "name": "MUSICAL SYMBOL NULL NOTEHEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "нуль", "головка ноты"],
+    "concepts": []
   },
   {
     "cp": 119130,
@@ -725,7 +979,9 @@
     "name": "MUSICAL SYMBOL CLUSTER NOTEHEAD WHITE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "кластер", "головка ноты", "белый (контурный)"],
+    "concepts": []
   },
   {
     "cp": 119131,
@@ -733,7 +989,9 @@
     "name": "MUSICAL SYMBOL CLUSTER NOTEHEAD BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "кластер", "головка ноты", "чёрный (закрашенный)"],
+    "concepts": []
   },
   {
     "cp": 119132,
@@ -741,7 +999,9 @@
     "name": "MUSICAL SYMBOL BREVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "бреве (кратка)"],
+    "concepts": []
   },
   {
     "cp": 119133,
@@ -749,7 +1009,9 @@
     "name": "MUSICAL SYMBOL WHOLE NOTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "целая", "нота"],
+    "concepts": []
   },
   {
     "cp": 119134,
@@ -757,7 +1019,9 @@
     "name": "MUSICAL SYMBOL HALF NOTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "половина", "нота"],
+    "concepts": []
   },
   {
     "cp": 119135,
@@ -765,7 +1029,9 @@
     "name": "MUSICAL SYMBOL QUARTER NOTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "четверть", "нота"],
+    "concepts": []
   },
   {
     "cp": 119136,
@@ -773,7 +1039,9 @@
     "name": "MUSICAL SYMBOL EIGHTH NOTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "восьмая", "нота"],
+    "concepts": []
   },
   {
     "cp": 119137,
@@ -781,7 +1049,9 @@
     "name": "MUSICAL SYMBOL SIXTEENTH NOTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "шестнадцатая", "нота"],
+    "concepts": []
   },
   {
     "cp": 119138,
@@ -789,7 +1059,9 @@
     "name": "MUSICAL SYMBOL THIRTY-SECOND NOTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "тридцать", "второй (секунда)", "нота"],
+    "concepts": []
   },
   {
     "cp": 119139,
@@ -797,7 +1069,9 @@
     "name": "MUSICAL SYMBOL SIXTY-FOURTH NOTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "шестьдесят", "четвёртый", "нота"],
+    "concepts": []
   },
   {
     "cp": 119140,
@@ -805,7 +1079,9 @@
     "name": "MUSICAL SYMBOL ONE HUNDRED TWENTY-EIGHTH NOTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "один", "сто", "двадцать", "восьмая", "нота"],
+    "concepts": []
   },
   {
     "cp": 119141,
@@ -813,7 +1089,9 @@
     "name": "MUSICAL SYMBOL COMBINING STEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "штиль (стебель)"],
+    "concepts": []
   },
   {
     "cp": 119142,
@@ -821,7 +1099,9 @@
     "name": "MUSICAL SYMBOL COMBINING SPRECHGESANG STEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "шпрехгезанг", "штиль (стебель)"],
+    "concepts": []
   },
   {
     "cp": 119143,
@@ -829,7 +1109,9 @@
     "name": "MUSICAL SYMBOL COMBINING TREMOLO-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "тремоло"],
+    "concepts": []
   },
   {
     "cp": 119144,
@@ -837,7 +1119,9 @@
     "name": "MUSICAL SYMBOL COMBINING TREMOLO-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "тремоло"],
+    "concepts": []
   },
   {
     "cp": 119145,
@@ -845,7 +1129,9 @@
     "name": "MUSICAL SYMBOL COMBINING TREMOLO-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "тремоло"],
+    "concepts": []
   },
   {
     "cp": 119146,
@@ -853,7 +1139,9 @@
     "name": "MUSICAL SYMBOL FINGERED TREMOLO-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "пальцевый", "тремоло"],
+    "concepts": []
   },
   {
     "cp": 119147,
@@ -861,7 +1149,9 @@
     "name": "MUSICAL SYMBOL FINGERED TREMOLO-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "пальцевый", "тремоло"],
+    "concepts": []
   },
   {
     "cp": 119148,
@@ -869,7 +1159,9 @@
     "name": "MUSICAL SYMBOL FINGERED TREMOLO-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "пальцевый", "тремоло"],
+    "concepts": []
   },
   {
     "cp": 119149,
@@ -877,7 +1169,9 @@
     "name": "MUSICAL SYMBOL COMBINING AUGMENTATION DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "увеличение", "точка"],
+    "concepts": []
   },
   {
     "cp": 119150,
@@ -885,7 +1179,9 @@
     "name": "MUSICAL SYMBOL COMBINING FLAG-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "флаг"],
+    "concepts": []
   },
   {
     "cp": 119151,
@@ -893,7 +1189,9 @@
     "name": "MUSICAL SYMBOL COMBINING FLAG-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "флаг"],
+    "concepts": []
   },
   {
     "cp": 119152,
@@ -901,7 +1199,9 @@
     "name": "MUSICAL SYMBOL COMBINING FLAG-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "флаг"],
+    "concepts": []
   },
   {
     "cp": 119153,
@@ -909,7 +1209,9 @@
     "name": "MUSICAL SYMBOL COMBINING FLAG-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "флаг"],
+    "concepts": []
   },
   {
     "cp": 119154,
@@ -917,7 +1219,9 @@
     "name": "MUSICAL SYMBOL COMBINING FLAG-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "флаг"],
+    "concepts": []
   },
   {
     "cp": 119155,
@@ -925,7 +1229,9 @@
     "name": "MUSICAL SYMBOL BEGIN BEAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "начало", "балка (луч)"],
+    "concepts": []
   },
   {
     "cp": 119156,
@@ -933,7 +1239,9 @@
     "name": "MUSICAL SYMBOL END BEAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "конец", "балка (луч)"],
+    "concepts": []
   },
   {
     "cp": 119157,
@@ -941,7 +1249,9 @@
     "name": "MUSICAL SYMBOL BEGIN TIE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "начало", "лига (галстук)"],
+    "concepts": []
   },
   {
     "cp": 119158,
@@ -949,7 +1259,9 @@
     "name": "MUSICAL SYMBOL END TIE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "конец", "лига (галстук)"],
+    "concepts": []
   },
   {
     "cp": 119159,
@@ -957,7 +1269,9 @@
     "name": "MUSICAL SYMBOL BEGIN SLUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "начало", "лига"],
+    "concepts": []
   },
   {
     "cp": 119160,
@@ -965,7 +1279,9 @@
     "name": "MUSICAL SYMBOL END SLUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "конец", "лига"],
+    "concepts": []
   },
   {
     "cp": 119161,
@@ -973,7 +1289,9 @@
     "name": "MUSICAL SYMBOL BEGIN PHRASE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "начало", "фраза"],
+    "concepts": []
   },
   {
     "cp": 119162,
@@ -981,7 +1299,9 @@
     "name": "MUSICAL SYMBOL END PHRASE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "конец", "фраза"],
+    "concepts": []
   },
   {
     "cp": 119163,
@@ -989,7 +1309,9 @@
     "name": "MUSICAL SYMBOL COMBINING ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "ударение (акцент)"],
+    "concepts": []
   },
   {
     "cp": 119164,
@@ -997,7 +1319,9 @@
     "name": "MUSICAL SYMBOL COMBINING STACCATO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "стаккато"],
+    "concepts": []
   },
   {
     "cp": 119165,
@@ -1005,7 +1329,9 @@
     "name": "MUSICAL SYMBOL COMBINING TENUTO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "тенуто"],
+    "concepts": []
   },
   {
     "cp": 119166,
@@ -1013,7 +1339,9 @@
     "name": "MUSICAL SYMBOL COMBINING STACCATISSIMO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "стаккатиссимо"],
+    "concepts": []
   },
   {
     "cp": 119167,
@@ -1021,7 +1349,9 @@
     "name": "MUSICAL SYMBOL COMBINING MARCATO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "маркато"],
+    "concepts": []
   },
   {
     "cp": 119168,
@@ -1029,7 +1359,9 @@
     "name": "MUSICAL SYMBOL COMBINING MARCATO-STACCATO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "маркато", "стаккато"],
+    "concepts": []
   },
   {
     "cp": 119169,
@@ -1037,7 +1369,9 @@
     "name": "MUSICAL SYMBOL COMBINING ACCENT-STACCATO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "ударение (акцент)", "стаккато"],
+    "concepts": []
   },
   {
     "cp": 119170,
@@ -1045,7 +1379,9 @@
     "name": "MUSICAL SYMBOL COMBINING LOURE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "луре"],
+    "concepts": []
   },
   {
     "cp": 119171,
@@ -1053,7 +1389,9 @@
     "name": "MUSICAL SYMBOL ARPEGGIATO UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "арпеджио", "вверх"],
+    "concepts": []
   },
   {
     "cp": 119172,
@@ -1061,7 +1399,9 @@
     "name": "MUSICAL SYMBOL ARPEGGIATO DOWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "арпеджио", "вниз"],
+    "concepts": []
   },
   {
     "cp": 119173,
@@ -1069,7 +1409,9 @@
     "name": "MUSICAL SYMBOL COMBINING DOIT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "дойт"],
+    "concepts": []
   },
   {
     "cp": 119174,
@@ -1077,7 +1419,9 @@
     "name": "MUSICAL SYMBOL COMBINING RIP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "рип"],
+    "concepts": []
   },
   {
     "cp": 119175,
@@ -1085,7 +1429,9 @@
     "name": "MUSICAL SYMBOL COMBINING FLIP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "переворот"],
+    "concepts": []
   },
   {
     "cp": 119176,
@@ -1093,7 +1439,9 @@
     "name": "MUSICAL SYMBOL COMBINING SMEAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "смазывание"],
+    "concepts": []
   },
   {
     "cp": 119177,
@@ -1101,7 +1449,9 @@
     "name": "MUSICAL SYMBOL COMBINING BEND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "бенд (подтяжка)"],
+    "concepts": []
   },
   {
     "cp": 119178,
@@ -1109,7 +1459,9 @@
     "name": "MUSICAL SYMBOL COMBINING DOUBLE TONGUE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "двойной", "язык"],
+    "concepts": []
   },
   {
     "cp": 119179,
@@ -1117,7 +1469,9 @@
     "name": "MUSICAL SYMBOL COMBINING TRIPLE TONGUE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "тройной", "язык"],
+    "concepts": []
   },
   {
     "cp": 119180,
@@ -1125,7 +1479,9 @@
     "name": "MUSICAL SYMBOL RINFORZANDO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "ринфорцандо"],
+    "concepts": []
   },
   {
     "cp": 119181,
@@ -1133,7 +1489,9 @@
     "name": "MUSICAL SYMBOL SUBITO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "субито"],
+    "concepts": []
   },
   {
     "cp": 119182,
@@ -1141,7 +1499,9 @@
     "name": "MUSICAL SYMBOL Z",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ"],
+    "concepts": []
   },
   {
     "cp": 119183,
@@ -1149,7 +1509,9 @@
     "name": "MUSICAL SYMBOL PIANO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "пиано (тихо)"],
+    "concepts": []
   },
   {
     "cp": 119184,
@@ -1157,7 +1519,9 @@
     "name": "MUSICAL SYMBOL MEZZO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "меццо"],
+    "concepts": []
   },
   {
     "cp": 119185,
@@ -1165,7 +1529,9 @@
     "name": "MUSICAL SYMBOL FORTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "форте (громко)"],
+    "concepts": []
   },
   {
     "cp": 119186,
@@ -1173,7 +1539,9 @@
     "name": "MUSICAL SYMBOL CRESCENDO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "крещендо"],
+    "concepts": []
   },
   {
     "cp": 119187,
@@ -1181,7 +1549,9 @@
     "name": "MUSICAL SYMBOL DECRESCENDO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "декрещендо"],
+    "concepts": []
   },
   {
     "cp": 119188,
@@ -1189,7 +1559,9 @@
     "name": "MUSICAL SYMBOL GRACE NOTE SLASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "изящество (форшлаг)", "нота", "слэш (косая черта)"],
+    "concepts": []
   },
   {
     "cp": 119189,
@@ -1197,7 +1569,9 @@
     "name": "MUSICAL SYMBOL GRACE NOTE NO SLASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "изящество (форшлаг)", "нота", "нет", "слэш (косая черта)"],
+    "concepts": []
   },
   {
     "cp": 119190,
@@ -1205,7 +1579,9 @@
     "name": "MUSICAL SYMBOL TR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "трель"],
+    "concepts": []
   },
   {
     "cp": 119191,
@@ -1213,7 +1589,9 @@
     "name": "MUSICAL SYMBOL TURN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "группетто (поворот)"],
+    "concepts": []
   },
   {
     "cp": 119192,
@@ -1221,7 +1599,9 @@
     "name": "MUSICAL SYMBOL INVERTED TURN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "перевёрнутый", "группетто (поворот)"],
+    "concepts": []
   },
   {
     "cp": 119193,
@@ -1229,7 +1609,9 @@
     "name": "MUSICAL SYMBOL TURN SLASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "группетто (поворот)", "слэш (косая черта)"],
+    "concepts": []
   },
   {
     "cp": 119194,
@@ -1237,7 +1619,9 @@
     "name": "MUSICAL SYMBOL TURN UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "группетто (поворот)", "вверх"],
+    "concepts": []
   },
   {
     "cp": 119195,
@@ -1245,7 +1629,9 @@
     "name": "MUSICAL SYMBOL ORNAMENT STROKE-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "орнамент (украшение)", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 119196,
@@ -1253,7 +1639,9 @@
     "name": "MUSICAL SYMBOL ORNAMENT STROKE-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "орнамент (украшение)", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 119197,
@@ -1261,7 +1649,9 @@
     "name": "MUSICAL SYMBOL ORNAMENT STROKE-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "орнамент (украшение)", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 119198,
@@ -1269,7 +1659,9 @@
     "name": "MUSICAL SYMBOL ORNAMENT STROKE-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "орнамент (украшение)", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 119199,
@@ -1277,7 +1669,9 @@
     "name": "MUSICAL SYMBOL ORNAMENT STROKE-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "орнамент (украшение)", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 119200,
@@ -1285,7 +1679,9 @@
     "name": "MUSICAL SYMBOL ORNAMENT STROKE-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "орнамент (украшение)", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 119201,
@@ -1293,7 +1689,9 @@
     "name": "MUSICAL SYMBOL ORNAMENT STROKE-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "орнамент (украшение)", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 119202,
@@ -1301,7 +1699,9 @@
     "name": "MUSICAL SYMBOL ORNAMENT STROKE-8",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "орнамент (украшение)", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 119203,
@@ -1309,7 +1709,9 @@
     "name": "MUSICAL SYMBOL ORNAMENT STROKE-9",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "орнамент (украшение)", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 119204,
@@ -1317,7 +1719,9 @@
     "name": "MUSICAL SYMBOL ORNAMENT STROKE-10",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "орнамент (украшение)", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 119205,
@@ -1325,7 +1729,9 @@
     "name": "MUSICAL SYMBOL ORNAMENT STROKE-11",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "орнамент (украшение)", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 119206,
@@ -1333,7 +1739,9 @@
     "name": "MUSICAL SYMBOL HAUPTSTIMME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "главный голос"],
+    "concepts": []
   },
   {
     "cp": 119207,
@@ -1341,7 +1749,9 @@
     "name": "MUSICAL SYMBOL NEBENSTIMME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "побочный голос"],
+    "concepts": []
   },
   {
     "cp": 119208,
@@ -1349,7 +1759,9 @@
     "name": "MUSICAL SYMBOL END OF STIMME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "конец", "из", "голос"],
+    "concepts": []
   },
   {
     "cp": 119209,
@@ -1357,7 +1769,9 @@
     "name": "MUSICAL SYMBOL DEGREE SLASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "градус", "слэш (косая черта)"],
+    "concepts": []
   },
   {
     "cp": 119210,
@@ -1365,7 +1779,9 @@
     "name": "MUSICAL SYMBOL COMBINING DOWN BOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "вниз", "лук (бант)"],
+    "concepts": []
   },
   {
     "cp": 119211,
@@ -1373,7 +1789,9 @@
     "name": "MUSICAL SYMBOL COMBINING UP BOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "вверх", "лук (бант)"],
+    "concepts": []
   },
   {
     "cp": 119212,
@@ -1381,7 +1799,9 @@
     "name": "MUSICAL SYMBOL COMBINING HARMONIC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "флажолет (гармонический)"],
+    "concepts": []
   },
   {
     "cp": 119213,
@@ -1389,7 +1809,9 @@
     "name": "MUSICAL SYMBOL COMBINING SNAP PIZZICATO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "комбинируемый", "щипок", "пиццикато"],
+    "concepts": []
   },
   {
     "cp": 119214,
@@ -1397,7 +1819,9 @@
     "name": "MUSICAL SYMBOL PEDAL MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "педаль", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 119215,
@@ -1405,7 +1829,9 @@
     "name": "MUSICAL SYMBOL PEDAL UP MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "педаль", "вверх", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 119216,
@@ -1413,7 +1839,9 @@
     "name": "MUSICAL SYMBOL HALF PEDAL MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "половина", "педаль", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 119217,
@@ -1421,7 +1849,9 @@
     "name": "MUSICAL SYMBOL GLISSANDO UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "глиссандо", "вверх"],
+    "concepts": []
   },
   {
     "cp": 119218,
@@ -1429,7 +1859,9 @@
     "name": "MUSICAL SYMBOL GLISSANDO DOWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "глиссандо", "вниз"],
+    "concepts": []
   },
   {
     "cp": 119219,
@@ -1437,7 +1869,9 @@
     "name": "MUSICAL SYMBOL WITH FINGERNAILS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "с", "ногти"],
+    "concepts": []
   },
   {
     "cp": 119220,
@@ -1445,7 +1879,9 @@
     "name": "MUSICAL SYMBOL DAMP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "глушение"],
+    "concepts": []
   },
   {
     "cp": 119221,
@@ -1453,7 +1889,9 @@
     "name": "MUSICAL SYMBOL DAMP ALL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "глушение", "все"],
+    "concepts": []
   },
   {
     "cp": 119222,
@@ -1461,7 +1899,9 @@
     "name": "MUSICAL SYMBOL MAXIMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "максима"],
+    "concepts": []
   },
   {
     "cp": 119223,
@@ -1469,7 +1909,9 @@
     "name": "MUSICAL SYMBOL LONGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "лонга"],
+    "concepts": []
   },
   {
     "cp": 119224,
@@ -1477,7 +1919,9 @@
     "name": "MUSICAL SYMBOL BREVIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "бревис"],
+    "concepts": []
   },
   {
     "cp": 119225,
@@ -1485,7 +1929,9 @@
     "name": "MUSICAL SYMBOL SEMIBREVIS WHITE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "семибревис", "белый (контурный)"],
+    "concepts": []
   },
   {
     "cp": 119226,
@@ -1493,7 +1939,9 @@
     "name": "MUSICAL SYMBOL SEMIBREVIS BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "семибревис", "чёрный (закрашенный)"],
+    "concepts": []
   },
   {
     "cp": 119227,
@@ -1501,7 +1949,9 @@
     "name": "MUSICAL SYMBOL MINIMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "минима"],
+    "concepts": []
   },
   {
     "cp": 119228,
@@ -1509,7 +1959,9 @@
     "name": "MUSICAL SYMBOL MINIMA BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "минима", "чёрный (закрашенный)"],
+    "concepts": []
   },
   {
     "cp": 119229,
@@ -1517,7 +1969,9 @@
     "name": "MUSICAL SYMBOL SEMIMINIMA WHITE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "семиминима", "белый (контурный)"],
+    "concepts": []
   },
   {
     "cp": 119230,
@@ -1525,7 +1979,9 @@
     "name": "MUSICAL SYMBOL SEMIMINIMA BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "семиминима", "чёрный (закрашенный)"],
+    "concepts": []
   },
   {
     "cp": 119231,
@@ -1533,7 +1989,9 @@
     "name": "MUSICAL SYMBOL FUSA WHITE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "фуза", "белый (контурный)"],
+    "concepts": []
   },
   {
     "cp": 119232,
@@ -1541,7 +1999,9 @@
     "name": "MUSICAL SYMBOL FUSA BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "фуза", "чёрный (закрашенный)"],
+    "concepts": []
   },
   {
     "cp": 119233,
@@ -1549,7 +2009,9 @@
     "name": "MUSICAL SYMBOL LONGA PERFECTA REST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "лонга", "совершенная", "пауза"],
+    "concepts": []
   },
   {
     "cp": 119234,
@@ -1557,7 +2019,9 @@
     "name": "MUSICAL SYMBOL LONGA IMPERFECTA REST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "лонга", "несовершенная", "пауза"],
+    "concepts": []
   },
   {
     "cp": 119235,
@@ -1565,7 +2029,9 @@
     "name": "MUSICAL SYMBOL BREVIS REST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "бревис", "пауза"],
+    "concepts": []
   },
   {
     "cp": 119236,
@@ -1573,7 +2039,9 @@
     "name": "MUSICAL SYMBOL SEMIBREVIS REST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "семибревис", "пауза"],
+    "concepts": []
   },
   {
     "cp": 119237,
@@ -1581,7 +2049,9 @@
     "name": "MUSICAL SYMBOL MINIMA REST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "минима", "пауза"],
+    "concepts": []
   },
   {
     "cp": 119238,
@@ -1589,7 +2059,9 @@
     "name": "MUSICAL SYMBOL SEMIMINIMA REST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "семиминима", "пауза"],
+    "concepts": []
   },
   {
     "cp": 119239,
@@ -1597,7 +2069,9 @@
     "name": "MUSICAL SYMBOL TEMPUS PERFECTUM CUM PROLATIONE PERFECTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "темпус", "перфектум", "с (cum)", "пролацио", "совершенная"],
+    "concepts": []
   },
   {
     "cp": 119240,
@@ -1605,7 +2079,17 @@
     "name": "MUSICAL SYMBOL TEMPUS PERFECTUM CUM PROLATIONE IMPERFECTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "музыкальный",
+      "символ",
+      "темпус",
+      "перфектум",
+      "с (cum)",
+      "пролацио",
+      "несовершенная"
+    ],
+    "concepts": []
   },
   {
     "cp": 119241,
@@ -1613,7 +2097,18 @@
     "name": "MUSICAL SYMBOL TEMPUS PERFECTUM CUM PROLATIONE PERFECTA DIMINUTION-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "музыкальный",
+      "символ",
+      "темпус",
+      "перфектум",
+      "с (cum)",
+      "пролацио",
+      "совершенная",
+      "уменьшение"
+    ],
+    "concepts": []
   },
   {
     "cp": 119242,
@@ -1621,7 +2116,17 @@
     "name": "MUSICAL SYMBOL TEMPUS IMPERFECTUM CUM PROLATIONE PERFECTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "музыкальный",
+      "символ",
+      "темпус",
+      "имперфектум",
+      "с (cum)",
+      "пролацио",
+      "совершенная"
+    ],
+    "concepts": []
   },
   {
     "cp": 119243,
@@ -1629,7 +2134,17 @@
     "name": "MUSICAL SYMBOL TEMPUS IMPERFECTUM CUM PROLATIONE IMPERFECTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "музыкальный",
+      "символ",
+      "темпус",
+      "имперфектум",
+      "с (cum)",
+      "пролацио",
+      "несовершенная"
+    ],
+    "concepts": []
   },
   {
     "cp": 119244,
@@ -1637,7 +2152,18 @@
     "name": "MUSICAL SYMBOL TEMPUS IMPERFECTUM CUM PROLATIONE IMPERFECTA DIMINUTION-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "музыкальный",
+      "символ",
+      "темпус",
+      "имперфектум",
+      "с (cum)",
+      "пролацио",
+      "несовершенная",
+      "уменьшение"
+    ],
+    "concepts": []
   },
   {
     "cp": 119245,
@@ -1645,7 +2171,18 @@
     "name": "MUSICAL SYMBOL TEMPUS IMPERFECTUM CUM PROLATIONE IMPERFECTA DIMINUTION-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "музыкальный",
+      "символ",
+      "темпус",
+      "имперфектум",
+      "с (cum)",
+      "пролацио",
+      "несовершенная",
+      "уменьшение"
+    ],
+    "concepts": []
   },
   {
     "cp": 119246,
@@ -1653,7 +2190,18 @@
     "name": "MUSICAL SYMBOL TEMPUS IMPERFECTUM CUM PROLATIONE IMPERFECTA DIMINUTION-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "музыкальный",
+      "символ",
+      "темпус",
+      "имперфектум",
+      "с (cum)",
+      "пролацио",
+      "несовершенная",
+      "уменьшение"
+    ],
+    "concepts": []
   },
   {
     "cp": 119247,
@@ -1661,7 +2209,9 @@
     "name": "MUSICAL SYMBOL CROIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "крест (croix)"],
+    "concepts": []
   },
   {
     "cp": 119248,
@@ -1669,7 +2219,9 @@
     "name": "MUSICAL SYMBOL GREGORIAN C CLEF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "григорианский", "ключ (нотный)"],
+    "concepts": []
   },
   {
     "cp": 119249,
@@ -1677,7 +2229,9 @@
     "name": "MUSICAL SYMBOL GREGORIAN F CLEF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "григорианский", "ключ (нотный)"],
+    "concepts": []
   },
   {
     "cp": 119250,
@@ -1685,7 +2239,9 @@
     "name": "MUSICAL SYMBOL SQUARE B",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "квадрат"],
+    "concepts": []
   },
   {
     "cp": 119251,
@@ -1693,7 +2249,9 @@
     "name": "MUSICAL SYMBOL VIRGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "вирга"],
+    "concepts": []
   },
   {
     "cp": 119252,
@@ -1701,7 +2259,9 @@
     "name": "MUSICAL SYMBOL PODATUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "податус"],
+    "concepts": []
   },
   {
     "cp": 119253,
@@ -1709,7 +2269,9 @@
     "name": "MUSICAL SYMBOL CLIVIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "кливис"],
+    "concepts": []
   },
   {
     "cp": 119254,
@@ -1717,7 +2279,9 @@
     "name": "MUSICAL SYMBOL SCANDICUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "скандикус"],
+    "concepts": []
   },
   {
     "cp": 119255,
@@ -1725,7 +2289,9 @@
     "name": "MUSICAL SYMBOL CLIMACUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "климакус"],
+    "concepts": []
   },
   {
     "cp": 119256,
@@ -1733,7 +2299,9 @@
     "name": "MUSICAL SYMBOL TORCULUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "торкулус"],
+    "concepts": []
   },
   {
     "cp": 119257,
@@ -1741,7 +2309,9 @@
     "name": "MUSICAL SYMBOL PORRECTUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "порректус"],
+    "concepts": []
   },
   {
     "cp": 119258,
@@ -1749,7 +2319,9 @@
     "name": "MUSICAL SYMBOL PORRECTUS FLEXUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "порректус", "флексус"],
+    "concepts": []
   },
   {
     "cp": 119259,
@@ -1757,7 +2329,9 @@
     "name": "MUSICAL SYMBOL SCANDICUS FLEXUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "скандикус", "флексус"],
+    "concepts": []
   },
   {
     "cp": 119260,
@@ -1765,7 +2339,9 @@
     "name": "MUSICAL SYMBOL TORCULUS RESUPINUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "торкулус", "резупинус"],
+    "concepts": []
   },
   {
     "cp": 119261,
@@ -1773,7 +2349,9 @@
     "name": "MUSICAL SYMBOL PES SUBPUNCTIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "пес", "субпунктис"],
+    "concepts": []
   },
   {
     "cp": 119262,
@@ -1781,7 +2359,9 @@
     "name": "MUSICAL SYMBOL KIEVAN C CLEF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "киевский", "ключ (нотный)"],
+    "concepts": []
   },
   {
     "cp": 119263,
@@ -1789,7 +2369,9 @@
     "name": "MUSICAL SYMBOL KIEVAN END OF PIECE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "киевский", "конец", "из", "фигура (деталь)"],
+    "concepts": []
   },
   {
     "cp": 119264,
@@ -1797,7 +2379,9 @@
     "name": "MUSICAL SYMBOL KIEVAN FINAL NOTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "киевский", "конечный", "нота"],
+    "concepts": []
   },
   {
     "cp": 119265,
@@ -1805,7 +2389,9 @@
     "name": "MUSICAL SYMBOL KIEVAN RECITATIVE MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "киевский", "речитатив", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 119266,
@@ -1813,7 +2399,9 @@
     "name": "MUSICAL SYMBOL KIEVAN WHOLE NOTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "киевский", "целая", "нота"],
+    "concepts": []
   },
   {
     "cp": 119267,
@@ -1821,7 +2409,9 @@
     "name": "MUSICAL SYMBOL KIEVAN HALF NOTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "киевский", "половина", "нота"],
+    "concepts": []
   },
   {
     "cp": 119268,
@@ -1829,7 +2419,9 @@
     "name": "MUSICAL SYMBOL KIEVAN QUARTER NOTE STEM DOWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "киевский", "четверть", "нота", "штиль (стебель)", "вниз"],
+    "concepts": []
   },
   {
     "cp": 119269,
@@ -1837,7 +2429,9 @@
     "name": "MUSICAL SYMBOL KIEVAN QUARTER NOTE STEM UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "киевский", "четверть", "нота", "штиль (стебель)", "вверх"],
+    "concepts": []
   },
   {
     "cp": 119270,
@@ -1845,7 +2439,9 @@
     "name": "MUSICAL SYMBOL KIEVAN EIGHTH NOTE STEM DOWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "киевский", "восьмая", "нота", "штиль (стебель)", "вниз"],
+    "concepts": []
   },
   {
     "cp": 119271,
@@ -1853,7 +2449,9 @@
     "name": "MUSICAL SYMBOL KIEVAN EIGHTH NOTE STEM UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "киевский", "восьмая", "нота", "штиль (стебель)", "вверх"],
+    "concepts": []
   },
   {
     "cp": 119272,
@@ -1861,7 +2459,9 @@
     "name": "MUSICAL SYMBOL KIEVAN FLAT SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "киевский", "бемоль (плоский)", "знак"],
+    "concepts": []
   },
   {
     "cp": 119273,
@@ -1869,7 +2469,9 @@
     "name": "MUSICAL SYMBOL SORI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "сори"],
+    "concepts": []
   },
   {
     "cp": 119274,
@@ -1877,7 +2479,9 @@
     "name": "MUSICAL SYMBOL KORON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "корон"],
+    "concepts": []
   },
   {
     "cp": 119275,
@@ -1885,7 +2489,9 @@
     "name": "MUSICAL SYMBOL HALF SHARP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "половина", "диез (острый)"],
+    "concepts": []
   },
   {
     "cp": 119276,
@@ -1893,7 +2499,9 @@
     "name": "MUSICAL SYMBOL ONE AND A HALF SHARP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "один", "и", "половина", "диез (острый)"],
+    "concepts": []
   },
   {
     "cp": 119277,
@@ -1901,7 +2509,9 @@
     "name": "MUSICAL SYMBOL REVERSED FLAT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "зеркальный (обратный)", "бемоль (плоский)"],
+    "concepts": []
   },
   {
     "cp": 119278,
@@ -1909,7 +2519,9 @@
     "name": "MUSICAL SYMBOL REVERSED FLAT AND FLAT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "зеркальный (обратный)", "бемоль (плоский)", "и"],
+    "concepts": []
   },
   {
     "cp": 119279,
@@ -1917,7 +2529,9 @@
     "name": "MUSICAL SYMBOL HALF SHARP UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "половина", "диез (острый)", "вверх"],
+    "concepts": []
   },
   {
     "cp": 119280,
@@ -1925,7 +2539,9 @@
     "name": "MUSICAL SYMBOL HALF SHARP DOWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "половина", "диез (острый)", "вниз"],
+    "concepts": []
   },
   {
     "cp": 119281,
@@ -1933,7 +2549,9 @@
     "name": "MUSICAL SYMBOL ONE AND A HALF SHARP UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "один", "и", "половина", "диез (острый)", "вверх"],
+    "concepts": []
   },
   {
     "cp": 119282,
@@ -1941,7 +2559,9 @@
     "name": "MUSICAL SYMBOL ONE AND A HALF SHARP DOWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "один", "и", "половина", "диез (острый)", "вниз"],
+    "concepts": []
   },
   {
     "cp": 119283,
@@ -1949,7 +2569,9 @@
     "name": "MUSICAL SYMBOL REVERSED FLAT UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "зеркальный (обратный)", "бемоль (плоский)", "вверх"],
+    "concepts": []
   },
   {
     "cp": 119284,
@@ -1957,7 +2579,9 @@
     "name": "MUSICAL SYMBOL REVERSED FLAT DOWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "зеркальный (обратный)", "бемоль (плоский)", "вниз"],
+    "concepts": []
   },
   {
     "cp": 119285,
@@ -1965,7 +2589,9 @@
     "name": "MUSICAL SYMBOL REVERSED FLAT AND FLAT UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "зеркальный (обратный)", "бемоль (плоский)", "и", "вверх"],
+    "concepts": []
   },
   {
     "cp": 119286,
@@ -1973,7 +2599,9 @@
     "name": "MUSICAL SYMBOL REVERSED FLAT AND FLAT DOWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "зеркальный (обратный)", "бемоль (плоский)", "и", "вниз"],
+    "concepts": []
   },
   {
     "cp": 119287,
@@ -1981,7 +2609,9 @@
     "name": "MUSICAL SYMBOL DIGIT TWO WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "цифра", "два", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 119288,
@@ -1989,7 +2619,9 @@
     "name": "MUSICAL SYMBOL DIGIT FOUR WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "цифра", "четыре", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 119289,
@@ -1997,7 +2629,9 @@
     "name": "MUSICAL SYMBOL DIGIT FIVE WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "цифра", "пять", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 119290,
@@ -2005,7 +2639,9 @@
     "name": "MUSICAL SYMBOL DIGIT SIX WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "цифра", "шесть", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 119291,
@@ -2013,7 +2649,9 @@
     "name": "MUSICAL SYMBOL DIGIT SEVEN WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "цифра", "семь", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 119292,
@@ -2021,7 +2659,9 @@
     "name": "MUSICAL SYMBOL DIGIT NINE WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "цифра", "девять", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 119293,
@@ -2029,7 +2669,9 @@
     "name": "MUSICAL SYMBOL DIGIT FIVE WITH LOW STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "цифра", "пять", "с", "низкий", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 119294,
@@ -2037,7 +2679,9 @@
     "name": "MUSICAL SYMBOL DIGIT SEVEN WITH LOW STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "цифра", "семь", "с", "низкий", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 119295,
@@ -2045,6 +2689,8 @@
     "name": "MUSICAL SYMBOL LONGA REST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["музыкальный", "символ", "лонга", "пауза"],
+    "concepts": []
   }
 ]

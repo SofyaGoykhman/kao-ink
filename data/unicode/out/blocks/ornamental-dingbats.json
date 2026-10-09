@@ -5,7 +5,9 @@
     "name": "NORTH WEST POINTING LEAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["север", "запад", "указывающий", "лист"],
+    "concepts": ["heart-floral", "leaf"]
   },
   {
     "cp": 128593,
@@ -13,7 +15,9 @@
     "name": "SOUTH WEST POINTING LEAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["юг", "запад", "указывающий", "лист"],
+    "concepts": ["heart-floral", "leaf"]
   },
   {
     "cp": 128594,
@@ -21,7 +25,9 @@
     "name": "NORTH EAST POINTING LEAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["север", "восток", "указывающий", "лист"],
+    "concepts": ["heart-floral", "leaf"]
   },
   {
     "cp": 128595,
@@ -29,7 +35,9 @@
     "name": "SOUTH EAST POINTING LEAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["юг", "восток", "указывающий", "лист"],
+    "concepts": ["heart-floral", "leaf"]
   },
   {
     "cp": 128596,
@@ -37,7 +45,9 @@
     "name": "TURNED NORTH WEST POINTING LEAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["перевёрнутый", "север", "запад", "указывающий", "лист"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 128597,
@@ -45,7 +55,9 @@
     "name": "TURNED SOUTH WEST POINTING LEAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["перевёрнутый", "юг", "запад", "указывающий", "лист"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 128598,
@@ -53,7 +65,9 @@
     "name": "TURNED NORTH EAST POINTING LEAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["перевёрнутый", "север", "восток", "указывающий", "лист"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 128599,
@@ -61,7 +75,9 @@
     "name": "TURNED SOUTH EAST POINTING LEAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["перевёрнутый", "юг", "восток", "указывающий", "лист"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 128600,
@@ -69,7 +85,9 @@
     "name": "NORTH WEST POINTING VINE LEAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["север", "запад", "указывающий", "лоза", "лист"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 128601,
@@ -77,7 +95,9 @@
     "name": "SOUTH WEST POINTING VINE LEAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["юг", "запад", "указывающий", "лоза", "лист"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 128602,
@@ -85,7 +105,9 @@
     "name": "NORTH EAST POINTING VINE LEAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["север", "восток", "указывающий", "лоза", "лист"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 128603,
@@ -93,7 +115,9 @@
     "name": "SOUTH EAST POINTING VINE LEAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["юг", "восток", "указывающий", "лоза", "лист"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 128604,
@@ -101,7 +125,9 @@
     "name": "HEAVY NORTH WEST POINTING VINE LEAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["жирный (толстый)", "север", "запад", "указывающий", "лоза", "лист"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 128605,
@@ -109,7 +135,9 @@
     "name": "HEAVY SOUTH WEST POINTING VINE LEAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["жирный (толстый)", "юг", "запад", "указывающий", "лоза", "лист"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 128606,
@@ -117,7 +145,9 @@
     "name": "HEAVY NORTH EAST POINTING VINE LEAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["жирный (толстый)", "север", "восток", "указывающий", "лоза", "лист"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 128607,
@@ -125,7 +155,9 @@
     "name": "HEAVY SOUTH EAST POINTING VINE LEAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["жирный (толстый)", "юг", "восток", "указывающий", "лоза", "лист"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 128608,
@@ -133,7 +165,9 @@
     "name": "NORTH WEST POINTING BUD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["север", "запад", "указывающий", "бутон"],
+    "concepts": ["plant"]
   },
   {
     "cp": 128609,
@@ -141,7 +175,9 @@
     "name": "SOUTH WEST POINTING BUD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["юг", "запад", "указывающий", "бутон"],
+    "concepts": ["plant"]
   },
   {
     "cp": 128610,
@@ -149,7 +185,9 @@
     "name": "NORTH EAST POINTING BUD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["север", "восток", "указывающий", "бутон"],
+    "concepts": ["plant"]
   },
   {
     "cp": 128611,
@@ -157,7 +195,9 @@
     "name": "SOUTH EAST POINTING BUD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["юг", "восток", "указывающий", "бутон"],
+    "concepts": ["plant"]
   },
   {
     "cp": 128612,
@@ -165,7 +205,9 @@
     "name": "HEAVY NORTH WEST POINTING BUD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["жирный (толстый)", "север", "запад", "указывающий", "бутон"],
+    "concepts": ["plant"]
   },
   {
     "cp": 128613,
@@ -173,7 +215,9 @@
     "name": "HEAVY SOUTH WEST POINTING BUD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["жирный (толстый)", "юг", "запад", "указывающий", "бутон"],
+    "concepts": ["plant"]
   },
   {
     "cp": 128614,
@@ -181,7 +225,9 @@
     "name": "HEAVY NORTH EAST POINTING BUD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["жирный (толстый)", "север", "восток", "указывающий", "бутон"],
+    "concepts": ["plant"]
   },
   {
     "cp": 128615,
@@ -189,7 +235,9 @@
     "name": "HEAVY SOUTH EAST POINTING BUD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["жирный (толстый)", "юг", "восток", "указывающий", "бутон"],
+    "concepts": ["plant"]
   },
   {
     "cp": 128616,
@@ -197,7 +245,9 @@
     "name": "HOLLOW QUILT SQUARE ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["полый (пустой)", "стёганый", "квадрат", "орнамент (украшение)"],
+    "concepts": []
   },
   {
     "cp": 128617,
@@ -205,7 +255,16 @@
     "name": "HOLLOW QUILT SQUARE ORNAMENT IN BLACK SQUARE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "полый (пустой)",
+      "стёганый",
+      "квадрат",
+      "орнамент (украшение)",
+      "в",
+      "чёрный (закрашенный)"
+    ],
+    "concepts": []
   },
   {
     "cp": 128618,
@@ -213,7 +272,9 @@
     "name": "SOLID QUILT SQUARE ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сплошной", "стёганый", "квадрат", "орнамент (украшение)"],
+    "concepts": []
   },
   {
     "cp": 128619,
@@ -221,7 +282,16 @@
     "name": "SOLID QUILT SQUARE ORNAMENT IN BLACK SQUARE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "сплошной",
+      "стёганый",
+      "квадрат",
+      "орнамент (украшение)",
+      "в",
+      "чёрный (закрашенный)"
+    ],
+    "concepts": []
   },
   {
     "cp": 128620,
@@ -229,7 +299,9 @@
     "name": "LEFTWARDS ROCKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["влево", "ракета"],
+    "concepts": []
   },
   {
     "cp": 128621,
@@ -237,7 +309,9 @@
     "name": "UPWARDS ROCKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вверх", "ракета"],
+    "concepts": []
   },
   {
     "cp": 128622,
@@ -245,7 +319,9 @@
     "name": "RIGHTWARDS ROCKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вправо", "ракета"],
+    "concepts": []
   },
   {
     "cp": 128623,
@@ -253,7 +329,9 @@
     "name": "DOWNWARDS ROCKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вниз", "ракета"],
+    "concepts": []
   },
   {
     "cp": 128624,
@@ -261,7 +339,9 @@
     "name": "SCRIPT LIGATURE ET ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рукописный", "лигатура", "и (et)", "орнамент (украшение)"],
+    "concepts": []
   },
   {
     "cp": 128625,
@@ -269,7 +349,9 @@
     "name": "HEAVY SCRIPT LIGATURE ET ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["жирный (толстый)", "рукописный", "лигатура", "и (et)", "орнамент (украшение)"],
+    "concepts": []
   },
   {
     "cp": 128626,
@@ -277,7 +359,9 @@
     "name": "LIGATURE OPEN ET ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лигатура", "открытый", "и (et)", "орнамент (украшение)"],
+    "concepts": []
   },
   {
     "cp": 128627,
@@ -285,7 +369,9 @@
     "name": "HEAVY LIGATURE OPEN ET ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["жирный (толстый)", "лигатура", "открытый", "и (et)", "орнамент (украшение)"],
+    "concepts": []
   },
   {
     "cp": 128628,
@@ -293,7 +379,9 @@
     "name": "HEAVY AMPERSAND ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["жирный (толстый)", "амперсанд (&)", "орнамент (украшение)"],
+    "concepts": []
   },
   {
     "cp": 128629,
@@ -301,7 +389,9 @@
     "name": "SWASH AMPERSAND ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["росчерк", "амперсанд (&)", "орнамент (украшение)"],
+    "concepts": []
   },
   {
     "cp": 128630,
@@ -309,7 +399,19 @@
     "name": "SANS-SERIF HEAVY DOUBLE TURNED COMMA QUOTATION MARK ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "без засечек",
+      "засечки",
+      "жирный (толстый)",
+      "двойной",
+      "перевёрнутый",
+      "запятая",
+      "кавычка",
+      "метка (знак)",
+      "орнамент (украшение)"
+    ],
+    "concepts": []
   },
   {
     "cp": 128631,
@@ -317,7 +419,18 @@
     "name": "SANS-SERIF HEAVY DOUBLE COMMA QUOTATION MARK ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "без засечек",
+      "засечки",
+      "жирный (толстый)",
+      "двойной",
+      "запятая",
+      "кавычка",
+      "метка (знак)",
+      "орнамент (украшение)"
+    ],
+    "concepts": []
   },
   {
     "cp": 128632,
@@ -325,7 +438,19 @@
     "name": "SANS-SERIF HEAVY LOW DOUBLE COMMA QUOTATION MARK ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "без засечек",
+      "засечки",
+      "жирный (толстый)",
+      "низкий",
+      "двойной",
+      "запятая",
+      "кавычка",
+      "метка (знак)",
+      "орнамент (украшение)"
+    ],
+    "concepts": []
   },
   {
     "cp": 128633,
@@ -333,7 +458,9 @@
     "name": "HEAVY INTERROBANG ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["жирный (толстый)", "интерробанг (?!)", "орнамент (украшение)"],
+    "concepts": []
   },
   {
     "cp": 128634,
@@ -341,7 +468,9 @@
     "name": "SANS-SERIF INTERROBANG ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["без засечек", "засечки", "интерробанг (?!)", "орнамент (украшение)"],
+    "concepts": []
   },
   {
     "cp": 128635,
@@ -349,7 +478,15 @@
     "name": "HEAVY SANS-SERIF INTERROBANG ORNAMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "жирный (толстый)",
+      "без засечек",
+      "засечки",
+      "интерробанг (?!)",
+      "орнамент (украшение)"
+    ],
+    "concepts": []
   },
   {
     "cp": 128636,
@@ -357,7 +494,9 @@
     "name": "VERY HEAVY SOLIDUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["очень", "жирный (толстый)", "косая черта (слэш)"],
+    "concepts": []
   },
   {
     "cp": 128637,
@@ -365,7 +504,9 @@
     "name": "VERY HEAVY REVERSE SOLIDUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["очень", "жирный (толстый)", "обратный", "косая черта (слэш)"],
+    "concepts": []
   },
   {
     "cp": 128638,
@@ -373,7 +514,9 @@
     "name": "CHECKER BOARD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шашка (клетка)", "доска"],
+    "concepts": []
   },
   {
     "cp": 128639,
@@ -381,6 +524,8 @@
     "name": "REVERSE CHECKER BOARD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["обратный", "шашка (клетка)", "доска"],
+    "concepts": []
   }
 ]

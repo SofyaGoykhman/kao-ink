@@ -5,7 +5,9 @@
     "name": "SUPERSCRIPT ZERO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["верхний индекс", "ноль"],
+    "concepts": []
   },
   {
     "cp": 8305,
@@ -13,7 +15,9 @@
     "name": "SUPERSCRIPT LATIN SMALL LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["верхний индекс", "латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 8308,
@@ -21,7 +25,9 @@
     "name": "SUPERSCRIPT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["верхний индекс", "четыре"],
+    "concepts": []
   },
   {
     "cp": 8309,
@@ -29,7 +35,9 @@
     "name": "SUPERSCRIPT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["верхний индекс", "пять"],
+    "concepts": []
   },
   {
     "cp": 8310,
@@ -37,7 +45,9 @@
     "name": "SUPERSCRIPT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["верхний индекс", "шесть"],
+    "concepts": []
   },
   {
     "cp": 8311,
@@ -45,7 +55,9 @@
     "name": "SUPERSCRIPT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["верхний индекс", "семь"],
+    "concepts": []
   },
   {
     "cp": 8312,
@@ -53,7 +65,9 @@
     "name": "SUPERSCRIPT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["верхний индекс", "восемь"],
+    "concepts": []
   },
   {
     "cp": 8313,
@@ -61,7 +75,9 @@
     "name": "SUPERSCRIPT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["верхний индекс", "девять"],
+    "concepts": []
   },
   {
     "cp": 8314,
@@ -69,7 +85,9 @@
     "name": "SUPERSCRIPT PLUS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["верхний индекс", "плюс", "знак"],
+    "concepts": ["star-small", "sparkle"]
   },
   {
     "cp": 8315,
@@ -77,7 +95,9 @@
     "name": "SUPERSCRIPT MINUS",
     "ru": "надстрочный минус",
     "en": "superscript minus",
-    "keywords": { "ru": ["минус", "надстрочный", "степень"], "en": ["minus", "superscript"] }
+    "keywords": { "ru": ["минус", "надстрочный", "степень"], "en": ["minus", "superscript"] },
+    "desc": ["верхний индекс", "минус"],
+    "concepts": []
   },
   {
     "cp": 8316,
@@ -85,7 +105,9 @@
     "name": "SUPERSCRIPT EQUALS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["верхний индекс", "равно", "знак"],
+    "concepts": []
   },
   {
     "cp": 8317,
@@ -93,7 +115,9 @@
     "name": "SUPERSCRIPT LEFT PARENTHESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["верхний индекс", "левый (влево)", "круглая скобка"],
+    "concepts": []
   },
   {
     "cp": 8318,
@@ -101,7 +125,9 @@
     "name": "SUPERSCRIPT RIGHT PARENTHESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["верхний индекс", "правый (вправо)", "круглая скобка"],
+    "concepts": []
   },
   {
     "cp": 8319,
@@ -109,7 +135,9 @@
     "name": "SUPERSCRIPT LATIN SMALL LETTER N",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["верхний индекс", "латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 8320,
@@ -117,7 +145,9 @@
     "name": "SUBSCRIPT ZERO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний индекс", "ноль"],
+    "concepts": []
   },
   {
     "cp": 8321,
@@ -125,7 +155,9 @@
     "name": "SUBSCRIPT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний индекс", "один"],
+    "concepts": []
   },
   {
     "cp": 8322,
@@ -133,7 +165,9 @@
     "name": "SUBSCRIPT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний индекс", "два"],
+    "concepts": []
   },
   {
     "cp": 8323,
@@ -141,7 +175,9 @@
     "name": "SUBSCRIPT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний индекс", "три"],
+    "concepts": []
   },
   {
     "cp": 8324,
@@ -149,7 +185,9 @@
     "name": "SUBSCRIPT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний индекс", "четыре"],
+    "concepts": []
   },
   {
     "cp": 8325,
@@ -157,7 +195,9 @@
     "name": "SUBSCRIPT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний индекс", "пять"],
+    "concepts": []
   },
   {
     "cp": 8326,
@@ -165,7 +205,9 @@
     "name": "SUBSCRIPT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний индекс", "шесть"],
+    "concepts": []
   },
   {
     "cp": 8327,
@@ -173,7 +215,9 @@
     "name": "SUBSCRIPT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний индекс", "семь"],
+    "concepts": []
   },
   {
     "cp": 8328,
@@ -181,7 +225,9 @@
     "name": "SUBSCRIPT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний индекс", "восемь"],
+    "concepts": []
   },
   {
     "cp": 8329,
@@ -189,7 +235,9 @@
     "name": "SUBSCRIPT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний индекс", "девять"],
+    "concepts": []
   },
   {
     "cp": 8330,
@@ -197,7 +245,9 @@
     "name": "SUBSCRIPT PLUS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний индекс", "плюс", "знак"],
+    "concepts": ["star-small", "sparkle"]
   },
   {
     "cp": 8331,
@@ -205,7 +255,9 @@
     "name": "SUBSCRIPT MINUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний индекс", "минус"],
+    "concepts": []
   },
   {
     "cp": 8332,
@@ -213,7 +265,9 @@
     "name": "SUBSCRIPT EQUALS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний индекс", "равно", "знак"],
+    "concepts": []
   },
   {
     "cp": 8333,
@@ -221,7 +275,9 @@
     "name": "SUBSCRIPT LEFT PARENTHESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний индекс", "левый (влево)", "круглая скобка"],
+    "concepts": []
   },
   {
     "cp": 8334,
@@ -229,7 +285,9 @@
     "name": "SUBSCRIPT RIGHT PARENTHESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нижний индекс", "правый (вправо)", "круглая скобка"],
+    "concepts": []
   },
   {
     "cp": 8335,
@@ -237,7 +295,9 @@
     "name": "MODIFIER LETTER HIGH AND LOW VERTICAL LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "высокий", "и", "низкий", "вертикальный", "линия"],
+    "concepts": []
   },
   {
     "cp": 8336,
@@ -245,7 +305,9 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 8337,
@@ -253,7 +315,9 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 8338,
@@ -261,7 +325,9 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 8339,
@@ -269,7 +335,9 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER X",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 8340,
@@ -277,7 +345,9 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER SCHWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква", "шва"],
+    "concepts": []
   },
   {
     "cp": 8341,
@@ -285,7 +355,9 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER H",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 8342,
@@ -293,7 +365,9 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER K",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 8343,
@@ -301,7 +375,9 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 8344,
@@ -309,7 +385,9 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER M",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 8345,
@@ -317,7 +395,9 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER N",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 8346,
@@ -325,7 +405,9 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER P",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 8347,
@@ -333,7 +415,9 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER S",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 8348,
@@ -341,7 +425,9 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER T",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 8349,
@@ -349,7 +435,9 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER W",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 8350,
@@ -357,7 +445,9 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER Y",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 8351,
@@ -365,6 +455,8 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER Z",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
+    "concepts": []
   }
 ]

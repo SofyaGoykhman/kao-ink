@@ -5,7 +5,9 @@
     "name": "CHAM LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква"],
+    "concepts": []
   },
   {
     "cp": 43521,
@@ -13,7 +15,9 @@
     "name": "CHAM LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква"],
+    "concepts": []
   },
   {
     "cp": 43522,
@@ -21,7 +25,9 @@
     "name": "CHAM LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква"],
+    "concepts": []
   },
   {
     "cp": 43523,
@@ -29,7 +35,9 @@
     "name": "CHAM LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква"],
+    "concepts": []
   },
   {
     "cp": 43524,
@@ -37,7 +45,9 @@
     "name": "CHAM LETTER AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "аи"],
+    "concepts": ["heart"]
   },
   {
     "cp": 43525,
@@ -45,7 +55,9 @@
     "name": "CHAM LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква"],
+    "concepts": []
   },
   {
     "cp": 43526,
@@ -53,7 +65,9 @@
     "name": "CHAM LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 43527,
@@ -61,7 +75,9 @@
     "name": "CHAM LETTER KHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "кха"],
+    "concepts": []
   },
   {
     "cp": 43528,
@@ -69,7 +85,9 @@
     "name": "CHAM LETTER GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "га"],
+    "concepts": []
   },
   {
     "cp": 43529,
@@ -77,7 +95,9 @@
     "name": "CHAM LETTER GHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "гха"],
+    "concepts": []
   },
   {
     "cp": 43530,
@@ -85,7 +105,9 @@
     "name": "CHAM LETTER NGUE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква"],
+    "concepts": []
   },
   {
     "cp": 43531,
@@ -93,7 +115,9 @@
     "name": "CHAM LETTER NGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "нга"],
+    "concepts": []
   },
   {
     "cp": 43532,
@@ -101,7 +125,9 @@
     "name": "CHAM LETTER CHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 43533,
@@ -109,7 +135,9 @@
     "name": "CHAM LETTER CHHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква"],
+    "concepts": []
   },
   {
     "cp": 43534,
@@ -117,7 +145,9 @@
     "name": "CHAM LETTER JA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "джа"],
+    "concepts": []
   },
   {
     "cp": 43535,
@@ -125,7 +155,9 @@
     "name": "CHAM LETTER JHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "джха"],
+    "concepts": []
   },
   {
     "cp": 43536,
@@ -133,7 +165,9 @@
     "name": "CHAM LETTER NHUE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква"],
+    "concepts": []
   },
   {
     "cp": 43537,
@@ -141,7 +175,9 @@
     "name": "CHAM LETTER NHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "нха"],
+    "concepts": []
   },
   {
     "cp": 43538,
@@ -149,7 +185,9 @@
     "name": "CHAM LETTER NHJA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква"],
+    "concepts": []
   },
   {
     "cp": 43539,
@@ -157,7 +195,9 @@
     "name": "CHAM LETTER TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 43540,
@@ -165,7 +205,9 @@
     "name": "CHAM LETTER THA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "тха"],
+    "concepts": []
   },
   {
     "cp": 43541,
@@ -173,7 +215,9 @@
     "name": "CHAM LETTER DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "да"],
+    "concepts": []
   },
   {
     "cp": 43542,
@@ -181,7 +225,9 @@
     "name": "CHAM LETTER DHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "дха"],
+    "concepts": []
   },
   {
     "cp": 43543,
@@ -189,7 +235,9 @@
     "name": "CHAM LETTER NUE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква"],
+    "concepts": []
   },
   {
     "cp": 43544,
@@ -197,7 +245,9 @@
     "name": "CHAM LETTER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 43545,
@@ -205,7 +255,9 @@
     "name": "CHAM LETTER DDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "дда"],
+    "concepts": []
   },
   {
     "cp": 43546,
@@ -213,7 +265,9 @@
     "name": "CHAM LETTER PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "па"],
+    "concepts": []
   },
   {
     "cp": 43547,
@@ -221,7 +275,9 @@
     "name": "CHAM LETTER PPA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква"],
+    "concepts": []
   },
   {
     "cp": 43548,
@@ -229,7 +285,9 @@
     "name": "CHAM LETTER PHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "пха"],
+    "concepts": []
   },
   {
     "cp": 43549,
@@ -237,7 +295,9 @@
     "name": "CHAM LETTER BA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "ба"],
+    "concepts": []
   },
   {
     "cp": 43550,
@@ -245,7 +305,9 @@
     "name": "CHAM LETTER BHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "бха"],
+    "concepts": []
   },
   {
     "cp": 43551,
@@ -253,7 +315,9 @@
     "name": "CHAM LETTER MUE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква"],
+    "concepts": []
   },
   {
     "cp": 43552,
@@ -261,7 +325,9 @@
     "name": "CHAM LETTER MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 43553,
@@ -269,7 +335,9 @@
     "name": "CHAM LETTER BBA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "бба"],
+    "concepts": []
   },
   {
     "cp": 43554,
@@ -277,7 +345,9 @@
     "name": "CHAM LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 43555,
@@ -285,7 +355,9 @@
     "name": "CHAM LETTER RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 43556,
@@ -293,7 +365,9 @@
     "name": "CHAM LETTER LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "ла"],
+    "concepts": []
   },
   {
     "cp": 43557,
@@ -301,7 +375,9 @@
     "name": "CHAM LETTER VA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "ва"],
+    "concepts": []
   },
   {
     "cp": 43558,
@@ -309,7 +385,9 @@
     "name": "CHAM LETTER SSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "сса"],
+    "concepts": []
   },
   {
     "cp": 43559,
@@ -317,7 +395,9 @@
     "name": "CHAM LETTER SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 43560,
@@ -325,7 +405,9 @@
     "name": "CHAM LETTER HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 43561,
@@ -333,7 +415,9 @@
     "name": "CHAM VOWEL SIGN AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "гласная", "знак", "аа"],
+    "concepts": []
   },
   {
     "cp": 43562,
@@ -341,7 +425,9 @@
     "name": "CHAM VOWEL SIGN I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 43563,
@@ -349,7 +435,9 @@
     "name": "CHAM VOWEL SIGN II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "гласная", "знак", "ии"],
+    "concepts": []
   },
   {
     "cp": 43564,
@@ -357,7 +445,9 @@
     "name": "CHAM VOWEL SIGN EI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "гласная", "знак", "еи"],
+    "concepts": []
   },
   {
     "cp": 43565,
@@ -365,7 +455,9 @@
     "name": "CHAM VOWEL SIGN U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 43566,
@@ -373,7 +465,9 @@
     "name": "CHAM VOWEL SIGN OE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "гласная", "знак", "oe (лигатура)"],
+    "concepts": []
   },
   {
     "cp": 43567,
@@ -381,7 +475,9 @@
     "name": "CHAM VOWEL SIGN O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 43568,
@@ -389,7 +485,9 @@
     "name": "CHAM VOWEL SIGN AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "гласная", "знак", "аи"],
+    "concepts": []
   },
   {
     "cp": 43569,
@@ -397,7 +495,9 @@
     "name": "CHAM VOWEL SIGN AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "гласная", "знак", "ау"],
+    "concepts": []
   },
   {
     "cp": 43570,
@@ -405,7 +505,9 @@
     "name": "CHAM VOWEL SIGN UE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "гласная", "знак", "уэ"],
+    "concepts": []
   },
   {
     "cp": 43571,
@@ -413,7 +515,9 @@
     "name": "CHAM CONSONANT SIGN YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "согласная", "знак", "я"],
+    "concepts": []
   },
   {
     "cp": 43572,
@@ -421,7 +525,9 @@
     "name": "CHAM CONSONANT SIGN RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "согласная", "знак", "ра"],
+    "concepts": []
   },
   {
     "cp": 43573,
@@ -429,7 +535,9 @@
     "name": "CHAM CONSONANT SIGN LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "согласная", "знак", "ла"],
+    "concepts": []
   },
   {
     "cp": 43574,
@@ -437,7 +545,9 @@
     "name": "CHAM CONSONANT SIGN WA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "согласная", "знак", "ва"],
+    "concepts": []
   },
   {
     "cp": 43584,
@@ -445,7 +555,9 @@
     "name": "CHAM LETTER FINAL K",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "конечный"],
+    "concepts": []
   },
   {
     "cp": 43585,
@@ -453,7 +565,9 @@
     "name": "CHAM LETTER FINAL G",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "конечный"],
+    "concepts": []
   },
   {
     "cp": 43586,
@@ -461,7 +575,9 @@
     "name": "CHAM LETTER FINAL NG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "конечный", "NG"],
+    "concepts": []
   },
   {
     "cp": 43587,
@@ -469,7 +585,9 @@
     "name": "CHAM CONSONANT SIGN FINAL NG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "согласная", "знак", "конечный", "NG"],
+    "concepts": []
   },
   {
     "cp": 43588,
@@ -477,7 +595,9 @@
     "name": "CHAM LETTER FINAL CH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "конечный", "ч"],
+    "concepts": []
   },
   {
     "cp": 43589,
@@ -485,7 +605,9 @@
     "name": "CHAM LETTER FINAL T",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "конечный"],
+    "concepts": []
   },
   {
     "cp": 43590,
@@ -493,7 +615,9 @@
     "name": "CHAM LETTER FINAL N",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "конечный"],
+    "concepts": []
   },
   {
     "cp": 43591,
@@ -501,7 +625,9 @@
     "name": "CHAM LETTER FINAL P",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "конечный"],
+    "concepts": []
   },
   {
     "cp": 43592,
@@ -509,7 +635,9 @@
     "name": "CHAM LETTER FINAL Y",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "конечный"],
+    "concepts": []
   },
   {
     "cp": 43593,
@@ -517,7 +645,9 @@
     "name": "CHAM LETTER FINAL R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "конечный"],
+    "concepts": []
   },
   {
     "cp": 43594,
@@ -525,7 +655,9 @@
     "name": "CHAM LETTER FINAL L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "конечный"],
+    "concepts": []
   },
   {
     "cp": 43595,
@@ -533,7 +665,9 @@
     "name": "CHAM LETTER FINAL SS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "буква", "конечный", "SS"],
+    "concepts": []
   },
   {
     "cp": 43596,
@@ -541,7 +675,9 @@
     "name": "CHAM CONSONANT SIGN FINAL M",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "согласная", "знак", "конечный"],
+    "concepts": []
   },
   {
     "cp": 43597,
@@ -549,7 +685,9 @@
     "name": "CHAM CONSONANT SIGN FINAL H",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "согласная", "знак", "конечный"],
+    "concepts": []
   },
   {
     "cp": 43600,
@@ -557,7 +695,9 @@
     "name": "CHAM DIGIT ZERO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "цифра", "ноль"],
+    "concepts": []
   },
   {
     "cp": 43601,
@@ -565,7 +705,9 @@
     "name": "CHAM DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "цифра", "один"],
+    "concepts": []
   },
   {
     "cp": 43602,
@@ -573,7 +715,9 @@
     "name": "CHAM DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "цифра", "два"],
+    "concepts": []
   },
   {
     "cp": 43603,
@@ -581,7 +725,9 @@
     "name": "CHAM DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "цифра", "три"],
+    "concepts": []
   },
   {
     "cp": 43604,
@@ -589,7 +735,9 @@
     "name": "CHAM DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "цифра", "четыре"],
+    "concepts": []
   },
   {
     "cp": 43605,
@@ -597,7 +745,9 @@
     "name": "CHAM DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "цифра", "пять"],
+    "concepts": []
   },
   {
     "cp": 43606,
@@ -605,7 +755,9 @@
     "name": "CHAM DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "цифра", "шесть"],
+    "concepts": []
   },
   {
     "cp": 43607,
@@ -613,7 +765,9 @@
     "name": "CHAM DIGIT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "цифра", "семь"],
+    "concepts": []
   },
   {
     "cp": 43608,
@@ -621,7 +775,9 @@
     "name": "CHAM DIGIT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "цифра", "восемь"],
+    "concepts": []
   },
   {
     "cp": 43609,
@@ -629,7 +785,9 @@
     "name": "CHAM DIGIT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "цифра", "девять"],
+    "concepts": []
   },
   {
     "cp": 43612,
@@ -637,7 +795,9 @@
     "name": "CHAM PUNCTUATION SPIRAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "пунктуация", "спираль"],
+    "concepts": ["rose", "cloud", "wind", "water", "fire", "wave", "spiral"]
   },
   {
     "cp": 43613,
@@ -645,7 +805,9 @@
     "name": "CHAM PUNCTUATION DANDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "пунктуация", "данда"],
+    "concepts": ["wind", "spiral"]
   },
   {
     "cp": 43614,
@@ -653,7 +815,9 @@
     "name": "CHAM PUNCTUATION DOUBLE DANDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "пунктуация", "двойной", "данда"],
+    "concepts": []
   },
   {
     "cp": 43615,
@@ -661,6 +825,8 @@
     "name": "CHAM PUNCTUATION TRIPLE DANDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тямский", "пунктуация", "тройной", "данда"],
+    "concepts": []
   }
 ]

@@ -5,7 +5,9 @@
     "name": "IDEOGRAPHIC ANNOTATION LINKING MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "аннотация", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12689,
@@ -13,7 +15,9 @@
     "name": "IDEOGRAPHIC ANNOTATION REVERSE MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "аннотация", "обратный", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12690,
@@ -21,7 +25,9 @@
     "name": "IDEOGRAPHIC ANNOTATION ONE MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "аннотация", "один", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12691,
@@ -29,7 +35,9 @@
     "name": "IDEOGRAPHIC ANNOTATION TWO MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "аннотация", "два", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12692,
@@ -37,7 +45,9 @@
     "name": "IDEOGRAPHIC ANNOTATION THREE MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "аннотация", "три", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12693,
@@ -45,7 +55,9 @@
     "name": "IDEOGRAPHIC ANNOTATION FOUR MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "аннотация", "четыре", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12694,
@@ -53,7 +65,9 @@
     "name": "IDEOGRAPHIC ANNOTATION TOP MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "аннотация", "верх", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12695,
@@ -61,7 +75,9 @@
     "name": "IDEOGRAPHIC ANNOTATION MIDDLE MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "аннотация", "средний", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12696,
@@ -69,7 +85,9 @@
     "name": "IDEOGRAPHIC ANNOTATION BOTTOM MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "аннотация", "низ", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12697,
@@ -77,7 +95,9 @@
     "name": "IDEOGRAPHIC ANNOTATION FIRST MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "аннотация", "первый", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12698,
@@ -85,7 +105,9 @@
     "name": "IDEOGRAPHIC ANNOTATION SECOND MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "аннотация", "второй (секунда)", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12699,
@@ -93,7 +115,9 @@
     "name": "IDEOGRAPHIC ANNOTATION THIRD MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "аннотация", "третий (треть)", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12700,
@@ -101,7 +125,9 @@
     "name": "IDEOGRAPHIC ANNOTATION FOURTH MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "аннотация", "четвёртый", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12701,
@@ -109,7 +135,9 @@
     "name": "IDEOGRAPHIC ANNOTATION HEAVEN MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "аннотация", "небо", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12702,
@@ -117,7 +145,9 @@
     "name": "IDEOGRAPHIC ANNOTATION EARTH MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "аннотация", "земля", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 12703,
@@ -125,6 +155,8 @@
     "name": "IDEOGRAPHIC ANNOTATION MAN MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иероглифический", "аннотация", "мужчина", "метка (знак)"],
+    "concepts": []
   }
 ]

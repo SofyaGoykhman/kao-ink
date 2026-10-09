@@ -5,7 +5,9 @@
     "name": "SYMBOL FOR NULL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "нуль"],
+    "concepts": []
   },
   {
     "cp": 9217,
@@ -13,7 +15,9 @@
     "name": "SYMBOL FOR START OF HEADING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "начало", "из", "заголовок"],
+    "concepts": []
   },
   {
     "cp": 9218,
@@ -21,7 +25,9 @@
     "name": "SYMBOL FOR START OF TEXT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "начало", "из", "текст"],
+    "concepts": []
   },
   {
     "cp": 9219,
@@ -29,7 +35,9 @@
     "name": "SYMBOL FOR END OF TEXT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "конец", "из", "текст"],
+    "concepts": []
   },
   {
     "cp": 9220,
@@ -37,7 +45,9 @@
     "name": "SYMBOL FOR END OF TRANSMISSION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "конец", "из", "передача"],
+    "concepts": []
   },
   {
     "cp": 9221,
@@ -45,7 +55,9 @@
     "name": "SYMBOL FOR ENQUIRY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "запрос"],
+    "concepts": []
   },
   {
     "cp": 9222,
@@ -53,7 +65,9 @@
     "name": "SYMBOL FOR ACKNOWLEDGE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "подтверждение"],
+    "concepts": []
   },
   {
     "cp": 9223,
@@ -61,7 +75,9 @@
     "name": "SYMBOL FOR BELL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "колокол (колокольчик)"],
+    "concepts": []
   },
   {
     "cp": 9224,
@@ -69,7 +85,9 @@
     "name": "SYMBOL FOR BACKSPACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "забой (backspace)"],
+    "concepts": []
   },
   {
     "cp": 9225,
@@ -77,7 +95,9 @@
     "name": "SYMBOL FOR HORIZONTAL TABULATION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "горизонтальный", "табуляция"],
+    "concepts": []
   },
   {
     "cp": 9226,
@@ -85,7 +105,9 @@
     "name": "SYMBOL FOR LINE FEED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "линия", "перевод (строки)"],
+    "concepts": []
   },
   {
     "cp": 9227,
@@ -93,7 +115,9 @@
     "name": "SYMBOL FOR VERTICAL TABULATION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "вертикальный", "табуляция"],
+    "concepts": []
   },
   {
     "cp": 9228,
@@ -101,7 +125,9 @@
     "name": "SYMBOL FOR FORM FEED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "форма", "перевод (строки)"],
+    "concepts": []
   },
   {
     "cp": 9229,
@@ -109,7 +135,9 @@
     "name": "SYMBOL FOR CARRIAGE RETURN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "каретка", "возврат (ввод)"],
+    "concepts": []
   },
   {
     "cp": 9230,
@@ -117,7 +145,9 @@
     "name": "SYMBOL FOR SHIFT OUT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "сдвиг (шифт)", "наружу"],
+    "concepts": []
   },
   {
     "cp": 9231,
@@ -125,7 +155,9 @@
     "name": "SYMBOL FOR SHIFT IN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "сдвиг (шифт)", "в"],
+    "concepts": []
   },
   {
     "cp": 9232,
@@ -133,7 +165,9 @@
     "name": "SYMBOL FOR DATA LINK ESCAPE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "данные", "связь (ссылка)", "выход (escape)"],
+    "concepts": []
   },
   {
     "cp": 9233,
@@ -141,7 +175,9 @@
     "name": "SYMBOL FOR DEVICE CONTROL ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "устройство", "управление", "один"],
+    "concepts": []
   },
   {
     "cp": 9234,
@@ -149,7 +185,9 @@
     "name": "SYMBOL FOR DEVICE CONTROL TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "устройство", "управление", "два"],
+    "concepts": []
   },
   {
     "cp": 9235,
@@ -157,7 +195,9 @@
     "name": "SYMBOL FOR DEVICE CONTROL THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "устройство", "управление", "три"],
+    "concepts": []
   },
   {
     "cp": 9236,
@@ -165,7 +205,9 @@
     "name": "SYMBOL FOR DEVICE CONTROL FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "устройство", "управление", "четыре"],
+    "concepts": []
   },
   {
     "cp": 9237,
@@ -173,7 +215,9 @@
     "name": "SYMBOL FOR NEGATIVE ACKNOWLEDGE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "негатив (инверсный)", "подтверждение"],
+    "concepts": []
   },
   {
     "cp": 9238,
@@ -181,7 +225,9 @@
     "name": "SYMBOL FOR SYNCHRONOUS IDLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "синхронный", "простой"],
+    "concepts": []
   },
   {
     "cp": 9239,
@@ -189,7 +235,9 @@
     "name": "SYMBOL FOR END OF TRANSMISSION BLOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "конец", "из", "передача", "блок"],
+    "concepts": []
   },
   {
     "cp": 9240,
@@ -197,7 +245,9 @@
     "name": "SYMBOL FOR CANCEL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "отмена"],
+    "concepts": []
   },
   {
     "cp": 9241,
@@ -205,7 +255,9 @@
     "name": "SYMBOL FOR END OF MEDIUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "конец", "из", "средний"],
+    "concepts": []
   },
   {
     "cp": 9242,
@@ -213,7 +265,9 @@
     "name": "SYMBOL FOR SUBSTITUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "замена"],
+    "concepts": []
   },
   {
     "cp": 9243,
@@ -221,7 +275,9 @@
     "name": "SYMBOL FOR ESCAPE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "выход (escape)"],
+    "concepts": []
   },
   {
     "cp": 9244,
@@ -229,7 +285,9 @@
     "name": "SYMBOL FOR FILE SEPARATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "файл", "разделитель"],
+    "concepts": []
   },
   {
     "cp": 9245,
@@ -237,7 +295,9 @@
     "name": "SYMBOL FOR GROUP SEPARATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "группа", "разделитель"],
+    "concepts": []
   },
   {
     "cp": 9246,
@@ -245,7 +305,9 @@
     "name": "SYMBOL FOR RECORD SEPARATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "запись", "разделитель"],
+    "concepts": []
   },
   {
     "cp": 9247,
@@ -253,7 +315,9 @@
     "name": "SYMBOL FOR UNIT SEPARATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "единица", "разделитель"],
+    "concepts": []
   },
   {
     "cp": 9248,
@@ -261,7 +325,9 @@
     "name": "SYMBOL FOR SPACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "пробел"],
+    "concepts": []
   },
   {
     "cp": 9249,
@@ -269,7 +335,9 @@
     "name": "SYMBOL FOR DELETE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "удалить"],
+    "concepts": []
   },
   {
     "cp": 9250,
@@ -277,7 +345,9 @@
     "name": "BLANK SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["пустой (пробел)", "символ"],
+    "concepts": []
   },
   {
     "cp": 9251,
@@ -285,7 +355,9 @@
     "name": "OPEN BOX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["открытый", "рамка (псевдографика)"],
+    "concepts": []
   },
   {
     "cp": 9252,
@@ -293,7 +365,9 @@
     "name": "SYMBOL FOR NEWLINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "новая строка"],
+    "concepts": []
   },
   {
     "cp": 9253,
@@ -301,7 +375,9 @@
     "name": "SYMBOL FOR DELETE FORM TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "удалить", "форма", "два"],
+    "concepts": []
   },
   {
     "cp": 9254,
@@ -309,7 +385,9 @@
     "name": "SYMBOL FOR SUBSTITUTE FORM TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "замена", "форма", "два"],
+    "concepts": []
   },
   {
     "cp": 9255,
@@ -317,7 +395,9 @@
     "name": "SYMBOL FOR DELETE SQUARE CHECKER BOARD FORM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "удалить", "квадрат", "шашка (клетка)", "доска", "форма"],
+    "concepts": []
   },
   {
     "cp": 9256,
@@ -325,7 +405,9 @@
     "name": "SYMBOL FOR DELETE RECTANGULAR CHECKER BOARD FORM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "удалить", "прямоугольный", "шашка (клетка)", "доска", "форма"],
+    "concepts": []
   },
   {
     "cp": 9257,
@@ -333,6 +415,8 @@
     "name": "SYMBOL FOR DELETE MEDIUM SHADE FORM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["символ", "для", "удалить", "средний", "штриховка (тень)", "форма"],
+    "concepts": []
   }
 ]

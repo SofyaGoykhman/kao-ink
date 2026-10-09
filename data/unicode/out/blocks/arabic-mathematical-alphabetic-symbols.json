@@ -5,7 +5,9 @@
     "name": "ARABIC MATHEMATICAL ALEF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "алеф"],
+    "concepts": []
   },
   {
     "cp": 126465,
@@ -13,7 +15,9 @@
     "name": "ARABIC MATHEMATICAL BEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "бех (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126466,
@@ -21,7 +25,9 @@
     "name": "ARABIC MATHEMATICAL JEEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "джим (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126467,
@@ -29,7 +35,9 @@
     "name": "ARABIC MATHEMATICAL DAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "даль (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126469,
@@ -37,7 +45,9 @@
     "name": "ARABIC MATHEMATICAL WAW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "вав"],
+    "concepts": []
   },
   {
     "cp": 126470,
@@ -45,7 +55,9 @@
     "name": "ARABIC MATHEMATICAL ZAIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "зайн"],
+    "concepts": []
   },
   {
     "cp": 126471,
@@ -53,7 +65,9 @@
     "name": "ARABIC MATHEMATICAL HAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "ха (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126472,
@@ -61,7 +75,9 @@
     "name": "ARABIC MATHEMATICAL TAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "та (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126473,
@@ -69,7 +85,9 @@
     "name": "ARABIC MATHEMATICAL YEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "йа (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126474,
@@ -77,7 +95,9 @@
     "name": "ARABIC MATHEMATICAL KAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "каф"],
+    "concepts": []
   },
   {
     "cp": 126475,
@@ -85,7 +105,9 @@
     "name": "ARABIC MATHEMATICAL LAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "лам (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126476,
@@ -93,7 +115,9 @@
     "name": "ARABIC MATHEMATICAL MEEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "мим (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126477,
@@ -101,7 +125,9 @@
     "name": "ARABIC MATHEMATICAL NOON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "нун"],
+    "concepts": []
   },
   {
     "cp": 126478,
@@ -109,7 +135,9 @@
     "name": "ARABIC MATHEMATICAL SEEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "син (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126479,
@@ -117,7 +145,9 @@
     "name": "ARABIC MATHEMATICAL AIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "айн"],
+    "concepts": []
   },
   {
     "cp": 126480,
@@ -125,7 +155,9 @@
     "name": "ARABIC MATHEMATICAL FEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "фех (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126481,
@@ -133,7 +165,9 @@
     "name": "ARABIC MATHEMATICAL SAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "сад (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126482,
@@ -141,7 +175,9 @@
     "name": "ARABIC MATHEMATICAL QAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "каф"],
+    "concepts": []
   },
   {
     "cp": 126483,
@@ -149,7 +185,9 @@
     "name": "ARABIC MATHEMATICAL REH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "ра (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126484,
@@ -157,7 +195,9 @@
     "name": "ARABIC MATHEMATICAL SHEEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "шин (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126485,
@@ -165,7 +205,9 @@
     "name": "ARABIC MATHEMATICAL TEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "та (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126486,
@@ -173,7 +215,9 @@
     "name": "ARABIC MATHEMATICAL THEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "са (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126487,
@@ -181,7 +225,9 @@
     "name": "ARABIC MATHEMATICAL KHAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "ха (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126488,
@@ -189,7 +235,9 @@
     "name": "ARABIC MATHEMATICAL THAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "заль (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126489,
@@ -197,7 +245,9 @@
     "name": "ARABIC MATHEMATICAL DAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "дад (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126490,
@@ -205,7 +255,9 @@
     "name": "ARABIC MATHEMATICAL ZAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "за (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126491,
@@ -213,7 +265,9 @@
     "name": "ARABIC MATHEMATICAL GHAIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "гайн (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126492,
@@ -221,7 +275,9 @@
     "name": "ARABIC MATHEMATICAL DOTLESS BEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "без точки", "бех (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126493,
@@ -229,7 +285,9 @@
     "name": "ARABIC MATHEMATICAL DOTLESS NOON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "без точки", "нун"],
+    "concepts": []
   },
   {
     "cp": 126494,
@@ -237,7 +295,9 @@
     "name": "ARABIC MATHEMATICAL DOTLESS FEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "без точки", "фех (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126495,
@@ -245,7 +305,9 @@
     "name": "ARABIC MATHEMATICAL DOTLESS QAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "без точки", "каф"],
+    "concepts": []
   },
   {
     "cp": 126497,
@@ -253,7 +315,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL BEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "бех (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126498,
@@ -261,7 +325,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL JEEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "джим (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126500,
@@ -269,7 +335,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL HEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "ха (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126503,
@@ -277,7 +345,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL HAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "ха (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126505,
@@ -285,7 +355,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL YEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "йа (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126506,
@@ -293,7 +365,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL KAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "каф"],
+    "concepts": []
   },
   {
     "cp": 126507,
@@ -301,7 +375,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL LAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "лам (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126508,
@@ -309,7 +385,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL MEEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "мим (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126509,
@@ -317,7 +395,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL NOON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "нун"],
+    "concepts": []
   },
   {
     "cp": 126510,
@@ -325,7 +405,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL SEEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "син (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126511,
@@ -333,7 +415,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL AIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "айн"],
+    "concepts": []
   },
   {
     "cp": 126512,
@@ -341,7 +425,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL FEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "фех (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126513,
@@ -349,7 +435,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL SAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "сад (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126514,
@@ -357,7 +445,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL QAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "каф"],
+    "concepts": []
   },
   {
     "cp": 126516,
@@ -365,7 +455,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL SHEEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "шин (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126517,
@@ -373,7 +465,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL TEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "та (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126518,
@@ -381,7 +475,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL THEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "са (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126519,
@@ -389,7 +485,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL KHAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "ха (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126521,
@@ -397,7 +495,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL DAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "дад (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126523,
@@ -405,7 +505,9 @@
     "name": "ARABIC MATHEMATICAL INITIAL GHAIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "начальный", "гайн (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126530,
@@ -413,7 +515,9 @@
     "name": "ARABIC MATHEMATICAL TAILED JEEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с хвостом", "джим (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126535,
@@ -421,7 +525,9 @@
     "name": "ARABIC MATHEMATICAL TAILED HAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с хвостом", "ха (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126537,
@@ -429,7 +535,9 @@
     "name": "ARABIC MATHEMATICAL TAILED YEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с хвостом", "йа (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126539,
@@ -437,7 +545,9 @@
     "name": "ARABIC MATHEMATICAL TAILED LAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с хвостом", "лам (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126541,
@@ -445,7 +555,9 @@
     "name": "ARABIC MATHEMATICAL TAILED NOON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с хвостом", "нун"],
+    "concepts": []
   },
   {
     "cp": 126542,
@@ -453,7 +565,9 @@
     "name": "ARABIC MATHEMATICAL TAILED SEEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с хвостом", "син (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126543,
@@ -461,7 +575,9 @@
     "name": "ARABIC MATHEMATICAL TAILED AIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с хвостом", "айн"],
+    "concepts": []
   },
   {
     "cp": 126545,
@@ -469,7 +585,9 @@
     "name": "ARABIC MATHEMATICAL TAILED SAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с хвостом", "сад (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126546,
@@ -477,7 +595,9 @@
     "name": "ARABIC MATHEMATICAL TAILED QAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с хвостом", "каф"],
+    "concepts": []
   },
   {
     "cp": 126548,
@@ -485,7 +605,9 @@
     "name": "ARABIC MATHEMATICAL TAILED SHEEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с хвостом", "шин (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126551,
@@ -493,7 +615,9 @@
     "name": "ARABIC MATHEMATICAL TAILED KHAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с хвостом", "ха (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126553,
@@ -501,7 +625,9 @@
     "name": "ARABIC MATHEMATICAL TAILED DAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с хвостом", "дад (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126555,
@@ -509,7 +635,9 @@
     "name": "ARABIC MATHEMATICAL TAILED GHAIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с хвостом", "гайн (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126557,
@@ -517,7 +645,9 @@
     "name": "ARABIC MATHEMATICAL TAILED DOTLESS NOON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с хвостом", "без точки", "нун"],
+    "concepts": []
   },
   {
     "cp": 126559,
@@ -525,7 +655,9 @@
     "name": "ARABIC MATHEMATICAL TAILED DOTLESS QAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с хвостом", "без точки", "каф"],
+    "concepts": []
   },
   {
     "cp": 126561,
@@ -533,7 +665,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED BEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "бех (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126562,
@@ -541,7 +675,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED JEEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "джим (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126564,
@@ -549,7 +685,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED HEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "ха (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126567,
@@ -557,7 +695,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED HAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "ха (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126568,
@@ -565,7 +705,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED TAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "та (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126569,
@@ -573,7 +715,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED YEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "йа (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126570,
@@ -581,7 +725,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED KAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "каф"],
+    "concepts": []
   },
   {
     "cp": 126572,
@@ -589,7 +735,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED MEEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "мим (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126573,
@@ -597,7 +745,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED NOON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "нун"],
+    "concepts": []
   },
   {
     "cp": 126574,
@@ -605,7 +755,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED SEEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "син (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126575,
@@ -613,7 +765,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED AIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "айн"],
+    "concepts": []
   },
   {
     "cp": 126576,
@@ -621,7 +775,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED FEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "фех (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126577,
@@ -629,7 +785,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED SAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "сад (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126578,
@@ -637,7 +795,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED QAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "каф"],
+    "concepts": []
   },
   {
     "cp": 126580,
@@ -645,7 +805,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED SHEEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "шин (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126581,
@@ -653,7 +815,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED TEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "та (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126582,
@@ -661,7 +825,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED THEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "са (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126583,
@@ -669,7 +835,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED KHAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "ха (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126585,
@@ -677,7 +845,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED DAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "дад (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126586,
@@ -685,7 +855,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED ZAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "за (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126587,
@@ -693,7 +865,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED GHAIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "гайн (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126588,
@@ -701,7 +875,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED DOTLESS BEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "без точки", "бех (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126590,
@@ -709,7 +885,9 @@
     "name": "ARABIC MATHEMATICAL STRETCHED DOTLESS FEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "растянутый", "без точки", "фех (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126592,
@@ -717,7 +895,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED ALEF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "алеф"],
+    "concepts": []
   },
   {
     "cp": 126593,
@@ -725,7 +905,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED BEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "бех (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126594,
@@ -733,7 +915,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED JEEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "джим (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126595,
@@ -741,7 +925,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED DAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "даль (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126596,
@@ -749,7 +935,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED HEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "ха (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126597,
@@ -757,7 +945,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED WAW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "вав"],
+    "concepts": []
   },
   {
     "cp": 126598,
@@ -765,7 +955,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED ZAIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "зайн"],
+    "concepts": []
   },
   {
     "cp": 126599,
@@ -773,7 +965,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED HAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "ха (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126600,
@@ -781,7 +975,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED TAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "та (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126601,
@@ -789,7 +985,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED YEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "йа (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126603,
@@ -797,7 +995,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED LAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "лам (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126604,
@@ -805,7 +1005,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED MEEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "мим (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126605,
@@ -813,7 +1015,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED NOON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "нун"],
+    "concepts": []
   },
   {
     "cp": 126606,
@@ -821,7 +1025,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED SEEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "син (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126607,
@@ -829,7 +1035,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED AIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "айн"],
+    "concepts": []
   },
   {
     "cp": 126608,
@@ -837,7 +1045,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED FEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "фех (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126609,
@@ -845,7 +1055,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED SAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "сад (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126610,
@@ -853,7 +1065,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED QAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "каф"],
+    "concepts": []
   },
   {
     "cp": 126611,
@@ -861,7 +1075,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED REH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "ра (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126612,
@@ -869,7 +1085,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED SHEEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "шин (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126613,
@@ -877,7 +1095,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED TEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "та (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126614,
@@ -885,7 +1105,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED THEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "са (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126615,
@@ -893,7 +1115,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED KHAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "ха (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126616,
@@ -901,7 +1125,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED THAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "заль (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126617,
@@ -909,7 +1135,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED DAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "дад (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126618,
@@ -917,7 +1145,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED ZAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "за (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126619,
@@ -925,7 +1155,9 @@
     "name": "ARABIC MATHEMATICAL LOOPED GHAIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "с петлёй", "гайн (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126625,
@@ -933,7 +1165,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK BEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "бех (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126626,
@@ -941,7 +1175,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK JEEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "джим (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126627,
@@ -949,7 +1185,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK DAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "даль (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126629,
@@ -957,7 +1195,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK WAW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "вав"],
+    "concepts": []
   },
   {
     "cp": 126630,
@@ -965,7 +1205,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK ZAIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "зайн"],
+    "concepts": []
   },
   {
     "cp": 126631,
@@ -973,7 +1215,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK HAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "ха (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126632,
@@ -981,7 +1225,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK TAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "та (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126633,
@@ -989,7 +1235,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK YEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "йа (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126635,
@@ -997,7 +1245,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK LAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "лам (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126636,
@@ -1005,7 +1255,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK MEEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "мим (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126637,
@@ -1013,7 +1265,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK NOON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "нун"],
+    "concepts": []
   },
   {
     "cp": 126638,
@@ -1021,7 +1275,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK SEEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "син (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126639,
@@ -1029,7 +1285,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK AIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "айн"],
+    "concepts": []
   },
   {
     "cp": 126640,
@@ -1037,7 +1295,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK FEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "фех (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126641,
@@ -1045,7 +1305,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK SAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "сад (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126642,
@@ -1053,7 +1315,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK QAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "каф"],
+    "concepts": []
   },
   {
     "cp": 126643,
@@ -1061,7 +1325,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK REH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "ра (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126644,
@@ -1069,7 +1335,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK SHEEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "шин (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126645,
@@ -1077,7 +1345,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK TEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "та (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126646,
@@ -1085,7 +1355,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK THEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "са (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126647,
@@ -1093,7 +1365,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK KHAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "ха (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126648,
@@ -1101,7 +1375,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK THAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "заль (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126649,
@@ -1109,7 +1385,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK DAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "дад (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126650,
@@ -1117,7 +1395,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK ZAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "за (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126651,
@@ -1125,7 +1405,9 @@
     "name": "ARABIC MATHEMATICAL DOUBLE-STRUCK GHAIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "двойной", "ажурный (двойной штрих)", "гайн (араб.)"],
+    "concepts": []
   },
   {
     "cp": 126704,
@@ -1133,7 +1415,17 @@
     "name": "ARABIC MATHEMATICAL OPERATOR MEEM WITH HAH WITH TATWEEL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "математический",
+      "оператор",
+      "мим (араб.)",
+      "с",
+      "ха (араб.)",
+      "татвиль (удлинитель)"
+    ],
+    "concepts": []
   },
   {
     "cp": 126705,
@@ -1141,6 +1433,8 @@
     "name": "ARABIC MATHEMATICAL OPERATOR HAH WITH DAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "математический", "оператор", "ха (араб.)", "с", "даль (араб.)"],
+    "concepts": []
   }
 ]

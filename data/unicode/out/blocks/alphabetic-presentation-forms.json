@@ -5,7 +5,9 @@
     "name": "LATIN SMALL LIGATURE FF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "лигатура"],
+    "concepts": []
   },
   {
     "cp": 64257,
@@ -13,7 +15,9 @@
     "name": "LATIN SMALL LIGATURE FI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "лигатура", "фи"],
+    "concepts": []
   },
   {
     "cp": 64258,
@@ -21,7 +25,9 @@
     "name": "LATIN SMALL LIGATURE FL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "лигатура"],
+    "concepts": []
   },
   {
     "cp": 64259,
@@ -29,7 +35,9 @@
     "name": "LATIN SMALL LIGATURE FFI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "лигатура"],
+    "concepts": []
   },
   {
     "cp": 64260,
@@ -37,7 +45,9 @@
     "name": "LATIN SMALL LIGATURE FFL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "лигатура"],
+    "concepts": []
   },
   {
     "cp": 64261,
@@ -45,7 +55,9 @@
     "name": "LATIN SMALL LIGATURE LONG S T",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "лигатура", "длинный"],
+    "concepts": []
   },
   {
     "cp": 64262,
@@ -53,7 +65,9 @@
     "name": "LATIN SMALL LIGATURE ST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "лигатура", "ст"],
+    "concepts": []
   },
   {
     "cp": 64275,
@@ -61,7 +75,9 @@
     "name": "ARMENIAN SMALL LIGATURE MEN NOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["армянский", "маленький (строчный)", "лигатура", "мужчины", "нов"],
+    "concepts": []
   },
   {
     "cp": 64276,
@@ -69,7 +85,9 @@
     "name": "ARMENIAN SMALL LIGATURE MEN ECH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["армянский", "маленький (строчный)", "лигатура", "мужчины", "еч"],
+    "concepts": []
   },
   {
     "cp": 64277,
@@ -77,7 +95,9 @@
     "name": "ARMENIAN SMALL LIGATURE MEN INI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["армянский", "маленький (строчный)", "лигатура", "мужчины", "ини"],
+    "concepts": []
   },
   {
     "cp": 64278,
@@ -85,7 +105,9 @@
     "name": "ARMENIAN SMALL LIGATURE VEW NOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["армянский", "маленький (строчный)", "лигатура", "вев", "нов"],
+    "concepts": []
   },
   {
     "cp": 64279,
@@ -93,7 +115,9 @@
     "name": "ARMENIAN SMALL LIGATURE MEN XEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["армянский", "маленький (строчный)", "лигатура", "мужчины", "ксех"],
+    "concepts": []
   },
   {
     "cp": 64285,
@@ -101,7 +125,9 @@
     "name": "HEBREW LETTER YOD WITH HIRIQ",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "йуд", "с", "хирик"],
+    "concepts": []
   },
   {
     "cp": 64286,
@@ -109,7 +135,9 @@
     "name": "HEBREW POINT JUDEO-SPANISH VARIKA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "точка (кончик)"],
+    "concepts": []
   },
   {
     "cp": 64287,
@@ -117,7 +145,9 @@
     "name": "HEBREW LIGATURE YIDDISH YOD YOD PATAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "лигатура", "идиш", "йуд", "патах"],
+    "concepts": []
   },
   {
     "cp": 64288,
@@ -125,7 +155,9 @@
     "name": "HEBREW LETTER ALTERNATIVE AYIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "альтернативный (alt)", "айин"],
+    "concepts": []
   },
   {
     "cp": 64289,
@@ -133,7 +165,9 @@
     "name": "HEBREW LETTER WIDE ALEF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "широкий", "алеф"],
+    "concepts": []
   },
   {
     "cp": 64290,
@@ -141,7 +175,9 @@
     "name": "HEBREW LETTER WIDE DALET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "широкий", "далет"],
+    "concepts": []
   },
   {
     "cp": 64291,
@@ -149,7 +185,9 @@
     "name": "HEBREW LETTER WIDE HE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "широкий", "хе"],
+    "concepts": []
   },
   {
     "cp": 64292,
@@ -157,7 +195,9 @@
     "name": "HEBREW LETTER WIDE KAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "широкий", "каф"],
+    "concepts": []
   },
   {
     "cp": 64293,
@@ -165,7 +205,9 @@
     "name": "HEBREW LETTER WIDE LAMED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "широкий", "ламед"],
+    "concepts": []
   },
   {
     "cp": 64294,
@@ -173,7 +215,9 @@
     "name": "HEBREW LETTER WIDE FINAL MEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "широкий", "конечный", "мем"],
+    "concepts": []
   },
   {
     "cp": 64295,
@@ -181,7 +225,9 @@
     "name": "HEBREW LETTER WIDE RESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "широкий", "реш"],
+    "concepts": []
   },
   {
     "cp": 64296,
@@ -189,7 +235,9 @@
     "name": "HEBREW LETTER WIDE TAV",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "широкий", "тав"],
+    "concepts": []
   },
   {
     "cp": 64297,
@@ -197,7 +245,9 @@
     "name": "HEBREW LETTER ALTERNATIVE PLUS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "альтернативный (alt)", "плюс", "знак"],
+    "concepts": []
   },
   {
     "cp": 64298,
@@ -205,7 +255,9 @@
     "name": "HEBREW LETTER SHIN WITH SHIN DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "шин", "с", "точка"],
+    "concepts": []
   },
   {
     "cp": 64299,
@@ -213,7 +265,9 @@
     "name": "HEBREW LETTER SHIN WITH SIN DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "шин", "с", "син", "точка"],
+    "concepts": []
   },
   {
     "cp": 64300,
@@ -221,7 +275,9 @@
     "name": "HEBREW LETTER SHIN WITH DAGESH AND SHIN DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "шин", "с", "дагеш", "и", "точка"],
+    "concepts": []
   },
   {
     "cp": 64301,
@@ -229,7 +285,9 @@
     "name": "HEBREW LETTER SHIN WITH DAGESH AND SIN DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "шин", "с", "дагеш", "и", "син", "точка"],
+    "concepts": []
   },
   {
     "cp": 64302,
@@ -237,7 +295,9 @@
     "name": "HEBREW LETTER ALEF WITH PATAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "алеф", "с", "патах"],
+    "concepts": []
   },
   {
     "cp": 64303,
@@ -245,7 +305,9 @@
     "name": "HEBREW LETTER ALEF WITH QAMATS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "алеф", "с", "камац"],
+    "concepts": []
   },
   {
     "cp": 64304,
@@ -253,7 +315,9 @@
     "name": "HEBREW LETTER ALEF WITH MAPIQ",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "алеф", "с", "мапик"],
+    "concepts": []
   },
   {
     "cp": 64305,
@@ -261,7 +325,9 @@
     "name": "HEBREW LETTER BET WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "бет", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64306,
@@ -269,7 +335,9 @@
     "name": "HEBREW LETTER GIMEL WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "гимель", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64307,
@@ -277,7 +345,9 @@
     "name": "HEBREW LETTER DALET WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "далет", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64308,
@@ -285,7 +355,9 @@
     "name": "HEBREW LETTER HE WITH MAPIQ",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "хе", "с", "мапик"],
+    "concepts": []
   },
   {
     "cp": 64309,
@@ -293,7 +365,9 @@
     "name": "HEBREW LETTER VAV WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "вав", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64310,
@@ -301,7 +375,9 @@
     "name": "HEBREW LETTER ZAYIN WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "зайин", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64312,
@@ -309,7 +385,9 @@
     "name": "HEBREW LETTER TET WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "тет", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64313,
@@ -317,7 +395,9 @@
     "name": "HEBREW LETTER YOD WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "йуд", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64314,
@@ -325,7 +405,9 @@
     "name": "HEBREW LETTER FINAL KAF WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "конечный", "каф", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64315,
@@ -333,7 +415,9 @@
     "name": "HEBREW LETTER KAF WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "каф", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64316,
@@ -341,7 +425,9 @@
     "name": "HEBREW LETTER LAMED WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "ламед", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64318,
@@ -349,7 +435,9 @@
     "name": "HEBREW LETTER MEM WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "мем", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64320,
@@ -357,7 +445,9 @@
     "name": "HEBREW LETTER NUN WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "нун", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64321,
@@ -365,7 +455,9 @@
     "name": "HEBREW LETTER SAMEKH WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "самех", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64323,
@@ -373,7 +465,9 @@
     "name": "HEBREW LETTER FINAL PE WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "конечный", "пе", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64324,
@@ -381,7 +475,9 @@
     "name": "HEBREW LETTER PE WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "пе", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64326,
@@ -389,7 +485,9 @@
     "name": "HEBREW LETTER TSADI WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "цади", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64327,
@@ -397,7 +495,9 @@
     "name": "HEBREW LETTER QOF WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "коф", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64328,
@@ -405,7 +505,9 @@
     "name": "HEBREW LETTER RESH WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "реш", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64329,
@@ -413,7 +515,9 @@
     "name": "HEBREW LETTER SHIN WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "шин", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64330,
@@ -421,7 +525,9 @@
     "name": "HEBREW LETTER TAV WITH DAGESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "тав", "с", "дагеш"],
+    "concepts": []
   },
   {
     "cp": 64331,
@@ -429,7 +535,9 @@
     "name": "HEBREW LETTER VAV WITH HOLAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "вав", "с", "холам"],
+    "concepts": []
   },
   {
     "cp": 64332,
@@ -437,7 +545,9 @@
     "name": "HEBREW LETTER BET WITH RAFE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "бет", "с", "рафе"],
+    "concepts": []
   },
   {
     "cp": 64333,
@@ -445,7 +555,9 @@
     "name": "HEBREW LETTER KAF WITH RAFE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "каф", "с", "рафе"],
+    "concepts": []
   },
   {
     "cp": 64334,
@@ -453,7 +565,9 @@
     "name": "HEBREW LETTER PE WITH RAFE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "буква", "пе", "с", "рафе"],
+    "concepts": []
   },
   {
     "cp": 64335,
@@ -461,6 +575,8 @@
     "name": "HEBREW LIGATURE ALEF LAMED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["иврит (еврейский)", "лигатура", "алеф", "ламед"],
+    "concepts": []
   }
 ]

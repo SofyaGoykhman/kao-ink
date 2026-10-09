@@ -5,7 +5,9 @@
     "name": "HEBE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Геба"],
+    "concepts": []
   },
   {
     "cp": 118465,
@@ -13,7 +15,9 @@
     "name": "IRIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Ирида (ирис)"],
+    "concepts": []
   },
   {
     "cp": 118466,
@@ -21,7 +25,9 @@
     "name": "FLORA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Флора"],
+    "concepts": []
   },
   {
     "cp": 118467,
@@ -29,7 +35,9 @@
     "name": "METIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Метида"],
+    "concepts": []
   },
   {
     "cp": 118468,
@@ -37,7 +45,9 @@
     "name": "PARTHENOPE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Партенопа"],
+    "concepts": []
   },
   {
     "cp": 118469,
@@ -45,7 +55,9 @@
     "name": "VICTORIA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Виктория"],
+    "concepts": []
   },
   {
     "cp": 118470,
@@ -53,7 +65,9 @@
     "name": "EGERIA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Эгерия"],
+    "concepts": []
   },
   {
     "cp": 118471,
@@ -61,7 +75,9 @@
     "name": "IRENE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Ирена"],
+    "concepts": []
   },
   {
     "cp": 118472,
@@ -69,7 +85,9 @@
     "name": "EUNOMIA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Эвномия"],
+    "concepts": []
   },
   {
     "cp": 118473,
@@ -77,7 +95,9 @@
     "name": "PSYCHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Психея"],
+    "concepts": []
   },
   {
     "cp": 118474,
@@ -85,7 +105,9 @@
     "name": "THETIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Фетида"],
+    "concepts": []
   },
   {
     "cp": 118475,
@@ -93,7 +115,9 @@
     "name": "MELPOMENE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Мельпомена"],
+    "concepts": []
   },
   {
     "cp": 118476,
@@ -101,7 +125,9 @@
     "name": "FORTUNA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фортуна"],
+    "concepts": []
   },
   {
     "cp": 118477,
@@ -109,7 +135,9 @@
     "name": "ASTRONOMICAL SYMBOL FOR ASTEROID PROSERPINA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["астрономический", "символ", "для", "астероид", "Прозерпина"],
+    "concepts": []
   },
   {
     "cp": 118478,
@@ -117,7 +145,9 @@
     "name": "BELLONA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Беллона"],
+    "concepts": []
   },
   {
     "cp": 118479,
@@ -125,7 +155,9 @@
     "name": "AMPHITRITE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Амфитрита"],
+    "concepts": []
   },
   {
     "cp": 118480,
@@ -133,7 +165,9 @@
     "name": "LEUKOTHEA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["Левкотея"],
+    "concepts": []
   },
   {
     "cp": 118482,
@@ -141,7 +175,9 @@
     "name": "ALCHEMICAL SYMBOL FOR OIL INVERTED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "масло", "перевёрнутый"],
+    "concepts": []
   },
   {
     "cp": 118483,
@@ -149,7 +185,9 @@
     "name": "ALCHEMICAL SYMBOL FOR MOON-JUPITER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "луна", "Юпитер"],
+    "concepts": []
   },
   {
     "cp": 118484,
@@ -157,7 +195,9 @@
     "name": "ALCHEMICAL SYMBOL FOR SALT OF TARTAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["алхимический", "символ", "для", "соль", "из", "винный камень"],
+    "concepts": []
   },
   {
     "cp": 118493,
@@ -165,7 +205,9 @@
     "name": "SQUARE ROOT OF SQUARE ROOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["квадрат", "корень", "из"],
+    "concepts": []
   },
   {
     "cp": 118494,
@@ -173,7 +215,9 @@
     "name": "SQUARE ROOT OF SQUARE ROOT OF SQUARE ROOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["квадрат", "корень", "из"],
+    "concepts": []
   },
   {
     "cp": 118495,
@@ -181,7 +225,9 @@
     "name": "SQUARE ROOT OF SQUARE ROOT OF SQUARE ROOT OF SQUARE ROOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["квадрат", "корень", "из"],
+    "concepts": []
   },
   {
     "cp": 118496,
@@ -189,7 +235,9 @@
     "name": "GEOMANTIC FIGURE POPULUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["геомантический", "фигура", "народ (populus)"],
+    "concepts": []
   },
   {
     "cp": 118497,
@@ -197,7 +245,9 @@
     "name": "GEOMANTIC FIGURE TRISTITIA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["геомантический", "фигура", "печаль"],
+    "concepts": []
   },
   {
     "cp": 118498,
@@ -205,7 +255,9 @@
     "name": "GEOMANTIC FIGURE ALBUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["геомантический", "фигура", "белый (albus)"],
+    "concepts": []
   },
   {
     "cp": 118499,
@@ -213,7 +265,9 @@
     "name": "GEOMANTIC FIGURE FORTUNA MAJOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["геомантический", "фигура", "фортуна", "большой (major)"],
+    "concepts": []
   },
   {
     "cp": 118500,
@@ -221,7 +275,9 @@
     "name": "GEOMANTIC FIGURE RUBEUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["геомантический", "фигура", "красный (rubeus)"],
+    "concepts": []
   },
   {
     "cp": 118501,
@@ -229,7 +285,9 @@
     "name": "GEOMANTIC FIGURE ACQUISITIO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["геомантический", "фигура", "приобретение"],
+    "concepts": []
   },
   {
     "cp": 118502,
@@ -237,7 +295,9 @@
     "name": "GEOMANTIC FIGURE CONJUNCTIO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["геомантический", "фигура", "соединение"],
+    "concepts": []
   },
   {
     "cp": 118503,
@@ -245,7 +305,9 @@
     "name": "GEOMANTIC FIGURE CAPUT DRACONIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["геомантический", "фигура", "голова (caput)", "дракона"],
+    "concepts": []
   },
   {
     "cp": 118504,
@@ -253,7 +315,9 @@
     "name": "GEOMANTIC FIGURE LAETITIA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["геомантический", "фигура", "радость"],
+    "concepts": []
   },
   {
     "cp": 118505,
@@ -261,7 +325,9 @@
     "name": "GEOMANTIC FIGURE CARCER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["геомантический", "фигура", "темница"],
+    "concepts": []
   },
   {
     "cp": 118506,
@@ -269,7 +335,9 @@
     "name": "GEOMANTIC FIGURE AMISSIO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["геомантический", "фигура", "потеря"],
+    "concepts": []
   },
   {
     "cp": 118507,
@@ -277,7 +345,9 @@
     "name": "GEOMANTIC FIGURE PUELLA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["геомантический", "фигура", "девушка"],
+    "concepts": []
   },
   {
     "cp": 118508,
@@ -285,7 +355,9 @@
     "name": "GEOMANTIC FIGURE FORTUNA MINOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["геомантический", "фигура", "фортуна", "малый (minor)"],
+    "concepts": []
   },
   {
     "cp": 118509,
@@ -293,7 +365,9 @@
     "name": "GEOMANTIC FIGURE PUER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["геомантический", "фигура", "мальчик"],
+    "concepts": []
   },
   {
     "cp": 118510,
@@ -301,7 +375,9 @@
     "name": "GEOMANTIC FIGURE CAUDA DRACONIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["геомантический", "фигура", "хвост (cauda)", "дракона"],
+    "concepts": []
   },
   {
     "cp": 118511,
@@ -309,7 +385,9 @@
     "name": "GEOMANTIC FIGURE VIA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["геомантический", "фигура", "путь (via)"],
+    "concepts": []
   },
   {
     "cp": 118512,
@@ -317,7 +395,17 @@
     "name": "MEDIUM SMALL WHITE CIRCLE WITH HORIZONTAL BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "средний",
+      "маленький (строчный)",
+      "белый (контурный)",
+      "круг",
+      "с",
+      "горизонтальный",
+      "черта"
+    ],
+    "concepts": []
   },
   {
     "cp": 118513,
@@ -325,7 +413,9 @@
     "name": "LEIBNIZIAN DIVISION SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "деление", "знак"],
+    "concepts": []
   },
   {
     "cp": 118514,
@@ -333,7 +423,9 @@
     "name": "LEIBNIZIAN MULTIPLICATION SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "умножение", "знак"],
+    "concepts": []
   },
   {
     "cp": 118515,
@@ -341,7 +433,9 @@
     "name": "LEIBNIZIAN MULTIPLICATION-DIVISION SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "умножение", "деление", "знак"],
+    "concepts": []
   },
   {
     "cp": 118516,
@@ -349,7 +443,9 @@
     "name": "LEIBNIZIAN FRACTION REDUCTION SIGN-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "дробь", "сокращение", "знак"],
+    "concepts": []
   },
   {
     "cp": 118517,
@@ -357,7 +453,9 @@
     "name": "LEIBNIZIAN FRACTION REDUCTION SIGN-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "дробь", "сокращение", "знак"],
+    "concepts": []
   },
   {
     "cp": 118518,
@@ -365,7 +463,9 @@
     "name": "SECTOR WITH CHORD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сектор", "с", "хорда (аккорд)"],
+    "concepts": []
   },
   {
     "cp": 118519,
@@ -373,7 +473,9 @@
     "name": "SECTOR WITH DOUBLE ARC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сектор", "с", "двойной", "дуга"],
+    "concepts": []
   },
   {
     "cp": 118520,
@@ -381,7 +483,9 @@
     "name": "SECTOR WITH CHORD AND DOTTED ARC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сектор", "с", "хорда (аккорд)", "и", "пунктирный (с точкой)", "дуга"],
+    "concepts": []
   },
   {
     "cp": 118521,
@@ -389,7 +493,9 @@
     "name": "MEASURED ANGLE WITH DOUBLE ARC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["измеренный", "угол", "с", "двойной", "дуга"],
+    "concepts": []
   },
   {
     "cp": 118522,
@@ -397,7 +503,9 @@
     "name": "MEASURED ANGLE WITH CONCAVE ARC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["измеренный", "угол", "с", "вогнутый", "дуга"],
+    "concepts": []
   },
   {
     "cp": 118523,
@@ -405,7 +513,9 @@
     "name": "MEASURED ANGLE WITH DOUBLE CONCAVE ARC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["измеренный", "угол", "с", "двойной", "вогнутый", "дуга"],
+    "concepts": []
   },
   {
     "cp": 118524,
@@ -413,7 +523,9 @@
     "name": "ANGLE OPENING UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["угол", "открывающая", "вверх"],
+    "concepts": []
   },
   {
     "cp": 118525,
@@ -421,6 +533,8 @@
     "name": "HYPERBOLA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гипербола"],
+    "concepts": []
   }
 ]

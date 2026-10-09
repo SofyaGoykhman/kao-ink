@@ -8,7 +8,9 @@
     "keywords": {
       "ru": ["налево", "стрелка", "стрелка «налево»"],
       "en": ["arrow", "left", "left-pointing"]
-    }
+    },
+    "desc": ["влево", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8593,
@@ -19,7 +21,9 @@
     "keywords": {
       "ru": ["кверху", "стрелка", "стрелка «кверху»"],
       "en": ["arrow", "up", "up-pointing"]
-    }
+    },
+    "desc": ["вверх", "стрелка"],
+    "concepts": ["tree", "umbrella"]
   },
   {
     "cp": 8594,
@@ -30,7 +34,9 @@
     "keywords": {
       "ru": ["направо", "стрелка", "стрелка «направо»"],
       "en": ["arrow", "right", "right-pointing"]
-    }
+    },
+    "desc": ["вправо", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8595,
@@ -41,7 +47,9 @@
     "keywords": {
       "ru": ["книзу", "стрелка", "стрелка «книзу»"],
       "en": ["arrow", "down", "down-pointing"]
-    }
+    },
+    "desc": ["вниз", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8596,
@@ -52,7 +60,9 @@
     "keywords": {
       "ru": ["влево", "влево-вправо", "вправо", "двойная", "стрелка"],
       "en": ["arrow", "left-right"]
-    }
+    },
+    "desc": ["левый (влево)", "правый (вправо)", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8597,
@@ -63,7 +73,9 @@
     "keywords": {
       "ru": ["вверх", "вверх-вниз", "вниз", "двойная", "стрелка"],
       "en": ["arrow", "up-down"]
-    }
+    },
+    "desc": ["вверх", "вниз", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8598,
@@ -74,7 +86,9 @@
     "keywords": {
       "ru": ["влево-вверх", "направление", "северо-запад", "стрелка"],
       "en": ["arrow", "direction", "intercardinal", "northwest", "up-left"]
-    }
+    },
+    "desc": ["север", "запад", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8599,
@@ -85,7 +99,9 @@
     "keywords": {
       "ru": ["вправо-вверх", "направление", "северо-восток", "стрелка"],
       "en": ["arrow", "direction", "intercardinal", "northeast", "up-right"]
-    }
+    },
+    "desc": ["север", "восток", "стрелка"],
+    "concepts": ["male"]
   },
   {
     "cp": 8600,
@@ -96,7 +112,9 @@
     "keywords": {
       "ru": ["вправо-вниз", "направление", "стрелка", "юго-восток"],
       "en": ["arrow", "direction", "down-right", "intercardinal", "southeast"]
-    }
+    },
+    "desc": ["юг", "восток", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8601,
@@ -107,7 +125,9 @@
     "keywords": {
       "ru": ["влево-вниз", "направление", "стрелка", "юго-запад"],
       "en": ["arrow", "direction", "down-left", "intercardinal", "southwest"]
-    }
+    },
+    "desc": ["юг", "запад", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8602,
@@ -115,7 +135,9 @@
     "name": "LEFTWARDS ARROW WITH STROKE",
     "ru": "перечеркнутая стрелка влево",
     "en": "leftwards arrow stroke",
-    "keywords": { "ru": ["перечеркнутая стрелка влево"], "en": ["arrow", "leftwards", "stroke"] }
+    "keywords": { "ru": ["перечеркнутая стрелка влево"], "en": ["arrow", "leftwards", "stroke"] },
+    "desc": ["влево", "стрелка", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 8603,
@@ -123,7 +145,9 @@
     "name": "RIGHTWARDS ARROW WITH STROKE",
     "ru": "перечеркнутая стрелка вправо",
     "en": "rightwards arrow stroke",
-    "keywords": { "ru": ["перечеркнутая стрелка вправо"], "en": ["arrow", "rightwards", "stroke"] }
+    "keywords": { "ru": ["перечеркнутая стрелка вправо"], "en": ["arrow", "rightwards", "stroke"] },
+    "desc": ["вправо", "стрелка", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 8604,
@@ -131,7 +155,9 @@
     "name": "LEFTWARDS WAVE ARROW",
     "ru": "волнистая стрелка влево",
     "en": "leftwards wave arrow",
-    "keywords": { "ru": ["волнистая стрелка влево"], "en": ["arrow", "leftwards", "wave"] }
+    "keywords": { "ru": ["волнистая стрелка влево"], "en": ["arrow", "leftwards", "wave"] },
+    "desc": ["влево", "волна", "стрелка"],
+    "concepts": ["wind"]
   },
   {
     "cp": 8605,
@@ -139,7 +165,9 @@
     "name": "RIGHTWARDS WAVE ARROW",
     "ru": "волнистая стрелка вправо",
     "en": "rightwards wave arrow",
-    "keywords": { "ru": ["волнистая стрелка вправо"], "en": ["arrow", "rightwards", "wave"] }
+    "keywords": { "ru": ["волнистая стрелка вправо"], "en": ["arrow", "rightwards", "wave"] },
+    "desc": ["вправо", "волна", "стрелка"],
+    "concepts": ["wind"]
   },
   {
     "cp": 8606,
@@ -150,7 +178,9 @@
     "keywords": {
       "ru": ["стрелка влево с двумя наконечниками"],
       "en": ["arrow", "headed", "leftwards", "two"]
-    }
+    },
+    "desc": ["влево", "два", "с наконечником", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8607,
@@ -161,7 +191,9 @@
     "keywords": {
       "ru": ["стрелка вверх с двумя наконечниками"],
       "en": ["arrow", "headed", "two", "upwards"]
-    }
+    },
+    "desc": ["вверх", "два", "с наконечником", "стрелка"],
+    "concepts": ["tree"]
   },
   {
     "cp": 8608,
@@ -172,7 +204,9 @@
     "keywords": {
       "ru": ["стрелка вправо с двумя наконечниками"],
       "en": ["arrow", "headed", "rightwards", "two"]
-    }
+    },
+    "desc": ["вправо", "два", "с наконечником", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8609,
@@ -183,7 +217,9 @@
     "keywords": {
       "ru": ["стрелка вниз с двумя наконечниками"],
       "en": ["arrow", "downwards", "headed", "two"]
-    }
+    },
+    "desc": ["вниз", "два", "с наконечником", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8610,
@@ -191,7 +227,9 @@
     "name": "LEFTWARDS ARROW WITH TAIL",
     "ru": "стрелка влево с хвостом",
     "en": "leftwards arrow tail",
-    "keywords": { "ru": ["стрелка влево с хвостом"], "en": ["arrow", "leftwards", "tail"] }
+    "keywords": { "ru": ["стрелка влево с хвостом"], "en": ["arrow", "leftwards", "tail"] },
+    "desc": ["влево", "стрелка", "с", "хвост"],
+    "concepts": []
   },
   {
     "cp": 8611,
@@ -199,7 +237,9 @@
     "name": "RIGHTWARDS ARROW WITH TAIL",
     "ru": "стрелка вправо с хвостом",
     "en": "rightwards arrow tail",
-    "keywords": { "ru": ["стрелка вправо с хвостом"], "en": ["arrow", "rightwards", "tail"] }
+    "keywords": { "ru": ["стрелка вправо с хвостом"], "en": ["arrow", "rightwards", "tail"] },
+    "desc": ["вправо", "стрелка", "с", "хвост"],
+    "concepts": []
   },
   {
     "cp": 8612,
@@ -210,7 +250,9 @@
     "keywords": {
       "ru": ["стрелка влево из вертикальной черты"],
       "en": ["arrow", "bar", "from", "leftwards"]
-    }
+    },
+    "desc": ["влево", "стрелка", "от", "черта"],
+    "concepts": []
   },
   {
     "cp": 8613,
@@ -221,7 +263,9 @@
     "keywords": {
       "ru": ["стрелка вверх из вертикальной черты"],
       "en": ["arrow", "bar", "from", "upwards"]
-    }
+    },
+    "desc": ["вверх", "стрелка", "от", "черта"],
+    "concepts": ["tree"]
   },
   {
     "cp": 8614,
@@ -232,7 +276,9 @@
     "keywords": {
       "ru": ["стрелка вправо из вертикальной черты"],
       "en": ["arrow", "bar", "from", "rightwards"]
-    }
+    },
+    "desc": ["вправо", "стрелка", "от", "черта"],
+    "concepts": []
   },
   {
     "cp": 8615,
@@ -243,7 +289,9 @@
     "keywords": {
       "ru": ["стрелка вниз из вертикальной черты"],
       "en": ["arrow", "bar", "downwards", "from"]
-    }
+    },
+    "desc": ["вниз", "стрелка", "от", "черта"],
+    "concepts": []
   },
   {
     "cp": 8616,
@@ -254,7 +302,9 @@
     "keywords": {
       "ru": ["стрелка вверх и вниз от планки внизу"],
       "en": ["arrow", "base", "down", "up", "with"]
-    }
+    },
+    "desc": ["вверх", "вниз", "стрелка", "с", "основание"],
+    "concepts": []
   },
   {
     "cp": 8617,
@@ -265,7 +315,9 @@
     "keywords": {
       "ru": ["влево", "вправо", "изгиб", "изогнутая", "поворот", "стрелка"],
       "en": ["arrow", "curving", "left", "right"]
-    }
+    },
+    "desc": ["влево", "стрелка", "с", "крючок"],
+    "concepts": []
   },
   {
     "cp": 8618,
@@ -276,7 +328,9 @@
     "keywords": {
       "ru": ["влево", "вправо", "изгиб", "изогнутая", "поворот", "стрелка"],
       "en": ["arrow", "curving", "left", "right"]
-    }
+    },
+    "desc": ["вправо", "стрелка", "с", "крючок"],
+    "concepts": []
   },
   {
     "cp": 8619,
@@ -284,7 +338,9 @@
     "name": "LEFTWARDS ARROW WITH LOOP",
     "ru": "стрелка влево с петлей",
     "en": "leftwards arrow loop",
-    "keywords": { "ru": ["стрелка влево с петлей"], "en": ["arrow", "leftwards", "loop"] }
+    "keywords": { "ru": ["стрелка влево с петлей"], "en": ["arrow", "leftwards", "loop"] },
+    "desc": ["влево", "стрелка", "с", "петля"],
+    "concepts": []
   },
   {
     "cp": 8620,
@@ -292,7 +348,9 @@
     "name": "RIGHTWARDS ARROW WITH LOOP",
     "ru": "стрелка вправо с петлей",
     "en": "rightwards arrow loop",
-    "keywords": { "ru": ["стрелка вправо с петлей"], "en": ["arrow", "loop", "rightwards"] }
+    "keywords": { "ru": ["стрелка вправо с петлей"], "en": ["arrow", "loop", "rightwards"] },
+    "desc": ["вправо", "стрелка", "с", "петля"],
+    "concepts": []
   },
   {
     "cp": 8621,
@@ -303,7 +361,9 @@
     "keywords": {
       "ru": ["волнистая стрелка вправо-влево"],
       "en": ["arrow", "left", "right", "wave"]
-    }
+    },
+    "desc": ["левый (влево)", "правый (вправо)", "волна", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8622,
@@ -314,7 +374,9 @@
     "keywords": {
       "ru": ["перечеркнутая стрелка вправо-влево"],
       "en": ["arrow", "left", "right", "stroke"]
-    }
+    },
+    "desc": ["левый (влево)", "правый (вправо)", "стрелка", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 8623,
@@ -322,7 +384,9 @@
     "name": "DOWNWARDS ZIGZAG ARROW",
     "ru": "зигзагообразная стрелка вниз",
     "en": "downwards zigzag arrow",
-    "keywords": { "ru": ["зигзагообразная стрелка вниз"], "en": ["arrow", "downwards", "zigzag"] }
+    "keywords": { "ru": ["зигзагообразная стрелка вниз"], "en": ["arrow", "downwards", "zigzag"] },
+    "desc": ["вниз", "зигзаг", "стрелка"],
+    "concepts": ["heart-broken", "weather", "lightning"]
   },
   {
     "cp": 8624,
@@ -333,7 +397,9 @@
     "keywords": {
       "ru": ["стрелка вверх с поворотом налево"],
       "en": ["arrow", "leftwards", "tip", "upwards"]
-    }
+    },
+    "desc": ["вверх", "стрелка", "с", "кончик", "влево"],
+    "concepts": []
   },
   {
     "cp": 8625,
@@ -344,7 +410,9 @@
     "keywords": {
       "ru": ["стрелка вверх с поворотом направо"],
       "en": ["arrow", "rightwards", "tip", "upwards"]
-    }
+    },
+    "desc": ["вверх", "стрелка", "с", "кончик", "вправо"],
+    "concepts": []
   },
   {
     "cp": 8626,
@@ -355,7 +423,9 @@
     "keywords": {
       "ru": ["стрелка вниз с поворотом налево"],
       "en": ["arrow", "downwards", "leftwards", "tip"]
-    }
+    },
+    "desc": ["вниз", "стрелка", "с", "кончик", "влево"],
+    "concepts": []
   },
   {
     "cp": 8627,
@@ -366,7 +436,9 @@
     "keywords": {
       "ru": ["стрелка вниз с поворотом направо"],
       "en": ["arrow", "downwards", "rightwards", "tip"]
-    }
+    },
+    "desc": ["вниз", "стрелка", "с", "кончик", "вправо"],
+    "concepts": []
   },
   {
     "cp": 8628,
@@ -377,7 +449,9 @@
     "keywords": {
       "ru": ["стрелка вправо с поворотом вниз под прямым углом"],
       "en": ["arrow", "corner", "downwards", "rightwards"]
-    }
+    },
+    "desc": ["вправо", "стрелка", "с", "угол (уголок)", "вниз"],
+    "concepts": []
   },
   {
     "cp": 8629,
@@ -388,7 +462,9 @@
     "keywords": {
       "ru": ["стрелка вниз с поворотом налево под прямым углом"],
       "en": ["arrow", "corner", "downwards", "leftwards"]
-    }
+    },
+    "desc": ["вниз", "стрелка", "с", "угол (уголок)", "влево"],
+    "concepts": []
   },
   {
     "cp": 8630,
@@ -399,7 +475,9 @@
     "keywords": {
       "ru": ["стрелка полукругом против часовой стрелки"],
       "en": ["anticlockwise", "arrow", "semicircle", "top"]
-    }
+    },
+    "desc": ["против часовой стрелки", "верх", "полукруг", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8631,
@@ -410,7 +488,9 @@
     "keywords": {
       "ru": ["стрелка полукругом по часовой стрелке"],
       "en": ["arrow", "clockwise", "semicircle", "top"]
-    }
+    },
+    "desc": ["по часовой стрелке", "верх", "полукруг", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8632,
@@ -421,7 +501,9 @@
     "keywords": {
       "ru": ["стрелка на северо-запад под длинной чертой"],
       "en": ["arrow", "bar", "long", "north", "west"]
-    }
+    },
+    "desc": ["север", "запад", "стрелка", "к", "длинный", "черта"],
+    "concepts": []
   },
   {
     "cp": 8633,
@@ -432,7 +514,9 @@
     "keywords": {
       "ru": ["стрелка влево над стрелкой вправо с перпендикулярными чертами"],
       "en": ["arrow", "bar", "bars", "leftwards", "over", "rightwards"]
-    }
+    },
+    "desc": ["влево", "стрелка", "к", "черта", "над", "вправо"],
+    "concepts": []
   },
   {
     "cp": 8634,
@@ -443,7 +527,9 @@
     "keywords": {
       "ru": ["круглая стрелка с наконечником против часовой стрелки"],
       "en": ["anticlockwise", "arrow", "circle", "open"]
-    }
+    },
+    "desc": ["против часовой стрелки", "открытый", "круг", "стрелка"],
+    "concepts": ["moon", "spiral"]
   },
   {
     "cp": 8635,
@@ -454,7 +540,9 @@
     "keywords": {
       "ru": ["круглая стрелка с наконечником по часовой стрелке"],
       "en": ["arrow", "circle", "clockwise", "open"]
-    }
+    },
+    "desc": ["по часовой стрелке", "открытый", "круг", "стрелка"],
+    "concepts": ["spiral"]
   },
   {
     "cp": 8636,
@@ -465,7 +553,9 @@
     "keywords": {
       "ru": ["гарпун влево с зубцом вверх"],
       "en": ["barb", "harpoon", "leftwards", "upwards"]
-    }
+    },
+    "desc": ["влево", "гарпун (полустрелка)", "с", "зубец (полустрелка)", "вверх"],
+    "concepts": []
   },
   {
     "cp": 8637,
@@ -476,7 +566,9 @@
     "keywords": {
       "ru": ["гарпун влево с зубцом вниз"],
       "en": ["barb", "downwards", "harpoon", "leftwards"]
-    }
+    },
+    "desc": ["влево", "гарпун (полустрелка)", "с", "зубец (полустрелка)", "вниз"],
+    "concepts": []
   },
   {
     "cp": 8638,
@@ -487,7 +579,9 @@
     "keywords": {
       "ru": ["гарпун вверх с зубцом вправо"],
       "en": ["barb", "harpoon", "rightwards", "upwards"]
-    }
+    },
+    "desc": ["вверх", "гарпун (полустрелка)", "с", "зубец (полустрелка)", "вправо"],
+    "concepts": []
   },
   {
     "cp": 8639,
@@ -498,7 +592,9 @@
     "keywords": {
       "ru": ["гарпун вверх с зубцом влево"],
       "en": ["barb", "harpoon", "leftwards", "upwards"]
-    }
+    },
+    "desc": ["вверх", "гарпун (полустрелка)", "с", "зубец (полустрелка)", "влево"],
+    "concepts": []
   },
   {
     "cp": 8640,
@@ -509,7 +605,9 @@
     "keywords": {
       "ru": ["гарпун вправо с зубцом вверх"],
       "en": ["barb", "harpoon", "rightwards", "upwards"]
-    }
+    },
+    "desc": ["вправо", "гарпун (полустрелка)", "с", "зубец (полустрелка)", "вверх"],
+    "concepts": []
   },
   {
     "cp": 8641,
@@ -520,7 +618,9 @@
     "keywords": {
       "ru": ["гарпун вправо с зубцом вниз"],
       "en": ["barb", "downwards", "harpoon", "rightwards"]
-    }
+    },
+    "desc": ["вправо", "гарпун (полустрелка)", "с", "зубец (полустрелка)", "вниз"],
+    "concepts": []
   },
   {
     "cp": 8642,
@@ -531,7 +631,9 @@
     "keywords": {
       "ru": ["гарпун вниз с зубцом вправо"],
       "en": ["barb", "downwards", "harpoon", "rightwards"]
-    }
+    },
+    "desc": ["вниз", "гарпун (полустрелка)", "с", "зубец (полустрелка)", "вправо"],
+    "concepts": []
   },
   {
     "cp": 8643,
@@ -542,7 +644,9 @@
     "keywords": {
       "ru": ["гарпун вниз с зубцом влево"],
       "en": ["barb", "downwards", "harpoon", "leftwards"]
-    }
+    },
+    "desc": ["вниз", "гарпун (полустрелка)", "с", "зубец (полустрелка)", "влево"],
+    "concepts": []
   },
   {
     "cp": 8644,
@@ -553,7 +657,9 @@
     "keywords": {
       "ru": ["стрелка вправо над стрелкой влево"],
       "en": ["arrow", "leftwards", "over", "rightwards"]
-    }
+    },
+    "desc": ["вправо", "стрелка", "над", "влево"],
+    "concepts": []
   },
   {
     "cp": 8645,
@@ -564,7 +670,9 @@
     "keywords": {
       "ru": ["кверху", "книзу", "стрелка", "стрелки «кверху» и «книзу»"],
       "en": ["and", "arrow", "arrows", "down", "down-pointing", "up", "up-pointing"]
-    }
+    },
+    "desc": ["вверх", "стрелка", "влево", "из", "вниз"],
+    "concepts": []
   },
   {
     "cp": 8646,
@@ -575,7 +683,9 @@
     "keywords": {
       "ru": ["налево", "направо", "стрелка", "стрелка «налево» над стрелкой «направо»"],
       "en": ["arrow", "arrows", "left", "left-pointing", "over", "right", "right-pointing"]
-    }
+    },
+    "desc": ["влево", "стрелка", "над", "вправо"],
+    "concepts": []
   },
   {
     "cp": 8647,
@@ -583,7 +693,9 @@
     "name": "LEFTWARDS PAIRED ARROWS",
     "ru": "парные стрелки влево",
     "en": "leftwards paired arrows",
-    "keywords": { "ru": ["парные стрелки влево"], "en": ["arrows", "leftwards", "paired"] }
+    "keywords": { "ru": ["парные стрелки влево"], "en": ["arrows", "leftwards", "paired"] },
+    "desc": ["влево", "парный", "стрелки"],
+    "concepts": []
   },
   {
     "cp": 8648,
@@ -591,7 +703,9 @@
     "name": "UPWARDS PAIRED ARROWS",
     "ru": "парные стрелки вверх",
     "en": "upwards paired arrows",
-    "keywords": { "ru": ["парные стрелки вверх"], "en": ["arrows", "paired", "upwards"] }
+    "keywords": { "ru": ["парные стрелки вверх"], "en": ["arrows", "paired", "upwards"] },
+    "desc": ["вверх", "парный", "стрелки"],
+    "concepts": []
   },
   {
     "cp": 8649,
@@ -599,7 +713,9 @@
     "name": "RIGHTWARDS PAIRED ARROWS",
     "ru": "парные стрелки вправо",
     "en": "rightwards paired arrows",
-    "keywords": { "ru": ["парные стрелки вправо"], "en": ["arrows", "paired", "rightwards"] }
+    "keywords": { "ru": ["парные стрелки вправо"], "en": ["arrows", "paired", "rightwards"] },
+    "desc": ["вправо", "парный", "стрелки"],
+    "concepts": []
   },
   {
     "cp": 8650,
@@ -607,7 +723,9 @@
     "name": "DOWNWARDS PAIRED ARROWS",
     "ru": "парные стрелки вниз",
     "en": "downwards paired arrows",
-    "keywords": { "ru": ["парные стрелки вниз"], "en": ["arrows", "downwards", "paired"] }
+    "keywords": { "ru": ["парные стрелки вниз"], "en": ["arrows", "downwards", "paired"] },
+    "desc": ["вниз", "парный", "стрелки"],
+    "concepts": []
   },
   {
     "cp": 8651,
@@ -618,7 +736,9 @@
     "keywords": {
       "ru": ["гарпун влево над гарпуном вправо"],
       "en": ["harpoon", "leftwards", "over", "rightwards"]
-    }
+    },
+    "desc": ["влево", "гарпун (полустрелка)", "над", "вправо"],
+    "concepts": []
   },
   {
     "cp": 8652,
@@ -629,7 +749,9 @@
     "keywords": {
       "ru": ["гарпун вправо над гарпуном влево"],
       "en": ["harpoon", "leftwards", "over", "rightwards"]
-    }
+    },
+    "desc": ["вправо", "гарпун (полустрелка)", "над", "влево"],
+    "concepts": []
   },
   {
     "cp": 8653,
@@ -640,7 +762,9 @@
     "keywords": {
       "ru": ["двойная перечеркнутая стрелка влево"],
       "en": ["arrow", "double", "leftwards", "stroke"]
-    }
+    },
+    "desc": ["влево", "двойной", "стрелка", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 8654,
@@ -651,7 +775,9 @@
     "keywords": {
       "ru": ["двойная перечеркнутая стрелка влево-вправо"],
       "en": ["arrow", "double", "left", "right", "stroke"]
-    }
+    },
+    "desc": ["левый (влево)", "правый (вправо)", "двойной", "стрелка", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 8655,
@@ -662,7 +788,9 @@
     "keywords": {
       "ru": ["двойная перечеркнутая стрелка вправо"],
       "en": ["arrow", "double", "rightwards", "stroke"]
-    }
+    },
+    "desc": ["вправо", "двойной", "стрелка", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 8656,
@@ -670,7 +798,9 @@
     "name": "LEFTWARDS DOUBLE ARROW",
     "ru": "двойная стрелка влево",
     "en": "leftwards double arrow",
-    "keywords": { "ru": ["двойная стрелка влево"], "en": ["arrow", "double", "leftwards"] }
+    "keywords": { "ru": ["двойная стрелка влево"], "en": ["arrow", "double", "leftwards"] },
+    "desc": ["влево", "двойной", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8657,
@@ -678,7 +808,9 @@
     "name": "UPWARDS DOUBLE ARROW",
     "ru": "двойная стрелка вверх",
     "en": "upwards double arrow",
-    "keywords": { "ru": ["двойная стрелка вверх"], "en": ["arrow", "double", "upwards"] }
+    "keywords": { "ru": ["двойная стрелка вверх"], "en": ["arrow", "double", "upwards"] },
+    "desc": ["вверх", "двойной", "стрелка"],
+    "concepts": ["tree"]
   },
   {
     "cp": 8658,
@@ -686,7 +818,9 @@
     "name": "RIGHTWARDS DOUBLE ARROW",
     "ru": "двойная стрелка вправо",
     "en": "rightwards double arrow",
-    "keywords": { "ru": ["двойная стрелка вправо"], "en": ["arrow", "double", "rightwards"] }
+    "keywords": { "ru": ["двойная стрелка вправо"], "en": ["arrow", "double", "rightwards"] },
+    "desc": ["вправо", "двойной", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8659,
@@ -694,7 +828,9 @@
     "name": "DOWNWARDS DOUBLE ARROW",
     "ru": "двойная стрелка вниз",
     "en": "downwards double arrow",
-    "keywords": { "ru": ["двойная стрелка вниз"], "en": ["arrow", "double", "downwards"] }
+    "keywords": { "ru": ["двойная стрелка вниз"], "en": ["arrow", "double", "downwards"] },
+    "desc": ["вниз", "двойной", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8660,
@@ -705,7 +841,9 @@
     "keywords": {
       "ru": ["двойная стрелка влево-вправо"],
       "en": ["arrow", "double", "left", "right"]
-    }
+    },
+    "desc": ["левый (влево)", "правый (вправо)", "двойной", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8661,
@@ -713,7 +851,9 @@
     "name": "UP DOWN DOUBLE ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вверх", "вниз", "двойной", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8662,
@@ -724,7 +864,9 @@
     "keywords": {
       "ru": ["двойная стрелка на северо-запад"],
       "en": ["arrow", "double", "north", "west"]
-    }
+    },
+    "desc": ["север", "запад", "двойной", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8663,
@@ -735,7 +877,9 @@
     "keywords": {
       "ru": ["двойная стрелка на северо-восток"],
       "en": ["arrow", "double", "east", "north"]
-    }
+    },
+    "desc": ["север", "восток", "двойной", "стрелка"],
+    "concepts": ["male"]
   },
   {
     "cp": 8664,
@@ -746,7 +890,9 @@
     "keywords": {
       "ru": ["двойная стрелка на юго-восток"],
       "en": ["arrow", "double", "east", "south"]
-    }
+    },
+    "desc": ["юг", "восток", "двойной", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8665,
@@ -757,7 +903,9 @@
     "keywords": {
       "ru": ["двойная стрелка на юго-запад"],
       "en": ["arrow", "double", "south", "west"]
-    }
+    },
+    "desc": ["юг", "запад", "двойной", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8666,
@@ -765,7 +913,9 @@
     "name": "LEFTWARDS TRIPLE ARROW",
     "ru": "тройная стрелка влево",
     "en": "leftwards triple arrow",
-    "keywords": { "ru": ["тройная стрелка влево"], "en": ["arrow", "leftwards", "triple"] }
+    "keywords": { "ru": ["тройная стрелка влево"], "en": ["arrow", "leftwards", "triple"] },
+    "desc": ["влево", "тройной", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8667,
@@ -773,7 +923,9 @@
     "name": "RIGHTWARDS TRIPLE ARROW",
     "ru": "тройная стрелка вправо",
     "en": "rightwards triple arrow",
-    "keywords": { "ru": ["тройная стрелка вправо"], "en": ["arrow", "rightwards", "triple"] }
+    "keywords": { "ru": ["тройная стрелка вправо"], "en": ["arrow", "rightwards", "triple"] },
+    "desc": ["вправо", "тройной", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8668,
@@ -781,7 +933,9 @@
     "name": "LEFTWARDS SQUIGGLE ARROW",
     "ru": "стрелка влево с изгибами",
     "en": "leftwards squiggle arrow",
-    "keywords": { "ru": ["стрелка влево с изгибами"], "en": ["arrow", "leftwards", "squiggle"] }
+    "keywords": { "ru": ["стрелка влево с изгибами"], "en": ["arrow", "leftwards", "squiggle"] },
+    "desc": ["влево", "волнистая (закорючка)", "стрелка"],
+    "concepts": ["wind"]
   },
   {
     "cp": 8669,
@@ -789,7 +943,9 @@
     "name": "RIGHTWARDS SQUIGGLE ARROW",
     "ru": "стрелка вправо с изгибами",
     "en": "rightwards squiggle arrow",
-    "keywords": { "ru": ["стрелка вправо с изгибами"], "en": ["arrow", "rightwards", "squiggle"] }
+    "keywords": { "ru": ["стрелка вправо с изгибами"], "en": ["arrow", "rightwards", "squiggle"] },
+    "desc": ["вправо", "волнистая (закорючка)", "стрелка"],
+    "concepts": ["shooting-star", "wind"]
   },
   {
     "cp": 8670,
@@ -800,7 +956,9 @@
     "keywords": {
       "ru": ["стрелка вверх с двойным перечеркиванием"],
       "en": ["arrow", "double", "stroke", "upwards"]
-    }
+    },
+    "desc": ["вверх", "стрелка", "с", "двойной", "черта (штрих)"],
+    "concepts": ["tree"]
   },
   {
     "cp": 8671,
@@ -811,7 +969,9 @@
     "keywords": {
       "ru": ["стрелка вниз с двойным перечеркиванием"],
       "en": ["arrow", "double", "downwards", "stroke"]
-    }
+    },
+    "desc": ["вниз", "стрелка", "с", "двойной", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 8672,
@@ -819,7 +979,9 @@
     "name": "LEFTWARDS DASHED ARROW",
     "ru": "пунктирная стрелка влево",
     "en": "leftwards dashed arrow",
-    "keywords": { "ru": ["пунктирная стрелка влево"], "en": ["arrow", "dashed", "leftwards"] }
+    "keywords": { "ru": ["пунктирная стрелка влево"], "en": ["arrow", "dashed", "leftwards"] },
+    "desc": ["влево", "штриховой", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8673,
@@ -827,7 +989,9 @@
     "name": "UPWARDS DASHED ARROW",
     "ru": "пунктирная стрелка вверх",
     "en": "upwards dashed arrow",
-    "keywords": { "ru": ["пунктирная стрелка вверх"], "en": ["arrow", "dashed", "upwards"] }
+    "keywords": { "ru": ["пунктирная стрелка вверх"], "en": ["arrow", "dashed", "upwards"] },
+    "desc": ["вверх", "штриховой", "стрелка"],
+    "concepts": ["tree"]
   },
   {
     "cp": 8674,
@@ -835,7 +999,9 @@
     "name": "RIGHTWARDS DASHED ARROW",
     "ru": "пунктирная стрелка вправо",
     "en": "rightwards dashed arrow",
-    "keywords": { "ru": ["пунктирная стрелка вправо"], "en": ["arrow", "dashed", "rightwards"] }
+    "keywords": { "ru": ["пунктирная стрелка вправо"], "en": ["arrow", "dashed", "rightwards"] },
+    "desc": ["вправо", "штриховой", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8675,
@@ -843,7 +1009,9 @@
     "name": "DOWNWARDS DASHED ARROW",
     "ru": "пунктирная стрелка вниз",
     "en": "downwards dashed arrow",
-    "keywords": { "ru": ["пунктирная стрелка вниз"], "en": ["arrow", "dashed", "downwards"] }
+    "keywords": { "ru": ["пунктирная стрелка вниз"], "en": ["arrow", "dashed", "downwards"] },
+    "desc": ["вниз", "штриховой", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8676,
@@ -851,7 +1019,9 @@
     "name": "LEFTWARDS ARROW TO BAR",
     "ru": "стрелка влево, упирающаяся в планку",
     "en": "leftwards arrow bar",
-    "keywords": { "ru": ["влево", "планка", "стрелка"], "en": ["arrow", "bar", "leftwards"] }
+    "keywords": { "ru": ["влево", "планка", "стрелка"], "en": ["arrow", "bar", "leftwards"] },
+    "desc": ["влево", "стрелка", "к", "черта"],
+    "concepts": []
   },
   {
     "cp": 8677,
@@ -859,7 +1029,9 @@
     "name": "RIGHTWARDS ARROW TO BAR",
     "ru": "стрелка вправо, упирающаяся в планку",
     "en": "rightwards arrow bar",
-    "keywords": { "ru": ["вправо", "планка", "стрелка"], "en": ["arrow", "bar", "rightwards"] }
+    "keywords": { "ru": ["вправо", "планка", "стрелка"], "en": ["arrow", "bar", "rightwards"] },
+    "desc": ["вправо", "стрелка", "к", "черта"],
+    "concepts": []
   },
   {
     "cp": 8678,
@@ -867,7 +1039,9 @@
     "name": "LEFTWARDS WHITE ARROW",
     "ru": "полая стрелка влево",
     "en": "leftwards hollow arrow",
-    "keywords": { "ru": ["полая стрелка влево"], "en": ["arrow", "hollow", "leftwards"] }
+    "keywords": { "ru": ["полая стрелка влево"], "en": ["arrow", "hollow", "leftwards"] },
+    "desc": ["влево", "белый (контурный)", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8679,
@@ -875,7 +1049,9 @@
     "name": "UPWARDS WHITE ARROW",
     "ru": "полая стрелка вверх",
     "en": "upwards hollow arrow",
-    "keywords": { "ru": ["полая стрелка вверх"], "en": ["arrow", "hollow", "upwards"] }
+    "keywords": { "ru": ["полая стрелка вверх"], "en": ["arrow", "hollow", "upwards"] },
+    "desc": ["вверх", "белый (контурный)", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8680,
@@ -883,7 +1059,9 @@
     "name": "RIGHTWARDS WHITE ARROW",
     "ru": "полая стрелка вправо",
     "en": "rightwards hollow arrow",
-    "keywords": { "ru": ["полая стрелка вправо"], "en": ["arrow", "hollow", "rightwards"] }
+    "keywords": { "ru": ["полая стрелка вправо"], "en": ["arrow", "hollow", "rightwards"] },
+    "desc": ["вправо", "белый (контурный)", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8681,
@@ -891,7 +1069,9 @@
     "name": "DOWNWARDS WHITE ARROW",
     "ru": "полая стрелка вниз",
     "en": "downwards hollow arrow",
-    "keywords": { "ru": ["полая стрелка вниз"], "en": ["arrow", "downwards", "hollow"] }
+    "keywords": { "ru": ["полая стрелка вниз"], "en": ["arrow", "downwards", "hollow"] },
+    "desc": ["вниз", "белый (контурный)", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8682,
@@ -902,7 +1082,9 @@
     "keywords": {
       "ru": ["полая стрелка вверх на прямоугольнике"],
       "en": ["arrow", "bar", "from", "hollow", "upwards"]
-    }
+    },
+    "desc": ["вверх", "белый (контурный)", "стрелка", "от", "черта"],
+    "concepts": []
   },
   {
     "cp": 8683,
@@ -910,7 +1092,9 @@
     "name": "UPWARDS WHITE ARROW ON PEDESTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вверх", "белый (контурный)", "стрелка", "на", "подставка"],
+    "concepts": []
   },
   {
     "cp": 8684,
@@ -918,7 +1102,18 @@
     "name": "UPWARDS WHITE ARROW ON PEDESTAL WITH HORIZONTAL BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "вверх",
+      "белый (контурный)",
+      "стрелка",
+      "на",
+      "подставка",
+      "с",
+      "горизонтальный",
+      "черта"
+    ],
+    "concepts": []
   },
   {
     "cp": 8685,
@@ -926,7 +1121,18 @@
     "name": "UPWARDS WHITE ARROW ON PEDESTAL WITH VERTICAL BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "вверх",
+      "белый (контурный)",
+      "стрелка",
+      "на",
+      "подставка",
+      "с",
+      "вертикальный",
+      "черта"
+    ],
+    "concepts": []
   },
   {
     "cp": 8686,
@@ -934,7 +1140,9 @@
     "name": "UPWARDS WHITE DOUBLE ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вверх", "белый (контурный)", "двойной", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8687,
@@ -942,7 +1150,9 @@
     "name": "UPWARDS WHITE DOUBLE ARROW ON PEDESTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вверх", "белый (контурный)", "двойной", "стрелка", "на", "подставка"],
+    "concepts": []
   },
   {
     "cp": 8688,
@@ -950,7 +1160,9 @@
     "name": "RIGHTWARDS WHITE ARROW FROM WALL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вправо", "белый (контурный)", "стрелка", "от", "стена"],
+    "concepts": []
   },
   {
     "cp": 8689,
@@ -958,7 +1170,9 @@
     "name": "NORTH WEST ARROW TO CORNER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["север", "запад", "стрелка", "к", "угол (уголок)"],
+    "concepts": []
   },
   {
     "cp": 8690,
@@ -966,7 +1180,9 @@
     "name": "SOUTH EAST ARROW TO CORNER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["юг", "восток", "стрелка", "к", "угол (уголок)"],
+    "concepts": []
   },
   {
     "cp": 8691,
@@ -974,7 +1190,9 @@
     "name": "UP DOWN WHITE ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вверх", "вниз", "белый (контурный)", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8692,
@@ -982,7 +1200,9 @@
     "name": "RIGHT ARROW WITH SMALL CIRCLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "стрелка", "с", "маленький (строчный)", "круг"],
+    "concepts": []
   },
   {
     "cp": 8693,
@@ -993,7 +1213,9 @@
     "keywords": {
       "ru": ["стрелка вниз слева от стрелки вверх"],
       "en": ["arrow", "downwards", "leftwards", "upwards"]
-    }
+    },
+    "desc": ["вниз", "стрелка", "влево", "из", "вверх"],
+    "concepts": []
   },
   {
     "cp": 8694,
@@ -1001,7 +1223,9 @@
     "name": "THREE RIGHTWARDS ARROWS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["три", "вправо", "стрелки"],
+    "concepts": ["wind"]
   },
   {
     "cp": 8695,
@@ -1009,7 +1233,9 @@
     "name": "LEFTWARDS ARROW WITH VERTICAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["влево", "стрелка", "с", "вертикальный", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 8696,
@@ -1017,7 +1243,9 @@
     "name": "RIGHTWARDS ARROW WITH VERTICAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вправо", "стрелка", "с", "вертикальный", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 8697,
@@ -1025,7 +1253,9 @@
     "name": "LEFT RIGHT ARROW WITH VERTICAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "правый (вправо)", "стрелка", "с", "вертикальный", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 8698,
@@ -1033,7 +1263,9 @@
     "name": "LEFTWARDS ARROW WITH DOUBLE VERTICAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["влево", "стрелка", "с", "двойной", "вертикальный", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 8699,
@@ -1041,7 +1273,9 @@
     "name": "RIGHTWARDS ARROW WITH DOUBLE VERTICAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вправо", "стрелка", "с", "двойной", "вертикальный", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 8700,
@@ -1049,7 +1283,17 @@
     "name": "LEFT RIGHT ARROW WITH DOUBLE VERTICAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "левый (влево)",
+      "правый (вправо)",
+      "стрелка",
+      "с",
+      "двойной",
+      "вертикальный",
+      "черта (штрих)"
+    ],
+    "concepts": []
   },
   {
     "cp": 8701,
@@ -1057,7 +1301,9 @@
     "name": "LEFTWARDS OPEN-HEADED ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["влево", "открытый", "с наконечником", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8702,
@@ -1065,7 +1311,9 @@
     "name": "RIGHTWARDS OPEN-HEADED ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вправо", "открытый", "с наконечником", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 8703,
@@ -1073,6 +1321,8 @@
     "name": "LEFT RIGHT OPEN-HEADED ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "правый (вправо)", "открытый", "с наконечником", "стрелка"],
+    "concepts": []
   }
 ]

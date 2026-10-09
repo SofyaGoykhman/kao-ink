@@ -5,7 +5,9 @@
     "name": "SMALL COMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "запятая"],
+    "concepts": []
   },
   {
     "cp": 65105,
@@ -13,7 +15,9 @@
     "name": "SMALL IDEOGRAPHIC COMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "иероглифический", "запятая"],
+    "concepts": []
   },
   {
     "cp": 65106,
@@ -21,7 +25,9 @@
     "name": "SMALL FULL STOP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "полный", "стоп"],
+    "concepts": []
   },
   {
     "cp": 65108,
@@ -29,7 +35,9 @@
     "name": "SMALL SEMICOLON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "точка с запятой"],
+    "concepts": []
   },
   {
     "cp": 65109,
@@ -37,7 +45,9 @@
     "name": "SMALL COLON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "двоеточие"],
+    "concepts": []
   },
   {
     "cp": 65110,
@@ -45,7 +55,9 @@
     "name": "SMALL QUESTION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "вопрос", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 65111,
@@ -53,7 +65,9 @@
     "name": "SMALL EXCLAMATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "восклицательный", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 65112,
@@ -61,7 +75,9 @@
     "name": "SMALL EM DASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "круглая (em)", "тире"],
+    "concepts": []
   },
   {
     "cp": 65113,
@@ -69,7 +85,9 @@
     "name": "SMALL LEFT PARENTHESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "левый (влево)", "круглая скобка"],
+    "concepts": []
   },
   {
     "cp": 65114,
@@ -77,7 +95,9 @@
     "name": "SMALL RIGHT PARENTHESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "правый (вправо)", "круглая скобка"],
+    "concepts": []
   },
   {
     "cp": 65115,
@@ -85,7 +105,9 @@
     "name": "SMALL LEFT CURLY BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "левый (влево)", "фигурный", "скобка"],
+    "concepts": []
   },
   {
     "cp": 65116,
@@ -93,7 +115,9 @@
     "name": "SMALL RIGHT CURLY BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "правый (вправо)", "фигурный", "скобка"],
+    "concepts": []
   },
   {
     "cp": 65117,
@@ -101,7 +125,15 @@
     "name": "SMALL LEFT TORTOISE SHELL BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "маленький (строчный)",
+      "левый (влево)",
+      "черепаха (черепаховая скобка)",
+      "ракушка (оболочка)",
+      "скобка"
+    ],
+    "concepts": []
   },
   {
     "cp": 65118,
@@ -109,7 +141,15 @@
     "name": "SMALL RIGHT TORTOISE SHELL BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "маленький (строчный)",
+      "правый (вправо)",
+      "черепаха (черепаховая скобка)",
+      "ракушка (оболочка)",
+      "скобка"
+    ],
+    "concepts": []
   },
   {
     "cp": 65119,
@@ -117,7 +157,9 @@
     "name": "SMALL NUMBER SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "число", "знак"],
+    "concepts": []
   },
   {
     "cp": 65120,
@@ -125,7 +167,9 @@
     "name": "SMALL AMPERSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "амперсанд (&)"],
+    "concepts": []
   },
   {
     "cp": 65121,
@@ -133,7 +177,9 @@
     "name": "SMALL ASTERISK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "звёздочка (астериск)"],
+    "concepts": []
   },
   {
     "cp": 65122,
@@ -141,7 +187,9 @@
     "name": "SMALL PLUS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "плюс", "знак"],
+    "concepts": []
   },
   {
     "cp": 65123,
@@ -149,7 +197,9 @@
     "name": "SMALL HYPHEN-MINUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "дефис", "минус"],
+    "concepts": []
   },
   {
     "cp": 65124,
@@ -157,7 +207,9 @@
     "name": "SMALL LESS-THAN SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "меньше", "чем", "знак"],
+    "concepts": []
   },
   {
     "cp": 65125,
@@ -165,7 +217,9 @@
     "name": "SMALL GREATER-THAN SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "больше", "чем", "знак"],
+    "concepts": []
   },
   {
     "cp": 65126,
@@ -173,7 +227,9 @@
     "name": "SMALL EQUALS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "равно", "знак"],
+    "concepts": []
   },
   {
     "cp": 65128,
@@ -181,7 +237,9 @@
     "name": "SMALL REVERSE SOLIDUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "обратный", "косая черта (слэш)"],
+    "concepts": []
   },
   {
     "cp": 65129,
@@ -189,7 +247,9 @@
     "name": "SMALL DOLLAR SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "доллар", "знак"],
+    "concepts": []
   },
   {
     "cp": 65130,
@@ -197,7 +257,9 @@
     "name": "SMALL PERCENT SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "процент", "знак"],
+    "concepts": []
   },
   {
     "cp": 65131,
@@ -205,6 +267,8 @@
     "name": "SMALL COMMERCIAL AT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "коммерческий", "при (собачка)"],
+    "concepts": []
   }
 ]

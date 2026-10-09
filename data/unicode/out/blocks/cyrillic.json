@@ -5,7 +5,9 @@
     "name": "CYRILLIC CAPITAL LETTER IE WITH GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "е (ie)", "с", "гравис"],
+    "concepts": []
   },
   {
     "cp": 1025,
@@ -13,7 +15,9 @@
     "name": "CYRILLIC CAPITAL LETTER IO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ио"],
+    "concepts": []
   },
   {
     "cp": 1026,
@@ -21,7 +25,9 @@
     "name": "CYRILLIC CAPITAL LETTER DJE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "дже (ђ)"],
+    "concepts": []
   },
   {
     "cp": 1027,
@@ -29,7 +35,9 @@
     "name": "CYRILLIC CAPITAL LETTER GJE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "гье (ѓ)"],
+    "concepts": []
   },
   {
     "cp": 1028,
@@ -37,7 +45,9 @@
     "name": "CYRILLIC CAPITAL LETTER UKRAINIAN IE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "украинский", "е (ie)"],
+    "concepts": []
   },
   {
     "cp": 1029,
@@ -45,7 +55,9 @@
     "name": "CYRILLIC CAPITAL LETTER DZE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "дзе (ѕ)"],
+    "concepts": []
   },
   {
     "cp": 1030,
@@ -53,7 +65,9 @@
     "name": "CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "белорусский", "украинский"],
+    "concepts": []
   },
   {
     "cp": 1031,
@@ -61,7 +75,9 @@
     "name": "CYRILLIC CAPITAL LETTER YI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "и (письмо и)"],
+    "concepts": []
   },
   {
     "cp": 1032,
@@ -69,7 +85,9 @@
     "name": "CYRILLIC CAPITAL LETTER JE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "йе (ј)"],
+    "concepts": []
   },
   {
     "cp": 1033,
@@ -77,7 +95,9 @@
     "name": "CYRILLIC CAPITAL LETTER LJE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ль (љ)"],
+    "concepts": []
   },
   {
     "cp": 1034,
@@ -85,7 +105,9 @@
     "name": "CYRILLIC CAPITAL LETTER NJE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ње (нь)"],
+    "concepts": []
   },
   {
     "cp": 1035,
@@ -93,7 +115,9 @@
     "name": "CYRILLIC CAPITAL LETTER TSHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "це"],
+    "concepts": []
   },
   {
     "cp": 1036,
@@ -101,7 +125,9 @@
     "name": "CYRILLIC CAPITAL LETTER KJE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "кье (ќ)"],
+    "concepts": []
   },
   {
     "cp": 1037,
@@ -109,7 +135,9 @@
     "name": "CYRILLIC CAPITAL LETTER I WITH GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "с", "гравис"],
+    "concepts": []
   },
   {
     "cp": 1038,
@@ -117,7 +145,9 @@
     "name": "CYRILLIC CAPITAL LETTER SHORT U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "короткий"],
+    "concepts": []
   },
   {
     "cp": 1039,
@@ -125,7 +155,9 @@
     "name": "CYRILLIC CAPITAL LETTER DZHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "дже (џ)"],
+    "concepts": []
   },
   {
     "cp": 1040,
@@ -133,7 +165,9 @@
     "name": "CYRILLIC CAPITAL LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква"],
+    "concepts": []
   },
   {
     "cp": 1041,
@@ -141,7 +175,9 @@
     "name": "CYRILLIC CAPITAL LETTER BE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "бе"],
+    "concepts": []
   },
   {
     "cp": 1042,
@@ -149,7 +185,9 @@
     "name": "CYRILLIC CAPITAL LETTER VE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ве"],
+    "concepts": []
   },
   {
     "cp": 1043,
@@ -157,7 +195,9 @@
     "name": "CYRILLIC CAPITAL LETTER GHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ге"],
+    "concepts": []
   },
   {
     "cp": 1044,
@@ -165,7 +205,9 @@
     "name": "CYRILLIC CAPITAL LETTER DE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "де"],
+    "concepts": []
   },
   {
     "cp": 1045,
@@ -173,7 +215,9 @@
     "name": "CYRILLIC CAPITAL LETTER IE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "е (ie)"],
+    "concepts": []
   },
   {
     "cp": 1046,
@@ -181,7 +225,9 @@
     "name": "CYRILLIC CAPITAL LETTER ZHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "же"],
+    "concepts": []
   },
   {
     "cp": 1047,
@@ -189,7 +235,9 @@
     "name": "CYRILLIC CAPITAL LETTER ZE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "зе"],
+    "concepts": []
   },
   {
     "cp": 1048,
@@ -197,7 +245,9 @@
     "name": "CYRILLIC CAPITAL LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква"],
+    "concepts": []
   },
   {
     "cp": 1049,
@@ -205,7 +255,9 @@
     "name": "CYRILLIC CAPITAL LETTER SHORT I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "короткий"],
+    "concepts": []
   },
   {
     "cp": 1050,
@@ -213,7 +265,9 @@
     "name": "CYRILLIC CAPITAL LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 1051,
@@ -221,7 +275,9 @@
     "name": "CYRILLIC CAPITAL LETTER EL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "эль"],
+    "concepts": []
   },
   {
     "cp": 1052,
@@ -229,7 +285,9 @@
     "name": "CYRILLIC CAPITAL LETTER EM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "круглая (em)"],
+    "concepts": []
   },
   {
     "cp": 1053,
@@ -237,7 +295,9 @@
     "name": "CYRILLIC CAPITAL LETTER EN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "короткое (en)"],
+    "concepts": []
   },
   {
     "cp": 1054,
@@ -245,7 +305,9 @@
     "name": "CYRILLIC CAPITAL LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква"],
+    "concepts": []
   },
   {
     "cp": 1055,
@@ -253,7 +315,9 @@
     "name": "CYRILLIC CAPITAL LETTER PE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "пе"],
+    "concepts": []
   },
   {
     "cp": 1056,
@@ -261,7 +325,9 @@
     "name": "CYRILLIC CAPITAL LETTER ER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "эр"],
+    "concepts": []
   },
   {
     "cp": 1057,
@@ -269,7 +335,9 @@
     "name": "CYRILLIC CAPITAL LETTER ES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "эс"],
+    "concepts": []
   },
   {
     "cp": 1058,
@@ -277,7 +345,9 @@
     "name": "CYRILLIC CAPITAL LETTER TE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "те"],
+    "concepts": []
   },
   {
     "cp": 1059,
@@ -285,7 +355,9 @@
     "name": "CYRILLIC CAPITAL LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква"],
+    "concepts": []
   },
   {
     "cp": 1060,
@@ -293,7 +365,9 @@
     "name": "CYRILLIC CAPITAL LETTER EF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "эф"],
+    "concepts": []
   },
   {
     "cp": 1061,
@@ -301,7 +375,9 @@
     "name": "CYRILLIC CAPITAL LETTER HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 1062,
@@ -309,7 +385,9 @@
     "name": "CYRILLIC CAPITAL LETTER TSE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "це"],
+    "concepts": []
   },
   {
     "cp": 1063,
@@ -317,7 +395,9 @@
     "name": "CYRILLIC CAPITAL LETTER CHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "че"],
+    "concepts": []
   },
   {
     "cp": 1064,
@@ -325,7 +405,9 @@
     "name": "CYRILLIC CAPITAL LETTER SHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ша"],
+    "concepts": []
   },
   {
     "cp": 1065,
@@ -333,7 +415,9 @@
     "name": "CYRILLIC CAPITAL LETTER SHCHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ща"],
+    "concepts": []
   },
   {
     "cp": 1066,
@@ -341,7 +425,9 @@
     "name": "CYRILLIC CAPITAL LETTER HARD SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "твёрдый", "знак"],
+    "concepts": []
   },
   {
     "cp": 1067,
@@ -349,7 +435,9 @@
     "name": "CYRILLIC CAPITAL LETTER YERU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "еры (ы)"],
+    "concepts": []
   },
   {
     "cp": 1068,
@@ -357,7 +445,9 @@
     "name": "CYRILLIC CAPITAL LETTER SOFT SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "мягкий", "знак"],
+    "concepts": []
   },
   {
     "cp": 1069,
@@ -365,7 +455,9 @@
     "name": "CYRILLIC CAPITAL LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква"],
+    "concepts": []
   },
   {
     "cp": 1070,
@@ -373,7 +465,9 @@
     "name": "CYRILLIC CAPITAL LETTER YU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ю"],
+    "concepts": []
   },
   {
     "cp": 1071,
@@ -381,7 +475,9 @@
     "name": "CYRILLIC CAPITAL LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 1072,
@@ -389,7 +485,9 @@
     "name": "CYRILLIC SMALL LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 1073,
@@ -397,7 +495,9 @@
     "name": "CYRILLIC SMALL LETTER BE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "бе"],
+    "concepts": []
   },
   {
     "cp": 1074,
@@ -405,7 +505,9 @@
     "name": "CYRILLIC SMALL LETTER VE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ве"],
+    "concepts": []
   },
   {
     "cp": 1075,
@@ -413,7 +515,9 @@
     "name": "CYRILLIC SMALL LETTER GHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ге"],
+    "concepts": []
   },
   {
     "cp": 1076,
@@ -421,7 +525,9 @@
     "name": "CYRILLIC SMALL LETTER DE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "де"],
+    "concepts": []
   },
   {
     "cp": 1077,
@@ -429,7 +535,9 @@
     "name": "CYRILLIC SMALL LETTER IE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "е (ie)"],
+    "concepts": []
   },
   {
     "cp": 1078,
@@ -437,7 +545,9 @@
     "name": "CYRILLIC SMALL LETTER ZHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "же"],
+    "concepts": []
   },
   {
     "cp": 1079,
@@ -445,7 +555,9 @@
     "name": "CYRILLIC SMALL LETTER ZE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "зе"],
+    "concepts": ["kiss", "wings"]
   },
   {
     "cp": 1080,
@@ -453,7 +565,9 @@
     "name": "CYRILLIC SMALL LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 1081,
@@ -461,7 +575,9 @@
     "name": "CYRILLIC SMALL LETTER SHORT I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "короткий"],
+    "concepts": []
   },
   {
     "cp": 1082,
@@ -469,7 +585,9 @@
     "name": "CYRILLIC SMALL LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 1083,
@@ -477,7 +595,9 @@
     "name": "CYRILLIC SMALL LETTER EL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "эль"],
+    "concepts": []
   },
   {
     "cp": 1084,
@@ -485,7 +605,9 @@
     "name": "CYRILLIC SMALL LETTER EM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "круглая (em)"],
+    "concepts": []
   },
   {
     "cp": 1085,
@@ -493,7 +615,9 @@
     "name": "CYRILLIC SMALL LETTER EN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "короткое (en)"],
+    "concepts": []
   },
   {
     "cp": 1086,
@@ -501,7 +625,9 @@
     "name": "CYRILLIC SMALL LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 1087,
@@ -509,7 +635,9 @@
     "name": "CYRILLIC SMALL LETTER PE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "пе"],
+    "concepts": []
   },
   {
     "cp": 1088,
@@ -517,7 +645,9 @@
     "name": "CYRILLIC SMALL LETTER ER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "эр"],
+    "concepts": []
   },
   {
     "cp": 1089,
@@ -525,7 +655,9 @@
     "name": "CYRILLIC SMALL LETTER ES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "эс"],
+    "concepts": []
   },
   {
     "cp": 1090,
@@ -533,7 +665,9 @@
     "name": "CYRILLIC SMALL LETTER TE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "те"],
+    "concepts": []
   },
   {
     "cp": 1091,
@@ -541,7 +675,9 @@
     "name": "CYRILLIC SMALL LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 1092,
@@ -549,7 +685,9 @@
     "name": "CYRILLIC SMALL LETTER EF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "эф"],
+    "concepts": []
   },
   {
     "cp": 1093,
@@ -557,7 +695,9 @@
     "name": "CYRILLIC SMALL LETTER HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 1094,
@@ -565,7 +705,9 @@
     "name": "CYRILLIC SMALL LETTER TSE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "це"],
+    "concepts": []
   },
   {
     "cp": 1095,
@@ -573,7 +715,9 @@
     "name": "CYRILLIC SMALL LETTER CHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "че"],
+    "concepts": []
   },
   {
     "cp": 1096,
@@ -581,7 +725,9 @@
     "name": "CYRILLIC SMALL LETTER SHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ша"],
+    "concepts": []
   },
   {
     "cp": 1097,
@@ -589,7 +735,9 @@
     "name": "CYRILLIC SMALL LETTER SHCHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ща"],
+    "concepts": []
   },
   {
     "cp": 1098,
@@ -597,7 +745,9 @@
     "name": "CYRILLIC SMALL LETTER HARD SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "твёрдый", "знак"],
+    "concepts": []
   },
   {
     "cp": 1099,
@@ -605,7 +755,9 @@
     "name": "CYRILLIC SMALL LETTER YERU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "еры (ы)"],
+    "concepts": []
   },
   {
     "cp": 1100,
@@ -613,7 +765,9 @@
     "name": "CYRILLIC SMALL LETTER SOFT SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "мягкий", "знак"],
+    "concepts": []
   },
   {
     "cp": 1101,
@@ -621,7 +775,9 @@
     "name": "CYRILLIC SMALL LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 1102,
@@ -629,7 +785,9 @@
     "name": "CYRILLIC SMALL LETTER YU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ю"],
+    "concepts": []
   },
   {
     "cp": 1103,
@@ -637,7 +795,9 @@
     "name": "CYRILLIC SMALL LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 1104,
@@ -645,7 +805,9 @@
     "name": "CYRILLIC SMALL LETTER IE WITH GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "е (ie)", "с", "гравис"],
+    "concepts": []
   },
   {
     "cp": 1105,
@@ -653,7 +815,9 @@
     "name": "CYRILLIC SMALL LETTER IO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ио"],
+    "concepts": []
   },
   {
     "cp": 1106,
@@ -661,7 +825,9 @@
     "name": "CYRILLIC SMALL LETTER DJE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "дже (ђ)"],
+    "concepts": []
   },
   {
     "cp": 1107,
@@ -669,7 +835,9 @@
     "name": "CYRILLIC SMALL LETTER GJE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "гье (ѓ)"],
+    "concepts": []
   },
   {
     "cp": 1108,
@@ -677,7 +845,9 @@
     "name": "CYRILLIC SMALL LETTER UKRAINIAN IE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "украинский", "е (ie)"],
+    "concepts": []
   },
   {
     "cp": 1109,
@@ -685,7 +855,9 @@
     "name": "CYRILLIC SMALL LETTER DZE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "дзе (ѕ)"],
+    "concepts": []
   },
   {
     "cp": 1110,
@@ -693,7 +865,9 @@
     "name": "CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "белорусский", "украинский"],
+    "concepts": []
   },
   {
     "cp": 1111,
@@ -701,7 +875,9 @@
     "name": "CYRILLIC SMALL LETTER YI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "и (письмо и)"],
+    "concepts": []
   },
   {
     "cp": 1112,
@@ -709,7 +885,9 @@
     "name": "CYRILLIC SMALL LETTER JE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "йе (ј)"],
+    "concepts": []
   },
   {
     "cp": 1113,
@@ -717,7 +895,9 @@
     "name": "CYRILLIC SMALL LETTER LJE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ль (љ)"],
+    "concepts": []
   },
   {
     "cp": 1114,
@@ -725,7 +905,9 @@
     "name": "CYRILLIC SMALL LETTER NJE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ње (нь)"],
+    "concepts": []
   },
   {
     "cp": 1115,
@@ -733,7 +915,9 @@
     "name": "CYRILLIC SMALL LETTER TSHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "це"],
+    "concepts": []
   },
   {
     "cp": 1116,
@@ -741,7 +925,9 @@
     "name": "CYRILLIC SMALL LETTER KJE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "кье (ќ)"],
+    "concepts": []
   },
   {
     "cp": 1117,
@@ -749,7 +935,9 @@
     "name": "CYRILLIC SMALL LETTER I WITH GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "с", "гравис"],
+    "concepts": []
   },
   {
     "cp": 1118,
@@ -757,7 +945,9 @@
     "name": "CYRILLIC SMALL LETTER SHORT U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "короткий"],
+    "concepts": []
   },
   {
     "cp": 1119,
@@ -765,7 +955,9 @@
     "name": "CYRILLIC SMALL LETTER DZHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "дже (џ)"],
+    "concepts": []
   },
   {
     "cp": 1120,
@@ -773,7 +965,9 @@
     "name": "CYRILLIC CAPITAL LETTER OMEGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "омега"],
+    "concepts": []
   },
   {
     "cp": 1121,
@@ -781,7 +975,9 @@
     "name": "CYRILLIC SMALL LETTER OMEGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "омега"],
+    "concepts": []
   },
   {
     "cp": 1122,
@@ -789,7 +985,9 @@
     "name": "CYRILLIC CAPITAL LETTER YAT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ять"],
+    "concepts": []
   },
   {
     "cp": 1123,
@@ -797,7 +995,9 @@
     "name": "CYRILLIC SMALL LETTER YAT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ять"],
+    "concepts": []
   },
   {
     "cp": 1124,
@@ -805,7 +1005,9 @@
     "name": "CYRILLIC CAPITAL LETTER IOTIFIED E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "йотированный"],
+    "concepts": []
   },
   {
     "cp": 1125,
@@ -813,7 +1015,9 @@
     "name": "CYRILLIC SMALL LETTER IOTIFIED E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "йотированный"],
+    "concepts": []
   },
   {
     "cp": 1126,
@@ -821,7 +1025,9 @@
     "name": "CYRILLIC CAPITAL LETTER LITTLE YUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "малый", "юс"],
+    "concepts": ["tree"]
   },
   {
     "cp": 1127,
@@ -829,7 +1035,9 @@
     "name": "CYRILLIC SMALL LETTER LITTLE YUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "малый", "юс"],
+    "concepts": ["tree"]
   },
   {
     "cp": 1128,
@@ -837,7 +1045,9 @@
     "name": "CYRILLIC CAPITAL LETTER IOTIFIED LITTLE YUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "йотированный", "малый", "юс"],
+    "concepts": []
   },
   {
     "cp": 1129,
@@ -845,7 +1055,9 @@
     "name": "CYRILLIC SMALL LETTER IOTIFIED LITTLE YUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "йотированный", "малый", "юс"],
+    "concepts": []
   },
   {
     "cp": 1130,
@@ -853,7 +1065,9 @@
     "name": "CYRILLIC CAPITAL LETTER BIG YUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "большой", "юс"],
+    "concepts": []
   },
   {
     "cp": 1131,
@@ -861,7 +1075,9 @@
     "name": "CYRILLIC SMALL LETTER BIG YUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "большой", "юс"],
+    "concepts": []
   },
   {
     "cp": 1132,
@@ -869,7 +1085,9 @@
     "name": "CYRILLIC CAPITAL LETTER IOTIFIED BIG YUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "йотированный", "большой", "юс"],
+    "concepts": []
   },
   {
     "cp": 1133,
@@ -877,7 +1095,9 @@
     "name": "CYRILLIC SMALL LETTER IOTIFIED BIG YUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "йотированный", "большой", "юс"],
+    "concepts": []
   },
   {
     "cp": 1134,
@@ -885,7 +1105,9 @@
     "name": "CYRILLIC CAPITAL LETTER KSI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "кси"],
+    "concepts": []
   },
   {
     "cp": 1135,
@@ -893,7 +1115,9 @@
     "name": "CYRILLIC SMALL LETTER KSI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "кси"],
+    "concepts": []
   },
   {
     "cp": 1136,
@@ -901,7 +1125,9 @@
     "name": "CYRILLIC CAPITAL LETTER PSI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "пси"],
+    "concepts": ["tulip", "lily", "lotus", "plant", "cactus"]
   },
   {
     "cp": 1137,
@@ -909,7 +1135,9 @@
     "name": "CYRILLIC SMALL LETTER PSI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "пси"],
+    "concepts": []
   },
   {
     "cp": 1138,
@@ -917,7 +1145,9 @@
     "name": "CYRILLIC CAPITAL LETTER FITA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "фита"],
+    "concepts": []
   },
   {
     "cp": 1139,
@@ -925,7 +1155,9 @@
     "name": "CYRILLIC SMALL LETTER FITA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "фита"],
+    "concepts": []
   },
   {
     "cp": 1140,
@@ -933,7 +1165,9 @@
     "name": "CYRILLIC CAPITAL LETTER IZHITSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ижица"],
+    "concepts": []
   },
   {
     "cp": 1141,
@@ -941,7 +1175,9 @@
     "name": "CYRILLIC SMALL LETTER IZHITSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ижица"],
+    "concepts": []
   },
   {
     "cp": 1142,
@@ -949,7 +1185,18 @@
     "name": "CYRILLIC CAPITAL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "заглавный",
+      "буква",
+      "ижица",
+      "с",
+      "двойной",
+      "гравис",
+      "ударение (акцент)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1143,
@@ -957,7 +1204,18 @@
     "name": "CYRILLIC SMALL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "ижица",
+      "с",
+      "двойной",
+      "гравис",
+      "ударение (акцент)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1144,
@@ -965,7 +1223,9 @@
     "name": "CYRILLIC CAPITAL LETTER UK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ук"],
+    "concepts": []
   },
   {
     "cp": 1145,
@@ -973,7 +1233,9 @@
     "name": "CYRILLIC SMALL LETTER UK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ук"],
+    "concepts": []
   },
   {
     "cp": 1146,
@@ -981,7 +1243,9 @@
     "name": "CYRILLIC CAPITAL LETTER ROUND OMEGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "круглый", "омега"],
+    "concepts": []
   },
   {
     "cp": 1147,
@@ -989,7 +1253,9 @@
     "name": "CYRILLIC SMALL LETTER ROUND OMEGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "круглый", "омега"],
+    "concepts": []
   },
   {
     "cp": 1148,
@@ -997,7 +1263,9 @@
     "name": "CYRILLIC CAPITAL LETTER OMEGA WITH TITLO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "омега", "с", "титло"],
+    "concepts": []
   },
   {
     "cp": 1149,
@@ -1005,7 +1273,9 @@
     "name": "CYRILLIC SMALL LETTER OMEGA WITH TITLO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "омега", "с", "титло"],
+    "concepts": []
   },
   {
     "cp": 1150,
@@ -1013,7 +1283,9 @@
     "name": "CYRILLIC CAPITAL LETTER OT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "от"],
+    "concepts": []
   },
   {
     "cp": 1151,
@@ -1021,7 +1293,9 @@
     "name": "CYRILLIC SMALL LETTER OT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "от"],
+    "concepts": []
   },
   {
     "cp": 1152,
@@ -1029,7 +1303,9 @@
     "name": "CYRILLIC CAPITAL LETTER KOPPA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "коппа"],
+    "concepts": []
   },
   {
     "cp": 1153,
@@ -1037,7 +1313,9 @@
     "name": "CYRILLIC SMALL LETTER KOPPA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "коппа"],
+    "concepts": []
   },
   {
     "cp": 1154,
@@ -1045,7 +1323,9 @@
     "name": "CYRILLIC THOUSANDS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "тысячи", "знак"],
+    "concepts": []
   },
   {
     "cp": 1155,
@@ -1053,7 +1333,9 @@
     "name": "COMBINING CYRILLIC TITLO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "кириллица", "титло"],
+    "concepts": []
   },
   {
     "cp": 1156,
@@ -1061,7 +1343,9 @@
     "name": "COMBINING CYRILLIC PALATALIZATION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "кириллица"],
+    "concepts": []
   },
   {
     "cp": 1157,
@@ -1069,7 +1353,9 @@
     "name": "COMBINING CYRILLIC DASIA PNEUMATA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "кириллица", "дасия (густое придыхание)", "придыхание"],
+    "concepts": []
   },
   {
     "cp": 1158,
@@ -1077,7 +1363,9 @@
     "name": "COMBINING CYRILLIC PSILI PNEUMATA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "кириллица", "псили (тонкое придыхание)", "придыхание"],
+    "concepts": []
   },
   {
     "cp": 1159,
@@ -1085,7 +1373,9 @@
     "name": "COMBINING CYRILLIC POKRYTIE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "кириллица"],
+    "concepts": []
   },
   {
     "cp": 1160,
@@ -1093,7 +1383,9 @@
     "name": "COMBINING CYRILLIC HUNDRED THOUSANDS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "кириллица", "сто", "тысячи", "знак"],
+    "concepts": []
   },
   {
     "cp": 1161,
@@ -1101,7 +1393,9 @@
     "name": "COMBINING CYRILLIC MILLIONS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "кириллица", "миллионы", "знак"],
+    "concepts": []
   },
   {
     "cp": 1162,
@@ -1109,7 +1403,9 @@
     "name": "CYRILLIC CAPITAL LETTER SHORT I WITH TAIL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "короткий", "с", "хвост"],
+    "concepts": []
   },
   {
     "cp": 1163,
@@ -1117,7 +1413,9 @@
     "name": "CYRILLIC SMALL LETTER SHORT I WITH TAIL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "короткий", "с", "хвост"],
+    "concepts": []
   },
   {
     "cp": 1164,
@@ -1125,7 +1423,9 @@
     "name": "CYRILLIC CAPITAL LETTER SEMISOFT SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "полумягкий", "знак"],
+    "concepts": []
   },
   {
     "cp": 1165,
@@ -1133,7 +1433,9 @@
     "name": "CYRILLIC SMALL LETTER SEMISOFT SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "полумягкий", "знак"],
+    "concepts": []
   },
   {
     "cp": 1166,
@@ -1141,7 +1443,9 @@
     "name": "CYRILLIC CAPITAL LETTER ER WITH TICK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "эр", "с", "галочка (засечка)"],
+    "concepts": []
   },
   {
     "cp": 1167,
@@ -1149,7 +1453,9 @@
     "name": "CYRILLIC SMALL LETTER ER WITH TICK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "эр", "с", "галочка (засечка)"],
+    "concepts": []
   },
   {
     "cp": 1168,
@@ -1157,7 +1463,9 @@
     "name": "CYRILLIC CAPITAL LETTER GHE WITH UPTURN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ге", "с", "с подъёмом"],
+    "concepts": []
   },
   {
     "cp": 1169,
@@ -1165,7 +1473,9 @@
     "name": "CYRILLIC SMALL LETTER GHE WITH UPTURN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ге", "с", "с подъёмом"],
+    "concepts": []
   },
   {
     "cp": 1170,
@@ -1173,7 +1483,9 @@
     "name": "CYRILLIC CAPITAL LETTER GHE WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ге", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 1171,
@@ -1181,7 +1493,9 @@
     "name": "CYRILLIC SMALL LETTER GHE WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ге", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 1172,
@@ -1189,7 +1503,9 @@
     "name": "CYRILLIC CAPITAL LETTER GHE WITH MIDDLE HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ге", "с", "средний", "крючок"],
+    "concepts": []
   },
   {
     "cp": 1173,
@@ -1197,7 +1513,9 @@
     "name": "CYRILLIC SMALL LETTER GHE WITH MIDDLE HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ге", "с", "средний", "крючок"],
+    "concepts": []
   },
   {
     "cp": 1174,
@@ -1205,7 +1523,9 @@
     "name": "CYRILLIC CAPITAL LETTER ZHE WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "же", "с", "с хвостиком (нижний выносной)"],
+    "concepts": []
   },
   {
     "cp": 1175,
@@ -1213,7 +1533,16 @@
     "name": "CYRILLIC SMALL LETTER ZHE WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "же",
+      "с",
+      "с хвостиком (нижний выносной)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1176,
@@ -1221,7 +1550,9 @@
     "name": "CYRILLIC CAPITAL LETTER ZE WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "зе", "с", "с хвостиком (нижний выносной)"],
+    "concepts": []
   },
   {
     "cp": 1177,
@@ -1229,7 +1560,16 @@
     "name": "CYRILLIC SMALL LETTER ZE WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "зе",
+      "с",
+      "с хвостиком (нижний выносной)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1178,
@@ -1237,7 +1577,9 @@
     "name": "CYRILLIC CAPITAL LETTER KA WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ка", "с", "с хвостиком (нижний выносной)"],
+    "concepts": []
   },
   {
     "cp": 1179,
@@ -1245,7 +1587,16 @@
     "name": "CYRILLIC SMALL LETTER KA WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "ка",
+      "с",
+      "с хвостиком (нижний выносной)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1180,
@@ -1253,7 +1604,9 @@
     "name": "CYRILLIC CAPITAL LETTER KA WITH VERTICAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ка", "с", "вертикальный", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 1181,
@@ -1261,7 +1614,17 @@
     "name": "CYRILLIC SMALL LETTER KA WITH VERTICAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "ка",
+      "с",
+      "вертикальный",
+      "черта (штрих)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1182,
@@ -1269,7 +1632,9 @@
     "name": "CYRILLIC CAPITAL LETTER KA WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ка", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 1183,
@@ -1277,7 +1642,9 @@
     "name": "CYRILLIC SMALL LETTER KA WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ка", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 1184,
@@ -1285,7 +1652,9 @@
     "name": "CYRILLIC CAPITAL LETTER BASHKIR KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "башкирский", "ка"],
+    "concepts": []
   },
   {
     "cp": 1185,
@@ -1293,7 +1662,9 @@
     "name": "CYRILLIC SMALL LETTER BASHKIR KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "башкирский", "ка"],
+    "concepts": []
   },
   {
     "cp": 1186,
@@ -1301,7 +1672,16 @@
     "name": "CYRILLIC CAPITAL LETTER EN WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "заглавный",
+      "буква",
+      "короткое (en)",
+      "с",
+      "с хвостиком (нижний выносной)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1187,
@@ -1309,7 +1689,16 @@
     "name": "CYRILLIC SMALL LETTER EN WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "короткое (en)",
+      "с",
+      "с хвостиком (нижний выносной)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1188,
@@ -1317,7 +1706,9 @@
     "name": "CYRILLIC CAPITAL LIGATURE EN GHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "лигатура", "короткое (en)", "ге"],
+    "concepts": []
   },
   {
     "cp": 1189,
@@ -1325,7 +1716,9 @@
     "name": "CYRILLIC SMALL LIGATURE EN GHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "лигатура", "короткое (en)", "ге"],
+    "concepts": []
   },
   {
     "cp": 1190,
@@ -1333,7 +1726,9 @@
     "name": "CYRILLIC CAPITAL LETTER PE WITH MIDDLE HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "пе", "с", "средний", "крючок"],
+    "concepts": []
   },
   {
     "cp": 1191,
@@ -1341,7 +1736,9 @@
     "name": "CYRILLIC SMALL LETTER PE WITH MIDDLE HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "пе", "с", "средний", "крючок"],
+    "concepts": []
   },
   {
     "cp": 1192,
@@ -1349,7 +1746,9 @@
     "name": "CYRILLIC CAPITAL LETTER ABKHASIAN HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "абхазский", "ха"],
+    "concepts": []
   },
   {
     "cp": 1193,
@@ -1357,7 +1756,9 @@
     "name": "CYRILLIC SMALL LETTER ABKHASIAN HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "абхазский", "ха"],
+    "concepts": []
   },
   {
     "cp": 1194,
@@ -1365,7 +1766,9 @@
     "name": "CYRILLIC CAPITAL LETTER ES WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "эс", "с", "с хвостиком (нижний выносной)"],
+    "concepts": []
   },
   {
     "cp": 1195,
@@ -1373,7 +1776,16 @@
     "name": "CYRILLIC SMALL LETTER ES WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "эс",
+      "с",
+      "с хвостиком (нижний выносной)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1196,
@@ -1381,7 +1793,9 @@
     "name": "CYRILLIC CAPITAL LETTER TE WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "те", "с", "с хвостиком (нижний выносной)"],
+    "concepts": []
   },
   {
     "cp": 1197,
@@ -1389,7 +1803,16 @@
     "name": "CYRILLIC SMALL LETTER TE WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "те",
+      "с",
+      "с хвостиком (нижний выносной)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1198,
@@ -1397,7 +1820,9 @@
     "name": "CYRILLIC CAPITAL LETTER STRAIGHT U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "прямой"],
+    "concepts": []
   },
   {
     "cp": 1199,
@@ -1405,7 +1830,9 @@
     "name": "CYRILLIC SMALL LETTER STRAIGHT U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "прямой"],
+    "concepts": []
   },
   {
     "cp": 1200,
@@ -1413,7 +1840,9 @@
     "name": "CYRILLIC CAPITAL LETTER STRAIGHT U WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "прямой", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 1201,
@@ -1421,7 +1850,9 @@
     "name": "CYRILLIC SMALL LETTER STRAIGHT U WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "прямой", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 1202,
@@ -1429,7 +1860,9 @@
     "name": "CYRILLIC CAPITAL LETTER HA WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ха", "с", "с хвостиком (нижний выносной)"],
+    "concepts": []
   },
   {
     "cp": 1203,
@@ -1437,7 +1870,16 @@
     "name": "CYRILLIC SMALL LETTER HA WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "ха",
+      "с",
+      "с хвостиком (нижний выносной)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1204,
@@ -1445,7 +1887,9 @@
     "name": "CYRILLIC CAPITAL LIGATURE TE TSE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "лигатура", "те", "це"],
+    "concepts": []
   },
   {
     "cp": 1205,
@@ -1453,7 +1897,9 @@
     "name": "CYRILLIC SMALL LIGATURE TE TSE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "лигатура", "те", "це"],
+    "concepts": []
   },
   {
     "cp": 1206,
@@ -1461,7 +1907,9 @@
     "name": "CYRILLIC CAPITAL LETTER CHE WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "че", "с", "с хвостиком (нижний выносной)"],
+    "concepts": []
   },
   {
     "cp": 1207,
@@ -1469,7 +1917,16 @@
     "name": "CYRILLIC SMALL LETTER CHE WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "че",
+      "с",
+      "с хвостиком (нижний выносной)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1208,
@@ -1477,7 +1934,9 @@
     "name": "CYRILLIC CAPITAL LETTER CHE WITH VERTICAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "че", "с", "вертикальный", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 1209,
@@ -1485,7 +1944,17 @@
     "name": "CYRILLIC SMALL LETTER CHE WITH VERTICAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "че",
+      "с",
+      "вертикальный",
+      "черта (штрих)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1210,
@@ -1493,7 +1962,9 @@
     "name": "CYRILLIC CAPITAL LETTER SHHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "шха"],
+    "concepts": []
   },
   {
     "cp": 1211,
@@ -1501,7 +1972,9 @@
     "name": "CYRILLIC SMALL LETTER SHHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "шха"],
+    "concepts": []
   },
   {
     "cp": 1212,
@@ -1509,7 +1982,9 @@
     "name": "CYRILLIC CAPITAL LETTER ABKHASIAN CHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "абхазский", "че"],
+    "concepts": []
   },
   {
     "cp": 1213,
@@ -1517,7 +1992,9 @@
     "name": "CYRILLIC SMALL LETTER ABKHASIAN CHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "абхазский", "че"],
+    "concepts": []
   },
   {
     "cp": 1214,
@@ -1525,7 +2002,17 @@
     "name": "CYRILLIC CAPITAL LETTER ABKHASIAN CHE WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "заглавный",
+      "буква",
+      "абхазский",
+      "че",
+      "с",
+      "с хвостиком (нижний выносной)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1215,
@@ -1533,7 +2020,17 @@
     "name": "CYRILLIC SMALL LETTER ABKHASIAN CHE WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "абхазский",
+      "че",
+      "с",
+      "с хвостиком (нижний выносной)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1216,
@@ -1541,7 +2038,9 @@
     "name": "CYRILLIC LETTER PALOCHKA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "буква", "палочка (Ӏ)"],
+    "concepts": []
   },
   {
     "cp": 1217,
@@ -1549,7 +2048,9 @@
     "name": "CYRILLIC CAPITAL LETTER ZHE WITH BREVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "же", "с", "бреве (кратка)"],
+    "concepts": []
   },
   {
     "cp": 1218,
@@ -1557,7 +2058,9 @@
     "name": "CYRILLIC SMALL LETTER ZHE WITH BREVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "же", "с", "бреве (кратка)"],
+    "concepts": []
   },
   {
     "cp": 1219,
@@ -1565,7 +2068,9 @@
     "name": "CYRILLIC CAPITAL LETTER KA WITH HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ка", "с", "крючок"],
+    "concepts": []
   },
   {
     "cp": 1220,
@@ -1573,7 +2078,9 @@
     "name": "CYRILLIC SMALL LETTER KA WITH HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ка", "с", "крючок"],
+    "concepts": []
   },
   {
     "cp": 1221,
@@ -1581,7 +2088,9 @@
     "name": "CYRILLIC CAPITAL LETTER EL WITH TAIL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "эль", "с", "хвост"],
+    "concepts": []
   },
   {
     "cp": 1222,
@@ -1589,7 +2098,9 @@
     "name": "CYRILLIC SMALL LETTER EL WITH TAIL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "эль", "с", "хвост"],
+    "concepts": []
   },
   {
     "cp": 1223,
@@ -1597,7 +2108,9 @@
     "name": "CYRILLIC CAPITAL LETTER EN WITH HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "короткое (en)", "с", "крючок"],
+    "concepts": []
   },
   {
     "cp": 1224,
@@ -1605,7 +2118,9 @@
     "name": "CYRILLIC SMALL LETTER EN WITH HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "короткое (en)", "с", "крючок"],
+    "concepts": []
   },
   {
     "cp": 1225,
@@ -1613,7 +2128,9 @@
     "name": "CYRILLIC CAPITAL LETTER EN WITH TAIL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "короткое (en)", "с", "хвост"],
+    "concepts": []
   },
   {
     "cp": 1226,
@@ -1621,7 +2138,9 @@
     "name": "CYRILLIC SMALL LETTER EN WITH TAIL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "короткое (en)", "с", "хвост"],
+    "concepts": []
   },
   {
     "cp": 1227,
@@ -1629,7 +2148,9 @@
     "name": "CYRILLIC CAPITAL LETTER KHAKASSIAN CHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "хакасский", "че"],
+    "concepts": []
   },
   {
     "cp": 1228,
@@ -1637,7 +2158,9 @@
     "name": "CYRILLIC SMALL LETTER KHAKASSIAN CHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "хакасский", "че"],
+    "concepts": []
   },
   {
     "cp": 1229,
@@ -1645,7 +2168,9 @@
     "name": "CYRILLIC CAPITAL LETTER EM WITH TAIL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "круглая (em)", "с", "хвост"],
+    "concepts": []
   },
   {
     "cp": 1230,
@@ -1653,7 +2178,9 @@
     "name": "CYRILLIC SMALL LETTER EM WITH TAIL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "круглая (em)", "с", "хвост"],
+    "concepts": []
   },
   {
     "cp": 1231,
@@ -1661,7 +2188,9 @@
     "name": "CYRILLIC SMALL LETTER PALOCHKA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "палочка (Ӏ)"],
+    "concepts": []
   },
   {
     "cp": 1232,
@@ -1669,7 +2198,9 @@
     "name": "CYRILLIC CAPITAL LETTER A WITH BREVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "с", "бреве (кратка)"],
+    "concepts": []
   },
   {
     "cp": 1233,
@@ -1677,7 +2208,9 @@
     "name": "CYRILLIC SMALL LETTER A WITH BREVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "с", "бреве (кратка)"],
+    "concepts": []
   },
   {
     "cp": 1234,
@@ -1685,7 +2218,9 @@
     "name": "CYRILLIC CAPITAL LETTER A WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "с", "диерезис (две точки сверху)"],
+    "concepts": []
   },
   {
     "cp": 1235,
@@ -1693,7 +2228,9 @@
     "name": "CYRILLIC SMALL LETTER A WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "с", "диерезис (две точки сверху)"],
+    "concepts": []
   },
   {
     "cp": 1236,
@@ -1701,7 +2238,9 @@
     "name": "CYRILLIC CAPITAL LIGATURE A IE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "лигатура", "е (ie)"],
+    "concepts": []
   },
   {
     "cp": 1237,
@@ -1709,7 +2248,9 @@
     "name": "CYRILLIC SMALL LIGATURE A IE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "лигатура", "е (ie)"],
+    "concepts": []
   },
   {
     "cp": 1238,
@@ -1717,7 +2258,9 @@
     "name": "CYRILLIC CAPITAL LETTER IE WITH BREVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "е (ie)", "с", "бреве (кратка)"],
+    "concepts": []
   },
   {
     "cp": 1239,
@@ -1725,7 +2268,9 @@
     "name": "CYRILLIC SMALL LETTER IE WITH BREVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "е (ie)", "с", "бреве (кратка)"],
+    "concepts": []
   },
   {
     "cp": 1240,
@@ -1733,7 +2278,9 @@
     "name": "CYRILLIC CAPITAL LETTER SCHWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "шва"],
+    "concepts": []
   },
   {
     "cp": 1241,
@@ -1741,7 +2288,9 @@
     "name": "CYRILLIC SMALL LETTER SCHWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "шва"],
+    "concepts": []
   },
   {
     "cp": 1242,
@@ -1749,7 +2298,9 @@
     "name": "CYRILLIC CAPITAL LETTER SCHWA WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "шва", "с", "диерезис (две точки сверху)"],
+    "concepts": []
   },
   {
     "cp": 1243,
@@ -1757,7 +2308,16 @@
     "name": "CYRILLIC SMALL LETTER SCHWA WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "шва",
+      "с",
+      "диерезис (две точки сверху)"
+    ],
+    "concepts": ["fruit"]
   },
   {
     "cp": 1244,
@@ -1765,7 +2325,9 @@
     "name": "CYRILLIC CAPITAL LETTER ZHE WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "же", "с", "диерезис (две точки сверху)"],
+    "concepts": []
   },
   {
     "cp": 1245,
@@ -1773,7 +2335,16 @@
     "name": "CYRILLIC SMALL LETTER ZHE WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "же",
+      "с",
+      "диерезис (две точки сверху)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1246,
@@ -1781,7 +2352,9 @@
     "name": "CYRILLIC CAPITAL LETTER ZE WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "зе", "с", "диерезис (две точки сверху)"],
+    "concepts": []
   },
   {
     "cp": 1247,
@@ -1789,7 +2362,16 @@
     "name": "CYRILLIC SMALL LETTER ZE WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "зе",
+      "с",
+      "диерезис (две точки сверху)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1248,
@@ -1797,7 +2379,9 @@
     "name": "CYRILLIC CAPITAL LETTER ABKHASIAN DZE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "абхазский", "дзе (ѕ)"],
+    "concepts": []
   },
   {
     "cp": 1249,
@@ -1805,7 +2389,9 @@
     "name": "CYRILLIC SMALL LETTER ABKHASIAN DZE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "абхазский", "дзе (ѕ)"],
+    "concepts": []
   },
   {
     "cp": 1250,
@@ -1813,7 +2399,9 @@
     "name": "CYRILLIC CAPITAL LETTER I WITH MACRON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "с", "макрон (черта сверху)"],
+    "concepts": []
   },
   {
     "cp": 1251,
@@ -1821,7 +2409,9 @@
     "name": "CYRILLIC SMALL LETTER I WITH MACRON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "с", "макрон (черта сверху)"],
+    "concepts": []
   },
   {
     "cp": 1252,
@@ -1829,7 +2419,9 @@
     "name": "CYRILLIC CAPITAL LETTER I WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "с", "диерезис (две точки сверху)"],
+    "concepts": []
   },
   {
     "cp": 1253,
@@ -1837,7 +2429,9 @@
     "name": "CYRILLIC SMALL LETTER I WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "с", "диерезис (две точки сверху)"],
+    "concepts": []
   },
   {
     "cp": 1254,
@@ -1845,7 +2439,9 @@
     "name": "CYRILLIC CAPITAL LETTER O WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "с", "диерезис (две точки сверху)"],
+    "concepts": []
   },
   {
     "cp": 1255,
@@ -1853,7 +2449,9 @@
     "name": "CYRILLIC SMALL LETTER O WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "с", "диерезис (две точки сверху)"],
+    "concepts": []
   },
   {
     "cp": 1256,
@@ -1861,7 +2459,9 @@
     "name": "CYRILLIC CAPITAL LETTER BARRED O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "перечёркнутый"],
+    "concepts": []
   },
   {
     "cp": 1257,
@@ -1869,7 +2469,9 @@
     "name": "CYRILLIC SMALL LETTER BARRED O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "перечёркнутый"],
+    "concepts": []
   },
   {
     "cp": 1258,
@@ -1877,7 +2479,16 @@
     "name": "CYRILLIC CAPITAL LETTER BARRED O WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "заглавный",
+      "буква",
+      "перечёркнутый",
+      "с",
+      "диерезис (две точки сверху)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1259,
@@ -1885,7 +2496,16 @@
     "name": "CYRILLIC SMALL LETTER BARRED O WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "перечёркнутый",
+      "с",
+      "диерезис (две точки сверху)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1260,
@@ -1893,7 +2513,9 @@
     "name": "CYRILLIC CAPITAL LETTER E WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "с", "диерезис (две точки сверху)"],
+    "concepts": []
   },
   {
     "cp": 1261,
@@ -1901,7 +2523,9 @@
     "name": "CYRILLIC SMALL LETTER E WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "с", "диерезис (две точки сверху)"],
+    "concepts": []
   },
   {
     "cp": 1262,
@@ -1909,7 +2533,9 @@
     "name": "CYRILLIC CAPITAL LETTER U WITH MACRON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "с", "макрон (черта сверху)"],
+    "concepts": []
   },
   {
     "cp": 1263,
@@ -1917,7 +2543,9 @@
     "name": "CYRILLIC SMALL LETTER U WITH MACRON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "с", "макрон (черта сверху)"],
+    "concepts": []
   },
   {
     "cp": 1264,
@@ -1925,7 +2553,9 @@
     "name": "CYRILLIC CAPITAL LETTER U WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "с", "диерезис (две точки сверху)"],
+    "concepts": []
   },
   {
     "cp": 1265,
@@ -1933,7 +2563,9 @@
     "name": "CYRILLIC SMALL LETTER U WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "с", "диерезис (две точки сверху)"],
+    "concepts": []
   },
   {
     "cp": 1266,
@@ -1941,7 +2573,9 @@
     "name": "CYRILLIC CAPITAL LETTER U WITH DOUBLE ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "с", "двойной", "акут (ударение)"],
+    "concepts": []
   },
   {
     "cp": 1267,
@@ -1949,7 +2583,9 @@
     "name": "CYRILLIC SMALL LETTER U WITH DOUBLE ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "с", "двойной", "акут (ударение)"],
+    "concepts": []
   },
   {
     "cp": 1268,
@@ -1957,7 +2593,9 @@
     "name": "CYRILLIC CAPITAL LETTER CHE WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "че", "с", "диерезис (две точки сверху)"],
+    "concepts": []
   },
   {
     "cp": 1269,
@@ -1965,7 +2603,16 @@
     "name": "CYRILLIC SMALL LETTER CHE WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "че",
+      "с",
+      "диерезис (две точки сверху)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1270,
@@ -1973,7 +2620,9 @@
     "name": "CYRILLIC CAPITAL LETTER GHE WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ге", "с", "с хвостиком (нижний выносной)"],
+    "concepts": []
   },
   {
     "cp": 1271,
@@ -1981,7 +2630,16 @@
     "name": "CYRILLIC SMALL LETTER GHE WITH DESCENDER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "ге",
+      "с",
+      "с хвостиком (нижний выносной)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1272,
@@ -1989,7 +2647,9 @@
     "name": "CYRILLIC CAPITAL LETTER YERU WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "еры (ы)", "с", "диерезис (две точки сверху)"],
+    "concepts": []
   },
   {
     "cp": 1273,
@@ -1997,7 +2657,16 @@
     "name": "CYRILLIC SMALL LETTER YERU WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "еры (ы)",
+      "с",
+      "диерезис (две точки сверху)"
+    ],
+    "concepts": []
   },
   {
     "cp": 1274,
@@ -2005,7 +2674,9 @@
     "name": "CYRILLIC CAPITAL LETTER GHE WITH STROKE AND HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ге", "с", "черта (штрих)", "и", "крючок"],
+    "concepts": []
   },
   {
     "cp": 1275,
@@ -2013,7 +2684,18 @@
     "name": "CYRILLIC SMALL LETTER GHE WITH STROKE AND HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "кириллица",
+      "маленький (строчный)",
+      "буква",
+      "ге",
+      "с",
+      "черта (штрих)",
+      "и",
+      "крючок"
+    ],
+    "concepts": []
   },
   {
     "cp": 1276,
@@ -2021,7 +2703,9 @@
     "name": "CYRILLIC CAPITAL LETTER HA WITH HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ха", "с", "крючок"],
+    "concepts": []
   },
   {
     "cp": 1277,
@@ -2029,7 +2713,9 @@
     "name": "CYRILLIC SMALL LETTER HA WITH HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ха", "с", "крючок"],
+    "concepts": []
   },
   {
     "cp": 1278,
@@ -2037,7 +2723,9 @@
     "name": "CYRILLIC CAPITAL LETTER HA WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "заглавный", "буква", "ха", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 1279,
@@ -2045,6 +2733,8 @@
     "name": "CYRILLIC SMALL LETTER HA WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "маленький (строчный)", "буква", "ха", "с", "черта (штрих)"],
+    "concepts": []
   }
 ]

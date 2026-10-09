@@ -36,6 +36,16 @@ export interface UnicodeChar {
   ru: string | null;
   en: string | null;
   keywords: { ru: string[]; en: string[] };
+  /** Russian characteristics translated from the Unicode name. */
+  desc: string[];
+  /** Search concepts the character depicts or resembles. */
+  concepts: string[];
+}
+
+/** Human label for a character in the page language. */
+export function charLabel(c: UnicodeChar, lang: 'ru' | 'en'): string {
+  if (lang === 'ru') return c.ru ?? (c.desc.length ? c.desc.join(', ') : c.name.toLowerCase());
+  return c.en ?? c.name.toLowerCase();
 }
 
 export const blocks = blocksJson as UnicodeBlock[];

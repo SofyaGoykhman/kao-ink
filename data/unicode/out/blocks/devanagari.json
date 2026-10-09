@@ -5,7 +5,9 @@
     "name": "DEVANAGARI SIGN INVERTED CANDRABINDU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "знак", "перевёрнутый", "чандрабинду"],
+    "concepts": []
   },
   {
     "cp": 2305,
@@ -13,7 +15,9 @@
     "name": "DEVANAGARI SIGN CANDRABINDU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "знак", "чандрабинду"],
+    "concepts": []
   },
   {
     "cp": 2306,
@@ -21,7 +25,9 @@
     "name": "DEVANAGARI SIGN ANUSVARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "знак", "анусвара"],
+    "concepts": []
   },
   {
     "cp": 2307,
@@ -29,7 +35,9 @@
     "name": "DEVANAGARI SIGN VISARGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "знак", "висарга"],
+    "concepts": []
   },
   {
     "cp": 2308,
@@ -37,7 +45,9 @@
     "name": "DEVANAGARI LETTER SHORT A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "короткий"],
+    "concepts": []
   },
   {
     "cp": 2309,
@@ -45,7 +55,9 @@
     "name": "DEVANAGARI LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква"],
+    "concepts": []
   },
   {
     "cp": 2310,
@@ -53,7 +65,9 @@
     "name": "DEVANAGARI LETTER AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "аа"],
+    "concepts": []
   },
   {
     "cp": 2311,
@@ -61,7 +75,9 @@
     "name": "DEVANAGARI LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква"],
+    "concepts": []
   },
   {
     "cp": 2312,
@@ -69,7 +85,9 @@
     "name": "DEVANAGARI LETTER II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ии"],
+    "concepts": []
   },
   {
     "cp": 2313,
@@ -77,7 +95,9 @@
     "name": "DEVANAGARI LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква"],
+    "concepts": []
   },
   {
     "cp": 2314,
@@ -85,7 +105,9 @@
     "name": "DEVANAGARI LETTER UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "уу"],
+    "concepts": []
   },
   {
     "cp": 2315,
@@ -93,7 +115,9 @@
     "name": "DEVANAGARI LETTER VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 2316,
@@ -101,7 +125,9 @@
     "name": "DEVANAGARI LETTER VOCALIC L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 2317,
@@ -109,7 +135,9 @@
     "name": "DEVANAGARI LETTER CANDRA E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "чандра"],
+    "concepts": []
   },
   {
     "cp": 2318,
@@ -117,7 +145,9 @@
     "name": "DEVANAGARI LETTER SHORT E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "короткий"],
+    "concepts": []
   },
   {
     "cp": 2319,
@@ -125,7 +155,9 @@
     "name": "DEVANAGARI LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква"],
+    "concepts": []
   },
   {
     "cp": 2320,
@@ -133,7 +165,9 @@
     "name": "DEVANAGARI LETTER AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "аи"],
+    "concepts": []
   },
   {
     "cp": 2321,
@@ -141,7 +175,9 @@
     "name": "DEVANAGARI LETTER CANDRA O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "чандра"],
+    "concepts": []
   },
   {
     "cp": 2322,
@@ -149,7 +185,9 @@
     "name": "DEVANAGARI LETTER SHORT O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "короткий"],
+    "concepts": []
   },
   {
     "cp": 2323,
@@ -157,7 +195,9 @@
     "name": "DEVANAGARI LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква"],
+    "concepts": []
   },
   {
     "cp": 2324,
@@ -165,7 +205,9 @@
     "name": "DEVANAGARI LETTER AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ау"],
+    "concepts": []
   },
   {
     "cp": 2325,
@@ -173,7 +215,9 @@
     "name": "DEVANAGARI LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 2326,
@@ -181,7 +225,9 @@
     "name": "DEVANAGARI LETTER KHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "кха"],
+    "concepts": []
   },
   {
     "cp": 2327,
@@ -189,7 +235,9 @@
     "name": "DEVANAGARI LETTER GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "га"],
+    "concepts": []
   },
   {
     "cp": 2328,
@@ -197,7 +245,9 @@
     "name": "DEVANAGARI LETTER GHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "гха"],
+    "concepts": []
   },
   {
     "cp": 2329,
@@ -205,7 +255,9 @@
     "name": "DEVANAGARI LETTER NGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "нга"],
+    "concepts": []
   },
   {
     "cp": 2330,
@@ -213,7 +265,9 @@
     "name": "DEVANAGARI LETTER CA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 2331,
@@ -221,7 +275,9 @@
     "name": "DEVANAGARI LETTER CHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 2332,
@@ -229,7 +285,9 @@
     "name": "DEVANAGARI LETTER JA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "джа"],
+    "concepts": []
   },
   {
     "cp": 2333,
@@ -237,7 +295,9 @@
     "name": "DEVANAGARI LETTER JHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "джха"],
+    "concepts": []
   },
   {
     "cp": 2334,
@@ -245,7 +305,9 @@
     "name": "DEVANAGARI LETTER NYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ня"],
+    "concepts": []
   },
   {
     "cp": 2335,
@@ -253,7 +315,9 @@
     "name": "DEVANAGARI LETTER TTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "тта"],
+    "concepts": []
   },
   {
     "cp": 2336,
@@ -261,7 +325,9 @@
     "name": "DEVANAGARI LETTER TTHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ттха"],
+    "concepts": ["fruit"]
   },
   {
     "cp": 2337,
@@ -269,7 +335,9 @@
     "name": "DEVANAGARI LETTER DDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "дда"],
+    "concepts": []
   },
   {
     "cp": 2338,
@@ -277,7 +345,9 @@
     "name": "DEVANAGARI LETTER DDHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ддха"],
+    "concepts": []
   },
   {
     "cp": 2339,
@@ -285,7 +355,9 @@
     "name": "DEVANAGARI LETTER NNA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "нна"],
+    "concepts": []
   },
   {
     "cp": 2340,
@@ -293,7 +365,9 @@
     "name": "DEVANAGARI LETTER TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 2341,
@@ -301,7 +375,9 @@
     "name": "DEVANAGARI LETTER THA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "тха"],
+    "concepts": []
   },
   {
     "cp": 2342,
@@ -309,7 +385,9 @@
     "name": "DEVANAGARI LETTER DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "да"],
+    "concepts": []
   },
   {
     "cp": 2343,
@@ -317,7 +395,9 @@
     "name": "DEVANAGARI LETTER DHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "дха"],
+    "concepts": []
   },
   {
     "cp": 2344,
@@ -325,7 +405,9 @@
     "name": "DEVANAGARI LETTER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 2345,
@@ -333,7 +415,9 @@
     "name": "DEVANAGARI LETTER NNNA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ннна"],
+    "concepts": []
   },
   {
     "cp": 2346,
@@ -341,7 +425,9 @@
     "name": "DEVANAGARI LETTER PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "па"],
+    "concepts": []
   },
   {
     "cp": 2347,
@@ -349,7 +435,9 @@
     "name": "DEVANAGARI LETTER PHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "пха"],
+    "concepts": []
   },
   {
     "cp": 2348,
@@ -357,7 +445,9 @@
     "name": "DEVANAGARI LETTER BA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ба"],
+    "concepts": []
   },
   {
     "cp": 2349,
@@ -365,7 +455,9 @@
     "name": "DEVANAGARI LETTER BHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "бха"],
+    "concepts": []
   },
   {
     "cp": 2350,
@@ -373,7 +465,9 @@
     "name": "DEVANAGARI LETTER MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 2351,
@@ -381,7 +475,9 @@
     "name": "DEVANAGARI LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 2352,
@@ -389,7 +485,9 @@
     "name": "DEVANAGARI LETTER RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 2353,
@@ -397,7 +495,9 @@
     "name": "DEVANAGARI LETTER RRA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "рра"],
+    "concepts": []
   },
   {
     "cp": 2354,
@@ -405,7 +505,9 @@
     "name": "DEVANAGARI LETTER LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ла"],
+    "concepts": []
   },
   {
     "cp": 2355,
@@ -413,7 +515,9 @@
     "name": "DEVANAGARI LETTER LLA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "лла"],
+    "concepts": []
   },
   {
     "cp": 2356,
@@ -421,7 +525,9 @@
     "name": "DEVANAGARI LETTER LLLA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ллла"],
+    "concepts": []
   },
   {
     "cp": 2357,
@@ -429,7 +535,9 @@
     "name": "DEVANAGARI LETTER VA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ва"],
+    "concepts": []
   },
   {
     "cp": 2358,
@@ -437,7 +545,9 @@
     "name": "DEVANAGARI LETTER SHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ша"],
+    "concepts": []
   },
   {
     "cp": 2359,
@@ -445,7 +555,9 @@
     "name": "DEVANAGARI LETTER SSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "сса"],
+    "concepts": []
   },
   {
     "cp": 2360,
@@ -453,7 +565,9 @@
     "name": "DEVANAGARI LETTER SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 2361,
@@ -461,7 +575,9 @@
     "name": "DEVANAGARI LETTER HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 2362,
@@ -469,7 +585,9 @@
     "name": "DEVANAGARI VOWEL SIGN OE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "oe (лигатура)"],
+    "concepts": []
   },
   {
     "cp": 2363,
@@ -477,7 +595,9 @@
     "name": "DEVANAGARI VOWEL SIGN OOE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "уе"],
+    "concepts": []
   },
   {
     "cp": 2364,
@@ -485,7 +605,9 @@
     "name": "DEVANAGARI SIGN NUKTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "знак", "нукта"],
+    "concepts": []
   },
   {
     "cp": 2365,
@@ -493,7 +615,9 @@
     "name": "DEVANAGARI SIGN AVAGRAHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "знак", "аваграха"],
+    "concepts": []
   },
   {
     "cp": 2366,
@@ -501,7 +625,9 @@
     "name": "DEVANAGARI VOWEL SIGN AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "аа"],
+    "concepts": []
   },
   {
     "cp": 2367,
@@ -509,7 +635,9 @@
     "name": "DEVANAGARI VOWEL SIGN I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 2368,
@@ -517,7 +645,9 @@
     "name": "DEVANAGARI VOWEL SIGN II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "ии"],
+    "concepts": []
   },
   {
     "cp": 2369,
@@ -525,7 +655,9 @@
     "name": "DEVANAGARI VOWEL SIGN U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 2370,
@@ -533,7 +665,9 @@
     "name": "DEVANAGARI VOWEL SIGN UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "уу"],
+    "concepts": []
   },
   {
     "cp": 2371,
@@ -541,7 +675,9 @@
     "name": "DEVANAGARI VOWEL SIGN VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 2372,
@@ -549,7 +685,9 @@
     "name": "DEVANAGARI VOWEL SIGN VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 2373,
@@ -557,7 +695,9 @@
     "name": "DEVANAGARI VOWEL SIGN CANDRA E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "чандра"],
+    "concepts": []
   },
   {
     "cp": 2374,
@@ -565,7 +705,9 @@
     "name": "DEVANAGARI VOWEL SIGN SHORT E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "короткий"],
+    "concepts": []
   },
   {
     "cp": 2375,
@@ -573,7 +715,9 @@
     "name": "DEVANAGARI VOWEL SIGN E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 2376,
@@ -581,7 +725,9 @@
     "name": "DEVANAGARI VOWEL SIGN AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "аи"],
+    "concepts": []
   },
   {
     "cp": 2377,
@@ -589,7 +735,9 @@
     "name": "DEVANAGARI VOWEL SIGN CANDRA O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "чандра"],
+    "concepts": []
   },
   {
     "cp": 2378,
@@ -597,7 +745,9 @@
     "name": "DEVANAGARI VOWEL SIGN SHORT O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "короткий"],
+    "concepts": []
   },
   {
     "cp": 2379,
@@ -605,7 +755,9 @@
     "name": "DEVANAGARI VOWEL SIGN O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 2380,
@@ -613,7 +765,9 @@
     "name": "DEVANAGARI VOWEL SIGN AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "ау"],
+    "concepts": []
   },
   {
     "cp": 2381,
@@ -621,7 +775,9 @@
     "name": "DEVANAGARI SIGN VIRAMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "знак", "вирама"],
+    "concepts": []
   },
   {
     "cp": 2382,
@@ -629,7 +785,9 @@
     "name": "DEVANAGARI VOWEL SIGN PRISHTHAMATRA E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "приштхаматра"],
+    "concepts": []
   },
   {
     "cp": 2383,
@@ -637,7 +795,9 @@
     "name": "DEVANAGARI VOWEL SIGN AW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "ав"],
+    "concepts": []
   },
   {
     "cp": 2384,
@@ -645,7 +805,9 @@
     "name": "DEVANAGARI OM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "ом (ॐ)"],
+    "concepts": []
   },
   {
     "cp": 2385,
@@ -653,7 +815,9 @@
     "name": "DEVANAGARI STRESS SIGN UDATTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "ударение", "знак", "удатта"],
+    "concepts": []
   },
   {
     "cp": 2386,
@@ -661,7 +825,9 @@
     "name": "DEVANAGARI STRESS SIGN ANUDATTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "ударение", "знак", "анудатта"],
+    "concepts": []
   },
   {
     "cp": 2387,
@@ -669,7 +835,9 @@
     "name": "DEVANAGARI GRAVE ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гравис", "ударение (акцент)"],
+    "concepts": []
   },
   {
     "cp": 2388,
@@ -677,7 +845,9 @@
     "name": "DEVANAGARI ACUTE ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "акут (ударение)", "ударение (акцент)"],
+    "concepts": []
   },
   {
     "cp": 2389,
@@ -685,7 +855,9 @@
     "name": "DEVANAGARI VOWEL SIGN CANDRA LONG E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "чандра", "длинный"],
+    "concepts": []
   },
   {
     "cp": 2390,
@@ -693,7 +865,9 @@
     "name": "DEVANAGARI VOWEL SIGN UE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "уэ"],
+    "concepts": []
   },
   {
     "cp": 2391,
@@ -701,7 +875,9 @@
     "name": "DEVANAGARI VOWEL SIGN UUE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "ууе"],
+    "concepts": []
   },
   {
     "cp": 2392,
@@ -709,7 +885,9 @@
     "name": "DEVANAGARI LETTER QA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ка (qa)"],
+    "concepts": []
   },
   {
     "cp": 2393,
@@ -717,7 +895,9 @@
     "name": "DEVANAGARI LETTER KHHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква"],
+    "concepts": []
   },
   {
     "cp": 2394,
@@ -725,7 +905,9 @@
     "name": "DEVANAGARI LETTER GHHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "гха"],
+    "concepts": []
   },
   {
     "cp": 2395,
@@ -733,7 +915,9 @@
     "name": "DEVANAGARI LETTER ZA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "за"],
+    "concepts": []
   },
   {
     "cp": 2396,
@@ -741,7 +925,9 @@
     "name": "DEVANAGARI LETTER DDDHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква"],
+    "concepts": []
   },
   {
     "cp": 2397,
@@ -749,7 +935,9 @@
     "name": "DEVANAGARI LETTER RHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "рха"],
+    "concepts": []
   },
   {
     "cp": 2398,
@@ -757,7 +945,9 @@
     "name": "DEVANAGARI LETTER FA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "фа"],
+    "concepts": []
   },
   {
     "cp": 2399,
@@ -765,7 +955,9 @@
     "name": "DEVANAGARI LETTER YYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "йя"],
+    "concepts": []
   },
   {
     "cp": 2400,
@@ -773,7 +965,9 @@
     "name": "DEVANAGARI LETTER VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 2401,
@@ -781,7 +975,9 @@
     "name": "DEVANAGARI LETTER VOCALIC LL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "слоговой (вокалический)", "лл"],
+    "concepts": []
   },
   {
     "cp": 2402,
@@ -789,7 +985,9 @@
     "name": "DEVANAGARI VOWEL SIGN VOCALIC L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 2403,
@@ -797,7 +995,9 @@
     "name": "DEVANAGARI VOWEL SIGN VOCALIC LL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "гласная", "знак", "слоговой (вокалический)", "лл"],
+    "concepts": []
   },
   {
     "cp": 2404,
@@ -805,7 +1005,9 @@
     "name": "DEVANAGARI DANDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "данда"],
+    "concepts": []
   },
   {
     "cp": 2405,
@@ -813,7 +1015,9 @@
     "name": "DEVANAGARI DOUBLE DANDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "двойной", "данда"],
+    "concepts": []
   },
   {
     "cp": 2406,
@@ -821,7 +1025,9 @@
     "name": "DEVANAGARI DIGIT ZERO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "цифра", "ноль"],
+    "concepts": []
   },
   {
     "cp": 2407,
@@ -829,7 +1035,9 @@
     "name": "DEVANAGARI DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "цифра", "один"],
+    "concepts": []
   },
   {
     "cp": 2408,
@@ -837,7 +1045,9 @@
     "name": "DEVANAGARI DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "цифра", "два"],
+    "concepts": []
   },
   {
     "cp": 2409,
@@ -845,7 +1055,9 @@
     "name": "DEVANAGARI DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "цифра", "три"],
+    "concepts": []
   },
   {
     "cp": 2410,
@@ -853,7 +1065,9 @@
     "name": "DEVANAGARI DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "цифра", "четыре"],
+    "concepts": []
   },
   {
     "cp": 2411,
@@ -861,7 +1075,9 @@
     "name": "DEVANAGARI DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "цифра", "пять"],
+    "concepts": []
   },
   {
     "cp": 2412,
@@ -869,7 +1085,9 @@
     "name": "DEVANAGARI DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "цифра", "шесть"],
+    "concepts": []
   },
   {
     "cp": 2413,
@@ -877,7 +1095,9 @@
     "name": "DEVANAGARI DIGIT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "цифра", "семь"],
+    "concepts": []
   },
   {
     "cp": 2414,
@@ -885,7 +1105,9 @@
     "name": "DEVANAGARI DIGIT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "цифра", "восемь"],
+    "concepts": []
   },
   {
     "cp": 2415,
@@ -893,7 +1115,9 @@
     "name": "DEVANAGARI DIGIT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "цифра", "девять"],
+    "concepts": []
   },
   {
     "cp": 2416,
@@ -901,7 +1125,9 @@
     "name": "DEVANAGARI ABBREVIATION SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "сокращение", "знак"],
+    "concepts": []
   },
   {
     "cp": 2417,
@@ -909,7 +1135,9 @@
     "name": "DEVANAGARI SIGN HIGH SPACING DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "знак", "высокий", "с пробелом", "точка"],
+    "concepts": []
   },
   {
     "cp": 2418,
@@ -917,7 +1145,9 @@
     "name": "DEVANAGARI LETTER CANDRA A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "чандра"],
+    "concepts": []
   },
   {
     "cp": 2419,
@@ -925,7 +1155,9 @@
     "name": "DEVANAGARI LETTER OE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "oe (лигатура)"],
+    "concepts": []
   },
   {
     "cp": 2420,
@@ -933,7 +1165,9 @@
     "name": "DEVANAGARI LETTER OOE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "уе"],
+    "concepts": []
   },
   {
     "cp": 2421,
@@ -941,7 +1175,9 @@
     "name": "DEVANAGARI LETTER AW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ав"],
+    "concepts": []
   },
   {
     "cp": 2422,
@@ -949,7 +1185,9 @@
     "name": "DEVANAGARI LETTER UE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "уэ"],
+    "concepts": []
   },
   {
     "cp": 2423,
@@ -957,7 +1195,9 @@
     "name": "DEVANAGARI LETTER UUE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ууе"],
+    "concepts": []
   },
   {
     "cp": 2424,
@@ -965,7 +1205,9 @@
     "name": "DEVANAGARI LETTER MARWARI DDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "дда"],
+    "concepts": []
   },
   {
     "cp": 2425,
@@ -973,7 +1215,9 @@
     "name": "DEVANAGARI LETTER ZHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "жа"],
+    "concepts": []
   },
   {
     "cp": 2426,
@@ -981,7 +1225,9 @@
     "name": "DEVANAGARI LETTER HEAVY YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "жирный (толстый)", "я"],
+    "concepts": []
   },
   {
     "cp": 2427,
@@ -989,7 +1235,9 @@
     "name": "DEVANAGARI LETTER GGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "гга"],
+    "concepts": []
   },
   {
     "cp": 2428,
@@ -997,7 +1245,9 @@
     "name": "DEVANAGARI LETTER JJA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "джджа"],
+    "concepts": []
   },
   {
     "cp": 2429,
@@ -1005,7 +1255,9 @@
     "name": "DEVANAGARI LETTER GLOTTAL STOP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "гортанный", "стоп"],
+    "concepts": []
   },
   {
     "cp": 2430,
@@ -1013,7 +1265,9 @@
     "name": "DEVANAGARI LETTER DDDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "ддда"],
+    "concepts": []
   },
   {
     "cp": 2431,
@@ -1021,6 +1275,8 @@
     "name": "DEVANAGARI LETTER BBA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "бба"],
+    "concepts": []
   }
 ]

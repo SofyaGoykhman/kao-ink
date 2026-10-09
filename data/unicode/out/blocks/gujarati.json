@@ -5,7 +5,9 @@
     "name": "GUJARATI SIGN CANDRABINDU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "знак", "чандрабинду"],
+    "concepts": []
   },
   {
     "cp": 2690,
@@ -13,7 +15,9 @@
     "name": "GUJARATI SIGN ANUSVARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "знак", "анусвара"],
+    "concepts": []
   },
   {
     "cp": 2691,
@@ -21,7 +25,9 @@
     "name": "GUJARATI SIGN VISARGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "знак", "висарга"],
+    "concepts": []
   },
   {
     "cp": 2693,
@@ -29,7 +35,9 @@
     "name": "GUJARATI LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква"],
+    "concepts": []
   },
   {
     "cp": 2694,
@@ -37,7 +45,9 @@
     "name": "GUJARATI LETTER AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "аа"],
+    "concepts": []
   },
   {
     "cp": 2695,
@@ -45,7 +55,9 @@
     "name": "GUJARATI LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква"],
+    "concepts": []
   },
   {
     "cp": 2696,
@@ -53,7 +65,9 @@
     "name": "GUJARATI LETTER II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "ии"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 2697,
@@ -61,7 +75,9 @@
     "name": "GUJARATI LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква"],
+    "concepts": []
   },
   {
     "cp": 2698,
@@ -69,7 +85,9 @@
     "name": "GUJARATI LETTER UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "уу"],
+    "concepts": []
   },
   {
     "cp": 2699,
@@ -77,7 +95,9 @@
     "name": "GUJARATI LETTER VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 2700,
@@ -85,7 +105,9 @@
     "name": "GUJARATI LETTER VOCALIC L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 2701,
@@ -93,7 +115,9 @@
     "name": "GUJARATI VOWEL CANDRA E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "гласная", "чандра"],
+    "concepts": []
   },
   {
     "cp": 2703,
@@ -101,7 +125,9 @@
     "name": "GUJARATI LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква"],
+    "concepts": []
   },
   {
     "cp": 2704,
@@ -109,7 +135,9 @@
     "name": "GUJARATI LETTER AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "аи"],
+    "concepts": []
   },
   {
     "cp": 2705,
@@ -117,7 +145,9 @@
     "name": "GUJARATI VOWEL CANDRA O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "гласная", "чандра"],
+    "concepts": []
   },
   {
     "cp": 2707,
@@ -125,7 +155,9 @@
     "name": "GUJARATI LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква"],
+    "concepts": []
   },
   {
     "cp": 2708,
@@ -133,7 +165,9 @@
     "name": "GUJARATI LETTER AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "ау"],
+    "concepts": []
   },
   {
     "cp": 2709,
@@ -141,7 +175,9 @@
     "name": "GUJARATI LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 2710,
@@ -149,7 +185,9 @@
     "name": "GUJARATI LETTER KHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "кха"],
+    "concepts": []
   },
   {
     "cp": 2711,
@@ -157,7 +195,9 @@
     "name": "GUJARATI LETTER GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "га"],
+    "concepts": []
   },
   {
     "cp": 2712,
@@ -165,7 +205,9 @@
     "name": "GUJARATI LETTER GHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "гха"],
+    "concepts": []
   },
   {
     "cp": 2713,
@@ -173,7 +215,9 @@
     "name": "GUJARATI LETTER NGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "нга"],
+    "concepts": []
   },
   {
     "cp": 2714,
@@ -181,7 +225,9 @@
     "name": "GUJARATI LETTER CA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 2715,
@@ -189,7 +235,9 @@
     "name": "GUJARATI LETTER CHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 2716,
@@ -197,7 +245,9 @@
     "name": "GUJARATI LETTER JA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "джа"],
+    "concepts": []
   },
   {
     "cp": 2717,
@@ -205,7 +255,9 @@
     "name": "GUJARATI LETTER JHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "джха"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 2718,
@@ -213,7 +265,9 @@
     "name": "GUJARATI LETTER NYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "ня"],
+    "concepts": []
   },
   {
     "cp": 2719,
@@ -221,7 +275,9 @@
     "name": "GUJARATI LETTER TTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "тта"],
+    "concepts": []
   },
   {
     "cp": 2720,
@@ -229,7 +285,9 @@
     "name": "GUJARATI LETTER TTHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "ттха"],
+    "concepts": ["fruit"]
   },
   {
     "cp": 2721,
@@ -237,7 +295,9 @@
     "name": "GUJARATI LETTER DDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "дда"],
+    "concepts": []
   },
   {
     "cp": 2722,
@@ -245,7 +305,9 @@
     "name": "GUJARATI LETTER DDHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "ддха"],
+    "concepts": []
   },
   {
     "cp": 2723,
@@ -253,7 +315,9 @@
     "name": "GUJARATI LETTER NNA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "нна"],
+    "concepts": []
   },
   {
     "cp": 2724,
@@ -261,7 +325,9 @@
     "name": "GUJARATI LETTER TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 2725,
@@ -269,7 +335,9 @@
     "name": "GUJARATI LETTER THA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "тха"],
+    "concepts": []
   },
   {
     "cp": 2726,
@@ -277,7 +345,9 @@
     "name": "GUJARATI LETTER DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "да"],
+    "concepts": []
   },
   {
     "cp": 2727,
@@ -285,7 +355,9 @@
     "name": "GUJARATI LETTER DHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "дха"],
+    "concepts": []
   },
   {
     "cp": 2728,
@@ -293,7 +365,9 @@
     "name": "GUJARATI LETTER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 2730,
@@ -301,7 +375,9 @@
     "name": "GUJARATI LETTER PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "па"],
+    "concepts": []
   },
   {
     "cp": 2731,
@@ -309,7 +385,9 @@
     "name": "GUJARATI LETTER PHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "пха"],
+    "concepts": []
   },
   {
     "cp": 2732,
@@ -317,7 +395,9 @@
     "name": "GUJARATI LETTER BA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "ба"],
+    "concepts": []
   },
   {
     "cp": 2733,
@@ -325,7 +405,9 @@
     "name": "GUJARATI LETTER BHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "бха"],
+    "concepts": []
   },
   {
     "cp": 2734,
@@ -333,7 +415,9 @@
     "name": "GUJARATI LETTER MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 2735,
@@ -341,7 +425,9 @@
     "name": "GUJARATI LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 2736,
@@ -349,7 +435,9 @@
     "name": "GUJARATI LETTER RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 2738,
@@ -357,7 +445,9 @@
     "name": "GUJARATI LETTER LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "ла"],
+    "concepts": []
   },
   {
     "cp": 2739,
@@ -365,7 +455,9 @@
     "name": "GUJARATI LETTER LLA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "лла"],
+    "concepts": []
   },
   {
     "cp": 2741,
@@ -373,7 +465,9 @@
     "name": "GUJARATI LETTER VA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "ва"],
+    "concepts": []
   },
   {
     "cp": 2742,
@@ -381,7 +475,9 @@
     "name": "GUJARATI LETTER SHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "ша"],
+    "concepts": []
   },
   {
     "cp": 2743,
@@ -389,7 +485,9 @@
     "name": "GUJARATI LETTER SSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "сса"],
+    "concepts": []
   },
   {
     "cp": 2744,
@@ -397,7 +495,9 @@
     "name": "GUJARATI LETTER SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 2745,
@@ -405,7 +505,9 @@
     "name": "GUJARATI LETTER HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 2748,
@@ -413,7 +515,9 @@
     "name": "GUJARATI SIGN NUKTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "знак", "нукта"],
+    "concepts": []
   },
   {
     "cp": 2749,
@@ -421,7 +525,9 @@
     "name": "GUJARATI SIGN AVAGRAHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "знак", "аваграха"],
+    "concepts": ["infinity"]
   },
   {
     "cp": 2750,
@@ -429,7 +535,9 @@
     "name": "GUJARATI VOWEL SIGN AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "гласная", "знак", "аа"],
+    "concepts": []
   },
   {
     "cp": 2751,
@@ -437,7 +545,9 @@
     "name": "GUJARATI VOWEL SIGN I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 2752,
@@ -445,7 +555,9 @@
     "name": "GUJARATI VOWEL SIGN II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "гласная", "знак", "ии"],
+    "concepts": []
   },
   {
     "cp": 2753,
@@ -453,7 +565,9 @@
     "name": "GUJARATI VOWEL SIGN U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 2754,
@@ -461,7 +575,9 @@
     "name": "GUJARATI VOWEL SIGN UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "гласная", "знак", "уу"],
+    "concepts": []
   },
   {
     "cp": 2755,
@@ -469,7 +585,9 @@
     "name": "GUJARATI VOWEL SIGN VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "гласная", "знак", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 2756,
@@ -477,7 +595,9 @@
     "name": "GUJARATI VOWEL SIGN VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "гласная", "знак", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 2757,
@@ -485,7 +605,9 @@
     "name": "GUJARATI VOWEL SIGN CANDRA E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "гласная", "знак", "чандра"],
+    "concepts": []
   },
   {
     "cp": 2759,
@@ -493,7 +615,9 @@
     "name": "GUJARATI VOWEL SIGN E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 2760,
@@ -501,7 +625,9 @@
     "name": "GUJARATI VOWEL SIGN AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "гласная", "знак", "аи"],
+    "concepts": []
   },
   {
     "cp": 2761,
@@ -509,7 +635,9 @@
     "name": "GUJARATI VOWEL SIGN CANDRA O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "гласная", "знак", "чандра"],
+    "concepts": []
   },
   {
     "cp": 2763,
@@ -517,7 +645,9 @@
     "name": "GUJARATI VOWEL SIGN O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 2764,
@@ -525,7 +655,9 @@
     "name": "GUJARATI VOWEL SIGN AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "гласная", "знак", "ау"],
+    "concepts": []
   },
   {
     "cp": 2765,
@@ -533,7 +665,9 @@
     "name": "GUJARATI SIGN VIRAMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "знак", "вирама"],
+    "concepts": []
   },
   {
     "cp": 2768,
@@ -541,7 +675,9 @@
     "name": "GUJARATI OM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "ом (ॐ)"],
+    "concepts": []
   },
   {
     "cp": 2784,
@@ -549,7 +685,9 @@
     "name": "GUJARATI LETTER VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 2785,
@@ -557,7 +695,9 @@
     "name": "GUJARATI LETTER VOCALIC LL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "слоговой (вокалический)", "лл"],
+    "concepts": []
   },
   {
     "cp": 2786,
@@ -565,7 +705,9 @@
     "name": "GUJARATI VOWEL SIGN VOCALIC L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "гласная", "знак", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 2787,
@@ -573,7 +715,9 @@
     "name": "GUJARATI VOWEL SIGN VOCALIC LL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "гласная", "знак", "слоговой (вокалический)", "лл"],
+    "concepts": []
   },
   {
     "cp": 2790,
@@ -581,7 +725,9 @@
     "name": "GUJARATI DIGIT ZERO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "цифра", "ноль"],
+    "concepts": []
   },
   {
     "cp": 2791,
@@ -589,7 +735,9 @@
     "name": "GUJARATI DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "цифра", "один"],
+    "concepts": []
   },
   {
     "cp": 2792,
@@ -597,7 +745,9 @@
     "name": "GUJARATI DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "цифра", "два"],
+    "concepts": []
   },
   {
     "cp": 2793,
@@ -605,7 +755,9 @@
     "name": "GUJARATI DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "цифра", "три"],
+    "concepts": []
   },
   {
     "cp": 2794,
@@ -613,7 +765,9 @@
     "name": "GUJARATI DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "цифра", "четыре"],
+    "concepts": []
   },
   {
     "cp": 2795,
@@ -621,7 +775,9 @@
     "name": "GUJARATI DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "цифра", "пять"],
+    "concepts": []
   },
   {
     "cp": 2796,
@@ -629,7 +785,9 @@
     "name": "GUJARATI DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "цифра", "шесть"],
+    "concepts": []
   },
   {
     "cp": 2797,
@@ -637,7 +795,9 @@
     "name": "GUJARATI DIGIT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "цифра", "семь"],
+    "concepts": []
   },
   {
     "cp": 2798,
@@ -645,7 +805,9 @@
     "name": "GUJARATI DIGIT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "цифра", "восемь"],
+    "concepts": []
   },
   {
     "cp": 2799,
@@ -653,7 +815,9 @@
     "name": "GUJARATI DIGIT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "цифра", "девять"],
+    "concepts": []
   },
   {
     "cp": 2800,
@@ -661,7 +825,9 @@
     "name": "GUJARATI ABBREVIATION SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "сокращение", "знак"],
+    "concepts": []
   },
   {
     "cp": 2801,
@@ -669,7 +835,9 @@
     "name": "GUJARATI RUPEE SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "рупия", "знак"],
+    "concepts": []
   },
   {
     "cp": 2809,
@@ -677,7 +845,9 @@
     "name": "GUJARATI LETTER ZHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "буква", "жа"],
+    "concepts": []
   },
   {
     "cp": 2810,
@@ -685,7 +855,9 @@
     "name": "GUJARATI SIGN SUKUN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "знак", "сукун"],
+    "concepts": []
   },
   {
     "cp": 2811,
@@ -693,7 +865,9 @@
     "name": "GUJARATI SIGN SHADDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "знак", "шадда"],
+    "concepts": []
   },
   {
     "cp": 2812,
@@ -701,7 +875,9 @@
     "name": "GUJARATI SIGN MADDAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "знак", "мадда"],
+    "concepts": []
   },
   {
     "cp": 2813,
@@ -709,7 +885,9 @@
     "name": "GUJARATI SIGN THREE-DOT NUKTA ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "знак", "три", "точка", "нукта", "сверху"],
+    "concepts": []
   },
   {
     "cp": 2814,
@@ -717,7 +895,9 @@
     "name": "GUJARATI SIGN CIRCLE NUKTA ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "знак", "круг", "нукта", "сверху"],
+    "concepts": []
   },
   {
     "cp": 2815,
@@ -725,6 +905,8 @@
     "name": "GUJARATI SIGN TWO-CIRCLE NUKTA ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуджарати", "знак", "два", "круг", "нукта", "сверху"],
+    "concepts": []
   }
 ]

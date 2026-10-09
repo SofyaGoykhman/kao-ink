@@ -5,7 +5,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER ALEPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "алеф"],
+    "concepts": []
   },
   {
     "cp": 68417,
@@ -13,7 +15,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER BETH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "бет"],
+    "concepts": []
   },
   {
     "cp": 68418,
@@ -21,7 +25,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER GIMEL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "гимель"],
+    "concepts": []
   },
   {
     "cp": 68419,
@@ -29,7 +35,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER DALETH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "далет"],
+    "concepts": []
   },
   {
     "cp": 68420,
@@ -37,7 +45,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER HE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "хе"],
+    "concepts": []
   },
   {
     "cp": 68421,
@@ -45,7 +55,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER WAW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "вав"],
+    "concepts": []
   },
   {
     "cp": 68422,
@@ -53,7 +65,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER ZAYIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "зайин"],
+    "concepts": []
   },
   {
     "cp": 68423,
@@ -61,7 +75,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER HETH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "хет"],
+    "concepts": []
   },
   {
     "cp": 68424,
@@ -69,7 +85,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER TETH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "тет"],
+    "concepts": []
   },
   {
     "cp": 68425,
@@ -77,7 +95,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER YODH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "йод"],
+    "concepts": []
   },
   {
     "cp": 68426,
@@ -85,7 +105,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER KAPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "каф"],
+    "concepts": []
   },
   {
     "cp": 68427,
@@ -93,7 +115,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER LAMEDH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "ламед"],
+    "concepts": []
   },
   {
     "cp": 68428,
@@ -101,7 +125,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER MEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "мем"],
+    "concepts": []
   },
   {
     "cp": 68429,
@@ -109,7 +135,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER NUN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "нун"],
+    "concepts": []
   },
   {
     "cp": 68430,
@@ -117,7 +145,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER SAMEKH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "самех"],
+    "concepts": []
   },
   {
     "cp": 68431,
@@ -125,7 +155,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER AYIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "айин"],
+    "concepts": []
   },
   {
     "cp": 68432,
@@ -133,7 +165,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER PE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "пе"],
+    "concepts": []
   },
   {
     "cp": 68433,
@@ -141,7 +175,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER SADHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "цади"],
+    "concepts": []
   },
   {
     "cp": 68434,
@@ -149,7 +185,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER QOPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "коф"],
+    "concepts": []
   },
   {
     "cp": 68435,
@@ -157,7 +195,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER RESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "реш"],
+    "concepts": []
   },
   {
     "cp": 68436,
@@ -165,7 +205,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER SHIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "шин"],
+    "concepts": []
   },
   {
     "cp": 68437,
@@ -173,7 +215,9 @@
     "name": "INSCRIPTIONAL PARTHIAN LETTER TAW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "буква", "тав"],
+    "concepts": []
   },
   {
     "cp": 68440,
@@ -181,7 +225,9 @@
     "name": "INSCRIPTIONAL PARTHIAN NUMBER ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "число", "один"],
+    "concepts": []
   },
   {
     "cp": 68441,
@@ -189,7 +235,9 @@
     "name": "INSCRIPTIONAL PARTHIAN NUMBER TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "число", "два"],
+    "concepts": []
   },
   {
     "cp": 68442,
@@ -197,7 +245,9 @@
     "name": "INSCRIPTIONAL PARTHIAN NUMBER THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "число", "три"],
+    "concepts": []
   },
   {
     "cp": 68443,
@@ -205,7 +255,9 @@
     "name": "INSCRIPTIONAL PARTHIAN NUMBER FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "число", "четыре"],
+    "concepts": []
   },
   {
     "cp": 68444,
@@ -213,7 +265,9 @@
     "name": "INSCRIPTIONAL PARTHIAN NUMBER TEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "число", "десять"],
+    "concepts": []
   },
   {
     "cp": 68445,
@@ -221,7 +275,9 @@
     "name": "INSCRIPTIONAL PARTHIAN NUMBER TWENTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "число", "двадцать"],
+    "concepts": []
   },
   {
     "cp": 68446,
@@ -229,7 +285,9 @@
     "name": "INSCRIPTIONAL PARTHIAN NUMBER ONE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "число", "один", "сто"],
+    "concepts": []
   },
   {
     "cp": 68447,
@@ -237,6 +295,8 @@
     "name": "INSCRIPTIONAL PARTHIAN NUMBER ONE THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "парфянский", "число", "один", "тысяча"],
+    "concepts": []
   }
 ]

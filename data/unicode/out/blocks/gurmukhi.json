@@ -5,7 +5,9 @@
     "name": "GURMUKHI SIGN ADAK BINDI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "знак"],
+    "concepts": []
   },
   {
     "cp": 2562,
@@ -13,7 +15,9 @@
     "name": "GURMUKHI SIGN BINDI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "знак"],
+    "concepts": []
   },
   {
     "cp": 2563,
@@ -21,7 +25,9 @@
     "name": "GURMUKHI SIGN VISARGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "знак", "висарга"],
+    "concepts": []
   },
   {
     "cp": 2565,
@@ -29,7 +35,9 @@
     "name": "GURMUKHI LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква"],
+    "concepts": []
   },
   {
     "cp": 2566,
@@ -37,7 +45,9 @@
     "name": "GURMUKHI LETTER AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "аа"],
+    "concepts": []
   },
   {
     "cp": 2567,
@@ -45,7 +55,9 @@
     "name": "GURMUKHI LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква"],
+    "concepts": []
   },
   {
     "cp": 2568,
@@ -53,7 +65,9 @@
     "name": "GURMUKHI LETTER II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "ии"],
+    "concepts": []
   },
   {
     "cp": 2569,
@@ -61,7 +75,9 @@
     "name": "GURMUKHI LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква"],
+    "concepts": []
   },
   {
     "cp": 2570,
@@ -69,7 +85,9 @@
     "name": "GURMUKHI LETTER UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "уу"],
+    "concepts": []
   },
   {
     "cp": 2575,
@@ -77,7 +95,9 @@
     "name": "GURMUKHI LETTER EE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "ее"],
+    "concepts": []
   },
   {
     "cp": 2576,
@@ -85,7 +105,9 @@
     "name": "GURMUKHI LETTER AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "аи"],
+    "concepts": []
   },
   {
     "cp": 2579,
@@ -93,7 +115,9 @@
     "name": "GURMUKHI LETTER OO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "оо"],
+    "concepts": []
   },
   {
     "cp": 2580,
@@ -101,7 +125,9 @@
     "name": "GURMUKHI LETTER AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "ау"],
+    "concepts": []
   },
   {
     "cp": 2581,
@@ -109,7 +135,9 @@
     "name": "GURMUKHI LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 2582,
@@ -117,7 +145,9 @@
     "name": "GURMUKHI LETTER KHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "кха"],
+    "concepts": []
   },
   {
     "cp": 2583,
@@ -125,7 +155,9 @@
     "name": "GURMUKHI LETTER GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "га"],
+    "concepts": []
   },
   {
     "cp": 2584,
@@ -133,7 +165,9 @@
     "name": "GURMUKHI LETTER GHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "гха"],
+    "concepts": []
   },
   {
     "cp": 2585,
@@ -141,7 +175,9 @@
     "name": "GURMUKHI LETTER NGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "нга"],
+    "concepts": []
   },
   {
     "cp": 2586,
@@ -149,7 +185,9 @@
     "name": "GURMUKHI LETTER CA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 2587,
@@ -157,7 +195,9 @@
     "name": "GURMUKHI LETTER CHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 2588,
@@ -165,7 +205,9 @@
     "name": "GURMUKHI LETTER JA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "джа"],
+    "concepts": []
   },
   {
     "cp": 2589,
@@ -173,7 +215,9 @@
     "name": "GURMUKHI LETTER JHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "джха"],
+    "concepts": []
   },
   {
     "cp": 2590,
@@ -181,7 +225,9 @@
     "name": "GURMUKHI LETTER NYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "ня"],
+    "concepts": []
   },
   {
     "cp": 2591,
@@ -189,7 +235,9 @@
     "name": "GURMUKHI LETTER TTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "тта"],
+    "concepts": []
   },
   {
     "cp": 2592,
@@ -197,7 +245,9 @@
     "name": "GURMUKHI LETTER TTHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "ттха"],
+    "concepts": []
   },
   {
     "cp": 2593,
@@ -205,7 +255,9 @@
     "name": "GURMUKHI LETTER DDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "дда"],
+    "concepts": []
   },
   {
     "cp": 2594,
@@ -213,7 +265,9 @@
     "name": "GURMUKHI LETTER DDHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "ддха"],
+    "concepts": []
   },
   {
     "cp": 2595,
@@ -221,7 +275,9 @@
     "name": "GURMUKHI LETTER NNA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "нна"],
+    "concepts": []
   },
   {
     "cp": 2596,
@@ -229,7 +285,9 @@
     "name": "GURMUKHI LETTER TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 2597,
@@ -237,7 +295,9 @@
     "name": "GURMUKHI LETTER THA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "тха"],
+    "concepts": []
   },
   {
     "cp": 2598,
@@ -245,7 +305,9 @@
     "name": "GURMUKHI LETTER DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "да"],
+    "concepts": []
   },
   {
     "cp": 2599,
@@ -253,7 +315,9 @@
     "name": "GURMUKHI LETTER DHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "дха"],
+    "concepts": []
   },
   {
     "cp": 2600,
@@ -261,7 +325,9 @@
     "name": "GURMUKHI LETTER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 2602,
@@ -269,7 +335,9 @@
     "name": "GURMUKHI LETTER PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "па"],
+    "concepts": []
   },
   {
     "cp": 2603,
@@ -277,7 +345,9 @@
     "name": "GURMUKHI LETTER PHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "пха"],
+    "concepts": []
   },
   {
     "cp": 2604,
@@ -285,7 +355,9 @@
     "name": "GURMUKHI LETTER BA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "ба"],
+    "concepts": []
   },
   {
     "cp": 2605,
@@ -293,7 +365,9 @@
     "name": "GURMUKHI LETTER BHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "бха"],
+    "concepts": []
   },
   {
     "cp": 2606,
@@ -301,7 +375,9 @@
     "name": "GURMUKHI LETTER MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 2607,
@@ -309,7 +385,9 @@
     "name": "GURMUKHI LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 2608,
@@ -317,7 +395,9 @@
     "name": "GURMUKHI LETTER RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 2610,
@@ -325,7 +405,9 @@
     "name": "GURMUKHI LETTER LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "ла"],
+    "concepts": []
   },
   {
     "cp": 2611,
@@ -333,7 +415,9 @@
     "name": "GURMUKHI LETTER LLA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "лла"],
+    "concepts": []
   },
   {
     "cp": 2613,
@@ -341,7 +425,9 @@
     "name": "GURMUKHI LETTER VA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "ва"],
+    "concepts": []
   },
   {
     "cp": 2614,
@@ -349,7 +435,9 @@
     "name": "GURMUKHI LETTER SHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "ша"],
+    "concepts": []
   },
   {
     "cp": 2616,
@@ -357,7 +445,9 @@
     "name": "GURMUKHI LETTER SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 2617,
@@ -365,7 +455,9 @@
     "name": "GURMUKHI LETTER HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 2620,
@@ -373,7 +465,9 @@
     "name": "GURMUKHI SIGN NUKTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "знак", "нукта"],
+    "concepts": []
   },
   {
     "cp": 2622,
@@ -381,7 +475,9 @@
     "name": "GURMUKHI VOWEL SIGN AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "гласная", "знак", "аа"],
+    "concepts": []
   },
   {
     "cp": 2623,
@@ -389,7 +485,9 @@
     "name": "GURMUKHI VOWEL SIGN I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 2624,
@@ -397,7 +495,9 @@
     "name": "GURMUKHI VOWEL SIGN II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "гласная", "знак", "ии"],
+    "concepts": []
   },
   {
     "cp": 2625,
@@ -405,7 +505,9 @@
     "name": "GURMUKHI VOWEL SIGN U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 2626,
@@ -413,7 +515,9 @@
     "name": "GURMUKHI VOWEL SIGN UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "гласная", "знак", "уу"],
+    "concepts": []
   },
   {
     "cp": 2631,
@@ -421,7 +525,9 @@
     "name": "GURMUKHI VOWEL SIGN EE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "гласная", "знак", "ее"],
+    "concepts": []
   },
   {
     "cp": 2632,
@@ -429,7 +535,9 @@
     "name": "GURMUKHI VOWEL SIGN AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "гласная", "знак", "аи"],
+    "concepts": []
   },
   {
     "cp": 2635,
@@ -437,7 +545,9 @@
     "name": "GURMUKHI VOWEL SIGN OO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "гласная", "знак", "оо"],
+    "concepts": []
   },
   {
     "cp": 2636,
@@ -445,7 +555,9 @@
     "name": "GURMUKHI VOWEL SIGN AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "гласная", "знак", "ау"],
+    "concepts": []
   },
   {
     "cp": 2637,
@@ -453,7 +565,9 @@
     "name": "GURMUKHI SIGN VIRAMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "знак", "вирама"],
+    "concepts": []
   },
   {
     "cp": 2641,
@@ -461,7 +575,9 @@
     "name": "GURMUKHI SIGN UDAAT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "знак"],
+    "concepts": []
   },
   {
     "cp": 2649,
@@ -469,7 +585,9 @@
     "name": "GURMUKHI LETTER KHHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква"],
+    "concepts": []
   },
   {
     "cp": 2650,
@@ -477,7 +595,9 @@
     "name": "GURMUKHI LETTER GHHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "гха"],
+    "concepts": []
   },
   {
     "cp": 2651,
@@ -485,7 +605,9 @@
     "name": "GURMUKHI LETTER ZA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "за"],
+    "concepts": []
   },
   {
     "cp": 2652,
@@ -493,7 +615,9 @@
     "name": "GURMUKHI LETTER RRA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "рра"],
+    "concepts": []
   },
   {
     "cp": 2654,
@@ -501,7 +625,9 @@
     "name": "GURMUKHI LETTER FA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "буква", "фа"],
+    "concepts": []
   },
   {
     "cp": 2662,
@@ -509,7 +635,9 @@
     "name": "GURMUKHI DIGIT ZERO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "цифра", "ноль"],
+    "concepts": []
   },
   {
     "cp": 2663,
@@ -517,7 +645,9 @@
     "name": "GURMUKHI DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "цифра", "один"],
+    "concepts": []
   },
   {
     "cp": 2664,
@@ -525,7 +655,9 @@
     "name": "GURMUKHI DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "цифра", "два"],
+    "concepts": []
   },
   {
     "cp": 2665,
@@ -533,7 +665,9 @@
     "name": "GURMUKHI DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "цифра", "три"],
+    "concepts": []
   },
   {
     "cp": 2666,
@@ -541,7 +675,9 @@
     "name": "GURMUKHI DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "цифра", "четыре"],
+    "concepts": []
   },
   {
     "cp": 2667,
@@ -549,7 +685,9 @@
     "name": "GURMUKHI DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "цифра", "пять"],
+    "concepts": []
   },
   {
     "cp": 2668,
@@ -557,7 +695,9 @@
     "name": "GURMUKHI DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "цифра", "шесть"],
+    "concepts": []
   },
   {
     "cp": 2669,
@@ -565,7 +705,9 @@
     "name": "GURMUKHI DIGIT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "цифра", "семь"],
+    "concepts": []
   },
   {
     "cp": 2670,
@@ -573,7 +715,9 @@
     "name": "GURMUKHI DIGIT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "цифра", "восемь"],
+    "concepts": []
   },
   {
     "cp": 2671,
@@ -581,7 +725,9 @@
     "name": "GURMUKHI DIGIT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "цифра", "девять"],
+    "concepts": []
   },
   {
     "cp": 2672,
@@ -589,7 +735,9 @@
     "name": "GURMUKHI TIPPI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи"],
+    "concepts": []
   },
   {
     "cp": 2673,
@@ -597,7 +745,9 @@
     "name": "GURMUKHI ADDAK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи"],
+    "concepts": []
   },
   {
     "cp": 2674,
@@ -605,7 +755,9 @@
     "name": "GURMUKHI IRI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи"],
+    "concepts": []
   },
   {
     "cp": 2675,
@@ -613,7 +765,9 @@
     "name": "GURMUKHI URA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи"],
+    "concepts": []
   },
   {
     "cp": 2676,
@@ -621,7 +775,9 @@
     "name": "GURMUKHI EK ONKAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "эк (один)"],
+    "concepts": []
   },
   {
     "cp": 2677,
@@ -629,7 +785,9 @@
     "name": "GURMUKHI SIGN YAKASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "знак"],
+    "concepts": []
   },
   {
     "cp": 2678,
@@ -637,6 +795,8 @@
     "name": "GURMUKHI ABBREVIATION SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гурмукхи", "сокращение", "знак"],
+    "concepts": []
   }
 ]

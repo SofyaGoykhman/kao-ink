@@ -5,29 +5,9 @@
     "name": "SQUARE HIRAGANA HOKA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
-  },
-  {
-    "cp": 127489,
-    "char": "🈁",
-    "name": "SQUARED KATAKANA KOKO",
-    "ru": "значок «здесь»",
-    "en": "Japanese “here” button",
-    "keywords": {
-      "ru": ["здесь", "значок", "кнопка", "япония"],
-      "en": ["button", "here", "Japanese", "katakana"]
-    }
-  },
-  {
-    "cp": 127490,
-    "char": "🈂",
-    "name": "SQUARED KATAKANA SA",
-    "ru": "цена услуги",
-    "en": "Japanese “service charge” button",
-    "keywords": {
-      "ru": ["значок", "кнопка", "стоимость", "услуги", "цена", "япония"],
-      "en": ["button", "charge", "Japanese", "katakana", "service"]
-    }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["квадрат", "хирагана"],
+    "concepts": []
   },
   {
     "cp": 127504,
@@ -35,7 +15,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-624B",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127505,
@@ -43,7 +25,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-5B57",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127506,
@@ -51,7 +35,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-53CC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127507,
@@ -59,7 +45,9 @@
     "name": "SQUARED KATAKANA DE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "катакана", "де"],
+    "concepts": []
   },
   {
     "cp": 127508,
@@ -67,7 +55,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-4E8C",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127509,
@@ -75,7 +65,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-591A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127510,
@@ -83,7 +75,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-89E3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127511,
@@ -91,7 +85,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-5929",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127512,
@@ -99,7 +95,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-4EA4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127513,
@@ -107,18 +105,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-6620",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
-  },
-  {
-    "cp": 127514,
-    "char": "🈚",
-    "name": "SQUARED CJK UNIFIED IDEOGRAPH-7121",
-    "ru": "бесплатно",
-    "en": "Japanese “free of charge” button",
-    "keywords": {
-      "ru": ["бесплатно", "значок", "иероглиф", "кнопка", "нет в наличии", "отсутствие", "япония"],
-      "en": ["button", "charge", "free", "ideograph", "Japanese"]
-    }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127515,
@@ -126,7 +115,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-6599",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127516,
@@ -134,7 +125,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-524D",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127517,
@@ -142,7 +135,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-5F8C",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127518,
@@ -150,7 +145,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-518D",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127519,
@@ -158,7 +155,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-65B0",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127520,
@@ -166,7 +165,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-521D",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127521,
@@ -174,7 +175,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-7D42",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127522,
@@ -182,7 +185,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-751F",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127523,
@@ -190,7 +195,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-8CA9",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127524,
@@ -198,7 +205,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-58F0",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127525,
@@ -206,7 +215,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-5439",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127526,
@@ -214,7 +225,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-6F14",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127527,
@@ -222,7 +235,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-6295",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127528,
@@ -230,7 +245,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-6355",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127529,
@@ -238,7 +255,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-4E00",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127530,
@@ -246,7 +265,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-4E09",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127531,
@@ -254,7 +275,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-904A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127532,
@@ -262,7 +285,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-5DE6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127533,
@@ -270,7 +295,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-4E2D",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127534,
@@ -278,18 +305,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-53F3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
-  },
-  {
-    "cp": 127535,
-    "char": "🈯",
-    "name": "SQUARED CJK UNIFIED IDEOGRAPH-6307",
-    "ru": "забронировано",
-    "en": "Japanese “reserved” button",
-    "keywords": {
-      "ru": ["забронировано", "занято", "значок", "кнопка", "япония"],
-      "en": ["button", "ideograph", "Japanese", "reserved"]
-    }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127536,
@@ -297,7 +315,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-8D70",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127537,
@@ -305,145 +325,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-6253",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
-  },
-  {
-    "cp": 127538,
-    "char": "🈲",
-    "name": "SQUARED CJK UNIFIED IDEOGRAPH-7981",
-    "ru": "запрет",
-    "en": "Japanese “prohibited” button",
-    "keywords": {
-      "ru": [
-        "воспрещен",
-        "вход запрещен",
-        "запрет",
-        "запрещено",
-        "значок",
-        "иероглиф",
-        "кнопка",
-        "нельзя",
-        "япония"
-      ],
-      "en": ["button", "ideograph", "Japanese", "prohibited"]
-    }
-  },
-  {
-    "cp": 127539,
-    "char": "🈳",
-    "name": "SQUARED CJK UNIFIED IDEOGRAPH-7A7A",
-    "ru": "есть места",
-    "en": "Japanese “vacancy” button",
-    "keywords": {
-      "ru": [
-        "доступно",
-        "доступность",
-        "есть места",
-        "значок",
-        "иероглиф",
-        "китай",
-        "кнопка",
-        "пусто",
-        "пустота",
-        "свободно"
-      ],
-      "en": ["button", "ideograph", "Japanese", "vacancy"]
-    }
-  },
-  {
-    "cp": 127540,
-    "char": "🈴",
-    "name": "SQUARED CJK UNIFIED IDEOGRAPH-5408",
-    "ru": "проходной балл",
-    "en": "Japanese “passing grade” button",
-    "keywords": {
-      "ru": [
-        "значок",
-        "иероглиф",
-        "китай",
-        "кнопка",
-        "пропускной балл",
-        "проходной балл",
-        "согласие",
-        "япония"
-      ],
-      "en": ["button", "grade", "ideograph", "Japanese", "passing"]
-    }
-  },
-  {
-    "cp": 127541,
-    "char": "🈵",
-    "name": "SQUARED CJK UNIFIED IDEOGRAPH-6E80",
-    "ru": "нет мест",
-    "en": "Japanese “no vacancy” button",
-    "keywords": {
-      "ru": ["занято", "заполнено", "значок", "иероглиф", "кнопка", "мест", "нет", "Япония"],
-      "en": ["button", "ideograph", "Japanese", "no", "vacancy"]
-    }
-  },
-  {
-    "cp": 127542,
-    "char": "🈶",
-    "name": "SQUARED CJK UNIFIED IDEOGRAPH-6709",
-    "ru": "платно",
-    "en": "Japanese “not free of charge” button",
-    "keywords": {
-      "ru": ["значок", "иероглиф", "кнопка", "наличие", "платно", "япония"],
-      "en": ["button", "charge", "free", "ideograph", "Japanese", "not"]
-    }
-  },
-  {
-    "cp": 127543,
-    "char": "🈷",
-    "name": "SQUARED CJK UNIFIED IDEOGRAPH-6708",
-    "ru": "месяц",
-    "en": "Japanese “monthly amount” button",
-    "keywords": {
-      "ru": ["значок", "иероглиф", "кнопка", "месяц", "сумма", "япония"],
-      "en": ["amount", "button", "ideograph", "Japanese", "monthly"]
-    }
-  },
-  {
-    "cp": 127544,
-    "char": "🈸",
-    "name": "SQUARED CJK UNIFIED IDEOGRAPH-7533",
-    "ru": "заявка",
-    "en": "Japanese “application” button",
-    "keywords": {
-      "ru": ["запрос", "заявка", "значок", "иероглиф", "китай", "кнопка", "подача", "япония"],
-      "en": ["application", "button", "ideograph", "Japanese"]
-    }
-  },
-  {
-    "cp": 127545,
-    "char": "🈹",
-    "name": "SQUARED CJK UNIFIED IDEOGRAPH-5272",
-    "ru": "скидка",
-    "en": "Japanese “discount” button",
-    "keywords": {
-      "ru": [
-        "деление",
-        "значок",
-        "значок \"скидка\"",
-        "иероглиф",
-        "кнопка",
-        "кнопка \"скидка\"",
-        "скидка",
-        "япония"
-      ],
-      "en": ["button", "discount", "ideograph", "Japanese"]
-    }
-  },
-  {
-    "cp": 127546,
-    "char": "🈺",
-    "name": "SQUARED CJK UNIFIED IDEOGRAPH-55B6",
-    "ru": "открыто",
-    "en": "Japanese “open for business” button",
-    "keywords": {
-      "ru": ["значок", "иероглиф", "китай", "кнопка", "открыто", "работа", "работает", "япония"],
-      "en": ["business", "button", "ideograph", "Japanese", "open"]
-    }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127547,
@@ -451,7 +335,9 @@
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-914D",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "ККЯ (китайский, японский, корейский)", "унифицированный", "иероглиф"],
+    "concepts": []
   },
   {
     "cp": 127552,
@@ -459,7 +345,16 @@
     "name": "TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-672C",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "черепаха (черепаховая скобка)",
+      "ракушка (оболочка)",
+      "в скобках",
+      "ККЯ (китайский, японский, корейский)",
+      "унифицированный",
+      "иероглиф"
+    ],
+    "concepts": []
   },
   {
     "cp": 127553,
@@ -467,7 +362,16 @@
     "name": "TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-4E09",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "черепаха (черепаховая скобка)",
+      "ракушка (оболочка)",
+      "в скобках",
+      "ККЯ (китайский, японский, корейский)",
+      "унифицированный",
+      "иероглиф"
+    ],
+    "concepts": []
   },
   {
     "cp": 127554,
@@ -475,7 +379,16 @@
     "name": "TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-4E8C",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "черепаха (черепаховая скобка)",
+      "ракушка (оболочка)",
+      "в скобках",
+      "ККЯ (китайский, японский, корейский)",
+      "унифицированный",
+      "иероглиф"
+    ],
+    "concepts": []
   },
   {
     "cp": 127555,
@@ -483,7 +396,16 @@
     "name": "TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-5B89",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "черепаха (черепаховая скобка)",
+      "ракушка (оболочка)",
+      "в скобках",
+      "ККЯ (китайский, японский, корейский)",
+      "унифицированный",
+      "иероглиф"
+    ],
+    "concepts": []
   },
   {
     "cp": 127556,
@@ -491,7 +413,16 @@
     "name": "TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-70B9",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "черепаха (черепаховая скобка)",
+      "ракушка (оболочка)",
+      "в скобках",
+      "ККЯ (китайский, японский, корейский)",
+      "унифицированный",
+      "иероглиф"
+    ],
+    "concepts": []
   },
   {
     "cp": 127557,
@@ -499,7 +430,16 @@
     "name": "TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-6253",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "черепаха (черепаховая скобка)",
+      "ракушка (оболочка)",
+      "в скобках",
+      "ККЯ (китайский, японский, корейский)",
+      "унифицированный",
+      "иероглиф"
+    ],
+    "concepts": []
   },
   {
     "cp": 127558,
@@ -507,7 +447,16 @@
     "name": "TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-76D7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "черепаха (черепаховая скобка)",
+      "ракушка (оболочка)",
+      "в скобках",
+      "ККЯ (китайский, японский, корейский)",
+      "унифицированный",
+      "иероглиф"
+    ],
+    "concepts": []
   },
   {
     "cp": 127559,
@@ -515,7 +464,16 @@
     "name": "TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-52DD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "черепаха (черепаховая скобка)",
+      "ракушка (оболочка)",
+      "в скобках",
+      "ККЯ (китайский, японский, корейский)",
+      "унифицированный",
+      "иероглиф"
+    ],
+    "concepts": []
   },
   {
     "cp": 127560,
@@ -523,39 +481,16 @@
     "name": "TORTOISE SHELL BRACKETED CJK UNIFIED IDEOGRAPH-6557",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
-  },
-  {
-    "cp": 127568,
-    "char": "🉐",
-    "name": "CIRCLED IDEOGRAPH ADVANTAGE",
-    "ru": "удачная сделка",
-    "en": "Japanese “bargain” button",
-    "keywords": {
-      "ru": ["выгода", "значок", "кнопка", "сделка", "япония"],
-      "en": ["bargain", "button", "ideograph", "Japanese"]
-    }
-  },
-  {
-    "cp": 127569,
-    "char": "🉑",
-    "name": "CIRCLED IDEOGRAPH ACCEPT",
-    "ru": "допустимость",
-    "en": "Japanese “acceptable” button",
-    "keywords": {
-      "ru": [
-        "допустимо",
-        "допустимость",
-        "значок",
-        "иероглиф",
-        "китай",
-        "кнопка",
-        "можно",
-        "приемлемо",
-        "принятие"
-      ],
-      "en": ["acceptable", "button", "ideograph", "Japanese"]
-    }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "черепаха (черепаховая скобка)",
+      "ракушка (оболочка)",
+      "в скобках",
+      "ККЯ (китайский, японский, корейский)",
+      "унифицированный",
+      "иероглиф"
+    ],
+    "concepts": []
   },
   {
     "cp": 127584,
@@ -563,7 +498,9 @@
     "name": "ROUNDED SYMBOL FOR FU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["скруглённый", "символ", "для", "фу"],
+    "concepts": []
   },
   {
     "cp": 127585,
@@ -571,7 +508,9 @@
     "name": "ROUNDED SYMBOL FOR LU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["скруглённый", "символ", "для", "лу"],
+    "concepts": []
   },
   {
     "cp": 127586,
@@ -579,7 +518,9 @@
     "name": "ROUNDED SYMBOL FOR SHOU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["скруглённый", "символ", "для"],
+    "concepts": []
   },
   {
     "cp": 127587,
@@ -587,7 +528,9 @@
     "name": "ROUNDED SYMBOL FOR XI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["скруглённый", "символ", "для", "кси"],
+    "concepts": []
   },
   {
     "cp": 127588,
@@ -595,7 +538,9 @@
     "name": "ROUNDED SYMBOL FOR SHUANGXI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["скруглённый", "символ", "для"],
+    "concepts": []
   },
   {
     "cp": 127589,
@@ -603,6 +548,8 @@
     "name": "ROUNDED SYMBOL FOR CAI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["скруглённый", "символ", "для"],
+    "concepts": []
   }
 ]

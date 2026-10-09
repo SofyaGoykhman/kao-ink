@@ -5,7 +5,9 @@
     "name": "CHORASMIAN LETTER ALEPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "алеф"],
+    "concepts": []
   },
   {
     "cp": 69553,
@@ -13,7 +15,9 @@
     "name": "CHORASMIAN LETTER SMALL ALEPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "маленький (строчный)", "алеф"],
+    "concepts": []
   },
   {
     "cp": 69554,
@@ -21,7 +25,9 @@
     "name": "CHORASMIAN LETTER BETH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "бет"],
+    "concepts": []
   },
   {
     "cp": 69555,
@@ -29,7 +35,9 @@
     "name": "CHORASMIAN LETTER GIMEL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "гимель"],
+    "concepts": []
   },
   {
     "cp": 69556,
@@ -37,7 +45,9 @@
     "name": "CHORASMIAN LETTER DALETH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "далет"],
+    "concepts": []
   },
   {
     "cp": 69557,
@@ -45,7 +55,9 @@
     "name": "CHORASMIAN LETTER HE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "хе"],
+    "concepts": []
   },
   {
     "cp": 69558,
@@ -53,7 +65,9 @@
     "name": "CHORASMIAN LETTER WAW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "вав"],
+    "concepts": []
   },
   {
     "cp": 69559,
@@ -61,7 +75,9 @@
     "name": "CHORASMIAN LETTER CURLED WAW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "вав"],
+    "concepts": []
   },
   {
     "cp": 69560,
@@ -69,7 +85,9 @@
     "name": "CHORASMIAN LETTER ZAYIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "зайин"],
+    "concepts": []
   },
   {
     "cp": 69561,
@@ -77,7 +95,9 @@
     "name": "CHORASMIAN LETTER HETH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "хет"],
+    "concepts": []
   },
   {
     "cp": 69562,
@@ -85,7 +105,9 @@
     "name": "CHORASMIAN LETTER YODH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "йод"],
+    "concepts": []
   },
   {
     "cp": 69563,
@@ -93,7 +115,9 @@
     "name": "CHORASMIAN LETTER KAPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "каф"],
+    "concepts": []
   },
   {
     "cp": 69564,
@@ -101,7 +125,9 @@
     "name": "CHORASMIAN LETTER LAMEDH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "ламед"],
+    "concepts": []
   },
   {
     "cp": 69565,
@@ -109,7 +135,9 @@
     "name": "CHORASMIAN LETTER MEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "мем"],
+    "concepts": []
   },
   {
     "cp": 69566,
@@ -117,7 +145,9 @@
     "name": "CHORASMIAN LETTER NUN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "нун"],
+    "concepts": []
   },
   {
     "cp": 69567,
@@ -125,7 +155,9 @@
     "name": "CHORASMIAN LETTER SAMEKH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "самех"],
+    "concepts": []
   },
   {
     "cp": 69568,
@@ -133,7 +165,9 @@
     "name": "CHORASMIAN LETTER AYIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "айин"],
+    "concepts": []
   },
   {
     "cp": 69569,
@@ -141,7 +175,9 @@
     "name": "CHORASMIAN LETTER PE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "пе"],
+    "concepts": []
   },
   {
     "cp": 69570,
@@ -149,7 +185,9 @@
     "name": "CHORASMIAN LETTER RESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "реш"],
+    "concepts": []
   },
   {
     "cp": 69571,
@@ -157,7 +195,9 @@
     "name": "CHORASMIAN LETTER SHIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "шин"],
+    "concepts": []
   },
   {
     "cp": 69572,
@@ -165,7 +205,9 @@
     "name": "CHORASMIAN LETTER TAW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "буква", "тав"],
+    "concepts": []
   },
   {
     "cp": 69573,
@@ -173,7 +215,9 @@
     "name": "CHORASMIAN NUMBER ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "число", "один"],
+    "concepts": []
   },
   {
     "cp": 69574,
@@ -181,7 +225,9 @@
     "name": "CHORASMIAN NUMBER TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "число", "два"],
+    "concepts": []
   },
   {
     "cp": 69575,
@@ -189,7 +235,9 @@
     "name": "CHORASMIAN NUMBER THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "число", "три"],
+    "concepts": []
   },
   {
     "cp": 69576,
@@ -197,7 +245,9 @@
     "name": "CHORASMIAN NUMBER FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "число", "четыре"],
+    "concepts": []
   },
   {
     "cp": 69577,
@@ -205,7 +255,9 @@
     "name": "CHORASMIAN NUMBER TEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "число", "десять"],
+    "concepts": []
   },
   {
     "cp": 69578,
@@ -213,7 +265,9 @@
     "name": "CHORASMIAN NUMBER TWENTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "число", "двадцать"],
+    "concepts": []
   },
   {
     "cp": 69579,
@@ -221,6 +275,8 @@
     "name": "CHORASMIAN NUMBER ONE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хорезмийский", "число", "один", "сто"],
+    "concepts": []
   }
 ]

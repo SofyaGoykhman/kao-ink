@@ -5,7 +5,9 @@
     "name": "TAI VIET LETTER LOW KO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "ко"],
+    "concepts": []
   },
   {
     "cp": 43649,
@@ -13,7 +15,9 @@
     "name": "TAI VIET LETTER HIGH KO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "ко"],
+    "concepts": []
   },
   {
     "cp": 43650,
@@ -21,7 +25,9 @@
     "name": "TAI VIET LETTER LOW KHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "кхо"],
+    "concepts": []
   },
   {
     "cp": 43651,
@@ -29,7 +35,9 @@
     "name": "TAI VIET LETTER HIGH KHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "кхо"],
+    "concepts": []
   },
   {
     "cp": 43652,
@@ -37,7 +45,9 @@
     "name": "TAI VIET LETTER LOW KHHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий"],
+    "concepts": []
   },
   {
     "cp": 43653,
@@ -45,7 +55,9 @@
     "name": "TAI VIET LETTER HIGH KHHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий"],
+    "concepts": []
   },
   {
     "cp": 43654,
@@ -53,7 +65,9 @@
     "name": "TAI VIET LETTER LOW GO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "го"],
+    "concepts": []
   },
   {
     "cp": 43655,
@@ -61,7 +75,9 @@
     "name": "TAI VIET LETTER HIGH GO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "го"],
+    "concepts": []
   },
   {
     "cp": 43656,
@@ -69,7 +85,9 @@
     "name": "TAI VIET LETTER LOW NGO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "нго"],
+    "concepts": []
   },
   {
     "cp": 43657,
@@ -77,7 +95,9 @@
     "name": "TAI VIET LETTER HIGH NGO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "нго"],
+    "concepts": []
   },
   {
     "cp": 43658,
@@ -85,7 +105,9 @@
     "name": "TAI VIET LETTER LOW CO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "цо"],
+    "concepts": []
   },
   {
     "cp": 43659,
@@ -93,7 +115,9 @@
     "name": "TAI VIET LETTER HIGH CO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "цо"],
+    "concepts": []
   },
   {
     "cp": 43660,
@@ -101,7 +125,9 @@
     "name": "TAI VIET LETTER LOW CHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "чо"],
+    "concepts": []
   },
   {
     "cp": 43661,
@@ -109,7 +135,9 @@
     "name": "TAI VIET LETTER HIGH CHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "чо"],
+    "concepts": []
   },
   {
     "cp": 43662,
@@ -117,7 +145,9 @@
     "name": "TAI VIET LETTER LOW SO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "со"],
+    "concepts": []
   },
   {
     "cp": 43663,
@@ -125,7 +155,9 @@
     "name": "TAI VIET LETTER HIGH SO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "со"],
+    "concepts": []
   },
   {
     "cp": 43664,
@@ -133,7 +165,9 @@
     "name": "TAI VIET LETTER LOW NYO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "ньо"],
+    "concepts": []
   },
   {
     "cp": 43665,
@@ -141,7 +175,9 @@
     "name": "TAI VIET LETTER HIGH NYO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "ньо"],
+    "concepts": []
   },
   {
     "cp": 43666,
@@ -149,7 +185,9 @@
     "name": "TAI VIET LETTER LOW DO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "делать"],
+    "concepts": []
   },
   {
     "cp": 43667,
@@ -157,7 +195,9 @@
     "name": "TAI VIET LETTER HIGH DO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "делать"],
+    "concepts": []
   },
   {
     "cp": 43668,
@@ -165,7 +205,9 @@
     "name": "TAI VIET LETTER LOW TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "к"],
+    "concepts": []
   },
   {
     "cp": 43669,
@@ -173,7 +215,9 @@
     "name": "TAI VIET LETTER HIGH TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "к"],
+    "concepts": []
   },
   {
     "cp": 43670,
@@ -181,7 +225,9 @@
     "name": "TAI VIET LETTER LOW THO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "тхо"],
+    "concepts": []
   },
   {
     "cp": 43671,
@@ -189,7 +235,9 @@
     "name": "TAI VIET LETTER HIGH THO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "тхо"],
+    "concepts": []
   },
   {
     "cp": 43672,
@@ -197,7 +245,9 @@
     "name": "TAI VIET LETTER LOW NO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "нет"],
+    "concepts": []
   },
   {
     "cp": 43673,
@@ -205,7 +255,9 @@
     "name": "TAI VIET LETTER HIGH NO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "нет"],
+    "concepts": []
   },
   {
     "cp": 43674,
@@ -213,7 +265,9 @@
     "name": "TAI VIET LETTER LOW BO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "бо"],
+    "concepts": []
   },
   {
     "cp": 43675,
@@ -221,7 +275,9 @@
     "name": "TAI VIET LETTER HIGH BO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "бо"],
+    "concepts": []
   },
   {
     "cp": 43676,
@@ -229,7 +285,9 @@
     "name": "TAI VIET LETTER LOW PO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "по"],
+    "concepts": []
   },
   {
     "cp": 43677,
@@ -237,7 +295,9 @@
     "name": "TAI VIET LETTER HIGH PO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "по"],
+    "concepts": []
   },
   {
     "cp": 43678,
@@ -245,7 +305,9 @@
     "name": "TAI VIET LETTER LOW PHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "пхо"],
+    "concepts": []
   },
   {
     "cp": 43679,
@@ -253,7 +315,9 @@
     "name": "TAI VIET LETTER HIGH PHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "пхо"],
+    "concepts": []
   },
   {
     "cp": 43680,
@@ -261,7 +325,9 @@
     "name": "TAI VIET LETTER LOW FO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "фо"],
+    "concepts": []
   },
   {
     "cp": 43681,
@@ -269,7 +335,9 @@
     "name": "TAI VIET LETTER HIGH FO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "фо"],
+    "concepts": []
   },
   {
     "cp": 43682,
@@ -277,7 +345,9 @@
     "name": "TAI VIET LETTER LOW MO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "мо"],
+    "concepts": []
   },
   {
     "cp": 43683,
@@ -285,7 +355,9 @@
     "name": "TAI VIET LETTER HIGH MO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "мо"],
+    "concepts": []
   },
   {
     "cp": 43684,
@@ -293,7 +365,9 @@
     "name": "TAI VIET LETTER LOW YO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "йо"],
+    "concepts": []
   },
   {
     "cp": 43685,
@@ -301,7 +375,9 @@
     "name": "TAI VIET LETTER HIGH YO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "йо"],
+    "concepts": []
   },
   {
     "cp": 43686,
@@ -309,7 +385,9 @@
     "name": "TAI VIET LETTER LOW RO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "ро"],
+    "concepts": []
   },
   {
     "cp": 43687,
@@ -317,7 +395,9 @@
     "name": "TAI VIET LETTER HIGH RO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "ро"],
+    "concepts": []
   },
   {
     "cp": 43688,
@@ -325,7 +405,9 @@
     "name": "TAI VIET LETTER LOW LO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "ло"],
+    "concepts": []
   },
   {
     "cp": 43689,
@@ -333,7 +415,9 @@
     "name": "TAI VIET LETTER HIGH LO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "ло"],
+    "concepts": []
   },
   {
     "cp": 43690,
@@ -341,7 +425,9 @@
     "name": "TAI VIET LETTER LOW VO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "во"],
+    "concepts": []
   },
   {
     "cp": 43691,
@@ -349,7 +435,9 @@
     "name": "TAI VIET LETTER HIGH VO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "во"],
+    "concepts": []
   },
   {
     "cp": 43692,
@@ -357,7 +445,9 @@
     "name": "TAI VIET LETTER LOW HO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий", "хо"],
+    "concepts": []
   },
   {
     "cp": 43693,
@@ -365,7 +455,9 @@
     "name": "TAI VIET LETTER HIGH HO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий", "хо"],
+    "concepts": []
   },
   {
     "cp": 43694,
@@ -373,7 +465,9 @@
     "name": "TAI VIET LETTER LOW O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "низкий"],
+    "concepts": []
   },
   {
     "cp": 43695,
@@ -381,7 +475,9 @@
     "name": "TAI VIET LETTER HIGH O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "буква", "высокий"],
+    "concepts": []
   },
   {
     "cp": 43696,
@@ -389,7 +485,9 @@
     "name": "TAI VIET MAI KANG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "май", "канг"],
+    "concepts": []
   },
   {
     "cp": 43697,
@@ -397,7 +495,9 @@
     "name": "TAI VIET VOWEL AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "гласная", "аа"],
+    "concepts": []
   },
   {
     "cp": 43698,
@@ -405,7 +505,9 @@
     "name": "TAI VIET VOWEL I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "гласная"],
+    "concepts": []
   },
   {
     "cp": 43699,
@@ -413,7 +515,9 @@
     "name": "TAI VIET VOWEL UE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "гласная", "уэ"],
+    "concepts": []
   },
   {
     "cp": 43700,
@@ -421,7 +525,9 @@
     "name": "TAI VIET VOWEL U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "гласная"],
+    "concepts": []
   },
   {
     "cp": 43701,
@@ -429,7 +535,9 @@
     "name": "TAI VIET VOWEL E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "гласная"],
+    "concepts": []
   },
   {
     "cp": 43702,
@@ -437,7 +545,9 @@
     "name": "TAI VIET VOWEL O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "гласная"],
+    "concepts": []
   },
   {
     "cp": 43703,
@@ -445,7 +555,9 @@
     "name": "TAI VIET MAI KHIT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "май"],
+    "concepts": []
   },
   {
     "cp": 43704,
@@ -453,7 +565,9 @@
     "name": "TAI VIET VOWEL IA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "гласная", "иа"],
+    "concepts": []
   },
   {
     "cp": 43705,
@@ -461,7 +575,9 @@
     "name": "TAI VIET VOWEL UEA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "гласная"],
+    "concepts": []
   },
   {
     "cp": 43706,
@@ -469,7 +585,9 @@
     "name": "TAI VIET VOWEL UA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "гласная", "уа"],
+    "concepts": []
   },
   {
     "cp": 43707,
@@ -477,7 +595,9 @@
     "name": "TAI VIET VOWEL AUE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "гласная", "ауе"],
+    "concepts": []
   },
   {
     "cp": 43708,
@@ -485,7 +605,9 @@
     "name": "TAI VIET VOWEL AY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "гласная", "ай"],
+    "concepts": []
   },
   {
     "cp": 43709,
@@ -493,7 +615,9 @@
     "name": "TAI VIET VOWEL AN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "гласная", "ан"],
+    "concepts": []
   },
   {
     "cp": 43710,
@@ -501,7 +625,9 @@
     "name": "TAI VIET VOWEL AM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "гласная", "ам"],
+    "concepts": []
   },
   {
     "cp": 43711,
@@ -509,7 +635,9 @@
     "name": "TAI VIET TONE MAI EK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "тон", "май", "эк (один)"],
+    "concepts": []
   },
   {
     "cp": 43712,
@@ -517,7 +645,9 @@
     "name": "TAI VIET TONE MAI NUENG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "тон", "май"],
+    "concepts": []
   },
   {
     "cp": 43713,
@@ -525,7 +655,9 @@
     "name": "TAI VIET TONE MAI THO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "тон", "май", "тхо"],
+    "concepts": []
   },
   {
     "cp": 43714,
@@ -533,7 +665,9 @@
     "name": "TAI VIET TONE MAI SONG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "тон", "май"],
+    "concepts": []
   },
   {
     "cp": 43739,
@@ -541,7 +675,9 @@
     "name": "TAI VIET SYMBOL KON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "символ"],
+    "concepts": []
   },
   {
     "cp": 43740,
@@ -549,7 +685,9 @@
     "name": "TAI VIET SYMBOL NUENG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "символ"],
+    "concepts": []
   },
   {
     "cp": 43741,
@@ -557,7 +695,9 @@
     "name": "TAI VIET SYMBOL SAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "символ", "сам"],
+    "concepts": []
   },
   {
     "cp": 43742,
@@ -565,7 +705,9 @@
     "name": "TAI VIET SYMBOL HO HOI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "символ", "хо"],
+    "concepts": []
   },
   {
     "cp": 43743,
@@ -573,6 +715,8 @@
     "name": "TAI VIET SYMBOL KOI KOI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "вьет", "символ", "кои"],
+    "concepts": []
   }
 ]

@@ -5,7 +5,9 @@
     "name": "BRAILLE PATTERN BLANK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "пустой (пробел)"],
+    "concepts": []
   },
   {
     "cp": 10241,
@@ -13,7 +15,9 @@
     "name": "BRAILLE PATTERN DOTS-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10242,
@@ -21,7 +25,9 @@
     "name": "BRAILLE PATTERN DOTS-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10243,
@@ -29,7 +35,9 @@
     "name": "BRAILLE PATTERN DOTS-12",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10244,
@@ -37,7 +45,9 @@
     "name": "BRAILLE PATTERN DOTS-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10245,
@@ -45,7 +55,9 @@
     "name": "BRAILLE PATTERN DOTS-13",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10246,
@@ -53,7 +65,9 @@
     "name": "BRAILLE PATTERN DOTS-23",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10247,
@@ -61,7 +75,9 @@
     "name": "BRAILLE PATTERN DOTS-123",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10248,
@@ -69,7 +85,9 @@
     "name": "BRAILLE PATTERN DOTS-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10249,
@@ -77,7 +95,9 @@
     "name": "BRAILLE PATTERN DOTS-14",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10250,
@@ -85,7 +105,9 @@
     "name": "BRAILLE PATTERN DOTS-24",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10251,
@@ -93,7 +115,9 @@
     "name": "BRAILLE PATTERN DOTS-124",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10252,
@@ -101,7 +125,9 @@
     "name": "BRAILLE PATTERN DOTS-34",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10253,
@@ -109,7 +135,9 @@
     "name": "BRAILLE PATTERN DOTS-134",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10254,
@@ -117,7 +145,9 @@
     "name": "BRAILLE PATTERN DOTS-234",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10255,
@@ -125,7 +155,9 @@
     "name": "BRAILLE PATTERN DOTS-1234",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10256,
@@ -133,7 +165,9 @@
     "name": "BRAILLE PATTERN DOTS-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10257,
@@ -141,7 +175,9 @@
     "name": "BRAILLE PATTERN DOTS-15",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10258,
@@ -149,7 +185,9 @@
     "name": "BRAILLE PATTERN DOTS-25",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10259,
@@ -157,7 +195,9 @@
     "name": "BRAILLE PATTERN DOTS-125",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10260,
@@ -165,7 +205,9 @@
     "name": "BRAILLE PATTERN DOTS-35",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10261,
@@ -173,7 +215,9 @@
     "name": "BRAILLE PATTERN DOTS-135",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10262,
@@ -181,7 +225,9 @@
     "name": "BRAILLE PATTERN DOTS-235",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10263,
@@ -189,7 +235,9 @@
     "name": "BRAILLE PATTERN DOTS-1235",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10264,
@@ -197,7 +245,9 @@
     "name": "BRAILLE PATTERN DOTS-45",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10265,
@@ -205,7 +255,9 @@
     "name": "BRAILLE PATTERN DOTS-145",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10266,
@@ -213,7 +265,9 @@
     "name": "BRAILLE PATTERN DOTS-245",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10267,
@@ -221,7 +275,9 @@
     "name": "BRAILLE PATTERN DOTS-1245",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10268,
@@ -229,7 +285,9 @@
     "name": "BRAILLE PATTERN DOTS-345",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10269,
@@ -237,7 +295,9 @@
     "name": "BRAILLE PATTERN DOTS-1345",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10270,
@@ -245,7 +305,9 @@
     "name": "BRAILLE PATTERN DOTS-2345",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10271,
@@ -253,7 +315,9 @@
     "name": "BRAILLE PATTERN DOTS-12345",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10272,
@@ -261,7 +325,9 @@
     "name": "BRAILLE PATTERN DOTS-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10273,
@@ -269,7 +335,9 @@
     "name": "BRAILLE PATTERN DOTS-16",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10274,
@@ -277,7 +345,9 @@
     "name": "BRAILLE PATTERN DOTS-26",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10275,
@@ -285,7 +355,9 @@
     "name": "BRAILLE PATTERN DOTS-126",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10276,
@@ -293,7 +365,9 @@
     "name": "BRAILLE PATTERN DOTS-36",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10277,
@@ -301,7 +375,9 @@
     "name": "BRAILLE PATTERN DOTS-136",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10278,
@@ -309,7 +385,9 @@
     "name": "BRAILLE PATTERN DOTS-236",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10279,
@@ -317,7 +395,9 @@
     "name": "BRAILLE PATTERN DOTS-1236",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10280,
@@ -325,7 +405,9 @@
     "name": "BRAILLE PATTERN DOTS-46",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10281,
@@ -333,7 +415,9 @@
     "name": "BRAILLE PATTERN DOTS-146",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10282,
@@ -341,7 +425,9 @@
     "name": "BRAILLE PATTERN DOTS-246",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10283,
@@ -349,7 +435,9 @@
     "name": "BRAILLE PATTERN DOTS-1246",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10284,
@@ -357,7 +445,9 @@
     "name": "BRAILLE PATTERN DOTS-346",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10285,
@@ -365,7 +455,9 @@
     "name": "BRAILLE PATTERN DOTS-1346",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10286,
@@ -373,7 +465,9 @@
     "name": "BRAILLE PATTERN DOTS-2346",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10287,
@@ -381,7 +475,9 @@
     "name": "BRAILLE PATTERN DOTS-12346",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10288,
@@ -389,7 +485,9 @@
     "name": "BRAILLE PATTERN DOTS-56",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10289,
@@ -397,7 +495,9 @@
     "name": "BRAILLE PATTERN DOTS-156",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10290,
@@ -405,7 +505,9 @@
     "name": "BRAILLE PATTERN DOTS-256",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10291,
@@ -413,7 +515,9 @@
     "name": "BRAILLE PATTERN DOTS-1256",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10292,
@@ -421,7 +525,9 @@
     "name": "BRAILLE PATTERN DOTS-356",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10293,
@@ -429,7 +535,9 @@
     "name": "BRAILLE PATTERN DOTS-1356",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10294,
@@ -437,7 +545,9 @@
     "name": "BRAILLE PATTERN DOTS-2356",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10295,
@@ -445,7 +555,9 @@
     "name": "BRAILLE PATTERN DOTS-12356",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10296,
@@ -453,7 +565,9 @@
     "name": "BRAILLE PATTERN DOTS-456",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10297,
@@ -461,7 +575,9 @@
     "name": "BRAILLE PATTERN DOTS-1456",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10298,
@@ -469,7 +585,9 @@
     "name": "BRAILLE PATTERN DOTS-2456",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10299,
@@ -477,7 +595,9 @@
     "name": "BRAILLE PATTERN DOTS-12456",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10300,
@@ -485,7 +605,9 @@
     "name": "BRAILLE PATTERN DOTS-3456",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10301,
@@ -493,7 +615,9 @@
     "name": "BRAILLE PATTERN DOTS-13456",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10302,
@@ -501,7 +625,9 @@
     "name": "BRAILLE PATTERN DOTS-23456",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10303,
@@ -509,7 +635,9 @@
     "name": "BRAILLE PATTERN DOTS-123456",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10304,
@@ -517,7 +645,9 @@
     "name": "BRAILLE PATTERN DOTS-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10305,
@@ -525,7 +655,9 @@
     "name": "BRAILLE PATTERN DOTS-17",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10306,
@@ -533,7 +665,9 @@
     "name": "BRAILLE PATTERN DOTS-27",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10307,
@@ -541,7 +675,9 @@
     "name": "BRAILLE PATTERN DOTS-127",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10308,
@@ -549,7 +685,9 @@
     "name": "BRAILLE PATTERN DOTS-37",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10309,
@@ -557,7 +695,9 @@
     "name": "BRAILLE PATTERN DOTS-137",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10310,
@@ -565,7 +705,9 @@
     "name": "BRAILLE PATTERN DOTS-237",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10311,
@@ -573,7 +715,9 @@
     "name": "BRAILLE PATTERN DOTS-1237",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10312,
@@ -581,7 +725,9 @@
     "name": "BRAILLE PATTERN DOTS-47",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10313,
@@ -589,7 +735,9 @@
     "name": "BRAILLE PATTERN DOTS-147",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10314,
@@ -597,7 +745,9 @@
     "name": "BRAILLE PATTERN DOTS-247",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10315,
@@ -605,7 +755,9 @@
     "name": "BRAILLE PATTERN DOTS-1247",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10316,
@@ -613,7 +765,9 @@
     "name": "BRAILLE PATTERN DOTS-347",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10317,
@@ -621,7 +775,9 @@
     "name": "BRAILLE PATTERN DOTS-1347",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10318,
@@ -629,7 +785,9 @@
     "name": "BRAILLE PATTERN DOTS-2347",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10319,
@@ -637,7 +795,9 @@
     "name": "BRAILLE PATTERN DOTS-12347",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10320,
@@ -645,7 +805,9 @@
     "name": "BRAILLE PATTERN DOTS-57",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10321,
@@ -653,7 +815,9 @@
     "name": "BRAILLE PATTERN DOTS-157",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10322,
@@ -661,7 +825,9 @@
     "name": "BRAILLE PATTERN DOTS-257",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10323,
@@ -669,7 +835,9 @@
     "name": "BRAILLE PATTERN DOTS-1257",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10324,
@@ -677,7 +845,9 @@
     "name": "BRAILLE PATTERN DOTS-357",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10325,
@@ -685,7 +855,9 @@
     "name": "BRAILLE PATTERN DOTS-1357",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10326,
@@ -693,7 +865,9 @@
     "name": "BRAILLE PATTERN DOTS-2357",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10327,
@@ -701,7 +875,9 @@
     "name": "BRAILLE PATTERN DOTS-12357",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10328,
@@ -709,7 +885,9 @@
     "name": "BRAILLE PATTERN DOTS-457",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10329,
@@ -717,7 +895,9 @@
     "name": "BRAILLE PATTERN DOTS-1457",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10330,
@@ -725,7 +905,9 @@
     "name": "BRAILLE PATTERN DOTS-2457",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10331,
@@ -733,7 +915,9 @@
     "name": "BRAILLE PATTERN DOTS-12457",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10332,
@@ -741,7 +925,9 @@
     "name": "BRAILLE PATTERN DOTS-3457",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10333,
@@ -749,7 +935,9 @@
     "name": "BRAILLE PATTERN DOTS-13457",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10334,
@@ -757,7 +945,9 @@
     "name": "BRAILLE PATTERN DOTS-23457",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10335,
@@ -765,7 +955,9 @@
     "name": "BRAILLE PATTERN DOTS-123457",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10336,
@@ -773,7 +965,9 @@
     "name": "BRAILLE PATTERN DOTS-67",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10337,
@@ -781,7 +975,9 @@
     "name": "BRAILLE PATTERN DOTS-167",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10338,
@@ -789,7 +985,9 @@
     "name": "BRAILLE PATTERN DOTS-267",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10339,
@@ -797,7 +995,9 @@
     "name": "BRAILLE PATTERN DOTS-1267",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10340,
@@ -805,7 +1005,9 @@
     "name": "BRAILLE PATTERN DOTS-367",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10341,
@@ -813,7 +1015,9 @@
     "name": "BRAILLE PATTERN DOTS-1367",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10342,
@@ -821,7 +1025,9 @@
     "name": "BRAILLE PATTERN DOTS-2367",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10343,
@@ -829,7 +1035,9 @@
     "name": "BRAILLE PATTERN DOTS-12367",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10344,
@@ -837,7 +1045,9 @@
     "name": "BRAILLE PATTERN DOTS-467",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10345,
@@ -845,7 +1055,9 @@
     "name": "BRAILLE PATTERN DOTS-1467",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10346,
@@ -853,7 +1065,9 @@
     "name": "BRAILLE PATTERN DOTS-2467",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10347,
@@ -861,7 +1075,9 @@
     "name": "BRAILLE PATTERN DOTS-12467",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10348,
@@ -869,7 +1085,9 @@
     "name": "BRAILLE PATTERN DOTS-3467",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10349,
@@ -877,7 +1095,9 @@
     "name": "BRAILLE PATTERN DOTS-13467",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10350,
@@ -885,7 +1105,9 @@
     "name": "BRAILLE PATTERN DOTS-23467",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10351,
@@ -893,7 +1115,9 @@
     "name": "BRAILLE PATTERN DOTS-123467",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10352,
@@ -901,7 +1125,9 @@
     "name": "BRAILLE PATTERN DOTS-567",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10353,
@@ -909,7 +1135,9 @@
     "name": "BRAILLE PATTERN DOTS-1567",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10354,
@@ -917,7 +1145,9 @@
     "name": "BRAILLE PATTERN DOTS-2567",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10355,
@@ -925,7 +1155,9 @@
     "name": "BRAILLE PATTERN DOTS-12567",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10356,
@@ -933,7 +1165,9 @@
     "name": "BRAILLE PATTERN DOTS-3567",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10357,
@@ -941,7 +1175,9 @@
     "name": "BRAILLE PATTERN DOTS-13567",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10358,
@@ -949,7 +1185,9 @@
     "name": "BRAILLE PATTERN DOTS-23567",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10359,
@@ -957,7 +1195,9 @@
     "name": "BRAILLE PATTERN DOTS-123567",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10360,
@@ -965,7 +1205,9 @@
     "name": "BRAILLE PATTERN DOTS-4567",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10361,
@@ -973,7 +1215,9 @@
     "name": "BRAILLE PATTERN DOTS-14567",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10362,
@@ -981,7 +1225,9 @@
     "name": "BRAILLE PATTERN DOTS-24567",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10363,
@@ -989,7 +1235,9 @@
     "name": "BRAILLE PATTERN DOTS-124567",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10364,
@@ -997,7 +1245,9 @@
     "name": "BRAILLE PATTERN DOTS-34567",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10365,
@@ -1005,7 +1255,9 @@
     "name": "BRAILLE PATTERN DOTS-134567",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10366,
@@ -1013,7 +1265,9 @@
     "name": "BRAILLE PATTERN DOTS-234567",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10367,
@@ -1021,7 +1275,9 @@
     "name": "BRAILLE PATTERN DOTS-1234567",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10368,
@@ -1029,7 +1285,9 @@
     "name": "BRAILLE PATTERN DOTS-8",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10369,
@@ -1037,7 +1295,9 @@
     "name": "BRAILLE PATTERN DOTS-18",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10370,
@@ -1045,7 +1305,9 @@
     "name": "BRAILLE PATTERN DOTS-28",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10371,
@@ -1053,7 +1315,9 @@
     "name": "BRAILLE PATTERN DOTS-128",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10372,
@@ -1061,7 +1325,9 @@
     "name": "BRAILLE PATTERN DOTS-38",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10373,
@@ -1069,7 +1335,9 @@
     "name": "BRAILLE PATTERN DOTS-138",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10374,
@@ -1077,7 +1345,9 @@
     "name": "BRAILLE PATTERN DOTS-238",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10375,
@@ -1085,7 +1355,9 @@
     "name": "BRAILLE PATTERN DOTS-1238",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10376,
@@ -1093,7 +1365,9 @@
     "name": "BRAILLE PATTERN DOTS-48",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10377,
@@ -1101,7 +1375,9 @@
     "name": "BRAILLE PATTERN DOTS-148",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10378,
@@ -1109,7 +1385,9 @@
     "name": "BRAILLE PATTERN DOTS-248",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10379,
@@ -1117,7 +1395,9 @@
     "name": "BRAILLE PATTERN DOTS-1248",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10380,
@@ -1125,7 +1405,9 @@
     "name": "BRAILLE PATTERN DOTS-348",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10381,
@@ -1133,7 +1415,9 @@
     "name": "BRAILLE PATTERN DOTS-1348",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10382,
@@ -1141,7 +1425,9 @@
     "name": "BRAILLE PATTERN DOTS-2348",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10383,
@@ -1149,7 +1435,9 @@
     "name": "BRAILLE PATTERN DOTS-12348",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10384,
@@ -1157,7 +1445,9 @@
     "name": "BRAILLE PATTERN DOTS-58",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10385,
@@ -1165,7 +1455,9 @@
     "name": "BRAILLE PATTERN DOTS-158",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10386,
@@ -1173,7 +1465,9 @@
     "name": "BRAILLE PATTERN DOTS-258",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10387,
@@ -1181,7 +1475,9 @@
     "name": "BRAILLE PATTERN DOTS-1258",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10388,
@@ -1189,7 +1485,9 @@
     "name": "BRAILLE PATTERN DOTS-358",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10389,
@@ -1197,7 +1495,9 @@
     "name": "BRAILLE PATTERN DOTS-1358",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10390,
@@ -1205,7 +1505,9 @@
     "name": "BRAILLE PATTERN DOTS-2358",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10391,
@@ -1213,7 +1515,9 @@
     "name": "BRAILLE PATTERN DOTS-12358",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10392,
@@ -1221,7 +1525,9 @@
     "name": "BRAILLE PATTERN DOTS-458",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10393,
@@ -1229,7 +1535,9 @@
     "name": "BRAILLE PATTERN DOTS-1458",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10394,
@@ -1237,7 +1545,9 @@
     "name": "BRAILLE PATTERN DOTS-2458",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10395,
@@ -1245,7 +1555,9 @@
     "name": "BRAILLE PATTERN DOTS-12458",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10396,
@@ -1253,7 +1565,9 @@
     "name": "BRAILLE PATTERN DOTS-3458",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10397,
@@ -1261,7 +1575,9 @@
     "name": "BRAILLE PATTERN DOTS-13458",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10398,
@@ -1269,7 +1585,9 @@
     "name": "BRAILLE PATTERN DOTS-23458",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10399,
@@ -1277,7 +1595,9 @@
     "name": "BRAILLE PATTERN DOTS-123458",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10400,
@@ -1285,7 +1605,9 @@
     "name": "BRAILLE PATTERN DOTS-68",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10401,
@@ -1293,7 +1615,9 @@
     "name": "BRAILLE PATTERN DOTS-168",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10402,
@@ -1301,7 +1625,9 @@
     "name": "BRAILLE PATTERN DOTS-268",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10403,
@@ -1309,7 +1635,9 @@
     "name": "BRAILLE PATTERN DOTS-1268",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10404,
@@ -1317,7 +1645,9 @@
     "name": "BRAILLE PATTERN DOTS-368",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10405,
@@ -1325,7 +1655,9 @@
     "name": "BRAILLE PATTERN DOTS-1368",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10406,
@@ -1333,7 +1665,9 @@
     "name": "BRAILLE PATTERN DOTS-2368",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10407,
@@ -1341,7 +1675,9 @@
     "name": "BRAILLE PATTERN DOTS-12368",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10408,
@@ -1349,7 +1685,9 @@
     "name": "BRAILLE PATTERN DOTS-468",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10409,
@@ -1357,7 +1695,9 @@
     "name": "BRAILLE PATTERN DOTS-1468",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10410,
@@ -1365,7 +1705,9 @@
     "name": "BRAILLE PATTERN DOTS-2468",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10411,
@@ -1373,7 +1715,9 @@
     "name": "BRAILLE PATTERN DOTS-12468",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10412,
@@ -1381,7 +1725,9 @@
     "name": "BRAILLE PATTERN DOTS-3468",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10413,
@@ -1389,7 +1735,9 @@
     "name": "BRAILLE PATTERN DOTS-13468",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10414,
@@ -1397,7 +1745,9 @@
     "name": "BRAILLE PATTERN DOTS-23468",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10415,
@@ -1405,7 +1755,9 @@
     "name": "BRAILLE PATTERN DOTS-123468",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10416,
@@ -1413,7 +1765,9 @@
     "name": "BRAILLE PATTERN DOTS-568",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10417,
@@ -1421,7 +1775,9 @@
     "name": "BRAILLE PATTERN DOTS-1568",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10418,
@@ -1429,7 +1785,9 @@
     "name": "BRAILLE PATTERN DOTS-2568",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10419,
@@ -1437,7 +1795,9 @@
     "name": "BRAILLE PATTERN DOTS-12568",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10420,
@@ -1445,7 +1805,9 @@
     "name": "BRAILLE PATTERN DOTS-3568",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10421,
@@ -1453,7 +1815,9 @@
     "name": "BRAILLE PATTERN DOTS-13568",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10422,
@@ -1461,7 +1825,9 @@
     "name": "BRAILLE PATTERN DOTS-23568",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10423,
@@ -1469,7 +1835,9 @@
     "name": "BRAILLE PATTERN DOTS-123568",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10424,
@@ -1477,7 +1845,9 @@
     "name": "BRAILLE PATTERN DOTS-4568",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10425,
@@ -1485,7 +1855,9 @@
     "name": "BRAILLE PATTERN DOTS-14568",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10426,
@@ -1493,7 +1865,9 @@
     "name": "BRAILLE PATTERN DOTS-24568",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10427,
@@ -1501,7 +1875,9 @@
     "name": "BRAILLE PATTERN DOTS-124568",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10428,
@@ -1509,7 +1885,9 @@
     "name": "BRAILLE PATTERN DOTS-34568",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10429,
@@ -1517,7 +1895,9 @@
     "name": "BRAILLE PATTERN DOTS-134568",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10430,
@@ -1525,7 +1905,9 @@
     "name": "BRAILLE PATTERN DOTS-234568",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10431,
@@ -1533,7 +1915,9 @@
     "name": "BRAILLE PATTERN DOTS-1234568",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10432,
@@ -1541,7 +1925,9 @@
     "name": "BRAILLE PATTERN DOTS-78",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10433,
@@ -1549,7 +1935,9 @@
     "name": "BRAILLE PATTERN DOTS-178",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10434,
@@ -1557,7 +1945,9 @@
     "name": "BRAILLE PATTERN DOTS-278",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10435,
@@ -1565,7 +1955,9 @@
     "name": "BRAILLE PATTERN DOTS-1278",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10436,
@@ -1573,7 +1965,9 @@
     "name": "BRAILLE PATTERN DOTS-378",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10437,
@@ -1581,7 +1975,9 @@
     "name": "BRAILLE PATTERN DOTS-1378",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10438,
@@ -1589,7 +1985,9 @@
     "name": "BRAILLE PATTERN DOTS-2378",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10439,
@@ -1597,7 +1995,9 @@
     "name": "BRAILLE PATTERN DOTS-12378",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10440,
@@ -1605,7 +2005,9 @@
     "name": "BRAILLE PATTERN DOTS-478",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10441,
@@ -1613,7 +2015,9 @@
     "name": "BRAILLE PATTERN DOTS-1478",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10442,
@@ -1621,7 +2025,9 @@
     "name": "BRAILLE PATTERN DOTS-2478",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10443,
@@ -1629,7 +2035,9 @@
     "name": "BRAILLE PATTERN DOTS-12478",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10444,
@@ -1637,7 +2045,9 @@
     "name": "BRAILLE PATTERN DOTS-3478",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10445,
@@ -1645,7 +2055,9 @@
     "name": "BRAILLE PATTERN DOTS-13478",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10446,
@@ -1653,7 +2065,9 @@
     "name": "BRAILLE PATTERN DOTS-23478",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10447,
@@ -1661,7 +2075,9 @@
     "name": "BRAILLE PATTERN DOTS-123478",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10448,
@@ -1669,7 +2085,9 @@
     "name": "BRAILLE PATTERN DOTS-578",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10449,
@@ -1677,7 +2095,9 @@
     "name": "BRAILLE PATTERN DOTS-1578",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10450,
@@ -1685,7 +2105,9 @@
     "name": "BRAILLE PATTERN DOTS-2578",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10451,
@@ -1693,7 +2115,9 @@
     "name": "BRAILLE PATTERN DOTS-12578",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10452,
@@ -1701,7 +2125,9 @@
     "name": "BRAILLE PATTERN DOTS-3578",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10453,
@@ -1709,7 +2135,9 @@
     "name": "BRAILLE PATTERN DOTS-13578",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10454,
@@ -1717,7 +2145,9 @@
     "name": "BRAILLE PATTERN DOTS-23578",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10455,
@@ -1725,7 +2155,9 @@
     "name": "BRAILLE PATTERN DOTS-123578",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10456,
@@ -1733,7 +2165,9 @@
     "name": "BRAILLE PATTERN DOTS-4578",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10457,
@@ -1741,7 +2175,9 @@
     "name": "BRAILLE PATTERN DOTS-14578",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10458,
@@ -1749,7 +2185,9 @@
     "name": "BRAILLE PATTERN DOTS-24578",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10459,
@@ -1757,7 +2195,9 @@
     "name": "BRAILLE PATTERN DOTS-124578",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10460,
@@ -1765,7 +2205,9 @@
     "name": "BRAILLE PATTERN DOTS-34578",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10461,
@@ -1773,7 +2215,9 @@
     "name": "BRAILLE PATTERN DOTS-134578",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10462,
@@ -1781,7 +2225,9 @@
     "name": "BRAILLE PATTERN DOTS-234578",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10463,
@@ -1789,7 +2235,9 @@
     "name": "BRAILLE PATTERN DOTS-1234578",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10464,
@@ -1797,7 +2245,9 @@
     "name": "BRAILLE PATTERN DOTS-678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10465,
@@ -1805,7 +2255,9 @@
     "name": "BRAILLE PATTERN DOTS-1678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10466,
@@ -1813,7 +2265,9 @@
     "name": "BRAILLE PATTERN DOTS-2678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10467,
@@ -1821,7 +2275,9 @@
     "name": "BRAILLE PATTERN DOTS-12678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10468,
@@ -1829,7 +2285,9 @@
     "name": "BRAILLE PATTERN DOTS-3678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10469,
@@ -1837,7 +2295,9 @@
     "name": "BRAILLE PATTERN DOTS-13678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10470,
@@ -1845,7 +2305,9 @@
     "name": "BRAILLE PATTERN DOTS-23678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10471,
@@ -1853,7 +2315,9 @@
     "name": "BRAILLE PATTERN DOTS-123678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10472,
@@ -1861,7 +2325,9 @@
     "name": "BRAILLE PATTERN DOTS-4678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10473,
@@ -1869,7 +2335,9 @@
     "name": "BRAILLE PATTERN DOTS-14678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10474,
@@ -1877,7 +2345,9 @@
     "name": "BRAILLE PATTERN DOTS-24678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10475,
@@ -1885,7 +2355,9 @@
     "name": "BRAILLE PATTERN DOTS-124678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10476,
@@ -1893,7 +2365,9 @@
     "name": "BRAILLE PATTERN DOTS-34678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10477,
@@ -1901,7 +2375,9 @@
     "name": "BRAILLE PATTERN DOTS-134678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10478,
@@ -1909,7 +2385,9 @@
     "name": "BRAILLE PATTERN DOTS-234678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10479,
@@ -1917,7 +2395,9 @@
     "name": "BRAILLE PATTERN DOTS-1234678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10480,
@@ -1925,7 +2405,9 @@
     "name": "BRAILLE PATTERN DOTS-5678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10481,
@@ -1933,7 +2415,9 @@
     "name": "BRAILLE PATTERN DOTS-15678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10482,
@@ -1941,7 +2425,9 @@
     "name": "BRAILLE PATTERN DOTS-25678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10483,
@@ -1949,7 +2435,9 @@
     "name": "BRAILLE PATTERN DOTS-125678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10484,
@@ -1957,7 +2445,9 @@
     "name": "BRAILLE PATTERN DOTS-35678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10485,
@@ -1965,7 +2455,9 @@
     "name": "BRAILLE PATTERN DOTS-135678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10486,
@@ -1973,7 +2465,9 @@
     "name": "BRAILLE PATTERN DOTS-235678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10487,
@@ -1981,7 +2475,9 @@
     "name": "BRAILLE PATTERN DOTS-1235678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10488,
@@ -1989,7 +2485,9 @@
     "name": "BRAILLE PATTERN DOTS-45678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10489,
@@ -1997,7 +2495,9 @@
     "name": "BRAILLE PATTERN DOTS-145678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10490,
@@ -2005,7 +2505,9 @@
     "name": "BRAILLE PATTERN DOTS-245678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10491,
@@ -2013,7 +2515,9 @@
     "name": "BRAILLE PATTERN DOTS-1245678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10492,
@@ -2021,7 +2525,9 @@
     "name": "BRAILLE PATTERN DOTS-345678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10493,
@@ -2029,7 +2535,9 @@
     "name": "BRAILLE PATTERN DOTS-1345678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10494,
@@ -2037,7 +2545,9 @@
     "name": "BRAILLE PATTERN DOTS-2345678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   },
   {
     "cp": 10495,
@@ -2045,6 +2555,8 @@
     "name": "BRAILLE PATTERN DOTS-12345678",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шрифт Брайля", "узор", "точки"],
+    "concepts": []
   }
 ]

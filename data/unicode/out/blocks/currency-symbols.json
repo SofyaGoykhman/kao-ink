@@ -5,7 +5,9 @@
     "name": "EURO-CURRENCY SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["евро", "валюта", "знак"],
+    "concepts": []
   },
   {
     "cp": 8353,
@@ -13,7 +15,9 @@
     "name": "COLON SIGN",
     "ru": "костариканский колон",
     "en": "Costa Rican Colón",
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["двоеточие", "знак"],
+    "concepts": []
   },
   {
     "cp": 8354,
@@ -21,7 +25,9 @@
     "name": "CRUZEIRO SIGN",
     "ru": "крузейро",
     "en": "cruzeiro",
-    "keywords": { "ru": ["валюта", "крузейро"], "en": ["BRB", "cruzeiro", "currency"] }
+    "keywords": { "ru": ["валюта", "крузейро"], "en": ["BRB", "cruzeiro", "currency"] },
+    "desc": ["крузейро", "знак"],
+    "concepts": []
   },
   {
     "cp": 8355,
@@ -32,7 +38,9 @@
     "keywords": {
       "ru": ["валюта", "франк", "французский франк"],
       "en": ["currency", "franc", "french"]
-    }
+    },
+    "desc": ["французский", "франк", "знак"],
+    "concepts": []
   },
   {
     "cp": 8356,
@@ -40,7 +48,9 @@
     "name": "LIRA SIGN",
     "ru": "лира",
     "en": "lira",
-    "keywords": { "ru": ["валюта", "лира"], "en": ["currency", "lira"] }
+    "keywords": { "ru": ["валюта", "лира"], "en": ["currency", "lira"] },
+    "desc": ["лира", "знак"],
+    "concepts": []
   },
   {
     "cp": 8357,
@@ -51,7 +61,9 @@
     "keywords": {
       "ru": ["мил", "милесимо", "миллим", "милль", "милльем", "миль", "мильем"],
       "en": ["mil", "mill"]
-    }
+    },
+    "desc": ["милль", "знак"],
+    "concepts": []
   },
   {
     "cp": 8358,
@@ -59,7 +71,9 @@
     "name": "NAIRA SIGN",
     "ru": "нигерийская найра",
     "en": "Nigerian Naira",
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["найра", "знак"],
+    "concepts": []
   },
   {
     "cp": 8359,
@@ -67,7 +81,9 @@
     "name": "PESETA SIGN",
     "ru": "Испанская песета",
     "en": "Spanish Peseta",
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["песета", "знак"],
+    "concepts": []
   },
   {
     "cp": 8360,
@@ -75,7 +91,9 @@
     "name": "RUPEE SIGN",
     "ru": "рупия",
     "en": "rupee",
-    "keywords": { "ru": ["валюта", "рупия"], "en": ["currency", "rupee"] }
+    "keywords": { "ru": ["валюта", "рупия"], "en": ["currency", "rupee"] },
+    "desc": ["рупия", "знак"],
+    "concepts": []
   },
   {
     "cp": 8361,
@@ -83,7 +101,9 @@
     "name": "WON SIGN",
     "ru": "вона",
     "en": "won",
-    "keywords": { "ru": ["вона", "ЮКВ/СКВ"], "en": ["KPW", "KRW", "won"] }
+    "keywords": { "ru": ["вона", "ЮКВ/СКВ"], "en": ["KPW", "KRW", "won"] },
+    "desc": ["вона", "знак"],
+    "concepts": []
   },
   {
     "cp": 8362,
@@ -91,7 +111,9 @@
     "name": "NEW SHEQEL SIGN",
     "ru": "новый израильский шекель",
     "en": "Israeli New Shekel",
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["новый", "шекель", "знак"],
+    "concepts": []
   },
   {
     "cp": 8363,
@@ -99,7 +121,9 @@
     "name": "DONG SIGN",
     "ru": "вьетнамский донг",
     "en": "Vietnamese Dong",
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["донг", "знак"],
+    "concepts": []
   },
   {
     "cp": 8364,
@@ -107,7 +131,9 @@
     "name": "EURO SIGN",
     "ru": "евро",
     "en": "euro",
-    "keywords": { "ru": ["валюта", "евро"], "en": ["currency", "EUR", "euro"] }
+    "keywords": { "ru": ["валюта", "евро"], "en": ["currency", "EUR", "euro"] },
+    "desc": ["евро", "знак"],
+    "concepts": []
   },
   {
     "cp": 8365,
@@ -115,7 +141,9 @@
     "name": "KIP SIGN",
     "ru": "лаосский кип",
     "en": "Laotian Kip",
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кип", "знак"],
+    "concepts": []
   },
   {
     "cp": 8366,
@@ -123,7 +151,9 @@
     "name": "TUGRIK SIGN",
     "ru": "монгольский тугрик",
     "en": "Mongolian Tugrik",
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тугрик", "знак"],
+    "concepts": []
   },
   {
     "cp": 8367,
@@ -131,7 +161,9 @@
     "name": "DRACHMA SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["драхма", "знак"],
+    "concepts": []
   },
   {
     "cp": 8368,
@@ -142,7 +174,9 @@
     "keywords": {
       "ru": ["валюта", "немецкий пенни"],
       "en": ["currency", "german", "penny", "pfennig"]
-    }
+    },
+    "desc": ["немецкий", "пенни (пфенниг)", "знак"],
+    "concepts": []
   },
   {
     "cp": 8369,
@@ -150,7 +184,9 @@
     "name": "PESO SIGN",
     "ru": "песо",
     "en": "peso",
-    "keywords": { "ru": ["песо"], "en": ["peso"] }
+    "keywords": { "ru": ["песо"], "en": ["peso"] },
+    "desc": ["песо", "знак"],
+    "concepts": []
   },
   {
     "cp": 8370,
@@ -158,7 +194,9 @@
     "name": "GUARANI SIGN",
     "ru": "парагвайский гуарани",
     "en": "Paraguayan Guarani",
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гуарани", "знак"],
+    "concepts": []
   },
   {
     "cp": 8371,
@@ -166,7 +204,9 @@
     "name": "AUSTRAL SIGN",
     "ru": "аустраль",
     "en": "austral",
-    "keywords": { "ru": ["аустраль", "валюта"], "en": ["ARA", "austral", "currency"] }
+    "keywords": { "ru": ["аустраль", "валюта"], "en": ["ARA", "austral", "currency"] },
+    "desc": ["аустраль", "знак"],
+    "concepts": []
   },
   {
     "cp": 8372,
@@ -174,7 +214,9 @@
     "name": "HRYVNIA SIGN",
     "ru": "украинская гривна",
     "en": "Ukrainian Hryvnia",
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гривна", "знак"],
+    "concepts": []
   },
   {
     "cp": 8373,
@@ -182,7 +224,9 @@
     "name": "CEDI SIGN",
     "ru": "ганский седи",
     "en": "Ghanaian Cedi",
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["седи", "знак"],
+    "concepts": []
   },
   {
     "cp": 8374,
@@ -190,7 +234,9 @@
     "name": "LIVRE TOURNOIS SIGN",
     "ru": "турский ливр",
     "en": "livre tournois",
-    "keywords": { "ru": ["валюта", "турский ливр"], "en": ["currency", "livre", "tournois"] }
+    "keywords": { "ru": ["валюта", "турский ливр"], "en": ["currency", "livre", "tournois"] },
+    "desc": ["ливр", "турский", "знак"],
+    "concepts": []
   },
   {
     "cp": 8375,
@@ -198,7 +244,9 @@
     "name": "SPESMILO SIGN",
     "ru": "спесмило",
     "en": "spesmilo",
-    "keywords": { "ru": ["валюта", "спесмило"], "en": ["currency", "spesmilo"] }
+    "keywords": { "ru": ["валюта", "спесмило"], "en": ["currency", "spesmilo"] },
+    "desc": ["спесмило", "знак"],
+    "concepts": []
   },
   {
     "cp": 8376,
@@ -206,7 +254,9 @@
     "name": "TENGE SIGN",
     "ru": "казахский тенге",
     "en": "Kazakhstani Tenge",
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тенге", "знак"],
+    "concepts": []
   },
   {
     "cp": 8377,
@@ -217,7 +267,9 @@
     "keywords": {
       "ru": ["валюта", "индийская рупия", "рупия"],
       "en": ["currency", "indian", "rupee"]
-    }
+    },
+    "desc": ["индийский", "рупия", "знак"],
+    "concepts": []
   },
   {
     "cp": 8378,
@@ -225,7 +277,9 @@
     "name": "TURKISH LIRA SIGN",
     "ru": "турецкая лира",
     "en": "Turkish Lira",
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["турецкий", "лира", "знак"],
+    "concepts": []
   },
   {
     "cp": 8379,
@@ -233,7 +287,9 @@
     "name": "NORDIC MARK SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["северный", "метка (знак)", "знак"],
+    "concepts": []
   },
   {
     "cp": 8380,
@@ -241,7 +297,9 @@
     "name": "MANAT SIGN",
     "ru": "азербайджанский манат",
     "en": "Azerbaijani Manat",
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["манат", "знак"],
+    "concepts": []
   },
   {
     "cp": 8381,
@@ -249,7 +307,9 @@
     "name": "RUBLE SIGN",
     "ru": "рубль",
     "en": "ruble",
-    "keywords": { "ru": ["валюта", "рубль"], "en": ["currency", "ruble"] }
+    "keywords": { "ru": ["валюта", "рубль"], "en": ["currency", "ruble"] },
+    "desc": ["рубль", "знак"],
+    "concepts": []
   },
   {
     "cp": 8382,
@@ -257,7 +317,9 @@
     "name": "LARI SIGN",
     "ru": "грузинский лари",
     "en": "Georgian Lari",
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лари", "знак"],
+    "concepts": []
   },
   {
     "cp": 8383,
@@ -265,7 +327,9 @@
     "name": "BITCOIN SIGN",
     "ru": "биткоин",
     "en": "bitcoin",
-    "keywords": { "ru": ["btc", "биткоин", "биткойн", "бтк"], "en": ["bitcoin", "BTC"] }
+    "keywords": { "ru": ["btc", "биткоин", "биткойн", "бтк"], "en": ["bitcoin", "BTC"] },
+    "desc": ["биткоин", "знак"],
+    "concepts": []
   },
   {
     "cp": 8384,
@@ -273,7 +337,9 @@
     "name": "SOM SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сом", "знак"],
+    "concepts": []
   },
   {
     "cp": 8385,
@@ -281,7 +347,9 @@
     "name": "SAUDI RIYAL SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саудовский", "риял", "знак"],
+    "concepts": []
   },
   {
     "cp": 8386,
@@ -289,7 +357,9 @@
     "name": "RUFIYAA SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руфия", "знак"],
+    "concepts": []
   },
   {
     "cp": 8387,
@@ -297,7 +367,9 @@
     "name": "UAE DIRHAM SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ОАЭ", "дирхам", "знак"],
+    "concepts": []
   },
   {
     "cp": 8388,
@@ -305,6 +377,8 @@
     "name": "OMANI RIAL SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["оманский", "риал", "знак"],
+    "concepts": []
   }
 ]

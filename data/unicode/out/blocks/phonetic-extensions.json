@@ -5,7 +5,9 @@
     "name": "LATIN LETTER SMALL CAPITAL A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7425,
@@ -13,7 +15,9 @@
     "name": "LATIN LETTER SMALL CAPITAL AE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный", "ae (лигатура)"],
+    "concepts": []
   },
   {
     "cp": 7426,
@@ -21,7 +25,9 @@
     "name": "LATIN SMALL LETTER TURNED AE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "перевёрнутый", "ae (лигатура)"],
+    "concepts": []
   },
   {
     "cp": 7427,
@@ -29,7 +35,9 @@
     "name": "LATIN LETTER SMALL CAPITAL BARRED B",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный", "перечёркнутый"],
+    "concepts": []
   },
   {
     "cp": 7428,
@@ -37,7 +45,9 @@
     "name": "LATIN LETTER SMALL CAPITAL C",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7429,
@@ -45,7 +55,9 @@
     "name": "LATIN LETTER SMALL CAPITAL D",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7430,
@@ -53,7 +65,9 @@
     "name": "LATIN LETTER SMALL CAPITAL ETH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный", "эт (ð)"],
+    "concepts": []
   },
   {
     "cp": 7431,
@@ -61,7 +75,9 @@
     "name": "LATIN LETTER SMALL CAPITAL E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7432,
@@ -69,7 +85,9 @@
     "name": "LATIN SMALL LETTER TURNED OPEN E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "перевёрнутый", "открытый"],
+    "concepts": []
   },
   {
     "cp": 7433,
@@ -77,7 +95,9 @@
     "name": "LATIN SMALL LETTER TURNED I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "перевёрнутый"],
+    "concepts": []
   },
   {
     "cp": 7434,
@@ -85,7 +105,9 @@
     "name": "LATIN LETTER SMALL CAPITAL J",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7435,
@@ -93,7 +115,9 @@
     "name": "LATIN LETTER SMALL CAPITAL K",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7436,
@@ -101,7 +125,9 @@
     "name": "LATIN LETTER SMALL CAPITAL L WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 7437,
@@ -109,7 +135,9 @@
     "name": "LATIN LETTER SMALL CAPITAL M",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7438,
@@ -117,7 +145,9 @@
     "name": "LATIN LETTER SMALL CAPITAL REVERSED N",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный", "зеркальный (обратный)"],
+    "concepts": []
   },
   {
     "cp": 7439,
@@ -125,7 +155,9 @@
     "name": "LATIN LETTER SMALL CAPITAL O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7440,
@@ -133,7 +165,9 @@
     "name": "LATIN LETTER SMALL CAPITAL OPEN O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный", "открытый"],
+    "concepts": []
   },
   {
     "cp": 7441,
@@ -141,7 +175,9 @@
     "name": "LATIN SMALL LETTER SIDEWAYS O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "боком"],
+    "concepts": []
   },
   {
     "cp": 7442,
@@ -149,7 +185,9 @@
     "name": "LATIN SMALL LETTER SIDEWAYS OPEN O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "боком", "открытый"],
+    "concepts": []
   },
   {
     "cp": 7443,
@@ -157,7 +195,9 @@
     "name": "LATIN SMALL LETTER SIDEWAYS O WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "боком", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 7444,
@@ -165,7 +205,9 @@
     "name": "LATIN SMALL LETTER TURNED OE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "перевёрнутый", "oe (лигатура)"],
+    "concepts": []
   },
   {
     "cp": 7445,
@@ -173,7 +215,9 @@
     "name": "LATIN LETTER SMALL CAPITAL OU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный", "оу"],
+    "concepts": []
   },
   {
     "cp": 7446,
@@ -181,7 +225,9 @@
     "name": "LATIN SMALL LETTER TOP HALF O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "верх", "половина"],
+    "concepts": ["cloud"]
   },
   {
     "cp": 7447,
@@ -189,7 +235,9 @@
     "name": "LATIN SMALL LETTER BOTTOM HALF O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "низ", "половина"],
+    "concepts": ["cloud"]
   },
   {
     "cp": 7448,
@@ -197,7 +245,9 @@
     "name": "LATIN LETTER SMALL CAPITAL P",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7449,
@@ -205,7 +255,9 @@
     "name": "LATIN LETTER SMALL CAPITAL REVERSED R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный", "зеркальный (обратный)"],
+    "concepts": []
   },
   {
     "cp": 7450,
@@ -213,7 +265,9 @@
     "name": "LATIN LETTER SMALL CAPITAL TURNED R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный", "перевёрнутый"],
+    "concepts": []
   },
   {
     "cp": 7451,
@@ -221,7 +275,9 @@
     "name": "LATIN LETTER SMALL CAPITAL T",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7452,
@@ -229,7 +285,9 @@
     "name": "LATIN LETTER SMALL CAPITAL U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7453,
@@ -237,7 +295,9 @@
     "name": "LATIN SMALL LETTER SIDEWAYS U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "боком"],
+    "concepts": []
   },
   {
     "cp": 7454,
@@ -245,7 +305,9 @@
     "name": "LATIN SMALL LETTER SIDEWAYS DIAERESIZED U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "боком"],
+    "concepts": []
   },
   {
     "cp": 7455,
@@ -253,7 +315,9 @@
     "name": "LATIN SMALL LETTER SIDEWAYS TURNED M",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "боком", "перевёрнутый"],
+    "concepts": []
   },
   {
     "cp": 7456,
@@ -261,7 +325,9 @@
     "name": "LATIN LETTER SMALL CAPITAL V",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7457,
@@ -269,7 +335,9 @@
     "name": "LATIN LETTER SMALL CAPITAL W",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7458,
@@ -277,7 +345,9 @@
     "name": "LATIN LETTER SMALL CAPITAL Z",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7459,
@@ -285,7 +355,9 @@
     "name": "LATIN LETTER SMALL CAPITAL EZH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "маленький (строчный)", "заглавный", "эж (ʒ)"],
+    "concepts": []
   },
   {
     "cp": 7460,
@@ -293,7 +365,9 @@
     "name": "LATIN LETTER VOICED LARYNGEAL SPIRANT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "звонкий"],
+    "concepts": []
   },
   {
     "cp": 7461,
@@ -301,7 +375,9 @@
     "name": "LATIN LETTER AIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "буква", "айн"],
+    "concepts": []
   },
   {
     "cp": 7462,
@@ -309,7 +385,9 @@
     "name": "GREEK LETTER SMALL CAPITAL GAMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "буква", "маленький (строчный)", "заглавный", "гамма"],
+    "concepts": []
   },
   {
     "cp": 7463,
@@ -317,7 +395,9 @@
     "name": "GREEK LETTER SMALL CAPITAL LAMDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "буква", "маленький (строчный)", "заглавный", "лямбда"],
+    "concepts": ["mountain"]
   },
   {
     "cp": 7464,
@@ -325,7 +405,9 @@
     "name": "GREEK LETTER SMALL CAPITAL PI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "буква", "маленький (строчный)", "заглавный", "пи"],
+    "concepts": []
   },
   {
     "cp": 7465,
@@ -333,7 +415,9 @@
     "name": "GREEK LETTER SMALL CAPITAL RHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "буква", "маленький (строчный)", "заглавный", "ро"],
+    "concepts": []
   },
   {
     "cp": 7466,
@@ -341,7 +425,9 @@
     "name": "GREEK LETTER SMALL CAPITAL PSI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "буква", "маленький (строчный)", "заглавный", "пси"],
+    "concepts": []
   },
   {
     "cp": 7467,
@@ -349,7 +435,9 @@
     "name": "CYRILLIC LETTER SMALL CAPITAL EL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кириллица", "буква", "маленький (строчный)", "заглавный", "эль"],
+    "concepts": []
   },
   {
     "cp": 7468,
@@ -357,7 +445,9 @@
     "name": "MODIFIER LETTER CAPITAL A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7469,
@@ -365,7 +455,9 @@
     "name": "MODIFIER LETTER CAPITAL AE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный", "ae (лигатура)"],
+    "concepts": []
   },
   {
     "cp": 7470,
@@ -373,7 +465,9 @@
     "name": "MODIFIER LETTER CAPITAL B",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7471,
@@ -381,7 +475,9 @@
     "name": "MODIFIER LETTER CAPITAL BARRED B",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный", "перечёркнутый"],
+    "concepts": []
   },
   {
     "cp": 7472,
@@ -389,7 +485,9 @@
     "name": "MODIFIER LETTER CAPITAL D",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7473,
@@ -397,7 +495,9 @@
     "name": "MODIFIER LETTER CAPITAL E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7474,
@@ -405,7 +505,9 @@
     "name": "MODIFIER LETTER CAPITAL REVERSED E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный", "зеркальный (обратный)"],
+    "concepts": []
   },
   {
     "cp": 7475,
@@ -413,7 +515,9 @@
     "name": "MODIFIER LETTER CAPITAL G",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7476,
@@ -421,7 +525,9 @@
     "name": "MODIFIER LETTER CAPITAL H",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7477,
@@ -429,7 +535,9 @@
     "name": "MODIFIER LETTER CAPITAL I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7478,
@@ -437,7 +545,9 @@
     "name": "MODIFIER LETTER CAPITAL J",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7479,
@@ -445,7 +555,9 @@
     "name": "MODIFIER LETTER CAPITAL K",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7480,
@@ -453,7 +565,9 @@
     "name": "MODIFIER LETTER CAPITAL L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7481,
@@ -461,7 +575,9 @@
     "name": "MODIFIER LETTER CAPITAL M",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7482,
@@ -469,7 +585,9 @@
     "name": "MODIFIER LETTER CAPITAL N",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7483,
@@ -477,7 +595,9 @@
     "name": "MODIFIER LETTER CAPITAL REVERSED N",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный", "зеркальный (обратный)"],
+    "concepts": []
   },
   {
     "cp": 7484,
@@ -485,7 +605,9 @@
     "name": "MODIFIER LETTER CAPITAL O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7485,
@@ -493,7 +615,9 @@
     "name": "MODIFIER LETTER CAPITAL OU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный", "оу"],
+    "concepts": []
   },
   {
     "cp": 7486,
@@ -501,7 +625,9 @@
     "name": "MODIFIER LETTER CAPITAL P",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7487,
@@ -509,7 +635,9 @@
     "name": "MODIFIER LETTER CAPITAL R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7488,
@@ -517,7 +645,9 @@
     "name": "MODIFIER LETTER CAPITAL T",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7489,
@@ -525,7 +655,9 @@
     "name": "MODIFIER LETTER CAPITAL U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7490,
@@ -533,7 +665,9 @@
     "name": "MODIFIER LETTER CAPITAL W",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7491,
@@ -541,7 +675,9 @@
     "name": "MODIFIER LETTER SMALL A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 7492,
@@ -549,7 +685,9 @@
     "name": "MODIFIER LETTER SMALL TURNED A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "перевёрнутый"],
+    "concepts": []
   },
   {
     "cp": 7493,
@@ -557,7 +695,9 @@
     "name": "MODIFIER LETTER SMALL ALPHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "альфа"],
+    "concepts": []
   },
   {
     "cp": 7494,
@@ -565,7 +705,9 @@
     "name": "MODIFIER LETTER SMALL TURNED AE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "перевёрнутый", "ae (лигатура)"],
+    "concepts": []
   },
   {
     "cp": 7495,
@@ -573,7 +715,9 @@
     "name": "MODIFIER LETTER SMALL B",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 7496,
@@ -581,7 +725,9 @@
     "name": "MODIFIER LETTER SMALL D",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 7497,
@@ -589,7 +735,9 @@
     "name": "MODIFIER LETTER SMALL E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 7498,
@@ -597,7 +745,9 @@
     "name": "MODIFIER LETTER SMALL SCHWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "шва"],
+    "concepts": []
   },
   {
     "cp": 7499,
@@ -605,7 +755,9 @@
     "name": "MODIFIER LETTER SMALL OPEN E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "открытый"],
+    "concepts": []
   },
   {
     "cp": 7500,
@@ -613,7 +765,9 @@
     "name": "MODIFIER LETTER SMALL TURNED OPEN E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "перевёрнутый", "открытый"],
+    "concepts": []
   },
   {
     "cp": 7501,
@@ -621,7 +775,9 @@
     "name": "MODIFIER LETTER SMALL G",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 7502,
@@ -629,7 +785,9 @@
     "name": "MODIFIER LETTER SMALL TURNED I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "перевёрнутый"],
+    "concepts": []
   },
   {
     "cp": 7503,
@@ -637,7 +795,9 @@
     "name": "MODIFIER LETTER SMALL K",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 7504,
@@ -645,7 +805,9 @@
     "name": "MODIFIER LETTER SMALL M",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 7505,
@@ -653,7 +815,9 @@
     "name": "MODIFIER LETTER SMALL ENG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "энг (ŋ)"],
+    "concepts": []
   },
   {
     "cp": 7506,
@@ -661,7 +825,9 @@
     "name": "MODIFIER LETTER SMALL O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": ["fruit", "apple"]
   },
   {
     "cp": 7507,
@@ -669,7 +835,9 @@
     "name": "MODIFIER LETTER SMALL OPEN O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "открытый"],
+    "concepts": []
   },
   {
     "cp": 7508,
@@ -677,7 +845,9 @@
     "name": "MODIFIER LETTER SMALL TOP HALF O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "верх", "половина"],
+    "concepts": ["mountain"]
   },
   {
     "cp": 7509,
@@ -685,7 +855,9 @@
     "name": "MODIFIER LETTER SMALL BOTTOM HALF O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "низ", "половина"],
+    "concepts": []
   },
   {
     "cp": 7510,
@@ -693,7 +865,9 @@
     "name": "MODIFIER LETTER SMALL P",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 7511,
@@ -701,7 +875,9 @@
     "name": "MODIFIER LETTER SMALL T",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 7512,
@@ -709,7 +885,9 @@
     "name": "MODIFIER LETTER SMALL U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 7513,
@@ -717,7 +895,9 @@
     "name": "MODIFIER LETTER SMALL SIDEWAYS U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "боком"],
+    "concepts": []
   },
   {
     "cp": 7514,
@@ -725,7 +905,9 @@
     "name": "MODIFIER LETTER SMALL TURNED M",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "перевёрнутый"],
+    "concepts": []
   },
   {
     "cp": 7515,
@@ -733,7 +915,9 @@
     "name": "MODIFIER LETTER SMALL V",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 7516,
@@ -741,7 +925,9 @@
     "name": "MODIFIER LETTER SMALL AIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "айн"],
+    "concepts": []
   },
   {
     "cp": 7517,
@@ -749,7 +935,9 @@
     "name": "MODIFIER LETTER SMALL BETA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "бета"],
+    "concepts": []
   },
   {
     "cp": 7518,
@@ -757,7 +945,9 @@
     "name": "MODIFIER LETTER SMALL GREEK GAMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "греческий", "гамма"],
+    "concepts": []
   },
   {
     "cp": 7519,
@@ -765,7 +955,9 @@
     "name": "MODIFIER LETTER SMALL DELTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "дельта"],
+    "concepts": []
   },
   {
     "cp": 7520,
@@ -773,7 +965,9 @@
     "name": "MODIFIER LETTER SMALL GREEK PHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "греческий", "фи"],
+    "concepts": []
   },
   {
     "cp": 7521,
@@ -781,7 +975,9 @@
     "name": "MODIFIER LETTER SMALL CHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "хи"],
+    "concepts": []
   },
   {
     "cp": 7522,
@@ -789,7 +985,9 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 7523,
@@ -797,7 +995,9 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 7524,
@@ -805,7 +1005,9 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 7525,
@@ -813,7 +1015,9 @@
     "name": "LATIN SUBSCRIPT SMALL LETTER V",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 7526,
@@ -821,7 +1025,9 @@
     "name": "GREEK SUBSCRIPT SMALL LETTER BETA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "нижний индекс", "маленький (строчный)", "буква", "бета"],
+    "concepts": []
   },
   {
     "cp": 7527,
@@ -829,7 +1035,9 @@
     "name": "GREEK SUBSCRIPT SMALL LETTER GAMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "нижний индекс", "маленький (строчный)", "буква", "гамма"],
+    "concepts": []
   },
   {
     "cp": 7528,
@@ -837,7 +1045,9 @@
     "name": "GREEK SUBSCRIPT SMALL LETTER RHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "нижний индекс", "маленький (строчный)", "буква", "ро"],
+    "concepts": []
   },
   {
     "cp": 7529,
@@ -845,7 +1055,9 @@
     "name": "GREEK SUBSCRIPT SMALL LETTER PHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "нижний индекс", "маленький (строчный)", "буква", "фи"],
+    "concepts": []
   },
   {
     "cp": 7530,
@@ -853,7 +1065,9 @@
     "name": "GREEK SUBSCRIPT SMALL LETTER CHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "нижний индекс", "маленький (строчный)", "буква", "хи"],
+    "concepts": []
   },
   {
     "cp": 7531,
@@ -861,7 +1075,9 @@
     "name": "LATIN SMALL LETTER UE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "уэ"],
+    "concepts": []
   },
   {
     "cp": 7532,
@@ -869,7 +1085,9 @@
     "name": "LATIN SMALL LETTER B WITH MIDDLE TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "с", "средний", "тильда"],
+    "concepts": []
   },
   {
     "cp": 7533,
@@ -877,7 +1095,9 @@
     "name": "LATIN SMALL LETTER D WITH MIDDLE TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "с", "средний", "тильда"],
+    "concepts": []
   },
   {
     "cp": 7534,
@@ -885,7 +1105,9 @@
     "name": "LATIN SMALL LETTER F WITH MIDDLE TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "с", "средний", "тильда"],
+    "concepts": []
   },
   {
     "cp": 7535,
@@ -893,7 +1115,9 @@
     "name": "LATIN SMALL LETTER M WITH MIDDLE TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "с", "средний", "тильда"],
+    "concepts": []
   },
   {
     "cp": 7536,
@@ -901,7 +1125,9 @@
     "name": "LATIN SMALL LETTER N WITH MIDDLE TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "с", "средний", "тильда"],
+    "concepts": []
   },
   {
     "cp": 7537,
@@ -909,7 +1135,9 @@
     "name": "LATIN SMALL LETTER P WITH MIDDLE TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "с", "средний", "тильда"],
+    "concepts": []
   },
   {
     "cp": 7538,
@@ -917,7 +1145,9 @@
     "name": "LATIN SMALL LETTER R WITH MIDDLE TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "с", "средний", "тильда"],
+    "concepts": []
   },
   {
     "cp": 7539,
@@ -925,7 +1155,18 @@
     "name": "LATIN SMALL LETTER R WITH FISHHOOK AND MIDDLE TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "латинский",
+      "маленький (строчный)",
+      "буква",
+      "с",
+      "рыболовный крючок",
+      "и",
+      "средний",
+      "тильда"
+    ],
+    "concepts": []
   },
   {
     "cp": 7540,
@@ -933,7 +1174,9 @@
     "name": "LATIN SMALL LETTER S WITH MIDDLE TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "с", "средний", "тильда"],
+    "concepts": []
   },
   {
     "cp": 7541,
@@ -941,7 +1184,9 @@
     "name": "LATIN SMALL LETTER T WITH MIDDLE TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "с", "средний", "тильда"],
+    "concepts": []
   },
   {
     "cp": 7542,
@@ -949,7 +1194,9 @@
     "name": "LATIN SMALL LETTER Z WITH MIDDLE TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "с", "средний", "тильда"],
+    "concepts": []
   },
   {
     "cp": 7543,
@@ -957,7 +1204,9 @@
     "name": "LATIN SMALL LETTER TURNED G",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "перевёрнутый"],
+    "concepts": []
   },
   {
     "cp": 7544,
@@ -965,7 +1214,9 @@
     "name": "MODIFIER LETTER CYRILLIC EN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "кириллица", "короткое (en)"],
+    "concepts": []
   },
   {
     "cp": 7545,
@@ -973,7 +1224,9 @@
     "name": "LATIN SMALL LETTER INSULAR G",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "островной"],
+    "concepts": []
   },
   {
     "cp": 7546,
@@ -981,7 +1234,9 @@
     "name": "LATIN SMALL LETTER TH WITH STRIKETHROUGH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "th", "с"],
+    "concepts": []
   },
   {
     "cp": 7547,
@@ -989,7 +1244,9 @@
     "name": "LATIN SMALL CAPITAL LETTER I WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "заглавный", "буква", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 7548,
@@ -997,7 +1254,9 @@
     "name": "LATIN SMALL LETTER IOTA WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "йота", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 7549,
@@ -1005,7 +1264,9 @@
     "name": "LATIN SMALL LETTER P WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 7550,
@@ -1013,7 +1274,9 @@
     "name": "LATIN SMALL CAPITAL LETTER U WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "заглавный", "буква", "с", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 7551,
@@ -1021,6 +1284,8 @@
     "name": "LATIN SMALL LETTER UPSILON WITH STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква", "ипсилон", "с", "черта (штрих)"],
+    "concepts": []
   }
 ]

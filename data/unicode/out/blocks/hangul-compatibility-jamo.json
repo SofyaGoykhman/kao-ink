@@ -5,7 +5,9 @@
     "name": "HANGUL LETTER KIYEOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "киёк (ㄱ)"],
+    "concepts": []
   },
   {
     "cp": 12594,
@@ -13,7 +15,9 @@
     "name": "HANGUL LETTER SSANGKIYEOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ссангкиёк (ㄲ)"],
+    "concepts": []
   },
   {
     "cp": 12595,
@@ -21,7 +25,9 @@
     "name": "HANGUL LETTER KIYEOK-SIOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "киёк (ㄱ)", "сиос (ㅅ)"],
+    "concepts": []
   },
   {
     "cp": 12596,
@@ -29,7 +35,9 @@
     "name": "HANGUL LETTER NIEUN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ниын (ㄴ)"],
+    "concepts": []
   },
   {
     "cp": 12597,
@@ -37,7 +45,9 @@
     "name": "HANGUL LETTER NIEUN-CIEUC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ниын (ㄴ)", "чиыт (ㅈ)"],
+    "concepts": []
   },
   {
     "cp": 12598,
@@ -45,7 +55,9 @@
     "name": "HANGUL LETTER NIEUN-HIEUH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ниын (ㄴ)", "хиыт (ㅎ)"],
+    "concepts": []
   },
   {
     "cp": 12599,
@@ -53,7 +65,9 @@
     "name": "HANGUL LETTER TIKEUT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "тигыт (ㄷ)"],
+    "concepts": []
   },
   {
     "cp": 12600,
@@ -61,7 +75,9 @@
     "name": "HANGUL LETTER SSANGTIKEUT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ссангтигыт (ㄸ)"],
+    "concepts": []
   },
   {
     "cp": 12601,
@@ -69,7 +85,9 @@
     "name": "HANGUL LETTER RIEUL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "риыль (ㄹ)"],
+    "concepts": []
   },
   {
     "cp": 12602,
@@ -77,7 +95,9 @@
     "name": "HANGUL LETTER RIEUL-KIYEOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "риыль (ㄹ)", "киёк (ㄱ)"],
+    "concepts": []
   },
   {
     "cp": 12603,
@@ -85,7 +105,9 @@
     "name": "HANGUL LETTER RIEUL-MIEUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "риыль (ㄹ)", "миым (ㅁ)"],
+    "concepts": []
   },
   {
     "cp": 12604,
@@ -93,7 +115,9 @@
     "name": "HANGUL LETTER RIEUL-PIEUP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "риыль (ㄹ)", "пиып (ㅂ)"],
+    "concepts": []
   },
   {
     "cp": 12605,
@@ -101,7 +125,9 @@
     "name": "HANGUL LETTER RIEUL-SIOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "риыль (ㄹ)", "сиос (ㅅ)"],
+    "concepts": []
   },
   {
     "cp": 12606,
@@ -109,7 +135,9 @@
     "name": "HANGUL LETTER RIEUL-THIEUTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "риыль (ㄹ)", "тхиыт (ㅌ)"],
+    "concepts": []
   },
   {
     "cp": 12607,
@@ -117,7 +145,9 @@
     "name": "HANGUL LETTER RIEUL-PHIEUPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "риыль (ㄹ)", "пхиып (ㅍ)"],
+    "concepts": []
   },
   {
     "cp": 12608,
@@ -125,7 +155,9 @@
     "name": "HANGUL LETTER RIEUL-HIEUH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "риыль (ㄹ)", "хиыт (ㅎ)"],
+    "concepts": []
   },
   {
     "cp": 12609,
@@ -133,7 +165,9 @@
     "name": "HANGUL LETTER MIEUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "миым (ㅁ)"],
+    "concepts": []
   },
   {
     "cp": 12610,
@@ -141,7 +175,9 @@
     "name": "HANGUL LETTER PIEUP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "пиып (ㅂ)"],
+    "concepts": []
   },
   {
     "cp": 12611,
@@ -149,7 +185,9 @@
     "name": "HANGUL LETTER SSANGPIEUP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ссангпиып (ㅃ)"],
+    "concepts": []
   },
   {
     "cp": 12612,
@@ -157,7 +195,9 @@
     "name": "HANGUL LETTER PIEUP-SIOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "пиып (ㅂ)", "сиос (ㅅ)"],
+    "concepts": []
   },
   {
     "cp": 12613,
@@ -165,7 +205,9 @@
     "name": "HANGUL LETTER SIOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "сиос (ㅅ)"],
+    "concepts": []
   },
   {
     "cp": 12614,
@@ -173,7 +215,9 @@
     "name": "HANGUL LETTER SSANGSIOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ссангсиос (ㅆ)"],
+    "concepts": []
   },
   {
     "cp": 12615,
@@ -181,7 +225,9 @@
     "name": "HANGUL LETTER IEUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "иын (ㅇ)"],
+    "concepts": []
   },
   {
     "cp": 12616,
@@ -189,7 +235,9 @@
     "name": "HANGUL LETTER CIEUC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "чиыт (ㅈ)"],
+    "concepts": []
   },
   {
     "cp": 12617,
@@ -197,7 +245,9 @@
     "name": "HANGUL LETTER SSANGCIEUC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ссангчиеуч"],
+    "concepts": []
   },
   {
     "cp": 12618,
@@ -205,7 +255,9 @@
     "name": "HANGUL LETTER CHIEUCH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "чхиыт (ㅊ)"],
+    "concepts": []
   },
   {
     "cp": 12619,
@@ -213,7 +265,9 @@
     "name": "HANGUL LETTER KHIEUKH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "кхиык (ㅋ)"],
+    "concepts": []
   },
   {
     "cp": 12620,
@@ -221,7 +275,9 @@
     "name": "HANGUL LETTER THIEUTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "тхиыт (ㅌ)"],
+    "concepts": []
   },
   {
     "cp": 12621,
@@ -229,7 +285,9 @@
     "name": "HANGUL LETTER PHIEUPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "пхиып (ㅍ)"],
+    "concepts": []
   },
   {
     "cp": 12622,
@@ -237,7 +295,9 @@
     "name": "HANGUL LETTER HIEUH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "хиыт (ㅎ)"],
+    "concepts": []
   },
   {
     "cp": 12623,
@@ -245,7 +305,9 @@
     "name": "HANGUL LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква"],
+    "concepts": []
   },
   {
     "cp": 12624,
@@ -253,7 +315,9 @@
     "name": "HANGUL LETTER AE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ae (лигатура)"],
+    "concepts": []
   },
   {
     "cp": 12625,
@@ -261,7 +325,9 @@
     "name": "HANGUL LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 12626,
@@ -269,7 +335,9 @@
     "name": "HANGUL LETTER YAE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "яе"],
+    "concepts": []
   },
   {
     "cp": 12627,
@@ -277,7 +345,9 @@
     "name": "HANGUL LETTER EO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "о (eo)"],
+    "concepts": []
   },
   {
     "cp": 12628,
@@ -285,7 +355,9 @@
     "name": "HANGUL LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква"],
+    "concepts": []
   },
   {
     "cp": 12629,
@@ -293,7 +365,9 @@
     "name": "HANGUL LETTER YEO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ё (yeo)"],
+    "concepts": []
   },
   {
     "cp": 12630,
@@ -301,7 +375,9 @@
     "name": "HANGUL LETTER YE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "йе"],
+    "concepts": []
   },
   {
     "cp": 12631,
@@ -309,7 +385,9 @@
     "name": "HANGUL LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква"],
+    "concepts": []
   },
   {
     "cp": 12632,
@@ -317,7 +395,9 @@
     "name": "HANGUL LETTER WA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ва"],
+    "concepts": []
   },
   {
     "cp": 12633,
@@ -325,7 +405,9 @@
     "name": "HANGUL LETTER WAE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "вае"],
+    "concepts": []
   },
   {
     "cp": 12634,
@@ -333,7 +415,9 @@
     "name": "HANGUL LETTER OE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "oe (лигатура)"],
+    "concepts": []
   },
   {
     "cp": 12635,
@@ -341,7 +425,9 @@
     "name": "HANGUL LETTER YO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "йо"],
+    "concepts": []
   },
   {
     "cp": 12636,
@@ -349,7 +435,9 @@
     "name": "HANGUL LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква"],
+    "concepts": []
   },
   {
     "cp": 12637,
@@ -357,7 +445,9 @@
     "name": "HANGUL LETTER WEO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "вео"],
+    "concepts": []
   },
   {
     "cp": 12638,
@@ -365,7 +455,9 @@
     "name": "HANGUL LETTER WE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ве"],
+    "concepts": []
   },
   {
     "cp": 12639,
@@ -373,7 +465,9 @@
     "name": "HANGUL LETTER WI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ви"],
+    "concepts": []
   },
   {
     "cp": 12640,
@@ -381,7 +475,9 @@
     "name": "HANGUL LETTER YU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ю"],
+    "concepts": []
   },
   {
     "cp": 12641,
@@ -389,7 +485,9 @@
     "name": "HANGUL LETTER EU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ы (eu)"],
+    "concepts": []
   },
   {
     "cp": 12642,
@@ -397,7 +495,9 @@
     "name": "HANGUL LETTER YI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "и (письмо и)"],
+    "concepts": []
   },
   {
     "cp": 12643,
@@ -405,7 +505,9 @@
     "name": "HANGUL LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква"],
+    "concepts": []
   },
   {
     "cp": 12644,
@@ -413,7 +515,9 @@
     "name": "HANGUL FILLER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "заполнитель"],
+    "concepts": []
   },
   {
     "cp": 12645,
@@ -421,7 +525,9 @@
     "name": "HANGUL LETTER SSANGNIEUN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ссангниеун"],
+    "concepts": []
   },
   {
     "cp": 12646,
@@ -429,7 +535,9 @@
     "name": "HANGUL LETTER NIEUN-TIKEUT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ниын (ㄴ)", "тигыт (ㄷ)"],
+    "concepts": []
   },
   {
     "cp": 12647,
@@ -437,7 +545,9 @@
     "name": "HANGUL LETTER NIEUN-SIOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ниын (ㄴ)", "сиос (ㅅ)"],
+    "concepts": []
   },
   {
     "cp": 12648,
@@ -445,7 +555,9 @@
     "name": "HANGUL LETTER NIEUN-PANSIOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ниын (ㄴ)", "пансиос"],
+    "concepts": []
   },
   {
     "cp": 12649,
@@ -453,7 +565,9 @@
     "name": "HANGUL LETTER RIEUL-KIYEOK-SIOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "риыль (ㄹ)", "киёк (ㄱ)", "сиос (ㅅ)"],
+    "concepts": []
   },
   {
     "cp": 12650,
@@ -461,7 +575,9 @@
     "name": "HANGUL LETTER RIEUL-TIKEUT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "риыль (ㄹ)", "тигыт (ㄷ)"],
+    "concepts": []
   },
   {
     "cp": 12651,
@@ -469,7 +585,9 @@
     "name": "HANGUL LETTER RIEUL-PIEUP-SIOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "риыль (ㄹ)", "пиып (ㅂ)", "сиос (ㅅ)"],
+    "concepts": []
   },
   {
     "cp": 12652,
@@ -477,7 +595,9 @@
     "name": "HANGUL LETTER RIEUL-PANSIOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "риыль (ㄹ)", "пансиос"],
+    "concepts": []
   },
   {
     "cp": 12653,
@@ -485,7 +605,9 @@
     "name": "HANGUL LETTER RIEUL-YEORINHIEUH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "риыль (ㄹ)", "ёринхиыт"],
+    "concepts": []
   },
   {
     "cp": 12654,
@@ -493,7 +615,9 @@
     "name": "HANGUL LETTER MIEUM-PIEUP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "миым (ㅁ)", "пиып (ㅂ)"],
+    "concepts": []
   },
   {
     "cp": 12655,
@@ -501,7 +625,9 @@
     "name": "HANGUL LETTER MIEUM-SIOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "миым (ㅁ)", "сиос (ㅅ)"],
+    "concepts": []
   },
   {
     "cp": 12656,
@@ -509,7 +635,9 @@
     "name": "HANGUL LETTER MIEUM-PANSIOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "миым (ㅁ)", "пансиос"],
+    "concepts": []
   },
   {
     "cp": 12657,
@@ -517,7 +645,9 @@
     "name": "HANGUL LETTER KAPYEOUNMIEUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "капеоунмиеум"],
+    "concepts": []
   },
   {
     "cp": 12658,
@@ -525,7 +655,9 @@
     "name": "HANGUL LETTER PIEUP-KIYEOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "пиып (ㅂ)", "киёк (ㄱ)"],
+    "concepts": []
   },
   {
     "cp": 12659,
@@ -533,7 +665,9 @@
     "name": "HANGUL LETTER PIEUP-TIKEUT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "пиып (ㅂ)", "тигыт (ㄷ)"],
+    "concepts": []
   },
   {
     "cp": 12660,
@@ -541,7 +675,9 @@
     "name": "HANGUL LETTER PIEUP-SIOS-KIYEOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "пиып (ㅂ)", "сиос (ㅅ)", "киёк (ㄱ)"],
+    "concepts": []
   },
   {
     "cp": 12661,
@@ -549,7 +685,9 @@
     "name": "HANGUL LETTER PIEUP-SIOS-TIKEUT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "пиып (ㅂ)", "сиос (ㅅ)", "тигыт (ㄷ)"],
+    "concepts": []
   },
   {
     "cp": 12662,
@@ -557,7 +695,9 @@
     "name": "HANGUL LETTER PIEUP-CIEUC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "пиып (ㅂ)", "чиыт (ㅈ)"],
+    "concepts": []
   },
   {
     "cp": 12663,
@@ -565,7 +705,9 @@
     "name": "HANGUL LETTER PIEUP-THIEUTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "пиып (ㅂ)", "тхиыт (ㅌ)"],
+    "concepts": []
   },
   {
     "cp": 12664,
@@ -573,7 +715,9 @@
     "name": "HANGUL LETTER KAPYEOUNPIEUP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "капёунпиып"],
+    "concepts": []
   },
   {
     "cp": 12665,
@@ -581,7 +725,9 @@
     "name": "HANGUL LETTER KAPYEOUNSSANGPIEUP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква"],
+    "concepts": []
   },
   {
     "cp": 12666,
@@ -589,7 +735,9 @@
     "name": "HANGUL LETTER SIOS-KIYEOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "сиос (ㅅ)", "киёк (ㄱ)"],
+    "concepts": []
   },
   {
     "cp": 12667,
@@ -597,7 +745,9 @@
     "name": "HANGUL LETTER SIOS-NIEUN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "сиос (ㅅ)", "ниын (ㄴ)"],
+    "concepts": []
   },
   {
     "cp": 12668,
@@ -605,7 +755,9 @@
     "name": "HANGUL LETTER SIOS-TIKEUT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "сиос (ㅅ)", "тигыт (ㄷ)"],
+    "concepts": []
   },
   {
     "cp": 12669,
@@ -613,7 +765,9 @@
     "name": "HANGUL LETTER SIOS-PIEUP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "сиос (ㅅ)", "пиып (ㅂ)"],
+    "concepts": []
   },
   {
     "cp": 12670,
@@ -621,7 +775,9 @@
     "name": "HANGUL LETTER SIOS-CIEUC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "сиос (ㅅ)", "чиыт (ㅈ)"],
+    "concepts": []
   },
   {
     "cp": 12671,
@@ -629,7 +785,9 @@
     "name": "HANGUL LETTER PANSIOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "пансиос"],
+    "concepts": []
   },
   {
     "cp": 12672,
@@ -637,7 +795,9 @@
     "name": "HANGUL LETTER SSANGIEUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ссангиеунг"],
+    "concepts": []
   },
   {
     "cp": 12673,
@@ -645,7 +805,9 @@
     "name": "HANGUL LETTER YESIEUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "есиын"],
+    "concepts": []
   },
   {
     "cp": 12674,
@@ -653,7 +815,9 @@
     "name": "HANGUL LETTER YESIEUNG-SIOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "есиын", "сиос (ㅅ)"],
+    "concepts": []
   },
   {
     "cp": 12675,
@@ -661,7 +825,9 @@
     "name": "HANGUL LETTER YESIEUNG-PANSIOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "есиын", "пансиос"],
+    "concepts": []
   },
   {
     "cp": 12676,
@@ -669,7 +835,9 @@
     "name": "HANGUL LETTER KAPYEOUNPHIEUPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "капеоунпхиеупх"],
+    "concepts": []
   },
   {
     "cp": 12677,
@@ -677,7 +845,9 @@
     "name": "HANGUL LETTER SSANGHIEUH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква"],
+    "concepts": []
   },
   {
     "cp": 12678,
@@ -685,7 +855,9 @@
     "name": "HANGUL LETTER YEORINHIEUH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ёринхиыт"],
+    "concepts": []
   },
   {
     "cp": 12679,
@@ -693,7 +865,9 @@
     "name": "HANGUL LETTER YO-YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "йо", "я"],
+    "concepts": []
   },
   {
     "cp": 12680,
@@ -701,7 +875,9 @@
     "name": "HANGUL LETTER YO-YAE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "йо", "яе"],
+    "concepts": []
   },
   {
     "cp": 12681,
@@ -709,7 +885,9 @@
     "name": "HANGUL LETTER YO-I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "йо"],
+    "concepts": []
   },
   {
     "cp": 12682,
@@ -717,7 +895,9 @@
     "name": "HANGUL LETTER YU-YEO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ю", "ё (yeo)"],
+    "concepts": []
   },
   {
     "cp": 12683,
@@ -725,7 +905,9 @@
     "name": "HANGUL LETTER YU-YE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ю", "йе"],
+    "concepts": []
   },
   {
     "cp": 12684,
@@ -733,7 +915,9 @@
     "name": "HANGUL LETTER YU-I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "ю"],
+    "concepts": []
   },
   {
     "cp": 12685,
@@ -741,7 +925,9 @@
     "name": "HANGUL LETTER ARAEA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква", "араэ"],
+    "concepts": []
   },
   {
     "cp": 12686,
@@ -749,6 +935,8 @@
     "name": "HANGUL LETTER ARAEAE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "буква"],
+    "concepts": []
   }
 ]

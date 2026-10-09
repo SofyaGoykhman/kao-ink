@@ -5,7 +5,9 @@
     "name": "MODIFIER LETTER SMALL H",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 689,
@@ -13,7 +15,9 @@
     "name": "MODIFIER LETTER SMALL H WITH HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "с", "крючок"],
+    "concepts": []
   },
   {
     "cp": 690,
@@ -21,7 +25,9 @@
     "name": "MODIFIER LETTER SMALL J",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 691,
@@ -29,7 +35,9 @@
     "name": "MODIFIER LETTER SMALL R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 692,
@@ -37,7 +45,9 @@
     "name": "MODIFIER LETTER SMALL TURNED R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "перевёрнутый"],
+    "concepts": []
   },
   {
     "cp": 693,
@@ -45,7 +55,9 @@
     "name": "MODIFIER LETTER SMALL TURNED R WITH HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "перевёрнутый", "с", "крючок"],
+    "concepts": []
   },
   {
     "cp": 694,
@@ -53,7 +65,9 @@
     "name": "MODIFIER LETTER SMALL CAPITAL INVERTED R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "заглавный", "перевёрнутый"],
+    "concepts": []
   },
   {
     "cp": 695,
@@ -61,7 +75,9 @@
     "name": "MODIFIER LETTER SMALL W",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 696,
@@ -69,7 +85,9 @@
     "name": "MODIFIER LETTER SMALL Y",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 697,
@@ -77,7 +95,9 @@
     "name": "MODIFIER LETTER PRIME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "штрих"],
+    "concepts": ["rain"]
   },
   {
     "cp": 698,
@@ -85,7 +105,9 @@
     "name": "MODIFIER LETTER DOUBLE PRIME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "двойной", "штрих"],
+    "concepts": []
   },
   {
     "cp": 699,
@@ -93,7 +115,9 @@
     "name": "MODIFIER LETTER TURNED COMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "перевёрнутый", "запятая"],
+    "concepts": ["rain"]
   },
   {
     "cp": 700,
@@ -101,7 +125,9 @@
     "name": "MODIFIER LETTER APOSTROPHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "апостроф"],
+    "concepts": []
   },
   {
     "cp": 701,
@@ -109,7 +135,9 @@
     "name": "MODIFIER LETTER REVERSED COMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "зеркальный (обратный)", "запятая"],
+    "concepts": []
   },
   {
     "cp": 702,
@@ -117,7 +145,9 @@
     "name": "MODIFIER LETTER RIGHT HALF RING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "правый (вправо)", "половина", "кольцо"],
+    "concepts": ["rain"]
   },
   {
     "cp": 703,
@@ -125,7 +155,9 @@
     "name": "MODIFIER LETTER LEFT HALF RING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "левый (влево)", "половина", "кольцо"],
+    "concepts": []
   },
   {
     "cp": 704,
@@ -133,7 +165,9 @@
     "name": "MODIFIER LETTER GLOTTAL STOP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "гортанный", "стоп"],
+    "concepts": []
   },
   {
     "cp": 705,
@@ -141,7 +175,9 @@
     "name": "MODIFIER LETTER REVERSED GLOTTAL STOP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "зеркальный (обратный)", "гортанный", "стоп"],
+    "concepts": []
   },
   {
     "cp": 706,
@@ -149,7 +185,9 @@
     "name": "MODIFIER LETTER LEFT ARROWHEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "левый (влево)", "наконечник стрелки"],
+    "concepts": []
   },
   {
     "cp": 707,
@@ -157,7 +195,9 @@
     "name": "MODIFIER LETTER RIGHT ARROWHEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "правый (вправо)", "наконечник стрелки"],
+    "concepts": []
   },
   {
     "cp": 708,
@@ -165,7 +205,9 @@
     "name": "MODIFIER LETTER UP ARROWHEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "вверх", "наконечник стрелки"],
+    "concepts": ["mountain"]
   },
   {
     "cp": 709,
@@ -173,7 +215,9 @@
     "name": "MODIFIER LETTER DOWN ARROWHEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "вниз", "наконечник стрелки"],
+    "concepts": []
   },
   {
     "cp": 710,
@@ -181,7 +225,9 @@
     "name": "MODIFIER LETTER CIRCUMFLEX ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "циркумфлекс (крышечка)", "ударение (акцент)"],
+    "concepts": []
   },
   {
     "cp": 711,
@@ -189,7 +235,9 @@
     "name": "CARON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гачек (карон)"],
+    "concepts": []
   },
   {
     "cp": 712,
@@ -197,7 +245,9 @@
     "name": "MODIFIER LETTER VERTICAL LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "вертикальный", "линия"],
+    "concepts": []
   },
   {
     "cp": 713,
@@ -205,7 +255,9 @@
     "name": "MODIFIER LETTER MACRON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "макрон (черта сверху)"],
+    "concepts": []
   },
   {
     "cp": 714,
@@ -213,7 +265,9 @@
     "name": "MODIFIER LETTER ACUTE ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "акут (ударение)", "ударение (акцент)"],
+    "concepts": []
   },
   {
     "cp": 715,
@@ -221,7 +275,9 @@
     "name": "MODIFIER LETTER GRAVE ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "гравис", "ударение (акцент)"],
+    "concepts": []
   },
   {
     "cp": 716,
@@ -229,7 +285,9 @@
     "name": "MODIFIER LETTER LOW VERTICAL LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "низкий", "вертикальный", "линия"],
+    "concepts": []
   },
   {
     "cp": 717,
@@ -237,7 +295,9 @@
     "name": "MODIFIER LETTER LOW MACRON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "низкий", "макрон (черта сверху)"],
+    "concepts": []
   },
   {
     "cp": 718,
@@ -245,7 +305,9 @@
     "name": "MODIFIER LETTER LOW GRAVE ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "низкий", "гравис", "ударение (акцент)"],
+    "concepts": []
   },
   {
     "cp": 719,
@@ -253,7 +315,9 @@
     "name": "MODIFIER LETTER LOW ACUTE ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "низкий", "акут (ударение)", "ударение (акцент)"],
+    "concepts": []
   },
   {
     "cp": 720,
@@ -261,7 +325,9 @@
     "name": "MODIFIER LETTER TRIANGULAR COLON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "треугольный", "двоеточие"],
+    "concepts": []
   },
   {
     "cp": 721,
@@ -269,7 +335,9 @@
     "name": "MODIFIER LETTER HALF TRIANGULAR COLON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "половина", "треугольный", "двоеточие"],
+    "concepts": []
   },
   {
     "cp": 722,
@@ -277,7 +345,9 @@
     "name": "MODIFIER LETTER CENTRED RIGHT HALF RING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "по центру", "правый (вправо)", "половина", "кольцо"],
+    "concepts": []
   },
   {
     "cp": 723,
@@ -285,7 +355,9 @@
     "name": "MODIFIER LETTER CENTRED LEFT HALF RING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "по центру", "левый (влево)", "половина", "кольцо"],
+    "concepts": []
   },
   {
     "cp": 724,
@@ -293,7 +365,9 @@
     "name": "MODIFIER LETTER UP TACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "вверх", "кнопка (упор)"],
+    "concepts": []
   },
   {
     "cp": 725,
@@ -301,7 +375,9 @@
     "name": "MODIFIER LETTER DOWN TACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "вниз", "кнопка (упор)"],
+    "concepts": []
   },
   {
     "cp": 726,
@@ -309,7 +385,9 @@
     "name": "MODIFIER LETTER PLUS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "плюс", "знак"],
+    "concepts": ["star-small"]
   },
   {
     "cp": 727,
@@ -317,7 +395,9 @@
     "name": "MODIFIER LETTER MINUS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "минус", "знак"],
+    "concepts": []
   },
   {
     "cp": 728,
@@ -325,7 +405,9 @@
     "name": "BREVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бреве (кратка)"],
+    "concepts": ["kiss"]
   },
   {
     "cp": 729,
@@ -333,7 +415,9 @@
     "name": "DOT ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["точка", "сверху"],
+    "concepts": []
   },
   {
     "cp": 730,
@@ -341,7 +425,9 @@
     "name": "RING ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кольцо", "сверху"],
+    "concepts": ["star-small", "sparkle", "constellation", "night", "drop"]
   },
   {
     "cp": 731,
@@ -349,7 +435,9 @@
     "name": "OGONEK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["огонэк"],
+    "concepts": []
   },
   {
     "cp": 732,
@@ -357,7 +445,9 @@
     "name": "SMALL TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "тильда"],
+    "concepts": []
   },
   {
     "cp": 733,
@@ -365,7 +455,9 @@
     "name": "DOUBLE ACUTE ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["двойной", "акут (ударение)", "ударение (акцент)"],
+    "concepts": []
   },
   {
     "cp": 734,
@@ -373,7 +465,9 @@
     "name": "MODIFIER LETTER RHOTIC HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "крючок"],
+    "concepts": []
   },
   {
     "cp": 735,
@@ -381,7 +475,9 @@
     "name": "MODIFIER LETTER CROSS ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "крест", "ударение (акцент)"],
+    "concepts": []
   },
   {
     "cp": 736,
@@ -389,7 +485,9 @@
     "name": "MODIFIER LETTER SMALL GAMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)", "гамма"],
+    "concepts": []
   },
   {
     "cp": 737,
@@ -397,7 +495,9 @@
     "name": "MODIFIER LETTER SMALL L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 738,
@@ -405,7 +505,9 @@
     "name": "MODIFIER LETTER SMALL S",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 739,
@@ -413,7 +515,9 @@
     "name": "MODIFIER LETTER SMALL X",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 740,
@@ -421,7 +525,16 @@
     "name": "MODIFIER LETTER SMALL REVERSED GLOTTAL STOP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "модификатор",
+      "буква",
+      "маленький (строчный)",
+      "зеркальный (обратный)",
+      "гортанный",
+      "стоп"
+    ],
+    "concepts": []
   },
   {
     "cp": 741,
@@ -429,7 +542,9 @@
     "name": "MODIFIER LETTER EXTRA-HIGH TONE BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "сверх", "высокий", "тон", "черта"],
+    "concepts": []
   },
   {
     "cp": 742,
@@ -437,7 +552,9 @@
     "name": "MODIFIER LETTER HIGH TONE BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "высокий", "тон", "черта"],
+    "concepts": []
   },
   {
     "cp": 743,
@@ -445,7 +562,9 @@
     "name": "MODIFIER LETTER MID TONE BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "средний", "тон", "черта"],
+    "concepts": []
   },
   {
     "cp": 744,
@@ -453,7 +572,9 @@
     "name": "MODIFIER LETTER LOW TONE BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "низкий", "тон", "черта"],
+    "concepts": []
   },
   {
     "cp": 745,
@@ -461,7 +582,9 @@
     "name": "MODIFIER LETTER EXTRA-LOW TONE BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "сверх", "низкий", "тон", "черта"],
+    "concepts": []
   },
   {
     "cp": 746,
@@ -469,7 +592,9 @@
     "name": "MODIFIER LETTER YIN DEPARTING TONE MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "инь", "уходящий", "тон", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 747,
@@ -477,7 +602,9 @@
     "name": "MODIFIER LETTER YANG DEPARTING TONE MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "ян", "уходящий", "тон", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 748,
@@ -485,7 +612,9 @@
     "name": "MODIFIER LETTER VOICING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "озвончение"],
+    "concepts": []
   },
   {
     "cp": 749,
@@ -493,7 +622,9 @@
     "name": "MODIFIER LETTER UNASPIRATED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква"],
+    "concepts": []
   },
   {
     "cp": 750,
@@ -501,7 +632,9 @@
     "name": "MODIFIER LETTER DOUBLE APOSTROPHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "двойной", "апостроф"],
+    "concepts": []
   },
   {
     "cp": 751,
@@ -509,7 +642,9 @@
     "name": "MODIFIER LETTER LOW DOWN ARROWHEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "низкий", "вниз", "наконечник стрелки"],
+    "concepts": []
   },
   {
     "cp": 752,
@@ -517,7 +652,9 @@
     "name": "MODIFIER LETTER LOW UP ARROWHEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "низкий", "вверх", "наконечник стрелки"],
+    "concepts": []
   },
   {
     "cp": 753,
@@ -525,7 +662,9 @@
     "name": "MODIFIER LETTER LOW LEFT ARROWHEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "низкий", "левый (влево)", "наконечник стрелки"],
+    "concepts": []
   },
   {
     "cp": 754,
@@ -533,7 +672,9 @@
     "name": "MODIFIER LETTER LOW RIGHT ARROWHEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "низкий", "правый (вправо)", "наконечник стрелки"],
+    "concepts": []
   },
   {
     "cp": 755,
@@ -541,7 +682,9 @@
     "name": "MODIFIER LETTER LOW RING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "низкий", "кольцо"],
+    "concepts": []
   },
   {
     "cp": 756,
@@ -549,7 +692,9 @@
     "name": "MODIFIER LETTER MIDDLE GRAVE ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "средний", "гравис", "ударение (акцент)"],
+    "concepts": []
   },
   {
     "cp": 757,
@@ -557,7 +702,9 @@
     "name": "MODIFIER LETTER MIDDLE DOUBLE GRAVE ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "средний", "двойной", "гравис", "ударение (акцент)"],
+    "concepts": []
   },
   {
     "cp": 758,
@@ -565,7 +712,9 @@
     "name": "MODIFIER LETTER MIDDLE DOUBLE ACUTE ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "средний", "двойной", "акут (ударение)", "ударение (акцент)"],
+    "concepts": []
   },
   {
     "cp": 759,
@@ -573,7 +722,9 @@
     "name": "MODIFIER LETTER LOW TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "низкий", "тильда"],
+    "concepts": []
   },
   {
     "cp": 760,
@@ -581,7 +732,9 @@
     "name": "MODIFIER LETTER RAISED COLON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "поднятый", "двоеточие"],
+    "concepts": []
   },
   {
     "cp": 761,
@@ -589,7 +742,9 @@
     "name": "MODIFIER LETTER BEGIN HIGH TONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "начало", "высокий", "тон"],
+    "concepts": []
   },
   {
     "cp": 762,
@@ -597,7 +752,9 @@
     "name": "MODIFIER LETTER END HIGH TONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "конец", "высокий", "тон"],
+    "concepts": []
   },
   {
     "cp": 763,
@@ -605,7 +762,9 @@
     "name": "MODIFIER LETTER BEGIN LOW TONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "начало", "низкий", "тон"],
+    "concepts": []
   },
   {
     "cp": 764,
@@ -613,7 +772,9 @@
     "name": "MODIFIER LETTER END LOW TONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "конец", "низкий", "тон"],
+    "concepts": []
   },
   {
     "cp": 765,
@@ -621,7 +782,9 @@
     "name": "MODIFIER LETTER SHELF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "полка"],
+    "concepts": []
   },
   {
     "cp": 766,
@@ -629,7 +792,9 @@
     "name": "MODIFIER LETTER OPEN SHELF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "открытый", "полка"],
+    "concepts": []
   },
   {
     "cp": 767,
@@ -637,6 +802,8 @@
     "name": "MODIFIER LETTER LOW LEFT ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["модификатор", "буква", "низкий", "левый (влево)", "стрелка"],
+    "concepts": []
   }
 ]

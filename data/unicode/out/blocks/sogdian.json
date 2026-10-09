@@ -5,7 +5,9 @@
     "name": "SOGDIAN LETTER ALEPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква", "алеф"],
+    "concepts": []
   },
   {
     "cp": 69425,
@@ -13,7 +15,9 @@
     "name": "SOGDIAN LETTER BETH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква", "бет"],
+    "concepts": []
   },
   {
     "cp": 69426,
@@ -21,7 +25,9 @@
     "name": "SOGDIAN LETTER GIMEL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква", "гимель"],
+    "concepts": []
   },
   {
     "cp": 69427,
@@ -29,7 +35,9 @@
     "name": "SOGDIAN LETTER HE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква", "хе"],
+    "concepts": []
   },
   {
     "cp": 69428,
@@ -37,7 +45,9 @@
     "name": "SOGDIAN LETTER WAW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква", "вав"],
+    "concepts": []
   },
   {
     "cp": 69429,
@@ -45,7 +55,9 @@
     "name": "SOGDIAN LETTER ZAYIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква", "зайин"],
+    "concepts": []
   },
   {
     "cp": 69430,
@@ -53,7 +65,9 @@
     "name": "SOGDIAN LETTER HETH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква", "хет"],
+    "concepts": []
   },
   {
     "cp": 69431,
@@ -61,7 +75,9 @@
     "name": "SOGDIAN LETTER YODH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква", "йод"],
+    "concepts": []
   },
   {
     "cp": 69432,
@@ -69,7 +85,9 @@
     "name": "SOGDIAN LETTER KAPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква", "каф"],
+    "concepts": []
   },
   {
     "cp": 69433,
@@ -77,7 +95,9 @@
     "name": "SOGDIAN LETTER LAMEDH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква", "ламед"],
+    "concepts": []
   },
   {
     "cp": 69434,
@@ -85,7 +105,9 @@
     "name": "SOGDIAN LETTER MEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква", "мем"],
+    "concepts": []
   },
   {
     "cp": 69435,
@@ -93,7 +115,9 @@
     "name": "SOGDIAN LETTER NUN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква", "нун"],
+    "concepts": []
   },
   {
     "cp": 69436,
@@ -101,7 +125,9 @@
     "name": "SOGDIAN LETTER SAMEKH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква", "самех"],
+    "concepts": []
   },
   {
     "cp": 69437,
@@ -109,7 +135,9 @@
     "name": "SOGDIAN LETTER AYIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква", "айин"],
+    "concepts": []
   },
   {
     "cp": 69438,
@@ -117,7 +145,9 @@
     "name": "SOGDIAN LETTER PE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква", "пе"],
+    "concepts": []
   },
   {
     "cp": 69439,
@@ -125,7 +155,9 @@
     "name": "SOGDIAN LETTER SADHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква", "цади"],
+    "concepts": []
   },
   {
     "cp": 69440,
@@ -133,7 +165,9 @@
     "name": "SOGDIAN LETTER RESH-AYIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква", "реш", "айин"],
+    "concepts": []
   },
   {
     "cp": 69441,
@@ -141,7 +175,9 @@
     "name": "SOGDIAN LETTER SHIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква", "шин"],
+    "concepts": []
   },
   {
     "cp": 69442,
@@ -149,7 +185,9 @@
     "name": "SOGDIAN LETTER TAW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква", "тав"],
+    "concepts": []
   },
   {
     "cp": 69443,
@@ -157,7 +195,9 @@
     "name": "SOGDIAN LETTER FETH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква"],
+    "concepts": []
   },
   {
     "cp": 69444,
@@ -165,7 +205,9 @@
     "name": "SOGDIAN LETTER LESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "буква"],
+    "concepts": []
   },
   {
     "cp": 69445,
@@ -173,7 +215,9 @@
     "name": "SOGDIAN INDEPENDENT SHIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "независимый", "шин"],
+    "concepts": []
   },
   {
     "cp": 69446,
@@ -181,7 +225,9 @@
     "name": "SOGDIAN COMBINING DOT BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "комбинируемый", "точка", "снизу"],
+    "concepts": []
   },
   {
     "cp": 69447,
@@ -189,7 +235,9 @@
     "name": "SOGDIAN COMBINING TWO DOTS BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "комбинируемый", "два", "точки", "снизу"],
+    "concepts": []
   },
   {
     "cp": 69448,
@@ -197,7 +245,9 @@
     "name": "SOGDIAN COMBINING DOT ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "комбинируемый", "точка", "сверху"],
+    "concepts": []
   },
   {
     "cp": 69449,
@@ -205,7 +255,9 @@
     "name": "SOGDIAN COMBINING TWO DOTS ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "комбинируемый", "два", "точки", "сверху"],
+    "concepts": []
   },
   {
     "cp": 69450,
@@ -213,7 +265,9 @@
     "name": "SOGDIAN COMBINING CURVE ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "комбинируемый", "кривая", "сверху"],
+    "concepts": []
   },
   {
     "cp": 69451,
@@ -221,7 +275,9 @@
     "name": "SOGDIAN COMBINING CURVE BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "комбинируемый", "кривая", "снизу"],
+    "concepts": []
   },
   {
     "cp": 69452,
@@ -229,7 +285,9 @@
     "name": "SOGDIAN COMBINING HOOK ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "комбинируемый", "крючок", "сверху"],
+    "concepts": []
   },
   {
     "cp": 69453,
@@ -237,7 +295,9 @@
     "name": "SOGDIAN COMBINING HOOK BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "комбинируемый", "крючок", "снизу"],
+    "concepts": []
   },
   {
     "cp": 69454,
@@ -245,7 +305,9 @@
     "name": "SOGDIAN COMBINING LONG HOOK BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "комбинируемый", "длинный", "крючок", "снизу"],
+    "concepts": []
   },
   {
     "cp": 69455,
@@ -253,7 +315,9 @@
     "name": "SOGDIAN COMBINING RESH BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "комбинируемый", "реш", "снизу"],
+    "concepts": []
   },
   {
     "cp": 69456,
@@ -261,7 +325,9 @@
     "name": "SOGDIAN COMBINING STROKE BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "комбинируемый", "черта (штрих)", "снизу"],
+    "concepts": []
   },
   {
     "cp": 69457,
@@ -269,7 +335,9 @@
     "name": "SOGDIAN NUMBER ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "число", "один"],
+    "concepts": []
   },
   {
     "cp": 69458,
@@ -277,7 +345,9 @@
     "name": "SOGDIAN NUMBER TEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "число", "десять"],
+    "concepts": []
   },
   {
     "cp": 69459,
@@ -285,7 +355,9 @@
     "name": "SOGDIAN NUMBER TWENTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "число", "двадцать"],
+    "concepts": []
   },
   {
     "cp": 69460,
@@ -293,7 +365,9 @@
     "name": "SOGDIAN NUMBER ONE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "число", "один", "сто"],
+    "concepts": []
   },
   {
     "cp": 69461,
@@ -301,7 +375,9 @@
     "name": "SOGDIAN PUNCTUATION TWO VERTICAL BARS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "пунктуация", "два", "вертикальный", "черты (полоски)"],
+    "concepts": []
   },
   {
     "cp": 69462,
@@ -309,7 +385,9 @@
     "name": "SOGDIAN PUNCTUATION TWO VERTICAL BARS WITH DOTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "пунктуация", "два", "вертикальный", "черты (полоски)", "с", "точки"],
+    "concepts": []
   },
   {
     "cp": 69463,
@@ -317,7 +395,9 @@
     "name": "SOGDIAN PUNCTUATION CIRCLE WITH DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "пунктуация", "круг", "с", "точка"],
+    "concepts": []
   },
   {
     "cp": 69464,
@@ -325,7 +405,9 @@
     "name": "SOGDIAN PUNCTUATION TWO CIRCLES WITH DOTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "пунктуация", "два", "круги", "с", "точки"],
+    "concepts": []
   },
   {
     "cp": 69465,
@@ -333,6 +415,8 @@
     "name": "SOGDIAN PUNCTUATION HALF CIRCLE WITH DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["согдийский", "пунктуация", "половина", "круг", "с", "точка"],
+    "concepts": []
   }
 ]

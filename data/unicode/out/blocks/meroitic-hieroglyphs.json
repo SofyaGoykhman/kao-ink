@@ -5,7 +5,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква"],
+    "concepts": []
   },
   {
     "cp": 67969,
@@ -13,7 +15,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква"],
+    "concepts": []
   },
   {
     "cp": 67970,
@@ -21,7 +25,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква"],
+    "concepts": []
   },
   {
     "cp": 67971,
@@ -29,7 +35,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква"],
+    "concepts": []
   },
   {
     "cp": 67972,
@@ -37,7 +45,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 67973,
@@ -45,7 +55,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER WA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "ва"],
+    "concepts": []
   },
   {
     "cp": 67974,
@@ -53,7 +65,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER BA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "ба"],
+    "concepts": []
   },
   {
     "cp": 67975,
@@ -61,7 +75,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER BA-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "ба"],
+    "concepts": []
   },
   {
     "cp": 67976,
@@ -69,7 +85,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "па"],
+    "concepts": []
   },
   {
     "cp": 67977,
@@ -77,7 +95,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 67978,
@@ -85,7 +105,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 67979,
@@ -93,7 +115,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER NA-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 67980,
@@ -101,7 +125,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER NE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "не"],
+    "concepts": []
   },
   {
     "cp": 67981,
@@ -109,7 +135,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER NE-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "не"],
+    "concepts": []
   },
   {
     "cp": 67982,
@@ -117,7 +145,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 67983,
@@ -125,7 +155,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER RA-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 67984,
@@ -133,7 +165,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "ла"],
+    "concepts": []
   },
   {
     "cp": 67985,
@@ -141,7 +175,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER KHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "кха"],
+    "concepts": []
   },
   {
     "cp": 67986,
@@ -149,7 +185,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER HHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "хха"],
+    "concepts": []
   },
   {
     "cp": 67987,
@@ -157,7 +195,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 67988,
@@ -165,7 +205,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER SA-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 67989,
@@ -173,7 +215,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER SE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "се"],
+    "concepts": []
   },
   {
     "cp": 67990,
@@ -181,7 +225,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 67991,
@@ -189,7 +235,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER QA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "ка (qa)"],
+    "concepts": []
   },
   {
     "cp": 67992,
@@ -197,7 +245,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 67993,
@@ -205,7 +255,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER TA-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 67994,
@@ -213,7 +265,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER TE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "те"],
+    "concepts": []
   },
   {
     "cp": 67995,
@@ -221,7 +275,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER TE-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "те"],
+    "concepts": []
   },
   {
     "cp": 67996,
@@ -229,7 +285,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "к"],
+    "concepts": []
   },
   {
     "cp": 67997,
@@ -237,7 +295,9 @@
     "name": "MEROITIC HIEROGLYPHIC LETTER DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "буква", "да"],
+    "concepts": []
   },
   {
     "cp": 67998,
@@ -245,7 +305,9 @@
     "name": "MEROITIC HIEROGLYPHIC SYMBOL VIDJ",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "символ"],
+    "concepts": []
   },
   {
     "cp": 67999,
@@ -253,6 +315,8 @@
     "name": "MEROITIC HIEROGLYPHIC SYMBOL VIDJ-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "иероглифический", "символ"],
+    "concepts": []
   }
 ]
