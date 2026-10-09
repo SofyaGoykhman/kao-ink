@@ -50,7 +50,9 @@ for (const block of readJson(join(OUT, 'blocks.json'))) {
 const emojiPresentation = new Set();
 if (existsSync(EMOJI_DATA)) {
   for (const line of readFileSync(EMOJI_DATA, 'utf8').split('\n')) {
-    const m = line.match(/^([0-9A-F]{4,6})(?:\.\.([0-9A-F]{4,6}))?\s*;\s*Emoji_Presentation\s*(#|$)/);
+    const m = line.match(
+      /^([0-9A-F]{4,6})(?:\.\.([0-9A-F]{4,6}))?\s*;\s*Emoji_Presentation\s*(#|$)/,
+    );
     if (!m) continue;
     const last = parseInt(m[2] ?? m[1], 16);
     for (let cp = parseInt(m[1], 16); cp <= last; cp++) emojiPresentation.add(cp);
@@ -66,8 +68,11 @@ const counts = [];
 if (!Array.isArray(concepts)) fail('concepts.json: not an array');
 for (const [i, c] of (Array.isArray(concepts) ? concepts : []).entries()) {
   const at = `concepts[${i}]${c?.id ? ` (${c.id})` : ''}`;
-  const keys = Object.keys(c ?? {}).sort().join(',');
-  if (keys !== 'chars,en,id,like,ru') fail(`${at}: keys must be id, ru, en, chars, like (got ${keys})`);
+  const keys = Object.keys(c ?? {})
+    .sort()
+    .join(',');
+  if (keys !== 'chars,en,id,like,ru')
+    fail(`${at}: keys must be id, ru, en, chars, like (got ${keys})`);
   if (typeof c.id !== 'string' || !/^[a-z0-9]+(-[a-z0-9]+)*$/.test(c.id)) fail(`${at}: bad id`);
   else if (ids.has(c.id)) fail(`${at}: duplicate id`);
   ids.add(c.id);
@@ -80,7 +85,8 @@ for (const [i, c] of (Array.isArray(concepts) ? concepts : []).entries()) {
     }
     const seen = new Set();
     for (const t of terms) {
-      if (typeof t !== 'string' || !t.trim() || t !== t.trim()) fail(`${at}: bad ${lang} term "${t}"`);
+      if (typeof t !== 'string' || !t.trim() || t !== t.trim())
+        fail(`${at}: bad ${lang} term "${t}"`);
       else if (t !== t.toLowerCase()) fail(`${at}: ${lang} term not lowercase "${t}"`);
       else if (seen.has(t)) fail(`${at}: duplicate ${lang} term "${t}"`);
       seen.add(t);
@@ -96,7 +102,8 @@ for (const [i, c] of (Array.isArray(concepts) ? concepts : []).entries()) {
     for (const ch of c[field]) {
       const cp = typeof ch === 'string' ? ch.codePointAt(0) : NaN;
       const hex = Number.isNaN(cp) ? '?' : `U+${cp.toString(16).toUpperCase().padStart(4, '0')}`;
-      if (typeof ch !== 'string' || [...ch].length !== 1) fail(`${at}: ${field} "${ch}" is not one code point`);
+      if (typeof ch !== 'string' || [...ch].length !== 1)
+        fail(`${at}: ${field} "${ch}" is not one code point`);
       else if (seenChars.has(ch)) fail(`${at}: duplicate ${ch} ${hex}`);
       else if (emojiPresentation.has(cp)) fail(`${at}: ${ch} ${hex} is Emoji_Presentation`);
       else if (!catalog.has(ch)) fail(`${at}: ${ch} ${hex} is not in out/blocks`);
@@ -131,7 +138,9 @@ const median = sorted.length ? sorted[Math.floor(sorted.length / 2)] : 0;
 const pct = (a, b) => (b ? ((100 * a) / b).toFixed(1) : '100.0');
 const distinct = new Set(concepts.flatMap((c) => [...(c.chars ?? []), ...(c.like ?? [])]));
 console.log(`concepts: ${concepts.length}, distinct chars: ${distinct.size}`);
-console.log(`chars+like per concept: min ${sorted[0] ?? 0}, median ${median}, max ${sorted.at(-1) ?? 0}`);
+console.log(
+  `chars+like per concept: min ${sorted[0] ?? 0}, median ${median}, max ${sorted.at(-1) ?? 0}`,
+);
 console.log(
   `words-ru: ${Object.keys(words).length} tokens; non-script coverage ${needed.length - missing.length}/${needed.length} (${pct(needed.length - missing.length, needed.length)}%); top-1500 script tokens ${scriptCovered}/${scriptTop.length} (${pct(scriptCovered, scriptTop.length)}%)`,
 );
