@@ -5,7 +5,9 @@
     "name": "GRANTHA SIGN COMBINING ANUSVARA ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "знак", "комбинируемый", "анусвара", "сверху"],
+    "concepts": []
   },
   {
     "cp": 70401,
@@ -13,7 +15,9 @@
     "name": "GRANTHA SIGN CANDRABINDU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "знак", "чандрабинду"],
+    "concepts": []
   },
   {
     "cp": 70402,
@@ -21,7 +25,9 @@
     "name": "GRANTHA SIGN ANUSVARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "знак", "анусвара"],
+    "concepts": []
   },
   {
     "cp": 70403,
@@ -29,7 +35,9 @@
     "name": "GRANTHA SIGN VISARGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "знак", "висарга"],
+    "concepts": []
   },
   {
     "cp": 70405,
@@ -37,7 +45,9 @@
     "name": "GRANTHA LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква"],
+    "concepts": []
   },
   {
     "cp": 70406,
@@ -45,7 +55,9 @@
     "name": "GRANTHA LETTER AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "аа"],
+    "concepts": []
   },
   {
     "cp": 70407,
@@ -53,7 +65,9 @@
     "name": "GRANTHA LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква"],
+    "concepts": []
   },
   {
     "cp": 70408,
@@ -61,7 +75,9 @@
     "name": "GRANTHA LETTER II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "ии"],
+    "concepts": []
   },
   {
     "cp": 70409,
@@ -69,7 +85,9 @@
     "name": "GRANTHA LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква"],
+    "concepts": []
   },
   {
     "cp": 70410,
@@ -77,7 +95,9 @@
     "name": "GRANTHA LETTER UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "уу"],
+    "concepts": []
   },
   {
     "cp": 70411,
@@ -85,7 +105,9 @@
     "name": "GRANTHA LETTER VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 70412,
@@ -93,7 +115,9 @@
     "name": "GRANTHA LETTER VOCALIC L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 70415,
@@ -101,7 +125,9 @@
     "name": "GRANTHA LETTER EE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "ее"],
+    "concepts": []
   },
   {
     "cp": 70416,
@@ -109,7 +135,9 @@
     "name": "GRANTHA LETTER AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "аи"],
+    "concepts": []
   },
   {
     "cp": 70419,
@@ -117,7 +145,9 @@
     "name": "GRANTHA LETTER OO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "оо"],
+    "concepts": []
   },
   {
     "cp": 70420,
@@ -125,7 +155,9 @@
     "name": "GRANTHA LETTER AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "ау"],
+    "concepts": []
   },
   {
     "cp": 70421,
@@ -133,7 +165,9 @@
     "name": "GRANTHA LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 70422,
@@ -141,7 +175,9 @@
     "name": "GRANTHA LETTER KHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "кха"],
+    "concepts": []
   },
   {
     "cp": 70423,
@@ -149,7 +185,9 @@
     "name": "GRANTHA LETTER GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "га"],
+    "concepts": []
   },
   {
     "cp": 70424,
@@ -157,7 +195,9 @@
     "name": "GRANTHA LETTER GHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "гха"],
+    "concepts": []
   },
   {
     "cp": 70425,
@@ -165,7 +205,9 @@
     "name": "GRANTHA LETTER NGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "нга"],
+    "concepts": []
   },
   {
     "cp": 70426,
@@ -173,7 +215,9 @@
     "name": "GRANTHA LETTER CA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 70427,
@@ -181,7 +225,9 @@
     "name": "GRANTHA LETTER CHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 70428,
@@ -189,7 +235,9 @@
     "name": "GRANTHA LETTER JA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "джа"],
+    "concepts": []
   },
   {
     "cp": 70429,
@@ -197,7 +245,9 @@
     "name": "GRANTHA LETTER JHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "джха"],
+    "concepts": []
   },
   {
     "cp": 70430,
@@ -205,7 +255,9 @@
     "name": "GRANTHA LETTER NYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "ня"],
+    "concepts": []
   },
   {
     "cp": 70431,
@@ -213,7 +265,9 @@
     "name": "GRANTHA LETTER TTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "тта"],
+    "concepts": []
   },
   {
     "cp": 70432,
@@ -221,7 +275,9 @@
     "name": "GRANTHA LETTER TTHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "ттха"],
+    "concepts": []
   },
   {
     "cp": 70433,
@@ -229,7 +285,9 @@
     "name": "GRANTHA LETTER DDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "дда"],
+    "concepts": []
   },
   {
     "cp": 70434,
@@ -237,7 +295,9 @@
     "name": "GRANTHA LETTER DDHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "ддха"],
+    "concepts": []
   },
   {
     "cp": 70435,
@@ -245,7 +305,9 @@
     "name": "GRANTHA LETTER NNA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "нна"],
+    "concepts": []
   },
   {
     "cp": 70436,
@@ -253,7 +315,9 @@
     "name": "GRANTHA LETTER TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 70437,
@@ -261,7 +325,9 @@
     "name": "GRANTHA LETTER THA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "тха"],
+    "concepts": []
   },
   {
     "cp": 70438,
@@ -269,7 +335,9 @@
     "name": "GRANTHA LETTER DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "да"],
+    "concepts": []
   },
   {
     "cp": 70439,
@@ -277,7 +345,9 @@
     "name": "GRANTHA LETTER DHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "дха"],
+    "concepts": []
   },
   {
     "cp": 70440,
@@ -285,7 +355,9 @@
     "name": "GRANTHA LETTER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 70442,
@@ -293,7 +365,9 @@
     "name": "GRANTHA LETTER PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "па"],
+    "concepts": []
   },
   {
     "cp": 70443,
@@ -301,7 +375,9 @@
     "name": "GRANTHA LETTER PHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "пха"],
+    "concepts": []
   },
   {
     "cp": 70444,
@@ -309,7 +385,9 @@
     "name": "GRANTHA LETTER BA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "ба"],
+    "concepts": []
   },
   {
     "cp": 70445,
@@ -317,7 +395,9 @@
     "name": "GRANTHA LETTER BHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "бха"],
+    "concepts": []
   },
   {
     "cp": 70446,
@@ -325,7 +405,9 @@
     "name": "GRANTHA LETTER MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 70447,
@@ -333,7 +415,9 @@
     "name": "GRANTHA LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 70448,
@@ -341,7 +425,9 @@
     "name": "GRANTHA LETTER RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 70450,
@@ -349,7 +435,9 @@
     "name": "GRANTHA LETTER LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "ла"],
+    "concepts": []
   },
   {
     "cp": 70451,
@@ -357,7 +445,9 @@
     "name": "GRANTHA LETTER LLA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "лла"],
+    "concepts": []
   },
   {
     "cp": 70453,
@@ -365,7 +455,9 @@
     "name": "GRANTHA LETTER VA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "ва"],
+    "concepts": []
   },
   {
     "cp": 70454,
@@ -373,7 +465,9 @@
     "name": "GRANTHA LETTER SHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "ша"],
+    "concepts": []
   },
   {
     "cp": 70455,
@@ -381,7 +475,9 @@
     "name": "GRANTHA LETTER SSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "сса"],
+    "concepts": []
   },
   {
     "cp": 70456,
@@ -389,7 +485,9 @@
     "name": "GRANTHA LETTER SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 70457,
@@ -397,7 +495,9 @@
     "name": "GRANTHA LETTER HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 70459,
@@ -405,7 +505,9 @@
     "name": "COMBINING BINDU BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "бинду", "снизу"],
+    "concepts": []
   },
   {
     "cp": 70460,
@@ -413,7 +515,9 @@
     "name": "GRANTHA SIGN NUKTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "знак", "нукта"],
+    "concepts": []
   },
   {
     "cp": 70461,
@@ -421,7 +525,9 @@
     "name": "GRANTHA SIGN AVAGRAHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "знак", "аваграха"],
+    "concepts": []
   },
   {
     "cp": 70462,
@@ -429,7 +535,9 @@
     "name": "GRANTHA VOWEL SIGN AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "гласная", "знак", "аа"],
+    "concepts": []
   },
   {
     "cp": 70463,
@@ -437,7 +545,9 @@
     "name": "GRANTHA VOWEL SIGN I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 70464,
@@ -445,7 +555,9 @@
     "name": "GRANTHA VOWEL SIGN II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "гласная", "знак", "ии"],
+    "concepts": []
   },
   {
     "cp": 70465,
@@ -453,7 +565,9 @@
     "name": "GRANTHA VOWEL SIGN U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 70466,
@@ -461,7 +575,9 @@
     "name": "GRANTHA VOWEL SIGN UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "гласная", "знак", "уу"],
+    "concepts": []
   },
   {
     "cp": 70467,
@@ -469,7 +585,9 @@
     "name": "GRANTHA VOWEL SIGN VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "гласная", "знак", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 70468,
@@ -477,7 +595,9 @@
     "name": "GRANTHA VOWEL SIGN VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "гласная", "знак", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 70471,
@@ -485,7 +605,9 @@
     "name": "GRANTHA VOWEL SIGN EE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "гласная", "знак", "ее"],
+    "concepts": []
   },
   {
     "cp": 70472,
@@ -493,7 +615,9 @@
     "name": "GRANTHA VOWEL SIGN AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "гласная", "знак", "аи"],
+    "concepts": []
   },
   {
     "cp": 70475,
@@ -501,7 +625,9 @@
     "name": "GRANTHA VOWEL SIGN OO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "гласная", "знак", "оо"],
+    "concepts": []
   },
   {
     "cp": 70476,
@@ -509,7 +635,9 @@
     "name": "GRANTHA VOWEL SIGN AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "гласная", "знак", "ау"],
+    "concepts": []
   },
   {
     "cp": 70477,
@@ -517,7 +645,9 @@
     "name": "GRANTHA SIGN VIRAMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "знак", "вирама"],
+    "concepts": []
   },
   {
     "cp": 70480,
@@ -525,7 +655,9 @@
     "name": "GRANTHA OM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "ом (ॐ)"],
+    "concepts": []
   },
   {
     "cp": 70487,
@@ -533,7 +665,9 @@
     "name": "GRANTHA AU LENGTH MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "ау", "долгота", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 70493,
@@ -541,7 +675,9 @@
     "name": "GRANTHA SIGN PLUTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "знак", "плута"],
+    "concepts": []
   },
   {
     "cp": 70494,
@@ -549,7 +685,9 @@
     "name": "GRANTHA LETTER VEDIC ANUSVARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "ведический", "анусвара"],
+    "concepts": []
   },
   {
     "cp": 70495,
@@ -557,7 +695,9 @@
     "name": "GRANTHA LETTER VEDIC DOUBLE ANUSVARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "ведический", "двойной", "анусвара"],
+    "concepts": []
   },
   {
     "cp": 70496,
@@ -565,7 +705,9 @@
     "name": "GRANTHA LETTER VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 70497,
@@ -573,7 +715,9 @@
     "name": "GRANTHA LETTER VOCALIC LL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "буква", "слоговой (вокалический)", "лл"],
+    "concepts": []
   },
   {
     "cp": 70498,
@@ -581,7 +725,9 @@
     "name": "GRANTHA VOWEL SIGN VOCALIC L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "гласная", "знак", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 70499,
@@ -589,7 +735,9 @@
     "name": "GRANTHA VOWEL SIGN VOCALIC LL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["грантха", "гласная", "знак", "слоговой (вокалический)", "лл"],
+    "concepts": []
   },
   {
     "cp": 70502,
@@ -597,7 +745,9 @@
     "name": "COMBINING GRANTHA DIGIT ZERO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "грантха", "цифра", "ноль"],
+    "concepts": []
   },
   {
     "cp": 70503,
@@ -605,7 +755,9 @@
     "name": "COMBINING GRANTHA DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "грантха", "цифра", "один"],
+    "concepts": []
   },
   {
     "cp": 70504,
@@ -613,7 +765,9 @@
     "name": "COMBINING GRANTHA DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "грантха", "цифра", "два"],
+    "concepts": []
   },
   {
     "cp": 70505,
@@ -621,7 +775,9 @@
     "name": "COMBINING GRANTHA DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "грантха", "цифра", "три"],
+    "concepts": []
   },
   {
     "cp": 70506,
@@ -629,7 +785,9 @@
     "name": "COMBINING GRANTHA DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "грантха", "цифра", "четыре"],
+    "concepts": []
   },
   {
     "cp": 70507,
@@ -637,7 +795,9 @@
     "name": "COMBINING GRANTHA DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "грантха", "цифра", "пять"],
+    "concepts": []
   },
   {
     "cp": 70508,
@@ -645,7 +805,9 @@
     "name": "COMBINING GRANTHA DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "грантха", "цифра", "шесть"],
+    "concepts": []
   },
   {
     "cp": 70512,
@@ -653,7 +815,9 @@
     "name": "COMBINING GRANTHA LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "грантха", "буква"],
+    "concepts": []
   },
   {
     "cp": 70513,
@@ -661,7 +825,9 @@
     "name": "COMBINING GRANTHA LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "грантха", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 70514,
@@ -669,7 +835,9 @@
     "name": "COMBINING GRANTHA LETTER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "грантха", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 70515,
@@ -677,7 +845,9 @@
     "name": "COMBINING GRANTHA LETTER VI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "грантха", "буква", "ви"],
+    "concepts": []
   },
   {
     "cp": 70516,
@@ -685,6 +855,8 @@
     "name": "COMBINING GRANTHA LETTER PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "грантха", "буква", "па"],
+    "concepts": []
   }
 ]

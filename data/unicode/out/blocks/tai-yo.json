@@ -5,7 +5,9 @@
     "name": "TAI YO LETTER LOW KO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "низкий", "ко"],
+    "concepts": []
   },
   {
     "cp": 124609,
@@ -13,7 +15,9 @@
     "name": "TAI YO LETTER HIGH KO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "высокий", "ко"],
+    "concepts": []
   },
   {
     "cp": 124610,
@@ -21,7 +25,9 @@
     "name": "TAI YO LETTER LOW KHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "низкий", "кхо"],
+    "concepts": []
   },
   {
     "cp": 124611,
@@ -29,7 +35,9 @@
     "name": "TAI YO LETTER HIGH KHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "высокий", "кхо"],
+    "concepts": []
   },
   {
     "cp": 124612,
@@ -37,7 +45,9 @@
     "name": "TAI YO LETTER GO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "го"],
+    "concepts": []
   },
   {
     "cp": 124613,
@@ -45,7 +55,9 @@
     "name": "TAI YO LETTER NGO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "нго"],
+    "concepts": []
   },
   {
     "cp": 124614,
@@ -53,7 +65,9 @@
     "name": "TAI YO LETTER CO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "цо"],
+    "concepts": []
   },
   {
     "cp": 124615,
@@ -61,7 +75,9 @@
     "name": "TAI YO LETTER LOW XO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "низкий", "ксо"],
+    "concepts": []
   },
   {
     "cp": 124616,
@@ -69,7 +85,9 @@
     "name": "TAI YO LETTER HIGH XO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "высокий", "ксо"],
+    "concepts": []
   },
   {
     "cp": 124617,
@@ -77,7 +95,9 @@
     "name": "TAI YO LETTER LOW NYO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "низкий", "ньо"],
+    "concepts": []
   },
   {
     "cp": 124618,
@@ -85,7 +105,9 @@
     "name": "TAI YO LETTER HIGH NYO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "высокий", "ньо"],
+    "concepts": []
   },
   {
     "cp": 124619,
@@ -93,7 +115,9 @@
     "name": "TAI YO LETTER DO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "делать"],
+    "concepts": []
   },
   {
     "cp": 124620,
@@ -101,7 +125,9 @@
     "name": "TAI YO LETTER LOW TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "низкий", "к"],
+    "concepts": []
   },
   {
     "cp": 124621,
@@ -109,7 +135,9 @@
     "name": "TAI YO LETTER HIGH TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "высокий", "к"],
+    "concepts": []
   },
   {
     "cp": 124622,
@@ -117,7 +145,9 @@
     "name": "TAI YO LETTER THO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "тхо"],
+    "concepts": []
   },
   {
     "cp": 124623,
@@ -125,7 +155,9 @@
     "name": "TAI YO LETTER NO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "нет"],
+    "concepts": []
   },
   {
     "cp": 124624,
@@ -133,7 +165,9 @@
     "name": "TAI YO LETTER BO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "бо"],
+    "concepts": []
   },
   {
     "cp": 124625,
@@ -141,7 +175,9 @@
     "name": "TAI YO LETTER LOW PO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "низкий", "по"],
+    "concepts": []
   },
   {
     "cp": 124626,
@@ -149,7 +185,9 @@
     "name": "TAI YO LETTER HIGH PO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "высокий", "по"],
+    "concepts": []
   },
   {
     "cp": 124627,
@@ -157,7 +195,9 @@
     "name": "TAI YO LETTER PHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "пхо"],
+    "concepts": []
   },
   {
     "cp": 124628,
@@ -165,7 +205,9 @@
     "name": "TAI YO LETTER LOW FO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "низкий", "фо"],
+    "concepts": []
   },
   {
     "cp": 124629,
@@ -173,7 +215,9 @@
     "name": "TAI YO LETTER HIGH FO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "высокий", "фо"],
+    "concepts": []
   },
   {
     "cp": 124630,
@@ -181,7 +225,9 @@
     "name": "TAI YO LETTER MO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "мо"],
+    "concepts": []
   },
   {
     "cp": 124631,
@@ -189,7 +235,9 @@
     "name": "TAI YO LETTER YO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква"],
+    "concepts": []
   },
   {
     "cp": 124632,
@@ -197,7 +245,9 @@
     "name": "TAI YO LETTER LO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "ло"],
+    "concepts": []
   },
   {
     "cp": 124633,
@@ -205,7 +255,9 @@
     "name": "TAI YO LETTER VO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "во"],
+    "concepts": []
   },
   {
     "cp": 124634,
@@ -213,7 +265,9 @@
     "name": "TAI YO LETTER LOW HO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "низкий", "хо"],
+    "concepts": []
   },
   {
     "cp": 124635,
@@ -221,7 +275,9 @@
     "name": "TAI YO LETTER HIGH HO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "высокий", "хо"],
+    "concepts": []
   },
   {
     "cp": 124636,
@@ -229,7 +285,9 @@
     "name": "TAI YO LETTER QO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "ко"],
+    "concepts": []
   },
   {
     "cp": 124637,
@@ -237,7 +295,9 @@
     "name": "TAI YO LETTER LOW KVO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "низкий"],
+    "concepts": []
   },
   {
     "cp": 124638,
@@ -245,7 +305,9 @@
     "name": "TAI YO LETTER HIGH KVO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "высокий"],
+    "concepts": []
   },
   {
     "cp": 124640,
@@ -253,7 +315,9 @@
     "name": "TAI YO LETTER AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "аа"],
+    "concepts": []
   },
   {
     "cp": 124641,
@@ -261,7 +325,9 @@
     "name": "TAI YO LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква"],
+    "concepts": []
   },
   {
     "cp": 124642,
@@ -269,7 +335,9 @@
     "name": "TAI YO LETTER UE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "уэ"],
+    "concepts": []
   },
   {
     "cp": 124643,
@@ -277,7 +345,9 @@
     "name": "TAI YO SIGN UE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "знак", "уэ"],
+    "concepts": []
   },
   {
     "cp": 124644,
@@ -285,7 +355,9 @@
     "name": "TAI YO LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква"],
+    "concepts": []
   },
   {
     "cp": 124645,
@@ -293,7 +365,9 @@
     "name": "TAI YO LETTER AE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "ae (лигатура)"],
+    "concepts": []
   },
   {
     "cp": 124646,
@@ -301,7 +375,9 @@
     "name": "TAI YO SIGN AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "знак", "ау"],
+    "concepts": []
   },
   {
     "cp": 124647,
@@ -309,7 +385,9 @@
     "name": "TAI YO LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква"],
+    "concepts": []
   },
   {
     "cp": 124648,
@@ -317,7 +395,9 @@
     "name": "TAI YO LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква"],
+    "concepts": []
   },
   {
     "cp": 124649,
@@ -325,7 +405,9 @@
     "name": "TAI YO LETTER IA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "иа"],
+    "concepts": []
   },
   {
     "cp": 124650,
@@ -333,7 +415,9 @@
     "name": "TAI YO LETTER UEA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква"],
+    "concepts": []
   },
   {
     "cp": 124651,
@@ -341,7 +425,9 @@
     "name": "TAI YO LETTER UA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "уа"],
+    "concepts": []
   },
   {
     "cp": 124652,
@@ -349,7 +435,9 @@
     "name": "TAI YO LETTER OO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "оо"],
+    "concepts": []
   },
   {
     "cp": 124653,
@@ -357,7 +445,9 @@
     "name": "TAI YO LETTER AUE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "ауе"],
+    "concepts": []
   },
   {
     "cp": 124654,
@@ -365,7 +455,9 @@
     "name": "TAI YO SIGN AY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "знак", "ай"],
+    "concepts": []
   },
   {
     "cp": 124655,
@@ -373,7 +465,9 @@
     "name": "TAI YO SIGN ANG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "знак", "анг"],
+    "concepts": []
   },
   {
     "cp": 124656,
@@ -381,7 +475,9 @@
     "name": "TAI YO LETTER AN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "ан"],
+    "concepts": []
   },
   {
     "cp": 124657,
@@ -389,7 +485,9 @@
     "name": "TAI YO LETTER AM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "ам"],
+    "concepts": []
   },
   {
     "cp": 124658,
@@ -397,7 +495,9 @@
     "name": "TAI YO LETTER AK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "ак"],
+    "concepts": []
   },
   {
     "cp": 124659,
@@ -405,7 +505,9 @@
     "name": "TAI YO LETTER AT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "при (собачка)"],
+    "concepts": []
   },
   {
     "cp": 124660,
@@ -413,7 +515,9 @@
     "name": "TAI YO LETTER AP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "буква", "ап"],
+    "concepts": []
   },
   {
     "cp": 124661,
@@ -421,7 +525,9 @@
     "name": "TAI YO SIGN OM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "знак", "ом (ॐ)"],
+    "concepts": []
   },
   {
     "cp": 124670,
@@ -429,7 +535,9 @@
     "name": "TAI YO SYMBOL MUEANG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "символ"],
+    "concepts": []
   },
   {
     "cp": 124671,
@@ -437,6 +545,8 @@
     "name": "TAI YO XAM LAI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тай", "йо", "лаи"],
+    "concepts": []
   }
 ]

@@ -5,7 +5,9 @@
     "name": "DEVANAGARI HEAD MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "голова", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 72449,
@@ -13,7 +15,9 @@
     "name": "DEVANAGARI HEAD MARK WITH HEADSTROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "голова", "метка (знак)", "с", "верхняя черта"],
+    "concepts": []
   },
   {
     "cp": 72450,
@@ -21,7 +25,9 @@
     "name": "DEVANAGARI SIGN BHALE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "знак", "бхале"],
+    "concepts": []
   },
   {
     "cp": 72451,
@@ -29,7 +35,9 @@
     "name": "DEVANAGARI SIGN BHALE WITH HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "знак", "бхале", "с", "крючок"],
+    "concepts": []
   },
   {
     "cp": 72452,
@@ -37,7 +45,9 @@
     "name": "DEVANAGARI SIGN EXTENDED BHALE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "знак", "расширенный", "бхале"],
+    "concepts": []
   },
   {
     "cp": 72453,
@@ -45,7 +55,9 @@
     "name": "DEVANAGARI SIGN EXTENDED BHALE WITH HOOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "знак", "расширенный", "бхале", "с", "крючок"],
+    "concepts": []
   },
   {
     "cp": 72454,
@@ -53,7 +65,9 @@
     "name": "DEVANAGARI SIGN WESTERN FIVE-LIKE BHALE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "знак", "западный", "пять", "подобный", "бхале"],
+    "concepts": []
   },
   {
     "cp": 72455,
@@ -61,7 +75,9 @@
     "name": "DEVANAGARI SIGN WESTERN NINE-LIKE BHALE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "знак", "западный", "девять", "подобный", "бхале"],
+    "concepts": []
   },
   {
     "cp": 72456,
@@ -69,7 +85,9 @@
     "name": "DEVANAGARI SIGN REVERSED NINE-LIKE BHALE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "знак", "зеркальный (обратный)", "девять", "подобный", "бхале"],
+    "concepts": []
   },
   {
     "cp": 72457,
@@ -77,7 +95,9 @@
     "name": "DEVANAGARI SIGN MINDU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "знак"],
+    "concepts": []
   },
   {
     "cp": 72458,
@@ -85,6 +105,8 @@
     "name": "DEVANAGARI LETTER ALTERNATE DDDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деванагари", "буква", "попеременный", "ддда"],
+    "concepts": []
   }
 ]

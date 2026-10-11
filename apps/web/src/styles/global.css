@@ -189,3 +189,64 @@ h2 {
   margin: var(--space-1) 0 0;
   font-size: 0.8rem;
 }
+
+/* Symbol search */
+.symbol-search {
+  margin: var(--space-4) 0 var(--space-5);
+}
+.symbol-search input {
+  width: 100%;
+  max-width: 640px;
+  padding: var(--space-2) var(--space-3);
+  background: var(--surface);
+  color: var(--fg);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  font-size: 1.1rem;
+}
+.symbol-search .examples {
+  margin: var(--space-2) 0;
+}
+.symbol-search .link {
+  padding: 0;
+  background: none;
+  border: 0;
+  color: var(--accent);
+  font: inherit;
+  cursor: pointer;
+}
+.symbol-grid {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(52px, 1fr));
+  gap: var(--space-1);
+}
+.symbol-grid button {
+  width: 100%;
+  aspect-ratio: 1;
+  background: var(--surface);
+  color: var(--fg);
+  border: 1px solid transparent;
+  border-radius: var(--radius);
+  font-size: 1.6rem;
+  cursor: pointer;
+}
+.symbol-grid button:hover {
+  border-color: var(--fg);
+}
+.symbol-search .picked {
+  position: sticky;
+  bottom: var(--space-3);
+  display: flex;
+  gap: var(--space-3);
+  align-items: center;
+  padding: var(--space-2) var(--space-3);
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+.symbol-search .picked-char {
+  font-size: 2.2rem;
+  line-height: 1;
+}

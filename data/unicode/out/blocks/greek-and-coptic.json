@@ -5,7 +5,9 @@
     "name": "GREEK CAPITAL LETTER HETA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "хета"],
+    "concepts": []
   },
   {
     "cp": 881,
@@ -13,7 +15,9 @@
     "name": "GREEK SMALL LETTER HETA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "хета"],
+    "concepts": []
   },
   {
     "cp": 882,
@@ -21,7 +25,9 @@
     "name": "GREEK CAPITAL LETTER ARCHAIC SAMPI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "архаичный", "сампи"],
+    "concepts": []
   },
   {
     "cp": 883,
@@ -29,7 +35,9 @@
     "name": "GREEK SMALL LETTER ARCHAIC SAMPI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "архаичный", "сампи"],
+    "concepts": []
   },
   {
     "cp": 884,
@@ -37,7 +45,9 @@
     "name": "GREEK NUMERAL SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "цифра (число)", "знак"],
+    "concepts": []
   },
   {
     "cp": 885,
@@ -45,7 +55,9 @@
     "name": "GREEK LOWER NUMERAL SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "нижний", "цифра (число)", "знак"],
+    "concepts": []
   },
   {
     "cp": 886,
@@ -53,7 +65,9 @@
     "name": "GREEK CAPITAL LETTER PAMPHYLIAN DIGAMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "памфилийский", "дигамма"],
+    "concepts": []
   },
   {
     "cp": 887,
@@ -61,7 +75,9 @@
     "name": "GREEK SMALL LETTER PAMPHYLIAN DIGAMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "памфилийский", "дигамма"],
+    "concepts": []
   },
   {
     "cp": 890,
@@ -69,7 +85,9 @@
     "name": "GREEK YPOGEGRAMMENI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "йота подписная"],
+    "concepts": []
   },
   {
     "cp": 891,
@@ -77,7 +95,16 @@
     "name": "GREEK SMALL REVERSED LUNATE SIGMA SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "греческий",
+      "маленький (строчный)",
+      "зеркальный (обратный)",
+      "лунообразный",
+      "сигма",
+      "символ"
+    ],
+    "concepts": []
   },
   {
     "cp": 892,
@@ -85,7 +112,16 @@
     "name": "GREEK SMALL DOTTED LUNATE SIGMA SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "греческий",
+      "маленький (строчный)",
+      "пунктирный (с точкой)",
+      "лунообразный",
+      "сигма",
+      "символ"
+    ],
+    "concepts": []
   },
   {
     "cp": 893,
@@ -93,7 +129,17 @@
     "name": "GREEK SMALL REVERSED DOTTED LUNATE SIGMA SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "греческий",
+      "маленький (строчный)",
+      "зеркальный (обратный)",
+      "пунктирный (с точкой)",
+      "лунообразный",
+      "сигма",
+      "символ"
+    ],
+    "concepts": []
   },
   {
     "cp": 894,
@@ -101,7 +147,9 @@
     "name": "GREEK QUESTION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "вопрос", "метка (знак)"],
+    "concepts": ["question"]
   },
   {
     "cp": 895,
@@ -109,7 +157,9 @@
     "name": "GREEK CAPITAL LETTER YOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "ёт"],
+    "concepts": []
   },
   {
     "cp": 900,
@@ -117,7 +167,9 @@
     "name": "GREEK TONOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "тонос (ударение)"],
+    "concepts": []
   },
   {
     "cp": 901,
@@ -125,7 +177,9 @@
     "name": "GREEK DIALYTIKA TONOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "диалитика", "тонос (ударение)"],
+    "concepts": []
   },
   {
     "cp": 902,
@@ -133,7 +187,9 @@
     "name": "GREEK CAPITAL LETTER ALPHA WITH TONOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "альфа", "с", "тонос (ударение)"],
+    "concepts": []
   },
   {
     "cp": 903,
@@ -141,7 +197,9 @@
     "name": "GREEK ANO TELEIA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "ано (верхний)", "тельа (точка)"],
+    "concepts": []
   },
   {
     "cp": 904,
@@ -149,7 +207,9 @@
     "name": "GREEK CAPITAL LETTER EPSILON WITH TONOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "эпсилон", "с", "тонос (ударение)"],
+    "concepts": []
   },
   {
     "cp": 905,
@@ -157,7 +217,9 @@
     "name": "GREEK CAPITAL LETTER ETA WITH TONOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "эта", "с", "тонос (ударение)"],
+    "concepts": []
   },
   {
     "cp": 906,
@@ -165,7 +227,9 @@
     "name": "GREEK CAPITAL LETTER IOTA WITH TONOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "йота", "с", "тонос (ударение)"],
+    "concepts": []
   },
   {
     "cp": 908,
@@ -173,7 +237,9 @@
     "name": "GREEK CAPITAL LETTER OMICRON WITH TONOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "омикрон", "с", "тонос (ударение)"],
+    "concepts": []
   },
   {
     "cp": 910,
@@ -181,7 +247,9 @@
     "name": "GREEK CAPITAL LETTER UPSILON WITH TONOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "ипсилон", "с", "тонос (ударение)"],
+    "concepts": []
   },
   {
     "cp": 911,
@@ -189,7 +257,9 @@
     "name": "GREEK CAPITAL LETTER OMEGA WITH TONOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "омега", "с", "тонос (ударение)"],
+    "concepts": []
   },
   {
     "cp": 912,
@@ -197,7 +267,18 @@
     "name": "GREEK SMALL LETTER IOTA WITH DIALYTIKA AND TONOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "греческий",
+      "маленький (строчный)",
+      "буква",
+      "йота",
+      "с",
+      "диалитика",
+      "и",
+      "тонос (ударение)"
+    ],
+    "concepts": []
   },
   {
     "cp": 913,
@@ -205,7 +286,9 @@
     "name": "GREEK CAPITAL LETTER ALPHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "альфа"],
+    "concepts": ["greek", "alpha"]
   },
   {
     "cp": 914,
@@ -213,7 +296,9 @@
     "name": "GREEK CAPITAL LETTER BETA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "бета"],
+    "concepts": ["greek"]
   },
   {
     "cp": 915,
@@ -221,7 +306,9 @@
     "name": "GREEK CAPITAL LETTER GAMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "гамма"],
+    "concepts": ["corner", "greek"]
   },
   {
     "cp": 916,
@@ -229,7 +316,9 @@
     "name": "GREEK CAPITAL LETTER DELTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "дельта"],
+    "concepts": ["triangle", "greek"]
   },
   {
     "cp": 917,
@@ -237,7 +326,9 @@
     "name": "GREEK CAPITAL LETTER EPSILON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "эпсилон"],
+    "concepts": ["greek"]
   },
   {
     "cp": 918,
@@ -245,7 +336,9 @@
     "name": "GREEK CAPITAL LETTER ZETA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "дзета"],
+    "concepts": ["greek"]
   },
   {
     "cp": 919,
@@ -253,7 +346,9 @@
     "name": "GREEK CAPITAL LETTER ETA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "эта"],
+    "concepts": ["greek"]
   },
   {
     "cp": 920,
@@ -261,7 +356,9 @@
     "name": "GREEK CAPITAL LETTER THETA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "тета"],
+    "concepts": ["greek"]
   },
   {
     "cp": 921,
@@ -269,7 +366,9 @@
     "name": "GREEK CAPITAL LETTER IOTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "йота"],
+    "concepts": ["greek"]
   },
   {
     "cp": 922,
@@ -277,7 +376,9 @@
     "name": "GREEK CAPITAL LETTER KAPPA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "каппа"],
+    "concepts": ["greek"]
   },
   {
     "cp": 923,
@@ -285,7 +386,9 @@
     "name": "GREEK CAPITAL LETTER LAMDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "лямбда"],
+    "concepts": ["mountain", "triangle", "greek"]
   },
   {
     "cp": 924,
@@ -293,7 +396,9 @@
     "name": "GREEK CAPITAL LETTER MU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "мю"],
+    "concepts": ["greek"]
   },
   {
     "cp": 925,
@@ -301,7 +406,9 @@
     "name": "GREEK CAPITAL LETTER NU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "ню"],
+    "concepts": ["greek"]
   },
   {
     "cp": 926,
@@ -309,7 +416,9 @@
     "name": "GREEK CAPITAL LETTER XI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "кси"],
+    "concepts": ["greek"]
   },
   {
     "cp": 927,
@@ -317,7 +426,9 @@
     "name": "GREEK CAPITAL LETTER OMICRON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "омикрон"],
+    "concepts": ["circle", "greek"]
   },
   {
     "cp": 928,
@@ -325,7 +436,9 @@
     "name": "GREEK CAPITAL LETTER PI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "пи"],
+    "concepts": ["pi", "greek", "gemini"]
   },
   {
     "cp": 929,
@@ -333,7 +446,9 @@
     "name": "GREEK CAPITAL LETTER RHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "ро"],
+    "concepts": ["greek"]
   },
   {
     "cp": 931,
@@ -341,7 +456,9 @@
     "name": "GREEK CAPITAL LETTER SIGMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "сигма"],
+    "concepts": ["sum-integral", "greek"]
   },
   {
     "cp": 932,
@@ -349,7 +466,9 @@
     "name": "GREEK CAPITAL LETTER TAU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "тау"],
+    "concepts": ["greek"]
   },
   {
     "cp": 933,
@@ -357,7 +476,9 @@
     "name": "GREEK CAPITAL LETTER UPSILON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "ипсилон"],
+    "concepts": ["greek"]
   },
   {
     "cp": 934,
@@ -365,7 +486,9 @@
     "name": "GREEK CAPITAL LETTER PHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "фи"],
+    "concepts": ["greek"]
   },
   {
     "cp": 935,
@@ -373,7 +496,9 @@
     "name": "GREEK CAPITAL LETTER CHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "хи"],
+    "concepts": ["cross-mark", "greek"]
   },
   {
     "cp": 936,
@@ -381,7 +506,23 @@
     "name": "GREEK CAPITAL LETTER PSI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "пси"],
+    "concepts": [
+      "tulip",
+      "lily",
+      "plant",
+      "cactus",
+      "crown",
+      "hand",
+      "devil",
+      "peace",
+      "anchor",
+      "food",
+      "greek",
+      "runes",
+      "halloween"
+    ]
   },
   {
     "cp": 937,
@@ -389,7 +530,9 @@
     "name": "GREEK CAPITAL LETTER OMEGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "омега"],
+    "concepts": ["greek", "omega", "zodiac", "libra", "lucky", "bell"]
   },
   {
     "cp": 938,
@@ -397,7 +540,9 @@
     "name": "GREEK CAPITAL LETTER IOTA WITH DIALYTIKA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "йота", "с", "диалитика"],
+    "concepts": []
   },
   {
     "cp": 939,
@@ -405,7 +550,9 @@
     "name": "GREEK CAPITAL LETTER UPSILON WITH DIALYTIKA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "ипсилон", "с", "диалитика"],
+    "concepts": []
   },
   {
     "cp": 940,
@@ -413,7 +560,9 @@
     "name": "GREEK SMALL LETTER ALPHA WITH TONOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "альфа", "с", "тонос (ударение)"],
+    "concepts": []
   },
   {
     "cp": 941,
@@ -421,7 +570,9 @@
     "name": "GREEK SMALL LETTER EPSILON WITH TONOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "эпсилон", "с", "тонос (ударение)"],
+    "concepts": []
   },
   {
     "cp": 942,
@@ -429,7 +580,9 @@
     "name": "GREEK SMALL LETTER ETA WITH TONOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "эта", "с", "тонос (ударение)"],
+    "concepts": []
   },
   {
     "cp": 943,
@@ -437,7 +590,9 @@
     "name": "GREEK SMALL LETTER IOTA WITH TONOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "йота", "с", "тонос (ударение)"],
+    "concepts": []
   },
   {
     "cp": 944,
@@ -445,7 +600,18 @@
     "name": "GREEK SMALL LETTER UPSILON WITH DIALYTIKA AND TONOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "греческий",
+      "маленький (строчный)",
+      "буква",
+      "ипсилон",
+      "с",
+      "диалитика",
+      "и",
+      "тонос (ударение)"
+    ],
+    "concepts": []
   },
   {
     "cp": 945,
@@ -453,7 +619,9 @@
     "name": "GREEK SMALL LETTER ALPHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "альфа"],
+    "concepts": ["fish", "greek", "alpha"]
   },
   {
     "cp": 946,
@@ -461,7 +629,9 @@
     "name": "GREEK SMALL LETTER BETA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "бета"],
+    "concepts": ["greek"]
   },
   {
     "cp": 947,
@@ -469,7 +639,9 @@
     "name": "GREEK SMALL LETTER GAMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "гамма"],
+    "concepts": ["greek"]
   },
   {
     "cp": 948,
@@ -477,7 +649,9 @@
     "name": "GREEK SMALL LETTER DELTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "дельта"],
+    "concepts": ["triangle", "greek"]
   },
   {
     "cp": 949,
@@ -485,7 +659,21 @@
     "name": "GREEK SMALL LETTER EPSILON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "эпсилон"],
+    "concepts": [
+      "kiss",
+      "wings",
+      "bird",
+      "butterfly",
+      "face",
+      "angel",
+      "sum-integral",
+      "bow-ribbon",
+      "greek",
+      "mouth",
+      "valentine"
+    ]
   },
   {
     "cp": 950,
@@ -493,7 +681,9 @@
     "name": "GREEK SMALL LETTER ZETA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "дзета"],
+    "concepts": ["greek"]
   },
   {
     "cp": 951,
@@ -501,7 +691,9 @@
     "name": "GREEK SMALL LETTER ETA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "эта"],
+    "concepts": ["greek"]
   },
   {
     "cp": 952,
@@ -509,7 +701,9 @@
     "name": "GREEK SMALL LETTER THETA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "тета"],
+    "concepts": ["greek"]
   },
   {
     "cp": 953,
@@ -517,7 +711,9 @@
     "name": "GREEK SMALL LETTER IOTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "йота"],
+    "concepts": ["greek", "information"]
   },
   {
     "cp": 954,
@@ -525,7 +721,9 @@
     "name": "GREEK SMALL LETTER KAPPA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "каппа"],
+    "concepts": ["greek"]
   },
   {
     "cp": 955,
@@ -533,7 +731,9 @@
     "name": "GREEK SMALL LETTER LAMDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "лямбда"],
+    "concepts": ["mountain", "triangle", "greek"]
   },
   {
     "cp": 956,
@@ -541,7 +741,9 @@
     "name": "GREEK SMALL LETTER MU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "мю"],
+    "concepts": ["greek"]
   },
   {
     "cp": 957,
@@ -549,7 +751,9 @@
     "name": "GREEK SMALL LETTER NU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "ню"],
+    "concepts": ["check", "victory", "root", "greek"]
   },
   {
     "cp": 958,
@@ -557,7 +761,9 @@
     "name": "GREEK SMALL LETTER XI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "кси"],
+    "concepts": ["greek"]
   },
   {
     "cp": 959,
@@ -565,7 +771,9 @@
     "name": "GREEK SMALL LETTER OMICRON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "омикрон"],
+    "concepts": ["circle", "greek"]
   },
   {
     "cp": 960,
@@ -573,7 +781,9 @@
     "name": "GREEK SMALL LETTER PI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "пи"],
+    "concepts": ["math", "pi", "greek", "school"]
   },
   {
     "cp": 961,
@@ -581,7 +791,9 @@
     "name": "GREEK SMALL LETTER RHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "ро"],
+    "concepts": ["greek"]
   },
   {
     "cp": 962,
@@ -589,7 +801,9 @@
     "name": "GREEK SMALL LETTER FINAL SIGMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "конечный", "сигма"],
+    "concepts": ["sum-integral", "greek"]
   },
   {
     "cp": 963,
@@ -597,7 +811,9 @@
     "name": "GREEK SMALL LETTER SIGMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "сигма"],
+    "concepts": ["sum-integral", "greek"]
   },
   {
     "cp": 964,
@@ -605,7 +821,9 @@
     "name": "GREEK SMALL LETTER TAU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "тау"],
+    "concepts": ["greek"]
   },
   {
     "cp": 965,
@@ -613,7 +831,9 @@
     "name": "GREEK SMALL LETTER UPSILON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "ипсилон"],
+    "concepts": ["greek"]
   },
   {
     "cp": 966,
@@ -621,7 +841,9 @@
     "name": "GREEK SMALL LETTER PHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "фи"],
+    "concepts": ["greek"]
   },
   {
     "cp": 967,
@@ -629,7 +851,9 @@
     "name": "GREEK SMALL LETTER CHI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "хи"],
+    "concepts": ["cross-mark", "greek"]
   },
   {
     "cp": 968,
@@ -637,7 +861,27 @@
     "name": "GREEK SMALL LETTER PSI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "пси"],
+    "concepts": [
+      "tulip",
+      "lily",
+      "lotus",
+      "plant",
+      "cactus",
+      "crown",
+      "king",
+      "queen",
+      "hand",
+      "devil",
+      "peace",
+      "anchor",
+      "food",
+      "trophy",
+      "greek",
+      "runes",
+      "halloween"
+    ]
   },
   {
     "cp": 969,
@@ -645,7 +889,20 @@
     "name": "GREEK SMALL LETTER OMEGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "омега"],
+    "concepts": [
+      "wave",
+      "cat",
+      "smile",
+      "face",
+      "shy",
+      "uwu",
+      "wave-line",
+      "greek",
+      "omega",
+      "mouth"
+    ]
   },
   {
     "cp": 970,
@@ -653,7 +910,9 @@
     "name": "GREEK SMALL LETTER IOTA WITH DIALYTIKA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "йота", "с", "диалитика"],
+    "concepts": []
   },
   {
     "cp": 971,
@@ -661,7 +920,9 @@
     "name": "GREEK SMALL LETTER UPSILON WITH DIALYTIKA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "ипсилон", "с", "диалитика"],
+    "concepts": []
   },
   {
     "cp": 972,
@@ -669,7 +930,9 @@
     "name": "GREEK SMALL LETTER OMICRON WITH TONOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "омикрон", "с", "тонос (ударение)"],
+    "concepts": []
   },
   {
     "cp": 973,
@@ -677,7 +940,9 @@
     "name": "GREEK SMALL LETTER UPSILON WITH TONOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "ипсилон", "с", "тонос (ударение)"],
+    "concepts": []
   },
   {
     "cp": 974,
@@ -685,7 +950,9 @@
     "name": "GREEK SMALL LETTER OMEGA WITH TONOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "омега", "с", "тонос (ударение)"],
+    "concepts": []
   },
   {
     "cp": 975,
@@ -693,7 +960,9 @@
     "name": "GREEK CAPITAL KAI SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "и (кай)", "символ"],
+    "concepts": []
   },
   {
     "cp": 976,
@@ -701,7 +970,9 @@
     "name": "GREEK BETA SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "бета", "символ"],
+    "concepts": ["wave", "spiral", "duck", "music", "clef", "sharp-flat", "greek"]
   },
   {
     "cp": 977,
@@ -709,7 +980,9 @@
     "name": "GREEK THETA SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "тета", "символ"],
+    "concepts": ["leaf", "spiral", "duck", "clef", "greek"]
   },
   {
     "cp": 978,
@@ -717,7 +990,9 @@
     "name": "GREEK UPSILON WITH HOOK SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "ипсилон", "с", "крючок", "символ"],
+    "concepts": ["plant", "devil", "zodiac"]
   },
   {
     "cp": 979,
@@ -725,7 +1000,9 @@
     "name": "GREEK UPSILON WITH ACUTE AND HOOK SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "ипсилон", "с", "акут (ударение)", "и", "крючок", "символ"],
+    "concepts": []
   },
   {
     "cp": 980,
@@ -733,7 +1010,9 @@
     "name": "GREEK UPSILON WITH DIAERESIS AND HOOK SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "ипсилон", "с", "диерезис (две точки сверху)", "и", "крючок", "символ"],
+    "concepts": []
   },
   {
     "cp": 981,
@@ -741,7 +1020,9 @@
     "name": "GREEK PHI SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "фи", "символ"],
+    "concepts": ["clef", "greek"]
   },
   {
     "cp": 982,
@@ -749,7 +1030,9 @@
     "name": "GREEK PI SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "пи", "символ"],
+    "concepts": ["wave", "wave-line", "pi", "greek", "omega"]
   },
   {
     "cp": 983,
@@ -757,7 +1040,9 @@
     "name": "GREEK KAI SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "и (кай)", "символ"],
+    "concepts": []
   },
   {
     "cp": 984,
@@ -765,7 +1050,9 @@
     "name": "GREEK LETTER ARCHAIC KOPPA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "буква", "архаичный", "коппа"],
+    "concepts": ["ankh"]
   },
   {
     "cp": 985,
@@ -773,7 +1060,9 @@
     "name": "GREEK SMALL LETTER ARCHAIC KOPPA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "архаичный", "коппа"],
+    "concepts": ["ankh"]
   },
   {
     "cp": 986,
@@ -781,7 +1070,9 @@
     "name": "GREEK LETTER STIGMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "буква", "стигма"],
+    "concepts": ["money", "dollar", "greek"]
   },
   {
     "cp": 987,
@@ -789,7 +1080,9 @@
     "name": "GREEK SMALL LETTER STIGMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "стигма"],
+    "concepts": ["snake", "money", "dollar", "greek"]
   },
   {
     "cp": 988,
@@ -797,7 +1090,9 @@
     "name": "GREEK LETTER DIGAMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "буква", "дигамма"],
+    "concepts": ["greek"]
   },
   {
     "cp": 989,
@@ -805,7 +1100,9 @@
     "name": "GREEK SMALL LETTER DIGAMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "дигамма"],
+    "concepts": ["greek"]
   },
   {
     "cp": 990,
@@ -813,7 +1110,9 @@
     "name": "GREEK LETTER KOPPA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "буква", "коппа"],
+    "concepts": ["lightning", "greek"]
   },
   {
     "cp": 991,
@@ -821,7 +1120,18 @@
     "name": "GREEK SMALL LETTER KOPPA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "коппа"],
+    "concepts": [
+      "heart-broken",
+      "weather",
+      "lightning",
+      "snake",
+      "dragon",
+      "arrow-zigzag",
+      "medical",
+      "greek"
+    ]
   },
   {
     "cp": 992,
@@ -829,7 +1139,9 @@
     "name": "GREEK LETTER SAMPI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "буква", "сампи"],
+    "concepts": ["lizard", "dragon", "greek"]
   },
   {
     "cp": 993,
@@ -837,7 +1149,9 @@
     "name": "GREEK SMALL LETTER SAMPI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "сампи"],
+    "concepts": ["snake", "lizard", "dragon", "devil", "greek", "halloween"]
   },
   {
     "cp": 994,
@@ -845,7 +1159,9 @@
     "name": "COPTIC CAPITAL LETTER SHEI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "заглавный", "буква", "шеи"],
+    "concepts": ["crown"]
   },
   {
     "cp": 995,
@@ -853,7 +1169,9 @@
     "name": "COPTIC SMALL LETTER SHEI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "маленький (строчный)", "буква", "шеи"],
+    "concepts": ["crown"]
   },
   {
     "cp": 996,
@@ -861,7 +1179,9 @@
     "name": "COPTIC CAPITAL LETTER FEI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "заглавный", "буква", "фей"],
+    "concepts": []
   },
   {
     "cp": 997,
@@ -869,7 +1189,9 @@
     "name": "COPTIC SMALL LETTER FEI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "маленький (строчный)", "буква", "фей"],
+    "concepts": []
   },
   {
     "cp": 998,
@@ -877,7 +1199,9 @@
     "name": "COPTIC CAPITAL LETTER KHEI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "заглавный", "буква", "хеи"],
+    "concepts": []
   },
   {
     "cp": 999,
@@ -885,7 +1209,9 @@
     "name": "COPTIC SMALL LETTER KHEI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "маленький (строчный)", "буква", "хеи"],
+    "concepts": []
   },
   {
     "cp": 1000,
@@ -893,7 +1219,9 @@
     "name": "COPTIC CAPITAL LETTER HORI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "заглавный", "буква", "хори"],
+    "concepts": []
   },
   {
     "cp": 1001,
@@ -901,7 +1229,9 @@
     "name": "COPTIC SMALL LETTER HORI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "маленький (строчный)", "буква", "хори"],
+    "concepts": []
   },
   {
     "cp": 1002,
@@ -909,7 +1239,9 @@
     "name": "COPTIC CAPITAL LETTER GANGIA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "заглавный", "буква", "гангиа"],
+    "concepts": []
   },
   {
     "cp": 1003,
@@ -917,7 +1249,9 @@
     "name": "COPTIC SMALL LETTER GANGIA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "маленький (строчный)", "буква", "гангиа"],
+    "concepts": []
   },
   {
     "cp": 1004,
@@ -925,7 +1259,9 @@
     "name": "COPTIC CAPITAL LETTER SHIMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "заглавный", "буква", "шима"],
+    "concepts": []
   },
   {
     "cp": 1005,
@@ -933,7 +1269,9 @@
     "name": "COPTIC SMALL LETTER SHIMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "маленький (строчный)", "буква", "шима"],
+    "concepts": []
   },
   {
     "cp": 1006,
@@ -941,7 +1279,9 @@
     "name": "COPTIC CAPITAL LETTER DEI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "заглавный", "буква", "деи"],
+    "concepts": []
   },
   {
     "cp": 1007,
@@ -949,7 +1289,9 @@
     "name": "COPTIC SMALL LETTER DEI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["коптский", "маленький (строчный)", "буква", "деи"],
+    "concepts": []
   },
   {
     "cp": 1008,
@@ -957,7 +1299,9 @@
     "name": "GREEK KAPPA SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "каппа", "символ"],
+    "concepts": ["fish", "greek"]
   },
   {
     "cp": 1009,
@@ -965,7 +1309,9 @@
     "name": "GREEK RHO SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "ро", "символ"],
+    "concepts": ["greek"]
   },
   {
     "cp": 1010,
@@ -973,7 +1319,9 @@
     "name": "GREEK LUNATE SIGMA SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "лунообразный", "сигма", "символ"],
+    "concepts": ["moon"]
   },
   {
     "cp": 1011,
@@ -981,7 +1329,9 @@
     "name": "GREEK LETTER YOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "буква", "ёт"],
+    "concepts": []
   },
   {
     "cp": 1012,
@@ -989,7 +1339,9 @@
     "name": "GREEK CAPITAL THETA SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "тета", "символ"],
+    "concepts": []
   },
   {
     "cp": 1013,
@@ -997,7 +1349,9 @@
     "name": "GREEK LUNATE EPSILON SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "лунообразный", "эпсилон", "символ"],
+    "concepts": ["sum-integral", "greek"]
   },
   {
     "cp": 1014,
@@ -1005,7 +1359,9 @@
     "name": "GREEK REVERSED LUNATE EPSILON SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "зеркальный (обратный)", "лунообразный", "эпсилон", "символ"],
+    "concepts": ["sum-integral"]
   },
   {
     "cp": 1015,
@@ -1013,7 +1369,9 @@
     "name": "GREEK CAPITAL LETTER SHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "шо"],
+    "concepts": []
   },
   {
     "cp": 1016,
@@ -1021,7 +1379,9 @@
     "name": "GREEK SMALL LETTER SHO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "шо"],
+    "concepts": []
   },
   {
     "cp": 1017,
@@ -1029,7 +1389,9 @@
     "name": "GREEK CAPITAL LUNATE SIGMA SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "лунообразный", "сигма", "символ"],
+    "concepts": ["moon"]
   },
   {
     "cp": 1018,
@@ -1037,7 +1399,9 @@
     "name": "GREEK CAPITAL LETTER SAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "буква", "сан"],
+    "concepts": []
   },
   {
     "cp": 1019,
@@ -1045,7 +1409,9 @@
     "name": "GREEK SMALL LETTER SAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "маленький (строчный)", "буква", "сан"],
+    "concepts": []
   },
   {
     "cp": 1020,
@@ -1053,7 +1419,9 @@
     "name": "GREEK RHO WITH STROKE SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "ро", "с", "черта (штрих)", "символ"],
+    "concepts": []
   },
   {
     "cp": 1021,
@@ -1061,7 +1429,9 @@
     "name": "GREEK CAPITAL REVERSED LUNATE SIGMA SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "зеркальный (обратный)", "лунообразный", "сигма", "символ"],
+    "concepts": []
   },
   {
     "cp": 1022,
@@ -1069,7 +1439,9 @@
     "name": "GREEK CAPITAL DOTTED LUNATE SIGMA SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["греческий", "заглавный", "пунктирный (с точкой)", "лунообразный", "сигма", "символ"],
+    "concepts": []
   },
   {
     "cp": 1023,
@@ -1077,6 +1449,16 @@
     "name": "GREEK CAPITAL REVERSED DOTTED LUNATE SIGMA SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "греческий",
+      "заглавный",
+      "зеркальный (обратный)",
+      "пунктирный (с точкой)",
+      "лунообразный",
+      "сигма",
+      "символ"
+    ],
+    "concepts": []
   }
 ]

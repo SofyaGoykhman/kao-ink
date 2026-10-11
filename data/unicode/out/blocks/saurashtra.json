@@ -5,7 +5,9 @@
     "name": "SAURASHTRA SIGN ANUSVARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "знак", "анусвара"],
+    "concepts": []
   },
   {
     "cp": 43137,
@@ -13,7 +15,9 @@
     "name": "SAURASHTRA SIGN VISARGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "знак", "висарга"],
+    "concepts": []
   },
   {
     "cp": 43138,
@@ -21,7 +25,9 @@
     "name": "SAURASHTRA LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква"],
+    "concepts": []
   },
   {
     "cp": 43139,
@@ -29,7 +35,9 @@
     "name": "SAURASHTRA LETTER AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "аа"],
+    "concepts": []
   },
   {
     "cp": 43140,
@@ -37,7 +45,9 @@
     "name": "SAURASHTRA LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква"],
+    "concepts": []
   },
   {
     "cp": 43141,
@@ -45,7 +55,9 @@
     "name": "SAURASHTRA LETTER II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "ии"],
+    "concepts": []
   },
   {
     "cp": 43142,
@@ -53,7 +65,9 @@
     "name": "SAURASHTRA LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква"],
+    "concepts": []
   },
   {
     "cp": 43143,
@@ -61,7 +75,9 @@
     "name": "SAURASHTRA LETTER UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "уу"],
+    "concepts": []
   },
   {
     "cp": 43144,
@@ -69,7 +85,9 @@
     "name": "SAURASHTRA LETTER VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 43145,
@@ -77,7 +95,9 @@
     "name": "SAURASHTRA LETTER VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 43146,
@@ -85,7 +105,9 @@
     "name": "SAURASHTRA LETTER VOCALIC L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 43147,
@@ -93,7 +115,9 @@
     "name": "SAURASHTRA LETTER VOCALIC LL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "слоговой (вокалический)", "лл"],
+    "concepts": []
   },
   {
     "cp": 43148,
@@ -101,7 +125,9 @@
     "name": "SAURASHTRA LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква"],
+    "concepts": []
   },
   {
     "cp": 43149,
@@ -109,7 +135,9 @@
     "name": "SAURASHTRA LETTER EE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "ее"],
+    "concepts": []
   },
   {
     "cp": 43150,
@@ -117,7 +145,9 @@
     "name": "SAURASHTRA LETTER AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "аи"],
+    "concepts": []
   },
   {
     "cp": 43151,
@@ -125,7 +155,9 @@
     "name": "SAURASHTRA LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква"],
+    "concepts": []
   },
   {
     "cp": 43152,
@@ -133,7 +165,9 @@
     "name": "SAURASHTRA LETTER OO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "оо"],
+    "concepts": []
   },
   {
     "cp": 43153,
@@ -141,7 +175,9 @@
     "name": "SAURASHTRA LETTER AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "ау"],
+    "concepts": []
   },
   {
     "cp": 43154,
@@ -149,7 +185,9 @@
     "name": "SAURASHTRA LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 43155,
@@ -157,7 +195,9 @@
     "name": "SAURASHTRA LETTER KHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "кха"],
+    "concepts": []
   },
   {
     "cp": 43156,
@@ -165,7 +205,9 @@
     "name": "SAURASHTRA LETTER GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "га"],
+    "concepts": []
   },
   {
     "cp": 43157,
@@ -173,7 +215,9 @@
     "name": "SAURASHTRA LETTER GHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "гха"],
+    "concepts": []
   },
   {
     "cp": 43158,
@@ -181,7 +225,9 @@
     "name": "SAURASHTRA LETTER NGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "нга"],
+    "concepts": []
   },
   {
     "cp": 43159,
@@ -189,7 +235,9 @@
     "name": "SAURASHTRA LETTER CA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 43160,
@@ -197,7 +245,9 @@
     "name": "SAURASHTRA LETTER CHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 43161,
@@ -205,7 +255,9 @@
     "name": "SAURASHTRA LETTER JA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "джа"],
+    "concepts": []
   },
   {
     "cp": 43162,
@@ -213,7 +265,9 @@
     "name": "SAURASHTRA LETTER JHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "джха"],
+    "concepts": []
   },
   {
     "cp": 43163,
@@ -221,7 +275,9 @@
     "name": "SAURASHTRA LETTER NYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "ня"],
+    "concepts": []
   },
   {
     "cp": 43164,
@@ -229,7 +285,9 @@
     "name": "SAURASHTRA LETTER TTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "тта"],
+    "concepts": []
   },
   {
     "cp": 43165,
@@ -237,7 +295,9 @@
     "name": "SAURASHTRA LETTER TTHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "ттха"],
+    "concepts": []
   },
   {
     "cp": 43166,
@@ -245,7 +305,9 @@
     "name": "SAURASHTRA LETTER DDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "дда"],
+    "concepts": []
   },
   {
     "cp": 43167,
@@ -253,7 +315,9 @@
     "name": "SAURASHTRA LETTER DDHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "ддха"],
+    "concepts": []
   },
   {
     "cp": 43168,
@@ -261,7 +325,9 @@
     "name": "SAURASHTRA LETTER NNA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "нна"],
+    "concepts": []
   },
   {
     "cp": 43169,
@@ -269,7 +335,9 @@
     "name": "SAURASHTRA LETTER TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 43170,
@@ -277,7 +345,9 @@
     "name": "SAURASHTRA LETTER THA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "тха"],
+    "concepts": []
   },
   {
     "cp": 43171,
@@ -285,7 +355,9 @@
     "name": "SAURASHTRA LETTER DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "да"],
+    "concepts": []
   },
   {
     "cp": 43172,
@@ -293,7 +365,9 @@
     "name": "SAURASHTRA LETTER DHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "дха"],
+    "concepts": []
   },
   {
     "cp": 43173,
@@ -301,7 +375,9 @@
     "name": "SAURASHTRA LETTER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 43174,
@@ -309,7 +385,9 @@
     "name": "SAURASHTRA LETTER PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "па"],
+    "concepts": []
   },
   {
     "cp": 43175,
@@ -317,7 +395,9 @@
     "name": "SAURASHTRA LETTER PHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "пха"],
+    "concepts": []
   },
   {
     "cp": 43176,
@@ -325,7 +405,9 @@
     "name": "SAURASHTRA LETTER BA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "ба"],
+    "concepts": []
   },
   {
     "cp": 43177,
@@ -333,7 +415,9 @@
     "name": "SAURASHTRA LETTER BHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "бха"],
+    "concepts": []
   },
   {
     "cp": 43178,
@@ -341,7 +425,9 @@
     "name": "SAURASHTRA LETTER MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 43179,
@@ -349,7 +435,9 @@
     "name": "SAURASHTRA LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 43180,
@@ -357,7 +445,9 @@
     "name": "SAURASHTRA LETTER RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 43181,
@@ -365,7 +455,9 @@
     "name": "SAURASHTRA LETTER LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "ла"],
+    "concepts": []
   },
   {
     "cp": 43182,
@@ -373,7 +465,9 @@
     "name": "SAURASHTRA LETTER VA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "ва"],
+    "concepts": []
   },
   {
     "cp": 43183,
@@ -381,7 +475,9 @@
     "name": "SAURASHTRA LETTER SHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "ша"],
+    "concepts": []
   },
   {
     "cp": 43184,
@@ -389,7 +485,9 @@
     "name": "SAURASHTRA LETTER SSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "сса"],
+    "concepts": []
   },
   {
     "cp": 43185,
@@ -397,7 +495,9 @@
     "name": "SAURASHTRA LETTER SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 43186,
@@ -405,7 +505,9 @@
     "name": "SAURASHTRA LETTER HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 43187,
@@ -413,7 +515,9 @@
     "name": "SAURASHTRA LETTER LLA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "буква", "лла"],
+    "concepts": []
   },
   {
     "cp": 43188,
@@ -421,7 +525,9 @@
     "name": "SAURASHTRA CONSONANT SIGN HAARU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "согласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 43189,
@@ -429,7 +535,9 @@
     "name": "SAURASHTRA VOWEL SIGN AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "гласная", "знак", "аа"],
+    "concepts": []
   },
   {
     "cp": 43190,
@@ -437,7 +545,9 @@
     "name": "SAURASHTRA VOWEL SIGN I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 43191,
@@ -445,7 +555,9 @@
     "name": "SAURASHTRA VOWEL SIGN II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "гласная", "знак", "ии"],
+    "concepts": []
   },
   {
     "cp": 43192,
@@ -453,7 +565,9 @@
     "name": "SAURASHTRA VOWEL SIGN U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 43193,
@@ -461,7 +575,9 @@
     "name": "SAURASHTRA VOWEL SIGN UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "гласная", "знак", "уу"],
+    "concepts": []
   },
   {
     "cp": 43194,
@@ -469,7 +585,9 @@
     "name": "SAURASHTRA VOWEL SIGN VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "гласная", "знак", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 43195,
@@ -477,7 +595,9 @@
     "name": "SAURASHTRA VOWEL SIGN VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "гласная", "знак", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 43196,
@@ -485,7 +605,9 @@
     "name": "SAURASHTRA VOWEL SIGN VOCALIC L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "гласная", "знак", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 43197,
@@ -493,7 +615,9 @@
     "name": "SAURASHTRA VOWEL SIGN VOCALIC LL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "гласная", "знак", "слоговой (вокалический)", "лл"],
+    "concepts": []
   },
   {
     "cp": 43198,
@@ -501,7 +625,9 @@
     "name": "SAURASHTRA VOWEL SIGN E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 43199,
@@ -509,7 +635,9 @@
     "name": "SAURASHTRA VOWEL SIGN EE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "гласная", "знак", "ее"],
+    "concepts": []
   },
   {
     "cp": 43200,
@@ -517,7 +645,9 @@
     "name": "SAURASHTRA VOWEL SIGN AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "гласная", "знак", "аи"],
+    "concepts": []
   },
   {
     "cp": 43201,
@@ -525,7 +655,9 @@
     "name": "SAURASHTRA VOWEL SIGN O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 43202,
@@ -533,7 +665,9 @@
     "name": "SAURASHTRA VOWEL SIGN OO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "гласная", "знак", "оо"],
+    "concepts": []
   },
   {
     "cp": 43203,
@@ -541,7 +675,9 @@
     "name": "SAURASHTRA VOWEL SIGN AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "гласная", "знак", "ау"],
+    "concepts": []
   },
   {
     "cp": 43204,
@@ -549,7 +685,9 @@
     "name": "SAURASHTRA SIGN VIRAMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "знак", "вирама"],
+    "concepts": []
   },
   {
     "cp": 43205,
@@ -557,7 +695,9 @@
     "name": "SAURASHTRA SIGN CANDRABINDU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "знак", "чандрабинду"],
+    "concepts": []
   },
   {
     "cp": 43214,
@@ -565,7 +705,9 @@
     "name": "SAURASHTRA DANDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "данда"],
+    "concepts": []
   },
   {
     "cp": 43215,
@@ -573,7 +715,9 @@
     "name": "SAURASHTRA DOUBLE DANDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "двойной", "данда"],
+    "concepts": []
   },
   {
     "cp": 43216,
@@ -581,7 +725,9 @@
     "name": "SAURASHTRA DIGIT ZERO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "цифра", "ноль"],
+    "concepts": []
   },
   {
     "cp": 43217,
@@ -589,7 +735,9 @@
     "name": "SAURASHTRA DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "цифра", "один"],
+    "concepts": []
   },
   {
     "cp": 43218,
@@ -597,7 +745,9 @@
     "name": "SAURASHTRA DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "цифра", "два"],
+    "concepts": []
   },
   {
     "cp": 43219,
@@ -605,7 +755,9 @@
     "name": "SAURASHTRA DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "цифра", "три"],
+    "concepts": []
   },
   {
     "cp": 43220,
@@ -613,7 +765,9 @@
     "name": "SAURASHTRA DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "цифра", "четыре"],
+    "concepts": []
   },
   {
     "cp": 43221,
@@ -621,7 +775,9 @@
     "name": "SAURASHTRA DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "цифра", "пять"],
+    "concepts": []
   },
   {
     "cp": 43222,
@@ -629,7 +785,9 @@
     "name": "SAURASHTRA DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "цифра", "шесть"],
+    "concepts": []
   },
   {
     "cp": 43223,
@@ -637,7 +795,9 @@
     "name": "SAURASHTRA DIGIT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "цифра", "семь"],
+    "concepts": []
   },
   {
     "cp": 43224,
@@ -645,7 +805,9 @@
     "name": "SAURASHTRA DIGIT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "цифра", "восемь"],
+    "concepts": []
   },
   {
     "cp": 43225,
@@ -653,6 +815,8 @@
     "name": "SAURASHTRA DIGIT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["саураштра", "цифра", "девять"],
+    "concepts": []
   }
 ]

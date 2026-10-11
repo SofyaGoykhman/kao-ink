@@ -5,7 +5,9 @@
     "name": "CUNEIFORM SIGN AB TIMES NUN TENU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "аб", "умножить (раз)", "нун", "тену"],
+    "concepts": []
   },
   {
     "cp": 74881,
@@ -13,7 +15,9 @@
     "name": "CUNEIFORM SIGN AB TIMES SHU2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "аб", "умножить (раз)", "shu2"],
+    "concepts": []
   },
   {
     "cp": 74882,
@@ -21,7 +25,9 @@
     "name": "CUNEIFORM SIGN AD TIMES ESH2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ад", "умножить (раз)", "esh2"],
+    "concepts": []
   },
   {
     "cp": 74883,
@@ -29,7 +35,9 @@
     "name": "CUNEIFORM SIGN BAD TIMES DISH TENU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "бад", "умножить (раз)", "блюдо (чашка)", "тену"],
+    "concepts": []
   },
   {
     "cp": 74884,
@@ -37,7 +45,9 @@
     "name": "CUNEIFORM SIGN BAHAR2 TIMES AB2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "bahar2", "умножить (раз)", "ab2"],
+    "concepts": []
   },
   {
     "cp": 74885,
@@ -45,7 +55,9 @@
     "name": "CUNEIFORM SIGN BAHAR2 TIMES NI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "bahar2", "умножить (раз)", "ни"],
+    "concepts": []
   },
   {
     "cp": 74886,
@@ -53,7 +65,9 @@
     "name": "CUNEIFORM SIGN BAHAR2 TIMES ZA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "bahar2", "умножить (раз)", "за"],
+    "concepts": []
   },
   {
     "cp": 74887,
@@ -61,7 +75,9 @@
     "name": "CUNEIFORM SIGN BU OVER BU TIMES NA2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "бу", "над", "умножить (раз)"],
+    "concepts": []
   },
   {
     "cp": 74888,
@@ -69,7 +85,9 @@
     "name": "CUNEIFORM SIGN DA TIMES TAK4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "да", "умножить (раз)", "tak4"],
+    "concepts": []
   },
   {
     "cp": 74889,
@@ -77,7 +95,9 @@
     "name": "CUNEIFORM SIGN DAG TIMES KUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "даг", "умножить (раз)", "кур"],
+    "concepts": []
   },
   {
     "cp": 74890,
@@ -85,7 +105,9 @@
     "name": "CUNEIFORM SIGN DIM TIMES IGI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дим", "умножить (раз)", "иги"],
+    "concepts": []
   },
   {
     "cp": 74891,
@@ -93,7 +115,9 @@
     "name": "CUNEIFORM SIGN DIM TIMES U U U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дим", "умножить (раз)"],
+    "concepts": []
   },
   {
     "cp": 74892,
@@ -101,7 +125,9 @@
     "name": "CUNEIFORM SIGN DIM2 TIMES UD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "dim2", "умножить (раз)", "уд"],
+    "concepts": []
   },
   {
     "cp": 74893,
@@ -109,7 +135,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES ANSHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "анше"],
+    "concepts": []
   },
   {
     "cp": 74894,
@@ -117,7 +145,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES ASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "аш (ясень)"],
+    "concepts": []
   },
   {
     "cp": 74895,
@@ -125,7 +155,17 @@
     "name": "CUNEIFORM SIGN DUG TIMES ASH AT LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "клинопись",
+      "знак",
+      "дуг",
+      "умножить (раз)",
+      "аш (ясень)",
+      "при (собачка)",
+      "левый (влево)"
+    ],
+    "concepts": []
   },
   {
     "cp": 74896,
@@ -133,7 +173,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES DIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "дин"],
+    "concepts": []
   },
   {
     "cp": 74897,
@@ -141,7 +183,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES DUN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "дун"],
+    "concepts": []
   },
   {
     "cp": 74898,
@@ -149,7 +193,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES ERIN2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "erin2"],
+    "concepts": []
   },
   {
     "cp": 74899,
@@ -157,7 +203,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "га"],
+    "concepts": []
   },
   {
     "cp": 74900,
@@ -165,7 +213,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES GI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "ги"],
+    "concepts": []
   },
   {
     "cp": 74901,
@@ -173,7 +223,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES GIR2 GUNU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "gir2", "гуну"],
+    "concepts": []
   },
   {
     "cp": 74902,
@@ -181,7 +233,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES GISH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "гиш"],
+    "concepts": []
   },
   {
     "cp": 74903,
@@ -189,7 +243,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "ха"],
+    "concepts": []
   },
   {
     "cp": 74904,
@@ -197,7 +253,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES HI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "хай (HI)"],
+    "concepts": []
   },
   {
     "cp": 74905,
@@ -205,7 +263,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES IGI GUNU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "иги", "гуну"],
+    "concepts": []
   },
   {
     "cp": 74906,
@@ -213,7 +273,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES KASKAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "каскал"],
+    "concepts": []
   },
   {
     "cp": 74907,
@@ -221,7 +283,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES KUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "кур"],
+    "concepts": []
   },
   {
     "cp": 74908,
@@ -229,7 +293,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES KUSHU2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "kushu2"],
+    "concepts": []
   },
   {
     "cp": 74909,
@@ -237,7 +303,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES KUSHU2 PLUS KASKAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "kushu2", "плюс", "каскал"],
+    "concepts": []
   },
   {
     "cp": 74910,
@@ -245,7 +313,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES LAK-020",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "лак"],
+    "concepts": []
   },
   {
     "cp": 74911,
@@ -253,7 +323,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES LAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "лам (араб.)"],
+    "concepts": []
   },
   {
     "cp": 74912,
@@ -261,7 +333,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES LAM TIMES KUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "лам (араб.)", "кур"],
+    "concepts": []
   },
   {
     "cp": 74913,
@@ -269,7 +343,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES LUH PLUS GISH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "лух", "плюс", "гиш"],
+    "concepts": []
   },
   {
     "cp": 74914,
@@ -277,7 +353,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES MASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "маш"],
+    "concepts": []
   },
   {
     "cp": 74915,
@@ -285,7 +363,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES MES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "мес"],
+    "concepts": []
   },
   {
     "cp": 74916,
@@ -293,7 +373,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES MI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "ми"],
+    "concepts": []
   },
   {
     "cp": 74917,
@@ -301,7 +383,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES NI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "ни"],
+    "concepts": []
   },
   {
     "cp": 74918,
@@ -309,7 +393,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES PI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "пи"],
+    "concepts": []
   },
   {
     "cp": 74919,
@@ -317,7 +403,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES SHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "ше"],
+    "concepts": []
   },
   {
     "cp": 74920,
@@ -325,7 +413,9 @@
     "name": "CUNEIFORM SIGN DUG TIMES SI GUNU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "дуг", "умножить (раз)", "си", "гуну"],
+    "concepts": []
   },
   {
     "cp": 74921,
@@ -333,7 +423,9 @@
     "name": "CUNEIFORM SIGN E2 TIMES KUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "e2", "умножить (раз)", "кур"],
+    "concepts": []
   },
   {
     "cp": 74922,
@@ -341,7 +433,9 @@
     "name": "CUNEIFORM SIGN E2 TIMES PAP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "e2", "умножить (раз)", "пап"],
+    "concepts": []
   },
   {
     "cp": 74923,
@@ -349,7 +443,9 @@
     "name": "CUNEIFORM SIGN ERIN2 X",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "erin2"],
+    "concepts": []
   },
   {
     "cp": 74924,
@@ -357,7 +453,9 @@
     "name": "CUNEIFORM SIGN ESH2 CROSSING ESH2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "esh2", "пересекающий"],
+    "concepts": []
   },
   {
     "cp": 74925,
@@ -365,7 +463,9 @@
     "name": "CUNEIFORM SIGN EZEN SHESHIG TIMES ASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "эзен", "шешиг", "умножить (раз)", "аш (ясень)"],
+    "concepts": []
   },
   {
     "cp": 74926,
@@ -373,7 +473,9 @@
     "name": "CUNEIFORM SIGN EZEN SHESHIG TIMES HI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "эзен", "шешиг", "умножить (раз)", "хай (HI)"],
+    "concepts": []
   },
   {
     "cp": 74927,
@@ -381,7 +483,9 @@
     "name": "CUNEIFORM SIGN EZEN SHESHIG TIMES IGI GUNU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "эзен", "шешиг", "умножить (раз)", "иги", "гуну"],
+    "concepts": []
   },
   {
     "cp": 74928,
@@ -389,7 +493,9 @@
     "name": "CUNEIFORM SIGN EZEN SHESHIG TIMES LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "эзен", "шешиг", "умножить (раз)", "ла"],
+    "concepts": []
   },
   {
     "cp": 74929,
@@ -397,7 +503,9 @@
     "name": "CUNEIFORM SIGN EZEN SHESHIG TIMES LAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "эзен", "шешиг", "умножить (раз)", "лал"],
+    "concepts": []
   },
   {
     "cp": 74930,
@@ -405,7 +513,9 @@
     "name": "CUNEIFORM SIGN EZEN SHESHIG TIMES ME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "эзен", "шешиг", "умножить (раз)", "мне"],
+    "concepts": []
   },
   {
     "cp": 74931,
@@ -413,7 +523,9 @@
     "name": "CUNEIFORM SIGN EZEN SHESHIG TIMES MES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "эзен", "шешиг", "умножить (раз)", "мес"],
+    "concepts": []
   },
   {
     "cp": 74932,
@@ -421,7 +533,9 @@
     "name": "CUNEIFORM SIGN EZEN SHESHIG TIMES SU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "эзен", "шешиг", "умножить (раз)", "су"],
+    "concepts": []
   },
   {
     "cp": 74933,
@@ -429,7 +543,9 @@
     "name": "CUNEIFORM SIGN EZEN TIMES SU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "эзен", "умножить (раз)", "су"],
+    "concepts": []
   },
   {
     "cp": 74934,
@@ -437,7 +553,9 @@
     "name": "CUNEIFORM SIGN GA2 TIMES BAHAR2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ga2", "умножить (раз)", "bahar2"],
+    "concepts": []
   },
   {
     "cp": 74935,
@@ -445,7 +563,9 @@
     "name": "CUNEIFORM SIGN GA2 TIMES DIM GUNU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ga2", "умножить (раз)", "дим", "гуну"],
+    "concepts": []
   },
   {
     "cp": 74936,
@@ -453,7 +573,9 @@
     "name": "CUNEIFORM SIGN GA2 TIMES DUG TIMES IGI GUNU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ga2", "умножить (раз)", "дуг", "иги", "гуну"],
+    "concepts": []
   },
   {
     "cp": 74937,
@@ -461,7 +583,9 @@
     "name": "CUNEIFORM SIGN GA2 TIMES DUG TIMES KASKAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ga2", "умножить (раз)", "дуг", "каскал"],
+    "concepts": []
   },
   {
     "cp": 74938,
@@ -469,7 +593,9 @@
     "name": "CUNEIFORM SIGN GA2 TIMES EREN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ga2", "умножить (раз)"],
+    "concepts": []
   },
   {
     "cp": 74939,
@@ -477,7 +603,9 @@
     "name": "CUNEIFORM SIGN GA2 TIMES GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ga2", "умножить (раз)", "га"],
+    "concepts": []
   },
   {
     "cp": 74940,
@@ -485,7 +613,9 @@
     "name": "CUNEIFORM SIGN GA2 TIMES GAR PLUS DI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ga2", "умножить (раз)", "гар", "плюс", "ди"],
+    "concepts": []
   },
   {
     "cp": 74941,
@@ -493,7 +623,9 @@
     "name": "CUNEIFORM SIGN GA2 TIMES GAR PLUS NE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ga2", "умножить (раз)", "гар", "плюс", "не"],
+    "concepts": []
   },
   {
     "cp": 74942,
@@ -501,7 +633,9 @@
     "name": "CUNEIFORM SIGN GA2 TIMES HA PLUS A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ga2", "умножить (раз)", "ха", "плюс"],
+    "concepts": []
   },
   {
     "cp": 74943,
@@ -509,7 +643,9 @@
     "name": "CUNEIFORM SIGN GA2 TIMES KUSHU2 PLUS KASKAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ga2", "умножить (раз)", "kushu2", "плюс", "каскал"],
+    "concepts": []
   },
   {
     "cp": 74944,
@@ -517,7 +653,9 @@
     "name": "CUNEIFORM SIGN GA2 TIMES LAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ga2", "умножить (раз)", "лам (араб.)"],
+    "concepts": []
   },
   {
     "cp": 74945,
@@ -525,7 +663,9 @@
     "name": "CUNEIFORM SIGN GA2 TIMES LAM TIMES KUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ga2", "умножить (раз)", "лам (араб.)", "кур"],
+    "concepts": []
   },
   {
     "cp": 74946,
@@ -533,7 +673,9 @@
     "name": "CUNEIFORM SIGN GA2 TIMES LUH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ga2", "умножить (раз)", "лух"],
+    "concepts": []
   },
   {
     "cp": 74947,
@@ -541,7 +683,9 @@
     "name": "CUNEIFORM SIGN GA2 TIMES MUSH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ga2", "умножить (раз)", "муш"],
+    "concepts": []
   },
   {
     "cp": 74948,
@@ -549,7 +693,9 @@
     "name": "CUNEIFORM SIGN GA2 TIMES NE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ga2", "умножить (раз)", "не"],
+    "concepts": []
   },
   {
     "cp": 74949,
@@ -557,7 +703,9 @@
     "name": "CUNEIFORM SIGN GA2 TIMES NE PLUS E2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ga2", "умножить (раз)", "не", "плюс", "e2"],
+    "concepts": []
   },
   {
     "cp": 74950,
@@ -565,7 +713,9 @@
     "name": "CUNEIFORM SIGN GA2 TIMES NE PLUS GI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ga2", "умножить (раз)", "не", "плюс", "ги"],
+    "concepts": []
   },
   {
     "cp": 74951,
@@ -573,7 +723,9 @@
     "name": "CUNEIFORM SIGN GA2 TIMES SHIM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ga2", "умножить (раз)", "шим"],
+    "concepts": []
   },
   {
     "cp": 74952,
@@ -581,7 +733,9 @@
     "name": "CUNEIFORM SIGN GA2 TIMES ZIZ2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ga2", "умножить (раз)"],
+    "concepts": []
   },
   {
     "cp": 74953,
@@ -589,7 +743,9 @@
     "name": "CUNEIFORM SIGN GABA ROTATED NINETY DEGREES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "габа", "повёрнутый", "девяносто", "градусов"],
+    "concepts": []
   },
   {
     "cp": 74954,
@@ -597,7 +753,9 @@
     "name": "CUNEIFORM SIGN GESHTIN TIMES U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "гештин", "умножить (раз)"],
+    "concepts": []
   },
   {
     "cp": 74955,
@@ -605,7 +763,9 @@
     "name": "CUNEIFORM SIGN GISH TIMES GISH CROSSING GISH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "гиш", "умножить (раз)", "пересекающий"],
+    "concepts": []
   },
   {
     "cp": 74956,
@@ -613,7 +773,9 @@
     "name": "CUNEIFORM SIGN GU2 TIMES IGI GUNU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "gu2", "умножить (раз)", "иги", "гуну"],
+    "concepts": []
   },
   {
     "cp": 74957,
@@ -621,7 +783,9 @@
     "name": "CUNEIFORM SIGN GUD PLUS GISH TIMES TAK4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "гуд", "плюс", "гиш", "умножить (раз)", "tak4"],
+    "concepts": []
   },
   {
     "cp": 74958,
@@ -629,7 +793,9 @@
     "name": "CUNEIFORM SIGN HA TENU GUNU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ха", "тену", "гуну"],
+    "concepts": []
   },
   {
     "cp": 74959,
@@ -637,7 +803,9 @@
     "name": "CUNEIFORM SIGN HI TIMES ASH OVER HI TIMES ASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "хай (HI)", "умножить (раз)", "аш (ясень)", "над"],
+    "concepts": []
   },
   {
     "cp": 74960,
@@ -645,7 +813,9 @@
     "name": "CUNEIFORM SIGN KA TIMES BU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ка", "умножить (раз)", "бу"],
+    "concepts": []
   },
   {
     "cp": 74961,
@@ -653,7 +823,9 @@
     "name": "CUNEIFORM SIGN KA TIMES KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ка", "умножить (раз)"],
+    "concepts": []
   },
   {
     "cp": 74962,
@@ -661,7 +833,9 @@
     "name": "CUNEIFORM SIGN KA TIMES U U U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ка", "умножить (раз)"],
+    "concepts": []
   },
   {
     "cp": 74963,
@@ -669,7 +843,9 @@
     "name": "CUNEIFORM SIGN KA TIMES UR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ка", "умножить (раз)", "ур"],
+    "concepts": []
   },
   {
     "cp": 74964,
@@ -677,7 +853,9 @@
     "name": "CUNEIFORM SIGN LAGAB TIMES ZU OVER ZU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лагаб", "умножить (раз)", "зу", "над"],
+    "concepts": []
   },
   {
     "cp": 74965,
@@ -685,7 +863,9 @@
     "name": "CUNEIFORM SIGN LAK-003",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74966,
@@ -693,7 +873,9 @@
     "name": "CUNEIFORM SIGN LAK-021",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74967,
@@ -701,7 +883,9 @@
     "name": "CUNEIFORM SIGN LAK-025",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74968,
@@ -709,7 +893,9 @@
     "name": "CUNEIFORM SIGN LAK-030",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74969,
@@ -717,7 +903,9 @@
     "name": "CUNEIFORM SIGN LAK-050",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74970,
@@ -725,7 +913,9 @@
     "name": "CUNEIFORM SIGN LAK-051",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74971,
@@ -733,7 +923,9 @@
     "name": "CUNEIFORM SIGN LAK-062",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74972,
@@ -741,7 +933,9 @@
     "name": "CUNEIFORM SIGN LAK-079 OVER LAK-079 GUNU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "над", "гуну"],
+    "concepts": []
   },
   {
     "cp": 74973,
@@ -749,7 +943,9 @@
     "name": "CUNEIFORM SIGN LAK-080",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74974,
@@ -757,7 +953,9 @@
     "name": "CUNEIFORM SIGN LAK-081 OVER LAK-081",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "над"],
+    "concepts": []
   },
   {
     "cp": 74975,
@@ -765,7 +963,9 @@
     "name": "CUNEIFORM SIGN LAK-092",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74976,
@@ -773,7 +973,9 @@
     "name": "CUNEIFORM SIGN LAK-130",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74977,
@@ -781,7 +983,9 @@
     "name": "CUNEIFORM SIGN LAK-142",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74978,
@@ -789,7 +993,9 @@
     "name": "CUNEIFORM SIGN LAK-210",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74979,
@@ -797,7 +1003,9 @@
     "name": "CUNEIFORM SIGN LAK-219",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74980,
@@ -805,7 +1013,9 @@
     "name": "CUNEIFORM SIGN LAK-220",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74981,
@@ -813,7 +1023,9 @@
     "name": "CUNEIFORM SIGN LAK-225",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74982,
@@ -821,7 +1033,9 @@
     "name": "CUNEIFORM SIGN LAK-228",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74983,
@@ -829,7 +1043,9 @@
     "name": "CUNEIFORM SIGN LAK-238",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74984,
@@ -837,7 +1053,9 @@
     "name": "CUNEIFORM SIGN LAK-265",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74985,
@@ -845,7 +1063,9 @@
     "name": "CUNEIFORM SIGN LAK-266",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74986,
@@ -853,7 +1073,9 @@
     "name": "CUNEIFORM SIGN LAK-343",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74987,
@@ -861,7 +1083,9 @@
     "name": "CUNEIFORM SIGN LAK-347",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74988,
@@ -869,7 +1093,9 @@
     "name": "CUNEIFORM SIGN LAK-348",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74989,
@@ -877,7 +1103,9 @@
     "name": "CUNEIFORM SIGN LAK-383",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74990,
@@ -885,7 +1113,9 @@
     "name": "CUNEIFORM SIGN LAK-384",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74991,
@@ -893,7 +1123,9 @@
     "name": "CUNEIFORM SIGN LAK-390",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74992,
@@ -901,7 +1133,9 @@
     "name": "CUNEIFORM SIGN LAK-441",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74993,
@@ -909,7 +1143,9 @@
     "name": "CUNEIFORM SIGN LAK-449",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 74994,
@@ -917,7 +1153,9 @@
     "name": "CUNEIFORM SIGN LAK-449 TIMES GU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "гу"],
+    "concepts": []
   },
   {
     "cp": 74995,
@@ -925,7 +1163,9 @@
     "name": "CUNEIFORM SIGN LAK-449 TIMES IGI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "иги"],
+    "concepts": []
   },
   {
     "cp": 74996,
@@ -933,7 +1173,9 @@
     "name": "CUNEIFORM SIGN LAK-449 TIMES PAP PLUS LU3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "пап", "плюс", "lu3"],
+    "concepts": []
   },
   {
     "cp": 74997,
@@ -941,7 +1183,9 @@
     "name": "CUNEIFORM SIGN LAK-449 TIMES PAP PLUS PAP PLUS LU3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "пап", "плюс", "lu3"],
+    "concepts": []
   },
   {
     "cp": 74998,
@@ -949,7 +1193,9 @@
     "name": "CUNEIFORM SIGN LAK-449 TIMES U2 PLUS BA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "u2", "плюс", "ба"],
+    "concepts": []
   },
   {
     "cp": 74999,
@@ -957,7 +1203,9 @@
     "name": "CUNEIFORM SIGN LAK-450",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 75000,
@@ -965,7 +1213,9 @@
     "name": "CUNEIFORM SIGN LAK-457",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 75001,
@@ -973,7 +1223,9 @@
     "name": "CUNEIFORM SIGN LAK-470",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 75002,
@@ -981,7 +1233,9 @@
     "name": "CUNEIFORM SIGN LAK-483",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 75003,
@@ -989,7 +1243,9 @@
     "name": "CUNEIFORM SIGN LAK-490",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 75004,
@@ -997,7 +1253,9 @@
     "name": "CUNEIFORM SIGN LAK-492",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 75005,
@@ -1005,7 +1263,9 @@
     "name": "CUNEIFORM SIGN LAK-493",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 75006,
@@ -1013,7 +1273,9 @@
     "name": "CUNEIFORM SIGN LAK-495",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 75007,
@@ -1021,7 +1283,9 @@
     "name": "CUNEIFORM SIGN LAK-550",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 75008,
@@ -1029,7 +1293,9 @@
     "name": "CUNEIFORM SIGN LAK-608",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 75009,
@@ -1037,7 +1303,9 @@
     "name": "CUNEIFORM SIGN LAK-617",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 75010,
@@ -1045,7 +1313,9 @@
     "name": "CUNEIFORM SIGN LAK-617 TIMES ASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "аш (ясень)"],
+    "concepts": []
   },
   {
     "cp": 75011,
@@ -1053,7 +1323,9 @@
     "name": "CUNEIFORM SIGN LAK-617 TIMES BAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "бад"],
+    "concepts": []
   },
   {
     "cp": 75012,
@@ -1061,7 +1333,9 @@
     "name": "CUNEIFORM SIGN LAK-617 TIMES DUN3 GUNU GUNU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "dun3", "гуну"],
+    "concepts": []
   },
   {
     "cp": 75013,
@@ -1069,7 +1343,9 @@
     "name": "CUNEIFORM SIGN LAK-617 TIMES KU3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "ku3"],
+    "concepts": []
   },
   {
     "cp": 75014,
@@ -1077,7 +1353,9 @@
     "name": "CUNEIFORM SIGN LAK-617 TIMES LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "ла"],
+    "concepts": []
   },
   {
     "cp": 75015,
@@ -1085,7 +1363,9 @@
     "name": "CUNEIFORM SIGN LAK-617 TIMES TAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "тар"],
+    "concepts": []
   },
   {
     "cp": 75016,
@@ -1093,7 +1373,9 @@
     "name": "CUNEIFORM SIGN LAK-617 TIMES TE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "те"],
+    "concepts": []
   },
   {
     "cp": 75017,
@@ -1101,7 +1383,9 @@
     "name": "CUNEIFORM SIGN LAK-617 TIMES U2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "u2"],
+    "concepts": []
   },
   {
     "cp": 75018,
@@ -1109,7 +1393,9 @@
     "name": "CUNEIFORM SIGN LAK-617 TIMES UD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "уд"],
+    "concepts": []
   },
   {
     "cp": 75019,
@@ -1117,7 +1403,9 @@
     "name": "CUNEIFORM SIGN LAK-617 TIMES URUDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "уруда"],
+    "concepts": []
   },
   {
     "cp": 75020,
@@ -1125,7 +1413,9 @@
     "name": "CUNEIFORM SIGN LAK-636",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 75021,
@@ -1133,7 +1423,9 @@
     "name": "CUNEIFORM SIGN LAK-648",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 75022,
@@ -1141,7 +1433,9 @@
     "name": "CUNEIFORM SIGN LAK-648 TIMES DUB",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "дуб"],
+    "concepts": []
   },
   {
     "cp": 75023,
@@ -1149,7 +1443,9 @@
     "name": "CUNEIFORM SIGN LAK-648 TIMES GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "га"],
+    "concepts": []
   },
   {
     "cp": 75024,
@@ -1157,7 +1453,9 @@
     "name": "CUNEIFORM SIGN LAK-648 TIMES IGI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "иги"],
+    "concepts": []
   },
   {
     "cp": 75025,
@@ -1165,7 +1463,9 @@
     "name": "CUNEIFORM SIGN LAK-648 TIMES IGI GUNU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "иги", "гуну"],
+    "concepts": []
   },
   {
     "cp": 75026,
@@ -1173,7 +1473,9 @@
     "name": "CUNEIFORM SIGN LAK-648 TIMES NI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "ни"],
+    "concepts": []
   },
   {
     "cp": 75027,
@@ -1181,7 +1483,9 @@
     "name": "CUNEIFORM SIGN LAK-648 TIMES PAP PLUS PAP PLUS LU3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "пап", "плюс", "lu3"],
+    "concepts": []
   },
   {
     "cp": 75028,
@@ -1189,7 +1493,9 @@
     "name": "CUNEIFORM SIGN LAK-648 TIMES SHESH PLUS KI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "шеш", "плюс", "ки"],
+    "concepts": []
   },
   {
     "cp": 75029,
@@ -1197,7 +1503,9 @@
     "name": "CUNEIFORM SIGN LAK-648 TIMES UD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "уд"],
+    "concepts": []
   },
   {
     "cp": 75030,
@@ -1205,7 +1513,9 @@
     "name": "CUNEIFORM SIGN LAK-648 TIMES URUDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак", "умножить (раз)", "уруда"],
+    "concepts": []
   },
   {
     "cp": 75031,
@@ -1213,7 +1523,9 @@
     "name": "CUNEIFORM SIGN LAK-724",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 75032,
@@ -1221,7 +1533,9 @@
     "name": "CUNEIFORM SIGN LAK-749",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "лак"],
+    "concepts": []
   },
   {
     "cp": 75033,
@@ -1229,7 +1543,9 @@
     "name": "CUNEIFORM SIGN LU2 GUNU TIMES ASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "lu2", "гуну", "умножить (раз)", "аш (ясень)"],
+    "concepts": []
   },
   {
     "cp": 75034,
@@ -1237,7 +1553,9 @@
     "name": "CUNEIFORM SIGN LU2 TIMES DISH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "lu2", "умножить (раз)", "блюдо (чашка)"],
+    "concepts": []
   },
   {
     "cp": 75035,
@@ -1245,7 +1563,9 @@
     "name": "CUNEIFORM SIGN LU2 TIMES HAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "lu2", "умножить (раз)", "хал"],
+    "concepts": []
   },
   {
     "cp": 75036,
@@ -1253,7 +1573,9 @@
     "name": "CUNEIFORM SIGN LU2 TIMES PAP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "lu2", "умножить (раз)", "пап"],
+    "concepts": []
   },
   {
     "cp": 75037,
@@ -1261,7 +1583,9 @@
     "name": "CUNEIFORM SIGN LU2 TIMES PAP PLUS PAP PLUS LU3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "lu2", "умножить (раз)", "пап", "плюс", "lu3"],
+    "concepts": []
   },
   {
     "cp": 75038,
@@ -1269,7 +1593,9 @@
     "name": "CUNEIFORM SIGN LU2 TIMES TAK4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "lu2", "умножить (раз)", "tak4"],
+    "concepts": []
   },
   {
     "cp": 75039,
@@ -1277,7 +1603,9 @@
     "name": "CUNEIFORM SIGN MI PLUS ZA7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ми", "плюс"],
+    "concepts": []
   },
   {
     "cp": 75040,
@@ -1285,7 +1613,9 @@
     "name": "CUNEIFORM SIGN MUSH OVER MUSH TIMES GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "муш", "над", "умножить (раз)", "га"],
+    "concepts": []
   },
   {
     "cp": 75041,
@@ -1293,7 +1623,9 @@
     "name": "CUNEIFORM SIGN MUSH OVER MUSH TIMES KAK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "муш", "над", "умножить (раз)", "как"],
+    "concepts": []
   },
   {
     "cp": 75042,
@@ -1301,7 +1633,9 @@
     "name": "CUNEIFORM SIGN NINDA2 TIMES DIM GUNU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ninda2", "умножить (раз)", "дим", "гуну"],
+    "concepts": []
   },
   {
     "cp": 75043,
@@ -1309,7 +1643,9 @@
     "name": "CUNEIFORM SIGN NINDA2 TIMES GISH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ninda2", "умножить (раз)", "гиш"],
+    "concepts": []
   },
   {
     "cp": 75044,
@@ -1317,7 +1653,9 @@
     "name": "CUNEIFORM SIGN NINDA2 TIMES GUL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ninda2", "умножить (раз)"],
+    "concepts": []
   },
   {
     "cp": 75045,
@@ -1325,7 +1663,9 @@
     "name": "CUNEIFORM SIGN NINDA2 TIMES HI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ninda2", "умножить (раз)", "хай (HI)"],
+    "concepts": []
   },
   {
     "cp": 75046,
@@ -1333,7 +1673,9 @@
     "name": "CUNEIFORM SIGN NINDA2 TIMES KESH2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ninda2", "умножить (раз)"],
+    "concepts": []
   },
   {
     "cp": 75047,
@@ -1341,7 +1683,9 @@
     "name": "CUNEIFORM SIGN NINDA2 TIMES LAK-050",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ninda2", "умножить (раз)", "лак"],
+    "concepts": []
   },
   {
     "cp": 75048,
@@ -1349,7 +1693,9 @@
     "name": "CUNEIFORM SIGN NINDA2 TIMES MASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ninda2", "умножить (раз)", "маш"],
+    "concepts": []
   },
   {
     "cp": 75049,
@@ -1357,7 +1703,9 @@
     "name": "CUNEIFORM SIGN NINDA2 TIMES PAP PLUS PAP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ninda2", "умножить (раз)", "пап", "плюс"],
+    "concepts": []
   },
   {
     "cp": 75050,
@@ -1365,7 +1713,9 @@
     "name": "CUNEIFORM SIGN NINDA2 TIMES U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ninda2", "умножить (раз)"],
+    "concepts": []
   },
   {
     "cp": 75051,
@@ -1373,7 +1723,9 @@
     "name": "CUNEIFORM SIGN NINDA2 TIMES U PLUS U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ninda2", "умножить (раз)", "плюс"],
+    "concepts": []
   },
   {
     "cp": 75052,
@@ -1381,7 +1733,9 @@
     "name": "CUNEIFORM SIGN NINDA2 TIMES URUDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ninda2", "умножить (раз)", "уруда"],
+    "concepts": []
   },
   {
     "cp": 75053,
@@ -1389,7 +1743,9 @@
     "name": "CUNEIFORM SIGN SAG GUNU TIMES HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "саг", "гуну", "умножить (раз)", "ха"],
+    "concepts": []
   },
   {
     "cp": 75054,
@@ -1397,7 +1753,9 @@
     "name": "CUNEIFORM SIGN SAG TIMES EN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "саг", "умножить (раз)", "короткое (en)"],
+    "concepts": []
   },
   {
     "cp": 75055,
@@ -1405,7 +1763,9 @@
     "name": "CUNEIFORM SIGN SAG TIMES SHE AT LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "саг", "умножить (раз)", "ше", "при (собачка)", "левый (влево)"],
+    "concepts": []
   },
   {
     "cp": 75056,
@@ -1413,7 +1773,9 @@
     "name": "CUNEIFORM SIGN SAG TIMES TAK4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "саг", "умножить (раз)", "tak4"],
+    "concepts": []
   },
   {
     "cp": 75057,
@@ -1421,7 +1783,9 @@
     "name": "CUNEIFORM SIGN SHA6 TENU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "тену"],
+    "concepts": []
   },
   {
     "cp": 75058,
@@ -1429,7 +1793,9 @@
     "name": "CUNEIFORM SIGN SHE OVER SHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ше", "над"],
+    "concepts": []
   },
   {
     "cp": 75059,
@@ -1437,7 +1803,9 @@
     "name": "CUNEIFORM SIGN SHE PLUS HUB2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ше", "плюс", "hub2"],
+    "concepts": []
   },
   {
     "cp": 75060,
@@ -1445,7 +1813,9 @@
     "name": "CUNEIFORM SIGN SHE PLUS NAM2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ше", "плюс"],
+    "concepts": []
   },
   {
     "cp": 75061,
@@ -1453,7 +1823,9 @@
     "name": "CUNEIFORM SIGN SHE PLUS SAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ше", "плюс", "сар"],
+    "concepts": []
   },
   {
     "cp": 75062,
@@ -1461,7 +1833,9 @@
     "name": "CUNEIFORM SIGN SHU2 PLUS DUG TIMES NI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "shu2", "плюс", "дуг", "умножить (раз)", "ни"],
+    "concepts": []
   },
   {
     "cp": 75063,
@@ -1469,7 +1843,9 @@
     "name": "CUNEIFORM SIGN SHU2 PLUS E2 TIMES AN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "shu2", "плюс", "e2", "умножить (раз)", "ан"],
+    "concepts": []
   },
   {
     "cp": 75064,
@@ -1477,7 +1853,9 @@
     "name": "CUNEIFORM SIGN SI TIMES TAK4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "си", "умножить (раз)", "tak4"],
+    "concepts": []
   },
   {
     "cp": 75065,
@@ -1485,7 +1863,9 @@
     "name": "CUNEIFORM SIGN TAK4 PLUS SAG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "tak4", "плюс", "саг"],
+    "concepts": []
   },
   {
     "cp": 75066,
@@ -1493,7 +1873,9 @@
     "name": "CUNEIFORM SIGN TUM TIMES GAN2 TENU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "тум", "умножить (раз)", "gan2", "тену"],
+    "concepts": []
   },
   {
     "cp": 75067,
@@ -1501,7 +1883,9 @@
     "name": "CUNEIFORM SIGN TUM TIMES THREE DISH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "тум", "умножить (раз)", "три", "блюдо (чашка)"],
+    "concepts": []
   },
   {
     "cp": 75068,
@@ -1509,7 +1893,9 @@
     "name": "CUNEIFORM SIGN UR2 INVERTED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ur2", "перевёрнутый"],
+    "concepts": []
   },
   {
     "cp": 75069,
@@ -1517,7 +1903,9 @@
     "name": "CUNEIFORM SIGN UR2 TIMES UD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "ur2", "умножить (раз)", "уд"],
+    "concepts": []
   },
   {
     "cp": 75070,
@@ -1525,7 +1913,9 @@
     "name": "CUNEIFORM SIGN URU TIMES DARA3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "уру", "умножить (раз)"],
+    "concepts": []
   },
   {
     "cp": 75071,
@@ -1533,7 +1923,9 @@
     "name": "CUNEIFORM SIGN URU TIMES LAK-668",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "уру", "умножить (раз)", "лак"],
+    "concepts": []
   },
   {
     "cp": 75072,
@@ -1541,7 +1933,9 @@
     "name": "CUNEIFORM SIGN URU TIMES LU3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "уру", "умножить (раз)", "lu3"],
+    "concepts": []
   },
   {
     "cp": 75073,
@@ -1549,7 +1943,9 @@
     "name": "CUNEIFORM SIGN ZA7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак"],
+    "concepts": []
   },
   {
     "cp": 75074,
@@ -1557,7 +1953,9 @@
     "name": "CUNEIFORM SIGN ZU OVER ZU PLUS SAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "зу", "над", "плюс", "сар"],
+    "concepts": []
   },
   {
     "cp": 75075,
@@ -1565,6 +1963,8 @@
     "name": "CUNEIFORM SIGN ZU5 TIMES THREE DISH TENU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["клинопись", "знак", "zu5", "умножить (раз)", "три", "блюдо (чашка)", "тену"],
+    "concepts": []
   }
 ]

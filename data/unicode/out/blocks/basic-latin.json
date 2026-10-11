@@ -5,7 +5,9 @@
     "name": "SPACE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["пробел"],
+    "concepts": []
   },
   {
     "cp": 33,
@@ -16,7 +18,9 @@
     "keywords": {
       "ru": ["восклицание", "восклицательный", "знак"],
       "en": ["bang", "exclamation", "mark", "point"]
-    }
+    },
+    "desc": ["восклицательный", "метка (знак)"],
+    "concepts": ["punctuation-fancy", "warning", "candle", "exclamation"]
   },
   {
     "cp": 34,
@@ -24,7 +28,9 @@
     "name": "QUOTATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кавычка", "метка (знак)"],
+    "concepts": ["quote"]
   },
   {
     "cp": 35,
@@ -35,7 +41,9 @@
     "keywords": {
       "ru": ["знак решетки", "номер", "октоторп", "решетка", "фунт", "хеш", "хэш"],
       "en": ["hash", "hashtag", "lb", "number", "pound", "sign"]
-    }
+    },
+    "desc": ["число", "знак"],
+    "concepts": ["music", "sharp-flat", "at-hash", "numero"]
   },
   {
     "cp": 36,
@@ -46,7 +54,9 @@
     "keywords": {
       "ru": ["валюта", "деньги", "доллар", "США"],
       "en": ["dollar", "money", "peso", "USD"]
-    }
+    },
+    "desc": ["доллар", "знак"],
+    "concepts": ["money", "dollar"]
   },
   {
     "cp": 37,
@@ -54,7 +64,9 @@
     "name": "PERCENT SIGN",
     "ru": "процент",
     "en": "percent",
-    "keywords": { "ru": ["процент", "сотая доля"], "en": ["cent", "per", "per-cent", "percent"] }
+    "keywords": { "ru": ["процент", "сотая доля"], "en": ["cent", "per", "per-cent", "percent"] },
+    "desc": ["процент", "знак"],
+    "concepts": ["percent"]
   },
   {
     "cp": 38,
@@ -62,7 +74,9 @@
     "name": "AMPERSAND",
     "ru": "амперсанд",
     "en": "ampersand",
-    "keywords": { "ru": ["амперсанд", "и"], "en": ["ampersand", "and", "et"] }
+    "keywords": { "ru": ["амперсанд", "и"], "en": ["ampersand", "and", "et"] },
+    "desc": ["амперсанд (&)"],
+    "concepts": ["ampersand"]
   },
   {
     "cp": 39,
@@ -73,7 +87,9 @@
     "keywords": {
       "ru": ["апостроф", "кавычка", "машинописный апостроф", "одинарная кавычка"],
       "en": ["apostrophe", "quote", "single", "typewriter"]
-    }
+    },
+    "desc": ["апостроф"],
+    "concepts": ["rain", "quote"]
   },
   {
     "cp": 40,
@@ -81,7 +97,9 @@
     "name": "LEFT PARENTHESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "круглая скобка"],
+    "concepts": ["face", "brackets", "table-flip"]
   },
   {
     "cp": 41,
@@ -92,7 +110,9 @@
     "keywords": {
       "ru": ["закрывающая скобка", "круглая скобка", "скобка"],
       "en": ["bracket", "close", "paren", "parens", "parenthesis", "round"]
-    }
+    },
+    "desc": ["правый (вправо)", "круглая скобка"],
+    "concepts": ["face", "speaker", "brackets", "wifi", "table-flip"]
   },
   {
     "cp": 42,
@@ -103,7 +123,9 @@
     "keywords": {
       "ru": ["астериск", "звезда", "звездочка"],
       "en": ["asterisk", "star", "wildcard"]
-    }
+    },
+    "desc": ["звёздочка (астериск)"],
+    "concepts": ["star", "asterisk", "snow", "cheeks", "christmas"]
   },
   {
     "cp": 43,
@@ -114,7 +136,9 @@
     "keywords": {
       "ru": ["знак плюса", "плюс", "прибавление", "сложение"],
       "en": ["add", "plus", "sign"]
-    }
+    },
+    "desc": ["плюс", "знак"],
+    "concepts": ["cross", "math", "plus-minus", "medical"]
   },
   {
     "cp": 44,
@@ -122,7 +146,9 @@
     "name": "COMMA",
     "ru": "запятая",
     "en": "comma",
-    "keywords": { "ru": ["запятая"], "en": ["comma"] }
+    "keywords": { "ru": ["запятая"], "en": ["comma"] },
+    "desc": ["запятая"],
+    "concepts": []
   },
   {
     "cp": 45,
@@ -133,7 +159,9 @@
     "keywords": {
       "ru": ["вычитание", "дефис", "дефис-минус", "минус", "тире"],
       "en": ["dash", "hyphen", "hyphen-minus", "minus"]
-    }
+    },
+    "desc": ["дефис", "минус"],
+    "concepts": ["table-flip", "scissors"]
   },
   {
     "cp": 46,
@@ -141,7 +169,9 @@
     "name": "FULL STOP",
     "ru": "точка",
     "en": "period",
-    "keywords": { "ru": ["конец", "точка"], "en": ["dot", "full", "period", "stop"] }
+    "keywords": { "ru": ["конец", "точка"], "en": ["dot", "full", "period", "stop"] },
+    "desc": ["полный", "стоп"],
+    "concepts": ["dot", "ellipsis"]
   },
   {
     "cp": 47,
@@ -152,7 +182,9 @@
     "keywords": {
       "ru": ["косая", "слэш", "черта"],
       "en": ["oblique", "slash", "solidus", "stroke", "virgule", "whack"]
-    }
+    },
+    "desc": ["косая черта (слэш)"],
+    "concepts": ["arms-raised", "shrug", "fraction"]
   },
   {
     "cp": 48,
@@ -160,7 +192,9 @@
     "name": "DIGIT ZERO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["цифра", "ноль"],
+    "concepts": ["circle", "spiral-shapes", "bubble"]
   },
   {
     "cp": 49,
@@ -168,7 +202,9 @@
     "name": "DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["цифра", "один"],
+    "concepts": []
   },
   {
     "cp": 50,
@@ -176,7 +212,9 @@
     "name": "DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["цифра", "два"],
+    "concepts": []
   },
   {
     "cp": 51,
@@ -184,7 +222,9 @@
     "name": "DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["цифра", "три"],
+    "concepts": ["kiss"]
   },
   {
     "cp": 52,
@@ -192,7 +232,9 @@
     "name": "DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["цифра", "четыре"],
+    "concepts": []
   },
   {
     "cp": 53,
@@ -200,7 +242,9 @@
     "name": "DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["цифра", "пять"],
+    "concepts": []
   },
   {
     "cp": 54,
@@ -208,7 +252,9 @@
     "name": "DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["цифра", "шесть"],
+    "concepts": []
   },
   {
     "cp": 55,
@@ -216,7 +262,9 @@
     "name": "DIGIT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["цифра", "семь"],
+    "concepts": []
   },
   {
     "cp": 56,
@@ -224,7 +272,9 @@
     "name": "DIGIT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["цифра", "восемь"],
+    "concepts": ["infinity", "snowman", "ampersand", "scissors"]
   },
   {
     "cp": 57,
@@ -232,7 +282,9 @@
     "name": "DIGIT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["цифра", "девять"],
+    "concepts": []
   },
   {
     "cp": 58,
@@ -240,7 +292,9 @@
     "name": "COLON",
     "ru": "двоеточие",
     "en": "colon",
-    "keywords": { "ru": ["двоеточие"], "en": ["colon"] }
+    "keywords": { "ru": ["двоеточие"], "en": ["colon"] },
+    "desc": ["двоеточие"],
+    "concepts": []
   },
   {
     "cp": 59,
@@ -248,7 +302,12 @@
     "name": "SEMICOLON",
     "ru": "точка с запятой",
     "en": "semicolon",
-    "keywords": { "ru": ["запятая", "точка", "точка с запятой"], "en": ["semi-colon", "semicolon"] }
+    "keywords": {
+      "ru": ["запятая", "точка", "точка с запятой"],
+      "en": ["semi-colon", "semicolon"]
+    },
+    "desc": ["точка с запятой"],
+    "concepts": ["shy", "sweat", "question"]
   },
   {
     "cp": 60,
@@ -259,7 +318,9 @@
     "keywords": {
       "ru": ["менее", "меньше", "меньше чем", "открыть тег", "тег"],
       "en": ["less", "less-than", "open", "tag", "than"]
-    }
+    },
+    "desc": ["меньше", "чем", "знак"],
+    "concepts": ["arrow", "arrow-left", "arrowhead", "math", "compare", "angle-geometry"]
   },
   {
     "cp": 61,
@@ -267,7 +328,9 @@
     "name": "EQUALS SIGN",
     "ru": "равно",
     "en": "equal",
-    "keywords": { "ru": ["знак равенства", "равно", "равняется"], "en": ["equal", "equals"] }
+    "keywords": { "ru": ["знак равенства", "равно", "равняется"], "en": ["equal", "equals"] },
+    "desc": ["равно", "знак"],
+    "concepts": ["math", "equals"]
   },
   {
     "cp": 62,
@@ -278,7 +341,9 @@
     "keywords": {
       "ru": ["более", "больше", "больше чем", "закрыть тег", "тег"],
       "en": ["close", "greater", "greater-than", "tag", "than"]
-    }
+    },
+    "desc": ["больше", "чем", "знак"],
+    "concepts": ["arrow", "arrow-right", "arrowhead", "math", "compare"]
   },
   {
     "cp": 63,
@@ -289,7 +354,9 @@
     "keywords": {
       "ru": ["вопрос", "вопросительный", "знак", "знак вопроса"],
       "en": ["mark", "question"]
-    }
+    },
+    "desc": ["вопрос", "метка (знак)"],
+    "concepts": ["punctuation-fancy", "information", "question"]
   },
   {
     "cp": 64,
@@ -310,7 +377,9 @@
         "sign",
         "strudel"
       ]
-    }
+    },
+    "desc": ["коммерческий", "при (собачка)"],
+    "concepts": ["rose", "spiral", "goat", "at-hash", "dizzy"]
   },
   {
     "cp": 65,
@@ -318,7 +387,9 @@
     "name": "LATIN CAPITAL LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": []
   },
   {
     "cp": 66,
@@ -326,7 +397,9 @@
     "name": "LATIN CAPITAL LETTER B",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": []
   },
   {
     "cp": 67,
@@ -334,7 +407,9 @@
     "name": "LATIN CAPITAL LETTER C",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 68,
@@ -342,7 +417,9 @@
     "name": "LATIN CAPITAL LETTER D",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 69,
@@ -350,7 +427,9 @@
     "name": "LATIN CAPITAL LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": []
   },
   {
     "cp": 70,
@@ -358,7 +437,9 @@
     "name": "LATIN CAPITAL LETTER F",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": []
   },
   {
     "cp": 71,
@@ -366,7 +447,9 @@
     "name": "LATIN CAPITAL LETTER G",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": []
   },
   {
     "cp": 72,
@@ -374,7 +457,9 @@
     "name": "LATIN CAPITAL LETTER H",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": []
   },
   {
     "cp": 73,
@@ -382,7 +467,9 @@
     "name": "LATIN CAPITAL LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": ["line", "roman-numerals"]
   },
   {
     "cp": 74,
@@ -390,7 +477,9 @@
     "name": "LATIN CAPITAL LETTER J",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": []
   },
   {
     "cp": 75,
@@ -398,7 +487,9 @@
     "name": "LATIN CAPITAL LETTER K",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": ["degree"]
   },
   {
     "cp": 76,
@@ -406,7 +497,9 @@
     "name": "LATIN CAPITAL LETTER L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": ["roman-numerals", "corner"]
   },
   {
     "cp": 77,
@@ -414,7 +507,9 @@
     "name": "LATIN CAPITAL LETTER M",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 78,
@@ -422,7 +517,9 @@
     "name": "LATIN CAPITAL LETTER N",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": []
   },
   {
     "cp": 79,
@@ -430,7 +527,9 @@
     "name": "LATIN CAPITAL LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": ["circle", "spiral-shapes", "bubble"]
   },
   {
     "cp": 80,
@@ -438,7 +537,9 @@
     "name": "LATIN CAPITAL LETTER P",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": []
   },
   {
     "cp": 81,
@@ -446,7 +547,9 @@
     "name": "LATIN CAPITAL LETTER Q",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": []
   },
   {
     "cp": 82,
@@ -454,7 +557,9 @@
     "name": "LATIN CAPITAL LETTER R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": []
   },
   {
     "cp": 83,
@@ -462,7 +567,9 @@
     "name": "LATIN CAPITAL LETTER S",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": []
   },
   {
     "cp": 84,
@@ -470,7 +577,9 @@
     "name": "LATIN CAPITAL LETTER T",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": ["sad", "tears"]
   },
   {
     "cp": 85,
@@ -478,7 +587,9 @@
     "name": "LATIN CAPITAL LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": ["dog", "smile", "sets-logic"]
   },
   {
     "cp": 86,
@@ -486,7 +597,9 @@
     "name": "LATIN CAPITAL LETTER V",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 87,
@@ -494,7 +607,9 @@
     "name": "LATIN CAPITAL LETTER W",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 88,
@@ -502,7 +617,9 @@
     "name": "LATIN CAPITAL LETTER X",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": ["cross-mark", "multiply-divide", "roman-numerals", "hourglass", "dizzy"]
   },
   {
     "cp": 89,
@@ -510,7 +627,9 @@
     "name": "LATIN CAPITAL LETTER Y",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": []
   },
   {
     "cp": 90,
@@ -518,7 +637,9 @@
     "name": "LATIN CAPITAL LETTER Z",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "заглавный", "буква"],
+    "concepts": ["night", "sleep"]
   },
   {
     "cp": 91,
@@ -529,7 +650,9 @@
     "keywords": {
       "ru": ["квадратная скобка", "открывающая квадратная скобка", "открывающая скобка", "скобка"],
       "en": ["bracket", "crotchet", "open", "square"]
-    }
+    },
+    "desc": ["левый (влево)", "квадрат", "скобка"],
+    "concepts": ["brackets"]
   },
   {
     "cp": 92,
@@ -540,7 +663,9 @@
     "keywords": {
       "ru": ["бэкслэш", "косая", "обратная", "черта"],
       "en": ["backslash", "reverse", "solidus", "whack"]
-    }
+    },
+    "desc": ["обратный", "косая черта (слэш)"],
+    "concepts": ["arms-raised", "shrug"]
   },
   {
     "cp": 93,
@@ -551,7 +676,9 @@
     "keywords": {
       "ru": ["закрывающая квадратная скобка", "закрывающая скобка", "квадратная скобка", "скобка"],
       "en": ["bracket", "close", "crotchet", "square"]
-    }
+    },
+    "desc": ["правый (вправо)", "квадрат", "скобка"],
+    "concepts": ["brackets"]
   },
   {
     "cp": 94,
@@ -574,7 +701,20 @@
         "wedge",
         "xor"
       ]
-    }
+    },
+    "desc": ["циркумфлекс (крышечка)", "ударение (акцент)"],
+    "concepts": [
+      "mountain",
+      "cat",
+      "cat-ears",
+      "smile",
+      "wink",
+      "devil",
+      "arrow",
+      "arrow-up",
+      "arrowhead",
+      "zigzag"
+    ]
   },
   {
     "cp": 95,
@@ -585,7 +725,9 @@
     "keywords": {
       "ru": ["андерскор", "нижний пробел", "подчеркивание", "символ подчеркивания"],
       "en": ["dash", "line", "low", "underdash", "underline"]
-    }
+    },
+    "desc": ["низкий", "линия"],
+    "concepts": ["shrug", "line"]
   },
   {
     "cp": 96,
@@ -593,7 +735,9 @@
     "name": "GRAVE ACCENT",
     "ru": "гравис",
     "en": "grave accent",
-    "keywords": { "ru": ["гравис", "ударение"], "en": ["accent", "grave", "tone"] }
+    "keywords": { "ru": ["гравис", "ударение"], "en": ["accent", "grave", "tone"] },
+    "desc": ["гравис", "ударение (акцент)"],
+    "concepts": ["angry"]
   },
   {
     "cp": 97,
@@ -601,7 +745,9 @@
     "name": "LATIN SMALL LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 98,
@@ -609,7 +755,9 @@
     "name": "LATIN SMALL LETTER B",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": ["music", "sharp-flat", "font-upside-down"]
   },
   {
     "cp": 99,
@@ -617,7 +765,9 @@
     "name": "LATIN SMALL LETTER C",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 100,
@@ -625,7 +775,9 @@
     "name": "LATIN SMALL LETTER D",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": ["roman-numerals", "font-upside-down"]
   },
   {
     "cp": 101,
@@ -633,7 +785,9 @@
     "name": "LATIN SMALL LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 102,
@@ -641,7 +795,9 @@
     "name": "LATIN SMALL LETTER F",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 103,
@@ -649,7 +805,9 @@
     "name": "LATIN SMALL LETTER G",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 104,
@@ -657,7 +815,9 @@
     "name": "LATIN SMALL LETTER H",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 105,
@@ -665,7 +825,9 @@
     "name": "LATIN SMALL LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": ["roman-numerals", "information"]
   },
   {
     "cp": 106,
@@ -673,7 +835,9 @@
     "name": "LATIN SMALL LETTER J",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 107,
@@ -681,7 +845,9 @@
     "name": "LATIN SMALL LETTER K",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 108,
@@ -689,7 +855,9 @@
     "name": "LATIN SMALL LETTER L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": ["line", "roman-numerals"]
   },
   {
     "cp": 109,
@@ -697,7 +865,9 @@
     "name": "LATIN SMALL LETTER M",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 110,
@@ -705,7 +875,9 @@
     "name": "LATIN SMALL LETTER N",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 111,
@@ -713,7 +885,9 @@
     "name": "LATIN SMALL LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": ["circle", "spiral-shapes", "degree", "font-upside-down", "bubble"]
   },
   {
     "cp": 112,
@@ -721,7 +895,9 @@
     "name": "LATIN SMALL LETTER P",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 113,
@@ -729,7 +905,9 @@
     "name": "LATIN SMALL LETTER Q",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 114,
@@ -737,7 +915,9 @@
     "name": "LATIN SMALL LETTER R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 115,
@@ -745,7 +925,9 @@
     "name": "LATIN SMALL LETTER S",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 116,
@@ -753,7 +935,9 @@
     "name": "LATIN SMALL LETTER T",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 117,
@@ -761,7 +945,9 @@
     "name": "LATIN SMALL LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 118,
@@ -769,7 +955,9 @@
     "name": "LATIN SMALL LETTER V",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 119,
@@ -777,7 +965,9 @@
     "name": "LATIN SMALL LETTER W",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 120,
@@ -785,7 +975,9 @@
     "name": "LATIN SMALL LETTER X",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": ["cross-mark", "multiply-divide", "roman-numerals", "font-upside-down", "dizzy"]
   },
   {
     "cp": 121,
@@ -793,7 +985,9 @@
     "name": "LATIN SMALL LETTER Y",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 122,
@@ -801,7 +995,9 @@
     "name": "LATIN SMALL LETTER Z",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["латинский", "маленький (строчный)", "буква"],
+    "concepts": ["night", "sleep", "font-upside-down"]
   },
   {
     "cp": 123,
@@ -812,7 +1008,9 @@
     "keywords": {
       "ru": ["открывающая скобка", "открывающая фигурная скобка", "скобка", "фигурная скобка"],
       "en": ["brace", "bracket", "curly", "gullwing", "open"]
-    }
+    },
+    "desc": ["левый (влево)", "фигурный", "скобка"],
+    "concepts": ["brackets"]
   },
   {
     "cp": 124,
@@ -823,7 +1021,9 @@
     "keywords": {
       "ru": ["вертикальная линия", "вертикальная черта", "пайп"],
       "en": ["bar", "line", "pike", "pipe", "sheffer", "stick", "stroke", "vbar", "vertical"]
-    }
+    },
+    "desc": ["вертикальный", "линия"],
+    "concepts": ["line", "exclamation"]
   },
   {
     "cp": 125,
@@ -834,7 +1034,9 @@
     "keywords": {
       "ru": ["закрывающая скобка", "закрывающая фигурная скобка", "скобка", "фигурная скобка"],
       "en": ["brace", "bracket", "close", "curly", "gullwing"]
-    }
+    },
+    "desc": ["правый (вправо)", "фигурный", "скобка"],
+    "concepts": ["brackets"]
   },
   {
     "cp": 126,
@@ -842,6 +1044,8 @@
     "name": "TILDE",
     "ru": "тильда",
     "en": "tilde",
-    "keywords": { "ru": ["подобие", "тильда", "эквивалент"], "en": ["tilde"] }
+    "keywords": { "ru": ["подобие", "тильда", "эквивалент"], "en": ["tilde"] },
+    "desc": ["тильда"],
+    "concepts": ["wind", "water", "wave", "snake", "wave-line", "divider", "aquarius"]
   }
 ]

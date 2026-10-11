@@ -5,7 +5,9 @@
     "name": "INTERLINEAR ANNOTATION ANCHOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["подстрочный", "аннотация", "якорь"],
+    "concepts": []
   },
   {
     "cp": 65530,
@@ -13,7 +15,9 @@
     "name": "INTERLINEAR ANNOTATION SEPARATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["подстрочный", "аннотация", "разделитель"],
+    "concepts": []
   },
   {
     "cp": 65531,
@@ -21,7 +25,9 @@
     "name": "INTERLINEAR ANNOTATION TERMINATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["подстрочный", "аннотация", "завершитель"],
+    "concepts": []
   },
   {
     "cp": 65532,
@@ -29,7 +35,9 @@
     "name": "OBJECT REPLACEMENT CHARACTER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["объект", "замена", "символ"],
+    "concepts": []
   },
   {
     "cp": 65533,
@@ -37,6 +45,8 @@
     "name": "REPLACEMENT CHARACTER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["замена", "символ"],
+    "concepts": []
   }
 ]

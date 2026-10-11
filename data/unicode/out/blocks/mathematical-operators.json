@@ -8,7 +8,9 @@
     "keywords": {
       "ru": ["данность", "для всех", "любое", "универсально"],
       "en": ["all", "any", "for", "given", "universal"]
-    }
+    },
+    "desc": ["для", "все"],
+    "concepts": ["face", "triangle", "math", "sets-logic", "font-upside-down", "mouth"]
   },
   {
     "cp": 8705,
@@ -16,7 +18,9 @@
     "name": "COMPLEMENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["дополнение"],
+    "concepts": ["sets-logic"]
   },
   {
     "cp": 8706,
@@ -27,7 +31,9 @@
     "keywords": {
       "ru": ["дифференциал", "частичный дифференциал"],
       "en": ["differential", "partial"]
-    }
+    },
+    "desc": ["частный", "дифференциал"],
+    "concepts": ["leaf", "math", "sum-integral"]
   },
   {
     "cp": 8707,
@@ -35,7 +41,9 @@
     "name": "THERE EXISTS",
     "ru": "существует",
     "en": "there exists",
-    "keywords": { "ru": ["существует"], "en": ["exists", "there"] }
+    "keywords": { "ru": ["существует"], "en": ["exists", "there"] },
+    "desc": ["существует"],
+    "concepts": ["triangle", "math", "sets-logic"]
   },
   {
     "cp": 8708,
@@ -43,7 +51,9 @@
     "name": "THERE DOES NOT EXIST",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["существует", "не"],
+    "concepts": ["sets-logic"]
   },
   {
     "cp": 8709,
@@ -54,7 +64,9 @@
     "keywords": {
       "ru": ["математика", "оператор над множеством", "пустое множество"],
       "en": ["empty", "mathematics", "operator", "set"]
-    }
+    },
+    "desc": ["пустой", "множество"],
+    "concepts": ["circle", "percent", "math", "sets-logic", "warning", "prohibited"]
   },
   {
     "cp": 8710,
@@ -62,7 +74,9 @@
     "name": "INCREMENT",
     "ru": "инкремент",
     "en": "increment",
-    "keywords": { "ru": ["инкремент", "треугольник"], "en": ["increment", "triangle"] }
+    "keywords": { "ru": ["инкремент", "треугольник"], "en": ["increment", "triangle"] },
+    "desc": ["приращение"],
+    "concepts": ["triangle", "math", "sum-integral", "greek"]
   },
   {
     "cp": 8711,
@@ -70,7 +84,9 @@
     "name": "NABLA",
     "ru": "набла",
     "en": "nabla",
-    "keywords": { "ru": ["набла", "треугольник"], "en": ["nabla", "triangle"] }
+    "keywords": { "ru": ["набла", "треугольник"], "en": ["nabla", "triangle"] },
+    "desc": ["набла"],
+    "concepts": ["triangle", "math", "sum-integral", "greek", "mouth"]
   },
   {
     "cp": 8712,
@@ -88,7 +104,9 @@
         "элемент"
       ],
       "en": ["contains", "element", "membership", "of", "set"]
-    }
+    },
+    "desc": ["элемент", "из"],
+    "concepts": ["euro", "math", "sets-logic"]
   },
   {
     "cp": 8713,
@@ -96,7 +114,9 @@
     "name": "NOT AN ELEMENT OF",
     "ru": "не принадлежит",
     "en": "not an element",
-    "keywords": { "ru": ["не принадлежит"], "en": ["an", "element", "not"] }
+    "keywords": { "ru": ["не принадлежит"], "en": ["an", "element", "not"] },
+    "desc": ["не", "ан", "элемент", "из"],
+    "concepts": ["euro", "math", "sets-logic"]
   },
   {
     "cp": 8714,
@@ -104,7 +124,9 @@
     "name": "SMALL ELEMENT OF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "элемент", "из"],
+    "concepts": ["euro"]
   },
   {
     "cp": 8715,
@@ -115,7 +137,9 @@
     "keywords": {
       "ru": ["содержит в качестве члена"],
       "en": ["as", "contains", "element", "member"]
-    }
+    },
+    "desc": ["содержит", "как", "элемент"],
+    "concepts": ["sets-logic"]
   },
   {
     "cp": 8716,
@@ -123,7 +147,9 @@
     "name": "DOES NOT CONTAIN AS MEMBER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "содержать", "как", "элемент"],
+    "concepts": ["sets-logic"]
   },
   {
     "cp": 8717,
@@ -131,7 +157,9 @@
     "name": "SMALL CONTAINS AS MEMBER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "содержит", "как", "элемент"],
+    "concepts": []
   },
   {
     "cp": 8718,
@@ -142,7 +170,9 @@
     "keywords": {
       "ru": ["конец доказательства", "надгробие", "ч. т. д.", "что и требовалось доказать"],
       "en": ["end", "halmos", "proof", "q.e.d.", "qed", "tombstone"]
-    }
+    },
+    "desc": ["конец", "из", "доказательство"],
+    "concepts": []
   },
   {
     "cp": 8719,
@@ -153,7 +183,9 @@
     "keywords": {
       "ru": ["n-арное произведение", "логика", "произведение"],
       "en": ["logic", "n-ary", "product"]
-    }
+    },
+    "desc": ["арный", "произведение"],
+    "concepts": ["rainbow", "math", "sum-integral", "pi", "greek"]
   },
   {
     "cp": 8720,
@@ -161,7 +193,9 @@
     "name": "N-ARY COPRODUCT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арный", "копроизведение"],
+    "concepts": ["sum-integral", "pi"]
   },
   {
     "cp": 8721,
@@ -172,7 +206,9 @@
     "keywords": {
       "ru": ["n-арное суммирование", "сумма", "суммирование"],
       "en": ["mathematics", "n-ary", "summation"]
-    }
+    },
+    "desc": ["арный", "сумма"],
+    "concepts": ["math", "sum-integral", "greek", "school"]
   },
   {
     "cp": 8722,
@@ -183,7 +219,9 @@
     "keywords": {
       "ru": ["вычитание", "знак минуса", "минус", "уменьшение"],
       "en": ["minus", "sign", "subtract"]
-    }
+    },
+    "desc": ["минус", "знак"],
+    "concepts": ["math", "plus-minus"]
   },
   {
     "cp": 8723,
@@ -191,7 +229,9 @@
     "name": "MINUS-OR-PLUS SIGN",
     "ru": "знак минус-плюс",
     "en": "minus-or-plus",
-    "keywords": { "ru": ["знак минус-плюс"], "en": ["minus-or-plus", "plus-minus"] }
+    "keywords": { "ru": ["знак минус-плюс"], "en": ["minus-or-plus", "plus-minus"] },
+    "desc": ["минус", "или", "плюс", "знак"],
+    "concepts": ["math", "plus-minus"]
   },
   {
     "cp": 8724,
@@ -199,7 +239,9 @@
     "name": "DOT PLUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["точка", "плюс"],
+    "concepts": ["cross", "plus-minus"]
   },
   {
     "cp": 8725,
@@ -207,7 +249,9 @@
     "name": "DIVISION SLASH",
     "ru": "разделительный знак",
     "en": "division slash",
-    "keywords": { "ru": ["разделительный знак"], "en": ["division", "slash", "stroke", "virgule"] }
+    "keywords": { "ru": ["разделительный знак"], "en": ["division", "slash", "stroke", "virgule"] },
+    "desc": ["деление", "слэш (косая черта)"],
+    "concepts": ["writing", "arrow-diagonal", "percent", "multiply-divide", "fraction"]
   },
   {
     "cp": 8726,
@@ -215,7 +259,9 @@
     "name": "SET MINUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["множество", "минус"],
+    "concepts": []
   },
   {
     "cp": 8727,
@@ -226,7 +272,9 @@
     "keywords": {
       "ru": ["звездочка", "оператор звездочки"],
       "en": ["asterisk", "operator", "star"]
-    }
+    },
+    "desc": ["звёздочка (астериск)", "оператор"],
+    "concepts": ["star", "asterisk", "snow", "math", "multiply-divide", "christmas"]
   },
   {
     "cp": 8728,
@@ -234,7 +282,19 @@
     "name": "RING OPERATOR",
     "ru": "кольцевой оператор",
     "en": "ring operator",
-    "keywords": { "ru": ["кольцевой оператор"], "en": ["composition", "operator", "ring"] }
+    "keywords": { "ru": ["кольцевой оператор"], "en": ["composition", "operator", "ring"] },
+    "desc": ["кольцо", "оператор"],
+    "concepts": [
+      "pig",
+      "circle",
+      "dot",
+      "math",
+      "frame-nick",
+      "divider",
+      "degree",
+      "chat",
+      "bubble"
+    ]
   },
   {
     "cp": 8729,
@@ -245,7 +305,9 @@
     "keywords": {
       "ru": ["буллет-оператор", "оператор", "оператор произведения"],
       "en": ["bullet", "operator"]
-    }
+    },
+    "desc": ["маркер списка (точка)", "оператор"],
+    "concepts": ["circle", "circle-black", "dot", "multiply-divide", "bullet"]
   },
   {
     "cp": 8730,
@@ -256,7 +318,9 @@
     "keywords": {
       "ru": ["знак корня", "иррациональное число", "квадратный", "корень", "радикал"],
       "en": ["radical", "radix", "root", "square", "surd"]
-    }
+    },
+    "desc": ["квадрат", "корень"],
+    "concepts": ["check", "math", "root", "school"]
   },
   {
     "cp": 8731,
@@ -264,7 +328,9 @@
     "name": "CUBE ROOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["куб", "корень"],
+    "concepts": ["check", "math", "root"]
   },
   {
     "cp": 8732,
@@ -272,7 +338,9 @@
     "name": "FOURTH ROOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["четвёртый", "корень"],
+    "concepts": ["check", "math", "root"]
   },
   {
     "cp": 8733,
@@ -283,7 +351,9 @@
     "keywords": {
       "ru": ["пропорционально", "пропорциональность"],
       "en": ["proportional", "proportionality"]
-    }
+    },
+    "desc": ["пропорционально", "к"],
+    "concepts": ["infinity", "fish", "math", "infinity-math", "alpha", "scissors"]
   },
   {
     "cp": 8734,
@@ -291,7 +361,19 @@
     "name": "INFINITY",
     "ru": "знак бесконечности",
     "en": "infinity sign",
-    "keywords": { "ru": ["бесконечность", "знак бесконечности"], "en": ["infinity", "sign"] }
+    "keywords": { "ru": ["бесконечность", "знак бесконечности"], "en": ["infinity", "sign"] },
+    "desc": ["бесконечность"],
+    "concepts": [
+      "wedding",
+      "couple",
+      "infinity",
+      "forever",
+      "cloud",
+      "math",
+      "infinity-math",
+      "celtic",
+      "pin"
+    ]
   },
   {
     "cp": 8735,
@@ -302,7 +384,9 @@
     "keywords": {
       "ru": ["математика", "правый угол", "прямой угол"],
       "en": ["angle", "mathematics", "right"]
-    }
+    },
+    "desc": ["правый (вправо)", "угол"],
+    "concepts": ["check", "math", "root", "angle-geometry", "corner", "school"]
   },
   {
     "cp": 8736,
@@ -310,7 +394,9 @@
     "name": "ANGLE",
     "ru": "острый угол",
     "en": "angle",
-    "keywords": { "ru": ["острый угол", "угол"], "en": ["acute", "angle"] }
+    "keywords": { "ru": ["острый угол", "угол"], "en": ["acute", "angle"] },
+    "desc": ["угол"],
+    "concepts": ["math", "angle-geometry", "school"]
   },
   {
     "cp": 8737,
@@ -318,7 +404,9 @@
     "name": "MEASURED ANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["измеренный", "угол"],
+    "concepts": ["angle-geometry"]
   },
   {
     "cp": 8738,
@@ -326,7 +414,9 @@
     "name": "SPHERICAL ANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сферический", "угол"],
+    "concepts": ["angle-geometry"]
   },
   {
     "cp": 8739,
@@ -337,7 +427,9 @@
     "keywords": {
       "ru": ["вертикальная", "линия", "разделитель", "разделительная", "черта"],
       "en": ["divides", "divisor"]
-    }
+    },
+    "desc": ["делит"],
+    "concepts": ["line", "sets-logic"]
   },
   {
     "cp": 8740,
@@ -345,7 +437,9 @@
     "name": "DOES NOT DIVIDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "делит"],
+    "concepts": ["sets-logic"]
   },
   {
     "cp": 8741,
@@ -356,7 +450,9 @@
     "keywords": {
       "ru": ["знаки", "отношений", "параллельно", "параллельность"],
       "en": ["parallel"]
-    }
+    },
+    "desc": ["параллельно", "к"],
+    "concepts": ["line", "play-pause", "math", "angle-geometry", "gemini"]
   },
   {
     "cp": 8742,
@@ -364,7 +460,9 @@
     "name": "NOT PARALLEL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "параллельно", "к"],
+    "concepts": ["angle-geometry"]
   },
   {
     "cp": 8743,
@@ -375,7 +473,20 @@
     "keywords": {
       "ru": ["конъюнктор", "конъюнкция", "логический оператор «и»", "логическое и"],
       "en": ["ac", "and", "atque", "logical", "wedge"]
-    }
+    },
+    "desc": ["логический", "и"],
+    "concepts": [
+      "mountain",
+      "cat-ears",
+      "bird",
+      "fox",
+      "arrow-up",
+      "arrowhead",
+      "triangle",
+      "zigzag",
+      "math",
+      "sets-logic"
+    ]
   },
   {
     "cp": 8744,
@@ -383,7 +494,22 @@
     "name": "LOGICAL OR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["логический", "или"],
+    "concepts": [
+      "bird",
+      "fox",
+      "check",
+      "victory",
+      "arrow-down",
+      "arrowhead",
+      "triangle",
+      "zigzag",
+      "math",
+      "root",
+      "sets-logic",
+      "nose"
+    ]
   },
   {
     "cp": 8745,
@@ -391,7 +517,24 @@
     "name": "INTERSECTION",
     "ru": "пересечение",
     "en": "intersection",
-    "keywords": { "ru": ["множество", "пересечение"], "en": ["intersection", "set"] }
+    "keywords": { "ru": ["множество", "пересечение"], "en": ["intersection", "set"] },
+    "desc": ["пересечение"],
+    "concepts": [
+      "mushroom",
+      "rainbow",
+      "bunny",
+      "turtle",
+      "ghost",
+      "hand",
+      "sad",
+      "math",
+      "pi",
+      "sets-logic",
+      "home",
+      "font-upside-down",
+      "lucky",
+      "bell"
+    ]
   },
   {
     "cp": 8746,
@@ -402,7 +545,23 @@
     "keywords": {
       "ru": ["множество", "объединение", "совокупность"],
       "en": ["collection", "set", "union"]
-    }
+    },
+    "desc": ["объединение"],
+    "concepts": [
+      "dog",
+      "bunny",
+      "frog",
+      "smile",
+      "math",
+      "sets-logic",
+      "phone",
+      "ship",
+      "food",
+      "coffee",
+      "trophy",
+      "lucky",
+      "toilet"
+    ]
   },
   {
     "cp": 8747,
@@ -410,7 +569,18 @@
     "name": "INTEGRAL",
     "ru": "интеграл",
     "en": "integral",
-    "keywords": { "ru": ["интеграл", "математический анализ"], "en": ["calculus", "integral"] }
+    "keywords": { "ru": ["интеграл", "математический анализ"], "en": ["calculus", "integral"] },
+    "desc": ["интеграл"],
+    "concepts": [
+      "snake",
+      "writing",
+      "music",
+      "note",
+      "math",
+      "sum-integral",
+      "school",
+      "hot-spring"
+    ]
   },
   {
     "cp": 8748,
@@ -421,7 +591,9 @@
     "keywords": {
       "ru": ["двойной интеграл", "математический анализ"],
       "en": ["calculus", "double", "integral"]
-    }
+    },
+    "desc": ["двойной", "интеграл"],
+    "concepts": ["sum-integral"]
   },
   {
     "cp": 8749,
@@ -429,7 +601,9 @@
     "name": "TRIPLE INTEGRAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тройной", "интеграл"],
+    "concepts": ["sum-integral"]
   },
   {
     "cp": 8750,
@@ -440,7 +614,9 @@
     "keywords": {
       "ru": ["интеграл по замкнутому контуру", "интеграл по контуру", "криволинейный интеграл"],
       "en": ["contour", "integral"]
-    }
+    },
+    "desc": ["контурный", "интеграл"],
+    "concepts": ["writing", "music", "note", "clef", "math", "sum-integral"]
   },
   {
     "cp": 8751,
@@ -448,7 +624,9 @@
     "name": "SURFACE INTEGRAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["поверхность", "интеграл"],
+    "concepts": ["music", "clef", "math", "sum-integral"]
   },
   {
     "cp": 8752,
@@ -456,7 +634,9 @@
     "name": "VOLUME INTEGRAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["объём (громкость)", "интеграл"],
+    "concepts": ["clef", "math", "sum-integral"]
   },
   {
     "cp": 8753,
@@ -464,7 +644,9 @@
     "name": "CLOCKWISE INTEGRAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["по часовой стрелке", "интеграл"],
+    "concepts": ["sum-integral"]
   },
   {
     "cp": 8754,
@@ -472,7 +654,9 @@
     "name": "CLOCKWISE CONTOUR INTEGRAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["по часовой стрелке", "контурный", "интеграл"],
+    "concepts": ["sum-integral"]
   },
   {
     "cp": 8755,
@@ -480,7 +664,9 @@
     "name": "ANTICLOCKWISE CONTOUR INTEGRAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["против часовой стрелки", "контурный", "интеграл"],
+    "concepts": ["sum-integral"]
   },
   {
     "cp": 8756,
@@ -488,7 +674,18 @@
     "name": "THEREFORE",
     "ru": "следовательно",
     "en": "therefore",
-    "keywords": { "ru": ["логический оператор", "следовательно"], "en": ["logic", "therefore"] }
+    "keywords": { "ru": ["логический оператор", "следовательно"], "en": ["logic", "therefore"] },
+    "desc": ["следовательно"],
+    "concepts": [
+      "asterism",
+      "constellation",
+      "clover",
+      "paw",
+      "dot",
+      "braille",
+      "sets-logic",
+      "ellipsis"
+    ]
   },
   {
     "cp": 8757,
@@ -499,7 +696,9 @@
     "keywords": {
       "ru": ["логический оператор", "поскольку", "потому что", "так как"],
       "en": ["because", "logic"]
-    }
+    },
+    "desc": ["потому что"],
+    "concepts": ["asterism", "constellation", "dot", "braille", "sets-logic", "ellipsis"]
   },
   {
     "cp": 8758,
@@ -507,7 +706,9 @@
     "name": "RATIO",
     "ru": "соотношение",
     "en": "ratio",
-    "keywords": { "ru": ["отношение", "соотношение"], "en": ["ratio"] }
+    "keywords": { "ru": ["отношение", "соотношение"], "en": ["ratio"] },
+    "desc": ["отношение"],
+    "concepts": ["multiply-divide"]
   },
   {
     "cp": 8759,
@@ -518,7 +719,9 @@
     "keywords": {
       "ru": ["пропорциональность", "пропорция"],
       "en": ["proportion", "proportionality"]
-    }
+    },
+    "desc": ["пропорция"],
+    "concepts": ["paw", "dot", "braille", "dice", "ellipsis"]
   },
   {
     "cp": 8760,
@@ -526,7 +729,9 @@
     "name": "DOT MINUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["точка", "минус"],
+    "concepts": ["plus-minus"]
   },
   {
     "cp": 8761,
@@ -534,7 +739,9 @@
     "name": "EXCESS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["избыток"],
+    "concepts": []
   },
   {
     "cp": 8762,
@@ -542,7 +749,9 @@
     "name": "GEOMETRIC PROPORTION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["геометрический", "пропорция"],
+    "concepts": ["multiply-divide"]
   },
   {
     "cp": 8763,
@@ -550,7 +759,9 @@
     "name": "HOMOTHETIC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["гомотетия"],
+    "concepts": ["multiply-divide"]
   },
   {
     "cp": 8764,
@@ -558,7 +769,9 @@
     "name": "TILDE OPERATOR",
     "ru": "оператор тильды",
     "en": "tilde operator",
-    "keywords": { "ru": ["оператор", "оператор тильды", "тильда"], "en": ["operator", "tilde"] }
+    "keywords": { "ru": ["оператор", "оператор тильды", "тильда"], "en": ["operator", "tilde"] },
+    "desc": ["тильда", "оператор"],
+    "concepts": ["wave", "wave-line"]
   },
   {
     "cp": 8765,
@@ -566,7 +779,9 @@
     "name": "REVERSED TILDE",
     "ru": "обратная тильда",
     "en": "reversed tilde",
-    "keywords": { "ru": ["обратная тильда", "тильда"], "en": ["reversed", "tilde"] }
+    "keywords": { "ru": ["обратная тильда", "тильда"], "en": ["reversed", "tilde"] },
+    "desc": ["зеркальный (обратный)", "тильда"],
+    "concepts": ["infinity", "wind", "water", "wave", "wave-line", "infinity-math", "aquarius"]
   },
   {
     "cp": 8766,
@@ -574,7 +789,9 @@
     "name": "INVERTED LAZY S",
     "ru": "инвертированная плавная S",
     "en": "inverted lazy s",
-    "keywords": { "ru": ["инвертированная плавная S"], "en": ["inverted", "lazy", "s"] }
+    "keywords": { "ru": ["инвертированная плавная S"], "en": ["inverted", "lazy", "s"] },
+    "desc": ["перевёрнутый", "ленивый"],
+    "concepts": ["infinity", "wind", "water", "wave", "wave-line", "infinity-math", "aquarius"]
   },
   {
     "cp": 8767,
@@ -582,7 +799,23 @@
     "name": "SINE WAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["синус", "волна"],
+    "concepts": [
+      "weather",
+      "wind",
+      "fog",
+      "water",
+      "wave",
+      "snake",
+      "arrow-zigzag",
+      "wave-line",
+      "divider",
+      "medical",
+      "zodiac",
+      "aquarius",
+      "hot-spring"
+    ]
   },
   {
     "cp": 8768,
@@ -590,7 +823,9 @@
     "name": "WREATH PRODUCT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["венок", "произведение"],
+    "concepts": ["water", "wave", "wave-line", "aquarius"]
   },
   {
     "cp": 8769,
@@ -598,7 +833,9 @@
     "name": "NOT TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "тильда"],
+    "concepts": []
   },
   {
     "cp": 8770,
@@ -606,7 +843,9 @@
     "name": "MINUS TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["минус", "тильда"],
+    "concepts": []
   },
   {
     "cp": 8771,
@@ -617,7 +856,9 @@
     "keywords": {
       "ru": ["асимптотически равно", "асимптотическое равенство", "математика"],
       "en": ["asymptote", "asymptotically", "equal", "mathematics"]
-    }
+    },
+    "desc": ["асимптотически", "равно", "к"],
+    "concepts": ["water", "wave-line", "equals"]
   },
   {
     "cp": 8772,
@@ -625,7 +866,9 @@
     "name": "NOT ASYMPTOTICALLY EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "асимптотически", "равно", "к"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8773,
@@ -636,7 +879,9 @@
     "keywords": {
       "ru": ["изоморфизм", "конгруэнтность", "приблизительно равно", "примерно равно", "равенство"],
       "en": ["approximately", "congruence", "equal", "equality", "isomorphism", "mathematics"]
-    }
+    },
+    "desc": ["приблизительно", "равно", "к"],
+    "concepts": ["water", "wave-line", "equals"]
   },
   {
     "cp": 8774,
@@ -644,7 +889,9 @@
     "name": "APPROXIMATELY BUT NOT ACTUALLY EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["приблизительно", "но", "не", "на самом деле", "равно", "к"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8775,
@@ -652,7 +899,9 @@
     "name": "NEITHER APPROXIMATELY NOR ACTUALLY EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ни", "приблизительно", "на самом деле", "равно", "к"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8776,
@@ -670,7 +919,22 @@
         "примерно равно"
       ],
       "en": ["almost", "approximate", "approximation", "equal"]
-    }
+    },
+    "desc": ["почти", "равно", "к"],
+    "concepts": [
+      "wind",
+      "fog",
+      "water",
+      "wave",
+      "arrow-zigzag",
+      "wave-line",
+      "math",
+      "equals",
+      "divider",
+      "zodiac",
+      "aquarius",
+      "hot-spring"
+    ]
   },
   {
     "cp": 8777,
@@ -678,7 +942,9 @@
     "name": "NOT ALMOST EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "почти", "равно", "к"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8778,
@@ -686,7 +952,9 @@
     "name": "ALMOST EQUAL OR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["почти", "равно", "или", "к"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8779,
@@ -694,7 +962,23 @@
     "name": "TRIPLE TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тройной", "тильда"],
+    "concepts": [
+      "weather",
+      "wind",
+      "fog",
+      "water",
+      "air",
+      "wave",
+      "arrow-zigzag",
+      "wave-line",
+      "equals",
+      "divider",
+      "zodiac",
+      "aquarius",
+      "hot-spring"
+    ]
   },
   {
     "cp": 8780,
@@ -705,7 +989,9 @@
     "keywords": {
       "ru": ["все равны", "математика", "равенство"],
       "en": ["all", "equal", "equality", "mathematics"]
-    }
+    },
+    "desc": ["все", "равно", "к"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8781,
@@ -713,7 +999,9 @@
     "name": "EQUIVALENT TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эквивалентный", "к"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8782,
@@ -721,7 +1009,9 @@
     "name": "GEOMETRICALLY EQUIVALENT TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["геометрически", "эквивалентный", "к"],
+    "concepts": ["equals", "libra"]
   },
   {
     "cp": 8783,
@@ -729,7 +1019,9 @@
     "name": "DIFFERENCE BETWEEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["разность", "между"],
+    "concepts": ["equals", "libra"]
   },
   {
     "cp": 8784,
@@ -737,7 +1029,9 @@
     "name": "APPROACHES THE LIMIT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["стремится", "предел"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8785,
@@ -745,7 +1039,9 @@
     "name": "GEOMETRICALLY EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["геометрически", "равно", "к"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8786,
@@ -756,7 +1052,9 @@
     "keywords": {
       "ru": ["знак приблизительного равенства", "приблизительное равенство"],
       "en": ["approximately", "equal", "image", "the"]
-    }
+    },
+    "desc": ["приблизительно", "равно", "к", "или", "образ (изображение)", "из"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8787,
@@ -764,7 +1062,9 @@
     "name": "IMAGE OF OR APPROXIMATELY EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["образ (изображение)", "из", "или", "приблизительно", "равно", "к"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8788,
@@ -772,7 +1072,9 @@
     "name": "COLON EQUALS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["двоеточие", "равно"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8789,
@@ -780,7 +1082,9 @@
     "name": "EQUALS COLON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["равно", "двоеточие"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8790,
@@ -791,7 +1095,9 @@
     "keywords": {
       "ru": ["кольцо в равно", "математика", "равенство"],
       "en": ["equal", "equality", "in", "mathematics", "ring"]
-    }
+    },
+    "desc": ["кольцо", "в", "равно", "к"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8791,
@@ -799,7 +1105,9 @@
     "name": "RING EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кольцо", "равно", "к"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8792,
@@ -807,7 +1115,9 @@
     "name": "CORRESPONDS TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["соответствует", "к"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8793,
@@ -815,7 +1125,9 @@
     "name": "ESTIMATES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["оценивает"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8794,
@@ -823,7 +1135,9 @@
     "name": "EQUIANGULAR TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["равноугольный", "к"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8795,
@@ -831,7 +1145,9 @@
     "name": "STAR EQUALS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["звезда", "равно"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8796,
@@ -839,7 +1155,9 @@
     "name": "DELTA EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["дельта", "равно", "к"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8797,
@@ -847,7 +1165,9 @@
     "name": "EQUAL TO BY DEFINITION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["равно", "к", "на (через)", "определение"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8798,
@@ -855,7 +1175,9 @@
     "name": "MEASURED BY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["измеренный", "на (через)"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8799,
@@ -863,7 +1185,9 @@
     "name": "QUESTIONED EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["под вопросом", "равно", "к"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8800,
@@ -874,7 +1198,9 @@
     "keywords": {
       "ru": ["знак неравенства", "не равно", "не равняется", "неравенство"],
       "en": ["equal", "inequality", "inequation", "not"]
-    }
+    },
+    "desc": ["не", "равно", "к"],
+    "concepts": ["dagger", "math", "equals"]
   },
   {
     "cp": 8801,
@@ -885,7 +1211,9 @@
     "keywords": {
       "ru": ["идентичный", "равный", "тождественное равенство", "тождество", "тройной"],
       "en": ["exact", "identical", "to", "triple"]
-    }
+    },
+    "desc": ["тождественно", "к"],
+    "concepts": ["fog", "gun", "trigram", "math", "equals", "divider"]
   },
   {
     "cp": 8802,
@@ -893,7 +1221,9 @@
     "name": "NOT IDENTICAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "тождественно", "к"],
+    "concepts": ["equals"]
   },
   {
     "cp": 8803,
@@ -904,7 +1234,9 @@
     "keywords": {
       "ru": ["математика", "равенство", "строго эквивалентно"],
       "en": ["equality", "equivalent", "mathematics", "strictly"]
-    }
+    },
+    "desc": ["строго", "эквивалентный", "к"],
+    "concepts": ["fog", "trigram", "equals", "divider"]
   },
   {
     "cp": 8804,
@@ -915,7 +1247,9 @@
     "keywords": {
       "ru": ["меньше или равно", "не более", "не более чем", "неравенство"],
       "en": ["equal", "equals", "inequality", "less-than", "or"]
-    }
+    },
+    "desc": ["меньше", "чем", "или", "равно", "к"],
+    "concepts": ["math", "compare"]
   },
   {
     "cp": 8805,
@@ -926,7 +1260,9 @@
     "keywords": {
       "ru": ["больше или равно", "не менее", "не менее чем", "неравенство"],
       "en": ["equal", "equals", "greater-than", "inequality", "or"]
-    }
+    },
+    "desc": ["больше", "чем", "или", "равно", "к"],
+    "concepts": ["math", "compare"]
   },
   {
     "cp": 8806,
@@ -937,7 +1273,9 @@
     "keywords": {
       "ru": ["математика", "меньше над равно", "неравенство"],
       "en": ["equal", "inequality", "less-than", "mathematics", "over"]
-    }
+    },
+    "desc": ["меньше", "чем", "над", "равно", "к"],
+    "concepts": ["compare"]
   },
   {
     "cp": 8807,
@@ -948,7 +1286,9 @@
     "keywords": {
       "ru": ["больше над равно", "математика", "неравенство"],
       "en": ["equal", "greater-than", "inequality", "mathematics", "over"]
-    }
+    },
+    "desc": ["больше", "чем", "над", "равно", "к"],
+    "concepts": ["compare"]
   },
   {
     "cp": 8808,
@@ -956,7 +1296,9 @@
     "name": "LESS-THAN BUT NOT EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["меньше", "чем", "но", "не", "равно", "к"],
+    "concepts": ["compare"]
   },
   {
     "cp": 8809,
@@ -964,7 +1306,9 @@
     "name": "GREATER-THAN BUT NOT EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["больше", "чем", "но", "не", "равно", "к"],
+    "concepts": ["compare"]
   },
   {
     "cp": 8810,
@@ -975,7 +1319,9 @@
     "keywords": {
       "ru": ["математика", "намного меньше", "неравенство"],
       "en": ["inequality", "less-than", "mathematics", "much"]
-    }
+    },
+    "desc": ["много", "меньше", "чем"],
+    "concepts": ["arrow", "arrow-left", "arrowhead", "play-pause", "compare"]
   },
   {
     "cp": 8811,
@@ -986,7 +1332,9 @@
     "keywords": {
       "ru": ["математика", "намного больше", "неравенство"],
       "en": ["greater-than", "inequality", "mathematics", "much"]
-    }
+    },
+    "desc": ["много", "больше", "чем"],
+    "concepts": ["pointing-hand", "arrow", "arrow-right", "arrowhead", "play-pause", "compare"]
   },
   {
     "cp": 8812,
@@ -994,7 +1342,9 @@
     "name": "BETWEEN",
     "ru": "между",
     "en": "between",
-    "keywords": { "ru": ["между"], "en": ["between"] }
+    "keywords": { "ru": ["между"], "en": ["between"] },
+    "desc": ["между"],
+    "concepts": []
   },
   {
     "cp": 8813,
@@ -1002,7 +1352,9 @@
     "name": "NOT EQUIVALENT TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "эквивалентный", "к"],
+    "concepts": []
   },
   {
     "cp": 8814,
@@ -1010,7 +1362,12 @@
     "name": "NOT LESS-THAN",
     "ru": "не меньше чем",
     "en": "not less-than",
-    "keywords": { "ru": ["не меньше чем"], "en": ["inequality", "less-than", "mathematics", "not"] }
+    "keywords": {
+      "ru": ["не меньше чем"],
+      "en": ["inequality", "less-than", "mathematics", "not"]
+    },
+    "desc": ["не", "меньше", "чем"],
+    "concepts": ["compare"]
   },
   {
     "cp": 8815,
@@ -1021,7 +1378,9 @@
     "keywords": {
       "ru": ["не больше чем"],
       "en": ["greater-than", "inequality", "mathematics", "not"]
-    }
+    },
+    "desc": ["не", "больше", "чем"],
+    "concepts": ["compare"]
   },
   {
     "cp": 8816,
@@ -1029,7 +1388,9 @@
     "name": "NEITHER LESS-THAN NOR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ни", "меньше", "чем", "равно", "к"],
+    "concepts": ["compare"]
   },
   {
     "cp": 8817,
@@ -1037,7 +1398,9 @@
     "name": "NEITHER GREATER-THAN NOR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ни", "больше", "чем", "равно", "к"],
+    "concepts": ["compare"]
   },
   {
     "cp": 8818,
@@ -1045,7 +1408,9 @@
     "name": "LESS-THAN OR EQUIVALENT TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["меньше", "чем", "или", "эквивалентный", "к"],
+    "concepts": ["compare"]
   },
   {
     "cp": 8819,
@@ -1056,7 +1421,9 @@
     "keywords": {
       "ru": ["больше или эквивалентно", "больше либо эквивалентно", "математика", "неравенство"],
       "en": ["equivalent", "greater-than", "inequality", "mathematics"]
-    }
+    },
+    "desc": ["больше", "чем", "или", "эквивалентный", "к"],
+    "concepts": ["compare"]
   },
   {
     "cp": 8820,
@@ -1064,7 +1431,9 @@
     "name": "NEITHER LESS-THAN NOR EQUIVALENT TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ни", "меньше", "чем", "эквивалентный", "к"],
+    "concepts": ["compare"]
   },
   {
     "cp": 8821,
@@ -1072,7 +1441,9 @@
     "name": "NEITHER GREATER-THAN NOR EQUIVALENT TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ни", "больше", "чем", "эквивалентный", "к"],
+    "concepts": ["compare"]
   },
   {
     "cp": 8822,
@@ -1080,7 +1451,9 @@
     "name": "LESS-THAN OR GREATER-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["меньше", "чем", "или", "больше"],
+    "concepts": ["lightning", "compare"]
   },
   {
     "cp": 8823,
@@ -1088,7 +1461,9 @@
     "name": "GREATER-THAN OR LESS-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["больше", "чем", "или", "меньше"],
+    "concepts": ["compare"]
   },
   {
     "cp": 8824,
@@ -1096,7 +1471,9 @@
     "name": "NEITHER LESS-THAN NOR GREATER-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ни", "меньше", "чем", "больше"],
+    "concepts": ["compare"]
   },
   {
     "cp": 8825,
@@ -1104,7 +1481,9 @@
     "name": "NEITHER GREATER-THAN NOR LESS-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ни", "больше", "чем", "меньше"],
+    "concepts": ["compare"]
   },
   {
     "cp": 8826,
@@ -1115,7 +1494,9 @@
     "keywords": {
       "ru": ["математика", "оператор над множеством", "предшествует"],
       "en": ["mathematics", "operator", "precedes", "set"]
-    }
+    },
+    "desc": ["предшествует"],
+    "concepts": ["wink", "speaker"]
   },
   {
     "cp": 8827,
@@ -1126,7 +1507,9 @@
     "keywords": {
       "ru": ["математика", "оператор над множеством", "следует"],
       "en": ["mathematics", "operator", "set", "succeeds"]
-    }
+    },
+    "desc": ["следует"],
+    "concepts": ["wink", "speaker"]
   },
   {
     "cp": 8828,
@@ -1134,7 +1517,9 @@
     "name": "PRECEDES OR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["предшествует", "или", "равно", "к"],
+    "concepts": []
   },
   {
     "cp": 8829,
@@ -1142,7 +1527,9 @@
     "name": "SUCCEEDS OR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["следует", "или", "равно", "к"],
+    "concepts": []
   },
   {
     "cp": 8830,
@@ -1150,7 +1537,9 @@
     "name": "PRECEDES OR EQUIVALENT TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["предшествует", "или", "эквивалентный", "к"],
+    "concepts": []
   },
   {
     "cp": 8831,
@@ -1158,7 +1547,9 @@
     "name": "SUCCEEDS OR EQUIVALENT TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["следует", "или", "эквивалентный", "к"],
+    "concepts": []
   },
   {
     "cp": 8832,
@@ -1166,7 +1557,9 @@
     "name": "DOES NOT PRECEDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "предшествовать"],
+    "concepts": []
   },
   {
     "cp": 8833,
@@ -1177,7 +1570,9 @@
     "keywords": {
       "ru": ["математика", "не следует", "оператор над множеством"],
       "en": ["does", "mathematics", "not", "operator", "set", "succeed"]
-    }
+    },
+    "desc": ["не", "следовать"],
+    "concepts": []
   },
   {
     "cp": 8834,
@@ -1185,7 +1580,31 @@
     "name": "SUBSET OF",
     "ru": "подмножество",
     "en": "subset of",
-    "keywords": { "ru": ["включено в", "множество", "подмножество"], "en": ["of", "set", "subset"] }
+    "keywords": {
+      "ru": ["включено в", "множество", "подмножество"],
+      "en": ["of", "set", "subset"]
+    },
+    "desc": ["подмножество", "из"],
+    "concepts": [
+      "moon",
+      "cloud",
+      "bunny",
+      "mouse",
+      "duck",
+      "bow-arrow",
+      "hand",
+      "arms-raised",
+      "shrug",
+      "face",
+      "angel",
+      "circle",
+      "math",
+      "sets-logic",
+      "brackets",
+      "phone",
+      "chat",
+      "accessibility"
+    ]
   },
   {
     "cp": 8835,
@@ -1196,7 +1615,28 @@
     "keywords": {
       "ru": ["математика", "надмножество", "оператор над множеством", "супермножество"],
       "en": ["mathematics", "operator", "set", "superset"]
-    }
+    },
+    "desc": ["надмножество", "из"],
+    "concepts": [
+      "moon",
+      "cloud",
+      "bunny",
+      "mouse",
+      "duck",
+      "bow-arrow",
+      "hand",
+      "arms-raised",
+      "shrug",
+      "face",
+      "angel",
+      "circle",
+      "math",
+      "sets-logic",
+      "brackets",
+      "phone",
+      "chat",
+      "accessibility"
+    ]
   },
   {
     "cp": 8836,
@@ -1204,7 +1644,9 @@
     "name": "NOT A SUBSET OF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "подмножество", "из"],
+    "concepts": ["sets-logic"]
   },
   {
     "cp": 8837,
@@ -1212,7 +1654,9 @@
     "name": "NOT A SUPERSET OF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "надмножество", "из"],
+    "concepts": ["sets-logic"]
   },
   {
     "cp": 8838,
@@ -1220,7 +1664,9 @@
     "name": "SUBSET OF OR EQUAL TO",
     "ru": "подмножество равно",
     "en": "subset equal",
-    "keywords": { "ru": ["подмножество равно"], "en": ["equal", "subset"] }
+    "keywords": { "ru": ["подмножество равно"], "en": ["equal", "subset"] },
+    "desc": ["подмножество", "из", "или", "равно", "к"],
+    "concepts": ["moon", "mouse", "duck", "sets-logic"]
   },
   {
     "cp": 8839,
@@ -1231,7 +1677,9 @@
     "keywords": {
       "ru": ["математика", "надмножество равно", "равенство"],
       "en": ["equal", "equality", "mathematics", "superset"]
-    }
+    },
+    "desc": ["надмножество", "из", "или", "равно", "к"],
+    "concepts": ["moon", "mouse", "duck", "sets-logic"]
   },
   {
     "cp": 8840,
@@ -1239,7 +1687,9 @@
     "name": "NEITHER A SUBSET OF NOR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ни", "подмножество", "из", "равно", "к"],
+    "concepts": ["sets-logic"]
   },
   {
     "cp": 8841,
@@ -1247,7 +1697,9 @@
     "name": "NEITHER A SUPERSET OF NOR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ни", "надмножество", "из", "равно", "к"],
+    "concepts": ["sets-logic"]
   },
   {
     "cp": 8842,
@@ -1255,7 +1707,9 @@
     "name": "SUBSET OF WITH NOT EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["подмножество", "из", "с", "не", "равно", "к"],
+    "concepts": ["sets-logic"]
   },
   {
     "cp": 8843,
@@ -1263,7 +1717,9 @@
     "name": "SUPERSET OF WITH NOT EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надмножество", "из", "с", "не", "равно", "к"],
+    "concepts": ["sets-logic"]
   },
   {
     "cp": 8844,
@@ -1271,7 +1727,9 @@
     "name": "MULTISET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мультимножество"],
+    "concepts": ["cow", "sets-logic"]
   },
   {
     "cp": 8845,
@@ -1279,7 +1737,9 @@
     "name": "MULTISET MULTIPLICATION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мультимножество", "умножение"],
+    "concepts": ["bunny", "sets-logic", "phone", "coffee", "lucky", "toilet"]
   },
   {
     "cp": 8846,
@@ -1287,7 +1747,9 @@
     "name": "MULTISET UNION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мультимножество", "объединение"],
+    "concepts": ["sets-logic", "phone", "ship", "coffee", "toilet"]
   },
   {
     "cp": 8847,
@@ -1295,7 +1757,9 @@
     "name": "SQUARE IMAGE OF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["квадрат", "образ (изображение)", "из"],
+    "concepts": ["moon", "gun", "square", "sets-logic", "brackets", "border"]
   },
   {
     "cp": 8848,
@@ -1303,7 +1767,9 @@
     "name": "SQUARE ORIGINAL OF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["квадрат", "оригинал", "из"],
+    "concepts": ["moon", "gun", "square", "sets-logic", "brackets", "border"]
   },
   {
     "cp": 8849,
@@ -1311,7 +1777,9 @@
     "name": "SQUARE IMAGE OF OR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["квадрат", "образ (изображение)", "из", "или", "равно", "к"],
+    "concepts": ["square", "sets-logic"]
   },
   {
     "cp": 8850,
@@ -1319,7 +1787,9 @@
     "name": "SQUARE ORIGINAL OF OR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["квадрат", "оригинал", "из", "или", "равно", "к"],
+    "concepts": ["square", "sets-logic"]
   },
   {
     "cp": 8851,
@@ -1327,7 +1797,27 @@
     "name": "SQUARE CAP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["квадрат", "крышка (шапка)"],
+    "concepts": [
+      "mushroom",
+      "rainbow",
+      "ghost",
+      "sad",
+      "square",
+      "rook",
+      "pi",
+      "sets-logic",
+      "border",
+      "home",
+      "castle",
+      "cake",
+      "gemini",
+      "lucky",
+      "book",
+      "bell",
+      "birthday"
+    ]
   },
   {
     "cp": 8852,
@@ -1335,7 +1825,21 @@
     "name": "SQUARE CUP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["квадрат", "чаша (чашка)"],
+    "concepts": [
+      "square",
+      "rook",
+      "sets-logic",
+      "border",
+      "phone",
+      "castle",
+      "food",
+      "coffee",
+      "trophy",
+      "book",
+      "toilet"
+    ]
   },
   {
     "cp": 8853,
@@ -1343,7 +1847,35 @@
     "name": "CIRCLED PLUS",
     "ru": "плюс в круге",
     "en": "circled plus",
-    "keywords": { "ru": ["знак плюса в круге", "плюс в круге"], "en": ["circled", "plus"] }
+    "keywords": { "ru": ["знак плюса в круге", "плюс в круге"], "en": ["circled", "plus"] },
+    "desc": ["в кружке", "плюс"],
+    "concepts": [
+      "gender",
+      "planet",
+      "flower",
+      "earth",
+      "elements",
+      "cross",
+      "weapon",
+      "gun",
+      "eye",
+      "peace",
+      "circle",
+      "spiral-shapes",
+      "game",
+      "math",
+      "plus-minus",
+      "settings",
+      "time",
+      "medical",
+      "religion",
+      "alchemy",
+      "planets",
+      "celtic",
+      "pin",
+      "sport",
+      "target"
+    ]
   },
   {
     "cp": 8854,
@@ -1354,7 +1886,21 @@
     "keywords": {
       "ru": ["минус в круге", "симметрическая разность"],
       "en": ["circled", "difference", "erosion", "minus", "symmetric"]
-    }
+    },
+    "desc": ["в кружке", "минус"],
+    "concepts": [
+      "planet",
+      "eclipse",
+      "earth",
+      "peace",
+      "yin-yang",
+      "circle",
+      "plus-minus",
+      "power",
+      "warning",
+      "prohibited",
+      "planets"
+    ]
   },
   {
     "cp": 8855,
@@ -1365,7 +1911,34 @@
     "keywords": {
       "ru": ["знак умножения в круге", "произведение", "тензор"],
       "en": ["circled", "product", "tensor", "times"]
-    }
+    },
+    "desc": ["в кружке", "умножить (раз)"],
+    "concepts": [
+      "gender",
+      "flower",
+      "earth",
+      "elements",
+      "cross-mark",
+      "eye",
+      "skull",
+      "peace",
+      "circle",
+      "spiral-shapes",
+      "math",
+      "multiply-divide",
+      "time",
+      "prohibited",
+      "atom",
+      "religion",
+      "alchemy",
+      "planets",
+      "celtic",
+      "dizzy",
+      "scissors",
+      "pin",
+      "sport",
+      "target"
+    ]
   },
   {
     "cp": 8856,
@@ -1376,7 +1949,26 @@
     "keywords": {
       "ru": ["дробная черта в круге", "математика"],
       "en": ["circled", "division", "division-like", "mathematics", "slash"]
-    }
+    },
+    "desc": ["в кружке", "деление", "слэш (косая черта)"],
+    "concepts": [
+      "planet",
+      "eclipse",
+      "earth",
+      "cross-mark",
+      "eye",
+      "peace",
+      "yin-yang",
+      "circle",
+      "spiral-shapes",
+      "percent",
+      "multiply-divide",
+      "power",
+      "time",
+      "warning",
+      "prohibited",
+      "planets"
+    ]
   },
   {
     "cp": 8857,
@@ -1387,7 +1979,41 @@
     "keywords": {
       "ru": ["оператор", "оператор точки в круге"],
       "en": ["circled", "dot", "operator", "XNOR"]
-    }
+    },
+    "desc": ["в кружке", "точка", "оператор"],
+    "concepts": [
+      "planet",
+      "sun",
+      "earth",
+      "bear",
+      "owl",
+      "frog",
+      "monkey",
+      "pig",
+      "weapon",
+      "fist",
+      "smile",
+      "angry",
+      "face",
+      "wink",
+      "eye",
+      "peace",
+      "yin-yang",
+      "arrow-circle",
+      "circle",
+      "spiral-shapes",
+      "power",
+      "time",
+      "planets",
+      "lenny",
+      "bubble",
+      "light",
+      "camera",
+      "pin",
+      "sport",
+      "target",
+      "accessibility"
+    ]
   },
   {
     "cp": 8858,
@@ -1395,7 +2021,42 @@
     "name": "CIRCLED RING OPERATOR",
     "ru": "кольцевой оператор в круге",
     "en": "circled ring operator",
-    "keywords": { "ru": ["кольцевой оператор в круге"], "en": ["circled", "operator", "ring"] }
+    "keywords": { "ru": ["кольцевой оператор в круге"], "en": ["circled", "operator", "ring"] },
+    "desc": ["в кружке", "кольцо", "оператор"],
+    "concepts": [
+      "wedding",
+      "planet",
+      "earth",
+      "spiral",
+      "owl",
+      "bee",
+      "frog",
+      "monkey",
+      "pig",
+      "alien",
+      "weapon",
+      "uwu",
+      "eye",
+      "peace",
+      "yin-yang",
+      "arrow-circle",
+      "circle",
+      "spiral-shapes",
+      "checkers",
+      "at-hash",
+      "time",
+      "transport",
+      "pentagram",
+      "planets",
+      "lucky",
+      "bubble",
+      "dizzy",
+      "camera",
+      "pin",
+      "sport",
+      "target",
+      "halloween"
+    ]
   },
   {
     "cp": 8859,
@@ -1406,7 +2067,36 @@
     "keywords": {
       "ru": ["оператор", "оператор звездочки в круге"],
       "en": ["asterisk", "circled", "operator"]
-    }
+    },
+    "desc": ["в кружке", "звёздочка (астериск)", "оператор"],
+    "concepts": [
+      "star",
+      "asterisk",
+      "sun",
+      "flower",
+      "snow",
+      "earth",
+      "spider",
+      "lion",
+      "eye",
+      "peace",
+      "yin-yang",
+      "circle",
+      "hexagon",
+      "multiply-divide",
+      "settings",
+      "atom",
+      "pentagram",
+      "magic",
+      "celtic",
+      "explosion",
+      "dizzy",
+      "light",
+      "sport",
+      "target",
+      "sakura",
+      "christmas"
+    ]
   },
   {
     "cp": 8860,
@@ -1414,7 +2104,23 @@
     "name": "CIRCLED EQUALS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в кружке", "равно"],
+    "concepts": [
+      "planet",
+      "earth",
+      "frog",
+      "alien",
+      "eye",
+      "peace",
+      "circle",
+      "equals",
+      "at-hash",
+      "prohibited",
+      "transport",
+      "libra",
+      "planets"
+    ]
   },
   {
     "cp": 8861,
@@ -1422,7 +2128,21 @@
     "name": "CIRCLED DASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в кружке", "тире"],
+    "concepts": [
+      "planet",
+      "earth",
+      "frog",
+      "eye",
+      "peace",
+      "circle",
+      "warning",
+      "prohibited",
+      "transport",
+      "libra",
+      "planets"
+    ]
   },
   {
     "cp": 8862,
@@ -1433,7 +2153,30 @@
     "keywords": {
       "ru": ["знак плюса", "квадрат", "математика", "плюс в квадрате", "сложение"],
       "en": ["addition-like", "mathematics", "plus", "squared"]
-    }
+    },
+    "desc": ["в квадрате", "плюс"],
+    "concepts": [
+      "robot",
+      "checkbox",
+      "cross",
+      "square",
+      "checkers",
+      "dice",
+      "game",
+      "plus-minus",
+      "equals",
+      "keyboard",
+      "computer",
+      "mail",
+      "calendar",
+      "medical",
+      "transport",
+      "gift",
+      "font-squared",
+      "camera",
+      "book",
+      "school"
+    ]
   },
   {
     "cp": 8863,
@@ -1444,7 +2187,20 @@
     "keywords": {
       "ru": ["вычитание", "знак минуса", "математика", "минус", "минус в квадрате"],
       "en": ["mathematics", "minus", "squared", "subtraction-like"]
-    }
+    },
+    "desc": ["в квадрате", "минус"],
+    "concepts": [
+      "robot",
+      "checkbox",
+      "square",
+      "game",
+      "plus-minus",
+      "equals",
+      "computer",
+      "calendar",
+      "book",
+      "school"
+    ]
   },
   {
     "cp": 8864,
@@ -1452,7 +2208,21 @@
     "name": "SQUARED TIMES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "умножить (раз)"],
+    "concepts": [
+      "robot",
+      "checkbox",
+      "cross-mark",
+      "square",
+      "checkers",
+      "dice",
+      "game",
+      "multiply-divide",
+      "computer",
+      "mail",
+      "gift"
+    ]
   },
   {
     "cp": 8865,
@@ -1460,7 +2230,23 @@
     "name": "SQUARED DOT OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "точка", "оператор"],
+    "concepts": [
+      "robot",
+      "checkbox",
+      "square",
+      "cards",
+      "dice",
+      "game",
+      "keyboard",
+      "computer",
+      "mail",
+      "calendar",
+      "transport",
+      "font-squared",
+      "camera"
+    ]
   },
   {
     "cp": 8866,
@@ -1468,7 +2254,19 @@
     "name": "RIGHT TACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "кнопка (упор)"],
+    "concepts": [
+      "sword",
+      "shrug",
+      "arrow-right",
+      "arrow-harpoon",
+      "line",
+      "play-pause",
+      "sets-logic",
+      "border",
+      "flag"
+    ]
   },
   {
     "cp": 8867,
@@ -1476,7 +2274,18 @@
     "name": "LEFT TACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "кнопка (упор)"],
+    "concepts": [
+      "sword",
+      "shrug",
+      "arrow-left",
+      "arrow-harpoon",
+      "line",
+      "play-pause",
+      "sets-logic",
+      "border"
+    ]
   },
   {
     "cp": 8868,
@@ -1484,7 +2293,24 @@
     "name": "DOWN TACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вниз", "кнопка (упор)"],
+    "concepts": [
+      "mushroom",
+      "cross",
+      "dagger",
+      "hammer",
+      "shrug",
+      "arrow-down",
+      "line",
+      "sets-logic",
+      "border",
+      "wifi",
+      "airplane",
+      "cake",
+      "school",
+      "birthday"
+    ]
   },
   {
     "cp": 8869,
@@ -1495,7 +2321,27 @@
     "keywords": {
       "ru": ["вертикальный шип", "фальсум", "шип"],
       "en": ["eet", "falsum", "tack", "up"]
-    }
+    },
+    "desc": ["вверх", "кнопка (упор)"],
+    "concepts": [
+      "cross",
+      "dagger",
+      "hammer",
+      "shrug",
+      "arrow-up",
+      "line",
+      "math",
+      "sets-logic",
+      "angle-geometry",
+      "border",
+      "airplane",
+      "ship",
+      "anchor",
+      "candle",
+      "libra",
+      "school",
+      "birthday"
+    ]
   },
   {
     "cp": 8870,
@@ -1503,7 +2349,9 @@
     "name": "ASSERTION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["утверждение"],
+    "concepts": ["flag"]
   },
   {
     "cp": 8871,
@@ -1511,7 +2359,9 @@
     "name": "MODELS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["моделирует"],
+    "concepts": []
   },
   {
     "cp": 8872,
@@ -1519,7 +2369,9 @@
     "name": "TRUE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["истина"],
+    "concepts": ["arrow-right", "sets-logic", "flag"]
   },
   {
     "cp": 8873,
@@ -1527,7 +2379,9 @@
     "name": "FORCES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вынуждает"],
+    "concepts": ["arrow-right", "sets-logic", "flag", "book"]
   },
   {
     "cp": 8874,
@@ -1535,7 +2389,9 @@
     "name": "TRIPLE VERTICAL BAR RIGHT TURNSTILE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тройной", "вертикальный", "черта", "правый (вправо)", "турникет"],
+    "concepts": ["arrow-right", "sets-logic", "flag"]
   },
   {
     "cp": 8875,
@@ -1543,7 +2399,9 @@
     "name": "DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["двойной", "вертикальный", "черта", "правый (вправо)", "турникет"],
+    "concepts": ["arrow-right", "sets-logic", "flag", "book"]
   },
   {
     "cp": 8876,
@@ -1551,7 +2409,9 @@
     "name": "DOES NOT PROVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "доказывает"],
+    "concepts": ["sets-logic"]
   },
   {
     "cp": 8877,
@@ -1559,7 +2419,9 @@
     "name": "NOT TRUE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "истина"],
+    "concepts": ["sharp-flat", "sets-logic"]
   },
   {
     "cp": 8878,
@@ -1567,7 +2429,9 @@
     "name": "DOES NOT FORCE",
     "ru": "не влечет",
     "en": "does not force",
-    "keywords": { "ru": ["не влечет"], "en": ["does", "force", "not"] }
+    "keywords": { "ru": ["не влечет"], "en": ["does", "force", "not"] },
+    "desc": ["не", "вынуждает (сила)"],
+    "concepts": []
   },
   {
     "cp": 8879,
@@ -1575,7 +2439,9 @@
     "name": "NEGATED DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["отрицаемый", "двойной", "вертикальный", "черта", "правый (вправо)", "турникет"],
+    "concepts": ["sharp-flat"]
   },
   {
     "cp": 8880,
@@ -1586,7 +2452,21 @@
     "keywords": {
       "ru": ["математика", "оператор над множеством", "предшествует", "предшествует относительно"],
       "en": ["mathematics", "operator", "precedes", "relation", "set", "under"]
-    }
+    },
+    "desc": ["предшествует", "под", "отношение"],
+    "concepts": [
+      "wings",
+      "lightning",
+      "fish",
+      "butterfly",
+      "angel",
+      "speaker",
+      "brackets",
+      "frame-nick",
+      "ornament-nick",
+      "divider",
+      "bow-ribbon"
+    ]
   },
   {
     "cp": 8881,
@@ -1597,7 +2477,20 @@
     "keywords": {
       "ru": ["математика", "оператор над множеством", "следует", "следует относительно"],
       "en": ["mathematics", "operator", "relation", "set", "succeeds", "under"]
-    }
+    },
+    "desc": ["следует", "под", "отношение"],
+    "concepts": [
+      "wings",
+      "fish",
+      "butterfly",
+      "angel",
+      "speaker",
+      "brackets",
+      "frame-nick",
+      "ornament-nick",
+      "divider",
+      "bow-ribbon"
+    ]
   },
   {
     "cp": 8882,
@@ -1605,7 +2498,19 @@
     "name": "NORMAL SUBGROUP OF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нормальный", "подгруппа", "из"],
+    "concepts": [
+      "fish",
+      "bow-arrow",
+      "arrow",
+      "arrow-left",
+      "arrowhead",
+      "triangle",
+      "speaker",
+      "play-pause",
+      "compare"
+    ]
   },
   {
     "cp": 8883,
@@ -1613,7 +2518,19 @@
     "name": "CONTAINS AS NORMAL SUBGROUP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["содержит", "как", "нормальный", "подгруппа"],
+    "concepts": [
+      "fish",
+      "bow-arrow",
+      "pointing-hand",
+      "arrow",
+      "arrow-right",
+      "arrowhead",
+      "triangle",
+      "play-pause",
+      "compare"
+    ]
   },
   {
     "cp": 8884,
@@ -1621,7 +2538,9 @@
     "name": "NORMAL SUBGROUP OF OR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нормальный", "подгруппа", "из", "или", "равно", "к"],
+    "concepts": ["triangle"]
   },
   {
     "cp": 8885,
@@ -1629,7 +2548,9 @@
     "name": "CONTAINS AS NORMAL SUBGROUP OR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["содержит", "как", "нормальный", "подгруппа", "или", "равно", "к"],
+    "concepts": ["triangle"]
   },
   {
     "cp": 8886,
@@ -1637,7 +2558,21 @@
     "name": "ORIGINAL OF",
     "ru": "прообраз",
     "en": "original",
-    "keywords": { "ru": ["прообраз"], "en": ["original"] }
+    "keywords": { "ru": ["прообраз"], "en": ["original"] },
+    "desc": ["оригинал", "из"],
+    "concepts": [
+      "female",
+      "sword",
+      "arrow-double",
+      "arrow-harpoon",
+      "arrow-feathered",
+      "divider",
+      "transport",
+      "key",
+      "ankh",
+      "light",
+      "pin"
+    ]
   },
   {
     "cp": 8887,
@@ -1645,7 +2580,17 @@
     "name": "IMAGE OF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["образ (изображение)", "из"],
+    "concepts": [
+      "sword",
+      "arrow-double",
+      "arrow-harpoon",
+      "arrow-feathered",
+      "divider",
+      "transport",
+      "pin"
+    ]
   },
   {
     "cp": 8888,
@@ -1653,7 +2598,26 @@
     "name": "MULTIMAP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мультиотображение"],
+    "concepts": [
+      "thermometer",
+      "dagger",
+      "sword",
+      "arrow-double",
+      "arrow-harpoon",
+      "arrow-feathered",
+      "divider",
+      "power",
+      "medical",
+      "transport",
+      "ship",
+      "food",
+      "key",
+      "scissors",
+      "pin",
+      "birthday"
+    ]
   },
   {
     "cp": 8889,
@@ -1669,7 +2633,30 @@
         "эрмитова сопряженная матрица"
       ],
       "en": ["conjugate", "hermitian", "mathematics", "matrix", "self-adjoint", "square"]
-    }
+    },
+    "desc": ["эрмитов", "сопряжённый", "матрица"],
+    "concepts": [
+      "star",
+      "star-small",
+      "sparkle",
+      "constellation",
+      "clover",
+      "snow",
+      "cross",
+      "sword",
+      "angel",
+      "diamond",
+      "math",
+      "plus-minus",
+      "brackets",
+      "frame-nick",
+      "ornament-nick",
+      "divider",
+      "airplane",
+      "magic",
+      "explosion",
+      "target"
+    ]
   },
   {
     "cp": 8890,
@@ -1677,7 +2664,9 @@
     "name": "INTERCALATE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["интеркаляция"],
+    "concepts": ["hammer"]
   },
   {
     "cp": 8891,
@@ -1685,7 +2674,9 @@
     "name": "XOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["исключающее или (XOR)"],
+    "concepts": ["check", "sets-logic", "ship", "anchor"]
   },
   {
     "cp": 8892,
@@ -1693,7 +2684,25 @@
     "name": "NAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["и-не (NAND)"],
+    "concepts": [
+      "tree",
+      "air",
+      "elements",
+      "mountain",
+      "cat",
+      "fox",
+      "hammer",
+      "arrow-up",
+      "triangle",
+      "sets-logic",
+      "home",
+      "rocket",
+      "ship",
+      "alchemy",
+      "christmas"
+    ]
   },
   {
     "cp": 8893,
@@ -1701,7 +2710,20 @@
     "name": "NOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ни"],
+    "concepts": [
+      "air",
+      "elements",
+      "cat",
+      "fox",
+      "shield",
+      "arrow-down",
+      "triangle",
+      "sets-logic",
+      "ship",
+      "alchemy"
+    ]
   },
   {
     "cp": 8894,
@@ -1709,7 +2731,9 @@
     "name": "RIGHT ANGLE WITH ARC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "угол", "с", "дуга"],
+    "concepts": ["check", "root", "angle-geometry", "corner", "school"]
   },
   {
     "cp": 8895,
@@ -1720,7 +2744,9 @@
     "keywords": {
       "ru": ["математика", "прямоугольный", "треугольник"],
       "en": ["mathematics", "right", "right-angled", "triangle"]
-    }
+    },
+    "desc": ["правый (вправо)", "треугольник"],
+    "concepts": ["cat", "triangle", "angle-geometry", "mouth"]
   },
   {
     "cp": 8896,
@@ -1728,7 +2754,19 @@
     "name": "N-ARY LOGICAL AND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арный", "логический", "и"],
+    "concepts": [
+      "fire",
+      "mountain",
+      "cat-ears",
+      "bird",
+      "arrow-up",
+      "arrowhead",
+      "triangle",
+      "zigzag",
+      "rocket"
+    ]
   },
   {
     "cp": 8897,
@@ -1739,7 +2777,18 @@
     "keywords": {
       "ru": ["n-арное логическое или", "дизъюнкция", "логика"],
       "en": ["disjunction", "logic", "logical", "n-ary", "or"]
-    }
+    },
+    "desc": ["арный", "логический", "или"],
+    "concepts": [
+      "bird",
+      "check",
+      "shield",
+      "victory",
+      "arrow-down",
+      "arrowhead",
+      "triangle",
+      "zigzag"
+    ]
   },
   {
     "cp": 8898,
@@ -1750,7 +2799,9 @@
     "keywords": {
       "ru": ["n-арное пересечение", "математика", "оператор над множеством", "пересечение"],
       "en": ["intersection", "mathematics", "n-ary", "operator", "set"]
-    }
+    },
+    "desc": ["арный", "пересечение"],
+    "concepts": ["rainbow", "ghost", "sad", "pi", "sets-logic", "home", "bell"]
   },
   {
     "cp": 8899,
@@ -1761,7 +2812,9 @@
     "keywords": {
       "ru": ["n-арное объединение", "математика", "объединение", "оператор над множеством"],
       "en": ["mathematics", "n-ary", "operator", "set", "union"]
-    }
+    },
+    "desc": ["арный", "объединение"],
+    "concepts": ["sets-logic", "ship", "coffee"]
   },
   {
     "cp": 8900,
@@ -1769,7 +2822,9 @@
     "name": "DIAMOND OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ромб", "оператор"],
+    "concepts": ["sparkle", "diamond", "diamonds-suit", "bullet"]
   },
   {
     "cp": 8901,
@@ -1777,7 +2832,9 @@
     "name": "DOT OPERATOR",
     "ru": "оператор точки",
     "en": "dot operator",
-    "keywords": { "ru": ["оператор", "оператор точки"], "en": ["dot", "operator"] }
+    "keywords": { "ru": ["оператор", "оператор точки"], "en": ["dot", "operator"] },
+    "desc": ["точка", "оператор"],
+    "concepts": ["dot", "math", "multiply-divide", "divider", "ellipsis"]
   },
   {
     "cp": 8902,
@@ -1785,7 +2842,29 @@
     "name": "STAR OPERATOR",
     "ru": "оператор звезды",
     "en": "star operator",
-    "keywords": { "ru": ["оператор", "оператор звезды"], "en": ["operator", "star"] }
+    "keywords": { "ru": ["оператор", "оператор звезды"], "en": ["operator", "star"] },
+    "desc": ["звезда", "оператор"],
+    "concepts": [
+      "star",
+      "star-small",
+      "sparkle",
+      "asterisk",
+      "shooting-star",
+      "constellation",
+      "night",
+      "snow",
+      "shy",
+      "angel",
+      "math",
+      "frame-nick",
+      "ornament-nick",
+      "divider",
+      "islam",
+      "magic",
+      "lucky",
+      "explosion",
+      "dizzy"
+    ]
   },
   {
     "cp": 8903,
@@ -1793,7 +2872,19 @@
     "name": "DIVISION TIMES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["деление", "умножить (раз)"],
+    "concepts": [
+      "star",
+      "asterisk",
+      "snow",
+      "bee",
+      "spider",
+      "multiply-divide",
+      "explosion",
+      "christmas",
+      "halloween"
+    ]
   },
   {
     "cp": 8904,
@@ -1804,7 +2895,25 @@
     "keywords": {
       "ru": ["бабочка", "бинарный оператор", "галстук-бабочка", "естественное соединение"],
       "en": ["binary", "bowtie", "join", "natural", "operator"]
-    }
+    },
+    "desc": ["бабочка (галстук-бабочка)"],
+    "concepts": [
+      "snowman",
+      "fish",
+      "butterfly",
+      "spider",
+      "arrow-double",
+      "divider",
+      "mail",
+      "time",
+      "hourglass",
+      "transport",
+      "airplane",
+      "gift",
+      "bow-ribbon",
+      "celtic",
+      "scissors"
+    ]
   },
   {
     "cp": 8905,
@@ -1812,7 +2921,9 @@
     "name": "LEFT NORMAL FACTOR SEMIDIRECT PRODUCT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "нормальный", "фактор", "полупрямое", "произведение"],
+    "concepts": ["fish", "bee", "multiply-divide"]
   },
   {
     "cp": 8906,
@@ -1820,7 +2931,9 @@
     "name": "RIGHT NORMAL FACTOR SEMIDIRECT PRODUCT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "нормальный", "фактор", "полупрямое", "произведение"],
+    "concepts": ["fish", "bee", "multiply-divide"]
   },
   {
     "cp": 8907,
@@ -1828,7 +2941,9 @@
     "name": "LEFT SEMIDIRECT PRODUCT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "полупрямое", "произведение"],
+    "concepts": ["hand", "angry", "multiply-divide"]
   },
   {
     "cp": 8908,
@@ -1836,7 +2951,9 @@
     "name": "RIGHT SEMIDIRECT PRODUCT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "полупрямое", "произведение"],
+    "concepts": ["hand", "angry", "multiply-divide"]
   },
   {
     "cp": 8909,
@@ -1844,7 +2961,9 @@
     "name": "REVERSED TILDE EQUALS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["зеркальный (обратный)", "тильда", "равно"],
+    "concepts": ["water", "wave", "wave-line"]
   },
   {
     "cp": 8910,
@@ -1852,7 +2971,23 @@
     "name": "CURLY LOGICAL OR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фигурный", "логический", "или"],
+    "concepts": [
+      "tulip",
+      "cat",
+      "mouse",
+      "bird",
+      "cow",
+      "fox",
+      "shield",
+      "victory",
+      "devil",
+      "zigzag",
+      "sets-logic",
+      "ship",
+      "nose"
+    ]
   },
   {
     "cp": 8911,
@@ -1860,7 +2995,22 @@
     "name": "CURLY LOGICAL AND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фигурный", "логический", "и"],
+    "concepts": [
+      "tree",
+      "fire",
+      "mountain",
+      "cat",
+      "cat-ears",
+      "bird",
+      "fox",
+      "devil",
+      "zigzag",
+      "sets-logic",
+      "nose",
+      "christmas"
+    ]
   },
   {
     "cp": 8912,
@@ -1868,7 +3018,9 @@
     "name": "DOUBLE SUBSET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["двойной", "подмножество"],
+    "concepts": ["moon", "mouse", "duck", "sets-logic", "brackets"]
   },
   {
     "cp": 8913,
@@ -1876,7 +3028,9 @@
     "name": "DOUBLE SUPERSET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["двойной", "надмножество"],
+    "concepts": ["moon", "mouse", "sets-logic", "brackets"]
   },
   {
     "cp": 8914,
@@ -1887,7 +3041,9 @@
     "keywords": {
       "ru": ["двойное пересечение", "математика", "оператор над множеством", "пересечение"],
       "en": ["double", "intersection", "mathematics", "operator", "set"]
-    }
+    },
+    "desc": ["двойной", "пересечение"],
+    "concepts": ["rainbow", "sets-logic", "lucky"]
   },
   {
     "cp": 8915,
@@ -1895,7 +3051,9 @@
     "name": "DOUBLE UNION",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["двойной", "объединение"],
+    "concepts": ["crown", "dog", "bunny", "cow", "sets-logic", "ship"]
   },
   {
     "cp": 8916,
@@ -1903,7 +3061,9 @@
     "name": "PITCHFORK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вилы"],
+    "concepts": ["lily", "cactus", "crown", "devil", "anchor", "food"]
   },
   {
     "cp": 8917,
@@ -1911,7 +3071,9 @@
     "name": "EQUAL AND PARALLEL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["равно", "и", "параллельно", "к"],
+    "concepts": ["music", "sharp-flat", "at-hash", "numero"]
   },
   {
     "cp": 8918,
@@ -1919,7 +3081,9 @@
     "name": "LESS-THAN WITH DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["меньше", "чем", "с", "точка"],
+    "concepts": ["arrow-left", "compare"]
   },
   {
     "cp": 8919,
@@ -1927,7 +3091,9 @@
     "name": "GREATER-THAN WITH DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["больше", "чем", "с", "точка"],
+    "concepts": ["arrow-right", "compare"]
   },
   {
     "cp": 8920,
@@ -1938,7 +3104,18 @@
     "keywords": {
       "ru": ["гораздо меньше", "математика", "меньше", "неравенство"],
       "en": ["inequality", "less-than", "mathematics", "much", "very"]
-    }
+    },
+    "desc": ["очень", "много", "меньше", "чем"],
+    "concepts": [
+      "bow-arrow",
+      "arrow",
+      "arrow-left",
+      "arrowhead",
+      "arrow-feathered",
+      "play-pause",
+      "compare",
+      "divider"
+    ]
   },
   {
     "cp": 8921,
@@ -1949,7 +3126,18 @@
     "keywords": {
       "ru": ["больше", "гораздо больше", "математика", "неравенство"],
       "en": ["greater-than", "inequality", "mathematics", "much", "very"]
-    }
+    },
+    "desc": ["очень", "много", "больше", "чем"],
+    "concepts": [
+      "bow-arrow",
+      "arrow",
+      "arrow-right",
+      "arrowhead",
+      "arrow-feathered",
+      "play-pause",
+      "compare",
+      "divider"
+    ]
   },
   {
     "cp": 8922,
@@ -1957,7 +3145,9 @@
     "name": "LESS-THAN EQUAL TO OR GREATER-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["меньше", "чем", "равно", "к", "или", "больше"],
+    "concepts": ["compare"]
   },
   {
     "cp": 8923,
@@ -1965,7 +3155,9 @@
     "name": "GREATER-THAN EQUAL TO OR LESS-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["больше", "чем", "равно", "к", "или", "меньше"],
+    "concepts": ["compare"]
   },
   {
     "cp": 8924,
@@ -1973,7 +3165,9 @@
     "name": "EQUAL TO OR LESS-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["равно", "к", "или", "меньше", "чем"],
+    "concepts": ["compare"]
   },
   {
     "cp": 8925,
@@ -1981,7 +3175,9 @@
     "name": "EQUAL TO OR GREATER-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["равно", "к", "или", "больше", "чем"],
+    "concepts": ["compare"]
   },
   {
     "cp": 8926,
@@ -1989,7 +3185,9 @@
     "name": "EQUAL TO OR PRECEDES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["равно", "к", "или", "предшествует"],
+    "concepts": ["wink", "speaker"]
   },
   {
     "cp": 8927,
@@ -1997,7 +3195,9 @@
     "name": "EQUAL TO OR SUCCEEDS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["равно", "к", "или", "следует"],
+    "concepts": ["wink", "speaker"]
   },
   {
     "cp": 8928,
@@ -2005,7 +3205,9 @@
     "name": "DOES NOT PRECEDE OR EQUAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "предшествовать", "или", "равно"],
+    "concepts": []
   },
   {
     "cp": 8929,
@@ -2013,7 +3215,9 @@
     "name": "DOES NOT SUCCEED OR EQUAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "следовать", "или", "равно"],
+    "concepts": ["arrow-right"]
   },
   {
     "cp": 8930,
@@ -2021,7 +3225,9 @@
     "name": "NOT SQUARE IMAGE OF OR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "квадрат", "образ (изображение)", "из", "или", "равно", "к"],
+    "concepts": []
   },
   {
     "cp": 8931,
@@ -2029,7 +3235,9 @@
     "name": "NOT SQUARE ORIGINAL OF OR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "квадрат", "оригинал", "из", "или", "равно", "к"],
+    "concepts": []
   },
   {
     "cp": 8932,
@@ -2037,7 +3245,9 @@
     "name": "SQUARE IMAGE OF OR NOT EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["квадрат", "образ (изображение)", "из", "или", "не", "равно", "к"],
+    "concepts": []
   },
   {
     "cp": 8933,
@@ -2045,7 +3255,9 @@
     "name": "SQUARE ORIGINAL OF OR NOT EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["квадрат", "оригинал", "из", "или", "не", "равно", "к"],
+    "concepts": []
   },
   {
     "cp": 8934,
@@ -2053,7 +3265,9 @@
     "name": "LESS-THAN BUT NOT EQUIVALENT TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["меньше", "чем", "но", "не", "эквивалентный", "к"],
+    "concepts": []
   },
   {
     "cp": 8935,
@@ -2061,7 +3275,9 @@
     "name": "GREATER-THAN BUT NOT EQUIVALENT TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["больше", "чем", "но", "не", "эквивалентный", "к"],
+    "concepts": []
   },
   {
     "cp": 8936,
@@ -2069,7 +3285,9 @@
     "name": "PRECEDES BUT NOT EQUIVALENT TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["предшествует", "но", "не", "эквивалентный", "к"],
+    "concepts": []
   },
   {
     "cp": 8937,
@@ -2077,7 +3295,9 @@
     "name": "SUCCEEDS BUT NOT EQUIVALENT TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["следует", "но", "не", "эквивалентный", "к"],
+    "concepts": []
   },
   {
     "cp": 8938,
@@ -2085,7 +3305,9 @@
     "name": "NOT NORMAL SUBGROUP OF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "нормальный", "подгруппа", "из"],
+    "concepts": ["triangle"]
   },
   {
     "cp": 8939,
@@ -2093,7 +3315,9 @@
     "name": "DOES NOT CONTAIN AS NORMAL SUBGROUP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "содержать", "как", "нормальный", "подгруппа"],
+    "concepts": ["triangle"]
   },
   {
     "cp": 8940,
@@ -2101,7 +3325,9 @@
     "name": "NOT NORMAL SUBGROUP OF OR EQUAL TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["не", "нормальный", "подгруппа", "из", "или", "равно", "к"],
+    "concepts": ["triangle"]
   },
   {
     "cp": 8941,
@@ -2123,7 +3349,9 @@
         "subgroup",
         "theory"
       ]
-    }
+    },
+    "desc": ["не", "содержать", "как", "нормальный", "подгруппа", "или", "равно"],
+    "concepts": ["triangle"]
   },
   {
     "cp": 8942,
@@ -2134,7 +3362,21 @@
     "keywords": {
       "ru": ["вертикальное многоточие", "математика", "многоточие"],
       "en": ["ellipsis", "mathematics", "vertical"]
-    }
+    },
+    "desc": ["вертикальный", "многоточие"],
+    "concepts": [
+      "constellation",
+      "rain",
+      "trigram",
+      "dot",
+      "braille",
+      "play-pause",
+      "ellipsis",
+      "punctuation-fancy",
+      "tears",
+      "exclamation",
+      "hot-spring"
+    ]
   },
   {
     "cp": 8943,
@@ -2145,7 +3387,9 @@
     "keywords": {
       "ru": ["внутристрочное горизонтальное многоточие", "многоточие"],
       "en": ["ellipsis", "horizontal", "midline"]
-    }
+    },
+    "desc": ["средняя линия", "горизонтальный", "многоточие"],
+    "concepts": ["dot", "braille", "divider", "ellipsis", "chat", "scissors"]
   },
   {
     "cp": 8944,
@@ -2156,7 +3400,9 @@
     "keywords": {
       "ru": ["диагональное многоточие вверх вправо", "математика", "многоточие"],
       "en": ["diagonal", "ellipsis", "mathematics", "right", "up"]
-    }
+    },
+    "desc": ["вверх", "правый (вправо)", "диагональный", "многоточие"],
+    "concepts": ["constellation", "dot", "ellipsis"]
   },
   {
     "cp": 8945,
@@ -2167,7 +3413,9 @@
     "keywords": {
       "ru": ["диагональное многоточие вниз вправо", "математика", "многоточие"],
       "en": ["diagonal", "down", "ellipsis", "mathematics", "right"]
-    }
+    },
+    "desc": ["вниз", "правый (вправо)", "диагональный", "многоточие"],
+    "concepts": ["constellation", "dot", "ellipsis"]
   },
   {
     "cp": 8946,
@@ -2175,7 +3423,9 @@
     "name": "ELEMENT OF WITH LONG HORIZONTAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["элемент", "из", "с", "длинный", "горизонтальный", "черта (штрих)"],
+    "concepts": ["euro"]
   },
   {
     "cp": 8947,
@@ -2183,7 +3433,19 @@
     "name": "ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "элемент",
+      "из",
+      "с",
+      "вертикальный",
+      "черта",
+      "при (собачка)",
+      "конец",
+      "горизонтальный",
+      "черта (штрих)"
+    ],
+    "concepts": ["euro"]
   },
   {
     "cp": 8948,
@@ -2191,7 +3453,20 @@
     "name": "SMALL ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "маленький (строчный)",
+      "элемент",
+      "из",
+      "с",
+      "вертикальный",
+      "черта",
+      "при (собачка)",
+      "конец",
+      "горизонтальный",
+      "черта (штрих)"
+    ],
+    "concepts": ["euro"]
   },
   {
     "cp": 8949,
@@ -2199,7 +3474,9 @@
     "name": "ELEMENT OF WITH DOT ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["элемент", "из", "с", "точка", "сверху"],
+    "concepts": ["euro"]
   },
   {
     "cp": 8950,
@@ -2207,7 +3484,9 @@
     "name": "ELEMENT OF WITH OVERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["элемент", "из", "с", "черта сверху"],
+    "concepts": ["euro"]
   },
   {
     "cp": 8951,
@@ -2215,7 +3494,9 @@
     "name": "SMALL ELEMENT OF WITH OVERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "элемент", "из", "с", "черта сверху"],
+    "concepts": ["euro"]
   },
   {
     "cp": 8952,
@@ -2223,7 +3504,9 @@
     "name": "ELEMENT OF WITH UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["элемент", "из", "с", "подчёркивание"],
+    "concepts": ["euro"]
   },
   {
     "cp": 8953,
@@ -2231,7 +3514,9 @@
     "name": "ELEMENT OF WITH TWO HORIZONTAL STROKES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["элемент", "из", "с", "два", "горизонтальный", "черты"],
+    "concepts": ["euro"]
   },
   {
     "cp": 8954,
@@ -2239,7 +3524,9 @@
     "name": "CONTAINS WITH LONG HORIZONTAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["содержит", "с", "длинный", "горизонтальный", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 8955,
@@ -2247,7 +3534,19 @@
     "name": "CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "содержит",
+      "с",
+      "вертикальный",
+      "черта",
+      "при (собачка)",
+      "конец",
+      "из",
+      "горизонтальный",
+      "черта (штрих)"
+    ],
+    "concepts": []
   },
   {
     "cp": 8956,
@@ -2255,7 +3554,20 @@
     "name": "SMALL CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "маленький (строчный)",
+      "содержит",
+      "с",
+      "вертикальный",
+      "черта",
+      "при (собачка)",
+      "конец",
+      "из",
+      "горизонтальный",
+      "черта (штрих)"
+    ],
+    "concepts": []
   },
   {
     "cp": 8957,
@@ -2263,7 +3575,9 @@
     "name": "CONTAINS WITH OVERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["содержит", "с", "черта сверху"],
+    "concepts": []
   },
   {
     "cp": 8958,
@@ -2271,7 +3585,9 @@
     "name": "SMALL CONTAINS WITH OVERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["маленький (строчный)", "содержит", "с", "черта сверху"],
+    "concepts": []
   },
   {
     "cp": 8959,
@@ -2279,6 +3595,8 @@
     "name": "Z NOTATION BAG MEMBERSHIP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нотация", "мешок (сумка)", "принадлежность"],
+    "concepts": ["fog"]
   }
 ]

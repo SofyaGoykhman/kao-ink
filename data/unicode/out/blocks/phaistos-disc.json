@@ -5,7 +5,9 @@
     "name": "PHAISTOS DISC SIGN PEDESTRIAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "пешеход"],
+    "concepts": []
   },
   {
     "cp": 66001,
@@ -13,7 +15,9 @@
     "name": "PHAISTOS DISC SIGN PLUMED HEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "голова"],
+    "concepts": []
   },
   {
     "cp": 66002,
@@ -21,7 +25,9 @@
     "name": "PHAISTOS DISC SIGN TATTOOED HEAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "голова"],
+    "concepts": []
   },
   {
     "cp": 66003,
@@ -29,7 +35,9 @@
     "name": "PHAISTOS DISC SIGN CAPTIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак"],
+    "concepts": []
   },
   {
     "cp": 66004,
@@ -37,7 +45,9 @@
     "name": "PHAISTOS DISC SIGN CHILD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "ребёнок"],
+    "concepts": []
   },
   {
     "cp": 66005,
@@ -45,7 +55,9 @@
     "name": "PHAISTOS DISC SIGN WOMAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "женщина"],
+    "concepts": []
   },
   {
     "cp": 66006,
@@ -53,7 +65,9 @@
     "name": "PHAISTOS DISC SIGN HELMET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "шлем (каска)"],
+    "concepts": []
   },
   {
     "cp": 66007,
@@ -61,7 +75,9 @@
     "name": "PHAISTOS DISC SIGN GAUNTLET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак"],
+    "concepts": []
   },
   {
     "cp": 66008,
@@ -69,7 +85,9 @@
     "name": "PHAISTOS DISC SIGN TIARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак"],
+    "concepts": []
   },
   {
     "cp": 66009,
@@ -77,7 +95,9 @@
     "name": "PHAISTOS DISC SIGN ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 66010,
@@ -85,7 +105,9 @@
     "name": "PHAISTOS DISC SIGN BOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "лук (бант)"],
+    "concepts": []
   },
   {
     "cp": 66011,
@@ -93,7 +115,9 @@
     "name": "PHAISTOS DISC SIGN SHIELD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "щит"],
+    "concepts": []
   },
   {
     "cp": 66012,
@@ -101,7 +125,9 @@
     "name": "PHAISTOS DISC SIGN CLUB",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "трефа (булава)"],
+    "concepts": []
   },
   {
     "cp": 66013,
@@ -109,7 +135,9 @@
     "name": "PHAISTOS DISC SIGN MANACLES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак"],
+    "concepts": []
   },
   {
     "cp": 66014,
@@ -117,7 +145,9 @@
     "name": "PHAISTOS DISC SIGN MATTOCK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак"],
+    "concepts": []
   },
   {
     "cp": 66015,
@@ -125,7 +155,9 @@
     "name": "PHAISTOS DISC SIGN SAW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "пила"],
+    "concepts": []
   },
   {
     "cp": 66016,
@@ -133,7 +165,9 @@
     "name": "PHAISTOS DISC SIGN LID",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак"],
+    "concepts": []
   },
   {
     "cp": 66017,
@@ -141,7 +175,9 @@
     "name": "PHAISTOS DISC SIGN BOOMERANG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "бумеранг"],
+    "concepts": []
   },
   {
     "cp": 66018,
@@ -149,7 +185,9 @@
     "name": "PHAISTOS DISC SIGN CARPENTRY PLANE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "столярный"],
+    "concepts": []
   },
   {
     "cp": 66019,
@@ -157,7 +195,9 @@
     "name": "PHAISTOS DISC SIGN DOLIUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак"],
+    "concepts": []
   },
   {
     "cp": 66020,
@@ -165,7 +205,9 @@
     "name": "PHAISTOS DISC SIGN COMB",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак"],
+    "concepts": []
   },
   {
     "cp": 66021,
@@ -173,7 +215,9 @@
     "name": "PHAISTOS DISC SIGN SLING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак"],
+    "concepts": []
   },
   {
     "cp": 66022,
@@ -181,7 +225,9 @@
     "name": "PHAISTOS DISC SIGN COLUMN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак"],
+    "concepts": []
   },
   {
     "cp": 66023,
@@ -189,7 +235,9 @@
     "name": "PHAISTOS DISC SIGN BEEHIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак"],
+    "concepts": []
   },
   {
     "cp": 66024,
@@ -197,7 +245,9 @@
     "name": "PHAISTOS DISC SIGN SHIP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "корабль"],
+    "concepts": []
   },
   {
     "cp": 66025,
@@ -205,7 +255,9 @@
     "name": "PHAISTOS DISC SIGN HORN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "рожок"],
+    "concepts": []
   },
   {
     "cp": 66026,
@@ -213,7 +265,9 @@
     "name": "PHAISTOS DISC SIGN HIDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак"],
+    "concepts": []
   },
   {
     "cp": 66027,
@@ -221,7 +275,9 @@
     "name": "PHAISTOS DISC SIGN BULLS LEG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "нога"],
+    "concepts": []
   },
   {
     "cp": 66028,
@@ -229,7 +285,9 @@
     "name": "PHAISTOS DISC SIGN CAT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "кошка (кот)"],
+    "concepts": []
   },
   {
     "cp": 66029,
@@ -237,7 +295,9 @@
     "name": "PHAISTOS DISC SIGN RAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "баран"],
+    "concepts": []
   },
   {
     "cp": 66030,
@@ -245,7 +305,9 @@
     "name": "PHAISTOS DISC SIGN EAGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "орёл"],
+    "concepts": []
   },
   {
     "cp": 66031,
@@ -253,7 +315,9 @@
     "name": "PHAISTOS DISC SIGN DOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "голубь"],
+    "concepts": []
   },
   {
     "cp": 66032,
@@ -261,7 +325,9 @@
     "name": "PHAISTOS DISC SIGN TUNNY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак"],
+    "concepts": []
   },
   {
     "cp": 66033,
@@ -269,7 +335,9 @@
     "name": "PHAISTOS DISC SIGN BEE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "бее"],
+    "concepts": []
   },
   {
     "cp": 66034,
@@ -277,7 +345,9 @@
     "name": "PHAISTOS DISC SIGN PLANE TREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "дерево"],
+    "concepts": []
   },
   {
     "cp": 66035,
@@ -285,7 +355,9 @@
     "name": "PHAISTOS DISC SIGN VINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "лоза"],
+    "concepts": []
   },
   {
     "cp": 66036,
@@ -293,7 +365,9 @@
     "name": "PHAISTOS DISC SIGN PAPYRUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак"],
+    "concepts": []
   },
   {
     "cp": 66037,
@@ -301,7 +375,9 @@
     "name": "PHAISTOS DISC SIGN ROSETTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "розетка (розочка)"],
+    "concepts": []
   },
   {
     "cp": 66038,
@@ -309,7 +385,9 @@
     "name": "PHAISTOS DISC SIGN LILY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак"],
+    "concepts": []
   },
   {
     "cp": 66039,
@@ -317,7 +395,9 @@
     "name": "PHAISTOS DISC SIGN OX BACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "бык", "назад (обратная сторона)"],
+    "concepts": []
   },
   {
     "cp": 66040,
@@ -325,7 +405,9 @@
     "name": "PHAISTOS DISC SIGN FLUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "флейта"],
+    "concepts": []
   },
   {
     "cp": 66041,
@@ -333,7 +415,9 @@
     "name": "PHAISTOS DISC SIGN GRATER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак"],
+    "concepts": []
   },
   {
     "cp": 66042,
@@ -341,7 +425,9 @@
     "name": "PHAISTOS DISC SIGN STRAINER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак"],
+    "concepts": []
   },
   {
     "cp": 66043,
@@ -349,7 +435,9 @@
     "name": "PHAISTOS DISC SIGN SMALL AXE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "маленький (строчный)", "топор"],
+    "concepts": []
   },
   {
     "cp": 66044,
@@ -357,7 +445,9 @@
     "name": "PHAISTOS DISC SIGN WAVY BAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "волнистый"],
+    "concepts": []
   },
   {
     "cp": 66045,
@@ -365,6 +455,8 @@
     "name": "PHAISTOS DISC SIGN COMBINING OBLIQUE STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["фестский", "диск", "знак", "комбинируемый", "косой", "черта (штрих)"],
+    "concepts": []
   }
 ]

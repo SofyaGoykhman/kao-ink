@@ -5,7 +5,9 @@
     "name": "RUMI DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "цифра", "один"],
+    "concepts": []
   },
   {
     "cp": 69217,
@@ -13,7 +15,9 @@
     "name": "RUMI DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "цифра", "два"],
+    "concepts": []
   },
   {
     "cp": 69218,
@@ -21,7 +25,9 @@
     "name": "RUMI DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "цифра", "три"],
+    "concepts": []
   },
   {
     "cp": 69219,
@@ -29,7 +35,9 @@
     "name": "RUMI DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "цифра", "четыре"],
+    "concepts": []
   },
   {
     "cp": 69220,
@@ -37,7 +45,9 @@
     "name": "RUMI DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "цифра", "пять"],
+    "concepts": []
   },
   {
     "cp": 69221,
@@ -45,7 +55,9 @@
     "name": "RUMI DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "цифра", "шесть"],
+    "concepts": []
   },
   {
     "cp": 69222,
@@ -53,7 +65,9 @@
     "name": "RUMI DIGIT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "цифра", "семь"],
+    "concepts": []
   },
   {
     "cp": 69223,
@@ -61,7 +75,9 @@
     "name": "RUMI DIGIT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "цифра", "восемь"],
+    "concepts": []
   },
   {
     "cp": 69224,
@@ -69,7 +85,9 @@
     "name": "RUMI DIGIT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "цифра", "девять"],
+    "concepts": []
   },
   {
     "cp": 69225,
@@ -77,7 +95,9 @@
     "name": "RUMI NUMBER TEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "число", "десять"],
+    "concepts": []
   },
   {
     "cp": 69226,
@@ -85,7 +105,9 @@
     "name": "RUMI NUMBER TWENTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "число", "двадцать"],
+    "concepts": []
   },
   {
     "cp": 69227,
@@ -93,7 +115,9 @@
     "name": "RUMI NUMBER THIRTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "число", "тридцать"],
+    "concepts": []
   },
   {
     "cp": 69228,
@@ -101,7 +125,9 @@
     "name": "RUMI NUMBER FORTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "число", "сорок"],
+    "concepts": []
   },
   {
     "cp": 69229,
@@ -109,7 +135,9 @@
     "name": "RUMI NUMBER FIFTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "число", "пятьдесят"],
+    "concepts": []
   },
   {
     "cp": 69230,
@@ -117,7 +145,9 @@
     "name": "RUMI NUMBER SIXTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "число", "шестьдесят"],
+    "concepts": []
   },
   {
     "cp": 69231,
@@ -125,7 +155,9 @@
     "name": "RUMI NUMBER SEVENTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "число", "семьдесят"],
+    "concepts": []
   },
   {
     "cp": 69232,
@@ -133,7 +165,9 @@
     "name": "RUMI NUMBER EIGHTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "число", "восемьдесят"],
+    "concepts": []
   },
   {
     "cp": 69233,
@@ -141,7 +175,9 @@
     "name": "RUMI NUMBER NINETY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "число", "девяносто"],
+    "concepts": []
   },
   {
     "cp": 69234,
@@ -149,7 +185,9 @@
     "name": "RUMI NUMBER ONE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "число", "один", "сто"],
+    "concepts": []
   },
   {
     "cp": 69235,
@@ -157,7 +195,9 @@
     "name": "RUMI NUMBER TWO HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "число", "два", "сто"],
+    "concepts": []
   },
   {
     "cp": 69236,
@@ -165,7 +205,9 @@
     "name": "RUMI NUMBER THREE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "число", "три", "сто"],
+    "concepts": []
   },
   {
     "cp": 69237,
@@ -173,7 +215,9 @@
     "name": "RUMI NUMBER FOUR HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "число", "четыре", "сто"],
+    "concepts": []
   },
   {
     "cp": 69238,
@@ -181,7 +225,9 @@
     "name": "RUMI NUMBER FIVE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "число", "пять", "сто"],
+    "concepts": []
   },
   {
     "cp": 69239,
@@ -189,7 +235,9 @@
     "name": "RUMI NUMBER SIX HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "число", "шесть", "сто"],
+    "concepts": []
   },
   {
     "cp": 69240,
@@ -197,7 +245,9 @@
     "name": "RUMI NUMBER SEVEN HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "число", "семь", "сто"],
+    "concepts": []
   },
   {
     "cp": 69241,
@@ -205,7 +255,9 @@
     "name": "RUMI NUMBER EIGHT HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "число", "восемь", "сто"],
+    "concepts": []
   },
   {
     "cp": 69242,
@@ -213,7 +265,9 @@
     "name": "RUMI NUMBER NINE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "число", "девять", "сто"],
+    "concepts": []
   },
   {
     "cp": 69243,
@@ -221,7 +275,9 @@
     "name": "RUMI FRACTION ONE HALF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "дробь", "один", "половина"],
+    "concepts": []
   },
   {
     "cp": 69244,
@@ -229,7 +285,9 @@
     "name": "RUMI FRACTION ONE QUARTER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "дробь", "один", "четверть"],
+    "concepts": []
   },
   {
     "cp": 69245,
@@ -237,7 +295,9 @@
     "name": "RUMI FRACTION ONE THIRD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "дробь", "один", "третий (треть)"],
+    "concepts": []
   },
   {
     "cp": 69246,
@@ -245,6 +305,8 @@
     "name": "RUMI FRACTION TWO THIRDS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["руми", "дробь", "два", "трети"],
+    "concepts": []
   }
 ]

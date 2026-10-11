@@ -5,7 +5,9 @@
     "name": "ELBASAN LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква"],
+    "concepts": []
   },
   {
     "cp": 66817,
@@ -13,7 +15,9 @@
     "name": "ELBASAN LETTER BE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "бе"],
+    "concepts": []
   },
   {
     "cp": 66818,
@@ -21,7 +25,9 @@
     "name": "ELBASAN LETTER CE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "че"],
+    "concepts": []
   },
   {
     "cp": 66819,
@@ -29,7 +35,9 @@
     "name": "ELBASAN LETTER CHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "че"],
+    "concepts": []
   },
   {
     "cp": 66820,
@@ -37,7 +45,9 @@
     "name": "ELBASAN LETTER DE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "де"],
+    "concepts": []
   },
   {
     "cp": 66821,
@@ -45,7 +55,9 @@
     "name": "ELBASAN LETTER NDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "нде"],
+    "concepts": []
   },
   {
     "cp": 66822,
@@ -53,7 +65,9 @@
     "name": "ELBASAN LETTER DHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "дхе"],
+    "concepts": []
   },
   {
     "cp": 66823,
@@ -61,7 +75,9 @@
     "name": "ELBASAN LETTER EI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "еи"],
+    "concepts": []
   },
   {
     "cp": 66824,
@@ -69,7 +85,9 @@
     "name": "ELBASAN LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква"],
+    "concepts": []
   },
   {
     "cp": 66825,
@@ -77,7 +95,9 @@
     "name": "ELBASAN LETTER FE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "фе"],
+    "concepts": []
   },
   {
     "cp": 66826,
@@ -85,7 +105,9 @@
     "name": "ELBASAN LETTER GE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "ге"],
+    "concepts": []
   },
   {
     "cp": 66827,
@@ -93,7 +115,9 @@
     "name": "ELBASAN LETTER GJE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "гье (ѓ)"],
+    "concepts": []
   },
   {
     "cp": 66828,
@@ -101,7 +125,9 @@
     "name": "ELBASAN LETTER HE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "хе"],
+    "concepts": []
   },
   {
     "cp": 66829,
@@ -109,7 +135,9 @@
     "name": "ELBASAN LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква"],
+    "concepts": []
   },
   {
     "cp": 66830,
@@ -117,7 +145,9 @@
     "name": "ELBASAN LETTER JE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "йе (ј)"],
+    "concepts": []
   },
   {
     "cp": 66831,
@@ -125,7 +155,9 @@
     "name": "ELBASAN LETTER KE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "ке"],
+    "concepts": []
   },
   {
     "cp": 66832,
@@ -133,7 +165,9 @@
     "name": "ELBASAN LETTER LE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "ле"],
+    "concepts": []
   },
   {
     "cp": 66833,
@@ -141,7 +175,9 @@
     "name": "ELBASAN LETTER LLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква"],
+    "concepts": []
   },
   {
     "cp": 66834,
@@ -149,7 +185,9 @@
     "name": "ELBASAN LETTER ME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "мне"],
+    "concepts": []
   },
   {
     "cp": 66835,
@@ -157,7 +195,9 @@
     "name": "ELBASAN LETTER NE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "не"],
+    "concepts": []
   },
   {
     "cp": 66836,
@@ -165,7 +205,9 @@
     "name": "ELBASAN LETTER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 66837,
@@ -173,7 +215,9 @@
     "name": "ELBASAN LETTER NJE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "ње (нь)"],
+    "concepts": []
   },
   {
     "cp": 66838,
@@ -181,7 +225,9 @@
     "name": "ELBASAN LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква"],
+    "concepts": []
   },
   {
     "cp": 66839,
@@ -189,7 +235,9 @@
     "name": "ELBASAN LETTER PE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "пе"],
+    "concepts": []
   },
   {
     "cp": 66840,
@@ -197,7 +245,9 @@
     "name": "ELBASAN LETTER QE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "ке"],
+    "concepts": []
   },
   {
     "cp": 66841,
@@ -205,7 +255,9 @@
     "name": "ELBASAN LETTER RE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "ре"],
+    "concepts": []
   },
   {
     "cp": 66842,
@@ -213,7 +265,9 @@
     "name": "ELBASAN LETTER RRE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква"],
+    "concepts": []
   },
   {
     "cp": 66843,
@@ -221,7 +275,9 @@
     "name": "ELBASAN LETTER SE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "се"],
+    "concepts": []
   },
   {
     "cp": 66844,
@@ -229,7 +285,9 @@
     "name": "ELBASAN LETTER SHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "ше"],
+    "concepts": []
   },
   {
     "cp": 66845,
@@ -237,7 +295,9 @@
     "name": "ELBASAN LETTER TE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "те"],
+    "concepts": []
   },
   {
     "cp": 66846,
@@ -245,7 +305,9 @@
     "name": "ELBASAN LETTER THE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква"],
+    "concepts": []
   },
   {
     "cp": 66847,
@@ -253,7 +315,9 @@
     "name": "ELBASAN LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква"],
+    "concepts": []
   },
   {
     "cp": 66848,
@@ -261,7 +325,9 @@
     "name": "ELBASAN LETTER VE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "ве"],
+    "concepts": []
   },
   {
     "cp": 66849,
@@ -269,7 +335,9 @@
     "name": "ELBASAN LETTER XE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "ксе"],
+    "concepts": []
   },
   {
     "cp": 66850,
@@ -277,7 +345,9 @@
     "name": "ELBASAN LETTER Y",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква"],
+    "concepts": []
   },
   {
     "cp": 66851,
@@ -285,7 +355,9 @@
     "name": "ELBASAN LETTER ZE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "зе"],
+    "concepts": []
   },
   {
     "cp": 66852,
@@ -293,7 +365,9 @@
     "name": "ELBASAN LETTER ZHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "же"],
+    "concepts": []
   },
   {
     "cp": 66853,
@@ -301,7 +375,9 @@
     "name": "ELBASAN LETTER GHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "ге"],
+    "concepts": []
   },
   {
     "cp": 66854,
@@ -309,7 +385,9 @@
     "name": "ELBASAN LETTER GHAMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква"],
+    "concepts": []
   },
   {
     "cp": 66855,
@@ -317,6 +395,8 @@
     "name": "ELBASAN LETTER KHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["эльбасанский", "буква", "хе"],
+    "concepts": []
   }
 ]

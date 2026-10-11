@@ -5,7 +5,9 @@
     "name": "ARABIC LETTER DAL WITH TWO DOTS VERTICALLY BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "даль (араб.)", "с", "два", "точки", "вертикально", "снизу"],
+    "concepts": []
   },
   {
     "cp": 69315,
@@ -13,7 +15,9 @@
     "name": "ARABIC LETTER TAH WITH TWO DOTS VERTICALLY BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "та (араб.)", "с", "два", "точки", "вертикально", "снизу"],
+    "concepts": []
   },
   {
     "cp": 69316,
@@ -21,7 +25,9 @@
     "name": "ARABIC LETTER KAF WITH TWO DOTS VERTICALLY BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "каф", "с", "два", "точки", "вертикально", "снизу"],
+    "concepts": []
   },
   {
     "cp": 69317,
@@ -29,7 +35,18 @@
     "name": "ARABIC SMALL YEH BARREE WITH TWO DOTS BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "маленький (строчный)",
+      "йа (араб.)",
+      "барри",
+      "с",
+      "два",
+      "точки",
+      "снизу"
+    ],
+    "concepts": []
   },
   {
     "cp": 69318,
@@ -37,7 +54,9 @@
     "name": "ARABIC LETTER THIN NOON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "тонкий", "нун"],
+    "concepts": []
   },
   {
     "cp": 69319,
@@ -45,7 +64,9 @@
     "name": "ARABIC LETTER YEH WITH FOUR DOTS BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "буква", "йа (араб.)", "с", "четыре", "точки", "снизу"],
+    "concepts": []
   },
   {
     "cp": 69321,
@@ -53,7 +74,9 @@
     "name": "ARABIC SMALL BASELINE FATHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "маленький (строчный)", "базовая линия", "фатха"],
+    "concepts": []
   },
   {
     "cp": 69322,
@@ -61,7 +84,17 @@
     "name": "ARABIC SMALL BASELINE DOTLESS HEAD OF KHAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "арабский",
+      "маленький (строчный)",
+      "базовая линия",
+      "без точки",
+      "голова",
+      "из",
+      "ха (араб.)"
+    ],
+    "concepts": []
   },
   {
     "cp": 69323,
@@ -69,7 +102,9 @@
     "name": "ARABIC NORTHEAST POINTING ARROWHEAD ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "северо-восток", "указывающий", "наконечник стрелки", "сверху"],
+    "concepts": []
   },
   {
     "cp": 69324,
@@ -77,7 +112,9 @@
     "name": "ARABIC NORTHEAST POINTING ARROWHEAD BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "северо-восток", "указывающий", "наконечник стрелки", "снизу"],
+    "concepts": []
   },
   {
     "cp": 69325,
@@ -85,7 +122,9 @@
     "name": "ARABIC SOUTHWEST POINTING ARROWHEAD BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "указывающий", "наконечник стрелки", "снизу"],
+    "concepts": []
   },
   {
     "cp": 69326,
@@ -93,7 +132,9 @@
     "name": "ARABIC SMALL CIRCLE ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "маленький (строчный)", "круг", "сверху"],
+    "concepts": []
   },
   {
     "cp": 69327,
@@ -101,7 +142,9 @@
     "name": "ARABIC LARGE CIRCLE ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "большой", "круг", "сверху"],
+    "concepts": []
   },
   {
     "cp": 69328,
@@ -109,7 +152,9 @@
     "name": "ARABIC BIBLICAL END OF VERSE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "конец", "из", "стих"],
+    "concepts": []
   },
   {
     "cp": 69329,
@@ -117,7 +162,9 @@
     "name": "ARABIC LIGATURE ALAYHAA AS-SALAATU WAS-SALAAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "лигатура", "алайхаа", "как", "салаату", "вас", "салам"],
+    "concepts": []
   },
   {
     "cp": 69330,
@@ -125,7 +172,9 @@
     "name": "ARABIC LIGATURE ALAYHIM AS-SALAATU WAS-SALAAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "лигатура", "алайхим", "как", "салаату", "вас", "салам"],
+    "concepts": []
   },
   {
     "cp": 69331,
@@ -133,7 +182,9 @@
     "name": "ARABIC LIGATURE ALAYHIMAA AS-SALAATU WAS-SALAAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "лигатура", "алайхимаа", "как", "салаату", "вас", "салам"],
+    "concepts": []
   },
   {
     "cp": 69332,
@@ -141,7 +192,9 @@
     "name": "ARABIC LIGATURE QADDASA ALLAAHU SIRRAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "лигатура", "Аллаху"],
+    "concepts": []
   },
   {
     "cp": 69333,
@@ -149,7 +202,9 @@
     "name": "ARABIC LIGATURE QUDDISA SIRRUHUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "лигатура", "куддиса"],
+    "concepts": []
   },
   {
     "cp": 69334,
@@ -157,7 +212,9 @@
     "name": "ARABIC LIGATURE QUDDISA SIRRUHUMAA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "лигатура", "куддиса"],
+    "concepts": []
   },
   {
     "cp": 69335,
@@ -165,7 +222,9 @@
     "name": "ARABIC LIGATURE QUDDISAT ASRAARUHUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "лигатура"],
+    "concepts": []
   },
   {
     "cp": 69336,
@@ -173,7 +232,9 @@
     "name": "ARABIC LIGATURE NAWWARA ALLAAHU MARQADAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "лигатура", "Аллаху"],
+    "concepts": []
   },
   {
     "cp": 69337,
@@ -181,7 +242,9 @@
     "name": "ARABIC CROWN LETTER BEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "бех (араб.)"],
+    "concepts": []
   },
   {
     "cp": 69338,
@@ -189,7 +252,9 @@
     "name": "ARABIC CROWN LETTER PEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "пе"],
+    "concepts": []
   },
   {
     "cp": 69339,
@@ -197,7 +262,9 @@
     "name": "ARABIC CROWN LETTER TEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "та (араб.)"],
+    "concepts": []
   },
   {
     "cp": 69340,
@@ -205,7 +272,9 @@
     "name": "ARABIC CROWN LETTER THEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "са (араб.)"],
+    "concepts": []
   },
   {
     "cp": 69341,
@@ -213,7 +282,9 @@
     "name": "ARABIC CROWN LETTER JEEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "джим (араб.)"],
+    "concepts": []
   },
   {
     "cp": 69342,
@@ -221,7 +292,9 @@
     "name": "ARABIC CROWN LETTER HAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "ха (араб.)"],
+    "concepts": []
   },
   {
     "cp": 69343,
@@ -229,7 +302,9 @@
     "name": "ARABIC CROWN LETTER KHAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "ха (араб.)"],
+    "concepts": []
   },
   {
     "cp": 69344,
@@ -237,7 +312,9 @@
     "name": "ARABIC CROWN LETTER SEEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "син (араб.)"],
+    "concepts": []
   },
   {
     "cp": 69345,
@@ -245,7 +322,9 @@
     "name": "ARABIC CROWN LETTER SHEEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "шин (араб.)"],
+    "concepts": []
   },
   {
     "cp": 69346,
@@ -253,7 +332,9 @@
     "name": "ARABIC CROWN LETTER SAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "сад (араб.)"],
+    "concepts": []
   },
   {
     "cp": 69347,
@@ -261,7 +342,9 @@
     "name": "ARABIC CROWN LETTER DAD",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "дад (араб.)"],
+    "concepts": []
   },
   {
     "cp": 69348,
@@ -269,7 +352,9 @@
     "name": "ARABIC CROWN LETTER TAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "та (араб.)"],
+    "concepts": []
   },
   {
     "cp": 69349,
@@ -277,7 +362,9 @@
     "name": "ARABIC CROWN LETTER ZAH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "за (араб.)"],
+    "concepts": []
   },
   {
     "cp": 69350,
@@ -285,7 +372,9 @@
     "name": "ARABIC CROWN LETTER AIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "айн"],
+    "concepts": []
   },
   {
     "cp": 69351,
@@ -293,7 +382,9 @@
     "name": "ARABIC CROWN LETTER GHAIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "гайн (араб.)"],
+    "concepts": []
   },
   {
     "cp": 69352,
@@ -301,7 +392,9 @@
     "name": "ARABIC CROWN LETTER FEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "фех (араб.)"],
+    "concepts": []
   },
   {
     "cp": 69353,
@@ -309,7 +402,9 @@
     "name": "ARABIC CROWN LETTER QAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "каф"],
+    "concepts": []
   },
   {
     "cp": 69354,
@@ -317,7 +412,9 @@
     "name": "ARABIC CROWN LETTER KAF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "каф"],
+    "concepts": []
   },
   {
     "cp": 69355,
@@ -325,7 +422,9 @@
     "name": "ARABIC CROWN LETTER MEEM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "мим (араб.)"],
+    "concepts": []
   },
   {
     "cp": 69356,
@@ -333,7 +432,9 @@
     "name": "ARABIC CROWN LETTER NOON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "нун"],
+    "concepts": []
   },
   {
     "cp": 69357,
@@ -341,7 +442,9 @@
     "name": "ARABIC CROWN LETTER HEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "ха (араб.)"],
+    "concepts": []
   },
   {
     "cp": 69358,
@@ -349,7 +452,9 @@
     "name": "ARABIC CROWN LETTER YEH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "корона", "буква", "йа (араб.)"],
+    "concepts": []
   },
   {
     "cp": 69360,
@@ -357,7 +462,9 @@
     "name": "ARABIC SMALL LOW UPRIGHT RECTANGULAR ZERO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "маленький (строчный)", "низкий", "прямой", "прямоугольный", "ноль"],
+    "concepts": []
   },
   {
     "cp": 69361,
@@ -365,7 +472,9 @@
     "name": "ARABIC SQUARE BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "квадрат", "снизу"],
+    "concepts": []
   },
   {
     "cp": 69362,
@@ -373,7 +482,9 @@
     "name": "ARABIC FILLED SQUARE BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "заполненный", "квадрат", "снизу"],
+    "concepts": []
   },
   {
     "cp": 69363,
@@ -381,7 +492,9 @@
     "name": "ARABIC SMALL HIGH NOON WITH FATHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "маленький (строчный)", "высокий", "нун", "с", "фатха"],
+    "concepts": []
   },
   {
     "cp": 69364,
@@ -389,7 +502,9 @@
     "name": "ARABIC SMALL LOW NOON WITH FATHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "маленький (строчный)", "низкий", "нун", "с", "фатха"],
+    "concepts": []
   },
   {
     "cp": 69365,
@@ -397,7 +512,9 @@
     "name": "ARABIC SMALL HIGH NOON WITH DAMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "маленький (строчный)", "высокий", "нун", "с", "дамма"],
+    "concepts": []
   },
   {
     "cp": 69366,
@@ -405,7 +522,9 @@
     "name": "ARABIC SMALL LOW NOON WITH DAMMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "маленький (строчный)", "низкий", "нун", "с", "дамма"],
+    "concepts": []
   },
   {
     "cp": 69367,
@@ -413,7 +532,9 @@
     "name": "ARABIC SMALL HIGH HEH INITIAL FORM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "маленький (строчный)", "высокий", "ха (араб.)", "начальный", "форма"],
+    "concepts": []
   },
   {
     "cp": 69368,
@@ -421,7 +542,9 @@
     "name": "ARABIC SMALL HIGH WORD KABBIR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "маленький (строчный)", "высокий", "слово"],
+    "concepts": []
   },
   {
     "cp": 69369,
@@ -429,7 +552,9 @@
     "name": "ARABIC MARK CROWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "метка (знак)", "корона"],
+    "concepts": []
   },
   {
     "cp": 69370,
@@ -437,7 +562,9 @@
     "name": "ARABIC DOUBLE VERTICAL BAR BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "двойной", "вертикальный", "черта", "снизу"],
+    "concepts": []
   },
   {
     "cp": 69371,
@@ -445,7 +572,9 @@
     "name": "ARABIC SMALL LOW NOON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "маленький (строчный)", "низкий", "нун"],
+    "concepts": []
   },
   {
     "cp": 69372,
@@ -453,7 +582,9 @@
     "name": "ARABIC COMBINING ALEF OVERLAY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "комбинируемый", "алеф", "наложение"],
+    "concepts": []
   },
   {
     "cp": 69373,
@@ -461,7 +592,9 @@
     "name": "ARABIC SMALL LOW WORD SAKTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "маленький (строчный)", "низкий", "слово"],
+    "concepts": []
   },
   {
     "cp": 69374,
@@ -469,7 +602,9 @@
     "name": "ARABIC SMALL LOW WORD QASR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "маленький (строчный)", "низкий", "слово"],
+    "concepts": []
   },
   {
     "cp": 69375,
@@ -477,6 +612,8 @@
     "name": "ARABIC SMALL LOW WORD MADDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["арабский", "маленький (строчный)", "низкий", "слово", "мадда"],
+    "concepts": []
   }
 ]

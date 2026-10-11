@@ -5,7 +5,9 @@
     "name": "SHORTHAND FORMAT LETTER OVERLAP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["стенография", "формат", "буква", "перекрытие"],
+    "concepts": []
   },
   {
     "cp": 113825,
@@ -13,7 +15,9 @@
     "name": "SHORTHAND FORMAT CONTINUING OVERLAP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["стенография", "формат", "перекрытие"],
+    "concepts": []
   },
   {
     "cp": 113826,
@@ -21,7 +25,9 @@
     "name": "SHORTHAND FORMAT DOWN STEP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["стенография", "формат", "вниз", "шаг"],
+    "concepts": []
   },
   {
     "cp": 113827,
@@ -29,6 +35,8 @@
     "name": "SHORTHAND FORMAT UP STEP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["стенография", "формат", "вверх", "шаг"],
+    "concepts": []
   }
 ]

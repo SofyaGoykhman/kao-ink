@@ -5,7 +5,9 @@
     "name": "LINEAR B SYLLABLE B008 A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог"],
+    "concepts": []
   },
   {
     "cp": 65537,
@@ -13,7 +15,9 @@
     "name": "LINEAR B SYLLABLE B038 E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог"],
+    "concepts": []
   },
   {
     "cp": 65538,
@@ -21,7 +25,9 @@
     "name": "LINEAR B SYLLABLE B028 I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог"],
+    "concepts": []
   },
   {
     "cp": 65539,
@@ -29,7 +35,9 @@
     "name": "LINEAR B SYLLABLE B061 O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог"],
+    "concepts": []
   },
   {
     "cp": 65540,
@@ -37,7 +45,9 @@
     "name": "LINEAR B SYLLABLE B010 U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог"],
+    "concepts": []
   },
   {
     "cp": 65541,
@@ -45,7 +55,9 @@
     "name": "LINEAR B SYLLABLE B001 DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "да"],
+    "concepts": []
   },
   {
     "cp": 65542,
@@ -53,7 +65,9 @@
     "name": "LINEAR B SYLLABLE B045 DE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "де"],
+    "concepts": []
   },
   {
     "cp": 65543,
@@ -61,7 +75,9 @@
     "name": "LINEAR B SYLLABLE B007 DI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ди"],
+    "concepts": []
   },
   {
     "cp": 65544,
@@ -69,7 +85,9 @@
     "name": "LINEAR B SYLLABLE B014 DO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "делать"],
+    "concepts": []
   },
   {
     "cp": 65545,
@@ -77,7 +95,9 @@
     "name": "LINEAR B SYLLABLE B051 DU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ду"],
+    "concepts": []
   },
   {
     "cp": 65546,
@@ -85,7 +105,9 @@
     "name": "LINEAR B SYLLABLE B057 JA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "джа"],
+    "concepts": []
   },
   {
     "cp": 65547,
@@ -93,7 +115,9 @@
     "name": "LINEAR B SYLLABLE B046 JE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "йе (ј)"],
+    "concepts": []
   },
   {
     "cp": 65549,
@@ -101,7 +125,9 @@
     "name": "LINEAR B SYLLABLE B036 JO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "джо"],
+    "concepts": []
   },
   {
     "cp": 65550,
@@ -109,7 +135,9 @@
     "name": "LINEAR B SYLLABLE B065 JU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "джу"],
+    "concepts": []
   },
   {
     "cp": 65551,
@@ -117,7 +145,9 @@
     "name": "LINEAR B SYLLABLE B077 KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ка"],
+    "concepts": []
   },
   {
     "cp": 65552,
@@ -125,7 +155,9 @@
     "name": "LINEAR B SYLLABLE B044 KE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ке"],
+    "concepts": []
   },
   {
     "cp": 65553,
@@ -133,7 +165,9 @@
     "name": "LINEAR B SYLLABLE B067 KI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ки"],
+    "concepts": []
   },
   {
     "cp": 65554,
@@ -141,7 +175,9 @@
     "name": "LINEAR B SYLLABLE B070 KO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ко"],
+    "concepts": []
   },
   {
     "cp": 65555,
@@ -149,7 +185,9 @@
     "name": "LINEAR B SYLLABLE B081 KU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ку"],
+    "concepts": []
   },
   {
     "cp": 65556,
@@ -157,7 +195,9 @@
     "name": "LINEAR B SYLLABLE B080 MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ма"],
+    "concepts": []
   },
   {
     "cp": 65557,
@@ -165,7 +205,9 @@
     "name": "LINEAR B SYLLABLE B013 ME",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "мне"],
+    "concepts": []
   },
   {
     "cp": 65558,
@@ -173,7 +215,9 @@
     "name": "LINEAR B SYLLABLE B073 MI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ми"],
+    "concepts": []
   },
   {
     "cp": 65559,
@@ -181,7 +225,9 @@
     "name": "LINEAR B SYLLABLE B015 MO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "мо"],
+    "concepts": []
   },
   {
     "cp": 65560,
@@ -189,7 +235,9 @@
     "name": "LINEAR B SYLLABLE B023 MU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "мю"],
+    "concepts": []
   },
   {
     "cp": 65561,
@@ -197,7 +245,9 @@
     "name": "LINEAR B SYLLABLE B006 NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "на"],
+    "concepts": []
   },
   {
     "cp": 65562,
@@ -205,7 +255,9 @@
     "name": "LINEAR B SYLLABLE B024 NE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "не"],
+    "concepts": []
   },
   {
     "cp": 65563,
@@ -213,7 +265,9 @@
     "name": "LINEAR B SYLLABLE B030 NI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ни"],
+    "concepts": []
   },
   {
     "cp": 65564,
@@ -221,7 +275,9 @@
     "name": "LINEAR B SYLLABLE B052 NO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "нет"],
+    "concepts": []
   },
   {
     "cp": 65565,
@@ -229,7 +285,9 @@
     "name": "LINEAR B SYLLABLE B055 NU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ню"],
+    "concepts": []
   },
   {
     "cp": 65566,
@@ -237,7 +295,9 @@
     "name": "LINEAR B SYLLABLE B003 PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "па"],
+    "concepts": []
   },
   {
     "cp": 65567,
@@ -245,7 +305,9 @@
     "name": "LINEAR B SYLLABLE B072 PE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "пе"],
+    "concepts": []
   },
   {
     "cp": 65568,
@@ -253,7 +315,9 @@
     "name": "LINEAR B SYLLABLE B039 PI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "пи"],
+    "concepts": []
   },
   {
     "cp": 65569,
@@ -261,7 +325,9 @@
     "name": "LINEAR B SYLLABLE B011 PO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "по"],
+    "concepts": []
   },
   {
     "cp": 65570,
@@ -269,7 +335,9 @@
     "name": "LINEAR B SYLLABLE B050 PU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "пу"],
+    "concepts": []
   },
   {
     "cp": 65571,
@@ -277,7 +345,9 @@
     "name": "LINEAR B SYLLABLE B016 QA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ка (qa)"],
+    "concepts": []
   },
   {
     "cp": 65572,
@@ -285,7 +355,9 @@
     "name": "LINEAR B SYLLABLE B078 QE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ке"],
+    "concepts": []
   },
   {
     "cp": 65573,
@@ -293,7 +365,9 @@
     "name": "LINEAR B SYLLABLE B021 QI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ки"],
+    "concepts": []
   },
   {
     "cp": 65574,
@@ -301,7 +375,9 @@
     "name": "LINEAR B SYLLABLE B032 QO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ко"],
+    "concepts": []
   },
   {
     "cp": 65576,
@@ -309,7 +385,9 @@
     "name": "LINEAR B SYLLABLE B060 RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ра"],
+    "concepts": []
   },
   {
     "cp": 65577,
@@ -317,7 +395,9 @@
     "name": "LINEAR B SYLLABLE B027 RE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ре"],
+    "concepts": []
   },
   {
     "cp": 65578,
@@ -325,7 +405,9 @@
     "name": "LINEAR B SYLLABLE B053 RI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ри"],
+    "concepts": []
   },
   {
     "cp": 65579,
@@ -333,7 +415,9 @@
     "name": "LINEAR B SYLLABLE B002 RO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ро"],
+    "concepts": []
   },
   {
     "cp": 65580,
@@ -341,7 +425,9 @@
     "name": "LINEAR B SYLLABLE B026 RU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ру"],
+    "concepts": []
   },
   {
     "cp": 65581,
@@ -349,7 +435,9 @@
     "name": "LINEAR B SYLLABLE B031 SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "са"],
+    "concepts": []
   },
   {
     "cp": 65582,
@@ -357,7 +445,9 @@
     "name": "LINEAR B SYLLABLE B009 SE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "се"],
+    "concepts": []
   },
   {
     "cp": 65583,
@@ -365,7 +455,9 @@
     "name": "LINEAR B SYLLABLE B041 SI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "си"],
+    "concepts": []
   },
   {
     "cp": 65584,
@@ -373,7 +465,9 @@
     "name": "LINEAR B SYLLABLE B012 SO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "со"],
+    "concepts": []
   },
   {
     "cp": 65585,
@@ -381,7 +475,9 @@
     "name": "LINEAR B SYLLABLE B058 SU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "су"],
+    "concepts": []
   },
   {
     "cp": 65586,
@@ -389,7 +485,9 @@
     "name": "LINEAR B SYLLABLE B059 TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "та"],
+    "concepts": []
   },
   {
     "cp": 65587,
@@ -397,7 +495,9 @@
     "name": "LINEAR B SYLLABLE B004 TE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "те"],
+    "concepts": []
   },
   {
     "cp": 65588,
@@ -405,7 +505,9 @@
     "name": "LINEAR B SYLLABLE B037 TI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ти"],
+    "concepts": []
   },
   {
     "cp": 65589,
@@ -413,7 +515,9 @@
     "name": "LINEAR B SYLLABLE B005 TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "к"],
+    "concepts": []
   },
   {
     "cp": 65590,
@@ -421,7 +525,9 @@
     "name": "LINEAR B SYLLABLE B069 TU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ту"],
+    "concepts": []
   },
   {
     "cp": 65591,
@@ -429,7 +535,9 @@
     "name": "LINEAR B SYLLABLE B054 WA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ва"],
+    "concepts": []
   },
   {
     "cp": 65592,
@@ -437,7 +545,9 @@
     "name": "LINEAR B SYLLABLE B075 WE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ве"],
+    "concepts": []
   },
   {
     "cp": 65593,
@@ -445,7 +555,9 @@
     "name": "LINEAR B SYLLABLE B040 WI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ви"],
+    "concepts": []
   },
   {
     "cp": 65594,
@@ -453,7 +565,9 @@
     "name": "LINEAR B SYLLABLE B042 WO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "во"],
+    "concepts": []
   },
   {
     "cp": 65596,
@@ -461,7 +575,9 @@
     "name": "LINEAR B SYLLABLE B017 ZA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "за"],
+    "concepts": []
   },
   {
     "cp": 65597,
@@ -469,7 +585,9 @@
     "name": "LINEAR B SYLLABLE B074 ZE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "зе"],
+    "concepts": []
   },
   {
     "cp": 65599,
@@ -477,7 +595,9 @@
     "name": "LINEAR B SYLLABLE B020 ZO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "зо"],
+    "concepts": []
   },
   {
     "cp": 65600,
@@ -485,7 +605,9 @@
     "name": "LINEAR B SYLLABLE B025 A2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "a2"],
+    "concepts": []
   },
   {
     "cp": 65601,
@@ -493,7 +615,9 @@
     "name": "LINEAR B SYLLABLE B043 A3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог"],
+    "concepts": []
   },
   {
     "cp": 65602,
@@ -501,7 +625,9 @@
     "name": "LINEAR B SYLLABLE B085 AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "ау"],
+    "concepts": []
   },
   {
     "cp": 65603,
@@ -509,7 +635,9 @@
     "name": "LINEAR B SYLLABLE B071 DWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "две"],
+    "concepts": []
   },
   {
     "cp": 65604,
@@ -517,7 +645,9 @@
     "name": "LINEAR B SYLLABLE B090 DWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог"],
+    "concepts": []
   },
   {
     "cp": 65605,
@@ -525,7 +655,9 @@
     "name": "LINEAR B SYLLABLE B048 NWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "нва"],
+    "concepts": []
   },
   {
     "cp": 65606,
@@ -533,7 +665,9 @@
     "name": "LINEAR B SYLLABLE B029 PU2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог"],
+    "concepts": []
   },
   {
     "cp": 65607,
@@ -541,7 +675,9 @@
     "name": "LINEAR B SYLLABLE B062 PTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог"],
+    "concepts": []
   },
   {
     "cp": 65608,
@@ -549,7 +685,9 @@
     "name": "LINEAR B SYLLABLE B076 RA2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог"],
+    "concepts": []
   },
   {
     "cp": 65609,
@@ -557,7 +695,9 @@
     "name": "LINEAR B SYLLABLE B033 RA3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог"],
+    "concepts": []
   },
   {
     "cp": 65610,
@@ -565,7 +705,9 @@
     "name": "LINEAR B SYLLABLE B068 RO2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог"],
+    "concepts": []
   },
   {
     "cp": 65611,
@@ -573,7 +715,9 @@
     "name": "LINEAR B SYLLABLE B066 TA2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог"],
+    "concepts": []
   },
   {
     "cp": 65612,
@@ -581,7 +725,9 @@
     "name": "LINEAR B SYLLABLE B087 TWE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "тве"],
+    "concepts": []
   },
   {
     "cp": 65613,
@@ -589,7 +735,9 @@
     "name": "LINEAR B SYLLABLE B091 TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "слог", "два"],
+    "concepts": []
   },
   {
     "cp": 65616,
@@ -597,7 +745,9 @@
     "name": "LINEAR B SYMBOL B018",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "символ"],
+    "concepts": []
   },
   {
     "cp": 65617,
@@ -605,7 +755,9 @@
     "name": "LINEAR B SYMBOL B019",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "символ"],
+    "concepts": []
   },
   {
     "cp": 65618,
@@ -613,7 +765,9 @@
     "name": "LINEAR B SYMBOL B022",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "символ"],
+    "concepts": []
   },
   {
     "cp": 65619,
@@ -621,7 +775,9 @@
     "name": "LINEAR B SYMBOL B034",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "символ"],
+    "concepts": []
   },
   {
     "cp": 65620,
@@ -629,7 +785,9 @@
     "name": "LINEAR B SYMBOL B047",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "символ"],
+    "concepts": []
   },
   {
     "cp": 65621,
@@ -637,7 +795,9 @@
     "name": "LINEAR B SYMBOL B049",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "символ"],
+    "concepts": []
   },
   {
     "cp": 65622,
@@ -645,7 +805,9 @@
     "name": "LINEAR B SYMBOL B056",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "символ"],
+    "concepts": []
   },
   {
     "cp": 65623,
@@ -653,7 +815,9 @@
     "name": "LINEAR B SYMBOL B063",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "символ"],
+    "concepts": []
   },
   {
     "cp": 65624,
@@ -661,7 +825,9 @@
     "name": "LINEAR B SYMBOL B064",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "символ"],
+    "concepts": []
   },
   {
     "cp": 65625,
@@ -669,7 +835,9 @@
     "name": "LINEAR B SYMBOL B079",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "символ"],
+    "concepts": []
   },
   {
     "cp": 65626,
@@ -677,7 +845,9 @@
     "name": "LINEAR B SYMBOL B082",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "символ"],
+    "concepts": []
   },
   {
     "cp": 65627,
@@ -685,7 +855,9 @@
     "name": "LINEAR B SYMBOL B083",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "символ"],
+    "concepts": []
   },
   {
     "cp": 65628,
@@ -693,7 +865,9 @@
     "name": "LINEAR B SYMBOL B086",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "символ"],
+    "concepts": []
   },
   {
     "cp": 65629,
@@ -701,6 +875,8 @@
     "name": "LINEAR B SYMBOL B089",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейное", "символ"],
+    "concepts": []
   }
 ]

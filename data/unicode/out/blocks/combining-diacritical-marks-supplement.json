@@ -5,7 +5,9 @@
     "name": "COMBINING DOTTED GRAVE ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "пунктирный (с точкой)", "гравис", "ударение (акцент)"],
+    "concepts": []
   },
   {
     "cp": 7617,
@@ -13,7 +15,9 @@
     "name": "COMBINING DOTTED ACUTE ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "пунктирный (с точкой)", "акут (ударение)", "ударение (акцент)"],
+    "concepts": []
   },
   {
     "cp": 7618,
@@ -21,7 +25,9 @@
     "name": "COMBINING SNAKE BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "змея", "снизу"],
+    "concepts": []
   },
   {
     "cp": 7619,
@@ -29,7 +35,9 @@
     "name": "COMBINING SUSPENSION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "сокращение", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 7620,
@@ -37,7 +45,9 @@
     "name": "COMBINING MACRON-ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "макрон (черта сверху)", "акут (ударение)"],
+    "concepts": []
   },
   {
     "cp": 7621,
@@ -45,7 +55,9 @@
     "name": "COMBINING GRAVE-MACRON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "гравис", "макрон (черта сверху)"],
+    "concepts": []
   },
   {
     "cp": 7622,
@@ -53,7 +65,9 @@
     "name": "COMBINING MACRON-GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "макрон (черта сверху)", "гравис"],
+    "concepts": []
   },
   {
     "cp": 7623,
@@ -61,7 +75,9 @@
     "name": "COMBINING ACUTE-MACRON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "акут (ударение)", "макрон (черта сверху)"],
+    "concepts": []
   },
   {
     "cp": 7624,
@@ -69,7 +85,9 @@
     "name": "COMBINING GRAVE-ACUTE-GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "гравис", "акут (ударение)"],
+    "concepts": []
   },
   {
     "cp": 7625,
@@ -77,7 +95,9 @@
     "name": "COMBINING ACUTE-GRAVE-ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "акут (ударение)", "гравис"],
+    "concepts": []
   },
   {
     "cp": 7626,
@@ -85,7 +105,9 @@
     "name": "COMBINING LATIN SMALL LETTER R BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква", "снизу"],
+    "concepts": []
   },
   {
     "cp": 7627,
@@ -93,7 +115,9 @@
     "name": "COMBINING BREVE-MACRON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "бреве (кратка)", "макрон (черта сверху)"],
+    "concepts": []
   },
   {
     "cp": 7628,
@@ -101,7 +125,9 @@
     "name": "COMBINING MACRON-BREVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "макрон (черта сверху)", "бреве (кратка)"],
+    "concepts": []
   },
   {
     "cp": 7629,
@@ -109,7 +135,9 @@
     "name": "COMBINING DOUBLE CIRCUMFLEX ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "двойной", "циркумфлекс (крышечка)", "сверху"],
+    "concepts": []
   },
   {
     "cp": 7630,
@@ -117,7 +145,9 @@
     "name": "COMBINING OGONEK ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "огонэк", "сверху"],
+    "concepts": []
   },
   {
     "cp": 7631,
@@ -125,7 +155,9 @@
     "name": "COMBINING ZIGZAG BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "зигзаг", "снизу"],
+    "concepts": []
   },
   {
     "cp": 7632,
@@ -133,7 +165,9 @@
     "name": "COMBINING IS BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "ис", "снизу"],
+    "concepts": []
   },
   {
     "cp": 7633,
@@ -141,7 +175,9 @@
     "name": "COMBINING UR ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "ур", "сверху"],
+    "concepts": []
   },
   {
     "cp": 7634,
@@ -149,7 +185,9 @@
     "name": "COMBINING US ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "ус", "сверху"],
+    "concepts": []
   },
   {
     "cp": 7635,
@@ -157,7 +195,17 @@
     "name": "COMBINING LATIN SMALL LETTER FLATTENED OPEN A ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "комбинируемый",
+      "латинский",
+      "маленький (строчный)",
+      "буква",
+      "сплющенный",
+      "открытый",
+      "сверху"
+    ],
+    "concepts": []
   },
   {
     "cp": 7636,
@@ -165,7 +213,9 @@
     "name": "COMBINING LATIN SMALL LETTER AE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква", "ae (лигатура)"],
+    "concepts": []
   },
   {
     "cp": 7637,
@@ -173,7 +223,9 @@
     "name": "COMBINING LATIN SMALL LETTER AO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква", "ao"],
+    "concepts": []
   },
   {
     "cp": 7638,
@@ -181,7 +233,9 @@
     "name": "COMBINING LATIN SMALL LETTER AV",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква", "av"],
+    "concepts": []
   },
   {
     "cp": 7639,
@@ -189,7 +243,9 @@
     "name": "COMBINING LATIN SMALL LETTER C CEDILLA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква", "седиль"],
+    "concepts": []
   },
   {
     "cp": 7640,
@@ -197,7 +253,9 @@
     "name": "COMBINING LATIN SMALL LETTER INSULAR D",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква", "островной"],
+    "concepts": []
   },
   {
     "cp": 7641,
@@ -205,7 +263,9 @@
     "name": "COMBINING LATIN SMALL LETTER ETH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква", "эт (ð)"],
+    "concepts": []
   },
   {
     "cp": 7642,
@@ -213,7 +273,9 @@
     "name": "COMBINING LATIN SMALL LETTER G",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 7643,
@@ -221,7 +283,9 @@
     "name": "COMBINING LATIN LETTER SMALL CAPITAL G",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7644,
@@ -229,7 +293,9 @@
     "name": "COMBINING LATIN SMALL LETTER K",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 7645,
@@ -237,7 +303,9 @@
     "name": "COMBINING LATIN SMALL LETTER L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 7646,
@@ -245,7 +313,9 @@
     "name": "COMBINING LATIN LETTER SMALL CAPITAL L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7647,
@@ -253,7 +323,9 @@
     "name": "COMBINING LATIN LETTER SMALL CAPITAL M",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7648,
@@ -261,7 +333,9 @@
     "name": "COMBINING LATIN SMALL LETTER N",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 7649,
@@ -269,7 +343,9 @@
     "name": "COMBINING LATIN LETTER SMALL CAPITAL N",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7650,
@@ -277,7 +353,9 @@
     "name": "COMBINING LATIN LETTER SMALL CAPITAL R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "буква", "маленький (строчный)", "заглавный"],
+    "concepts": []
   },
   {
     "cp": 7651,
@@ -285,7 +363,9 @@
     "name": "COMBINING LATIN SMALL LETTER R ROTUNDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква", "ротунда"],
+    "concepts": []
   },
   {
     "cp": 7652,
@@ -293,7 +373,9 @@
     "name": "COMBINING LATIN SMALL LETTER S",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 7653,
@@ -301,7 +383,9 @@
     "name": "COMBINING LATIN SMALL LETTER LONG S",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква", "длинный"],
+    "concepts": []
   },
   {
     "cp": 7654,
@@ -309,7 +393,9 @@
     "name": "COMBINING LATIN SMALL LETTER Z",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 7655,
@@ -317,7 +403,9 @@
     "name": "COMBINING LATIN SMALL LETTER ALPHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква", "альфа"],
+    "concepts": []
   },
   {
     "cp": 7656,
@@ -325,7 +413,9 @@
     "name": "COMBINING LATIN SMALL LETTER B",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 7657,
@@ -333,7 +423,9 @@
     "name": "COMBINING LATIN SMALL LETTER BETA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква", "бета"],
+    "concepts": []
   },
   {
     "cp": 7658,
@@ -341,7 +433,9 @@
     "name": "COMBINING LATIN SMALL LETTER SCHWA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква", "шва"],
+    "concepts": []
   },
   {
     "cp": 7659,
@@ -349,7 +443,9 @@
     "name": "COMBINING LATIN SMALL LETTER F",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 7660,
@@ -357,7 +453,18 @@
     "name": "COMBINING LATIN SMALL LETTER L WITH DOUBLE MIDDLE TILDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "комбинируемый",
+      "латинский",
+      "маленький (строчный)",
+      "буква",
+      "с",
+      "двойной",
+      "средний",
+      "тильда"
+    ],
+    "concepts": []
   },
   {
     "cp": 7661,
@@ -365,7 +472,18 @@
     "name": "COMBINING LATIN SMALL LETTER O WITH LIGHT CENTRALIZATION STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "комбинируемый",
+      "латинский",
+      "маленький (строчный)",
+      "буква",
+      "с",
+      "тонкий (светлый)",
+      "централизация",
+      "черта (штрих)"
+    ],
+    "concepts": []
   },
   {
     "cp": 7662,
@@ -373,7 +491,9 @@
     "name": "COMBINING LATIN SMALL LETTER P",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 7663,
@@ -381,7 +501,9 @@
     "name": "COMBINING LATIN SMALL LETTER ESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква", "эш (ʃ)"],
+    "concepts": []
   },
   {
     "cp": 7664,
@@ -389,7 +511,18 @@
     "name": "COMBINING LATIN SMALL LETTER U WITH LIGHT CENTRALIZATION STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "комбинируемый",
+      "латинский",
+      "маленький (строчный)",
+      "буква",
+      "с",
+      "тонкий (светлый)",
+      "централизация",
+      "черта (штрих)"
+    ],
+    "concepts": []
   },
   {
     "cp": 7665,
@@ -397,7 +530,9 @@
     "name": "COMBINING LATIN SMALL LETTER W",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква"],
+    "concepts": []
   },
   {
     "cp": 7666,
@@ -405,7 +540,16 @@
     "name": "COMBINING LATIN SMALL LETTER A WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "комбинируемый",
+      "латинский",
+      "маленький (строчный)",
+      "буква",
+      "с",
+      "диерезис (две точки сверху)"
+    ],
+    "concepts": []
   },
   {
     "cp": 7667,
@@ -413,7 +557,16 @@
     "name": "COMBINING LATIN SMALL LETTER O WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "комбинируемый",
+      "латинский",
+      "маленький (строчный)",
+      "буква",
+      "с",
+      "диерезис (две точки сверху)"
+    ],
+    "concepts": []
   },
   {
     "cp": 7668,
@@ -421,7 +574,16 @@
     "name": "COMBINING LATIN SMALL LETTER U WITH DIAERESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "комбинируемый",
+      "латинский",
+      "маленький (строчный)",
+      "буква",
+      "с",
+      "диерезис (две точки сверху)"
+    ],
+    "concepts": []
   },
   {
     "cp": 7669,
@@ -429,7 +591,9 @@
     "name": "COMBINING UP TACK ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "вверх", "кнопка (упор)", "сверху"],
+    "concepts": []
   },
   {
     "cp": 7670,
@@ -437,7 +601,9 @@
     "name": "COMBINING KAVYKA ABOVE RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "кавыка", "сверху", "правый (вправо)"],
+    "concepts": []
   },
   {
     "cp": 7671,
@@ -445,7 +611,9 @@
     "name": "COMBINING KAVYKA ABOVE LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "кавыка", "сверху", "левый (влево)"],
+    "concepts": []
   },
   {
     "cp": 7672,
@@ -453,7 +621,9 @@
     "name": "COMBINING DOT ABOVE LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "точка", "сверху", "левый (влево)"],
+    "concepts": []
   },
   {
     "cp": 7673,
@@ -461,7 +631,9 @@
     "name": "COMBINING WIDE INVERTED BRIDGE BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "широкий", "перевёрнутый", "мост", "снизу"],
+    "concepts": []
   },
   {
     "cp": 7674,
@@ -469,7 +641,9 @@
     "name": "COMBINING DOT BELOW LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "точка", "снизу", "левый (влево)"],
+    "concepts": []
   },
   {
     "cp": 7675,
@@ -477,7 +651,9 @@
     "name": "COMBINING DELETION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "удаление", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 7676,
@@ -485,7 +661,9 @@
     "name": "COMBINING DOUBLE INVERTED BREVE BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "двойной", "перевёрнутый", "бреве (кратка)", "снизу"],
+    "concepts": []
   },
   {
     "cp": 7677,
@@ -493,7 +671,9 @@
     "name": "COMBINING ALMOST EQUAL TO BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "почти", "равно", "к", "снизу"],
+    "concepts": []
   },
   {
     "cp": 7678,
@@ -501,7 +681,9 @@
     "name": "COMBINING LEFT ARROWHEAD ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "левый (влево)", "наконечник стрелки", "сверху"],
+    "concepts": []
   },
   {
     "cp": 7679,
@@ -509,6 +691,8 @@
     "name": "COMBINING RIGHT ARROWHEAD AND DOWN ARROWHEAD BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "правый (вправо)", "наконечник стрелки", "и", "вниз", "снизу"],
+    "concepts": []
   }
 ]

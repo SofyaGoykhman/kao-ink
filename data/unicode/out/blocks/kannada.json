@@ -5,7 +5,9 @@
     "name": "KANNADA SIGN SPACING CANDRABINDU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "знак", "с пробелом", "чандрабинду"],
+    "concepts": []
   },
   {
     "cp": 3201,
@@ -13,7 +15,9 @@
     "name": "KANNADA SIGN CANDRABINDU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "знак", "чандрабинду"],
+    "concepts": []
   },
   {
     "cp": 3202,
@@ -21,7 +25,9 @@
     "name": "KANNADA SIGN ANUSVARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "знак", "анусвара"],
+    "concepts": []
   },
   {
     "cp": 3203,
@@ -29,7 +35,9 @@
     "name": "KANNADA SIGN VISARGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "знак", "висарга"],
+    "concepts": []
   },
   {
     "cp": 3204,
@@ -37,7 +45,9 @@
     "name": "KANNADA SIGN SIDDHAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "знак", "сиддхам"],
+    "concepts": []
   },
   {
     "cp": 3205,
@@ -45,7 +55,9 @@
     "name": "KANNADA LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква"],
+    "concepts": []
   },
   {
     "cp": 3206,
@@ -53,7 +65,9 @@
     "name": "KANNADA LETTER AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "аа"],
+    "concepts": []
   },
   {
     "cp": 3207,
@@ -61,7 +75,9 @@
     "name": "KANNADA LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква"],
+    "concepts": []
   },
   {
     "cp": 3208,
@@ -69,7 +85,9 @@
     "name": "KANNADA LETTER II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "ии"],
+    "concepts": []
   },
   {
     "cp": 3209,
@@ -77,7 +95,9 @@
     "name": "KANNADA LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква"],
+    "concepts": []
   },
   {
     "cp": 3210,
@@ -85,7 +105,9 @@
     "name": "KANNADA LETTER UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "уу"],
+    "concepts": []
   },
   {
     "cp": 3211,
@@ -93,7 +115,9 @@
     "name": "KANNADA LETTER VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 3212,
@@ -101,7 +125,9 @@
     "name": "KANNADA LETTER VOCALIC L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "слоговой (вокалический)"],
+    "concepts": ["leaf"]
   },
   {
     "cp": 3214,
@@ -109,7 +135,9 @@
     "name": "KANNADA LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква"],
+    "concepts": []
   },
   {
     "cp": 3215,
@@ -117,7 +145,9 @@
     "name": "KANNADA LETTER EE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "ее"],
+    "concepts": []
   },
   {
     "cp": 3216,
@@ -125,7 +155,9 @@
     "name": "KANNADA LETTER AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "аи"],
+    "concepts": []
   },
   {
     "cp": 3218,
@@ -133,7 +165,9 @@
     "name": "KANNADA LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква"],
+    "concepts": []
   },
   {
     "cp": 3219,
@@ -141,7 +175,9 @@
     "name": "KANNADA LETTER OO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "оо"],
+    "concepts": ["om"]
   },
   {
     "cp": 3220,
@@ -149,7 +185,9 @@
     "name": "KANNADA LETTER AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "ау"],
+    "concepts": []
   },
   {
     "cp": 3221,
@@ -157,7 +195,9 @@
     "name": "KANNADA LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 3222,
@@ -165,7 +205,9 @@
     "name": "KANNADA LETTER KHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "кха"],
+    "concepts": []
   },
   {
     "cp": 3223,
@@ -173,7 +215,9 @@
     "name": "KANNADA LETTER GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "га"],
+    "concepts": []
   },
   {
     "cp": 3224,
@@ -181,7 +225,9 @@
     "name": "KANNADA LETTER GHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "гха"],
+    "concepts": []
   },
   {
     "cp": 3225,
@@ -189,7 +235,9 @@
     "name": "KANNADA LETTER NGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "нга"],
+    "concepts": []
   },
   {
     "cp": 3226,
@@ -197,7 +245,9 @@
     "name": "KANNADA LETTER CA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 3227,
@@ -205,7 +255,9 @@
     "name": "KANNADA LETTER CHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 3228,
@@ -213,7 +265,9 @@
     "name": "KANNADA LETTER JA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "джа"],
+    "concepts": []
   },
   {
     "cp": 3229,
@@ -221,7 +275,9 @@
     "name": "KANNADA LETTER JHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "джха"],
+    "concepts": []
   },
   {
     "cp": 3230,
@@ -229,7 +285,9 @@
     "name": "KANNADA LETTER NYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "ня"],
+    "concepts": []
   },
   {
     "cp": 3231,
@@ -237,7 +295,9 @@
     "name": "KANNADA LETTER TTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "тта"],
+    "concepts": []
   },
   {
     "cp": 3232,
@@ -245,7 +305,21 @@
     "name": "KANNADA LETTER TTHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "ттха"],
+    "concepts": [
+      "fruit",
+      "cherry",
+      "bear",
+      "smile",
+      "sad",
+      "angry",
+      "face",
+      "wink",
+      "eye",
+      "table-flip",
+      "lenny"
+    ]
   },
   {
     "cp": 3233,
@@ -253,7 +327,9 @@
     "name": "KANNADA LETTER DDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "дда"],
+    "concepts": ["wink"]
   },
   {
     "cp": 3234,
@@ -261,7 +337,9 @@
     "name": "KANNADA LETTER DDHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "ддха"],
+    "concepts": ["sad"]
   },
   {
     "cp": 3235,
@@ -269,7 +347,9 @@
     "name": "KANNADA LETTER NNA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "нна"],
+    "concepts": ["sad"]
   },
   {
     "cp": 3236,
@@ -277,7 +357,9 @@
     "name": "KANNADA LETTER TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 3237,
@@ -285,7 +367,9 @@
     "name": "KANNADA LETTER THA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "тха"],
+    "concepts": ["smile", "sad", "angry", "face", "eye", "tears"]
   },
   {
     "cp": 3238,
@@ -293,7 +377,9 @@
     "name": "KANNADA LETTER DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "да"],
+    "concepts": []
   },
   {
     "cp": 3239,
@@ -301,7 +387,9 @@
     "name": "KANNADA LETTER DHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "дха"],
+    "concepts": []
   },
   {
     "cp": 3240,
@@ -309,7 +397,9 @@
     "name": "KANNADA LETTER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 3242,
@@ -317,7 +407,9 @@
     "name": "KANNADA LETTER PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "па"],
+    "concepts": []
   },
   {
     "cp": 3243,
@@ -325,7 +417,9 @@
     "name": "KANNADA LETTER PHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "пха"],
+    "concepts": []
   },
   {
     "cp": 3244,
@@ -333,7 +427,9 @@
     "name": "KANNADA LETTER BA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "ба"],
+    "concepts": ["sad"]
   },
   {
     "cp": 3245,
@@ -341,7 +437,9 @@
     "name": "KANNADA LETTER BHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "бха"],
+    "concepts": ["sad"]
   },
   {
     "cp": 3246,
@@ -349,7 +447,9 @@
     "name": "KANNADA LETTER MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "ма"],
+    "concepts": ["sad"]
   },
   {
     "cp": 3247,
@@ -357,7 +457,9 @@
     "name": "KANNADA LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 3248,
@@ -365,7 +467,9 @@
     "name": "KANNADA LETTER RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 3249,
@@ -373,7 +477,9 @@
     "name": "KANNADA LETTER RRA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "рра"],
+    "concepts": []
   },
   {
     "cp": 3250,
@@ -381,7 +487,9 @@
     "name": "KANNADA LETTER LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "ла"],
+    "concepts": []
   },
   {
     "cp": 3251,
@@ -389,7 +497,9 @@
     "name": "KANNADA LETTER LLA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "лла"],
+    "concepts": []
   },
   {
     "cp": 3253,
@@ -397,7 +507,9 @@
     "name": "KANNADA LETTER VA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "ва"],
+    "concepts": []
   },
   {
     "cp": 3254,
@@ -405,7 +517,9 @@
     "name": "KANNADA LETTER SHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "ша"],
+    "concepts": []
   },
   {
     "cp": 3255,
@@ -413,7 +527,9 @@
     "name": "KANNADA LETTER SSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "сса"],
+    "concepts": []
   },
   {
     "cp": 3256,
@@ -421,7 +537,9 @@
     "name": "KANNADA LETTER SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 3257,
@@ -429,7 +547,9 @@
     "name": "KANNADA LETTER HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 3260,
@@ -437,7 +557,9 @@
     "name": "KANNADA SIGN NUKTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "знак", "нукта"],
+    "concepts": []
   },
   {
     "cp": 3261,
@@ -445,7 +567,9 @@
     "name": "KANNADA SIGN AVAGRAHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "знак", "аваграха"],
+    "concepts": ["snake"]
   },
   {
     "cp": 3262,
@@ -453,7 +577,9 @@
     "name": "KANNADA VOWEL SIGN AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "гласная", "знак", "аа"],
+    "concepts": []
   },
   {
     "cp": 3263,
@@ -461,7 +587,9 @@
     "name": "KANNADA VOWEL SIGN I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 3264,
@@ -469,7 +597,9 @@
     "name": "KANNADA VOWEL SIGN II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "гласная", "знак", "ии"],
+    "concepts": []
   },
   {
     "cp": 3265,
@@ -477,7 +607,9 @@
     "name": "KANNADA VOWEL SIGN U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 3266,
@@ -485,7 +617,9 @@
     "name": "KANNADA VOWEL SIGN UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "гласная", "знак", "уу"],
+    "concepts": []
   },
   {
     "cp": 3267,
@@ -493,7 +627,9 @@
     "name": "KANNADA VOWEL SIGN VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "гласная", "знак", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 3268,
@@ -501,7 +637,9 @@
     "name": "KANNADA VOWEL SIGN VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "гласная", "знак", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 3270,
@@ -509,7 +647,9 @@
     "name": "KANNADA VOWEL SIGN E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 3271,
@@ -517,7 +657,9 @@
     "name": "KANNADA VOWEL SIGN EE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "гласная", "знак", "ее"],
+    "concepts": []
   },
   {
     "cp": 3272,
@@ -525,7 +667,9 @@
     "name": "KANNADA VOWEL SIGN AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "гласная", "знак", "аи"],
+    "concepts": []
   },
   {
     "cp": 3274,
@@ -533,7 +677,9 @@
     "name": "KANNADA VOWEL SIGN O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 3275,
@@ -541,7 +687,9 @@
     "name": "KANNADA VOWEL SIGN OO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "гласная", "знак", "оо"],
+    "concepts": []
   },
   {
     "cp": 3276,
@@ -549,7 +697,9 @@
     "name": "KANNADA VOWEL SIGN AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "гласная", "знак", "ау"],
+    "concepts": []
   },
   {
     "cp": 3277,
@@ -557,7 +707,9 @@
     "name": "KANNADA SIGN VIRAMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "знак", "вирама"],
+    "concepts": []
   },
   {
     "cp": 3285,
@@ -565,7 +717,9 @@
     "name": "KANNADA LENGTH MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "долгота", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 3286,
@@ -573,7 +727,9 @@
     "name": "KANNADA AI LENGTH MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "аи", "долгота", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 3292,
@@ -581,7 +737,9 @@
     "name": "KANNADA ARCHAIC SHRII",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "архаичный", "шри"],
+    "concepts": []
   },
   {
     "cp": 3293,
@@ -589,7 +747,9 @@
     "name": "KANNADA LETTER NAKAARA POLLU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква"],
+    "concepts": []
   },
   {
     "cp": 3294,
@@ -597,7 +757,9 @@
     "name": "KANNADA LETTER FA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "фа"],
+    "concepts": []
   },
   {
     "cp": 3296,
@@ -605,7 +767,9 @@
     "name": "KANNADA LETTER VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 3297,
@@ -613,7 +777,9 @@
     "name": "KANNADA LETTER VOCALIC LL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "буква", "слоговой (вокалический)", "лл"],
+    "concepts": []
   },
   {
     "cp": 3298,
@@ -621,7 +787,9 @@
     "name": "KANNADA VOWEL SIGN VOCALIC L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "гласная", "знак", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 3299,
@@ -629,7 +797,9 @@
     "name": "KANNADA VOWEL SIGN VOCALIC LL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "гласная", "знак", "слоговой (вокалический)", "лл"],
+    "concepts": []
   },
   {
     "cp": 3302,
@@ -637,7 +807,9 @@
     "name": "KANNADA DIGIT ZERO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "цифра", "ноль"],
+    "concepts": ["circle"]
   },
   {
     "cp": 3303,
@@ -645,7 +817,9 @@
     "name": "KANNADA DIGIT ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "цифра", "один"],
+    "concepts": []
   },
   {
     "cp": 3304,
@@ -653,7 +827,9 @@
     "name": "KANNADA DIGIT TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "цифра", "два"],
+    "concepts": []
   },
   {
     "cp": 3305,
@@ -661,7 +837,9 @@
     "name": "KANNADA DIGIT THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "цифра", "три"],
+    "concepts": []
   },
   {
     "cp": 3306,
@@ -669,7 +847,9 @@
     "name": "KANNADA DIGIT FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "цифра", "четыре"],
+    "concepts": []
   },
   {
     "cp": 3307,
@@ -677,7 +857,9 @@
     "name": "KANNADA DIGIT FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "цифра", "пять"],
+    "concepts": []
   },
   {
     "cp": 3308,
@@ -685,7 +867,9 @@
     "name": "KANNADA DIGIT SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "цифра", "шесть"],
+    "concepts": []
   },
   {
     "cp": 3309,
@@ -693,7 +877,9 @@
     "name": "KANNADA DIGIT SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "цифра", "семь"],
+    "concepts": []
   },
   {
     "cp": 3310,
@@ -701,7 +887,9 @@
     "name": "KANNADA DIGIT EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "цифра", "восемь"],
+    "concepts": []
   },
   {
     "cp": 3311,
@@ -709,7 +897,9 @@
     "name": "KANNADA DIGIT NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "цифра", "девять"],
+    "concepts": ["spiral"]
   },
   {
     "cp": 3313,
@@ -717,7 +907,9 @@
     "name": "KANNADA SIGN JIHVAMULIYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "знак", "джихвамулия"],
+    "concepts": []
   },
   {
     "cp": 3314,
@@ -725,7 +917,9 @@
     "name": "KANNADA SIGN UPADHMANIYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "знак", "упадхмания"],
+    "concepts": []
   },
   {
     "cp": 3315,
@@ -733,6 +927,8 @@
     "name": "KANNADA SIGN COMBINING ANUSVARA ABOVE RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["каннада", "знак", "комбинируемый", "анусвара", "сверху", "правый (вправо)"],
+    "concepts": []
   }
 ]

@@ -5,7 +5,9 @@
     "name": "INSCRIPTIONAL PAHLAVI LETTER ALEPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "буква", "алеф"],
+    "concepts": []
   },
   {
     "cp": 68449,
@@ -13,7 +15,9 @@
     "name": "INSCRIPTIONAL PAHLAVI LETTER BETH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "буква", "бет"],
+    "concepts": []
   },
   {
     "cp": 68450,
@@ -21,7 +25,9 @@
     "name": "INSCRIPTIONAL PAHLAVI LETTER GIMEL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "буква", "гимель"],
+    "concepts": []
   },
   {
     "cp": 68451,
@@ -29,7 +35,9 @@
     "name": "INSCRIPTIONAL PAHLAVI LETTER DALETH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "буква", "далет"],
+    "concepts": []
   },
   {
     "cp": 68452,
@@ -37,7 +45,9 @@
     "name": "INSCRIPTIONAL PAHLAVI LETTER HE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "буква", "хе"],
+    "concepts": []
   },
   {
     "cp": 68453,
@@ -45,7 +55,9 @@
     "name": "INSCRIPTIONAL PAHLAVI LETTER WAW-AYIN-RESH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "буква", "вав", "айин", "реш"],
+    "concepts": []
   },
   {
     "cp": 68454,
@@ -53,7 +65,9 @@
     "name": "INSCRIPTIONAL PAHLAVI LETTER ZAYIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "буква", "зайин"],
+    "concepts": []
   },
   {
     "cp": 68455,
@@ -61,7 +75,9 @@
     "name": "INSCRIPTIONAL PAHLAVI LETTER HETH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "буква", "хет"],
+    "concepts": []
   },
   {
     "cp": 68456,
@@ -69,7 +85,9 @@
     "name": "INSCRIPTIONAL PAHLAVI LETTER TETH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "буква", "тет"],
+    "concepts": []
   },
   {
     "cp": 68457,
@@ -77,7 +95,9 @@
     "name": "INSCRIPTIONAL PAHLAVI LETTER YODH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "буква", "йод"],
+    "concepts": []
   },
   {
     "cp": 68458,
@@ -85,7 +105,9 @@
     "name": "INSCRIPTIONAL PAHLAVI LETTER KAPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "буква", "каф"],
+    "concepts": []
   },
   {
     "cp": 68459,
@@ -93,7 +115,9 @@
     "name": "INSCRIPTIONAL PAHLAVI LETTER LAMEDH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "буква", "ламед"],
+    "concepts": []
   },
   {
     "cp": 68460,
@@ -101,7 +125,9 @@
     "name": "INSCRIPTIONAL PAHLAVI LETTER MEM-QOPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "буква", "мем", "коф"],
+    "concepts": []
   },
   {
     "cp": 68461,
@@ -109,7 +135,9 @@
     "name": "INSCRIPTIONAL PAHLAVI LETTER NUN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "буква", "нун"],
+    "concepts": []
   },
   {
     "cp": 68462,
@@ -117,7 +145,9 @@
     "name": "INSCRIPTIONAL PAHLAVI LETTER SAMEKH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "буква", "самех"],
+    "concepts": []
   },
   {
     "cp": 68463,
@@ -125,7 +155,9 @@
     "name": "INSCRIPTIONAL PAHLAVI LETTER PE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "буква", "пе"],
+    "concepts": []
   },
   {
     "cp": 68464,
@@ -133,7 +165,9 @@
     "name": "INSCRIPTIONAL PAHLAVI LETTER SADHE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "буква", "цади"],
+    "concepts": []
   },
   {
     "cp": 68465,
@@ -141,7 +175,9 @@
     "name": "INSCRIPTIONAL PAHLAVI LETTER SHIN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "буква", "шин"],
+    "concepts": []
   },
   {
     "cp": 68466,
@@ -149,7 +185,9 @@
     "name": "INSCRIPTIONAL PAHLAVI LETTER TAW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "буква", "тав"],
+    "concepts": []
   },
   {
     "cp": 68472,
@@ -157,7 +195,9 @@
     "name": "INSCRIPTIONAL PAHLAVI NUMBER ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "число", "один"],
+    "concepts": []
   },
   {
     "cp": 68473,
@@ -165,7 +205,9 @@
     "name": "INSCRIPTIONAL PAHLAVI NUMBER TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "число", "два"],
+    "concepts": []
   },
   {
     "cp": 68474,
@@ -173,7 +215,9 @@
     "name": "INSCRIPTIONAL PAHLAVI NUMBER THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "число", "три"],
+    "concepts": []
   },
   {
     "cp": 68475,
@@ -181,7 +225,9 @@
     "name": "INSCRIPTIONAL PAHLAVI NUMBER FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "число", "четыре"],
+    "concepts": []
   },
   {
     "cp": 68476,
@@ -189,7 +235,9 @@
     "name": "INSCRIPTIONAL PAHLAVI NUMBER TEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "число", "десять"],
+    "concepts": []
   },
   {
     "cp": 68477,
@@ -197,7 +245,9 @@
     "name": "INSCRIPTIONAL PAHLAVI NUMBER TWENTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "число", "двадцать"],
+    "concepts": []
   },
   {
     "cp": 68478,
@@ -205,7 +255,9 @@
     "name": "INSCRIPTIONAL PAHLAVI NUMBER ONE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "число", "один", "сто"],
+    "concepts": []
   },
   {
     "cp": 68479,
@@ -213,6 +265,8 @@
     "name": "INSCRIPTIONAL PAHLAVI NUMBER ONE THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["надписей (эпиграфический)", "пехлеви", "число", "один", "тысяча"],
+    "concepts": []
   }
 ]

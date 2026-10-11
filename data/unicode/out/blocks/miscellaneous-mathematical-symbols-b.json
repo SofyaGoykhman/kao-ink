@@ -5,7 +5,9 @@
     "name": "TRIPLE VERTICAL BAR DELIMITER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тройной", "вертикальный", "черта", "разделитель"],
+    "concepts": ["fog", "gemini", "book"]
   },
   {
     "cp": 10625,
@@ -13,7 +15,24 @@
     "name": "Z NOTATION SPOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нотация", "пятно (точка)"],
+    "concepts": [
+      "fire",
+      "bear",
+      "owl",
+      "pig",
+      "fox",
+      "fist",
+      "circle",
+      "circle-black",
+      "dot",
+      "infinity-math",
+      "divider",
+      "bullet",
+      "bubble",
+      "pin"
+    ]
   },
   {
     "cp": 10626,
@@ -21,7 +40,9 @@
     "name": "Z NOTATION TYPE COLON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нотация", "тип", "двоеточие"],
+    "concepts": ["pig", "dot", "multiply-divide", "divider"]
   },
   {
     "cp": 10627,
@@ -29,7 +50,9 @@
     "name": "LEFT WHITE CURLY BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "белый (контурный)", "фигурный", "скобка"],
+    "concepts": ["brackets"]
   },
   {
     "cp": 10628,
@@ -37,7 +60,9 @@
     "name": "RIGHT WHITE CURLY BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "белый (контурный)", "фигурный", "скобка"],
+    "concepts": ["brackets"]
   },
   {
     "cp": 10629,
@@ -45,7 +70,9 @@
     "name": "LEFT WHITE PARENTHESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "белый (контурный)", "круглая скобка"],
+    "concepts": ["bow-arrow", "brackets"]
   },
   {
     "cp": 10630,
@@ -53,7 +80,9 @@
     "name": "RIGHT WHITE PARENTHESIS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "белый (контурный)", "круглая скобка"],
+    "concepts": ["bow-arrow", "speaker", "brackets", "wifi"]
   },
   {
     "cp": 10631,
@@ -61,7 +90,9 @@
     "name": "Z NOTATION LEFT IMAGE BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нотация", "левый (влево)", "образ (изображение)", "скобка"],
+    "concepts": ["brackets", "chat"]
   },
   {
     "cp": 10632,
@@ -69,7 +100,9 @@
     "name": "Z NOTATION RIGHT IMAGE BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нотация", "правый (вправо)", "образ (изображение)", "скобка"],
+    "concepts": ["speaker", "brackets", "chat"]
   },
   {
     "cp": 10633,
@@ -77,7 +110,9 @@
     "name": "Z NOTATION LEFT BINDING BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нотация", "левый (влево)", "связывающий", "скобка"],
+    "concepts": ["brackets"]
   },
   {
     "cp": 10634,
@@ -85,7 +120,9 @@
     "name": "Z NOTATION RIGHT BINDING BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нотация", "правый (вправо)", "связывающий", "скобка"],
+    "concepts": ["brackets"]
   },
   {
     "cp": 10635,
@@ -93,7 +130,9 @@
     "name": "LEFT SQUARE BRACKET WITH UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "квадрат", "скобка", "с", "подчёркивание"],
+    "concepts": ["brackets"]
   },
   {
     "cp": 10636,
@@ -101,7 +140,9 @@
     "name": "RIGHT SQUARE BRACKET WITH UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "квадрат", "скобка", "с", "подчёркивание"],
+    "concepts": ["brackets"]
   },
   {
     "cp": 10637,
@@ -109,7 +150,18 @@
     "name": "LEFT SQUARE BRACKET WITH TICK IN TOP CORNER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "левый (влево)",
+      "квадрат",
+      "скобка",
+      "с",
+      "галочка (засечка)",
+      "в",
+      "верх",
+      "угол (уголок)"
+    ],
+    "concepts": ["brackets"]
   },
   {
     "cp": 10638,
@@ -117,7 +169,18 @@
     "name": "RIGHT SQUARE BRACKET WITH TICK IN BOTTOM CORNER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "правый (вправо)",
+      "квадрат",
+      "скобка",
+      "с",
+      "галочка (засечка)",
+      "в",
+      "низ",
+      "угол (уголок)"
+    ],
+    "concepts": ["brackets"]
   },
   {
     "cp": 10639,
@@ -125,7 +188,18 @@
     "name": "LEFT SQUARE BRACKET WITH TICK IN BOTTOM CORNER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "левый (влево)",
+      "квадрат",
+      "скобка",
+      "с",
+      "галочка (засечка)",
+      "в",
+      "низ",
+      "угол (уголок)"
+    ],
+    "concepts": ["brackets"]
   },
   {
     "cp": 10640,
@@ -133,7 +207,18 @@
     "name": "RIGHT SQUARE BRACKET WITH TICK IN TOP CORNER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "правый (вправо)",
+      "квадрат",
+      "скобка",
+      "с",
+      "галочка (засечка)",
+      "в",
+      "верх",
+      "угол (уголок)"
+    ],
+    "concepts": ["brackets"]
   },
   {
     "cp": 10641,
@@ -141,7 +226,9 @@
     "name": "LEFT ANGLE BRACKET WITH DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "угол", "скобка", "с", "точка"],
+    "concepts": ["arrow-left", "arrowhead", "compare", "brackets"]
   },
   {
     "cp": 10642,
@@ -149,7 +236,9 @@
     "name": "RIGHT ANGLE BRACKET WITH DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "угол", "скобка", "с", "точка"],
+    "concepts": ["arrow-right", "arrowhead", "compare", "brackets"]
   },
   {
     "cp": 10643,
@@ -157,7 +246,9 @@
     "name": "LEFT ARC LESS-THAN BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "дуга", "меньше", "чем", "скобка"],
+    "concepts": ["brackets"]
   },
   {
     "cp": 10644,
@@ -165,7 +256,9 @@
     "name": "RIGHT ARC GREATER-THAN BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "дуга", "больше", "чем", "скобка"],
+    "concepts": ["brackets"]
   },
   {
     "cp": 10645,
@@ -173,7 +266,9 @@
     "name": "DOUBLE LEFT ARC GREATER-THAN BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["двойной", "левый (влево)", "дуга", "больше", "чем", "скобка"],
+    "concepts": ["brackets"]
   },
   {
     "cp": 10646,
@@ -181,7 +276,9 @@
     "name": "DOUBLE RIGHT ARC LESS-THAN BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["двойной", "правый (вправо)", "дуга", "меньше", "чем", "скобка"],
+    "concepts": ["brackets"]
   },
   {
     "cp": 10647,
@@ -189,7 +286,15 @@
     "name": "LEFT BLACK TORTOISE SHELL BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "левый (влево)",
+      "чёрный (закрашенный)",
+      "черепаха (черепаховая скобка)",
+      "ракушка (оболочка)",
+      "скобка"
+    ],
+    "concepts": ["turtle", "brackets", "border"]
   },
   {
     "cp": 10648,
@@ -197,7 +302,15 @@
     "name": "RIGHT BLACK TORTOISE SHELL BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "правый (вправо)",
+      "чёрный (закрашенный)",
+      "черепаха (черепаховая скобка)",
+      "ракушка (оболочка)",
+      "скобка"
+    ],
+    "concepts": ["turtle", "speaker", "brackets", "border"]
   },
   {
     "cp": 10649,
@@ -205,7 +318,9 @@
     "name": "DOTTED FENCE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["пунктирный (с точкой)", "забор (ограда)"],
+    "concepts": ["mouse", "multiply-divide", "divider"]
   },
   {
     "cp": 10650,
@@ -213,7 +328,23 @@
     "name": "VERTICAL ZIGZAG LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вертикальный", "зигзаг", "линия"],
+    "concepts": [
+      "lightning",
+      "water",
+      "wave",
+      "crown",
+      "snake",
+      "lizard",
+      "dragon",
+      "arrow-zigzag",
+      "wave-line",
+      "zigzag",
+      "divider",
+      "medical",
+      "bell"
+    ]
   },
   {
     "cp": 10651,
@@ -221,7 +352,9 @@
     "name": "MEASURED ANGLE OPENING LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["измеренный", "угол", "открывающая", "левый (влево)"],
+    "concepts": ["angle-geometry"]
   },
   {
     "cp": 10652,
@@ -229,7 +362,9 @@
     "name": "RIGHT ANGLE VARIANT WITH SQUARE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "угол", "вариант", "с", "квадрат"],
+    "concepts": ["check", "root", "angle-geometry", "corner", "school"]
   },
   {
     "cp": 10653,
@@ -237,7 +372,9 @@
     "name": "MEASURED RIGHT ANGLE WITH DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["измеренный", "правый (вправо)", "угол", "с", "точка"],
+    "concepts": ["root", "angle-geometry"]
   },
   {
     "cp": 10654,
@@ -245,7 +382,9 @@
     "name": "ANGLE WITH S INSIDE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["угол", "с", "внутри"],
+    "concepts": ["root", "angle-geometry"]
   },
   {
     "cp": 10655,
@@ -253,7 +392,9 @@
     "name": "ACUTE ANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["акут (ударение)", "угол"],
+    "concepts": ["root", "angle-geometry"]
   },
   {
     "cp": 10656,
@@ -261,7 +402,9 @@
     "name": "SPHERICAL ANGLE OPENING LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сферический", "угол", "открывающая", "левый (влево)"],
+    "concepts": ["angle-geometry"]
   },
   {
     "cp": 10657,
@@ -269,7 +412,9 @@
     "name": "SPHERICAL ANGLE OPENING UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сферический", "угол", "открывающая", "вверх"],
+    "concepts": ["angle-geometry"]
   },
   {
     "cp": 10658,
@@ -277,7 +422,9 @@
     "name": "TURNED ANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["перевёрнутый", "угол"],
+    "concepts": ["writing", "angry", "angle-geometry"]
   },
   {
     "cp": 10659,
@@ -285,7 +432,9 @@
     "name": "REVERSED ANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["зеркальный (обратный)", "угол"],
+    "concepts": ["writing", "angry", "arrow-curved", "angle-geometry"]
   },
   {
     "cp": 10660,
@@ -293,7 +442,9 @@
     "name": "ANGLE WITH UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["угол", "с", "подчёркивание"],
+    "concepts": ["writing", "angry", "arrow-curved", "angle-geometry"]
   },
   {
     "cp": 10661,
@@ -301,7 +452,9 @@
     "name": "REVERSED ANGLE WITH UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["зеркальный (обратный)", "угол", "с", "подчёркивание"],
+    "concepts": ["writing", "angry", "arrow-curved", "angle-geometry"]
   },
   {
     "cp": 10662,
@@ -309,7 +462,9 @@
     "name": "OBLIQUE ANGLE OPENING UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["косой", "угол", "открывающая", "вверх"],
+    "concepts": ["check", "writing", "angry", "arrow-curved", "angle-geometry"]
   },
   {
     "cp": 10663,
@@ -317,7 +472,9 @@
     "name": "OBLIQUE ANGLE OPENING DOWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["косой", "угол", "открывающая", "вниз"],
+    "concepts": ["check", "writing", "angry", "arrow-curved", "angle-geometry"]
   },
   {
     "cp": 10664,
@@ -325,7 +482,22 @@
     "name": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "измеренный",
+      "угол",
+      "с",
+      "открытый",
+      "рука (плечо)",
+      "окончание",
+      "в",
+      "стрелка",
+      "указывающий",
+      "вверх",
+      "и",
+      "правый (вправо)"
+    ],
+    "concepts": ["writing", "angle-geometry"]
   },
   {
     "cp": 10665,
@@ -333,7 +505,22 @@
     "name": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "измеренный",
+      "угол",
+      "с",
+      "открытый",
+      "рука (плечо)",
+      "окончание",
+      "в",
+      "стрелка",
+      "указывающий",
+      "вверх",
+      "и",
+      "левый (влево)"
+    ],
+    "concepts": ["writing", "angle-geometry"]
   },
   {
     "cp": 10666,
@@ -341,7 +528,22 @@
     "name": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "измеренный",
+      "угол",
+      "с",
+      "открытый",
+      "рука (плечо)",
+      "окончание",
+      "в",
+      "стрелка",
+      "указывающий",
+      "вниз",
+      "и",
+      "правый (вправо)"
+    ],
+    "concepts": ["lightning", "writing", "angle-geometry"]
   },
   {
     "cp": 10667,
@@ -349,7 +551,22 @@
     "name": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "измеренный",
+      "угол",
+      "с",
+      "открытый",
+      "рука (плечо)",
+      "окончание",
+      "в",
+      "стрелка",
+      "указывающий",
+      "вниз",
+      "и",
+      "левый (влево)"
+    ],
+    "concepts": ["writing", "angle-geometry"]
   },
   {
     "cp": 10668,
@@ -357,7 +574,22 @@
     "name": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "измеренный",
+      "угол",
+      "с",
+      "открытый",
+      "рука (плечо)",
+      "окончание",
+      "в",
+      "стрелка",
+      "указывающий",
+      "правый (вправо)",
+      "и",
+      "вверх"
+    ],
+    "concepts": ["writing", "angle-geometry"]
   },
   {
     "cp": 10669,
@@ -365,7 +597,22 @@
     "name": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING LEFT AND UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "измеренный",
+      "угол",
+      "с",
+      "открытый",
+      "рука (плечо)",
+      "окончание",
+      "в",
+      "стрелка",
+      "указывающий",
+      "левый (влево)",
+      "и",
+      "вверх"
+    ],
+    "concepts": ["writing", "angle-geometry"]
   },
   {
     "cp": 10670,
@@ -373,7 +620,22 @@
     "name": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND DOWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "измеренный",
+      "угол",
+      "с",
+      "открытый",
+      "рука (плечо)",
+      "окончание",
+      "в",
+      "стрелка",
+      "указывающий",
+      "правый (вправо)",
+      "и",
+      "вниз"
+    ],
+    "concepts": ["writing", "angle-geometry"]
   },
   {
     "cp": 10671,
@@ -381,7 +643,22 @@
     "name": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING LEFT AND DOWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "измеренный",
+      "угол",
+      "с",
+      "открытый",
+      "рука (плечо)",
+      "окончание",
+      "в",
+      "стрелка",
+      "указывающий",
+      "левый (влево)",
+      "и",
+      "вниз"
+    ],
+    "concepts": ["writing", "angle-geometry"]
   },
   {
     "cp": 10672,
@@ -389,7 +666,9 @@
     "name": "REVERSED EMPTY SET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["зеркальный (обратный)", "пустой", "множество"],
+    "concepts": ["circle", "percent", "warning", "prohibited"]
   },
   {
     "cp": 10673,
@@ -397,7 +676,9 @@
     "name": "EMPTY SET WITH OVERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["пустой", "множество", "с", "черта сверху"],
+    "concepts": ["circle", "percent", "warning", "prohibited"]
   },
   {
     "cp": 10674,
@@ -405,7 +686,9 @@
     "name": "EMPTY SET WITH SMALL CIRCLE ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["пустой", "множество", "с", "маленький (строчный)", "круг", "сверху"],
+    "concepts": ["earth", "arrow-circle", "circle", "spiral-shapes", "prohibited"]
   },
   {
     "cp": 10675,
@@ -413,7 +696,9 @@
     "name": "EMPTY SET WITH RIGHT ARROW ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["пустой", "множество", "с", "правый (вправо)", "стрелка", "сверху"],
+    "concepts": ["earth", "arrow-circle", "circle", "spiral-shapes", "prohibited"]
   },
   {
     "cp": 10676,
@@ -421,7 +706,9 @@
     "name": "EMPTY SET WITH LEFT ARROW ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["пустой", "множество", "с", "левый (влево)", "стрелка", "сверху"],
+    "concepts": ["earth", "arrow-circle", "circle", "prohibited"]
   },
   {
     "cp": 10677,
@@ -429,7 +716,23 @@
     "name": "CIRCLE WITH HORIZONTAL BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["круг", "с", "горизонтальный", "черта"],
+    "concepts": [
+      "planet",
+      "earth",
+      "eye",
+      "peace",
+      "circle",
+      "spiral-shapes",
+      "power",
+      "time",
+      "prohibited",
+      "atom",
+      "planets",
+      "sport",
+      "target"
+    ]
   },
   {
     "cp": 10678,
@@ -437,7 +740,25 @@
     "name": "CIRCLED VERTICAL BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в кружке", "вертикальный", "черта"],
+    "concepts": [
+      "planet",
+      "thermometer",
+      "earth",
+      "eye",
+      "peace",
+      "yin-yang",
+      "arrow-circle",
+      "circle",
+      "spiral-shapes",
+      "power",
+      "time",
+      "prohibited",
+      "planets",
+      "sport",
+      "target"
+    ]
   },
   {
     "cp": 10679,
@@ -445,7 +766,21 @@
     "name": "CIRCLED PARALLEL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в кружке", "параллельно"],
+    "concepts": [
+      "planet",
+      "earth",
+      "peace",
+      "yin-yang",
+      "circle",
+      "power",
+      "time",
+      "prohibited",
+      "planets",
+      "sport",
+      "target"
+    ]
   },
   {
     "cp": 10680,
@@ -453,7 +788,22 @@
     "name": "CIRCLED REVERSE SOLIDUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в кружке", "обратный", "косая черта (слэш)"],
+    "concepts": [
+      "planet",
+      "earth",
+      "peace",
+      "yin-yang",
+      "circle",
+      "percent",
+      "power",
+      "time",
+      "warning",
+      "prohibited",
+      "planets",
+      "sport"
+    ]
   },
   {
     "cp": 10681,
@@ -461,7 +811,19 @@
     "name": "CIRCLED PERPENDICULAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в кружке", "перпендикуляр"],
+    "concepts": [
+      "earth",
+      "peace",
+      "yin-yang",
+      "arrow-circle",
+      "circle",
+      "power",
+      "time",
+      "prohibited",
+      "sport"
+    ]
   },
   {
     "cp": 10682,
@@ -469,7 +831,19 @@
     "name": "CIRCLE DIVIDED BY HORIZONTAL BAR AND TOP HALF DIVIDED BY VERTICAL BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "круг",
+      "разделённый",
+      "на (через)",
+      "горизонтальный",
+      "черта",
+      "и",
+      "верх",
+      "половина",
+      "вертикальный"
+    ],
+    "concepts": ["peace", "circle", "sport"]
   },
   {
     "cp": 10683,
@@ -477,7 +851,19 @@
     "name": "CIRCLE WITH SUPERIMPOSED X",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["круг", "с", "наложенный"],
+    "concepts": [
+      "earth",
+      "cross-mark",
+      "skull",
+      "peace",
+      "yin-yang",
+      "circle",
+      "prohibited",
+      "atom",
+      "sport"
+    ]
   },
   {
     "cp": 10684,
@@ -485,7 +871,9 @@
     "name": "CIRCLED ANTICLOCKWISE-ROTATED DIVISION SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в кружке", "против часовой стрелки", "повёрнутый", "деление", "знак"],
+    "concepts": ["earth", "peace", "yin-yang", "circle", "prohibited", "sport"]
   },
   {
     "cp": 10685,
@@ -493,7 +881,9 @@
     "name": "UP ARROW THROUGH CIRCLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вверх", "стрелка", "сквозь", "круг"],
+    "concepts": ["earth"]
   },
   {
     "cp": 10686,
@@ -501,7 +891,46 @@
     "name": "CIRCLED WHITE BULLET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в кружке", "белый (контурный)", "маркер списка (точка)"],
+    "concepts": [
+      "wedding",
+      "sun",
+      "flower",
+      "snowman",
+      "spiral",
+      "owl",
+      "bee",
+      "monkey",
+      "lion",
+      "alien",
+      "weapon",
+      "smile",
+      "eye",
+      "skull",
+      "angel",
+      "yin-yang",
+      "arrow-circle",
+      "circle",
+      "hexagon",
+      "spiral-shapes",
+      "bullet",
+      "settings",
+      "time",
+      "atom",
+      "pentagram",
+      "planets",
+      "lucky",
+      "explosion",
+      "bubble",
+      "dizzy",
+      "light",
+      "camera",
+      "sport",
+      "target",
+      "accessibility",
+      "halloween"
+    ]
   },
   {
     "cp": 10687,
@@ -509,7 +938,36 @@
     "name": "CIRCLED BULLET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в кружке", "маркер списка (точка)"],
+    "concepts": [
+      "wedding",
+      "sun",
+      "snowman",
+      "owl",
+      "weapon",
+      "gun",
+      "smile",
+      "eye",
+      "skull",
+      "yin-yang",
+      "circle",
+      "circle-black",
+      "spiral-shapes",
+      "checkers",
+      "bullet",
+      "settings",
+      "time",
+      "atom",
+      "planets",
+      "lucky",
+      "light",
+      "camera",
+      "pin",
+      "sport",
+      "target",
+      "halloween"
+    ]
   },
   {
     "cp": 10688,
@@ -517,7 +975,9 @@
     "name": "CIRCLED LESS-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в кружке", "меньше", "чем"],
+    "concepts": ["earth", "arrow-circle", "prohibited", "sport"]
   },
   {
     "cp": 10689,
@@ -525,7 +985,9 @@
     "name": "CIRCLED GREATER-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в кружке", "больше", "чем"],
+    "concepts": ["earth", "arrow-circle", "prohibited", "sport"]
   },
   {
     "cp": 10690,
@@ -533,7 +995,9 @@
     "name": "CIRCLE WITH SMALL CIRCLE TO THE RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["круг", "с", "маленький (строчный)", "к", "правый (вправо)"],
+    "concepts": ["earth", "pig", "peace", "circle", "prohibited", "sport"]
   },
   {
     "cp": 10691,
@@ -541,7 +1005,9 @@
     "name": "CIRCLE WITH TWO HORIZONTAL STROKES TO THE RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["круг", "с", "два", "горизонтальный", "черты", "к", "правый (вправо)"],
+    "concepts": ["earth", "pig", "peace", "circle", "prohibited", "sport"]
   },
   {
     "cp": 10692,
@@ -549,7 +1015,9 @@
     "name": "SQUARED RISING DIAGONAL SLASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "восходящий", "диагональный", "слэш (косая черта)"],
+    "concepts": ["checkbox", "writing", "square", "checkers", "mail", "gift"]
   },
   {
     "cp": 10693,
@@ -557,7 +1025,9 @@
     "name": "SQUARED FALLING DIAGONAL SLASH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "падающий", "диагональный", "слэш (косая черта)"],
+    "concepts": ["checkbox", "square", "mail", "gift"]
   },
   {
     "cp": 10694,
@@ -565,7 +1035,9 @@
     "name": "SQUARED ASTERISK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "звёздочка (астериск)"],
+    "concepts": ["square", "checkers", "calendar"]
   },
   {
     "cp": 10695,
@@ -573,7 +1045,20 @@
     "name": "SQUARED SMALL CIRCLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "маленький (строчный)", "круг"],
+    "concepts": [
+      "robot",
+      "eye",
+      "square",
+      "checkers",
+      "dice",
+      "game",
+      "keyboard",
+      "computer",
+      "calendar",
+      "camera"
+    ]
   },
   {
     "cp": 10696,
@@ -581,7 +1066,21 @@
     "name": "SQUARED SQUARE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в квадрате", "квадрат"],
+    "concepts": [
+      "robot",
+      "square",
+      "checkers",
+      "dice",
+      "computer",
+      "mail",
+      "calendar",
+      "gift",
+      "font-squared",
+      "camera",
+      "book"
+    ]
   },
   {
     "cp": 10697,
@@ -589,7 +1088,9 @@
     "name": "TWO JOINED SQUARES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["два", "соединённый", "квадраты"],
+    "concepts": ["computer", "book"]
   },
   {
     "cp": 10698,
@@ -597,7 +1098,9 @@
     "name": "TRIANGLE WITH DOT ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["треугольник", "с", "точка", "сверху"],
+    "concepts": ["triangle", "hexagon", "warning", "recycling"]
   },
   {
     "cp": 10699,
@@ -605,7 +1108,9 @@
     "name": "TRIANGLE WITH UNDERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["треугольник", "с", "подчёркивание"],
+    "concepts": ["tree", "triangle", "hexagon", "warning", "recycling"]
   },
   {
     "cp": 10700,
@@ -613,7 +1118,9 @@
     "name": "S IN TRIANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["в", "треугольник"],
+    "concepts": ["triangle", "hexagon"]
   },
   {
     "cp": 10701,
@@ -621,7 +1128,19 @@
     "name": "TRIANGLE WITH SERIFS AT BOTTOM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["треугольник", "с", "засечки", "при (собачка)", "низ"],
+    "concepts": [
+      "tree",
+      "eye",
+      "triangle",
+      "hexagon",
+      "warning",
+      "recycling",
+      "hieroglyphs",
+      "magic",
+      "christmas"
+    ]
   },
   {
     "cp": 10702,
@@ -629,7 +1148,9 @@
     "name": "RIGHT TRIANGLE ABOVE LEFT TRIANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "треугольник", "сверху", "левый (влево)"],
+    "concepts": []
   },
   {
     "cp": 10703,
@@ -637,7 +1158,9 @@
     "name": "LEFT TRIANGLE BESIDE VERTICAL BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "треугольник", "рядом", "вертикальный", "черта"],
+    "concepts": ["triangle"]
   },
   {
     "cp": 10704,
@@ -645,7 +1168,9 @@
     "name": "VERTICAL BAR BESIDE RIGHT TRIANGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["вертикальный", "черта", "рядом", "правый (вправо)", "треугольник"],
+    "concepts": ["triangle"]
   },
   {
     "cp": 10705,
@@ -653,7 +1178,9 @@
     "name": "BOWTIE WITH LEFT HALF BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бабочка (галстук-бабочка)", "с", "левый (влево)", "половина", "чёрный (закрашенный)"],
+    "concepts": ["bow-ribbon"]
   },
   {
     "cp": 10706,
@@ -661,7 +1188,15 @@
     "name": "BOWTIE WITH RIGHT HALF BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "бабочка (галстук-бабочка)",
+      "с",
+      "правый (вправо)",
+      "половина",
+      "чёрный (закрашенный)"
+    ],
+    "concepts": ["bow-ribbon"]
   },
   {
     "cp": 10707,
@@ -669,7 +1204,20 @@
     "name": "BLACK BOWTIE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["чёрный (закрашенный)", "бабочка (галстук-бабочка)"],
+    "concepts": [
+      "fish",
+      "butterfly",
+      "arrow-double",
+      "checkers",
+      "divider",
+      "hourglass",
+      "transport",
+      "gift",
+      "bow-ribbon",
+      "scissors"
+    ]
   },
   {
     "cp": 10708,
@@ -677,7 +1225,9 @@
     "name": "TIMES WITH LEFT HALF BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["умножить (раз)", "с", "левый (влево)", "половина", "чёрный (закрашенный)"],
+    "concepts": ["fish", "arrow-double", "hourglass", "bow-ribbon"]
   },
   {
     "cp": 10709,
@@ -685,7 +1235,9 @@
     "name": "TIMES WITH RIGHT HALF BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["умножить (раз)", "с", "правый (вправо)", "половина", "чёрный (закрашенный)"],
+    "concepts": ["fish", "arrow-double", "hourglass", "bow-ribbon"]
   },
   {
     "cp": 10710,
@@ -693,7 +1245,18 @@
     "name": "WHITE HOURGLASS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["белый (контурный)", "песочные часы"],
+    "concepts": [
+      "snowman",
+      "arrow-circle",
+      "mail",
+      "time",
+      "hourglass",
+      "gift",
+      "bow-ribbon",
+      "celtic"
+    ]
   },
   {
     "cp": 10711,
@@ -701,7 +1264,9 @@
     "name": "BLACK HOURGLASS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["чёрный (закрашенный)", "песочные часы"],
+    "concepts": ["butterfly", "mail", "time", "hourglass", "gift", "bow-ribbon"]
   },
   {
     "cp": 10712,
@@ -709,7 +1274,9 @@
     "name": "LEFT WIGGLY FENCE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "волнистый", "забор (ограда)"],
+    "concepts": []
   },
   {
     "cp": 10713,
@@ -717,7 +1284,9 @@
     "name": "RIGHT WIGGLY FENCE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "волнистый", "забор (ограда)"],
+    "concepts": []
   },
   {
     "cp": 10714,
@@ -725,7 +1294,9 @@
     "name": "LEFT DOUBLE WIGGLY FENCE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "двойной", "волнистый", "забор (ограда)"],
+    "concepts": []
   },
   {
     "cp": 10715,
@@ -733,7 +1304,9 @@
     "name": "RIGHT DOUBLE WIGGLY FENCE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "двойной", "волнистый", "забор (ограда)"],
+    "concepts": []
   },
   {
     "cp": 10716,
@@ -741,7 +1314,9 @@
     "name": "INCOMPLETE INFINITY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["неполный", "бесконечность"],
+    "concepts": ["infinity", "forever", "infinity-math", "celtic"]
   },
   {
     "cp": 10717,
@@ -749,7 +1324,9 @@
     "name": "TIE OVER INFINITY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лига (галстук)", "над", "бесконечность"],
+    "concepts": ["infinity", "infinity-math", "celtic"]
   },
   {
     "cp": 10718,
@@ -757,7 +1334,9 @@
     "name": "INFINITY NEGATED WITH VERTICAL BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["бесконечность", "отрицаемый", "с", "вертикальный", "черта"],
+    "concepts": ["infinity", "infinity-math", "celtic"]
   },
   {
     "cp": 10719,
@@ -765,7 +1344,19 @@
     "name": "DOUBLE-ENDED MULTIMAP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["двойной", "концевой", "мультиотображение"],
+    "concepts": [
+      "thermometer",
+      "sword",
+      "arrow-double",
+      "arrow-feathered",
+      "divider",
+      "power",
+      "medical",
+      "key",
+      "pin"
+    ]
   },
   {
     "cp": 10720,
@@ -773,7 +1364,9 @@
     "name": "SQUARE WITH CONTOURED OUTLINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["квадрат", "с", "контурный", "контур"],
+    "concepts": ["checkbox", "square", "rectangle", "cards", "mahjong"]
   },
   {
     "cp": 10721,
@@ -781,7 +1374,9 @@
     "name": "INCREASES AS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["возрастает", "как"],
+    "concepts": []
   },
   {
     "cp": 10722,
@@ -789,7 +1384,9 @@
     "name": "SHUFFLE PRODUCT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["перемешивание", "произведение"],
+    "concepts": ["instrument"]
   },
   {
     "cp": 10723,
@@ -797,7 +1394,9 @@
     "name": "EQUALS SIGN AND SLANTED PARALLEL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["равно", "знак", "и", "наклонный", "параллельно"],
+    "concepts": ["music", "sharp-flat", "at-hash"]
   },
   {
     "cp": 10724,
@@ -805,7 +1404,9 @@
     "name": "EQUALS SIGN AND SLANTED PARALLEL WITH TILDE ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["равно", "знак", "и", "наклонный", "параллельно", "с", "тильда", "сверху"],
+    "concepts": ["music", "sharp-flat", "at-hash"]
   },
   {
     "cp": 10725,
@@ -813,7 +1414,9 @@
     "name": "IDENTICAL TO AND SLANTED PARALLEL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тождественно", "к", "и", "наклонный", "параллельно"],
+    "concepts": ["music", "sharp-flat", "at-hash"]
   },
   {
     "cp": 10726,
@@ -821,7 +1424,9 @@
     "name": "GLEICH STARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["равно (gleich)", "сильно (stark)"],
+    "concepts": []
   },
   {
     "cp": 10727,
@@ -829,7 +1434,9 @@
     "name": "THERMODYNAMIC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["термодинамический"],
+    "concepts": ["cross"]
   },
   {
     "cp": 10728,
@@ -837,7 +1444,17 @@
     "name": "DOWN-POINTING TRIANGLE WITH LEFT HALF BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "вниз",
+      "указывающий",
+      "треугольник",
+      "с",
+      "левый (влево)",
+      "половина",
+      "чёрный (закрашенный)"
+    ],
+    "concepts": ["triangle"]
   },
   {
     "cp": 10729,
@@ -845,7 +1462,17 @@
     "name": "DOWN-POINTING TRIANGLE WITH RIGHT HALF BLACK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "вниз",
+      "указывающий",
+      "треугольник",
+      "с",
+      "правый (вправо)",
+      "половина",
+      "чёрный (закрашенный)"
+    ],
+    "concepts": ["triangle"]
   },
   {
     "cp": 10730,
@@ -853,7 +1480,9 @@
     "name": "BLACK DIAMOND WITH DOWN ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["чёрный (закрашенный)", "ромб", "с", "вниз", "стрелка"],
+    "concepts": ["diamond", "spades"]
   },
   {
     "cp": 10731,
@@ -861,7 +1490,9 @@
     "name": "BLACK LOZENGE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["чёрный (закрашенный)", "ромб"],
+    "concepts": ["diamond", "diamonds-suit"]
   },
   {
     "cp": 10732,
@@ -869,7 +1500,9 @@
     "name": "WHITE CIRCLE WITH DOWN ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["белый (контурный)", "круг", "с", "вниз", "стрелка"],
+    "concepts": ["alien", "skull"]
   },
   {
     "cp": 10733,
@@ -877,7 +1510,9 @@
     "name": "BLACK CIRCLE WITH DOWN ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["чёрный (закрашенный)", "круг", "с", "вниз", "стрелка"],
+    "concepts": ["alien", "skull"]
   },
   {
     "cp": 10734,
@@ -885,7 +1520,9 @@
     "name": "ERROR-BARRED WHITE SQUARE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ошибка", "перечёркнутый", "белый (контурный)", "квадрат"],
+    "concepts": ["square"]
   },
   {
     "cp": 10735,
@@ -893,7 +1530,9 @@
     "name": "ERROR-BARRED BLACK SQUARE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ошибка", "перечёркнутый", "чёрный (закрашенный)", "квадрат"],
+    "concepts": ["square"]
   },
   {
     "cp": 10736,
@@ -901,7 +1540,9 @@
     "name": "ERROR-BARRED WHITE DIAMOND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ошибка", "перечёркнутый", "белый (контурный)", "ромб"],
+    "concepts": ["square", "diamond"]
   },
   {
     "cp": 10737,
@@ -909,7 +1550,9 @@
     "name": "ERROR-BARRED BLACK DIAMOND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ошибка", "перечёркнутый", "чёрный (закрашенный)", "ромб"],
+    "concepts": ["square", "diamond"]
   },
   {
     "cp": 10738,
@@ -917,7 +1560,9 @@
     "name": "ERROR-BARRED WHITE CIRCLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ошибка", "перечёркнутый", "белый (контурный)", "круг"],
+    "concepts": []
   },
   {
     "cp": 10739,
@@ -925,7 +1570,9 @@
     "name": "ERROR-BARRED BLACK CIRCLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["ошибка", "перечёркнутый", "чёрный (закрашенный)", "круг"],
+    "concepts": []
   },
   {
     "cp": 10740,
@@ -933,7 +1580,9 @@
     "name": "RULE-DELAYED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["линейка (черта)", "отложенный"],
+    "concepts": []
   },
   {
     "cp": 10741,
@@ -941,7 +1590,9 @@
     "name": "REVERSE SOLIDUS OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["обратный", "косая черта (слэш)", "оператор"],
+    "concepts": ["rain", "arms-raised", "shrug"]
   },
   {
     "cp": 10742,
@@ -949,7 +1600,9 @@
     "name": "SOLIDUS WITH OVERBAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["косая черта (слэш)", "с", "черта сверху"],
+    "concepts": []
   },
   {
     "cp": 10743,
@@ -957,7 +1610,9 @@
     "name": "REVERSE SOLIDUS WITH HORIZONTAL STROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["обратный", "косая черта (слэш)", "с", "горизонтальный", "черта (штрих)"],
+    "concepts": []
   },
   {
     "cp": 10744,
@@ -965,7 +1620,20 @@
     "name": "BIG SOLIDUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["большой", "косая черта (слэш)"],
+    "concepts": [
+      "rain",
+      "sword",
+      "writing",
+      "arms-raised",
+      "shrug",
+      "arrow-diagonal",
+      "percent",
+      "angle-geometry",
+      "fraction",
+      "sagittarius"
+    ]
   },
   {
     "cp": 10745,
@@ -973,7 +1641,9 @@
     "name": "BIG REVERSE SOLIDUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["большой", "обратный", "косая черта (слэш)"],
+    "concepts": ["sword", "shrug", "arrow-diagonal", "angle-geometry"]
   },
   {
     "cp": 10746,
@@ -981,7 +1651,9 @@
     "name": "DOUBLE PLUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["двойной", "плюс"],
+    "concepts": ["cross", "sharp-flat", "plus-minus", "at-hash", "medical"]
   },
   {
     "cp": 10747,
@@ -989,7 +1661,9 @@
     "name": "TRIPLE PLUS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тройной", "плюс"],
+    "concepts": ["cross", "sharp-flat", "plus-minus", "at-hash", "medical"]
   },
   {
     "cp": 10748,
@@ -997,7 +1671,9 @@
     "name": "LEFT-POINTING CURVED ANGLE BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["левый (влево)", "указывающий", "изогнутый", "угол", "скобка"],
+    "concepts": ["brackets"]
   },
   {
     "cp": 10749,
@@ -1005,7 +1681,9 @@
     "name": "RIGHT-POINTING CURVED ANGLE BRACKET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["правый (вправо)", "указывающий", "изогнутый", "угол", "скобка"],
+    "concepts": ["brackets"]
   },
   {
     "cp": 10750,
@@ -1013,7 +1691,9 @@
     "name": "TINY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["крошечный"],
+    "concepts": ["cross", "medical"]
   },
   {
     "cp": 10751,
@@ -1021,6 +1701,8 @@
     "name": "MINY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мини"],
+    "concepts": []
   }
 ]

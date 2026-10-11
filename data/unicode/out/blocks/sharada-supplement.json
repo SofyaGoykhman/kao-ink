@@ -5,7 +5,9 @@
     "name": "SHARADA VOWEL SIGN OE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шарада", "гласная", "знак", "oe (лигатура)"],
+    "concepts": []
   },
   {
     "cp": 72545,
@@ -13,7 +15,9 @@
     "name": "SHARADA VOWEL SIGN OOE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шарада", "гласная", "знак", "уе"],
+    "concepts": []
   },
   {
     "cp": 72546,
@@ -21,7 +25,9 @@
     "name": "SHARADA VOWEL SIGN UE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шарада", "гласная", "знак", "уэ"],
+    "concepts": []
   },
   {
     "cp": 72547,
@@ -29,7 +35,9 @@
     "name": "SHARADA VOWEL SIGN UUE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шарада", "гласная", "знак", "ууе"],
+    "concepts": []
   },
   {
     "cp": 72548,
@@ -37,7 +45,9 @@
     "name": "SHARADA VOWEL SIGN SHORT E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шарада", "гласная", "знак", "короткий"],
+    "concepts": []
   },
   {
     "cp": 72549,
@@ -45,7 +55,9 @@
     "name": "SHARADA VOWEL SIGN SHORT O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шарада", "гласная", "знак", "короткий"],
+    "concepts": []
   },
   {
     "cp": 72550,
@@ -53,7 +65,9 @@
     "name": "SHARADA VOWEL SIGN CANDRA E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шарада", "гласная", "знак", "чандра"],
+    "concepts": []
   },
   {
     "cp": 72551,
@@ -61,6 +75,8 @@
     "name": "SHARADA VOWEL SIGN CANDRA O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["шарада", "гласная", "знак", "чандра"],
+    "concepts": []
   }
 ]

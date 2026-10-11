@@ -5,7 +5,9 @@
     "name": "KHMER SYMBOL PATHAMASAT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ"],
+    "concepts": []
   },
   {
     "cp": 6625,
@@ -13,7 +15,9 @@
     "name": "KHMER SYMBOL MUOY KOET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "муой (один)", "коэт"],
+    "concepts": []
   },
   {
     "cp": 6626,
@@ -21,7 +25,9 @@
     "name": "KHMER SYMBOL PII KOET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "пии", "коэт"],
+    "concepts": []
   },
   {
     "cp": 6627,
@@ -29,7 +35,9 @@
     "name": "KHMER SYMBOL BEI KOET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "бей (три)", "коэт"],
+    "concepts": []
   },
   {
     "cp": 6628,
@@ -37,7 +45,9 @@
     "name": "KHMER SYMBOL BUON KOET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "буон (четыре)", "коэт"],
+    "concepts": []
   },
   {
     "cp": 6629,
@@ -45,7 +55,9 @@
     "name": "KHMER SYMBOL PRAM KOET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "прам (пять)", "коэт"],
+    "concepts": []
   },
   {
     "cp": 6630,
@@ -53,7 +65,9 @@
     "name": "KHMER SYMBOL PRAM-MUOY KOET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "прам (пять)", "муой (один)", "коэт"],
+    "concepts": []
   },
   {
     "cp": 6631,
@@ -61,7 +75,9 @@
     "name": "KHMER SYMBOL PRAM-PII KOET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "прам (пять)", "пии", "коэт"],
+    "concepts": []
   },
   {
     "cp": 6632,
@@ -69,7 +85,9 @@
     "name": "KHMER SYMBOL PRAM-BEI KOET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "прам (пять)", "бей (три)", "коэт"],
+    "concepts": []
   },
   {
     "cp": 6633,
@@ -77,7 +95,9 @@
     "name": "KHMER SYMBOL PRAM-BUON KOET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "прам (пять)", "буон (четыре)", "коэт"],
+    "concepts": []
   },
   {
     "cp": 6634,
@@ -85,7 +105,9 @@
     "name": "KHMER SYMBOL DAP KOET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "дап (десять)", "коэт"],
+    "concepts": []
   },
   {
     "cp": 6635,
@@ -93,7 +115,9 @@
     "name": "KHMER SYMBOL DAP-MUOY KOET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "дап (десять)", "муой (один)", "коэт"],
+    "concepts": []
   },
   {
     "cp": 6636,
@@ -101,7 +125,9 @@
     "name": "KHMER SYMBOL DAP-PII KOET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "дап (десять)", "пии", "коэт"],
+    "concepts": []
   },
   {
     "cp": 6637,
@@ -109,7 +135,9 @@
     "name": "KHMER SYMBOL DAP-BEI KOET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "дап (десять)", "бей (три)", "коэт"],
+    "concepts": []
   },
   {
     "cp": 6638,
@@ -117,7 +145,9 @@
     "name": "KHMER SYMBOL DAP-BUON KOET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "дап (десять)", "буон (четыре)", "коэт"],
+    "concepts": []
   },
   {
     "cp": 6639,
@@ -125,7 +155,9 @@
     "name": "KHMER SYMBOL DAP-PRAM KOET",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "дап (десять)", "прам (пять)", "коэт"],
+    "concepts": []
   },
   {
     "cp": 6640,
@@ -133,7 +165,9 @@
     "name": "KHMER SYMBOL TUTEYASAT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ"],
+    "concepts": []
   },
   {
     "cp": 6641,
@@ -141,7 +175,9 @@
     "name": "KHMER SYMBOL MUOY ROC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "муой (один)", "рок"],
+    "concepts": []
   },
   {
     "cp": 6642,
@@ -149,7 +185,9 @@
     "name": "KHMER SYMBOL PII ROC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "пии", "рок"],
+    "concepts": []
   },
   {
     "cp": 6643,
@@ -157,7 +195,9 @@
     "name": "KHMER SYMBOL BEI ROC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "бей (три)", "рок"],
+    "concepts": []
   },
   {
     "cp": 6644,
@@ -165,7 +205,9 @@
     "name": "KHMER SYMBOL BUON ROC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "буон (четыре)", "рок"],
+    "concepts": []
   },
   {
     "cp": 6645,
@@ -173,7 +215,9 @@
     "name": "KHMER SYMBOL PRAM ROC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "прам (пять)", "рок"],
+    "concepts": []
   },
   {
     "cp": 6646,
@@ -181,7 +225,9 @@
     "name": "KHMER SYMBOL PRAM-MUOY ROC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "прам (пять)", "муой (один)", "рок"],
+    "concepts": []
   },
   {
     "cp": 6647,
@@ -189,7 +235,9 @@
     "name": "KHMER SYMBOL PRAM-PII ROC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "прам (пять)", "пии", "рок"],
+    "concepts": []
   },
   {
     "cp": 6648,
@@ -197,7 +245,9 @@
     "name": "KHMER SYMBOL PRAM-BEI ROC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "прам (пять)", "бей (три)", "рок"],
+    "concepts": []
   },
   {
     "cp": 6649,
@@ -205,7 +255,9 @@
     "name": "KHMER SYMBOL PRAM-BUON ROC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "прам (пять)", "буон (четыре)", "рок"],
+    "concepts": []
   },
   {
     "cp": 6650,
@@ -213,7 +265,9 @@
     "name": "KHMER SYMBOL DAP ROC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "дап (десять)", "рок"],
+    "concepts": []
   },
   {
     "cp": 6651,
@@ -221,7 +275,9 @@
     "name": "KHMER SYMBOL DAP-MUOY ROC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "дап (десять)", "муой (один)", "рок"],
+    "concepts": []
   },
   {
     "cp": 6652,
@@ -229,7 +285,9 @@
     "name": "KHMER SYMBOL DAP-PII ROC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "дап (десять)", "пии", "рок"],
+    "concepts": []
   },
   {
     "cp": 6653,
@@ -237,7 +295,9 @@
     "name": "KHMER SYMBOL DAP-BEI ROC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "дап (десять)", "бей (три)", "рок"],
+    "concepts": []
   },
   {
     "cp": 6654,
@@ -245,7 +305,9 @@
     "name": "KHMER SYMBOL DAP-BUON ROC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "дап (десять)", "буон (четыре)", "рок"],
+    "concepts": []
   },
   {
     "cp": 6655,
@@ -253,6 +315,8 @@
     "name": "KHMER SYMBOL DAP-PRAM ROC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["кхмерский", "символ", "дап (десять)", "прам (пять)", "рок"],
+    "concepts": []
   }
 ]

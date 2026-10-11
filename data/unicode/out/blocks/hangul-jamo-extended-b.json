@@ -5,7 +5,9 @@
     "name": "HANGUL JUNGSEONG O-YEO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)", "ё (yeo)"],
+    "concepts": []
   },
   {
     "cp": 55217,
@@ -13,7 +15,9 @@
     "name": "HANGUL JUNGSEONG O-O-I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)"],
+    "concepts": []
   },
   {
     "cp": 55218,
@@ -21,7 +25,9 @@
     "name": "HANGUL JUNGSEONG YO-A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)", "йо"],
+    "concepts": []
   },
   {
     "cp": 55219,
@@ -29,7 +35,9 @@
     "name": "HANGUL JUNGSEONG YO-AE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)", "йо", "ae (лигатура)"],
+    "concepts": []
   },
   {
     "cp": 55220,
@@ -37,7 +45,9 @@
     "name": "HANGUL JUNGSEONG YO-EO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)", "йо", "о (eo)"],
+    "concepts": []
   },
   {
     "cp": 55221,
@@ -45,7 +55,9 @@
     "name": "HANGUL JUNGSEONG U-YEO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)", "ё (yeo)"],
+    "concepts": []
   },
   {
     "cp": 55222,
@@ -53,7 +65,9 @@
     "name": "HANGUL JUNGSEONG U-I-I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)"],
+    "concepts": []
   },
   {
     "cp": 55223,
@@ -61,7 +75,9 @@
     "name": "HANGUL JUNGSEONG YU-AE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)", "ю", "ae (лигатура)"],
+    "concepts": []
   },
   {
     "cp": 55224,
@@ -69,7 +85,9 @@
     "name": "HANGUL JUNGSEONG YU-O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)", "ю"],
+    "concepts": []
   },
   {
     "cp": 55225,
@@ -77,7 +95,9 @@
     "name": "HANGUL JUNGSEONG EU-A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)", "ы (eu)"],
+    "concepts": []
   },
   {
     "cp": 55226,
@@ -85,7 +105,9 @@
     "name": "HANGUL JUNGSEONG EU-EO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)", "ы (eu)", "о (eo)"],
+    "concepts": []
   },
   {
     "cp": 55227,
@@ -93,7 +115,9 @@
     "name": "HANGUL JUNGSEONG EU-E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)", "ы (eu)"],
+    "concepts": []
   },
   {
     "cp": 55228,
@@ -101,7 +125,9 @@
     "name": "HANGUL JUNGSEONG EU-O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)", "ы (eu)"],
+    "concepts": []
   },
   {
     "cp": 55229,
@@ -109,7 +135,9 @@
     "name": "HANGUL JUNGSEONG I-YA-O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)", "я"],
+    "concepts": []
   },
   {
     "cp": 55230,
@@ -117,7 +145,9 @@
     "name": "HANGUL JUNGSEONG I-YAE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)", "яе"],
+    "concepts": []
   },
   {
     "cp": 55231,
@@ -125,7 +155,9 @@
     "name": "HANGUL JUNGSEONG I-YEO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)", "ё (yeo)"],
+    "concepts": []
   },
   {
     "cp": 55232,
@@ -133,7 +165,9 @@
     "name": "HANGUL JUNGSEONG I-YE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)", "йе"],
+    "concepts": []
   },
   {
     "cp": 55233,
@@ -141,7 +175,9 @@
     "name": "HANGUL JUNGSEONG I-O-I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)"],
+    "concepts": []
   },
   {
     "cp": 55234,
@@ -149,7 +185,9 @@
     "name": "HANGUL JUNGSEONG I-YO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)", "йо"],
+    "concepts": []
   },
   {
     "cp": 55235,
@@ -157,7 +195,9 @@
     "name": "HANGUL JUNGSEONG I-YU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)", "ю"],
+    "concepts": []
   },
   {
     "cp": 55236,
@@ -165,7 +205,9 @@
     "name": "HANGUL JUNGSEONG I-I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)"],
+    "concepts": []
   },
   {
     "cp": 55237,
@@ -173,7 +215,9 @@
     "name": "HANGUL JUNGSEONG ARAEA-A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)", "араэ"],
+    "concepts": []
   },
   {
     "cp": 55238,
@@ -181,7 +225,9 @@
     "name": "HANGUL JUNGSEONG ARAEA-E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чунсон (гласная)", "араэ"],
+    "concepts": []
   },
   {
     "cp": 55243,
@@ -189,7 +235,9 @@
     "name": "HANGUL JONGSEONG NIEUN-RIEUL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "ниын (ㄴ)", "риыль (ㄹ)"],
+    "concepts": []
   },
   {
     "cp": 55244,
@@ -197,7 +245,9 @@
     "name": "HANGUL JONGSEONG NIEUN-CHIEUCH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "ниын (ㄴ)", "чхиыт (ㅊ)"],
+    "concepts": []
   },
   {
     "cp": 55245,
@@ -205,7 +255,9 @@
     "name": "HANGUL JONGSEONG SSANGTIKEUT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "ссангтигыт (ㄸ)"],
+    "concepts": []
   },
   {
     "cp": 55246,
@@ -213,7 +265,9 @@
     "name": "HANGUL JONGSEONG SSANGTIKEUT-PIEUP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "ссангтигыт (ㄸ)", "пиып (ㅂ)"],
+    "concepts": []
   },
   {
     "cp": 55247,
@@ -221,7 +275,9 @@
     "name": "HANGUL JONGSEONG TIKEUT-PIEUP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "тигыт (ㄷ)", "пиып (ㅂ)"],
+    "concepts": []
   },
   {
     "cp": 55248,
@@ -229,7 +285,9 @@
     "name": "HANGUL JONGSEONG TIKEUT-SIOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "тигыт (ㄷ)", "сиос (ㅅ)"],
+    "concepts": []
   },
   {
     "cp": 55249,
@@ -237,7 +295,9 @@
     "name": "HANGUL JONGSEONG TIKEUT-SIOS-KIYEOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "тигыт (ㄷ)", "сиос (ㅅ)", "киёк (ㄱ)"],
+    "concepts": []
   },
   {
     "cp": 55250,
@@ -245,7 +305,9 @@
     "name": "HANGUL JONGSEONG TIKEUT-CIEUC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "тигыт (ㄷ)", "чиыт (ㅈ)"],
+    "concepts": []
   },
   {
     "cp": 55251,
@@ -253,7 +315,9 @@
     "name": "HANGUL JONGSEONG TIKEUT-CHIEUCH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "тигыт (ㄷ)", "чхиыт (ㅊ)"],
+    "concepts": []
   },
   {
     "cp": 55252,
@@ -261,7 +325,9 @@
     "name": "HANGUL JONGSEONG TIKEUT-THIEUTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "тигыт (ㄷ)", "тхиыт (ㅌ)"],
+    "concepts": []
   },
   {
     "cp": 55253,
@@ -269,7 +335,9 @@
     "name": "HANGUL JONGSEONG RIEUL-SSANGKIYEOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "риыль (ㄹ)", "ссангкиёк (ㄲ)"],
+    "concepts": []
   },
   {
     "cp": 55254,
@@ -277,7 +345,9 @@
     "name": "HANGUL JONGSEONG RIEUL-KIYEOK-HIEUH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "риыль (ㄹ)", "киёк (ㄱ)", "хиыт (ㅎ)"],
+    "concepts": []
   },
   {
     "cp": 55255,
@@ -285,7 +355,9 @@
     "name": "HANGUL JONGSEONG SSANGRIEUL-KHIEUKH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "ссангриеул", "кхиык (ㅋ)"],
+    "concepts": []
   },
   {
     "cp": 55256,
@@ -293,7 +365,9 @@
     "name": "HANGUL JONGSEONG RIEUL-MIEUM-HIEUH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "риыль (ㄹ)", "миым (ㅁ)", "хиыт (ㅎ)"],
+    "concepts": []
   },
   {
     "cp": 55257,
@@ -301,7 +375,9 @@
     "name": "HANGUL JONGSEONG RIEUL-PIEUP-TIKEUT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "риыль (ㄹ)", "пиып (ㅂ)", "тигыт (ㄷ)"],
+    "concepts": []
   },
   {
     "cp": 55258,
@@ -309,7 +385,9 @@
     "name": "HANGUL JONGSEONG RIEUL-PIEUP-PHIEUPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "риыль (ㄹ)", "пиып (ㅂ)", "пхиып (ㅍ)"],
+    "concepts": []
   },
   {
     "cp": 55259,
@@ -317,7 +395,9 @@
     "name": "HANGUL JONGSEONG RIEUL-YESIEUNG",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "риыль (ㄹ)", "есиын"],
+    "concepts": []
   },
   {
     "cp": 55260,
@@ -325,7 +405,9 @@
     "name": "HANGUL JONGSEONG RIEUL-YEORINHIEUH-HIEUH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "риыль (ㄹ)", "ёринхиыт", "хиыт (ㅎ)"],
+    "concepts": []
   },
   {
     "cp": 55261,
@@ -333,7 +415,9 @@
     "name": "HANGUL JONGSEONG KAPYEOUNRIEUL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)"],
+    "concepts": []
   },
   {
     "cp": 55262,
@@ -341,7 +425,9 @@
     "name": "HANGUL JONGSEONG MIEUM-NIEUN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "миым (ㅁ)", "ниын (ㄴ)"],
+    "concepts": []
   },
   {
     "cp": 55263,
@@ -349,7 +435,9 @@
     "name": "HANGUL JONGSEONG MIEUM-SSANGNIEUN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "миым (ㅁ)", "ссангниеун"],
+    "concepts": []
   },
   {
     "cp": 55264,
@@ -357,7 +445,9 @@
     "name": "HANGUL JONGSEONG SSANGMIEUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)"],
+    "concepts": []
   },
   {
     "cp": 55265,
@@ -365,7 +455,9 @@
     "name": "HANGUL JONGSEONG MIEUM-PIEUP-SIOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "миым (ㅁ)", "пиып (ㅂ)", "сиос (ㅅ)"],
+    "concepts": []
   },
   {
     "cp": 55266,
@@ -373,7 +465,9 @@
     "name": "HANGUL JONGSEONG MIEUM-CIEUC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "миым (ㅁ)", "чиыт (ㅈ)"],
+    "concepts": []
   },
   {
     "cp": 55267,
@@ -381,7 +475,9 @@
     "name": "HANGUL JONGSEONG PIEUP-TIKEUT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "пиып (ㅂ)", "тигыт (ㄷ)"],
+    "concepts": []
   },
   {
     "cp": 55268,
@@ -389,7 +485,9 @@
     "name": "HANGUL JONGSEONG PIEUP-RIEUL-PHIEUPH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "пиып (ㅂ)", "риыль (ㄹ)", "пхиып (ㅍ)"],
+    "concepts": []
   },
   {
     "cp": 55269,
@@ -397,7 +495,9 @@
     "name": "HANGUL JONGSEONG PIEUP-MIEUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "пиып (ㅂ)", "миым (ㅁ)"],
+    "concepts": []
   },
   {
     "cp": 55270,
@@ -405,7 +505,9 @@
     "name": "HANGUL JONGSEONG SSANGPIEUP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "ссангпиып (ㅃ)"],
+    "concepts": []
   },
   {
     "cp": 55271,
@@ -413,7 +515,9 @@
     "name": "HANGUL JONGSEONG PIEUP-SIOS-TIKEUT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "пиып (ㅂ)", "сиос (ㅅ)", "тигыт (ㄷ)"],
+    "concepts": []
   },
   {
     "cp": 55272,
@@ -421,7 +525,9 @@
     "name": "HANGUL JONGSEONG PIEUP-CIEUC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "пиып (ㅂ)", "чиыт (ㅈ)"],
+    "concepts": []
   },
   {
     "cp": 55273,
@@ -429,7 +535,9 @@
     "name": "HANGUL JONGSEONG PIEUP-CHIEUCH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "пиып (ㅂ)", "чхиыт (ㅊ)"],
+    "concepts": []
   },
   {
     "cp": 55274,
@@ -437,7 +545,9 @@
     "name": "HANGUL JONGSEONG SIOS-MIEUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "сиос (ㅅ)", "миым (ㅁ)"],
+    "concepts": []
   },
   {
     "cp": 55275,
@@ -445,7 +555,9 @@
     "name": "HANGUL JONGSEONG SIOS-KAPYEOUNPIEUP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "сиос (ㅅ)", "капёунпиып"],
+    "concepts": []
   },
   {
     "cp": 55276,
@@ -453,7 +565,9 @@
     "name": "HANGUL JONGSEONG SSANGSIOS-KIYEOK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "ссангсиос (ㅆ)", "киёк (ㄱ)"],
+    "concepts": []
   },
   {
     "cp": 55277,
@@ -461,7 +575,9 @@
     "name": "HANGUL JONGSEONG SSANGSIOS-TIKEUT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "ссангсиос (ㅆ)", "тигыт (ㄷ)"],
+    "concepts": []
   },
   {
     "cp": 55278,
@@ -469,7 +585,9 @@
     "name": "HANGUL JONGSEONG SIOS-PANSIOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "сиос (ㅅ)", "пансиос"],
+    "concepts": []
   },
   {
     "cp": 55279,
@@ -477,7 +595,9 @@
     "name": "HANGUL JONGSEONG SIOS-CIEUC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "сиос (ㅅ)", "чиыт (ㅈ)"],
+    "concepts": []
   },
   {
     "cp": 55280,
@@ -485,7 +605,9 @@
     "name": "HANGUL JONGSEONG SIOS-CHIEUCH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "сиос (ㅅ)", "чхиыт (ㅊ)"],
+    "concepts": []
   },
   {
     "cp": 55281,
@@ -493,7 +615,9 @@
     "name": "HANGUL JONGSEONG SIOS-THIEUTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "сиос (ㅅ)", "тхиыт (ㅌ)"],
+    "concepts": []
   },
   {
     "cp": 55282,
@@ -501,7 +625,9 @@
     "name": "HANGUL JONGSEONG SIOS-HIEUH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "сиос (ㅅ)", "хиыт (ㅎ)"],
+    "concepts": []
   },
   {
     "cp": 55283,
@@ -509,7 +635,9 @@
     "name": "HANGUL JONGSEONG PANSIOS-PIEUP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "пансиос", "пиып (ㅂ)"],
+    "concepts": []
   },
   {
     "cp": 55284,
@@ -517,7 +645,9 @@
     "name": "HANGUL JONGSEONG PANSIOS-KAPYEOUNPIEUP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "пансиос", "капёунпиып"],
+    "concepts": []
   },
   {
     "cp": 55285,
@@ -525,7 +655,9 @@
     "name": "HANGUL JONGSEONG YESIEUNG-MIEUM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "есиын", "миым (ㅁ)"],
+    "concepts": []
   },
   {
     "cp": 55286,
@@ -533,7 +665,9 @@
     "name": "HANGUL JONGSEONG YESIEUNG-HIEUH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "есиын", "хиыт (ㅎ)"],
+    "concepts": []
   },
   {
     "cp": 55287,
@@ -541,7 +675,9 @@
     "name": "HANGUL JONGSEONG CIEUC-PIEUP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "чиыт (ㅈ)", "пиып (ㅂ)"],
+    "concepts": []
   },
   {
     "cp": 55288,
@@ -549,7 +685,9 @@
     "name": "HANGUL JONGSEONG CIEUC-SSANGPIEUP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "чиыт (ㅈ)", "ссангпиып (ㅃ)"],
+    "concepts": []
   },
   {
     "cp": 55289,
@@ -557,7 +695,9 @@
     "name": "HANGUL JONGSEONG SSANGCIEUC",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "ссангчиеуч"],
+    "concepts": []
   },
   {
     "cp": 55290,
@@ -565,7 +705,9 @@
     "name": "HANGUL JONGSEONG PHIEUPH-SIOS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "пхиып (ㅍ)", "сиос (ㅅ)"],
+    "concepts": []
   },
   {
     "cp": 55291,
@@ -573,6 +715,8 @@
     "name": "HANGUL JONGSEONG PHIEUPH-THIEUTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хангыль (корейский)", "чонсон (конечная)", "пхиып (ㅍ)", "тхиыт (ㅌ)"],
+    "concepts": []
   }
 ]

@@ -5,7 +5,9 @@
     "name": "NANDINAGARI LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква"],
+    "concepts": []
   },
   {
     "cp": 72097,
@@ -13,7 +15,9 @@
     "name": "NANDINAGARI LETTER AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "аа"],
+    "concepts": []
   },
   {
     "cp": 72098,
@@ -21,7 +25,9 @@
     "name": "NANDINAGARI LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква"],
+    "concepts": []
   },
   {
     "cp": 72099,
@@ -29,7 +35,9 @@
     "name": "NANDINAGARI LETTER II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "ии"],
+    "concepts": []
   },
   {
     "cp": 72100,
@@ -37,7 +45,9 @@
     "name": "NANDINAGARI LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква"],
+    "concepts": []
   },
   {
     "cp": 72101,
@@ -45,7 +55,9 @@
     "name": "NANDINAGARI LETTER UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "уу"],
+    "concepts": []
   },
   {
     "cp": 72102,
@@ -53,7 +65,9 @@
     "name": "NANDINAGARI LETTER VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 72103,
@@ -61,7 +75,9 @@
     "name": "NANDINAGARI LETTER VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 72106,
@@ -69,7 +85,9 @@
     "name": "NANDINAGARI LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква"],
+    "concepts": []
   },
   {
     "cp": 72107,
@@ -77,7 +95,9 @@
     "name": "NANDINAGARI LETTER AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "аи"],
+    "concepts": []
   },
   {
     "cp": 72108,
@@ -85,7 +105,9 @@
     "name": "NANDINAGARI LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква"],
+    "concepts": []
   },
   {
     "cp": 72109,
@@ -93,7 +115,9 @@
     "name": "NANDINAGARI LETTER AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "ау"],
+    "concepts": []
   },
   {
     "cp": 72110,
@@ -101,7 +125,9 @@
     "name": "NANDINAGARI LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 72111,
@@ -109,7 +135,9 @@
     "name": "NANDINAGARI LETTER KHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "кха"],
+    "concepts": []
   },
   {
     "cp": 72112,
@@ -117,7 +145,9 @@
     "name": "NANDINAGARI LETTER GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "га"],
+    "concepts": []
   },
   {
     "cp": 72113,
@@ -125,7 +155,9 @@
     "name": "NANDINAGARI LETTER GHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "гха"],
+    "concepts": []
   },
   {
     "cp": 72114,
@@ -133,7 +165,9 @@
     "name": "NANDINAGARI LETTER NGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "нга"],
+    "concepts": []
   },
   {
     "cp": 72115,
@@ -141,7 +175,9 @@
     "name": "NANDINAGARI LETTER CA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 72116,
@@ -149,7 +185,9 @@
     "name": "NANDINAGARI LETTER CHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 72117,
@@ -157,7 +195,9 @@
     "name": "NANDINAGARI LETTER JA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "джа"],
+    "concepts": []
   },
   {
     "cp": 72118,
@@ -165,7 +205,9 @@
     "name": "NANDINAGARI LETTER JHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "джха"],
+    "concepts": []
   },
   {
     "cp": 72119,
@@ -173,7 +215,9 @@
     "name": "NANDINAGARI LETTER NYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "ня"],
+    "concepts": []
   },
   {
     "cp": 72120,
@@ -181,7 +225,9 @@
     "name": "NANDINAGARI LETTER TTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "тта"],
+    "concepts": []
   },
   {
     "cp": 72121,
@@ -189,7 +235,9 @@
     "name": "NANDINAGARI LETTER TTHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "ттха"],
+    "concepts": []
   },
   {
     "cp": 72122,
@@ -197,7 +245,9 @@
     "name": "NANDINAGARI LETTER DDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "дда"],
+    "concepts": []
   },
   {
     "cp": 72123,
@@ -205,7 +255,9 @@
     "name": "NANDINAGARI LETTER DDHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "ддха"],
+    "concepts": []
   },
   {
     "cp": 72124,
@@ -213,7 +265,9 @@
     "name": "NANDINAGARI LETTER NNA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "нна"],
+    "concepts": []
   },
   {
     "cp": 72125,
@@ -221,7 +275,9 @@
     "name": "NANDINAGARI LETTER TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 72126,
@@ -229,7 +285,9 @@
     "name": "NANDINAGARI LETTER THA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "тха"],
+    "concepts": []
   },
   {
     "cp": 72127,
@@ -237,7 +295,9 @@
     "name": "NANDINAGARI LETTER DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "да"],
+    "concepts": []
   },
   {
     "cp": 72128,
@@ -245,7 +305,9 @@
     "name": "NANDINAGARI LETTER DHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "дха"],
+    "concepts": []
   },
   {
     "cp": 72129,
@@ -253,7 +315,9 @@
     "name": "NANDINAGARI LETTER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 72130,
@@ -261,7 +325,9 @@
     "name": "NANDINAGARI LETTER PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "па"],
+    "concepts": []
   },
   {
     "cp": 72131,
@@ -269,7 +335,9 @@
     "name": "NANDINAGARI LETTER PHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "пха"],
+    "concepts": []
   },
   {
     "cp": 72132,
@@ -277,7 +345,9 @@
     "name": "NANDINAGARI LETTER BA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "ба"],
+    "concepts": []
   },
   {
     "cp": 72133,
@@ -285,7 +355,9 @@
     "name": "NANDINAGARI LETTER BHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "бха"],
+    "concepts": []
   },
   {
     "cp": 72134,
@@ -293,7 +365,9 @@
     "name": "NANDINAGARI LETTER MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 72135,
@@ -301,7 +375,9 @@
     "name": "NANDINAGARI LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 72136,
@@ -309,7 +385,9 @@
     "name": "NANDINAGARI LETTER RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 72137,
@@ -317,7 +395,9 @@
     "name": "NANDINAGARI LETTER LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "ла"],
+    "concepts": []
   },
   {
     "cp": 72138,
@@ -325,7 +405,9 @@
     "name": "NANDINAGARI LETTER VA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "ва"],
+    "concepts": []
   },
   {
     "cp": 72139,
@@ -333,7 +415,9 @@
     "name": "NANDINAGARI LETTER SHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "ша"],
+    "concepts": []
   },
   {
     "cp": 72140,
@@ -341,7 +425,9 @@
     "name": "NANDINAGARI LETTER SSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "сса"],
+    "concepts": []
   },
   {
     "cp": 72141,
@@ -349,7 +435,9 @@
     "name": "NANDINAGARI LETTER SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 72142,
@@ -357,7 +445,9 @@
     "name": "NANDINAGARI LETTER HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 72143,
@@ -365,7 +455,9 @@
     "name": "NANDINAGARI LETTER LLA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "лла"],
+    "concepts": []
   },
   {
     "cp": 72144,
@@ -373,7 +465,9 @@
     "name": "NANDINAGARI LETTER RRA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "буква", "рра"],
+    "concepts": []
   },
   {
     "cp": 72145,
@@ -381,7 +475,9 @@
     "name": "NANDINAGARI VOWEL SIGN AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "гласная", "знак", "аа"],
+    "concepts": []
   },
   {
     "cp": 72146,
@@ -389,7 +485,9 @@
     "name": "NANDINAGARI VOWEL SIGN I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 72147,
@@ -397,7 +495,9 @@
     "name": "NANDINAGARI VOWEL SIGN II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "гласная", "знак", "ии"],
+    "concepts": []
   },
   {
     "cp": 72148,
@@ -405,7 +505,9 @@
     "name": "NANDINAGARI VOWEL SIGN U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 72149,
@@ -413,7 +515,9 @@
     "name": "NANDINAGARI VOWEL SIGN UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "гласная", "знак", "уу"],
+    "concepts": []
   },
   {
     "cp": 72150,
@@ -421,7 +525,9 @@
     "name": "NANDINAGARI VOWEL SIGN VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "гласная", "знак", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 72151,
@@ -429,7 +535,9 @@
     "name": "NANDINAGARI VOWEL SIGN VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "гласная", "знак", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 72154,
@@ -437,7 +545,9 @@
     "name": "NANDINAGARI VOWEL SIGN E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 72155,
@@ -445,7 +555,9 @@
     "name": "NANDINAGARI VOWEL SIGN AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "гласная", "знак", "аи"],
+    "concepts": []
   },
   {
     "cp": 72156,
@@ -453,7 +565,9 @@
     "name": "NANDINAGARI VOWEL SIGN O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 72157,
@@ -461,7 +575,9 @@
     "name": "NANDINAGARI VOWEL SIGN AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "гласная", "знак", "ау"],
+    "concepts": []
   },
   {
     "cp": 72158,
@@ -469,7 +585,9 @@
     "name": "NANDINAGARI SIGN ANUSVARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "знак", "анусвара"],
+    "concepts": []
   },
   {
     "cp": 72159,
@@ -477,7 +595,9 @@
     "name": "NANDINAGARI SIGN VISARGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "знак", "висарга"],
+    "concepts": []
   },
   {
     "cp": 72160,
@@ -485,7 +605,9 @@
     "name": "NANDINAGARI SIGN VIRAMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "знак", "вирама"],
+    "concepts": []
   },
   {
     "cp": 72161,
@@ -493,7 +615,9 @@
     "name": "NANDINAGARI SIGN AVAGRAHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "знак", "аваграха"],
+    "concepts": []
   },
   {
     "cp": 72162,
@@ -501,7 +625,9 @@
     "name": "NANDINAGARI SIGN SIDDHAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "знак", "сиддхам"],
+    "concepts": []
   },
   {
     "cp": 72163,
@@ -509,7 +635,9 @@
     "name": "NANDINAGARI HEADSTROKE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "верхняя черта"],
+    "concepts": []
   },
   {
     "cp": 72164,
@@ -517,6 +645,8 @@
     "name": "NANDINAGARI VOWEL SIGN PRISHTHAMATRA E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["нандинагари", "гласная", "знак", "приштхаматра"],
+    "concepts": []
   }
 ]

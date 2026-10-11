@@ -5,7 +5,9 @@
     "name": "TULU-TIGALARI LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква"],
+    "concepts": []
   },
   {
     "cp": 70529,
@@ -13,7 +15,9 @@
     "name": "TULU-TIGALARI LETTER AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "аа"],
+    "concepts": []
   },
   {
     "cp": 70530,
@@ -21,7 +25,9 @@
     "name": "TULU-TIGALARI LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква"],
+    "concepts": []
   },
   {
     "cp": 70531,
@@ -29,7 +35,9 @@
     "name": "TULU-TIGALARI LETTER II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "ии"],
+    "concepts": []
   },
   {
     "cp": 70532,
@@ -37,7 +45,9 @@
     "name": "TULU-TIGALARI LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква"],
+    "concepts": []
   },
   {
     "cp": 70533,
@@ -45,7 +55,9 @@
     "name": "TULU-TIGALARI LETTER UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "уу"],
+    "concepts": []
   },
   {
     "cp": 70534,
@@ -53,7 +65,9 @@
     "name": "TULU-TIGALARI LETTER VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 70535,
@@ -61,7 +75,9 @@
     "name": "TULU-TIGALARI LETTER VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 70536,
@@ -69,7 +85,9 @@
     "name": "TULU-TIGALARI LETTER VOCALIC L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 70537,
@@ -77,7 +95,9 @@
     "name": "TULU-TIGALARI LETTER VOCALIC LL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "слоговой (вокалический)", "лл"],
+    "concepts": []
   },
   {
     "cp": 70539,
@@ -85,7 +105,9 @@
     "name": "TULU-TIGALARI LETTER EE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "ее"],
+    "concepts": []
   },
   {
     "cp": 70542,
@@ -93,7 +115,9 @@
     "name": "TULU-TIGALARI LETTER AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "аи"],
+    "concepts": []
   },
   {
     "cp": 70544,
@@ -101,7 +125,9 @@
     "name": "TULU-TIGALARI LETTER OO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "оо"],
+    "concepts": []
   },
   {
     "cp": 70545,
@@ -109,7 +135,9 @@
     "name": "TULU-TIGALARI LETTER AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "ау"],
+    "concepts": []
   },
   {
     "cp": 70546,
@@ -117,7 +145,9 @@
     "name": "TULU-TIGALARI LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 70547,
@@ -125,7 +155,9 @@
     "name": "TULU-TIGALARI LETTER KHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "кха"],
+    "concepts": []
   },
   {
     "cp": 70548,
@@ -133,7 +165,9 @@
     "name": "TULU-TIGALARI LETTER GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "га"],
+    "concepts": []
   },
   {
     "cp": 70549,
@@ -141,7 +175,9 @@
     "name": "TULU-TIGALARI LETTER GHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "гха"],
+    "concepts": []
   },
   {
     "cp": 70550,
@@ -149,7 +185,9 @@
     "name": "TULU-TIGALARI LETTER NGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "нга"],
+    "concepts": []
   },
   {
     "cp": 70551,
@@ -157,7 +195,9 @@
     "name": "TULU-TIGALARI LETTER CA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 70552,
@@ -165,7 +205,9 @@
     "name": "TULU-TIGALARI LETTER CHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 70553,
@@ -173,7 +215,9 @@
     "name": "TULU-TIGALARI LETTER JA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "джа"],
+    "concepts": []
   },
   {
     "cp": 70554,
@@ -181,7 +225,9 @@
     "name": "TULU-TIGALARI LETTER JHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "джха"],
+    "concepts": []
   },
   {
     "cp": 70555,
@@ -189,7 +235,9 @@
     "name": "TULU-TIGALARI LETTER NYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "ня"],
+    "concepts": []
   },
   {
     "cp": 70556,
@@ -197,7 +245,9 @@
     "name": "TULU-TIGALARI LETTER TTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "тта"],
+    "concepts": []
   },
   {
     "cp": 70557,
@@ -205,7 +255,9 @@
     "name": "TULU-TIGALARI LETTER TTHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "ттха"],
+    "concepts": []
   },
   {
     "cp": 70558,
@@ -213,7 +265,9 @@
     "name": "TULU-TIGALARI LETTER DDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "дда"],
+    "concepts": []
   },
   {
     "cp": 70559,
@@ -221,7 +275,9 @@
     "name": "TULU-TIGALARI LETTER DDHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "ддха"],
+    "concepts": []
   },
   {
     "cp": 70560,
@@ -229,7 +285,9 @@
     "name": "TULU-TIGALARI LETTER NNA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "нна"],
+    "concepts": []
   },
   {
     "cp": 70561,
@@ -237,7 +295,9 @@
     "name": "TULU-TIGALARI LETTER TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 70562,
@@ -245,7 +305,9 @@
     "name": "TULU-TIGALARI LETTER THA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "тха"],
+    "concepts": []
   },
   {
     "cp": 70563,
@@ -253,7 +315,9 @@
     "name": "TULU-TIGALARI LETTER DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "да"],
+    "concepts": []
   },
   {
     "cp": 70564,
@@ -261,7 +325,9 @@
     "name": "TULU-TIGALARI LETTER DHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "дха"],
+    "concepts": []
   },
   {
     "cp": 70565,
@@ -269,7 +335,9 @@
     "name": "TULU-TIGALARI LETTER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 70566,
@@ -277,7 +345,9 @@
     "name": "TULU-TIGALARI LETTER PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "па"],
+    "concepts": []
   },
   {
     "cp": 70567,
@@ -285,7 +355,9 @@
     "name": "TULU-TIGALARI LETTER PHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "пха"],
+    "concepts": []
   },
   {
     "cp": 70568,
@@ -293,7 +365,9 @@
     "name": "TULU-TIGALARI LETTER BA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "ба"],
+    "concepts": []
   },
   {
     "cp": 70569,
@@ -301,7 +375,9 @@
     "name": "TULU-TIGALARI LETTER BHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "бха"],
+    "concepts": []
   },
   {
     "cp": 70570,
@@ -309,7 +385,9 @@
     "name": "TULU-TIGALARI LETTER MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 70571,
@@ -317,7 +395,9 @@
     "name": "TULU-TIGALARI LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 70572,
@@ -325,7 +405,9 @@
     "name": "TULU-TIGALARI LETTER RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 70573,
@@ -333,7 +415,9 @@
     "name": "TULU-TIGALARI LETTER LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "ла"],
+    "concepts": []
   },
   {
     "cp": 70574,
@@ -341,7 +425,9 @@
     "name": "TULU-TIGALARI LETTER VA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "ва"],
+    "concepts": []
   },
   {
     "cp": 70575,
@@ -349,7 +435,9 @@
     "name": "TULU-TIGALARI LETTER SHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "ша"],
+    "concepts": []
   },
   {
     "cp": 70576,
@@ -357,7 +445,9 @@
     "name": "TULU-TIGALARI LETTER SSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "сса"],
+    "concepts": []
   },
   {
     "cp": 70577,
@@ -365,7 +455,9 @@
     "name": "TULU-TIGALARI LETTER SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 70578,
@@ -373,7 +465,9 @@
     "name": "TULU-TIGALARI LETTER HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 70579,
@@ -381,7 +475,9 @@
     "name": "TULU-TIGALARI LETTER LLA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "лла"],
+    "concepts": []
   },
   {
     "cp": 70580,
@@ -389,7 +485,9 @@
     "name": "TULU-TIGALARI LETTER RRA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "рра"],
+    "concepts": []
   },
   {
     "cp": 70581,
@@ -397,7 +495,9 @@
     "name": "TULU-TIGALARI LETTER LLLA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "буква", "ллла"],
+    "concepts": []
   },
   {
     "cp": 70583,
@@ -405,7 +505,9 @@
     "name": "TULU-TIGALARI SIGN AVAGRAHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "знак", "аваграха"],
+    "concepts": []
   },
   {
     "cp": 70584,
@@ -413,7 +515,9 @@
     "name": "TULU-TIGALARI VOWEL SIGN AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "гласная", "знак", "аа"],
+    "concepts": []
   },
   {
     "cp": 70585,
@@ -421,7 +525,9 @@
     "name": "TULU-TIGALARI VOWEL SIGN I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 70586,
@@ -429,7 +535,9 @@
     "name": "TULU-TIGALARI VOWEL SIGN II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "гласная", "знак", "ии"],
+    "concepts": []
   },
   {
     "cp": 70587,
@@ -437,7 +545,9 @@
     "name": "TULU-TIGALARI VOWEL SIGN U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 70588,
@@ -445,7 +555,9 @@
     "name": "TULU-TIGALARI VOWEL SIGN UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "гласная", "знак", "уу"],
+    "concepts": []
   },
   {
     "cp": 70589,
@@ -453,7 +565,9 @@
     "name": "TULU-TIGALARI VOWEL SIGN VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "гласная", "знак", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 70590,
@@ -461,7 +575,9 @@
     "name": "TULU-TIGALARI VOWEL SIGN VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "гласная", "знак", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 70591,
@@ -469,7 +585,9 @@
     "name": "TULU-TIGALARI VOWEL SIGN VOCALIC L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "гласная", "знак", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 70592,
@@ -477,7 +595,9 @@
     "name": "TULU-TIGALARI VOWEL SIGN VOCALIC LL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "гласная", "знак", "слоговой (вокалический)", "лл"],
+    "concepts": []
   },
   {
     "cp": 70594,
@@ -485,7 +605,9 @@
     "name": "TULU-TIGALARI VOWEL SIGN EE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "гласная", "знак", "ее"],
+    "concepts": []
   },
   {
     "cp": 70597,
@@ -493,7 +615,9 @@
     "name": "TULU-TIGALARI VOWEL SIGN AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "гласная", "знак", "аи"],
+    "concepts": []
   },
   {
     "cp": 70599,
@@ -501,7 +625,9 @@
     "name": "TULU-TIGALARI VOWEL SIGN OO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "гласная", "знак", "оо"],
+    "concepts": []
   },
   {
     "cp": 70600,
@@ -509,7 +635,9 @@
     "name": "TULU-TIGALARI VOWEL SIGN AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "гласная", "знак", "ау"],
+    "concepts": []
   },
   {
     "cp": 70601,
@@ -517,7 +645,9 @@
     "name": "TULU-TIGALARI AU LENGTH MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "ау", "долгота", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 70602,
@@ -525,7 +655,9 @@
     "name": "TULU-TIGALARI SIGN CANDRA ANUNASIKA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "знак", "чандра"],
+    "concepts": []
   },
   {
     "cp": 70604,
@@ -533,7 +665,9 @@
     "name": "TULU-TIGALARI SIGN ANUSVARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "знак", "анусвара"],
+    "concepts": []
   },
   {
     "cp": 70605,
@@ -541,7 +675,9 @@
     "name": "TULU-TIGALARI SIGN VISARGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "знак", "висарга"],
+    "concepts": []
   },
   {
     "cp": 70606,
@@ -549,7 +685,9 @@
     "name": "TULU-TIGALARI SIGN VIRAMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "знак", "вирама"],
+    "concepts": []
   },
   {
     "cp": 70607,
@@ -557,7 +695,9 @@
     "name": "TULU-TIGALARI SIGN LOOPED VIRAMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "знак", "с петлёй", "вирама"],
+    "concepts": []
   },
   {
     "cp": 70608,
@@ -565,7 +705,9 @@
     "name": "TULU-TIGALARI CONJOINER",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари"],
+    "concepts": []
   },
   {
     "cp": 70609,
@@ -573,7 +715,9 @@
     "name": "TULU-TIGALARI REPHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "репха"],
+    "concepts": []
   },
   {
     "cp": 70610,
@@ -581,7 +725,9 @@
     "name": "TULU-TIGALARI GEMINATION MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "удвоение", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 70611,
@@ -589,7 +735,9 @@
     "name": "TULU-TIGALARI SIGN PLUTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "знак", "плута"],
+    "concepts": []
   },
   {
     "cp": 70612,
@@ -597,7 +745,9 @@
     "name": "TULU-TIGALARI DANDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "данда"],
+    "concepts": []
   },
   {
     "cp": 70613,
@@ -605,7 +755,9 @@
     "name": "TULU-TIGALARI DOUBLE DANDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "двойной", "данда"],
+    "concepts": []
   },
   {
     "cp": 70615,
@@ -613,7 +765,9 @@
     "name": "TULU-TIGALARI SIGN OM PUSHPIKA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "знак", "ом (ॐ)", "пушпика"],
+    "concepts": []
   },
   {
     "cp": 70616,
@@ -621,7 +775,9 @@
     "name": "TULU-TIGALARI SIGN SHRII PUSHPIKA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "знак", "шри", "пушпика"],
+    "concepts": []
   },
   {
     "cp": 70625,
@@ -629,7 +785,9 @@
     "name": "TULU-TIGALARI VEDIC TONE SVARITA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "ведический", "тон", "сварита"],
+    "concepts": []
   },
   {
     "cp": 70626,
@@ -637,6 +795,8 @@
     "name": "TULU-TIGALARI VEDIC TONE ANUDATTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["тулу", "тигалари", "ведический", "тон", "анудатта"],
+    "concepts": []
   }
 ]

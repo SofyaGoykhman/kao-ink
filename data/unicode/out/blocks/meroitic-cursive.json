@@ -5,7 +5,9 @@
     "name": "MEROITIC CURSIVE LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква"],
+    "concepts": []
   },
   {
     "cp": 68001,
@@ -13,7 +15,9 @@
     "name": "MEROITIC CURSIVE LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква"],
+    "concepts": []
   },
   {
     "cp": 68002,
@@ -21,7 +25,9 @@
     "name": "MEROITIC CURSIVE LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква"],
+    "concepts": []
   },
   {
     "cp": 68003,
@@ -29,7 +35,9 @@
     "name": "MEROITIC CURSIVE LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква"],
+    "concepts": []
   },
   {
     "cp": 68004,
@@ -37,7 +45,9 @@
     "name": "MEROITIC CURSIVE LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 68005,
@@ -45,7 +55,9 @@
     "name": "MEROITIC CURSIVE LETTER WA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "ва"],
+    "concepts": []
   },
   {
     "cp": 68006,
@@ -53,7 +65,9 @@
     "name": "MEROITIC CURSIVE LETTER BA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "ба"],
+    "concepts": []
   },
   {
     "cp": 68007,
@@ -61,7 +75,9 @@
     "name": "MEROITIC CURSIVE LETTER PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "па"],
+    "concepts": []
   },
   {
     "cp": 68008,
@@ -69,7 +85,9 @@
     "name": "MEROITIC CURSIVE LETTER MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 68009,
@@ -77,7 +95,9 @@
     "name": "MEROITIC CURSIVE LETTER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 68010,
@@ -85,7 +105,9 @@
     "name": "MEROITIC CURSIVE LETTER NE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "не"],
+    "concepts": []
   },
   {
     "cp": 68011,
@@ -93,7 +115,9 @@
     "name": "MEROITIC CURSIVE LETTER RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 68012,
@@ -101,7 +125,9 @@
     "name": "MEROITIC CURSIVE LETTER LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "ла"],
+    "concepts": []
   },
   {
     "cp": 68013,
@@ -109,7 +135,9 @@
     "name": "MEROITIC CURSIVE LETTER KHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "кха"],
+    "concepts": []
   },
   {
     "cp": 68014,
@@ -117,7 +145,9 @@
     "name": "MEROITIC CURSIVE LETTER HHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "хха"],
+    "concepts": []
   },
   {
     "cp": 68015,
@@ -125,7 +155,9 @@
     "name": "MEROITIC CURSIVE LETTER SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 68016,
@@ -133,7 +165,9 @@
     "name": "MEROITIC CURSIVE LETTER ARCHAIC SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "архаичный", "са"],
+    "concepts": []
   },
   {
     "cp": 68017,
@@ -141,7 +175,9 @@
     "name": "MEROITIC CURSIVE LETTER SE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "се"],
+    "concepts": []
   },
   {
     "cp": 68018,
@@ -149,7 +185,9 @@
     "name": "MEROITIC CURSIVE LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 68019,
@@ -157,7 +195,9 @@
     "name": "MEROITIC CURSIVE LETTER QA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "ка (qa)"],
+    "concepts": []
   },
   {
     "cp": 68020,
@@ -165,7 +205,9 @@
     "name": "MEROITIC CURSIVE LETTER TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 68021,
@@ -173,7 +215,9 @@
     "name": "MEROITIC CURSIVE LETTER TE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "те"],
+    "concepts": []
   },
   {
     "cp": 68022,
@@ -181,7 +225,9 @@
     "name": "MEROITIC CURSIVE LETTER TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "к"],
+    "concepts": []
   },
   {
     "cp": 68023,
@@ -189,7 +235,9 @@
     "name": "MEROITIC CURSIVE LETTER DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "буква", "да"],
+    "concepts": []
   },
   {
     "cp": 68028,
@@ -197,7 +245,9 @@
     "name": "MEROITIC CURSIVE FRACTION ELEVEN TWELFTHS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "дробь", "одиннадцать", "двенадцатые"],
+    "concepts": []
   },
   {
     "cp": 68029,
@@ -205,7 +255,9 @@
     "name": "MEROITIC CURSIVE FRACTION ONE HALF",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "дробь", "один", "половина"],
+    "concepts": []
   },
   {
     "cp": 68030,
@@ -213,7 +265,9 @@
     "name": "MEROITIC CURSIVE LOGOGRAM RMT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "логограмма"],
+    "concepts": []
   },
   {
     "cp": 68031,
@@ -221,7 +275,9 @@
     "name": "MEROITIC CURSIVE LOGOGRAM IMN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "логограмма"],
+    "concepts": []
   },
   {
     "cp": 68032,
@@ -229,7 +285,9 @@
     "name": "MEROITIC CURSIVE NUMBER ONE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "один"],
+    "concepts": []
   },
   {
     "cp": 68033,
@@ -237,7 +295,9 @@
     "name": "MEROITIC CURSIVE NUMBER TWO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "два"],
+    "concepts": []
   },
   {
     "cp": 68034,
@@ -245,7 +305,9 @@
     "name": "MEROITIC CURSIVE NUMBER THREE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "три"],
+    "concepts": []
   },
   {
     "cp": 68035,
@@ -253,7 +315,9 @@
     "name": "MEROITIC CURSIVE NUMBER FOUR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "четыре"],
+    "concepts": []
   },
   {
     "cp": 68036,
@@ -261,7 +325,9 @@
     "name": "MEROITIC CURSIVE NUMBER FIVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "пять"],
+    "concepts": []
   },
   {
     "cp": 68037,
@@ -269,7 +335,9 @@
     "name": "MEROITIC CURSIVE NUMBER SIX",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "шесть"],
+    "concepts": []
   },
   {
     "cp": 68038,
@@ -277,7 +345,9 @@
     "name": "MEROITIC CURSIVE NUMBER SEVEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "семь"],
+    "concepts": []
   },
   {
     "cp": 68039,
@@ -285,7 +355,9 @@
     "name": "MEROITIC CURSIVE NUMBER EIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "восемь"],
+    "concepts": []
   },
   {
     "cp": 68040,
@@ -293,7 +365,9 @@
     "name": "MEROITIC CURSIVE NUMBER NINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "девять"],
+    "concepts": []
   },
   {
     "cp": 68041,
@@ -301,7 +375,9 @@
     "name": "MEROITIC CURSIVE NUMBER TEN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "десять"],
+    "concepts": []
   },
   {
     "cp": 68042,
@@ -309,7 +385,9 @@
     "name": "MEROITIC CURSIVE NUMBER TWENTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "двадцать"],
+    "concepts": []
   },
   {
     "cp": 68043,
@@ -317,7 +395,9 @@
     "name": "MEROITIC CURSIVE NUMBER THIRTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "тридцать"],
+    "concepts": []
   },
   {
     "cp": 68044,
@@ -325,7 +405,9 @@
     "name": "MEROITIC CURSIVE NUMBER FORTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "сорок"],
+    "concepts": []
   },
   {
     "cp": 68045,
@@ -333,7 +415,9 @@
     "name": "MEROITIC CURSIVE NUMBER FIFTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "пятьдесят"],
+    "concepts": []
   },
   {
     "cp": 68046,
@@ -341,7 +425,9 @@
     "name": "MEROITIC CURSIVE NUMBER SIXTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "шестьдесят"],
+    "concepts": []
   },
   {
     "cp": 68047,
@@ -349,7 +435,9 @@
     "name": "MEROITIC CURSIVE NUMBER SEVENTY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "семьдесят"],
+    "concepts": []
   },
   {
     "cp": 68050,
@@ -357,7 +445,9 @@
     "name": "MEROITIC CURSIVE NUMBER ONE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "один", "сто"],
+    "concepts": []
   },
   {
     "cp": 68051,
@@ -365,7 +455,9 @@
     "name": "MEROITIC CURSIVE NUMBER TWO HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "два", "сто"],
+    "concepts": []
   },
   {
     "cp": 68052,
@@ -373,7 +465,9 @@
     "name": "MEROITIC CURSIVE NUMBER THREE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "три", "сто"],
+    "concepts": []
   },
   {
     "cp": 68053,
@@ -381,7 +475,9 @@
     "name": "MEROITIC CURSIVE NUMBER FOUR HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "четыре", "сто"],
+    "concepts": []
   },
   {
     "cp": 68054,
@@ -389,7 +485,9 @@
     "name": "MEROITIC CURSIVE NUMBER FIVE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "пять", "сто"],
+    "concepts": []
   },
   {
     "cp": 68055,
@@ -397,7 +495,9 @@
     "name": "MEROITIC CURSIVE NUMBER SIX HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "шесть", "сто"],
+    "concepts": []
   },
   {
     "cp": 68056,
@@ -405,7 +505,9 @@
     "name": "MEROITIC CURSIVE NUMBER SEVEN HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "семь", "сто"],
+    "concepts": []
   },
   {
     "cp": 68057,
@@ -413,7 +515,9 @@
     "name": "MEROITIC CURSIVE NUMBER EIGHT HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "восемь", "сто"],
+    "concepts": []
   },
   {
     "cp": 68058,
@@ -421,7 +525,9 @@
     "name": "MEROITIC CURSIVE NUMBER NINE HUNDRED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "девять", "сто"],
+    "concepts": []
   },
   {
     "cp": 68059,
@@ -429,7 +535,9 @@
     "name": "MEROITIC CURSIVE NUMBER ONE THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "один", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68060,
@@ -437,7 +545,9 @@
     "name": "MEROITIC CURSIVE NUMBER TWO THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "два", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68061,
@@ -445,7 +555,9 @@
     "name": "MEROITIC CURSIVE NUMBER THREE THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "три", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68062,
@@ -453,7 +565,9 @@
     "name": "MEROITIC CURSIVE NUMBER FOUR THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "четыре", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68063,
@@ -461,7 +575,9 @@
     "name": "MEROITIC CURSIVE NUMBER FIVE THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "пять", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68064,
@@ -469,7 +585,9 @@
     "name": "MEROITIC CURSIVE NUMBER SIX THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "шесть", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68065,
@@ -477,7 +595,9 @@
     "name": "MEROITIC CURSIVE NUMBER SEVEN THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "семь", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68066,
@@ -485,7 +605,9 @@
     "name": "MEROITIC CURSIVE NUMBER EIGHT THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "восемь", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68067,
@@ -493,7 +615,9 @@
     "name": "MEROITIC CURSIVE NUMBER NINE THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "девять", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68068,
@@ -501,7 +625,9 @@
     "name": "MEROITIC CURSIVE NUMBER TEN THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "десять", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68069,
@@ -509,7 +635,9 @@
     "name": "MEROITIC CURSIVE NUMBER TWENTY THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "двадцать", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68070,
@@ -517,7 +645,9 @@
     "name": "MEROITIC CURSIVE NUMBER THIRTY THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "тридцать", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68071,
@@ -525,7 +655,9 @@
     "name": "MEROITIC CURSIVE NUMBER FORTY THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "сорок", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68072,
@@ -533,7 +665,9 @@
     "name": "MEROITIC CURSIVE NUMBER FIFTY THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "пятьдесят", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68073,
@@ -541,7 +675,9 @@
     "name": "MEROITIC CURSIVE NUMBER SIXTY THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "шестьдесят", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68074,
@@ -549,7 +685,9 @@
     "name": "MEROITIC CURSIVE NUMBER SEVENTY THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "семьдесят", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68075,
@@ -557,7 +695,9 @@
     "name": "MEROITIC CURSIVE NUMBER EIGHTY THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "восемьдесят", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68076,
@@ -565,7 +705,9 @@
     "name": "MEROITIC CURSIVE NUMBER NINETY THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "девяносто", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68077,
@@ -573,7 +715,9 @@
     "name": "MEROITIC CURSIVE NUMBER ONE HUNDRED THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "один", "сто", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68078,
@@ -581,7 +725,9 @@
     "name": "MEROITIC CURSIVE NUMBER TWO HUNDRED THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "два", "сто", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68079,
@@ -589,7 +735,9 @@
     "name": "MEROITIC CURSIVE NUMBER THREE HUNDRED THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "три", "сто", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68080,
@@ -597,7 +745,9 @@
     "name": "MEROITIC CURSIVE NUMBER FOUR HUNDRED THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "четыре", "сто", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68081,
@@ -605,7 +755,9 @@
     "name": "MEROITIC CURSIVE NUMBER FIVE HUNDRED THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "пять", "сто", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68082,
@@ -613,7 +765,9 @@
     "name": "MEROITIC CURSIVE NUMBER SIX HUNDRED THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "шесть", "сто", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68083,
@@ -621,7 +775,9 @@
     "name": "MEROITIC CURSIVE NUMBER SEVEN HUNDRED THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "семь", "сто", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68084,
@@ -629,7 +785,9 @@
     "name": "MEROITIC CURSIVE NUMBER EIGHT HUNDRED THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "восемь", "сто", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68085,
@@ -637,7 +795,9 @@
     "name": "MEROITIC CURSIVE NUMBER NINE HUNDRED THOUSAND",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "число", "девять", "сто", "тысяча"],
+    "concepts": []
   },
   {
     "cp": 68086,
@@ -645,7 +805,9 @@
     "name": "MEROITIC CURSIVE FRACTION ONE TWELFTH",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "дробь", "один", "двенадцатая"],
+    "concepts": []
   },
   {
     "cp": 68087,
@@ -653,7 +815,9 @@
     "name": "MEROITIC CURSIVE FRACTION TWO TWELFTHS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "дробь", "два", "двенадцатые"],
+    "concepts": []
   },
   {
     "cp": 68088,
@@ -661,7 +825,9 @@
     "name": "MEROITIC CURSIVE FRACTION THREE TWELFTHS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "дробь", "три", "двенадцатые"],
+    "concepts": []
   },
   {
     "cp": 68089,
@@ -669,7 +835,9 @@
     "name": "MEROITIC CURSIVE FRACTION FOUR TWELFTHS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "дробь", "четыре", "двенадцатые"],
+    "concepts": []
   },
   {
     "cp": 68090,
@@ -677,7 +845,9 @@
     "name": "MEROITIC CURSIVE FRACTION FIVE TWELFTHS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "дробь", "пять", "двенадцатые"],
+    "concepts": []
   },
   {
     "cp": 68091,
@@ -685,7 +855,9 @@
     "name": "MEROITIC CURSIVE FRACTION SIX TWELFTHS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "дробь", "шесть", "двенадцатые"],
+    "concepts": []
   },
   {
     "cp": 68092,
@@ -693,7 +865,9 @@
     "name": "MEROITIC CURSIVE FRACTION SEVEN TWELFTHS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "дробь", "семь", "двенадцатые"],
+    "concepts": []
   },
   {
     "cp": 68093,
@@ -701,7 +875,9 @@
     "name": "MEROITIC CURSIVE FRACTION EIGHT TWELFTHS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "дробь", "восемь", "двенадцатые"],
+    "concepts": []
   },
   {
     "cp": 68094,
@@ -709,7 +885,9 @@
     "name": "MEROITIC CURSIVE FRACTION NINE TWELFTHS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "дробь", "девять", "двенадцатые"],
+    "concepts": []
   },
   {
     "cp": 68095,
@@ -717,6 +895,8 @@
     "name": "MEROITIC CURSIVE FRACTION TEN TWELFTHS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["мероитский", "курсивный", "дробь", "десять", "двенадцатые"],
+    "concepts": []
   }
 ]

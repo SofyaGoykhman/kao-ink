@@ -5,7 +5,9 @@
     "name": "BOX DRAWINGS LIGHT HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "тонкий (светлый)", "горизонтальный"],
+    "concepts": ["shrug", "rectangle", "line", "divider", "border", "table-flip"]
   },
   {
     "cp": 9473,
@@ -13,7 +15,19 @@
     "name": "BOX DRAWINGS HEAVY HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "жирный (толстый)", "горизонтальный"],
+    "concepts": [
+      "sword",
+      "weapon",
+      "gun",
+      "shrug",
+      "rectangle",
+      "line",
+      "divider",
+      "border",
+      "table-flip"
+    ]
   },
   {
     "cp": 9474,
@@ -21,7 +35,9 @@
     "name": "BOX DRAWINGS LIGHT VERTICAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "тонкий (светлый)", "вертикальный"],
+    "concepts": ["line", "border"]
   },
   {
     "cp": 9475,
@@ -29,7 +45,9 @@
     "name": "BOX DRAWINGS HEAVY VERTICAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "жирный (толстый)", "вертикальный"],
+    "concepts": ["rectangle", "line", "instrument", "border", "table-flip"]
   },
   {
     "cp": 9476,
@@ -37,7 +55,16 @@
     "name": "BOX DRAWINGS LIGHT TRIPLE DASH HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "тройной",
+      "тире",
+      "горизонтальный"
+    ],
+    "concepts": ["gun", "line", "divider", "border", "scissors"]
   },
   {
     "cp": 9477,
@@ -45,7 +72,16 @@
     "name": "BOX DRAWINGS HEAVY TRIPLE DASH HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "жирный (толстый)",
+      "тройной",
+      "тире",
+      "горизонтальный"
+    ],
+    "concepts": ["gun", "line", "divider", "border"]
   },
   {
     "cp": 9478,
@@ -53,7 +89,16 @@
     "name": "BOX DRAWINGS LIGHT TRIPLE DASH VERTICAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "тройной",
+      "тире",
+      "вертикальный"
+    ],
+    "concepts": ["rain", "line", "border", "tears"]
   },
   {
     "cp": 9479,
@@ -61,7 +106,16 @@
     "name": "BOX DRAWINGS HEAVY TRIPLE DASH VERTICAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "жирный (толстый)",
+      "тройной",
+      "тире",
+      "вертикальный"
+    ],
+    "concepts": ["line", "border"]
   },
   {
     "cp": 9480,
@@ -69,7 +123,16 @@
     "name": "BOX DRAWINGS LIGHT QUADRUPLE DASH HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "четверной",
+      "тире",
+      "горизонтальный"
+    ],
+    "concepts": ["line", "divider", "border", "scissors"]
   },
   {
     "cp": 9481,
@@ -77,7 +140,16 @@
     "name": "BOX DRAWINGS HEAVY QUADRUPLE DASH HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "жирный (толстый)",
+      "четверной",
+      "тире",
+      "горизонтальный"
+    ],
+    "concepts": ["line", "divider", "border"]
   },
   {
     "cp": 9482,
@@ -85,7 +157,16 @@
     "name": "BOX DRAWINGS LIGHT QUADRUPLE DASH VERTICAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "четверной",
+      "тире",
+      "вертикальный"
+    ],
+    "concepts": ["rain", "line", "border", "tears"]
   },
   {
     "cp": 9483,
@@ -93,7 +174,16 @@
     "name": "BOX DRAWINGS HEAVY QUADRUPLE DASH VERTICAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "жирный (толстый)",
+      "четверной",
+      "тире",
+      "вертикальный"
+    ],
+    "concepts": ["line", "border"]
   },
   {
     "cp": 9484,
@@ -101,7 +191,25 @@
     "name": "BOX DRAWINGS LIGHT DOWN AND RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "вниз",
+      "и",
+      "правый (вправо)"
+    ],
+    "concepts": [
+      "hand",
+      "arms-raised",
+      "shrug",
+      "arrow-curved",
+      "angle-geometry",
+      "brackets",
+      "border",
+      "corner"
+    ]
   },
   {
     "cp": 9485,
@@ -109,7 +217,17 @@
     "name": "BOX DRAWINGS DOWN LIGHT AND RIGHT HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вниз",
+      "тонкий (светлый)",
+      "и",
+      "правый (вправо)",
+      "жирный (толстый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9486,
@@ -117,7 +235,17 @@
     "name": "BOX DRAWINGS DOWN HEAVY AND RIGHT LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вниз",
+      "жирный (толстый)",
+      "и",
+      "правый (вправо)",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 9487,
@@ -125,7 +253,16 @@
     "name": "BOX DRAWINGS HEAVY DOWN AND RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "жирный (толстый)",
+      "вниз",
+      "и",
+      "правый (вправо)"
+    ],
+    "concepts": ["arms-raised", "border", "corner"]
   },
   {
     "cp": 9488,
@@ -133,7 +270,27 @@
     "name": "BOX DRAWINGS LIGHT DOWN AND LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "вниз",
+      "и",
+      "левый (влево)"
+    ],
+    "concepts": [
+      "weapon",
+      "gun",
+      "hand",
+      "arms-raised",
+      "shrug",
+      "arrow-curved",
+      "angle-geometry",
+      "brackets",
+      "border",
+      "corner"
+    ]
   },
   {
     "cp": 9489,
@@ -141,7 +298,17 @@
     "name": "BOX DRAWINGS DOWN LIGHT AND LEFT HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вниз",
+      "тонкий (светлый)",
+      "и",
+      "левый (влево)",
+      "жирный (толстый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9490,
@@ -149,7 +316,17 @@
     "name": "BOX DRAWINGS DOWN HEAVY AND LEFT LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вниз",
+      "жирный (толстый)",
+      "и",
+      "левый (влево)",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 9491,
@@ -157,7 +334,16 @@
     "name": "BOX DRAWINGS HEAVY DOWN AND LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "жирный (толстый)",
+      "вниз",
+      "и",
+      "левый (влево)"
+    ],
+    "concepts": ["arms-raised", "border", "corner"]
   },
   {
     "cp": 9492,
@@ -165,7 +351,24 @@
     "name": "BOX DRAWINGS LIGHT UP AND RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "вверх",
+      "и",
+      "правый (вправо)"
+    ],
+    "concepts": [
+      "arms-raised",
+      "shrug",
+      "arrow-curved",
+      "angle-geometry",
+      "brackets",
+      "border",
+      "corner"
+    ]
   },
   {
     "cp": 9493,
@@ -173,7 +376,17 @@
     "name": "BOX DRAWINGS UP LIGHT AND RIGHT HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вверх",
+      "тонкий (светлый)",
+      "и",
+      "правый (вправо)",
+      "жирный (толстый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9494,
@@ -181,7 +394,17 @@
     "name": "BOX DRAWINGS UP HEAVY AND RIGHT LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вверх",
+      "жирный (толстый)",
+      "и",
+      "правый (вправо)",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 9495,
@@ -189,7 +412,16 @@
     "name": "BOX DRAWINGS HEAVY UP AND RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "жирный (толстый)",
+      "вверх",
+      "и",
+      "правый (вправо)"
+    ],
+    "concepts": ["arms-raised", "border", "corner"]
   },
   {
     "cp": 9496,
@@ -197,7 +429,24 @@
     "name": "BOX DRAWINGS LIGHT UP AND LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "вверх",
+      "и",
+      "левый (влево)"
+    ],
+    "concepts": [
+      "arms-raised",
+      "shrug",
+      "arrow-curved",
+      "angle-geometry",
+      "brackets",
+      "border",
+      "corner"
+    ]
   },
   {
     "cp": 9497,
@@ -205,7 +454,17 @@
     "name": "BOX DRAWINGS UP LIGHT AND LEFT HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вверх",
+      "тонкий (светлый)",
+      "и",
+      "левый (влево)",
+      "жирный (толстый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9498,
@@ -213,7 +472,17 @@
     "name": "BOX DRAWINGS UP HEAVY AND LEFT LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вверх",
+      "жирный (толстый)",
+      "и",
+      "левый (влево)",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 9499,
@@ -221,7 +490,16 @@
     "name": "BOX DRAWINGS HEAVY UP AND LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "жирный (толстый)",
+      "вверх",
+      "и",
+      "левый (влево)"
+    ],
+    "concepts": ["arms-raised", "border", "corner"]
   },
   {
     "cp": 9500,
@@ -229,7 +507,16 @@
     "name": "BOX DRAWINGS LIGHT VERTICAL AND RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "вертикальный",
+      "и",
+      "правый (вправо)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9501,
@@ -237,7 +524,17 @@
     "name": "BOX DRAWINGS VERTICAL LIGHT AND RIGHT HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вертикальный",
+      "тонкий (светлый)",
+      "и",
+      "правый (вправо)",
+      "жирный (толстый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9502,
@@ -245,7 +542,18 @@
     "name": "BOX DRAWINGS UP HEAVY AND RIGHT DOWN LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вверх",
+      "жирный (толстый)",
+      "и",
+      "правый (вправо)",
+      "вниз",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9503,
@@ -253,7 +561,18 @@
     "name": "BOX DRAWINGS DOWN HEAVY AND RIGHT UP LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вниз",
+      "жирный (толстый)",
+      "и",
+      "правый (вправо)",
+      "вверх",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9504,
@@ -261,7 +580,17 @@
     "name": "BOX DRAWINGS VERTICAL HEAVY AND RIGHT LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вертикальный",
+      "жирный (толстый)",
+      "и",
+      "правый (вправо)",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9505,
@@ -269,7 +598,18 @@
     "name": "BOX DRAWINGS DOWN LIGHT AND RIGHT UP HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вниз",
+      "тонкий (светлый)",
+      "и",
+      "правый (вправо)",
+      "вверх",
+      "жирный (толстый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9506,
@@ -277,7 +617,18 @@
     "name": "BOX DRAWINGS UP LIGHT AND RIGHT DOWN HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вверх",
+      "тонкий (светлый)",
+      "и",
+      "правый (вправо)",
+      "вниз",
+      "жирный (толстый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9507,
@@ -285,7 +636,16 @@
     "name": "BOX DRAWINGS HEAVY VERTICAL AND RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "жирный (толстый)",
+      "вертикальный",
+      "и",
+      "правый (вправо)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9508,
@@ -293,7 +653,16 @@
     "name": "BOX DRAWINGS LIGHT VERTICAL AND LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "вертикальный",
+      "и",
+      "левый (влево)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9509,
@@ -301,7 +670,17 @@
     "name": "BOX DRAWINGS VERTICAL LIGHT AND LEFT HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вертикальный",
+      "тонкий (светлый)",
+      "и",
+      "левый (влево)",
+      "жирный (толстый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9510,
@@ -309,7 +688,18 @@
     "name": "BOX DRAWINGS UP HEAVY AND LEFT DOWN LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вверх",
+      "жирный (толстый)",
+      "и",
+      "левый (влево)",
+      "вниз",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9511,
@@ -317,7 +707,18 @@
     "name": "BOX DRAWINGS DOWN HEAVY AND LEFT UP LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вниз",
+      "жирный (толстый)",
+      "и",
+      "левый (влево)",
+      "вверх",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9512,
@@ -325,7 +726,17 @@
     "name": "BOX DRAWINGS VERTICAL HEAVY AND LEFT LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вертикальный",
+      "жирный (толстый)",
+      "и",
+      "левый (влево)",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9513,
@@ -333,7 +744,18 @@
     "name": "BOX DRAWINGS DOWN LIGHT AND LEFT UP HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вниз",
+      "тонкий (светлый)",
+      "и",
+      "левый (влево)",
+      "вверх",
+      "жирный (толстый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9514,
@@ -341,7 +763,18 @@
     "name": "BOX DRAWINGS UP LIGHT AND LEFT DOWN HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вверх",
+      "тонкий (светлый)",
+      "и",
+      "левый (влево)",
+      "вниз",
+      "жирный (толстый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9515,
@@ -349,7 +782,16 @@
     "name": "BOX DRAWINGS HEAVY VERTICAL AND LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "жирный (толстый)",
+      "вертикальный",
+      "и",
+      "левый (влево)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9516,
@@ -357,7 +799,16 @@
     "name": "BOX DRAWINGS LIGHT DOWN AND HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "вниз",
+      "и",
+      "горизонтальный"
+    ],
+    "concepts": ["weapon", "gun", "border", "table-flip"]
   },
   {
     "cp": 9517,
@@ -365,7 +816,18 @@
     "name": "BOX DRAWINGS LEFT HEAVY AND RIGHT DOWN LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "левый (влево)",
+      "жирный (толстый)",
+      "и",
+      "правый (вправо)",
+      "вниз",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9518,
@@ -373,7 +835,18 @@
     "name": "BOX DRAWINGS RIGHT HEAVY AND LEFT DOWN LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "правый (вправо)",
+      "жирный (толстый)",
+      "и",
+      "левый (влево)",
+      "вниз",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9519,
@@ -381,7 +854,17 @@
     "name": "BOX DRAWINGS DOWN LIGHT AND HORIZONTAL HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вниз",
+      "тонкий (светлый)",
+      "и",
+      "горизонтальный",
+      "жирный (толстый)"
+    ],
+    "concepts": ["hammer", "border"]
   },
   {
     "cp": 9520,
@@ -389,7 +872,17 @@
     "name": "BOX DRAWINGS DOWN HEAVY AND HORIZONTAL LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вниз",
+      "жирный (толстый)",
+      "и",
+      "горизонтальный",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9521,
@@ -397,7 +890,18 @@
     "name": "BOX DRAWINGS RIGHT LIGHT AND LEFT DOWN HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "правый (вправо)",
+      "тонкий (светлый)",
+      "и",
+      "левый (влево)",
+      "вниз",
+      "жирный (толстый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9522,
@@ -405,7 +909,18 @@
     "name": "BOX DRAWINGS LEFT LIGHT AND RIGHT DOWN HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "левый (влево)",
+      "тонкий (светлый)",
+      "и",
+      "правый (вправо)",
+      "вниз",
+      "жирный (толстый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9523,
@@ -413,7 +928,27 @@
     "name": "BOX DRAWINGS HEAVY DOWN AND HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "жирный (толстый)",
+      "вниз",
+      "и",
+      "горизонтальный"
+    ],
+    "concepts": [
+      "mushroom",
+      "weapon",
+      "gun",
+      "hammer",
+      "rook",
+      "border",
+      "castle",
+      "cake",
+      "table-flip",
+      "birthday"
+    ]
   },
   {
     "cp": 9524,
@@ -421,7 +956,16 @@
     "name": "BOX DRAWINGS LIGHT UP AND HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "вверх",
+      "и",
+      "горизонтальный"
+    ],
+    "concepts": ["border", "table-flip"]
   },
   {
     "cp": 9525,
@@ -429,7 +973,18 @@
     "name": "BOX DRAWINGS LEFT HEAVY AND RIGHT UP LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "левый (влево)",
+      "жирный (толстый)",
+      "и",
+      "правый (вправо)",
+      "вверх",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9526,
@@ -437,7 +992,18 @@
     "name": "BOX DRAWINGS RIGHT HEAVY AND LEFT UP LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "правый (вправо)",
+      "жирный (толстый)",
+      "и",
+      "левый (влево)",
+      "вверх",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9527,
@@ -445,7 +1011,17 @@
     "name": "BOX DRAWINGS UP LIGHT AND HORIZONTAL HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вверх",
+      "тонкий (светлый)",
+      "и",
+      "горизонтальный",
+      "жирный (толстый)"
+    ],
+    "concepts": ["hammer", "border"]
   },
   {
     "cp": 9528,
@@ -453,7 +1029,17 @@
     "name": "BOX DRAWINGS UP HEAVY AND HORIZONTAL LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вверх",
+      "жирный (толстый)",
+      "и",
+      "горизонтальный",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9529,
@@ -461,7 +1047,18 @@
     "name": "BOX DRAWINGS RIGHT LIGHT AND LEFT UP HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "правый (вправо)",
+      "тонкий (светлый)",
+      "и",
+      "левый (влево)",
+      "вверх",
+      "жирный (толстый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9530,
@@ -469,7 +1066,18 @@
     "name": "BOX DRAWINGS LEFT LIGHT AND RIGHT UP HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "левый (влево)",
+      "тонкий (светлый)",
+      "и",
+      "правый (вправо)",
+      "вверх",
+      "жирный (толстый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9531,
@@ -477,7 +1085,16 @@
     "name": "BOX DRAWINGS HEAVY UP AND HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "жирный (толстый)",
+      "вверх",
+      "и",
+      "горизонтальный"
+    ],
+    "concepts": ["gun", "hammer", "border", "table-flip"]
   },
   {
     "cp": 9532,
@@ -485,7 +1102,16 @@
     "name": "BOX DRAWINGS LIGHT VERTICAL AND HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "вертикальный",
+      "и",
+      "горизонтальный"
+    ],
+    "concepts": ["cross", "dagger", "plus-minus", "border", "medical", "target"]
   },
   {
     "cp": 9533,
@@ -493,7 +1119,18 @@
     "name": "BOX DRAWINGS LEFT HEAVY AND RIGHT VERTICAL LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "левый (влево)",
+      "жирный (толстый)",
+      "и",
+      "правый (вправо)",
+      "вертикальный",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9534,
@@ -501,7 +1138,18 @@
     "name": "BOX DRAWINGS RIGHT HEAVY AND LEFT VERTICAL LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "правый (вправо)",
+      "жирный (толстый)",
+      "и",
+      "левый (влево)",
+      "вертикальный",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9535,
@@ -509,7 +1157,17 @@
     "name": "BOX DRAWINGS VERTICAL LIGHT AND HORIZONTAL HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вертикальный",
+      "тонкий (светлый)",
+      "и",
+      "горизонтальный",
+      "жирный (толстый)"
+    ],
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9536,
@@ -517,7 +1175,18 @@
     "name": "BOX DRAWINGS UP HEAVY AND DOWN HORIZONTAL LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вверх",
+      "жирный (толстый)",
+      "и",
+      "вниз",
+      "горизонтальный",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9537,
@@ -525,7 +1194,18 @@
     "name": "BOX DRAWINGS DOWN HEAVY AND UP HORIZONTAL LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вниз",
+      "жирный (толстый)",
+      "и",
+      "вверх",
+      "горизонтальный",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9538,
@@ -533,7 +1213,17 @@
     "name": "BOX DRAWINGS VERTICAL HEAVY AND HORIZONTAL LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вертикальный",
+      "жирный (толстый)",
+      "и",
+      "горизонтальный",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9539,
@@ -541,7 +1231,19 @@
     "name": "BOX DRAWINGS LEFT UP HEAVY AND RIGHT DOWN LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "левый (влево)",
+      "вверх",
+      "жирный (толстый)",
+      "и",
+      "правый (вправо)",
+      "вниз",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9540,
@@ -549,7 +1251,19 @@
     "name": "BOX DRAWINGS RIGHT UP HEAVY AND LEFT DOWN LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "правый (вправо)",
+      "вверх",
+      "жирный (толстый)",
+      "и",
+      "левый (влево)",
+      "вниз",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9541,
@@ -557,7 +1271,19 @@
     "name": "BOX DRAWINGS LEFT DOWN HEAVY AND RIGHT UP LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "левый (влево)",
+      "вниз",
+      "жирный (толстый)",
+      "и",
+      "правый (вправо)",
+      "вверх",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9542,
@@ -565,7 +1291,19 @@
     "name": "BOX DRAWINGS RIGHT DOWN HEAVY AND LEFT UP LIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "правый (вправо)",
+      "вниз",
+      "жирный (толстый)",
+      "и",
+      "левый (влево)",
+      "вверх",
+      "тонкий (светлый)"
+    ],
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9543,
@@ -573,7 +1311,18 @@
     "name": "BOX DRAWINGS DOWN LIGHT AND UP HORIZONTAL HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вниз",
+      "тонкий (светлый)",
+      "и",
+      "вверх",
+      "горизонтальный",
+      "жирный (толстый)"
+    ],
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9544,
@@ -581,7 +1330,18 @@
     "name": "BOX DRAWINGS UP LIGHT AND DOWN HORIZONTAL HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вверх",
+      "тонкий (светлый)",
+      "и",
+      "вниз",
+      "горизонтальный",
+      "жирный (толстый)"
+    ],
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9545,
@@ -589,7 +1349,18 @@
     "name": "BOX DRAWINGS RIGHT LIGHT AND LEFT VERTICAL HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "правый (вправо)",
+      "тонкий (светлый)",
+      "и",
+      "левый (влево)",
+      "вертикальный",
+      "жирный (толстый)"
+    ],
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9546,
@@ -597,7 +1368,18 @@
     "name": "BOX DRAWINGS LEFT LIGHT AND RIGHT VERTICAL HEAVY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "левый (влево)",
+      "тонкий (светлый)",
+      "и",
+      "правый (вправо)",
+      "вертикальный",
+      "жирный (толстый)"
+    ],
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9547,
@@ -605,7 +1387,16 @@
     "name": "BOX DRAWINGS HEAVY VERTICAL AND HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "жирный (толстый)",
+      "вертикальный",
+      "и",
+      "горизонтальный"
+    ],
+    "concepts": ["cross", "plus-minus", "border", "medical", "target"]
   },
   {
     "cp": 9548,
@@ -613,7 +1404,16 @@
     "name": "BOX DRAWINGS LIGHT DOUBLE DASH HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "двойной",
+      "тире",
+      "горизонтальный"
+    ],
+    "concepts": ["line", "divider", "border", "scissors"]
   },
   {
     "cp": 9549,
@@ -621,7 +1421,16 @@
     "name": "BOX DRAWINGS HEAVY DOUBLE DASH HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "жирный (толстый)",
+      "двойной",
+      "тире",
+      "горизонтальный"
+    ],
+    "concepts": ["line", "divider", "border"]
   },
   {
     "cp": 9550,
@@ -629,7 +1438,16 @@
     "name": "BOX DRAWINGS LIGHT DOUBLE DASH VERTICAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "двойной",
+      "тире",
+      "вертикальный"
+    ],
+    "concepts": ["rain", "line", "border"]
   },
   {
     "cp": 9551,
@@ -637,7 +1455,16 @@
     "name": "BOX DRAWINGS HEAVY DOUBLE DASH VERTICAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "жирный (толстый)",
+      "двойной",
+      "тире",
+      "вертикальный"
+    ],
+    "concepts": ["rain", "line", "border"]
   },
   {
     "cp": 9552,
@@ -645,7 +1472,9 @@
     "name": "BOX DRAWINGS DOUBLE HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "двойной", "горизонтальный"],
+    "concepts": ["sword", "weapon", "gun", "rectangle", "line", "equals", "divider", "border"]
   },
   {
     "cp": 9553,
@@ -653,7 +1482,9 @@
     "name": "BOX DRAWINGS DOUBLE VERTICAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "двойной", "вертикальный"],
+    "concepts": ["fog", "rectangle", "line", "instrument", "border", "tears", "book"]
   },
   {
     "cp": 9554,
@@ -661,7 +1492,17 @@
     "name": "BOX DRAWINGS DOWN SINGLE AND RIGHT DOUBLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вниз",
+      "одинарный",
+      "и",
+      "правый (вправо)",
+      "двойной"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9555,
@@ -669,7 +1510,17 @@
     "name": "BOX DRAWINGS DOWN DOUBLE AND RIGHT SINGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вниз",
+      "двойной",
+      "и",
+      "правый (вправо)",
+      "одинарный"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9556,
@@ -677,7 +1528,9 @@
     "name": "BOX DRAWINGS DOUBLE DOWN AND RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "двойной", "вниз", "и", "правый (вправо)"],
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 9557,
@@ -685,7 +1538,17 @@
     "name": "BOX DRAWINGS DOWN SINGLE AND LEFT DOUBLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вниз",
+      "одинарный",
+      "и",
+      "левый (влево)",
+      "двойной"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9558,
@@ -693,7 +1556,17 @@
     "name": "BOX DRAWINGS DOWN DOUBLE AND LEFT SINGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вниз",
+      "двойной",
+      "и",
+      "левый (влево)",
+      "одинарный"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9559,
@@ -701,7 +1574,9 @@
     "name": "BOX DRAWINGS DOUBLE DOWN AND LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "двойной", "вниз", "и", "левый (влево)"],
+    "concepts": ["weapon", "gun", "border", "corner"]
   },
   {
     "cp": 9560,
@@ -709,7 +1584,17 @@
     "name": "BOX DRAWINGS UP SINGLE AND RIGHT DOUBLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вверх",
+      "одинарный",
+      "и",
+      "правый (вправо)",
+      "двойной"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9561,
@@ -717,7 +1602,17 @@
     "name": "BOX DRAWINGS UP DOUBLE AND RIGHT SINGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вверх",
+      "двойной",
+      "и",
+      "правый (вправо)",
+      "одинарный"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9562,
@@ -725,7 +1620,9 @@
     "name": "BOX DRAWINGS DOUBLE UP AND RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "двойной", "вверх", "и", "правый (вправо)"],
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 9563,
@@ -733,7 +1630,17 @@
     "name": "BOX DRAWINGS UP SINGLE AND LEFT DOUBLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вверх",
+      "одинарный",
+      "и",
+      "левый (влево)",
+      "двойной"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9564,
@@ -741,7 +1648,17 @@
     "name": "BOX DRAWINGS UP DOUBLE AND LEFT SINGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вверх",
+      "двойной",
+      "и",
+      "левый (влево)",
+      "одинарный"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9565,
@@ -749,7 +1666,9 @@
     "name": "BOX DRAWINGS DOUBLE UP AND LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "двойной", "вверх", "и", "левый (влево)"],
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 9566,
@@ -757,7 +1676,17 @@
     "name": "BOX DRAWINGS VERTICAL SINGLE AND RIGHT DOUBLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вертикальный",
+      "одинарный",
+      "и",
+      "правый (вправо)",
+      "двойной"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9567,
@@ -765,7 +1694,17 @@
     "name": "BOX DRAWINGS VERTICAL DOUBLE AND RIGHT SINGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вертикальный",
+      "двойной",
+      "и",
+      "правый (вправо)",
+      "одинарный"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9568,
@@ -773,7 +1712,16 @@
     "name": "BOX DRAWINGS DOUBLE VERTICAL AND RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "двойной",
+      "вертикальный",
+      "и",
+      "правый (вправо)"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9569,
@@ -781,7 +1729,17 @@
     "name": "BOX DRAWINGS VERTICAL SINGLE AND LEFT DOUBLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вертикальный",
+      "одинарный",
+      "и",
+      "левый (влево)",
+      "двойной"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9570,
@@ -789,7 +1747,17 @@
     "name": "BOX DRAWINGS VERTICAL DOUBLE AND LEFT SINGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вертикальный",
+      "двойной",
+      "и",
+      "левый (влево)",
+      "одинарный"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9571,
@@ -797,7 +1765,9 @@
     "name": "BOX DRAWINGS DOUBLE VERTICAL AND LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "двойной", "вертикальный", "и", "левый (влево)"],
+    "concepts": ["border"]
   },
   {
     "cp": 9572,
@@ -805,7 +1775,17 @@
     "name": "BOX DRAWINGS DOWN SINGLE AND HORIZONTAL DOUBLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вниз",
+      "одинарный",
+      "и",
+      "горизонтальный",
+      "двойной"
+    ],
+    "concepts": ["weapon", "gun", "hammer", "border"]
   },
   {
     "cp": 9573,
@@ -813,7 +1793,17 @@
     "name": "BOX DRAWINGS DOWN DOUBLE AND HORIZONTAL SINGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вниз",
+      "двойной",
+      "и",
+      "горизонтальный",
+      "одинарный"
+    ],
+    "concepts": ["sad", "rook", "border", "castle", "tears"]
   },
   {
     "cp": 9574,
@@ -821,7 +1811,19 @@
     "name": "BOX DRAWINGS DOUBLE DOWN AND HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "двойной", "вниз", "и", "горизонтальный"],
+    "concepts": [
+      "mushroom",
+      "weapon",
+      "gun",
+      "hammer",
+      "rook",
+      "border",
+      "castle",
+      "cake",
+      "birthday"
+    ]
   },
   {
     "cp": 9575,
@@ -829,7 +1831,17 @@
     "name": "BOX DRAWINGS UP SINGLE AND HORIZONTAL DOUBLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вверх",
+      "одинарный",
+      "и",
+      "горизонтальный",
+      "двойной"
+    ],
+    "concepts": ["hammer", "border"]
   },
   {
     "cp": 9576,
@@ -837,7 +1849,17 @@
     "name": "BOX DRAWINGS UP DOUBLE AND HORIZONTAL SINGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вверх",
+      "двойной",
+      "и",
+      "горизонтальный",
+      "одинарный"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9577,
@@ -845,7 +1867,9 @@
     "name": "BOX DRAWINGS DOUBLE UP AND HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "двойной", "вверх", "и", "горизонтальный"],
+    "concepts": ["hammer", "border"]
   },
   {
     "cp": 9578,
@@ -853,7 +1877,17 @@
     "name": "BOX DRAWINGS VERTICAL SINGLE AND HORIZONTAL DOUBLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вертикальный",
+      "одинарный",
+      "и",
+      "горизонтальный",
+      "двойной"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9579,
@@ -861,7 +1895,17 @@
     "name": "BOX DRAWINGS VERTICAL DOUBLE AND HORIZONTAL SINGLE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "вертикальный",
+      "двойной",
+      "и",
+      "горизонтальный",
+      "одинарный"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9580,
@@ -869,7 +1913,16 @@
     "name": "BOX DRAWINGS DOUBLE VERTICAL AND HORIZONTAL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "двойной",
+      "вертикальный",
+      "и",
+      "горизонтальный"
+    ],
+    "concepts": ["cross", "angry", "border"]
   },
   {
     "cp": 9581,
@@ -877,7 +1930,17 @@
     "name": "BOX DRAWINGS LIGHT ARC DOWN AND RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "дуга",
+      "вниз",
+      "и",
+      "правый (вправо)"
+    ],
+    "concepts": ["hand", "sad", "arrow-curved", "brackets", "frame-nick", "border", "corner"]
   },
   {
     "cp": 9582,
@@ -885,7 +1948,17 @@
     "name": "BOX DRAWINGS LIGHT ARC DOWN AND LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "дуга",
+      "вниз",
+      "и",
+      "левый (влево)"
+    ],
+    "concepts": ["hand", "sad", "arrow-curved", "brackets", "frame-nick", "border", "corner"]
   },
   {
     "cp": 9583,
@@ -893,7 +1966,26 @@
     "name": "BOX DRAWINGS LIGHT ARC UP AND LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "дуга",
+      "вверх",
+      "и",
+      "левый (влево)"
+    ],
+    "concepts": [
+      "hand",
+      "sad",
+      "arrow-curved",
+      "brackets",
+      "frame-nick",
+      "border",
+      "corner",
+      "table-flip"
+    ]
   },
   {
     "cp": 9584,
@@ -901,7 +1993,26 @@
     "name": "BOX DRAWINGS LIGHT ARC UP AND RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "дуга",
+      "вверх",
+      "и",
+      "правый (вправо)"
+    ],
+    "concepts": [
+      "hand",
+      "sad",
+      "arrow-curved",
+      "brackets",
+      "frame-nick",
+      "border",
+      "corner",
+      "table-flip"
+    ]
   },
   {
     "cp": 9585,
@@ -909,7 +2020,19 @@
     "name": "BOX DRAWINGS LIGHT DIAGONAL UPPER RIGHT TO LOWER LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "диагональный",
+      "верхний",
+      "правый (вправо)",
+      "к",
+      "нижний",
+      "левый (влево)"
+    ],
+    "concepts": ["arrow-diagonal", "border"]
   },
   {
     "cp": 9586,
@@ -917,7 +2040,19 @@
     "name": "BOX DRAWINGS LIGHT DIAGONAL UPPER LEFT TO LOWER RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "диагональный",
+      "верхний",
+      "левый (влево)",
+      "к",
+      "нижний",
+      "правый (вправо)"
+    ],
+    "concepts": ["arrow-diagonal", "border"]
   },
   {
     "cp": 9587,
@@ -925,7 +2060,9 @@
     "name": "BOX DRAWINGS LIGHT DIAGONAL CROSS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "тонкий (светлый)", "диагональный", "крест"],
+    "concepts": ["sword", "border"]
   },
   {
     "cp": 9588,
@@ -933,7 +2070,9 @@
     "name": "BOX DRAWINGS LIGHT LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "тонкий (светлый)", "левый (влево)"],
+    "concepts": ["border"]
   },
   {
     "cp": 9589,
@@ -941,7 +2080,9 @@
     "name": "BOX DRAWINGS LIGHT UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "тонкий (светлый)", "вверх"],
+    "concepts": ["border"]
   },
   {
     "cp": 9590,
@@ -949,7 +2090,9 @@
     "name": "BOX DRAWINGS LIGHT RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "тонкий (светлый)", "правый (вправо)"],
+    "concepts": ["border"]
   },
   {
     "cp": 9591,
@@ -957,7 +2100,9 @@
     "name": "BOX DRAWINGS LIGHT DOWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "тонкий (светлый)", "вниз"],
+    "concepts": ["border"]
   },
   {
     "cp": 9592,
@@ -965,7 +2110,9 @@
     "name": "BOX DRAWINGS HEAVY LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "жирный (толстый)", "левый (влево)"],
+    "concepts": ["border"]
   },
   {
     "cp": 9593,
@@ -973,7 +2120,9 @@
     "name": "BOX DRAWINGS HEAVY UP",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "жирный (толстый)", "вверх"],
+    "concepts": ["smile", "border"]
   },
   {
     "cp": 9594,
@@ -981,7 +2130,9 @@
     "name": "BOX DRAWINGS HEAVY RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "жирный (толстый)", "правый (вправо)"],
+    "concepts": ["border"]
   },
   {
     "cp": 9595,
@@ -989,7 +2140,9 @@
     "name": "BOX DRAWINGS HEAVY DOWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["рамка (псевдографика)", "рисование", "жирный (толстый)", "вниз"],
+    "concepts": ["border"]
   },
   {
     "cp": 9596,
@@ -997,7 +2150,17 @@
     "name": "BOX DRAWINGS LIGHT LEFT AND HEAVY RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "левый (влево)",
+      "и",
+      "жирный (толстый)",
+      "правый (вправо)"
+    ],
+    "concepts": ["weapon", "gun", "border"]
   },
   {
     "cp": 9597,
@@ -1005,7 +2168,17 @@
     "name": "BOX DRAWINGS LIGHT UP AND HEAVY DOWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "тонкий (светлый)",
+      "вверх",
+      "и",
+      "жирный (толстый)",
+      "вниз"
+    ],
+    "concepts": ["border"]
   },
   {
     "cp": 9598,
@@ -1013,7 +2186,17 @@
     "name": "BOX DRAWINGS HEAVY LEFT AND LIGHT RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "жирный (толстый)",
+      "левый (влево)",
+      "и",
+      "тонкий (светлый)",
+      "правый (вправо)"
+    ],
+    "concepts": ["weapon", "gun", "border"]
   },
   {
     "cp": 9599,
@@ -1021,6 +2204,16 @@
     "name": "BOX DRAWINGS HEAVY UP AND LIGHT DOWN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "рамка (псевдографика)",
+      "рисование",
+      "жирный (толстый)",
+      "вверх",
+      "и",
+      "тонкий (светлый)",
+      "вниз"
+    ],
+    "concepts": ["border"]
   }
 ]

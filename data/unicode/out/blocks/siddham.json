@@ -5,7 +5,9 @@
     "name": "SIDDHAM LETTER A",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква"],
+    "concepts": []
   },
   {
     "cp": 71041,
@@ -13,7 +15,9 @@
     "name": "SIDDHAM LETTER AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "аа"],
+    "concepts": []
   },
   {
     "cp": 71042,
@@ -21,7 +25,9 @@
     "name": "SIDDHAM LETTER I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква"],
+    "concepts": []
   },
   {
     "cp": 71043,
@@ -29,7 +35,9 @@
     "name": "SIDDHAM LETTER II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "ии"],
+    "concepts": []
   },
   {
     "cp": 71044,
@@ -37,7 +45,9 @@
     "name": "SIDDHAM LETTER U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква"],
+    "concepts": []
   },
   {
     "cp": 71045,
@@ -45,7 +55,9 @@
     "name": "SIDDHAM LETTER UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "уу"],
+    "concepts": []
   },
   {
     "cp": 71046,
@@ -53,7 +65,9 @@
     "name": "SIDDHAM LETTER VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 71047,
@@ -61,7 +75,9 @@
     "name": "SIDDHAM LETTER VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 71048,
@@ -69,7 +85,9 @@
     "name": "SIDDHAM LETTER VOCALIC L",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 71049,
@@ -77,7 +95,9 @@
     "name": "SIDDHAM LETTER VOCALIC LL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "слоговой (вокалический)", "лл"],
+    "concepts": []
   },
   {
     "cp": 71050,
@@ -85,7 +105,9 @@
     "name": "SIDDHAM LETTER E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква"],
+    "concepts": []
   },
   {
     "cp": 71051,
@@ -93,7 +115,9 @@
     "name": "SIDDHAM LETTER AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "аи"],
+    "concepts": []
   },
   {
     "cp": 71052,
@@ -101,7 +125,9 @@
     "name": "SIDDHAM LETTER O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква"],
+    "concepts": []
   },
   {
     "cp": 71053,
@@ -109,7 +135,9 @@
     "name": "SIDDHAM LETTER AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "ау"],
+    "concepts": []
   },
   {
     "cp": 71054,
@@ -117,7 +145,9 @@
     "name": "SIDDHAM LETTER KA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 71055,
@@ -125,7 +155,9 @@
     "name": "SIDDHAM LETTER KHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "кха"],
+    "concepts": []
   },
   {
     "cp": 71056,
@@ -133,7 +165,9 @@
     "name": "SIDDHAM LETTER GA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "га"],
+    "concepts": []
   },
   {
     "cp": 71057,
@@ -141,7 +175,9 @@
     "name": "SIDDHAM LETTER GHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "гха"],
+    "concepts": []
   },
   {
     "cp": 71058,
@@ -149,7 +185,9 @@
     "name": "SIDDHAM LETTER NGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "нга"],
+    "concepts": []
   },
   {
     "cp": 71059,
@@ -157,7 +195,9 @@
     "name": "SIDDHAM LETTER CA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 71060,
@@ -165,7 +205,9 @@
     "name": "SIDDHAM LETTER CHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "ча"],
+    "concepts": []
   },
   {
     "cp": 71061,
@@ -173,7 +215,9 @@
     "name": "SIDDHAM LETTER JA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "джа"],
+    "concepts": []
   },
   {
     "cp": 71062,
@@ -181,7 +225,9 @@
     "name": "SIDDHAM LETTER JHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "джха"],
+    "concepts": []
   },
   {
     "cp": 71063,
@@ -189,7 +235,9 @@
     "name": "SIDDHAM LETTER NYA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "ня"],
+    "concepts": []
   },
   {
     "cp": 71064,
@@ -197,7 +245,9 @@
     "name": "SIDDHAM LETTER TTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "тта"],
+    "concepts": []
   },
   {
     "cp": 71065,
@@ -205,7 +255,9 @@
     "name": "SIDDHAM LETTER TTHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "ттха"],
+    "concepts": []
   },
   {
     "cp": 71066,
@@ -213,7 +265,9 @@
     "name": "SIDDHAM LETTER DDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "дда"],
+    "concepts": []
   },
   {
     "cp": 71067,
@@ -221,7 +275,9 @@
     "name": "SIDDHAM LETTER DDHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "ддха"],
+    "concepts": []
   },
   {
     "cp": 71068,
@@ -229,7 +285,9 @@
     "name": "SIDDHAM LETTER NNA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "нна"],
+    "concepts": []
   },
   {
     "cp": 71069,
@@ -237,7 +295,9 @@
     "name": "SIDDHAM LETTER TA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 71070,
@@ -245,7 +305,9 @@
     "name": "SIDDHAM LETTER THA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "тха"],
+    "concepts": []
   },
   {
     "cp": 71071,
@@ -253,7 +315,9 @@
     "name": "SIDDHAM LETTER DA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "да"],
+    "concepts": []
   },
   {
     "cp": 71072,
@@ -261,7 +325,9 @@
     "name": "SIDDHAM LETTER DHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "дха"],
+    "concepts": []
   },
   {
     "cp": 71073,
@@ -269,7 +335,9 @@
     "name": "SIDDHAM LETTER NA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 71074,
@@ -277,7 +345,9 @@
     "name": "SIDDHAM LETTER PA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "па"],
+    "concepts": []
   },
   {
     "cp": 71075,
@@ -285,7 +355,9 @@
     "name": "SIDDHAM LETTER PHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "пха"],
+    "concepts": []
   },
   {
     "cp": 71076,
@@ -293,7 +365,9 @@
     "name": "SIDDHAM LETTER BA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "ба"],
+    "concepts": []
   },
   {
     "cp": 71077,
@@ -301,7 +375,9 @@
     "name": "SIDDHAM LETTER BHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "бха"],
+    "concepts": []
   },
   {
     "cp": 71078,
@@ -309,7 +385,9 @@
     "name": "SIDDHAM LETTER MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 71079,
@@ -317,7 +395,9 @@
     "name": "SIDDHAM LETTER YA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 71080,
@@ -325,7 +405,9 @@
     "name": "SIDDHAM LETTER RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 71081,
@@ -333,7 +415,9 @@
     "name": "SIDDHAM LETTER LA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "ла"],
+    "concepts": []
   },
   {
     "cp": 71082,
@@ -341,7 +425,9 @@
     "name": "SIDDHAM LETTER VA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "ва"],
+    "concepts": []
   },
   {
     "cp": 71083,
@@ -349,7 +435,9 @@
     "name": "SIDDHAM LETTER SHA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "ша"],
+    "concepts": []
   },
   {
     "cp": 71084,
@@ -357,7 +445,9 @@
     "name": "SIDDHAM LETTER SSA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "сса"],
+    "concepts": []
   },
   {
     "cp": 71085,
@@ -365,7 +455,9 @@
     "name": "SIDDHAM LETTER SA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 71086,
@@ -373,7 +465,9 @@
     "name": "SIDDHAM LETTER HA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 71087,
@@ -381,7 +475,9 @@
     "name": "SIDDHAM VOWEL SIGN AA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "гласная", "знак", "аа"],
+    "concepts": []
   },
   {
     "cp": 71088,
@@ -389,7 +485,9 @@
     "name": "SIDDHAM VOWEL SIGN I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 71089,
@@ -397,7 +495,9 @@
     "name": "SIDDHAM VOWEL SIGN II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "гласная", "знак", "ии"],
+    "concepts": []
   },
   {
     "cp": 71090,
@@ -405,7 +505,9 @@
     "name": "SIDDHAM VOWEL SIGN U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 71091,
@@ -413,7 +515,9 @@
     "name": "SIDDHAM VOWEL SIGN UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "гласная", "знак", "уу"],
+    "concepts": []
   },
   {
     "cp": 71092,
@@ -421,7 +525,9 @@
     "name": "SIDDHAM VOWEL SIGN VOCALIC R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "гласная", "знак", "слоговой (вокалический)"],
+    "concepts": []
   },
   {
     "cp": 71093,
@@ -429,7 +535,9 @@
     "name": "SIDDHAM VOWEL SIGN VOCALIC RR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "гласная", "знак", "слоговой (вокалический)", "рр"],
+    "concepts": []
   },
   {
     "cp": 71096,
@@ -437,7 +545,9 @@
     "name": "SIDDHAM VOWEL SIGN E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 71097,
@@ -445,7 +555,9 @@
     "name": "SIDDHAM VOWEL SIGN AI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "гласная", "знак", "аи"],
+    "concepts": []
   },
   {
     "cp": 71098,
@@ -453,7 +565,9 @@
     "name": "SIDDHAM VOWEL SIGN O",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "гласная", "знак"],
+    "concepts": []
   },
   {
     "cp": 71099,
@@ -461,7 +575,9 @@
     "name": "SIDDHAM VOWEL SIGN AU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "гласная", "знак", "ау"],
+    "concepts": []
   },
   {
     "cp": 71100,
@@ -469,7 +585,9 @@
     "name": "SIDDHAM SIGN CANDRABINDU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "знак", "чандрабинду"],
+    "concepts": []
   },
   {
     "cp": 71101,
@@ -477,7 +595,9 @@
     "name": "SIDDHAM SIGN ANUSVARA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "знак", "анусвара"],
+    "concepts": []
   },
   {
     "cp": 71102,
@@ -485,7 +605,9 @@
     "name": "SIDDHAM SIGN VISARGA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "знак", "висарга"],
+    "concepts": []
   },
   {
     "cp": 71103,
@@ -493,7 +615,9 @@
     "name": "SIDDHAM SIGN VIRAMA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "знак", "вирама"],
+    "concepts": []
   },
   {
     "cp": 71104,
@@ -501,7 +625,9 @@
     "name": "SIDDHAM SIGN NUKTA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "знак", "нукта"],
+    "concepts": []
   },
   {
     "cp": 71105,
@@ -509,7 +635,9 @@
     "name": "SIDDHAM SIGN SIDDHAM",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "знак"],
+    "concepts": []
   },
   {
     "cp": 71106,
@@ -517,7 +645,9 @@
     "name": "SIDDHAM DANDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "данда"],
+    "concepts": []
   },
   {
     "cp": 71107,
@@ -525,7 +655,9 @@
     "name": "SIDDHAM DOUBLE DANDA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "двойной", "данда"],
+    "concepts": []
   },
   {
     "cp": 71108,
@@ -533,7 +665,9 @@
     "name": "SIDDHAM SEPARATOR DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "разделитель", "точка"],
+    "concepts": []
   },
   {
     "cp": 71109,
@@ -541,7 +675,9 @@
     "name": "SIDDHAM SEPARATOR BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "разделитель", "черта"],
+    "concepts": []
   },
   {
     "cp": 71110,
@@ -549,7 +685,9 @@
     "name": "SIDDHAM REPETITION MARK-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "повтор", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 71111,
@@ -557,7 +695,9 @@
     "name": "SIDDHAM REPETITION MARK-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "повтор", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 71112,
@@ -565,7 +705,9 @@
     "name": "SIDDHAM REPETITION MARK-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "повтор", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 71113,
@@ -573,7 +715,9 @@
     "name": "SIDDHAM END OF TEXT MARK",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "конец", "из", "текст", "метка (знак)"],
+    "concepts": []
   },
   {
     "cp": 71114,
@@ -581,7 +725,9 @@
     "name": "SIDDHAM SECTION MARK WITH TRIDENT AND U-SHAPED ORNAMENTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "параграф (раздел)", "метка (знак)", "с", "трезубец", "и", "в форме"],
+    "concepts": []
   },
   {
     "cp": 71115,
@@ -589,7 +735,18 @@
     "name": "SIDDHAM SECTION MARK WITH TRIDENT AND DOTTED CRESCENTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "сиддхам",
+      "параграф (раздел)",
+      "метка (знак)",
+      "с",
+      "трезубец",
+      "и",
+      "пунктирный (с точкой)",
+      "полумесяцы"
+    ],
+    "concepts": []
   },
   {
     "cp": 71116,
@@ -597,7 +754,18 @@
     "name": "SIDDHAM SECTION MARK WITH RAYS AND DOTTED CRESCENTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "сиддхам",
+      "параграф (раздел)",
+      "метка (знак)",
+      "с",
+      "лучи",
+      "и",
+      "пунктирный (с точкой)",
+      "полумесяцы"
+    ],
+    "concepts": []
   },
   {
     "cp": 71117,
@@ -605,7 +773,19 @@
     "name": "SIDDHAM SECTION MARK WITH RAYS AND DOTTED DOUBLE CRESCENTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "сиддхам",
+      "параграф (раздел)",
+      "метка (знак)",
+      "с",
+      "лучи",
+      "и",
+      "пунктирный (с точкой)",
+      "двойной",
+      "полумесяцы"
+    ],
+    "concepts": []
   },
   {
     "cp": 71118,
@@ -613,7 +793,19 @@
     "name": "SIDDHAM SECTION MARK WITH RAYS AND DOTTED TRIPLE CRESCENTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "сиддхам",
+      "параграф (раздел)",
+      "метка (знак)",
+      "с",
+      "лучи",
+      "и",
+      "пунктирный (с точкой)",
+      "тройной",
+      "полумесяцы"
+    ],
+    "concepts": []
   },
   {
     "cp": 71119,
@@ -621,7 +813,9 @@
     "name": "SIDDHAM SECTION MARK DOUBLE RING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "параграф (раздел)", "метка (знак)", "двойной", "кольцо"],
+    "concepts": []
   },
   {
     "cp": 71120,
@@ -629,7 +823,9 @@
     "name": "SIDDHAM SECTION MARK DOUBLE RING WITH RAYS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "параграф (раздел)", "метка (знак)", "двойной", "кольцо", "с", "лучи"],
+    "concepts": []
   },
   {
     "cp": 71121,
@@ -637,7 +833,9 @@
     "name": "SIDDHAM SECTION MARK WITH DOUBLE CRESCENTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "параграф (раздел)", "метка (знак)", "с", "двойной", "полумесяцы"],
+    "concepts": []
   },
   {
     "cp": 71122,
@@ -645,7 +843,9 @@
     "name": "SIDDHAM SECTION MARK WITH TRIPLE CRESCENTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "параграф (раздел)", "метка (знак)", "с", "тройной", "полумесяцы"],
+    "concepts": []
   },
   {
     "cp": 71123,
@@ -653,7 +853,9 @@
     "name": "SIDDHAM SECTION MARK WITH QUADRUPLE CRESCENTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "параграф (раздел)", "метка (знак)", "с", "четверной", "полумесяцы"],
+    "concepts": []
   },
   {
     "cp": 71124,
@@ -661,7 +863,9 @@
     "name": "SIDDHAM SECTION MARK WITH SEPTUPLE CRESCENTS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "параграф (раздел)", "метка (знак)", "с", "полумесяцы"],
+    "concepts": []
   },
   {
     "cp": 71125,
@@ -669,7 +873,9 @@
     "name": "SIDDHAM SECTION MARK WITH CIRCLES AND RAYS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "параграф (раздел)", "метка (знак)", "с", "круги", "и", "лучи"],
+    "concepts": []
   },
   {
     "cp": 71126,
@@ -677,7 +883,9 @@
     "name": "SIDDHAM SECTION MARK WITH CIRCLES AND TWO ENCLOSURES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "параграф (раздел)", "метка (знак)", "с", "круги", "и", "два"],
+    "concepts": []
   },
   {
     "cp": 71127,
@@ -685,7 +893,9 @@
     "name": "SIDDHAM SECTION MARK WITH CIRCLES AND FOUR ENCLOSURES",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "параграф (раздел)", "метка (знак)", "с", "круги", "и", "четыре"],
+    "concepts": []
   },
   {
     "cp": 71128,
@@ -693,7 +903,9 @@
     "name": "SIDDHAM LETTER THREE-CIRCLE ALTERNATE I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "три", "круг", "попеременный"],
+    "concepts": []
   },
   {
     "cp": 71129,
@@ -701,7 +913,9 @@
     "name": "SIDDHAM LETTER TWO-CIRCLE ALTERNATE I",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "два", "круг", "попеременный"],
+    "concepts": []
   },
   {
     "cp": 71130,
@@ -709,7 +923,9 @@
     "name": "SIDDHAM LETTER TWO-CIRCLE ALTERNATE II",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "два", "круг", "попеременный", "ии"],
+    "concepts": []
   },
   {
     "cp": 71131,
@@ -717,7 +933,9 @@
     "name": "SIDDHAM LETTER ALTERNATE U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "буква", "попеременный"],
+    "concepts": []
   },
   {
     "cp": 71132,
@@ -725,7 +943,9 @@
     "name": "SIDDHAM VOWEL SIGN ALTERNATE U",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "гласная", "знак", "попеременный"],
+    "concepts": []
   },
   {
     "cp": 71133,
@@ -733,6 +953,8 @@
     "name": "SIDDHAM VOWEL SIGN ALTERNATE UU",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["сиддхам", "гласная", "знак", "попеременный", "уу"],
+    "concepts": []
   }
 ]

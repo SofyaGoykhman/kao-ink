@@ -5,7 +5,9 @@
     "name": "COMBINING DOUBLED CIRCUMFLEX ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "удвоенный", "циркумфлекс (крышечка)", "ударение (акцент)"],
+    "concepts": []
   },
   {
     "cp": 6833,
@@ -13,7 +15,9 @@
     "name": "COMBINING DIAERESIS-RING",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "диерезис (две точки сверху)", "кольцо"],
+    "concepts": []
   },
   {
     "cp": 6834,
@@ -21,7 +25,9 @@
     "name": "COMBINING INFINITY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "бесконечность"],
+    "concepts": []
   },
   {
     "cp": 6835,
@@ -29,7 +35,9 @@
     "name": "COMBINING DOWNWARDS ARROW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "вниз", "стрелка"],
+    "concepts": []
   },
   {
     "cp": 6836,
@@ -37,7 +45,9 @@
     "name": "COMBINING TRIPLE DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "тройной", "точка"],
+    "concepts": []
   },
   {
     "cp": 6837,
@@ -45,7 +55,9 @@
     "name": "COMBINING X-X BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "снизу"],
+    "concepts": []
   },
   {
     "cp": 6838,
@@ -53,7 +65,9 @@
     "name": "COMBINING WIGGLY LINE BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "волнистый", "линия", "снизу"],
+    "concepts": []
   },
   {
     "cp": 6839,
@@ -61,7 +75,9 @@
     "name": "COMBINING OPEN MARK BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "открытый", "метка (знак)", "снизу"],
+    "concepts": []
   },
   {
     "cp": 6840,
@@ -69,7 +85,9 @@
     "name": "COMBINING DOUBLE OPEN MARK BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "двойной", "открытый", "метка (знак)", "снизу"],
+    "concepts": []
   },
   {
     "cp": 6841,
@@ -77,7 +95,9 @@
     "name": "COMBINING LIGHT CENTRALIZATION STROKE BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "тонкий (светлый)", "централизация", "черта (штрих)", "снизу"],
+    "concepts": []
   },
   {
     "cp": 6842,
@@ -85,7 +105,9 @@
     "name": "COMBINING STRONG CENTRALIZATION STROKE BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "сильный", "централизация", "черта (штрих)", "снизу"],
+    "concepts": []
   },
   {
     "cp": 6843,
@@ -93,7 +115,9 @@
     "name": "COMBINING PARENTHESES ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "круглые скобки", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6844,
@@ -101,7 +125,9 @@
     "name": "COMBINING DOUBLE PARENTHESES ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "двойной", "круглые скобки", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6845,
@@ -109,7 +135,9 @@
     "name": "COMBINING PARENTHESES BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "круглые скобки", "снизу"],
+    "concepts": []
   },
   {
     "cp": 6846,
@@ -117,7 +145,9 @@
     "name": "COMBINING PARENTHESES OVERLAY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "круглые скобки", "наложение"],
+    "concepts": []
   },
   {
     "cp": 6847,
@@ -125,7 +155,9 @@
     "name": "COMBINING LATIN SMALL LETTER W BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква", "снизу"],
+    "concepts": []
   },
   {
     "cp": 6848,
@@ -133,7 +165,16 @@
     "name": "COMBINING LATIN SMALL LETTER TURNED W BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "комбинируемый",
+      "латинский",
+      "маленький (строчный)",
+      "буква",
+      "перевёрнутый",
+      "снизу"
+    ],
+    "concepts": []
   },
   {
     "cp": 6849,
@@ -141,7 +182,9 @@
     "name": "COMBINING LEFT PARENTHESIS ABOVE LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "левый (влево)", "круглая скобка", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6850,
@@ -149,7 +192,9 @@
     "name": "COMBINING RIGHT PARENTHESIS ABOVE RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "правый (вправо)", "круглая скобка", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6851,
@@ -157,7 +202,9 @@
     "name": "COMBINING LEFT PARENTHESIS BELOW LEFT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "левый (влево)", "круглая скобка", "снизу"],
+    "concepts": []
   },
   {
     "cp": 6852,
@@ -165,7 +212,9 @@
     "name": "COMBINING RIGHT PARENTHESIS BELOW RIGHT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "правый (вправо)", "круглая скобка", "снизу"],
+    "concepts": []
   },
   {
     "cp": 6853,
@@ -173,7 +222,9 @@
     "name": "COMBINING SQUARE BRACKETS ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "квадрат", "скобки", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6854,
@@ -181,7 +232,9 @@
     "name": "COMBINING NUMBER SIGN ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "число", "знак", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6855,
@@ -189,7 +242,9 @@
     "name": "COMBINING INVERTED DOUBLE ARCH ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "перевёрнутый", "двойной", "арка", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6856,
@@ -197,7 +252,9 @@
     "name": "COMBINING PLUS SIGN ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "плюс", "знак", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6857,
@@ -205,7 +262,9 @@
     "name": "COMBINING DOUBLE PLUS SIGN ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "двойной", "плюс", "знак", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6858,
@@ -213,7 +272,9 @@
     "name": "COMBINING DOUBLE PLUS SIGN BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "двойной", "плюс", "знак", "снизу"],
+    "concepts": []
   },
   {
     "cp": 6859,
@@ -221,7 +282,9 @@
     "name": "COMBINING TRIPLE ACUTE ACCENT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "тройной", "акут (ударение)", "ударение (акцент)"],
+    "concepts": []
   },
   {
     "cp": 6860,
@@ -229,7 +292,9 @@
     "name": "COMBINING LATIN SMALL LETTER INSULAR G",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква", "островной"],
+    "concepts": []
   },
   {
     "cp": 6861,
@@ -237,7 +302,9 @@
     "name": "COMBINING LATIN SMALL LETTER INSULAR R",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква", "островной"],
+    "concepts": []
   },
   {
     "cp": 6862,
@@ -245,7 +312,9 @@
     "name": "COMBINING LATIN SMALL LETTER INSULAR T",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "латинский", "маленький (строчный)", "буква", "островной"],
+    "concepts": []
   },
   {
     "cp": 6863,
@@ -253,7 +322,9 @@
     "name": "COMBINING DOUBLE CARON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "двойной", "гачек (карон)"],
+    "concepts": []
   },
   {
     "cp": 6864,
@@ -261,7 +332,9 @@
     "name": "COMBINING VERTICAL-LINE-ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "вертикальный", "линия", "акут (ударение)"],
+    "concepts": []
   },
   {
     "cp": 6865,
@@ -269,7 +342,9 @@
     "name": "COMBINING GRAVE-VERTICAL-LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "гравис", "вертикальный", "линия"],
+    "concepts": []
   },
   {
     "cp": 6866,
@@ -277,7 +352,9 @@
     "name": "COMBINING VERTICAL-LINE-GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "вертикальный", "линия", "гравис"],
+    "concepts": []
   },
   {
     "cp": 6867,
@@ -285,7 +362,9 @@
     "name": "COMBINING ACUTE-VERTICAL-LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "акут (ударение)", "вертикальный", "линия"],
+    "concepts": []
   },
   {
     "cp": 6868,
@@ -293,7 +372,9 @@
     "name": "COMBINING VERTICAL-LINE-MACRON",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "вертикальный", "линия", "макрон (черта сверху)"],
+    "concepts": []
   },
   {
     "cp": 6869,
@@ -301,7 +382,9 @@
     "name": "COMBINING MACRON-VERTICAL-LINE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "макрон (черта сверху)", "вертикальный", "линия"],
+    "concepts": []
   },
   {
     "cp": 6870,
@@ -309,7 +392,9 @@
     "name": "COMBINING VERTICAL-LINE-ACUTE-GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "вертикальный", "линия", "акут (ударение)", "гравис"],
+    "concepts": []
   },
   {
     "cp": 6871,
@@ -317,7 +402,9 @@
     "name": "COMBINING VERTICAL-LINE-GRAVE-ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "вертикальный", "линия", "гравис", "акут (ударение)"],
+    "concepts": []
   },
   {
     "cp": 6872,
@@ -325,7 +412,9 @@
     "name": "COMBINING MACRON-ACUTE-GRAVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "макрон (черта сверху)", "акут (ударение)", "гравис"],
+    "concepts": []
   },
   {
     "cp": 6873,
@@ -333,7 +422,9 @@
     "name": "COMBINING SHARP SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "диез (острый)", "знак"],
+    "concepts": []
   },
   {
     "cp": 6874,
@@ -341,7 +432,9 @@
     "name": "COMBINING FLAT SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "бемоль (плоский)", "знак"],
+    "concepts": []
   },
   {
     "cp": 6875,
@@ -349,7 +442,9 @@
     "name": "COMBINING DOWN TACK ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "вниз", "кнопка (упор)", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6876,
@@ -357,7 +452,16 @@
     "name": "COMBINING DIAERESIS WITH RAISED LEFT DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "комбинируемый",
+      "диерезис (две точки сверху)",
+      "с",
+      "поднятый",
+      "левый (влево)",
+      "точка"
+    ],
+    "concepts": []
   },
   {
     "cp": 6877,
@@ -365,7 +469,9 @@
     "name": "COMBINING DOT-AND-RING BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "точка", "и", "кольцо", "снизу"],
+    "concepts": []
   },
   {
     "cp": 6878,
@@ -373,7 +479,9 @@
     "name": "COMBINING GRAVE-DOT",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "гравис", "точка"],
+    "concepts": []
   },
   {
     "cp": 6879,
@@ -381,7 +489,9 @@
     "name": "COMBINING DOT-ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "точка", "акут (ударение)"],
+    "concepts": []
   },
   {
     "cp": 6880,
@@ -389,7 +499,9 @@
     "name": "COMBINING LEFT TACK ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "левый (влево)", "кнопка (упор)", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6881,
@@ -397,7 +509,9 @@
     "name": "COMBINING RIGHT TACK ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "правый (вправо)", "кнопка (упор)", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6882,
@@ -405,7 +519,9 @@
     "name": "COMBINING MINUS SIGN ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "минус", "знак", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6883,
@@ -413,7 +529,9 @@
     "name": "COMBINING INVERTED BRIDGE ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "перевёрнутый", "мост", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6884,
@@ -421,7 +539,9 @@
     "name": "COMBINING SQUARE ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "квадрат", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6885,
@@ -429,7 +549,9 @@
     "name": "COMBINING SEAGULL ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "чайка", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6886,
@@ -437,7 +559,9 @@
     "name": "COMBINING DOUBLE ARCH BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "двойной", "арка", "снизу"],
+    "concepts": []
   },
   {
     "cp": 6887,
@@ -445,7 +569,9 @@
     "name": "COMBINING DOUBLE ARCH ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "двойной", "арка", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6888,
@@ -453,7 +579,9 @@
     "name": "COMBINING EQUALS SIGN ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "равно", "знак", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6889,
@@ -461,7 +589,9 @@
     "name": "COMBINING LEFT ANGLE CENTRED ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "левый (влево)", "угол", "по центру", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6890,
@@ -469,7 +599,9 @@
     "name": "COMBINING UPWARDS ARROW ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "вверх", "стрелка", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6891,
@@ -477,7 +609,9 @@
     "name": "COMBINING DOUBLE RIGHTWARDS ARROW ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "двойной", "вправо", "стрелка", "сверху"],
+    "concepts": []
   },
   {
     "cp": 6892,
@@ -485,7 +619,9 @@
     "name": "COMBINING CARON-ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "гачек (карон)", "акут (ударение)"],
+    "concepts": []
   },
   {
     "cp": 6893,
@@ -493,7 +629,9 @@
     "name": "COMBINING VERTICAL-LINE-DOUBLE-ACUTE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "вертикальный", "линия", "двойной", "акут (ударение)"],
+    "concepts": []
   },
   {
     "cp": 6894,
@@ -501,7 +639,9 @@
     "name": "COMBINING DOUBLE GRAVE ACCENT BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "двойной", "гравис", "ударение (акцент)", "снизу"],
+    "concepts": []
   },
   {
     "cp": 6895,
@@ -509,7 +649,9 @@
     "name": "COMBINING DOUBLE ACUTE ACCENT BELOW",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "двойной", "акут (ударение)", "ударение (акцент)", "снизу"],
+    "concepts": []
   },
   {
     "cp": 6896,
@@ -517,6 +659,8 @@
     "name": "COMBINING DOUBLE COMMA ABOVE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["комбинируемый", "двойной", "запятая", "сверху"],
+    "concepts": []
   }
 ]

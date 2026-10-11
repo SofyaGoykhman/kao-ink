@@ -5,7 +5,9 @@
     "name": "KATAKANA LETTER ARCHAIC E",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["катакана", "буква", "архаичный"],
+    "concepts": []
   },
   {
     "cp": 110593,
@@ -13,7 +15,9 @@
     "name": "HIRAGANA LETTER ARCHAIC YE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хирагана", "буква", "архаичный", "йе"],
+    "concepts": []
   },
   {
     "cp": 110594,
@@ -21,7 +25,9 @@
     "name": "HENTAIGANA LETTER A-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110595,
@@ -29,7 +35,9 @@
     "name": "HENTAIGANA LETTER A-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110596,
@@ -37,7 +45,9 @@
     "name": "HENTAIGANA LETTER A-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110597,
@@ -45,7 +55,9 @@
     "name": "HENTAIGANA LETTER A-WO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "во"],
+    "concepts": []
   },
   {
     "cp": 110598,
@@ -53,7 +65,9 @@
     "name": "HENTAIGANA LETTER I-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110599,
@@ -61,7 +75,9 @@
     "name": "HENTAIGANA LETTER I-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110600,
@@ -69,7 +85,9 @@
     "name": "HENTAIGANA LETTER I-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110601,
@@ -77,7 +95,9 @@
     "name": "HENTAIGANA LETTER I-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110602,
@@ -85,7 +105,9 @@
     "name": "HENTAIGANA LETTER U-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110603,
@@ -93,7 +115,9 @@
     "name": "HENTAIGANA LETTER U-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110604,
@@ -101,7 +125,9 @@
     "name": "HENTAIGANA LETTER U-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110605,
@@ -109,7 +135,9 @@
     "name": "HENTAIGANA LETTER U-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110606,
@@ -117,7 +145,9 @@
     "name": "HENTAIGANA LETTER U-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110607,
@@ -125,7 +155,9 @@
     "name": "HENTAIGANA LETTER E-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110608,
@@ -133,7 +165,9 @@
     "name": "HENTAIGANA LETTER E-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110609,
@@ -141,7 +175,9 @@
     "name": "HENTAIGANA LETTER E-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110610,
@@ -149,7 +185,9 @@
     "name": "HENTAIGANA LETTER E-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110611,
@@ -157,7 +195,9 @@
     "name": "HENTAIGANA LETTER E-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110612,
@@ -165,7 +205,9 @@
     "name": "HENTAIGANA LETTER O-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110613,
@@ -173,7 +215,9 @@
     "name": "HENTAIGANA LETTER O-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110614,
@@ -181,7 +225,9 @@
     "name": "HENTAIGANA LETTER O-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква"],
+    "concepts": []
   },
   {
     "cp": 110615,
@@ -189,7 +235,9 @@
     "name": "HENTAIGANA LETTER KA-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 110616,
@@ -197,7 +245,9 @@
     "name": "HENTAIGANA LETTER KA-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 110617,
@@ -205,7 +255,9 @@
     "name": "HENTAIGANA LETTER KA-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 110618,
@@ -213,7 +265,9 @@
     "name": "HENTAIGANA LETTER KA-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 110619,
@@ -221,7 +275,9 @@
     "name": "HENTAIGANA LETTER KA-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 110620,
@@ -229,7 +285,9 @@
     "name": "HENTAIGANA LETTER KA-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 110621,
@@ -237,7 +295,9 @@
     "name": "HENTAIGANA LETTER KA-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 110622,
@@ -245,7 +305,9 @@
     "name": "HENTAIGANA LETTER KA-8",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 110623,
@@ -253,7 +315,9 @@
     "name": "HENTAIGANA LETTER KA-9",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 110624,
@@ -261,7 +325,9 @@
     "name": "HENTAIGANA LETTER KA-10",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 110625,
@@ -269,7 +335,9 @@
     "name": "HENTAIGANA LETTER KA-11",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ка"],
+    "concepts": []
   },
   {
     "cp": 110626,
@@ -277,7 +345,9 @@
     "name": "HENTAIGANA LETTER KA-KE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ка", "ке"],
+    "concepts": []
   },
   {
     "cp": 110627,
@@ -285,7 +355,9 @@
     "name": "HENTAIGANA LETTER KI-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ки"],
+    "concepts": []
   },
   {
     "cp": 110628,
@@ -293,7 +365,9 @@
     "name": "HENTAIGANA LETTER KI-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ки"],
+    "concepts": []
   },
   {
     "cp": 110629,
@@ -301,7 +375,9 @@
     "name": "HENTAIGANA LETTER KI-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ки"],
+    "concepts": []
   },
   {
     "cp": 110630,
@@ -309,7 +385,9 @@
     "name": "HENTAIGANA LETTER KI-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ки"],
+    "concepts": []
   },
   {
     "cp": 110631,
@@ -317,7 +395,9 @@
     "name": "HENTAIGANA LETTER KI-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ки"],
+    "concepts": []
   },
   {
     "cp": 110632,
@@ -325,7 +405,9 @@
     "name": "HENTAIGANA LETTER KI-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ки"],
+    "concepts": []
   },
   {
     "cp": 110633,
@@ -333,7 +415,9 @@
     "name": "HENTAIGANA LETTER KI-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ки"],
+    "concepts": []
   },
   {
     "cp": 110634,
@@ -341,7 +425,9 @@
     "name": "HENTAIGANA LETTER KI-8",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ки"],
+    "concepts": []
   },
   {
     "cp": 110635,
@@ -349,7 +435,9 @@
     "name": "HENTAIGANA LETTER KU-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ку"],
+    "concepts": []
   },
   {
     "cp": 110636,
@@ -357,7 +445,9 @@
     "name": "HENTAIGANA LETTER KU-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ку"],
+    "concepts": []
   },
   {
     "cp": 110637,
@@ -365,7 +455,9 @@
     "name": "HENTAIGANA LETTER KU-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ку"],
+    "concepts": []
   },
   {
     "cp": 110638,
@@ -373,7 +465,9 @@
     "name": "HENTAIGANA LETTER KU-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ку"],
+    "concepts": []
   },
   {
     "cp": 110639,
@@ -381,7 +475,9 @@
     "name": "HENTAIGANA LETTER KU-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ку"],
+    "concepts": []
   },
   {
     "cp": 110640,
@@ -389,7 +485,9 @@
     "name": "HENTAIGANA LETTER KU-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ку"],
+    "concepts": []
   },
   {
     "cp": 110641,
@@ -397,7 +495,9 @@
     "name": "HENTAIGANA LETTER KU-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ку"],
+    "concepts": []
   },
   {
     "cp": 110642,
@@ -405,7 +505,9 @@
     "name": "HENTAIGANA LETTER KE-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ке"],
+    "concepts": []
   },
   {
     "cp": 110643,
@@ -413,7 +515,9 @@
     "name": "HENTAIGANA LETTER KE-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ке"],
+    "concepts": []
   },
   {
     "cp": 110644,
@@ -421,7 +525,9 @@
     "name": "HENTAIGANA LETTER KE-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ке"],
+    "concepts": []
   },
   {
     "cp": 110645,
@@ -429,7 +535,9 @@
     "name": "HENTAIGANA LETTER KE-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ке"],
+    "concepts": []
   },
   {
     "cp": 110646,
@@ -437,7 +545,9 @@
     "name": "HENTAIGANA LETTER KE-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ке"],
+    "concepts": []
   },
   {
     "cp": 110647,
@@ -445,7 +555,9 @@
     "name": "HENTAIGANA LETTER KE-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ке"],
+    "concepts": []
   },
   {
     "cp": 110648,
@@ -453,7 +565,9 @@
     "name": "HENTAIGANA LETTER KO-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ко"],
+    "concepts": []
   },
   {
     "cp": 110649,
@@ -461,7 +575,9 @@
     "name": "HENTAIGANA LETTER KO-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ко"],
+    "concepts": []
   },
   {
     "cp": 110650,
@@ -469,7 +585,9 @@
     "name": "HENTAIGANA LETTER KO-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ко"],
+    "concepts": []
   },
   {
     "cp": 110651,
@@ -477,7 +595,9 @@
     "name": "HENTAIGANA LETTER KO-KI",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ко", "ки"],
+    "concepts": []
   },
   {
     "cp": 110652,
@@ -485,7 +605,9 @@
     "name": "HENTAIGANA LETTER SA-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 110653,
@@ -493,7 +615,9 @@
     "name": "HENTAIGANA LETTER SA-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 110654,
@@ -501,7 +625,9 @@
     "name": "HENTAIGANA LETTER SA-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 110655,
@@ -509,7 +635,9 @@
     "name": "HENTAIGANA LETTER SA-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 110656,
@@ -517,7 +645,9 @@
     "name": "HENTAIGANA LETTER SA-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 110657,
@@ -525,7 +655,9 @@
     "name": "HENTAIGANA LETTER SA-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 110658,
@@ -533,7 +665,9 @@
     "name": "HENTAIGANA LETTER SA-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 110659,
@@ -541,7 +675,9 @@
     "name": "HENTAIGANA LETTER SA-8",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "са"],
+    "concepts": []
   },
   {
     "cp": 110660,
@@ -549,7 +685,9 @@
     "name": "HENTAIGANA LETTER SI-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "си"],
+    "concepts": []
   },
   {
     "cp": 110661,
@@ -557,7 +695,9 @@
     "name": "HENTAIGANA LETTER SI-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "си"],
+    "concepts": []
   },
   {
     "cp": 110662,
@@ -565,7 +705,9 @@
     "name": "HENTAIGANA LETTER SI-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "си"],
+    "concepts": []
   },
   {
     "cp": 110663,
@@ -573,7 +715,9 @@
     "name": "HENTAIGANA LETTER SI-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "си"],
+    "concepts": []
   },
   {
     "cp": 110664,
@@ -581,7 +725,9 @@
     "name": "HENTAIGANA LETTER SI-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "си"],
+    "concepts": []
   },
   {
     "cp": 110665,
@@ -589,7 +735,9 @@
     "name": "HENTAIGANA LETTER SI-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "си"],
+    "concepts": []
   },
   {
     "cp": 110666,
@@ -597,7 +745,9 @@
     "name": "HENTAIGANA LETTER SU-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "су"],
+    "concepts": []
   },
   {
     "cp": 110667,
@@ -605,7 +755,9 @@
     "name": "HENTAIGANA LETTER SU-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "су"],
+    "concepts": []
   },
   {
     "cp": 110668,
@@ -613,7 +765,9 @@
     "name": "HENTAIGANA LETTER SU-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "су"],
+    "concepts": []
   },
   {
     "cp": 110669,
@@ -621,7 +775,9 @@
     "name": "HENTAIGANA LETTER SU-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "су"],
+    "concepts": []
   },
   {
     "cp": 110670,
@@ -629,7 +785,9 @@
     "name": "HENTAIGANA LETTER SU-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "су"],
+    "concepts": []
   },
   {
     "cp": 110671,
@@ -637,7 +795,9 @@
     "name": "HENTAIGANA LETTER SU-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "су"],
+    "concepts": []
   },
   {
     "cp": 110672,
@@ -645,7 +805,9 @@
     "name": "HENTAIGANA LETTER SU-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "су"],
+    "concepts": []
   },
   {
     "cp": 110673,
@@ -653,7 +815,9 @@
     "name": "HENTAIGANA LETTER SU-8",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "су"],
+    "concepts": []
   },
   {
     "cp": 110674,
@@ -661,7 +825,9 @@
     "name": "HENTAIGANA LETTER SE-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "се"],
+    "concepts": []
   },
   {
     "cp": 110675,
@@ -669,7 +835,9 @@
     "name": "HENTAIGANA LETTER SE-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "се"],
+    "concepts": []
   },
   {
     "cp": 110676,
@@ -677,7 +845,9 @@
     "name": "HENTAIGANA LETTER SE-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "се"],
+    "concepts": []
   },
   {
     "cp": 110677,
@@ -685,7 +855,9 @@
     "name": "HENTAIGANA LETTER SE-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "се"],
+    "concepts": []
   },
   {
     "cp": 110678,
@@ -693,7 +865,9 @@
     "name": "HENTAIGANA LETTER SE-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "се"],
+    "concepts": []
   },
   {
     "cp": 110679,
@@ -701,7 +875,9 @@
     "name": "HENTAIGANA LETTER SO-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "со"],
+    "concepts": []
   },
   {
     "cp": 110680,
@@ -709,7 +885,9 @@
     "name": "HENTAIGANA LETTER SO-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "со"],
+    "concepts": []
   },
   {
     "cp": 110681,
@@ -717,7 +895,9 @@
     "name": "HENTAIGANA LETTER SO-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "со"],
+    "concepts": []
   },
   {
     "cp": 110682,
@@ -725,7 +905,9 @@
     "name": "HENTAIGANA LETTER SO-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "со"],
+    "concepts": []
   },
   {
     "cp": 110683,
@@ -733,7 +915,9 @@
     "name": "HENTAIGANA LETTER SO-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "со"],
+    "concepts": []
   },
   {
     "cp": 110684,
@@ -741,7 +925,9 @@
     "name": "HENTAIGANA LETTER SO-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "со"],
+    "concepts": []
   },
   {
     "cp": 110685,
@@ -749,7 +935,9 @@
     "name": "HENTAIGANA LETTER SO-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "со"],
+    "concepts": []
   },
   {
     "cp": 110686,
@@ -757,7 +945,9 @@
     "name": "HENTAIGANA LETTER TA-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 110687,
@@ -765,7 +955,9 @@
     "name": "HENTAIGANA LETTER TA-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 110688,
@@ -773,7 +965,9 @@
     "name": "HENTAIGANA LETTER TA-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 110689,
@@ -781,7 +975,9 @@
     "name": "HENTAIGANA LETTER TA-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "та"],
+    "concepts": []
   },
   {
     "cp": 110690,
@@ -789,7 +985,9 @@
     "name": "HENTAIGANA LETTER TI-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ти"],
+    "concepts": []
   },
   {
     "cp": 110691,
@@ -797,7 +995,9 @@
     "name": "HENTAIGANA LETTER TI-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ти"],
+    "concepts": []
   },
   {
     "cp": 110692,
@@ -805,7 +1005,9 @@
     "name": "HENTAIGANA LETTER TI-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ти"],
+    "concepts": []
   },
   {
     "cp": 110693,
@@ -813,7 +1015,9 @@
     "name": "HENTAIGANA LETTER TI-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ти"],
+    "concepts": []
   },
   {
     "cp": 110694,
@@ -821,7 +1025,9 @@
     "name": "HENTAIGANA LETTER TI-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ти"],
+    "concepts": []
   },
   {
     "cp": 110695,
@@ -829,7 +1035,9 @@
     "name": "HENTAIGANA LETTER TI-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ти"],
+    "concepts": []
   },
   {
     "cp": 110696,
@@ -837,7 +1045,9 @@
     "name": "HENTAIGANA LETTER TI-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ти"],
+    "concepts": []
   },
   {
     "cp": 110697,
@@ -845,7 +1055,9 @@
     "name": "HENTAIGANA LETTER TU-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ту"],
+    "concepts": []
   },
   {
     "cp": 110698,
@@ -853,7 +1065,9 @@
     "name": "HENTAIGANA LETTER TU-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ту"],
+    "concepts": []
   },
   {
     "cp": 110699,
@@ -861,7 +1075,9 @@
     "name": "HENTAIGANA LETTER TU-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ту"],
+    "concepts": []
   },
   {
     "cp": 110700,
@@ -869,7 +1085,9 @@
     "name": "HENTAIGANA LETTER TU-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ту"],
+    "concepts": []
   },
   {
     "cp": 110701,
@@ -877,7 +1095,9 @@
     "name": "HENTAIGANA LETTER TU-TO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ту", "к"],
+    "concepts": []
   },
   {
     "cp": 110702,
@@ -885,7 +1105,9 @@
     "name": "HENTAIGANA LETTER TE-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "те"],
+    "concepts": []
   },
   {
     "cp": 110703,
@@ -893,7 +1115,9 @@
     "name": "HENTAIGANA LETTER TE-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "те"],
+    "concepts": []
   },
   {
     "cp": 110704,
@@ -901,7 +1125,9 @@
     "name": "HENTAIGANA LETTER TE-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "те"],
+    "concepts": []
   },
   {
     "cp": 110705,
@@ -909,7 +1135,9 @@
     "name": "HENTAIGANA LETTER TE-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "те"],
+    "concepts": []
   },
   {
     "cp": 110706,
@@ -917,7 +1145,9 @@
     "name": "HENTAIGANA LETTER TE-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "те"],
+    "concepts": []
   },
   {
     "cp": 110707,
@@ -925,7 +1155,9 @@
     "name": "HENTAIGANA LETTER TE-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "те"],
+    "concepts": []
   },
   {
     "cp": 110708,
@@ -933,7 +1165,9 @@
     "name": "HENTAIGANA LETTER TE-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "те"],
+    "concepts": []
   },
   {
     "cp": 110709,
@@ -941,7 +1175,9 @@
     "name": "HENTAIGANA LETTER TE-8",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "те"],
+    "concepts": []
   },
   {
     "cp": 110710,
@@ -949,7 +1185,9 @@
     "name": "HENTAIGANA LETTER TE-9",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "те"],
+    "concepts": []
   },
   {
     "cp": 110711,
@@ -957,7 +1195,9 @@
     "name": "HENTAIGANA LETTER TO-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "к"],
+    "concepts": []
   },
   {
     "cp": 110712,
@@ -965,7 +1205,9 @@
     "name": "HENTAIGANA LETTER TO-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "к"],
+    "concepts": []
   },
   {
     "cp": 110713,
@@ -973,7 +1215,9 @@
     "name": "HENTAIGANA LETTER TO-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "к"],
+    "concepts": []
   },
   {
     "cp": 110714,
@@ -981,7 +1225,9 @@
     "name": "HENTAIGANA LETTER TO-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "к"],
+    "concepts": []
   },
   {
     "cp": 110715,
@@ -989,7 +1235,9 @@
     "name": "HENTAIGANA LETTER TO-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "к"],
+    "concepts": []
   },
   {
     "cp": 110716,
@@ -997,7 +1245,9 @@
     "name": "HENTAIGANA LETTER TO-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "к"],
+    "concepts": []
   },
   {
     "cp": 110717,
@@ -1005,7 +1255,9 @@
     "name": "HENTAIGANA LETTER TO-RA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "к", "ра"],
+    "concepts": []
   },
   {
     "cp": 110718,
@@ -1013,7 +1265,9 @@
     "name": "HENTAIGANA LETTER NA-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 110719,
@@ -1021,7 +1275,9 @@
     "name": "HENTAIGANA LETTER NA-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 110720,
@@ -1029,7 +1285,9 @@
     "name": "HENTAIGANA LETTER NA-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 110721,
@@ -1037,7 +1295,9 @@
     "name": "HENTAIGANA LETTER NA-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 110722,
@@ -1045,7 +1305,9 @@
     "name": "HENTAIGANA LETTER NA-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 110723,
@@ -1053,7 +1315,9 @@
     "name": "HENTAIGANA LETTER NA-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 110724,
@@ -1061,7 +1325,9 @@
     "name": "HENTAIGANA LETTER NA-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 110725,
@@ -1069,7 +1335,9 @@
     "name": "HENTAIGANA LETTER NA-8",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 110726,
@@ -1077,7 +1345,9 @@
     "name": "HENTAIGANA LETTER NA-9",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "на"],
+    "concepts": []
   },
   {
     "cp": 110727,
@@ -1085,7 +1355,9 @@
     "name": "HENTAIGANA LETTER NI-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ни"],
+    "concepts": []
   },
   {
     "cp": 110728,
@@ -1093,7 +1365,9 @@
     "name": "HENTAIGANA LETTER NI-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ни"],
+    "concepts": []
   },
   {
     "cp": 110729,
@@ -1101,7 +1375,9 @@
     "name": "HENTAIGANA LETTER NI-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ни"],
+    "concepts": []
   },
   {
     "cp": 110730,
@@ -1109,7 +1385,9 @@
     "name": "HENTAIGANA LETTER NI-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ни"],
+    "concepts": []
   },
   {
     "cp": 110731,
@@ -1117,7 +1395,9 @@
     "name": "HENTAIGANA LETTER NI-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ни"],
+    "concepts": []
   },
   {
     "cp": 110732,
@@ -1125,7 +1405,9 @@
     "name": "HENTAIGANA LETTER NI-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ни"],
+    "concepts": []
   },
   {
     "cp": 110733,
@@ -1133,7 +1415,9 @@
     "name": "HENTAIGANA LETTER NI-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ни"],
+    "concepts": []
   },
   {
     "cp": 110734,
@@ -1141,7 +1425,9 @@
     "name": "HENTAIGANA LETTER NI-TE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ни", "те"],
+    "concepts": []
   },
   {
     "cp": 110735,
@@ -1149,7 +1435,9 @@
     "name": "HENTAIGANA LETTER NU-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ню"],
+    "concepts": []
   },
   {
     "cp": 110736,
@@ -1157,7 +1445,9 @@
     "name": "HENTAIGANA LETTER NU-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ню"],
+    "concepts": []
   },
   {
     "cp": 110737,
@@ -1165,7 +1455,9 @@
     "name": "HENTAIGANA LETTER NU-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ню"],
+    "concepts": []
   },
   {
     "cp": 110738,
@@ -1173,7 +1465,9 @@
     "name": "HENTAIGANA LETTER NE-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "не"],
+    "concepts": []
   },
   {
     "cp": 110739,
@@ -1181,7 +1475,9 @@
     "name": "HENTAIGANA LETTER NE-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "не"],
+    "concepts": []
   },
   {
     "cp": 110740,
@@ -1189,7 +1485,9 @@
     "name": "HENTAIGANA LETTER NE-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "не"],
+    "concepts": []
   },
   {
     "cp": 110741,
@@ -1197,7 +1495,9 @@
     "name": "HENTAIGANA LETTER NE-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "не"],
+    "concepts": []
   },
   {
     "cp": 110742,
@@ -1205,7 +1505,9 @@
     "name": "HENTAIGANA LETTER NE-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "не"],
+    "concepts": []
   },
   {
     "cp": 110743,
@@ -1213,7 +1515,9 @@
     "name": "HENTAIGANA LETTER NE-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "не"],
+    "concepts": []
   },
   {
     "cp": 110744,
@@ -1221,7 +1525,9 @@
     "name": "HENTAIGANA LETTER NE-KO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "не", "ко"],
+    "concepts": []
   },
   {
     "cp": 110745,
@@ -1229,7 +1535,9 @@
     "name": "HENTAIGANA LETTER NO-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "нет"],
+    "concepts": []
   },
   {
     "cp": 110746,
@@ -1237,7 +1545,9 @@
     "name": "HENTAIGANA LETTER NO-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "нет"],
+    "concepts": []
   },
   {
     "cp": 110747,
@@ -1245,7 +1555,9 @@
     "name": "HENTAIGANA LETTER NO-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "нет"],
+    "concepts": []
   },
   {
     "cp": 110748,
@@ -1253,7 +1565,9 @@
     "name": "HENTAIGANA LETTER NO-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "нет"],
+    "concepts": []
   },
   {
     "cp": 110749,
@@ -1261,7 +1575,9 @@
     "name": "HENTAIGANA LETTER NO-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "нет"],
+    "concepts": []
   },
   {
     "cp": 110750,
@@ -1269,7 +1585,9 @@
     "name": "HENTAIGANA LETTER HA-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 110751,
@@ -1277,7 +1595,9 @@
     "name": "HENTAIGANA LETTER HA-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 110752,
@@ -1285,7 +1605,9 @@
     "name": "HENTAIGANA LETTER HA-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 110753,
@@ -1293,7 +1615,9 @@
     "name": "HENTAIGANA LETTER HA-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 110754,
@@ -1301,7 +1625,9 @@
     "name": "HENTAIGANA LETTER HA-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 110755,
@@ -1309,7 +1635,9 @@
     "name": "HENTAIGANA LETTER HA-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 110756,
@@ -1317,7 +1645,9 @@
     "name": "HENTAIGANA LETTER HA-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 110757,
@@ -1325,7 +1655,9 @@
     "name": "HENTAIGANA LETTER HA-8",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 110758,
@@ -1333,7 +1665,9 @@
     "name": "HENTAIGANA LETTER HA-9",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 110759,
@@ -1341,7 +1675,9 @@
     "name": "HENTAIGANA LETTER HA-10",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 110760,
@@ -1349,7 +1685,9 @@
     "name": "HENTAIGANA LETTER HA-11",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ха"],
+    "concepts": []
   },
   {
     "cp": 110761,
@@ -1357,7 +1695,9 @@
     "name": "HENTAIGANA LETTER HI-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хай (HI)"],
+    "concepts": []
   },
   {
     "cp": 110762,
@@ -1365,7 +1705,9 @@
     "name": "HENTAIGANA LETTER HI-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хай (HI)"],
+    "concepts": []
   },
   {
     "cp": 110763,
@@ -1373,7 +1715,9 @@
     "name": "HENTAIGANA LETTER HI-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хай (HI)"],
+    "concepts": []
   },
   {
     "cp": 110764,
@@ -1381,7 +1725,9 @@
     "name": "HENTAIGANA LETTER HI-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хай (HI)"],
+    "concepts": []
   },
   {
     "cp": 110765,
@@ -1389,7 +1735,9 @@
     "name": "HENTAIGANA LETTER HI-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хай (HI)"],
+    "concepts": []
   },
   {
     "cp": 110766,
@@ -1397,7 +1745,9 @@
     "name": "HENTAIGANA LETTER HI-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хай (HI)"],
+    "concepts": []
   },
   {
     "cp": 110767,
@@ -1405,7 +1755,9 @@
     "name": "HENTAIGANA LETTER HI-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хай (HI)"],
+    "concepts": []
   },
   {
     "cp": 110768,
@@ -1413,7 +1765,9 @@
     "name": "HENTAIGANA LETTER HU-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ху"],
+    "concepts": []
   },
   {
     "cp": 110769,
@@ -1421,7 +1775,9 @@
     "name": "HENTAIGANA LETTER HU-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ху"],
+    "concepts": []
   },
   {
     "cp": 110770,
@@ -1429,7 +1785,9 @@
     "name": "HENTAIGANA LETTER HU-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ху"],
+    "concepts": []
   },
   {
     "cp": 110771,
@@ -1437,7 +1795,9 @@
     "name": "HENTAIGANA LETTER HE-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хе"],
+    "concepts": []
   },
   {
     "cp": 110772,
@@ -1445,7 +1805,9 @@
     "name": "HENTAIGANA LETTER HE-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хе"],
+    "concepts": []
   },
   {
     "cp": 110773,
@@ -1453,7 +1815,9 @@
     "name": "HENTAIGANA LETTER HE-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хе"],
+    "concepts": []
   },
   {
     "cp": 110774,
@@ -1461,7 +1825,9 @@
     "name": "HENTAIGANA LETTER HE-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хе"],
+    "concepts": []
   },
   {
     "cp": 110775,
@@ -1469,7 +1835,9 @@
     "name": "HENTAIGANA LETTER HE-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хе"],
+    "concepts": []
   },
   {
     "cp": 110776,
@@ -1477,7 +1845,9 @@
     "name": "HENTAIGANA LETTER HE-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хе"],
+    "concepts": []
   },
   {
     "cp": 110777,
@@ -1485,7 +1855,9 @@
     "name": "HENTAIGANA LETTER HE-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хе"],
+    "concepts": []
   },
   {
     "cp": 110778,
@@ -1493,7 +1865,9 @@
     "name": "HENTAIGANA LETTER HO-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хо"],
+    "concepts": []
   },
   {
     "cp": 110779,
@@ -1501,7 +1875,9 @@
     "name": "HENTAIGANA LETTER HO-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хо"],
+    "concepts": []
   },
   {
     "cp": 110780,
@@ -1509,7 +1885,9 @@
     "name": "HENTAIGANA LETTER HO-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хо"],
+    "concepts": []
   },
   {
     "cp": 110781,
@@ -1517,7 +1895,9 @@
     "name": "HENTAIGANA LETTER HO-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хо"],
+    "concepts": []
   },
   {
     "cp": 110782,
@@ -1525,7 +1905,9 @@
     "name": "HENTAIGANA LETTER HO-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хо"],
+    "concepts": []
   },
   {
     "cp": 110783,
@@ -1533,7 +1915,9 @@
     "name": "HENTAIGANA LETTER HO-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хо"],
+    "concepts": []
   },
   {
     "cp": 110784,
@@ -1541,7 +1925,9 @@
     "name": "HENTAIGANA LETTER HO-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хо"],
+    "concepts": []
   },
   {
     "cp": 110785,
@@ -1549,7 +1935,9 @@
     "name": "HENTAIGANA LETTER HO-8",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "хо"],
+    "concepts": []
   },
   {
     "cp": 110786,
@@ -1557,7 +1945,9 @@
     "name": "HENTAIGANA LETTER MA-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 110787,
@@ -1565,7 +1955,9 @@
     "name": "HENTAIGANA LETTER MA-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 110788,
@@ -1573,7 +1965,9 @@
     "name": "HENTAIGANA LETTER MA-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 110789,
@@ -1581,7 +1975,9 @@
     "name": "HENTAIGANA LETTER MA-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 110790,
@@ -1589,7 +1985,9 @@
     "name": "HENTAIGANA LETTER MA-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 110791,
@@ -1597,7 +1995,9 @@
     "name": "HENTAIGANA LETTER MA-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 110792,
@@ -1605,7 +2005,9 @@
     "name": "HENTAIGANA LETTER MA-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ма"],
+    "concepts": []
   },
   {
     "cp": 110793,
@@ -1613,7 +2015,9 @@
     "name": "HENTAIGANA LETTER MI-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ми"],
+    "concepts": []
   },
   {
     "cp": 110794,
@@ -1621,7 +2025,9 @@
     "name": "HENTAIGANA LETTER MI-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ми"],
+    "concepts": []
   },
   {
     "cp": 110795,
@@ -1629,7 +2035,9 @@
     "name": "HENTAIGANA LETTER MI-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ми"],
+    "concepts": []
   },
   {
     "cp": 110796,
@@ -1637,7 +2045,9 @@
     "name": "HENTAIGANA LETTER MI-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ми"],
+    "concepts": []
   },
   {
     "cp": 110797,
@@ -1645,7 +2055,9 @@
     "name": "HENTAIGANA LETTER MI-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ми"],
+    "concepts": []
   },
   {
     "cp": 110798,
@@ -1653,7 +2065,9 @@
     "name": "HENTAIGANA LETTER MI-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ми"],
+    "concepts": []
   },
   {
     "cp": 110799,
@@ -1661,7 +2075,9 @@
     "name": "HENTAIGANA LETTER MI-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ми"],
+    "concepts": []
   },
   {
     "cp": 110800,
@@ -1669,7 +2085,9 @@
     "name": "HENTAIGANA LETTER MU-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "мю"],
+    "concepts": []
   },
   {
     "cp": 110801,
@@ -1677,7 +2095,9 @@
     "name": "HENTAIGANA LETTER MU-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "мю"],
+    "concepts": []
   },
   {
     "cp": 110802,
@@ -1685,7 +2105,9 @@
     "name": "HENTAIGANA LETTER MU-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "мю"],
+    "concepts": []
   },
   {
     "cp": 110803,
@@ -1693,7 +2115,9 @@
     "name": "HENTAIGANA LETTER MU-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "мю"],
+    "concepts": []
   },
   {
     "cp": 110804,
@@ -1701,7 +2125,9 @@
     "name": "HENTAIGANA LETTER ME-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "мне"],
+    "concepts": []
   },
   {
     "cp": 110805,
@@ -1709,7 +2135,9 @@
     "name": "HENTAIGANA LETTER ME-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "мне"],
+    "concepts": []
   },
   {
     "cp": 110806,
@@ -1717,7 +2145,9 @@
     "name": "HENTAIGANA LETTER ME-MA",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "мне", "ма"],
+    "concepts": []
   },
   {
     "cp": 110807,
@@ -1725,7 +2155,9 @@
     "name": "HENTAIGANA LETTER MO-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "мо"],
+    "concepts": []
   },
   {
     "cp": 110808,
@@ -1733,7 +2165,9 @@
     "name": "HENTAIGANA LETTER MO-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "мо"],
+    "concepts": []
   },
   {
     "cp": 110809,
@@ -1741,7 +2175,9 @@
     "name": "HENTAIGANA LETTER MO-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "мо"],
+    "concepts": []
   },
   {
     "cp": 110810,
@@ -1749,7 +2185,9 @@
     "name": "HENTAIGANA LETTER MO-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "мо"],
+    "concepts": []
   },
   {
     "cp": 110811,
@@ -1757,7 +2195,9 @@
     "name": "HENTAIGANA LETTER MO-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "мо"],
+    "concepts": []
   },
   {
     "cp": 110812,
@@ -1765,7 +2205,9 @@
     "name": "HENTAIGANA LETTER MO-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "мо"],
+    "concepts": []
   },
   {
     "cp": 110813,
@@ -1773,7 +2215,9 @@
     "name": "HENTAIGANA LETTER YA-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 110814,
@@ -1781,7 +2225,9 @@
     "name": "HENTAIGANA LETTER YA-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 110815,
@@ -1789,7 +2235,9 @@
     "name": "HENTAIGANA LETTER YA-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 110816,
@@ -1797,7 +2245,9 @@
     "name": "HENTAIGANA LETTER YA-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 110817,
@@ -1805,7 +2255,9 @@
     "name": "HENTAIGANA LETTER YA-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "я"],
+    "concepts": []
   },
   {
     "cp": 110818,
@@ -1813,7 +2265,9 @@
     "name": "HENTAIGANA LETTER YA-YO",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "я", "йо"],
+    "concepts": []
   },
   {
     "cp": 110819,
@@ -1821,7 +2275,9 @@
     "name": "HENTAIGANA LETTER YU-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ю"],
+    "concepts": []
   },
   {
     "cp": 110820,
@@ -1829,7 +2285,9 @@
     "name": "HENTAIGANA LETTER YU-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ю"],
+    "concepts": []
   },
   {
     "cp": 110821,
@@ -1837,7 +2295,9 @@
     "name": "HENTAIGANA LETTER YU-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ю"],
+    "concepts": []
   },
   {
     "cp": 110822,
@@ -1845,7 +2305,9 @@
     "name": "HENTAIGANA LETTER YU-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ю"],
+    "concepts": []
   },
   {
     "cp": 110823,
@@ -1853,7 +2315,9 @@
     "name": "HENTAIGANA LETTER YO-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "йо"],
+    "concepts": []
   },
   {
     "cp": 110824,
@@ -1861,7 +2325,9 @@
     "name": "HENTAIGANA LETTER YO-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "йо"],
+    "concepts": []
   },
   {
     "cp": 110825,
@@ -1869,7 +2335,9 @@
     "name": "HENTAIGANA LETTER YO-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "йо"],
+    "concepts": []
   },
   {
     "cp": 110826,
@@ -1877,7 +2345,9 @@
     "name": "HENTAIGANA LETTER YO-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "йо"],
+    "concepts": []
   },
   {
     "cp": 110827,
@@ -1885,7 +2355,9 @@
     "name": "HENTAIGANA LETTER YO-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "йо"],
+    "concepts": []
   },
   {
     "cp": 110828,
@@ -1893,7 +2365,9 @@
     "name": "HENTAIGANA LETTER YO-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "йо"],
+    "concepts": []
   },
   {
     "cp": 110829,
@@ -1901,7 +2375,9 @@
     "name": "HENTAIGANA LETTER RA-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 110830,
@@ -1909,7 +2385,9 @@
     "name": "HENTAIGANA LETTER RA-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 110831,
@@ -1917,7 +2395,9 @@
     "name": "HENTAIGANA LETTER RA-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 110832,
@@ -1925,7 +2405,9 @@
     "name": "HENTAIGANA LETTER RA-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ра"],
+    "concepts": []
   },
   {
     "cp": 110833,
@@ -1933,7 +2415,9 @@
     "name": "HENTAIGANA LETTER RI-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ри"],
+    "concepts": []
   },
   {
     "cp": 110834,
@@ -1941,7 +2425,9 @@
     "name": "HENTAIGANA LETTER RI-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ри"],
+    "concepts": []
   },
   {
     "cp": 110835,
@@ -1949,7 +2435,9 @@
     "name": "HENTAIGANA LETTER RI-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ри"],
+    "concepts": []
   },
   {
     "cp": 110836,
@@ -1957,7 +2445,9 @@
     "name": "HENTAIGANA LETTER RI-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ри"],
+    "concepts": []
   },
   {
     "cp": 110837,
@@ -1965,7 +2455,9 @@
     "name": "HENTAIGANA LETTER RI-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ри"],
+    "concepts": []
   },
   {
     "cp": 110838,
@@ -1973,7 +2465,9 @@
     "name": "HENTAIGANA LETTER RI-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ри"],
+    "concepts": []
   },
   {
     "cp": 110839,
@@ -1981,7 +2475,9 @@
     "name": "HENTAIGANA LETTER RI-7",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ри"],
+    "concepts": []
   },
   {
     "cp": 110840,
@@ -1989,7 +2485,9 @@
     "name": "HENTAIGANA LETTER RU-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ру"],
+    "concepts": []
   },
   {
     "cp": 110841,
@@ -1997,7 +2495,9 @@
     "name": "HENTAIGANA LETTER RU-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ру"],
+    "concepts": []
   },
   {
     "cp": 110842,
@@ -2005,7 +2505,9 @@
     "name": "HENTAIGANA LETTER RU-3",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ру"],
+    "concepts": []
   },
   {
     "cp": 110843,
@@ -2013,7 +2515,9 @@
     "name": "HENTAIGANA LETTER RU-4",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ру"],
+    "concepts": []
   },
   {
     "cp": 110844,
@@ -2021,7 +2525,9 @@
     "name": "HENTAIGANA LETTER RU-5",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ру"],
+    "concepts": []
   },
   {
     "cp": 110845,
@@ -2029,7 +2535,9 @@
     "name": "HENTAIGANA LETTER RU-6",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ру"],
+    "concepts": []
   },
   {
     "cp": 110846,
@@ -2037,7 +2545,9 @@
     "name": "HENTAIGANA LETTER RE-1",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ре"],
+    "concepts": []
   },
   {
     "cp": 110847,
@@ -2045,6 +2555,8 @@
     "name": "HENTAIGANA LETTER RE-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["хэнтайгана", "буква", "ре"],
+    "concepts": []
   }
 ]

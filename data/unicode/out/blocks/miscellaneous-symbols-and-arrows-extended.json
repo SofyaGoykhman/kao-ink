@@ -5,7 +5,9 @@
     "name": "LEIBNIZIAN EQUALS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "равно", "знак"],
+    "concepts": []
   },
   {
     "cp": 121601,
@@ -13,7 +15,9 @@
     "name": "LEIBNIZIAN EQUALS SIGN WITH DOUBLE VERTICALS",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "равно", "знак", "с", "двойной", "вертикали"],
+    "concepts": []
   },
   {
     "cp": 121602,
@@ -21,7 +25,9 @@
     "name": "LEIBNIZIAN EQUALS SIGN WITH SMALL S",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "равно", "знак", "с", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 121603,
@@ -29,7 +35,9 @@
     "name": "LEIBNIZIAN GREATER-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "больше", "чем"],
+    "concepts": []
   },
   {
     "cp": 121604,
@@ -37,7 +45,9 @@
     "name": "LEIBNIZIAN LESS-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "меньше", "чем"],
+    "concepts": []
   },
   {
     "cp": 121605,
@@ -45,7 +55,9 @@
     "name": "LEIBNIZIAN GREATER-THAN WITH SMALL P",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "больше", "чем", "с", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 121606,
@@ -53,7 +65,9 @@
     "name": "LEIBNIZIAN LESS-THAN WITH SMALL P",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "меньше", "чем", "с", "маленький (строчный)"],
+    "concepts": []
   },
   {
     "cp": 121607,
@@ -61,7 +75,9 @@
     "name": "LEIBNIZIAN GREATER-THAN OR LESS-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "больше", "чем", "или", "меньше"],
+    "concepts": []
   },
   {
     "cp": 121608,
@@ -69,7 +85,16 @@
     "name": "INVERTED SQUARE LEFT OPEN BOX OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "перевёрнутый",
+      "квадрат",
+      "левый (влево)",
+      "открытый",
+      "рамка (псевдографика)",
+      "оператор"
+    ],
+    "concepts": []
   },
   {
     "cp": 121609,
@@ -77,7 +102,16 @@
     "name": "INVERTED SQUARE RIGHT OPEN BOX OPERATOR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "перевёрнутый",
+      "квадрат",
+      "правый (вправо)",
+      "открытый",
+      "рамка (псевдографика)",
+      "оператор"
+    ],
+    "concepts": []
   },
   {
     "cp": 121610,
@@ -85,7 +119,9 @@
     "name": "TWO-LINE GREATER-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["два", "линия", "больше", "чем"],
+    "concepts": []
   },
   {
     "cp": 121611,
@@ -93,7 +129,9 @@
     "name": "TWO-LINE LESS-THAN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["два", "линия", "меньше", "чем"],
+    "concepts": []
   },
   {
     "cp": 121612,
@@ -101,7 +139,9 @@
     "name": "COMMENSURABILITY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["соизмеримость"],
+    "concepts": []
   },
   {
     "cp": 121613,
@@ -109,7 +149,9 @@
     "name": "INCOMMENSURABILITY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["несоизмеримость"],
+    "concepts": []
   },
   {
     "cp": 121614,
@@ -117,7 +159,9 @@
     "name": "COMMENSURABILITY IN SQUARE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["соизмеримость", "в", "квадрат"],
+    "concepts": []
   },
   {
     "cp": 121615,
@@ -125,7 +169,9 @@
     "name": "INCOMMENSURABILITY IN SQUARE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["несоизмеримость", "в", "квадрат"],
+    "concepts": []
   },
   {
     "cp": 121616,
@@ -133,7 +179,9 @@
     "name": "CARTESIAN EQUALS SIGN",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["декартов", "равно", "знак"],
+    "concepts": []
   },
   {
     "cp": 121617,
@@ -141,7 +189,9 @@
     "name": "LEIBNIZIAN CONGRUENCE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "сравнение (конгруэнтность)"],
+    "concepts": []
   },
   {
     "cp": 121618,
@@ -149,7 +199,9 @@
     "name": "LEIBNIZIAN CONGRUENCE WITH VERTICAL BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "сравнение (конгруэнтность)", "с", "вертикальный", "черта"],
+    "concepts": []
   },
   {
     "cp": 121619,
@@ -157,7 +209,9 @@
     "name": "LEIBNIZIAN CONGRUENCE-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "сравнение (конгруэнтность)"],
+    "concepts": []
   },
   {
     "cp": 121620,
@@ -165,7 +219,9 @@
     "name": "LEIBNIZIAN CONGRUENCE-2 INVERTED",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "сравнение (конгруэнтность)", "перевёрнутый"],
+    "concepts": []
   },
   {
     "cp": 121621,
@@ -173,7 +229,9 @@
     "name": "LEIBNIZIAN CONGRUENCE-2 WITH HORIZONTAL BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "сравнение (конгруэнтность)", "с", "горизонтальный", "черта"],
+    "concepts": []
   },
   {
     "cp": 121622,
@@ -181,7 +239,17 @@
     "name": "LEIBNIZIAN CONGRUENCE-2 WITH HORIZONTAL AND VERTICAL BAR",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": [
+      "лейбницевский",
+      "сравнение (конгруэнтность)",
+      "с",
+      "горизонтальный",
+      "и",
+      "вертикальный",
+      "черта"
+    ],
+    "concepts": []
   },
   {
     "cp": 121623,
@@ -189,7 +257,9 @@
     "name": "LEIBNIZIAN COINCIDENCE",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "совпадение"],
+    "concepts": []
   },
   {
     "cp": 121624,
@@ -197,7 +267,9 @@
     "name": "INVERTED LAZY S OVER LAZY S",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["перевёрнутый", "ленивый", "над"],
+    "concepts": []
   },
   {
     "cp": 121625,
@@ -205,7 +277,9 @@
     "name": "LEIBNIZIAN SIMILARITY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "подобие"],
+    "concepts": []
   },
   {
     "cp": 121626,
@@ -213,7 +287,9 @@
     "name": "LEIBNIZIAN SIMILARITY-2",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "подобие"],
+    "concepts": []
   },
   {
     "cp": 121627,
@@ -221,7 +297,9 @@
     "name": "LEIBNIZIAN DISSIMILARITY",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["лейбницевский", "несходство"],
+    "concepts": []
   },
   {
     "cp": 121628,
@@ -229,6 +307,8 @@
     "name": "FACIT SYMBOL",
     "ru": null,
     "en": null,
-    "keywords": { "ru": [], "en": [] }
+    "keywords": { "ru": [], "en": [] },
+    "desc": ["факит", "символ"],
+    "concepts": []
   }
 ]

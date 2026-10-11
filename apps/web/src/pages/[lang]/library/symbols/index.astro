@@ -3,6 +3,7 @@ import Crumbs from '../../../../components/Crumbs.astro';
 import Base from '../../../../layouts/Base.astro';
 import { langs, useTranslations, type Lang } from '../../../../i18n/ui';
 import { blocks, groupOrder } from '../../../../data/unicode';
+import SymbolSearchBox from '../../../../components/SymbolSearchBox';
 
 export function getStaticPaths() {
   return langs.map((lang) => ({ params: { lang } }));
@@ -20,6 +21,24 @@ const groups = groupOrder.map((group) => ({
   <Crumbs items={[{ href: `/${lang}/library/`, label: t('nav.library') }]} />
   <h1>{t('library.symbols')}</h1>
   <p class="muted">{t('library.symbols.lead')}</p>
+  <SymbolSearchBox
+    client:load
+    lang={lang}
+    examples={
+      lang === 'ru'
+        ? ['сердечко', 'звезда', 'корона', 'стрелка вправо', 'кот']
+        : ['heart', 'star', 'crown', 'right arrow', 'cat']
+    }
+    blockNames={Object.fromEntries(blocks.map((b) => [b.id, lang === 'ru' ? b.ru : b.name]))}
+    labels={{
+      placeholder: t('search.placeholder'),
+      loading: t('search.loading'),
+      found: t('search.found'),
+      nothing: t('search.nothing'),
+      copied: t('copy.done'),
+      examples: t('search.examples'),
+    }}
+  />
   {groups.map(({ group, blocks }) => (
     <section>
       <h2>{t(`group.${group}`)}</h2>
