@@ -177,7 +177,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["телугу", "буква", "оо"],
-    "concepts": []
+    "concepts": ["om"]
   },
   {
     "cp": 3092,
@@ -307,7 +307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["телугу", "буква", "ттха"],
-    "concepts": []
+    "concepts": ["fruit", "sad"]
   },
   {
     "cp": 3105,
@@ -827,7 +827,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["телугу", "цифра", "ноль"],
-    "concepts": []
+    "concepts": ["circle"]
   },
   {
     "cp": 3175,

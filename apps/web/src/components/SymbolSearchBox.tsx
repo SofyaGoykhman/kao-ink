@@ -30,6 +30,11 @@ function loadIndex(): Promise<SymbolSearch> {
   return indexPromise;
 }
 
+/** Combining marks sit on a dotted circle; invisible characters show as a dotted box. */
+const INVISIBLE = /^[\p{Z}\p{Cf}\u2800\u3164\u115f\u1160\uffa0]$/u;
+const visible = (char: string) =>
+  /^\p{M}/u.test(char) ? `◌${char}` : INVISIBLE.test(char) ? '⬚' : char;
+
 const codePoint = (char: string) =>
   `U+${char.codePointAt(0)!.toString(16).toUpperCase().padStart(4, '0')}`;
 
@@ -108,7 +113,7 @@ export default function SymbolSearchBox({ lang, labels, examples, blockNames }: 
                       title={`${hit[lang]} · ${codePoint(hit.char)}`}
                       onClick={() => setPicked(hit)}
                     >
-                      {/^\p{M}/u.test(hit.char) ? `◌${hit.char}` : hit.char}
+                      {visible(hit.char)}
                     </button>
                   </li>
                 ))}
@@ -119,7 +124,7 @@ export default function SymbolSearchBox({ lang, labels, examples, blockNames }: 
       )}
       {picked && (
         <p class="picked">
-          <span class="picked-char">{picked.char}</span>
+          <span class="picked-char">{visible(picked.char)}</span>
           <span>
             {picked[lang]}
             <br />

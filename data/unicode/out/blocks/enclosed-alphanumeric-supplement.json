@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "ноль", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 127233,
@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "ноль", "запятая"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 127234,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "один", "запятая"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 127235,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "два", "запятая"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 127236,
@@ -47,7 +47,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "три", "запятая"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 127237,
@@ -57,7 +57,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "четыре", "запятая"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 127238,
@@ -67,7 +67,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "пять", "запятая"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 127239,
@@ -77,7 +77,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "шесть", "запятая"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 127240,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "семь", "запятая"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 127241,
@@ -97,7 +97,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "восемь", "запятая"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 127242,
@@ -107,7 +107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "девять", "запятая"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 127243,
@@ -459,7 +459,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "курсив", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["copyright"]
   },
   {
     "cp": 127276,
@@ -469,7 +469,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "курсив", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["copyright"]
   },
   {
     "cp": 127277,
@@ -499,7 +499,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["копилефт", "символ"],
-    "concepts": []
+    "concepts": ["copyright"]
   },
   {
     "cp": 127280,
@@ -509,7 +509,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "font-squared"]
   },
   {
     "cp": 127281,
@@ -519,7 +519,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "font-squared"]
   },
   {
     "cp": 127282,
@@ -529,7 +529,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "font-squared"]
   },
   {
     "cp": 127283,
@@ -539,7 +539,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127284,
@@ -549,7 +549,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127285,
@@ -559,7 +559,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127286,
@@ -569,7 +569,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127287,
@@ -579,7 +579,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127288,
@@ -589,7 +589,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127289,
@@ -599,7 +599,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127290,
@@ -609,7 +609,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127291,
@@ -619,7 +619,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127292,
@@ -629,7 +629,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127293,
@@ -639,7 +639,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127294,
@@ -649,7 +649,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127295,
@@ -659,7 +659,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127296,
@@ -669,7 +669,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127297,
@@ -679,7 +679,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127298,
@@ -689,7 +689,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127299,
@@ -699,7 +699,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127300,
@@ -709,7 +709,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127301,
@@ -719,7 +719,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127302,
@@ -729,7 +729,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127303,
@@ -739,7 +739,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127304,
@@ -749,7 +749,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127305,
@@ -759,7 +759,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в квадрате", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-squared"]
   },
   {
     "cp": 127306,
@@ -829,7 +829,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["негатив (инверсный)", "в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 127313,
@@ -839,7 +839,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["негатив (инверсный)", "в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 127314,
@@ -1089,7 +1089,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["поднятый", "MC", "знак"],
-    "concepts": []
+    "concepts": ["copyright"]
   },
   {
     "cp": 127339,
@@ -1099,7 +1099,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["поднятый", "MD", "знак"],
-    "concepts": []
+    "concepts": ["copyright"]
   },
   {
     "cp": 127340,
@@ -1109,7 +1109,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["поднятый", "MR", "знак"],
-    "concepts": []
+    "concepts": ["copyright"]
   },
   {
     "cp": 127341,

@@ -277,7 +277,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ваи", "слог", "джее"],
-    "concepts": []
+    "concepts": ["ornament-nick"]
   },
   {
     "cp": 42268,
@@ -287,7 +287,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ваи", "слог", "нджии"],
-    "concepts": []
+    "concepts": ["ornament-nick"]
   },
   {
     "cp": 42269,
@@ -347,7 +347,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ваи", "слог", "нии"],
-    "concepts": []
+    "concepts": ["bear"]
   },
   {
     "cp": 42275,
@@ -357,7 +357,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ваи", "слог"],
-    "concepts": []
+    "concepts": ["bear"]
   },
   {
     "cp": 42276,
@@ -427,7 +427,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ваи", "слог", "пи"],
-    "concepts": []
+    "concepts": ["dog"]
   },
   {
     "cp": 42283,
@@ -437,7 +437,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ваи", "слог"],
-    "concepts": []
+    "concepts": ["crown"]
   },
   {
     "cp": 42284,
@@ -987,7 +987,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ваи", "слог", "са"],
-    "concepts": []
+    "concepts": ["skull"]
   },
   {
     "cp": 42339,
@@ -1007,7 +1007,19 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ваи", "слог", "за"],
-    "concepts": ["star", "sun", "flower", "clover", "umbrella"]
+    "concepts": [
+      "star",
+      "sun",
+      "flower",
+      "clover",
+      "umbrella",
+      "crown",
+      "butterfly",
+      "clubs",
+      "frame-nick",
+      "ornament-nick",
+      "sakura"
+    ]
   },
   {
     "cp": 42341,
@@ -1017,7 +1029,16 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ваи", "слог", "жа"],
-    "concepts": ["flower", "rose", "lotus", "cloud"]
+    "concepts": [
+      "flower",
+      "rose",
+      "lotus",
+      "cloud",
+      "butterfly",
+      "frame-nick",
+      "ornament-nick",
+      "sakura"
+    ]
   },
   {
     "cp": 42342,
@@ -2707,7 +2728,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ваи", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["ornament-nick"]
   },
   {
     "cp": 42511,
@@ -2717,7 +2738,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ваи", "вопрос", "метка (знак)"],
-    "concepts": ["flower"]
+    "concepts": ["flower", "paw", "ornament-nick"]
   },
   {
     "cp": 42512,
@@ -2887,7 +2908,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ваи", "цифра", "ноль"],
-    "concepts": []
+    "concepts": ["circle"]
   },
   {
     "cp": 42529,

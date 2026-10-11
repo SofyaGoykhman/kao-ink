@@ -317,7 +317,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["лаосский", "буква", "ло"],
-    "concepts": []
+    "concepts": ["ampersand"]
   },
   {
     "cp": 3749,
@@ -697,7 +697,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["лаосский", "цифра", "ноль"],
-    "concepts": []
+    "concepts": ["circle"]
   },
   {
     "cp": 3793,
@@ -717,7 +717,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["лаосский", "цифра", "два"],
-    "concepts": []
+    "concepts": ["frame-nick"]
   },
   {
     "cp": 3795,

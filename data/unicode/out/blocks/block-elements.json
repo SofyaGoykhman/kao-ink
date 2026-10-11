@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верхний", "половина", "блок"],
-    "concepts": []
+    "concepts": ["square", "rectangle", "block", "divider"]
   },
   {
     "cp": 9601,
@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний", "один", "восьмая", "блок"],
-    "concepts": []
+    "concepts": ["sad", "rectangle", "line", "block", "divider"]
   },
   {
     "cp": 9602,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний", "один", "четверть", "блок"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 9603,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний", "три", "восьмые", "блок"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 9604,
@@ -47,7 +47,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний", "половина", "блок"],
-    "concepts": []
+    "concepts": ["weapon", "gun", "square", "rectangle", "block", "divider"]
   },
   {
     "cp": 9605,
@@ -57,7 +57,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний", "пять", "восьмые", "блок"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 9606,
@@ -67,7 +67,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний", "три", "четверти", "блок"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 9607,
@@ -77,7 +77,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний", "семь", "восьмые", "блок"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 9608,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["полный", "блок"],
-    "concepts": []
+    "concepts": ["square", "rectangle", "block"]
   },
   {
     "cp": 9609,
@@ -97,7 +97,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "семь", "восьмые", "блок"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 9610,
@@ -107,7 +107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "три", "четверти", "блок"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 9611,
@@ -117,7 +117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "пять", "восьмые", "блок"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 9612,
@@ -127,7 +127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "половина", "блок"],
-    "concepts": []
+    "concepts": ["square", "rectangle", "block", "instrument", "play-pause"]
   },
   {
     "cp": 9613,
@@ -137,7 +137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "три", "восьмые", "блок"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 9614,
@@ -147,7 +147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "один", "четверть", "блок"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 9615,
@@ -157,7 +157,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "один", "восьмая", "блок"],
-    "concepts": []
+    "concepts": ["rectangle", "line", "block"]
   },
   {
     "cp": 9616,
@@ -167,7 +167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "половина", "блок"],
-    "concepts": []
+    "concepts": ["square", "rectangle", "block", "instrument", "play-pause"]
   },
   {
     "cp": 9617,
@@ -177,7 +177,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тонкий (светлый)", "штриховка (тень)"],
-    "concepts": []
+    "concepts": ["block", "checkers", "divider"]
   },
   {
     "cp": 9618,
@@ -187,7 +187,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["средний", "штриховка (тень)"],
-    "concepts": []
+    "concepts": ["block", "checkers", "divider"]
   },
   {
     "cp": 9619,
@@ -197,7 +197,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тёмный", "штриховка (тень)"],
-    "concepts": []
+    "concepts": ["block", "checkers", "divider"]
   },
   {
     "cp": 9620,
@@ -207,7 +207,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верхний", "один", "восьмая", "блок"],
-    "concepts": []
+    "concepts": ["rectangle", "line", "block", "divider"]
   },
   {
     "cp": 9621,
@@ -217,7 +217,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "один", "восьмая", "блок"],
-    "concepts": []
+    "concepts": ["rectangle", "line", "block"]
   },
   {
     "cp": 9622,
@@ -227,7 +227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["квадрант (четверть клетки)", "нижний", "левый (влево)"],
-    "concepts": []
+    "concepts": ["square", "block"]
   },
   {
     "cp": 9623,
@@ -237,7 +237,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["квадрант (четверть клетки)", "нижний", "правый (вправо)"],
-    "concepts": []
+    "concepts": ["square", "block"]
   },
   {
     "cp": 9624,
@@ -247,7 +247,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["квадрант (четверть клетки)", "верхний", "левый (влево)"],
-    "concepts": []
+    "concepts": ["square", "block"]
   },
   {
     "cp": 9625,
@@ -264,7 +264,7 @@
       "нижний",
       "правый (вправо)"
     ],
-    "concepts": []
+    "concepts": ["square", "block"]
   },
   {
     "cp": 9626,
@@ -281,7 +281,7 @@
       "нижний",
       "правый (вправо)"
     ],
-    "concepts": []
+    "concepts": ["square", "block", "chess", "checkers"]
   },
   {
     "cp": 9627,
@@ -298,7 +298,7 @@
       "правый (вправо)",
       "нижний"
     ],
-    "concepts": []
+    "concepts": ["square", "block"]
   },
   {
     "cp": 9628,
@@ -315,7 +315,7 @@
       "правый (вправо)",
       "нижний"
     ],
-    "concepts": []
+    "concepts": ["square", "block"]
   },
   {
     "cp": 9629,
@@ -325,7 +325,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["квадрант (четверть клетки)", "верхний", "правый (вправо)"],
-    "concepts": []
+    "concepts": ["square", "block"]
   },
   {
     "cp": 9630,
@@ -342,7 +342,7 @@
       "нижний",
       "левый (влево)"
     ],
-    "concepts": []
+    "concepts": ["square", "block", "chess", "checkers"]
   },
   {
     "cp": 9631,
@@ -359,6 +359,6 @@
       "нижний",
       "левый (влево)"
     ],
-    "concepts": []
+    "concepts": ["square", "block"]
   }
 ]

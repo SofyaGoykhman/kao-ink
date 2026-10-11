@@ -47,7 +47,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "украинский", "е (ie)"],
-    "concepts": []
+    "concepts": ["euro"]
   },
   {
     "cp": 1029,
@@ -207,7 +207,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "де"],
-    "concepts": []
+    "concepts": ["face", "mouth"]
   },
   {
     "cp": 1045,
@@ -227,7 +227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "же"],
-    "concepts": []
+    "concepts": ["butterfly", "bee", "spider", "halloween"]
   },
   {
     "cp": 1047,
@@ -247,7 +247,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 1049,
@@ -307,7 +307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["circle"]
   },
   {
     "cp": 1055,
@@ -317,7 +317,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "пе"],
-    "concepts": []
+    "concepts": ["pi", "gemini"]
   },
   {
     "cp": 1056,
@@ -327,7 +327,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "эр"],
-    "concepts": []
+    "concepts": ["ruble"]
   },
   {
     "cp": 1057,
@@ -377,7 +377,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "ха"],
-    "concepts": []
+    "concepts": ["cross-mark", "multiply-divide"]
   },
   {
     "cp": 1062,
@@ -407,7 +407,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "ша"],
-    "concepts": []
+    "concepts": ["crown", "castle"]
   },
   {
     "cp": 1065,
@@ -417,7 +417,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "ща"],
-    "concepts": []
+    "concepts": ["crown", "castle"]
   },
   {
     "cp": 1066,
@@ -477,7 +477,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "я"],
-    "concepts": []
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 1072,
@@ -527,7 +527,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "де"],
-    "concepts": []
+    "concepts": ["face", "mouth"]
   },
   {
     "cp": 1077,
@@ -547,7 +547,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "же"],
-    "concepts": []
+    "concepts": ["butterfly", "bee", "spider", "zodiac", "halloween"]
   },
   {
     "cp": 1079,
@@ -557,7 +557,17 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "зе"],
-    "concepts": ["kiss", "wings"]
+    "concepts": [
+      "kiss",
+      "wings",
+      "bird",
+      "butterfly",
+      "face",
+      "angel",
+      "bow-ribbon",
+      "mouth",
+      "valentine"
+    ]
   },
   {
     "cp": 1080,
@@ -627,7 +637,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["circle"]
   },
   {
     "cp": 1087,
@@ -637,7 +647,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "пе"],
-    "concepts": []
+    "concepts": ["pi", "gemini"]
   },
   {
     "cp": 1088,
@@ -647,7 +657,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "эр"],
-    "concepts": []
+    "concepts": ["ruble"]
   },
   {
     "cp": 1089,
@@ -697,7 +707,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "ха"],
-    "concepts": []
+    "concepts": ["cross-mark", "multiply-divide"]
   },
   {
     "cp": 1094,
@@ -727,7 +737,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "ша"],
-    "concepts": []
+    "concepts": ["crown", "king", "castle"]
   },
   {
     "cp": 1097,
@@ -737,7 +747,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "ща"],
-    "concepts": []
+    "concepts": ["crown", "castle"]
   },
   {
     "cp": 1098,
@@ -847,7 +857,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "украинский", "е (ie)"],
-    "concepts": []
+    "concepts": ["euro"]
   },
   {
     "cp": 1109,
@@ -967,7 +977,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "омега"],
-    "concepts": []
+    "concepts": ["omega", "cyrillic-old"]
   },
   {
     "cp": 1121,
@@ -977,7 +987,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "омега"],
-    "concepts": []
+    "concepts": ["omega", "cyrillic-old"]
   },
   {
     "cp": 1122,
@@ -987,7 +997,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "ять"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1123,
@@ -997,7 +1007,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "ять"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1124,
@@ -1027,7 +1037,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "малый", "юс"],
-    "concepts": ["tree"]
+    "concepts": ["tree", "triangle", "cyrillic-old"]
   },
   {
     "cp": 1127,
@@ -1037,7 +1047,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "малый", "юс"],
-    "concepts": ["tree"]
+    "concepts": ["tree", "triangle", "cyrillic-old"]
   },
   {
     "cp": 1128,
@@ -1047,7 +1057,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "йотированный", "малый", "юс"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1129,
@@ -1057,7 +1067,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "йотированный", "малый", "юс"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1130,
@@ -1067,7 +1077,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "большой", "юс"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1131,
@@ -1077,7 +1087,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "большой", "юс"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1132,
@@ -1087,7 +1097,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "йотированный", "большой", "юс"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1133,
@@ -1097,7 +1107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "йотированный", "большой", "юс"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1134,
@@ -1107,7 +1117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "кси"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1135,
@@ -1117,7 +1127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "кси"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1136,
@@ -1127,7 +1137,22 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "пси"],
-    "concepts": ["tulip", "lily", "lotus", "plant", "cactus"]
+    "concepts": [
+      "tulip",
+      "lily",
+      "lotus",
+      "plant",
+      "cactus",
+      "crown",
+      "king",
+      "queen",
+      "devil",
+      "peace",
+      "anchor",
+      "trophy",
+      "cyrillic-old",
+      "halloween"
+    ]
   },
   {
     "cp": 1137,
@@ -1137,7 +1162,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "пси"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1138,
@@ -1147,7 +1172,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "фита"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1139,
@@ -1157,7 +1182,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "фита"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1140,
@@ -1167,7 +1192,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "ижица"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1141,
@@ -1177,7 +1202,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "ижица"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1142,
@@ -1285,7 +1310,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "от"],
-    "concepts": []
+    "concepts": ["omega", "cyrillic-old"]
   },
   {
     "cp": 1151,
@@ -1295,7 +1320,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "от"],
-    "concepts": []
+    "concepts": ["omega", "cyrillic-old"]
   },
   {
     "cp": 1152,
@@ -1305,7 +1330,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "коппа"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1153,
@@ -1315,7 +1340,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "коппа"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1154,
@@ -1325,7 +1350,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "тысячи", "знак"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1155,
@@ -1335,7 +1360,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "кириллица", "титло"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1156,
@@ -1345,7 +1370,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "кириллица"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1157,
@@ -1355,7 +1380,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "кириллица", "дасия (густое придыхание)", "придыхание"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1158,
@@ -1365,7 +1390,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "кириллица", "псили (тонкое придыхание)", "придыхание"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 1159,
@@ -1385,7 +1410,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "кириллица", "сто", "тысячи", "знак"],
-    "concepts": []
+    "concepts": ["zalgo", "enclosing"]
   },
   {
     "cp": 1161,
@@ -1395,7 +1420,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "кириллица", "миллионы", "знак"],
-    "concepts": []
+    "concepts": ["zalgo", "enclosing", "explosion"]
   },
   {
     "cp": 1162,
@@ -1525,7 +1550,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "же", "с", "с хвостиком (нижний выносной)"],
-    "concepts": []
+    "concepts": ["butterfly", "spider"]
   },
   {
     "cp": 1175,
@@ -1542,7 +1567,7 @@
       "с",
       "с хвостиком (нижний выносной)"
     ],
-    "concepts": []
+    "concepts": ["butterfly", "spider"]
   },
   {
     "cp": 1176,
@@ -1822,7 +1847,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "прямой"],
-    "concepts": []
+    "concepts": ["pound-yen"]
   },
   {
     "cp": 1199,
@@ -1842,7 +1867,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "прямой", "с", "черта (штрих)"],
-    "concepts": []
+    "concepts": ["pound-yen"]
   },
   {
     "cp": 1201,
@@ -1852,7 +1877,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "прямой", "с", "черта (штрих)"],
-    "concepts": []
+    "concepts": ["pound-yen"]
   },
   {
     "cp": 1202,
@@ -1862,7 +1887,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "ха", "с", "с хвостиком (нижний выносной)"],
-    "concepts": []
+    "concepts": ["cross-mark", "multiply-divide"]
   },
   {
     "cp": 1203,
@@ -1879,7 +1904,7 @@
       "с",
       "с хвостиком (нижний выносной)"
     ],
-    "concepts": []
+    "concepts": ["cross-mark", "multiply-divide"]
   },
   {
     "cp": 1204,
@@ -2050,7 +2075,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "же", "с", "бреве (кратка)"],
-    "concepts": []
+    "concepts": ["butterfly"]
   },
   {
     "cp": 1218,
@@ -2060,7 +2085,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "же", "с", "бреве (кратка)"],
-    "concepts": []
+    "concepts": ["butterfly"]
   },
   {
     "cp": 1219,
@@ -2317,7 +2342,7 @@
       "с",
       "диерезис (две точки сверху)"
     ],
-    "concepts": ["fruit"]
+    "concepts": []
   },
   {
     "cp": 1244,
@@ -2327,7 +2352,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "же", "с", "диерезис (две точки сверху)"],
-    "concepts": []
+    "concepts": ["butterfly"]
   },
   {
     "cp": 1245,
@@ -2344,7 +2369,7 @@
       "с",
       "диерезис (две точки сверху)"
     ],
-    "concepts": []
+    "concepts": ["butterfly", "bee", "spider"]
   },
   {
     "cp": 1246,
@@ -2725,7 +2750,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "ха", "с", "черта (штрих)"],
-    "concepts": []
+    "concepts": ["zodiac"]
   },
   {
     "cp": 1279,

@@ -27,6 +27,8 @@ interface PreparedConcept {
 /** Symbols that depict a concept rank above those that resemble it, then name matches. */
 const DEPICTS = 100;
 const RESEMBLES = 50;
+/** Weight of a concept matched only by prefix, relative to an exact match. */
+const PREFIX_CONCEPT = 0.4;
 /** A query word equal to an indexed word counts more than one that is only its prefix. */
 const EXACT = 3;
 const PREFIX = 1;
@@ -66,9 +68,13 @@ export class SymbolSearch {
     for (const concept of this.concepts) {
       const mask = maskOf(concept.stems);
       if (!mask) continue;
+      // A concept named by the query word itself beats one that only starts with it
+      // («меч» → sword before «мечеть» → mosque).
+      const exact = queryStems.every((q, i) => !(mask & (1 << i)) || concept.stems.includes(q));
+      const scale = exact ? 1 : PREFIX_CONCEPT;
       const add = (char: string, score: number) => {
         conceptMask.set(char, (conceptMask.get(char) ?? 0) | mask);
-        conceptScore.set(char, Math.max(conceptScore.get(char) ?? 0, score));
+        conceptScore.set(char, Math.max(conceptScore.get(char) ?? 0, score * scale));
       };
       for (const char of concept.chars) add(char, DEPICTS);
       for (const char of concept.like) add(char, RESEMBLES);

@@ -117,7 +117,7 @@
     "en": "Afghan Afghani",
     "keywords": { "ru": [], "en": [] },
     "desc": ["знак"],
-    "concepts": []
+    "concepts": ["money"]
   },
   {
     "cp": 1548,
@@ -217,7 +217,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["арабский", "маленький (строчный)", "высокий", "та (араб.)"],
-    "concepts": []
+    "concepts": ["islam"]
   },
   {
     "cp": 1558,
@@ -338,7 +338,7 @@
       "en": ["arabic", "mark", "question"]
     },
     "desc": ["арабский", "вопрос", "метка (знак)"],
-    "concepts": []
+    "concepts": ["punctuation-fancy", "question"]
   },
   {
     "cp": 1568,
@@ -418,7 +418,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["арабский", "буква", "алеф"],
-    "concepts": []
+    "concepts": ["line"]
   },
   {
     "cp": 1576,
@@ -1056,7 +1056,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["арабский", "индийский", "цифра", "пять"],
-    "concepts": ["drop"]
+    "concepts": ["drop", "fist"]
   },
   {
     "cp": 1638,
@@ -1076,7 +1076,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["арабский", "индийский", "цифра", "семь"],
-    "concepts": []
+    "concepts": ["bird"]
   },
   {
     "cp": 1640,
@@ -1086,7 +1086,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["арабский", "индийский", "цифра", "восемь"],
-    "concepts": []
+    "concepts": ["bird"]
   },
   {
     "cp": 1641,
@@ -1096,7 +1096,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["арабский", "индийский", "цифра", "девять"],
-    "concepts": []
+    "concepts": ["hand", "fist", "arms-raised", "shrug", "smile", "angry", "face"]
   },
   {
     "cp": 1642,
@@ -1106,7 +1106,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["арабский", "процент", "знак"],
-    "concepts": []
+    "concepts": ["percent"]
   },
   {
     "cp": 1643,
@@ -1136,7 +1136,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["арабский", "пять", "острый", "звезда"],
-    "concepts": ["star", "star-small", "sparkle", "asterisk", "drop"]
+    "concepts": ["star", "star-small", "sparkle", "asterisk", "drop", "islam"]
   },
   {
     "cp": 1646,
@@ -2286,7 +2286,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["арабский", "конец", "из", "аят"],
-    "concepts": []
+    "concepts": ["circle"]
   },
   {
     "cp": 1758,
@@ -2296,7 +2296,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["арабский", "начало", "из", "руб", "эль"],
-    "concepts": []
+    "concepts": ["religion", "islam"]
   },
   {
     "cp": 1759,
@@ -2421,7 +2421,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["арабский", "место", "из"],
-    "concepts": []
+    "concepts": ["islam"]
   },
   {
     "cp": 1770,
@@ -2551,7 +2551,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["расширенный", "арабский", "индийский", "цифра", "шесть"],
-    "concepts": []
+    "concepts": ["hand", "fist", "arms-raised", "shrug", "smile", "angry", "face"]
   },
   {
     "cp": 1783,

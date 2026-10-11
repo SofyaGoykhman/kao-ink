@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нет", "разрыв", "пробел"],
-    "concepts": []
+    "concepts": ["invisible"]
   },
   {
     "cp": 161,
@@ -25,7 +25,7 @@
       "en": ["bang", "exclamation", "inverted", "mark", "point"]
     },
     "desc": ["перевёрнутый", "восклицательный", "метка (знак)"],
-    "concepts": []
+    "concepts": ["punctuation-fancy", "warning", "candle", "font-upside-down", "exclamation"]
   },
   {
     "cp": 162,
@@ -35,7 +35,7 @@
     "en": "cent",
     "keywords": { "ru": ["цент", "цента", "центы"], "en": ["cent"] },
     "desc": ["цент", "знак"],
-    "concepts": []
+    "concepts": ["money"]
   },
   {
     "cp": 163,
@@ -48,7 +48,7 @@
       "en": ["currency", "EGP", "GBP", "pound"]
     },
     "desc": ["фунт", "знак"],
-    "concepts": []
+    "concepts": ["money", "pound-yen"]
   },
   {
     "cp": 164,
@@ -58,7 +58,7 @@
     "en": "Unknown Currency",
     "keywords": { "ru": [], "en": [] },
     "desc": ["валюта", "знак"],
-    "concepts": []
+    "concepts": ["money"]
   },
   {
     "cp": 165,
@@ -71,7 +71,7 @@
       "en": ["CNY", "currency", "JPY", "yen", "yuan"]
     },
     "desc": ["иена", "знак"],
-    "concepts": []
+    "concepts": ["money", "pound-yen"]
   },
   {
     "cp": 166,
@@ -81,7 +81,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["прерывистый", "черта"],
-    "concepts": []
+    "concepts": ["line", "tears", "exclamation"]
   },
   {
     "cp": 167,
@@ -94,7 +94,7 @@
       "en": ["paragraph", "part", "section", "silcrow"]
     },
     "desc": ["параграф (раздел)", "знак"],
-    "concepts": []
+    "concepts": ["snake", "clef", "money", "dollar", "punctuation-fancy"]
   },
   {
     "cp": 168,
@@ -107,7 +107,7 @@
       "en": ["diaeresis", "tréma", "umlaut"]
     },
     "desc": ["диерезис (две точки сверху)"],
-    "concepts": []
+    "concepts": ["dot"]
   },
   {
     "cp": 169,
@@ -130,7 +130,7 @@
       "en": ["C", "copyright"]
     },
     "desc": ["копирайт (авторское право)", "знак"],
-    "concepts": []
+    "concepts": ["copyright"]
   },
   {
     "cp": 170,
@@ -140,7 +140,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["женский", "порядковый", "индикатор"],
-    "concepts": []
+    "concepts": ["numero", "degree"]
   },
   {
     "cp": 171,
@@ -161,7 +161,7 @@
       "en": ["angle", "brackets", "carets", "chevron", "guillemet", "left", "quote"]
     },
     "desc": ["левый (влево)", "указывающий", "двойной", "угол", "кавычка", "метка (знак)"],
-    "concepts": []
+    "concepts": ["arrow", "arrow-left", "arrowhead", "compare", "brackets", "quote"]
   },
   {
     "cp": 172,
@@ -171,7 +171,20 @@
     "en": "negation",
     "keywords": { "ru": ["не", "отрицание"], "en": ["negation", "not"] },
     "desc": ["не", "знак"],
-    "concepts": []
+    "concepts": [
+      "weapon",
+      "gun",
+      "shrug",
+      "wink",
+      "arrow-curved",
+      "arrow-harpoon",
+      "math",
+      "sets-logic",
+      "angle-geometry",
+      "border",
+      "corner",
+      "lenny"
+    ]
   },
   {
     "cp": 173,
@@ -199,7 +212,7 @@
       "en": ["R", "registered"]
     },
     "desc": ["знак"],
-    "concepts": []
+    "concepts": ["copyright"]
   },
   {
     "cp": 175,
@@ -209,7 +222,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["макрон (черта сверху)"],
-    "concepts": []
+    "concepts": ["shrug"]
   },
   {
     "cp": 176,
@@ -219,7 +232,24 @@
     "en": "degree",
     "keywords": { "ru": ["градус", "крепость", "угол"], "en": ["degree", "hour", "proof"] },
     "desc": ["градус", "знак"],
-    "concepts": ["star-small", "sparkle", "thermometer"]
+    "concepts": [
+      "star-small",
+      "sparkle",
+      "thermometer",
+      "arms-raised",
+      "eye",
+      "angel",
+      "circle",
+      "dot",
+      "spiral-shapes",
+      "angle-geometry",
+      "degree",
+      "chat",
+      "cheeks",
+      "table-flip",
+      "lenny",
+      "bubble"
+    ]
   },
   {
     "cp": 177,
@@ -229,7 +259,7 @@
     "en": "plus-minus",
     "keywords": { "ru": ["плюс минус", "плюс-минус"], "en": ["plus-minus"] },
     "desc": ["плюс", "минус", "знак"],
-    "concepts": []
+    "concepts": ["math", "plus-minus"]
   },
   {
     "cp": 178,
@@ -242,7 +272,7 @@
       "en": ["squared", "superscript", "two"]
     },
     "desc": ["верхний индекс", "два"],
-    "concepts": []
+    "concepts": ["fraction", "superscript"]
   },
   {
     "cp": 179,
@@ -255,7 +285,7 @@
       "en": ["cubed", "superscript", "three"]
     },
     "desc": ["верхний индекс", "три"],
-    "concepts": ["kiss"]
+    "concepts": ["kiss", "fraction", "superscript", "valentine"]
   },
   {
     "cp": 180,
@@ -265,7 +295,7 @@
     "en": "acute accent",
     "keywords": { "ru": ["акут", "ударение"], "en": ["accent", "acute", "tone"] },
     "desc": ["акут (ударение)", "ударение (акцент)"],
-    "concepts": []
+    "concepts": ["angry", "sweat"]
   },
   {
     "cp": 181,
@@ -275,7 +305,7 @@
     "en": "micro sign",
     "keywords": { "ru": ["значок микро", "измерение"], "en": ["measure", "micro", "sign"] },
     "desc": ["знак"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 182,
@@ -288,7 +318,7 @@
       "en": ["alinea", "mark", "paragraph", "paraph", "pilcrow"]
     },
     "desc": ["знак абзаца (¶)", "знак"],
-    "concepts": []
+    "concepts": ["money", "punctuation-fancy"]
   },
   {
     "cp": 183,
@@ -301,7 +331,7 @@
       "en": ["dot", "interpunct", "middle", "middot"]
     },
     "desc": ["средний", "точка"],
-    "concepts": []
+    "concepts": ["dot", "divider", "ellipsis", "bullet"]
   },
   {
     "cp": 184,
@@ -324,7 +354,7 @@
       "en": ["one", "superscript"]
     },
     "desc": ["верхний индекс", "один"],
-    "concepts": []
+    "concepts": ["fraction", "superscript"]
   },
   {
     "cp": 186,
@@ -334,7 +364,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["порядковый", "индикатор"],
-    "concepts": []
+    "concepts": ["numero", "degree"]
   },
   {
     "cp": 187,
@@ -355,7 +385,15 @@
       "en": ["angle", "brackets", "carets", "chevron", "guillemet", "quote", "right"]
     },
     "desc": ["правый (вправо)", "указывающий", "двойной", "угол", "кавычка", "метка (знак)"],
-    "concepts": []
+    "concepts": [
+      "pointing-hand",
+      "arrow",
+      "arrow-right",
+      "arrowhead",
+      "compare",
+      "brackets",
+      "quote"
+    ]
   },
   {
     "cp": 188,
@@ -365,7 +403,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["простая", "дробь", "один", "четверть"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 189,
@@ -375,7 +413,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["простая", "дробь", "один", "половина"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 190,
@@ -385,7 +423,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["простая", "дробь", "три", "четверти"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 191,
@@ -404,7 +442,7 @@
       "en": ["inverted", "mark", "question"]
     },
     "desc": ["перевёрнутый", "вопрос", "метка (знак)"],
-    "concepts": []
+    "concepts": ["punctuation-fancy", "font-upside-down", "information", "question"]
   },
   {
     "cp": 192,
@@ -594,7 +632,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "заглавный", "буква", "с", "гравис"],
-    "concepts": []
+    "concepts": ["angry", "font-upside-down"]
   },
   {
     "cp": 211,
@@ -604,7 +642,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "заглавный", "буква", "с", "акут (ударение)"],
-    "concepts": []
+    "concepts": ["angry"]
   },
   {
     "cp": 212,
@@ -647,7 +685,7 @@
       "en": ["multiplication", "multiply", "sign", "times"]
     },
     "desc": ["умножение", "знак"],
-    "concepts": []
+    "concepts": ["cross-mark", "math", "multiply-divide", "dizzy"]
   },
   {
     "cp": 216,
@@ -657,7 +695,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "заглавный", "буква", "с", "черта (штрих)"],
-    "concepts": ["planet"]
+    "concepts": ["planet", "circle", "prohibited"]
   },
   {
     "cp": 217,
@@ -727,7 +765,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "маленький (строчный)", "буква", "диез (острый)"],
-    "concepts": []
+    "concepts": ["clef", "money"]
   },
   {
     "cp": 224,
@@ -917,7 +955,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "маленький (строчный)", "буква", "с", "гравис"],
-    "concepts": ["fruit", "apple"]
+    "concepts": ["fruit", "apple", "angry"]
   },
   {
     "cp": 243,
@@ -927,7 +965,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "маленький (строчный)", "буква", "с", "акут (ударение)"],
-    "concepts": ["fruit"]
+    "concepts": ["fruit", "angry"]
   },
   {
     "cp": 244,
@@ -970,7 +1008,7 @@
       "en": ["divide", "division", "obelus", "sign"]
     },
     "desc": ["деление", "знак"],
-    "concepts": []
+    "concepts": ["math", "multiply-divide"]
   },
   {
     "cp": 248,
@@ -980,7 +1018,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "маленький (строчный)", "буква", "с", "черта (штрих)"],
-    "concepts": ["planet"]
+    "concepts": ["planet", "circle", "prohibited"]
   },
   {
     "cp": 249,

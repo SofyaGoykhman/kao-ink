@@ -637,7 +637,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "слог"],
-    "concepts": []
+    "concepts": ["alien"]
   },
   {
     "cp": 41024,
@@ -1827,7 +1827,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "слог"],
-    "concepts": []
+    "concepts": ["ghost"]
   },
   {
     "cp": 41143,
@@ -1927,7 +1927,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "слог"],
-    "concepts": []
+    "concepts": ["dog", "ghost", "halloween"]
   },
   {
     "cp": 41153,
@@ -2037,7 +2037,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "слог"],
-    "concepts": []
+    "concepts": ["face", "uwu"]
   },
   {
     "cp": 41164,
@@ -2157,7 +2157,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "слог"],
-    "concepts": []
+    "concepts": ["dog", "ghost"]
   },
   {
     "cp": 41176,
@@ -3057,7 +3057,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "слог"],
-    "concepts": []
+    "concepts": ["face"]
   },
   {
     "cp": 41266,
@@ -3067,7 +3067,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "слог", "ту"],
-    "concepts": []
+    "concepts": ["face"]
   },
   {
     "cp": 41267,
@@ -3077,7 +3077,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "слог"],
-    "concepts": []
+    "concepts": ["face"]
   },
   {
     "cp": 41268,
@@ -5007,7 +5007,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "слог", "гу"],
-    "concepts": []
+    "concepts": ["face"]
   },
   {
     "cp": 41461,
@@ -5017,7 +5017,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "слог"],
-    "concepts": []
+    "concepts": ["face"]
   },
   {
     "cp": 41462,
@@ -5227,7 +5227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "слог", "кет"],
-    "concepts": []
+    "concepts": ["mouth"]
   },
   {
     "cp": 41483,
@@ -5257,7 +5257,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "слог"],
-    "concepts": []
+    "concepts": ["bear", "smile", "face", "wink", "shy"]
   },
   {
     "cp": 41486,
@@ -10627,7 +10627,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "слог"],
-    "concepts": []
+    "concepts": ["angry"]
   },
   {
     "cp": 42023,

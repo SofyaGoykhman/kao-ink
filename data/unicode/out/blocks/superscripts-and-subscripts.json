@@ -7,7 +7,18 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верхний индекс", "ноль"],
-    "concepts": []
+    "concepts": [
+      "sad",
+      "eye",
+      "angel",
+      "circle",
+      "spiral-shapes",
+      "percent",
+      "fraction",
+      "superscript",
+      "degree",
+      "bubble"
+    ]
   },
   {
     "cp": 8305,
@@ -17,7 +28,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верхний индекс", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["superscript", "information"]
   },
   {
     "cp": 8308,
@@ -27,7 +38,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верхний индекс", "четыре"],
-    "concepts": []
+    "concepts": ["fraction", "superscript"]
   },
   {
     "cp": 8309,
@@ -37,7 +48,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верхний индекс", "пять"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8310,
@@ -47,7 +58,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верхний индекс", "шесть"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8311,
@@ -57,7 +68,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верхний индекс", "семь"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8312,
@@ -67,7 +78,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верхний индекс", "восемь"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8313,
@@ -77,7 +88,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верхний индекс", "девять"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8314,
@@ -87,7 +98,15 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верхний индекс", "плюс", "знак"],
-    "concepts": ["star-small", "sparkle"]
+    "concepts": [
+      "star-small",
+      "sparkle",
+      "angel",
+      "plus-minus",
+      "superscript",
+      "frame-nick",
+      "magic"
+    ]
   },
   {
     "cp": 8315,
@@ -97,7 +116,7 @@
     "en": "superscript minus",
     "keywords": { "ru": ["минус", "надстрочный", "степень"], "en": ["minus", "superscript"] },
     "desc": ["верхний индекс", "минус"],
-    "concepts": []
+    "concepts": ["shrug", "plus-minus", "superscript", "bullet"]
   },
   {
     "cp": 8316,
@@ -107,7 +126,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верхний индекс", "равно", "знак"],
-    "concepts": []
+    "concepts": ["equals", "superscript"]
   },
   {
     "cp": 8317,
@@ -117,7 +136,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верхний индекс", "левый (влево)", "круглая скобка"],
-    "concepts": []
+    "concepts": ["arms-raised", "shy", "superscript", "brackets"]
   },
   {
     "cp": 8318,
@@ -127,7 +146,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верхний индекс", "правый (вправо)", "круглая скобка"],
-    "concepts": []
+    "concepts": ["arms-raised", "shy", "speaker", "superscript", "brackets", "wifi"]
   },
   {
     "cp": 8319,
@@ -137,7 +156,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верхний индекс", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8320,
@@ -147,7 +166,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний индекс", "ноль"],
-    "concepts": []
+    "concepts": ["percent", "fraction", "superscript"]
   },
   {
     "cp": 8321,
@@ -157,7 +176,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний индекс", "один"],
-    "concepts": []
+    "concepts": ["fraction", "superscript"]
   },
   {
     "cp": 8322,
@@ -167,7 +186,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний индекс", "два"],
-    "concepts": []
+    "concepts": ["fraction", "superscript"]
   },
   {
     "cp": 8323,
@@ -177,7 +196,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний индекс", "три"],
-    "concepts": []
+    "concepts": ["fraction", "superscript"]
   },
   {
     "cp": 8324,
@@ -187,7 +206,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний индекс", "четыре"],
-    "concepts": []
+    "concepts": ["fraction", "superscript"]
   },
   {
     "cp": 8325,
@@ -197,7 +216,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний индекс", "пять"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8326,
@@ -207,7 +226,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний индекс", "шесть"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8327,
@@ -217,7 +236,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний индекс", "семь"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8328,
@@ -227,7 +246,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний индекс", "восемь"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8329,
@@ -237,7 +256,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний индекс", "девять"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8330,
@@ -247,7 +266,18 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний индекс", "плюс", "знак"],
-    "concepts": ["star-small", "sparkle"]
+    "concepts": [
+      "star-small",
+      "sparkle",
+      "shy",
+      "angel",
+      "plus-minus",
+      "superscript",
+      "frame-nick",
+      "ornament-nick",
+      "divider",
+      "magic"
+    ]
   },
   {
     "cp": 8331,
@@ -257,7 +287,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний индекс", "минус"],
-    "concepts": []
+    "concepts": ["plus-minus", "superscript"]
   },
   {
     "cp": 8332,
@@ -267,7 +297,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний индекс", "равно", "знак"],
-    "concepts": []
+    "concepts": ["equals", "superscript"]
   },
   {
     "cp": 8333,
@@ -277,7 +307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний индекс", "левый (влево)", "круглая скобка"],
-    "concepts": []
+    "concepts": ["cat", "superscript", "brackets"]
   },
   {
     "cp": 8334,
@@ -287,7 +317,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний индекс", "правый (вправо)", "круглая скобка"],
-    "concepts": []
+    "concepts": ["cat", "superscript", "brackets"]
   },
   {
     "cp": 8335,
@@ -307,7 +337,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8337,
@@ -317,7 +347,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8338,
@@ -327,7 +357,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["circle", "superscript", "degree", "bubble"]
   },
   {
     "cp": 8339,
@@ -337,7 +367,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8340,
@@ -347,7 +377,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква", "шва"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8341,
@@ -357,7 +387,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8342,
@@ -367,7 +397,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8343,
@@ -377,7 +407,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8344,
@@ -387,7 +417,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8345,
@@ -397,7 +427,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8346,
@@ -407,7 +437,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8347,
@@ -417,7 +447,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8348,
@@ -427,7 +457,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "нижний индекс", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 8349,

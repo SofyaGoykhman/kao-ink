@@ -617,7 +617,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["сингальский", "буква"],
-    "concepts": ["cloud"]
+    "concepts": []
   },
   {
     "cp": 3530,
@@ -907,6 +907,6 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["сингальский", "пунктуация"],
-    "concepts": ["cloud", "wind", "water", "wave"]
+    "concepts": ["cloud", "wind", "water", "wave", "wave-line", "ornament-nick"]
   }
 ]

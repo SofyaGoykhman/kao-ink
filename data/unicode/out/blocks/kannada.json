@@ -177,7 +177,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["каннада", "буква", "оо"],
-    "concepts": []
+    "concepts": ["om"]
   },
   {
     "cp": 3220,
@@ -307,7 +307,19 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["каннада", "буква", "ттха"],
-    "concepts": ["fruit", "cherry"]
+    "concepts": [
+      "fruit",
+      "cherry",
+      "bear",
+      "smile",
+      "sad",
+      "angry",
+      "face",
+      "wink",
+      "eye",
+      "table-flip",
+      "lenny"
+    ]
   },
   {
     "cp": 3233,
@@ -317,7 +329,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["каннада", "буква", "дда"],
-    "concepts": []
+    "concepts": ["wink"]
   },
   {
     "cp": 3234,
@@ -327,7 +339,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["каннада", "буква", "ддха"],
-    "concepts": []
+    "concepts": ["sad"]
   },
   {
     "cp": 3235,
@@ -337,7 +349,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["каннада", "буква", "нна"],
-    "concepts": []
+    "concepts": ["sad"]
   },
   {
     "cp": 3236,
@@ -357,7 +369,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["каннада", "буква", "тха"],
-    "concepts": []
+    "concepts": ["smile", "sad", "angry", "face", "eye", "tears"]
   },
   {
     "cp": 3238,
@@ -417,7 +429,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["каннада", "буква", "ба"],
-    "concepts": []
+    "concepts": ["sad"]
   },
   {
     "cp": 3245,
@@ -427,7 +439,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["каннада", "буква", "бха"],
-    "concepts": []
+    "concepts": ["sad"]
   },
   {
     "cp": 3246,
@@ -437,7 +449,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["каннада", "буква", "ма"],
-    "concepts": []
+    "concepts": ["sad"]
   },
   {
     "cp": 3247,
@@ -557,7 +569,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["каннада", "знак", "аваграха"],
-    "concepts": []
+    "concepts": ["snake"]
   },
   {
     "cp": 3262,
@@ -797,7 +809,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["каннада", "цифра", "ноль"],
-    "concepts": []
+    "concepts": ["circle"]
   },
   {
     "cp": 3303,

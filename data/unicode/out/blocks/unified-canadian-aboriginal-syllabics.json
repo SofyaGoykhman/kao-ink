@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо"],
-    "concepts": []
+    "concepts": ["fox", "arrow", "arrow-down", "arrowhead", "triangle", "diamond", "zigzag"]
   },
   {
     "cp": 5122,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо"],
-    "concepts": ["fire"]
+    "concepts": ["cat-ears", "triangle"]
   },
   {
     "cp": 5123,
@@ -37,7 +37,18 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо"],
-    "concepts": ["tree", "fire", "mountain"]
+    "concepts": [
+      "tree",
+      "mountain",
+      "cat-ears",
+      "fox",
+      "arrow",
+      "arrow-up",
+      "arrowhead",
+      "triangle",
+      "diamond",
+      "zigzag"
+    ]
   },
   {
     "cp": 5124,
@@ -47,7 +58,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "ии"],
-    "concepts": ["fire"]
+    "concepts": ["cat-ears", "triangle"]
   },
   {
     "cp": 5125,
@@ -57,7 +68,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо"],
-    "concepts": ["fire"]
+    "concepts": ["cat-ears", "fish", "arrow", "arrow-right", "arrowhead", "triangle", "compare"]
   },
   {
     "cp": 5126,
@@ -67,7 +78,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "оо"],
-    "concepts": ["fire"]
+    "concepts": ["triangle"]
   },
   {
     "cp": 5127,
@@ -77,7 +88,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "кри", "оо"],
-    "concepts": ["fire"]
+    "concepts": []
   },
   {
     "cp": 5128,
@@ -87,7 +98,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "ее"],
-    "concepts": ["fire"]
+    "concepts": ["triangle"]
   },
   {
     "cp": 5129,
@@ -97,7 +108,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель"],
-    "concepts": ["fire"]
+    "concepts": ["triangle"]
   },
   {
     "cp": 5130,
@@ -107,7 +118,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо"],
-    "concepts": ["fire"]
+    "concepts": ["cat-ears", "fish", "arrow", "arrow-left", "arrowhead", "triangle", "compare"]
   },
   {
     "cp": 5131,
@@ -117,7 +128,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "аа"],
-    "concepts": ["fire"]
+    "concepts": ["triangle"]
   },
   {
     "cp": 5132,
@@ -217,7 +228,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "запад", "кри", "ву"],
-    "concepts": []
+    "concepts": ["bird", "face"]
   },
   {
     "cp": 5142,
@@ -227,7 +238,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "наскапи", "ву"],
-    "concepts": []
+    "concepts": ["bird"]
   },
   {
     "cp": 5143,
@@ -237,7 +248,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "ва"],
-    "concepts": []
+    "concepts": ["bird"]
   },
   {
     "cp": 5144,
@@ -277,7 +288,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "наскапи", "ваа"],
-    "concepts": ["cloud", "wave"]
+    "concepts": ["cloud", "wave", "dog", "bird", "frog", "face", "wave-line"]
   },
   {
     "cp": 5148,
@@ -307,7 +318,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "гортанный", "стоп"],
-    "concepts": ["drop", "mountain"]
+    "concepts": ["mountain", "cat", "cat-ears", "fox", "devil", "triangle"]
   },
   {
     "cp": 5151,
@@ -317,7 +328,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "конечный", "акут (ударение)"],
-    "concepts": ["drop"]
+    "concepts": ["cat", "cat-ears", "mouse", "check", "sad", "shy", "devil", "tears", "sweat"]
   },
   {
     "cp": 5152,
@@ -327,7 +338,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "конечный", "гравис"],
-    "concepts": ["drop"]
+    "concepts": ["dog", "check", "shy", "sweat"]
   },
   {
     "cp": 5153,
@@ -337,7 +348,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "конечный", "низ", "половина", "кольцо"],
-    "concepts": ["drop"]
+    "concepts": ["dog", "bunny", "mouse", "cow", "uwu"]
   },
   {
     "cp": 5154,
@@ -347,7 +358,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "конечный", "верх", "половина", "кольцо"],
-    "concepts": ["drop"]
+    "concepts": ["dog", "bunny", "cow", "uwu"]
   },
   {
     "cp": 5155,
@@ -357,7 +368,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "конечный", "правый (вправо)", "половина", "кольцо"],
-    "concepts": ["drop"]
+    "concepts": ["dog", "tears"]
   },
   {
     "cp": 5156,
@@ -367,7 +378,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "конечный", "кольцо"],
-    "concepts": ["drop"]
+    "concepts": ["dog"]
   },
   {
     "cp": 5157,
@@ -377,7 +388,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "конечный", "двойной", "акут (ударение)"],
-    "concepts": ["drop"]
+    "concepts": []
   },
   {
     "cp": 5158,
@@ -395,7 +406,7 @@
       "вертикальный",
       "черты"
     ],
-    "concepts": ["drop"]
+    "concepts": ["punctuation-fancy"]
   },
   {
     "cp": 5159,
@@ -405,7 +416,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "конечный", "средний", "точка"],
-    "concepts": ["drop"]
+    "concepts": ["dot", "ellipsis", "bullet"]
   },
   {
     "cp": 5160,
@@ -422,7 +433,7 @@
       "горизонтальный",
       "черта (штрих)"
     ],
-    "concepts": ["drop"]
+    "concepts": []
   },
   {
     "cp": 5161,
@@ -432,7 +443,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "конечный", "плюс"],
-    "concepts": ["drop"]
+    "concepts": []
   },
   {
     "cp": 5162,
@@ -442,7 +453,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "конечный", "вниз", "кнопка (упор)"],
-    "concepts": ["drop"]
+    "concepts": []
   },
   {
     "cp": 5163,
@@ -452,7 +463,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "короткое (en)"],
-    "concepts": ["drop"]
+    "concepts": []
   },
   {
     "cp": 5164,
@@ -462,7 +473,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "в"],
-    "concepts": ["drop"]
+    "concepts": []
   },
   {
     "cp": 5165,
@@ -472,7 +483,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "на"],
-    "concepts": ["drop"]
+    "concepts": []
   },
   {
     "cp": 5166,
@@ -482,7 +493,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "ан"],
-    "concepts": ["drop"]
+    "concepts": []
   },
   {
     "cp": 5167,
@@ -492,7 +503,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "пе"],
-    "concepts": ["drop"]
+    "concepts": ["fox", "check", "victory", "arrow-down", "arrowhead", "triangle", "zigzag"]
   },
   {
     "cp": 5168,
@@ -512,7 +523,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "пи"],
-    "concepts": ["mountain"]
+    "concepts": ["mountain", "cat-ears", "arrow-up", "arrowhead", "triangle", "zigzag"]
   },
   {
     "cp": 5170,
@@ -762,7 +773,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "запад", "кри"],
-    "concepts": []
+    "concepts": ["bunny"]
   },
   {
     "cp": 5195,
@@ -772,7 +783,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель"],
-    "concepts": []
+    "concepts": ["bunny"]
   },
   {
     "cp": 5196,
@@ -782,7 +793,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "те"],
-    "concepts": []
+    "concepts": ["bunny", "square", "pi", "coffee", "trophy", "lucky"]
   },
   {
     "cp": 5197,
@@ -802,7 +813,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "ти"],
-    "concepts": []
+    "concepts": ["bunny", "ghost", "square", "pi", "lucky", "bell", "halloween"]
   },
   {
     "cp": 5199,
@@ -812,7 +823,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо"],
-    "concepts": []
+    "concepts": ["bunny"]
   },
   {
     "cp": 5200,
@@ -822,7 +833,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "к"],
-    "concepts": ["moon"]
+    "concepts": ["moon", "brackets"]
   },
   {
     "cp": 5201,
@@ -872,7 +883,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "та"],
-    "concepts": ["moon"]
+    "concepts": ["moon", "brackets"]
   },
   {
     "cp": 5206,
@@ -902,7 +913,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "запад", "кри", "тве"],
-    "concepts": []
+    "concepts": ["coffee"]
   },
   {
     "cp": 5209,
@@ -1042,7 +1053,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо"],
-    "concepts": []
+    "concepts": ["punctuation-fancy"]
   },
   {
     "cp": 5223,
@@ -1092,7 +1103,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "ке"],
-    "concepts": []
+    "concepts": ["thumbs-up"]
   },
   {
     "cp": 5228,
@@ -1112,7 +1123,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "ки"],
-    "concepts": []
+    "concepts": ["thumbs-up"]
   },
   {
     "cp": 5230,
@@ -1122,7 +1133,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо"],
-    "concepts": []
+    "concepts": ["thumbs-up"]
   },
   {
     "cp": 5231,
@@ -1132,7 +1143,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "ко"],
-    "concepts": []
+    "concepts": ["thumbs-up", "note"]
   },
   {
     "cp": 5232,
@@ -1142,7 +1153,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "ку"],
-    "concepts": []
+    "concepts": ["thumbs-up"]
   },
   {
     "cp": 5233,
@@ -1162,7 +1173,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "ка"],
-    "concepts": []
+    "concepts": ["thumbs-up", "note"]
   },
   {
     "cp": 5235,
@@ -1172,7 +1183,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "каа"],
-    "concepts": []
+    "concepts": ["note"]
   },
   {
     "cp": 5236,
@@ -1642,7 +1653,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "саиси", "th"],
-    "concepts": []
+    "concepts": ["note", "punctuation-fancy"]
   },
   {
     "cp": 5283,
@@ -1652,7 +1663,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "мне"],
-    "concepts": []
+    "concepts": ["square"]
   },
   {
     "cp": 5284,
@@ -1672,7 +1683,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "ми"],
-    "concepts": []
+    "concepts": ["square"]
   },
   {
     "cp": 5286,
@@ -1692,7 +1703,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "мо"],
-    "concepts": ["umbrella"]
+    "concepts": ["umbrella", "square"]
   },
   {
     "cp": 5288,
@@ -1722,7 +1733,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "ма"],
-    "concepts": []
+    "concepts": ["square", "question"]
   },
   {
     "cp": 5291,
@@ -1942,7 +1953,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "не"],
-    "concepts": []
+    "concepts": ["dog", "thumbs-up"]
   },
   {
     "cp": 5313,
@@ -1952,7 +1963,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо"],
-    "concepts": []
+    "concepts": ["accessibility"]
   },
   {
     "cp": 5314,
@@ -1962,7 +1973,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "ни"],
-    "concepts": []
+    "concepts": ["dog", "thumbs-up", "accessibility"]
   },
   {
     "cp": 5315,
@@ -2202,7 +2213,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "ла"],
-    "concepts": []
+    "concepts": ["cat", "lion"]
   },
   {
     "cp": 5339,
@@ -2382,7 +2393,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "срединный"],
-    "concepts": ["cloud"]
+    "concepts": ["snake", "lizard", "dragon"]
   },
   {
     "cp": 5357,
@@ -2402,7 +2413,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо"],
-    "concepts": []
+    "concepts": ["elephant"]
   },
   {
     "cp": 5359,
@@ -2752,7 +2763,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "ши"],
-    "concepts": []
+    "concepts": ["snake"]
   },
   {
     "cp": 5394,
@@ -2772,7 +2783,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "шо"],
-    "concepts": []
+    "concepts": ["snake"]
   },
   {
     "cp": 5396,
@@ -2792,7 +2803,20 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "ша"],
-    "concepts": ["infinity", "cloud", "wave"]
+    "concepts": [
+      "infinity",
+      "cloud",
+      "wave",
+      "fish",
+      "snake",
+      "lizard",
+      "elephant",
+      "dragon",
+      "wave-line",
+      "clef",
+      "money",
+      "dollar"
+    ]
   },
   {
     "cp": 5398,
@@ -2962,7 +2986,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "йе"],
-    "concepts": []
+    "concepts": ["duck"]
   },
   {
     "cp": 5415,
@@ -2972,7 +2996,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо"],
-    "concepts": []
+    "concepts": ["duck"]
   },
   {
     "cp": 5416,
@@ -2982,7 +3006,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "и (письмо и)"],
-    "concepts": []
+    "concepts": ["duck", "snake", "horse"]
   },
   {
     "cp": 5417,
@@ -2992,7 +3016,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо"],
-    "concepts": []
+    "concepts": ["duck", "horse"]
   },
   {
     "cp": 5418,
@@ -3002,7 +3026,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "йо"],
-    "concepts": []
+    "concepts": ["horse"]
   },
   {
     "cp": 5419,
@@ -3012,7 +3036,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "ёо"],
-    "concepts": []
+    "concepts": ["horse"]
   },
   {
     "cp": 5420,
@@ -3032,7 +3056,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "я"],
-    "concepts": []
+    "concepts": ["snake"]
   },
   {
     "cp": 5422,
@@ -3222,7 +3246,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "запад", "кри"],
-    "concepts": []
+    "concepts": ["punctuation-fancy"]
   },
   {
     "cp": 5441,
@@ -3232,7 +3256,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "саиси", "и (письмо и)"],
-    "concepts": []
+    "concepts": ["punctuation-fancy"]
   },
   {
     "cp": 5442,
@@ -3242,7 +3266,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "ре"],
-    "concepts": []
+    "concepts": ["punctuation-fancy"]
   },
   {
     "cp": 5443,
@@ -3382,7 +3406,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо"],
-    "concepts": []
+    "concepts": ["thumbs-up"]
   },
   {
     "cp": 5457,
@@ -3392,7 +3416,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "запад", "кри"],
-    "concepts": []
+    "concepts": ["thumbs-up"]
   },
   {
     "cp": 5458,
@@ -3432,7 +3456,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "фи"],
-    "concepts": ["spiral"]
+    "concepts": ["spiral", "arms-raised", "shrug"]
   },
   {
     "cp": 5462,
@@ -3452,7 +3476,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "фо"],
-    "concepts": ["spiral"]
+    "concepts": ["spiral", "hand", "fist", "arms-raised", "shrug"]
   },
   {
     "cp": 5464,
@@ -3472,7 +3496,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "фа"],
-    "concepts": []
+    "concepts": ["hand", "fist"]
   },
   {
     "cp": 5466,
@@ -3582,7 +3606,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "тхо"],
-    "concepts": []
+    "concepts": ["hand", "thumbs-up", "fist", "arms-raised"]
   },
   {
     "cp": 5477,
@@ -3602,7 +3626,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "тха"],
-    "concepts": []
+    "concepts": ["hand", "thumbs-up", "fist", "arms-raised"]
   },
   {
     "cp": 5479,
@@ -3652,7 +3676,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо"],
-    "concepts": []
+    "concepts": ["coffee"]
   },
   {
     "cp": 5484,
@@ -3672,7 +3696,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "ттхо"],
-    "concepts": []
+    "concepts": ["brackets"]
   },
   {
     "cp": 5486,
@@ -3682,7 +3706,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "ттха"],
-    "concepts": []
+    "concepts": ["euro", "brackets"]
   },
   {
     "cp": 5487,
@@ -3712,7 +3736,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо"],
-    "concepts": []
+    "concepts": ["thumbs-up"]
   },
   {
     "cp": 5490,
@@ -3792,7 +3816,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "нунавик", "ха"],
-    "concepts": []
+    "concepts": ["thumbs-up"]
   },
   {
     "cp": 5498,
@@ -3812,7 +3836,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "нунавик"],
-    "concepts": []
+    "concepts": ["thumbs-up"]
   },
   {
     "cp": 5500,
@@ -4342,7 +4366,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "черноногие"],
-    "concepts": []
+    "concepts": ["accessibility"]
   },
   {
     "cp": 5553,
@@ -4352,7 +4376,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "черноногие"],
-    "concepts": []
+    "concepts": ["note", "accessibility"]
   },
   {
     "cp": 5554,
@@ -4362,7 +4386,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "черноногие"],
-    "concepts": []
+    "concepts": ["note", "accessibility"]
   },
   {
     "cp": 5555,
@@ -4372,7 +4396,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "черноногие"],
-    "concepts": []
+    "concepts": ["note", "accessibility"]
   },
   {
     "cp": 5556,
@@ -4382,7 +4406,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "черноногие", "ве"],
-    "concepts": []
+    "concepts": ["note"]
   },
   {
     "cp": 5557,
@@ -4392,7 +4416,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "черноногие", "ви"],
-    "concepts": []
+    "concepts": ["note"]
   },
   {
     "cp": 5558,
@@ -4402,7 +4426,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "черноногие", "во"],
-    "concepts": []
+    "concepts": ["note"]
   },
   {
     "cp": 5559,
@@ -4412,7 +4436,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "черноногие", "ва"],
-    "concepts": []
+    "concepts": ["horse", "note"]
   },
   {
     "cp": 5560,
@@ -4422,7 +4446,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "черноногие", "не"],
-    "concepts": []
+    "concepts": ["note"]
   },
   {
     "cp": 5561,
@@ -4432,7 +4456,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "черноногие", "ни"],
-    "concepts": []
+    "concepts": ["note"]
   },
   {
     "cp": 5562,
@@ -4442,7 +4466,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "черноногие", "нет"],
-    "concepts": []
+    "concepts": ["note"]
   },
   {
     "cp": 5563,
@@ -4452,7 +4476,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "черноногие", "на"],
-    "concepts": []
+    "concepts": ["note"]
   },
   {
     "cp": 5564,
@@ -4682,7 +4706,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "ве"],
-    "concepts": []
+    "concepts": ["bow-arrow", "angry", "arrow", "arrow-right"]
   },
   {
     "cp": 5587,
@@ -4712,7 +4736,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "ва"],
-    "concepts": []
+    "concepts": ["bow-arrow", "angry", "arrow", "arrow-left"]
   },
   {
     "cp": 5590,
@@ -4782,7 +4806,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "тху"],
-    "concepts": []
+    "concepts": ["frog", "ghost", "smile", "face", "omega", "mouth", "halloween"]
   },
   {
     "cp": 5597,
@@ -4792,7 +4816,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "тхо"],
-    "concepts": ["rainbow"]
+    "concepts": ["rainbow", "turtle", "elephant", "ghost", "halloween"]
   },
   {
     "cp": 5598,
@@ -4842,7 +4866,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель"],
-    "concepts": []
+    "concepts": ["cat", "bird", "duck", "elephant", "lion", "face", "food"]
   },
   {
     "cp": 5603,
@@ -4852,7 +4876,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "тто"],
-    "concepts": ["cherry"]
+    "concepts": ["horse", "ghost", "face", "halloween"]
   },
   {
     "cp": 5604,
@@ -4862,7 +4886,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "тте"],
-    "concepts": []
+    "concepts": ["ghost"]
   },
   {
     "cp": 5605,
@@ -4872,7 +4896,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель"],
-    "concepts": []
+    "concepts": ["ghost"]
   },
   {
     "cp": 5606,
@@ -4882,7 +4906,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель"],
-    "concepts": []
+    "concepts": ["ghost"]
   },
   {
     "cp": 5607,
@@ -4902,7 +4926,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "пу"],
-    "concepts": []
+    "concepts": ["smile", "face"]
   },
   {
     "cp": 5609,
@@ -4952,7 +4976,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "па"],
-    "concepts": []
+    "concepts": ["horse"]
   },
   {
     "cp": 5614,
@@ -4972,7 +4996,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "гу"],
-    "concepts": []
+    "concepts": ["crown", "horse", "zigzag"]
   },
   {
     "cp": 5616,
@@ -4982,7 +5006,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "го"],
-    "concepts": ["night", "wave"]
+    "concepts": ["night", "wave", "crown", "zigzag"]
   },
   {
     "cp": 5617,
@@ -5212,7 +5236,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "на"],
-    "concepts": []
+    "concepts": ["dog", "elephant", "goat"]
   },
   {
     "cp": 5640,
@@ -5222,7 +5246,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "мю"],
-    "concepts": []
+    "concepts": ["elephant", "goat"]
   },
   {
     "cp": 5641,
@@ -5232,7 +5256,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "мо"],
-    "concepts": ["cloud"]
+    "concepts": ["elephant"]
   },
   {
     "cp": 5642,
@@ -5242,7 +5266,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "мне"],
-    "concepts": ["cloud"]
+    "concepts": ["elephant"]
   },
   {
     "cp": 5643,
@@ -5272,7 +5296,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "ма"],
-    "concepts": []
+    "concepts": ["elephant"]
   },
   {
     "cp": 5646,
@@ -5282,7 +5306,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "ю"],
-    "concepts": ["rainbow"]
+    "concepts": ["rainbow", "elephant", "omega"]
   },
   {
     "cp": 5647,
@@ -5292,7 +5316,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "йо"],
-    "concepts": ["wave", "spiral"]
+    "concepts": ["wave", "spiral", "cat", "dog", "bunny", "bird", "duck", "horse", "lion"]
   },
   {
     "cp": 5648,
@@ -5302,7 +5326,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "йе"],
-    "concepts": ["cloud", "spiral"]
+    "concepts": ["cloud", "spiral", "goat"]
   },
   {
     "cp": 5649,
@@ -5332,7 +5356,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "я"],
-    "concepts": ["moon", "cloud", "spiral"]
+    "concepts": ["moon", "cloud", "spiral", "snake", "goat", "dragon"]
   },
   {
     "cp": 5652,
@@ -5342,7 +5366,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "джу"],
-    "concepts": ["night", "sleep", "spiral"]
+    "concepts": ["night", "sleep", "spiral", "snake", "dragon"]
   },
   {
     "cp": 5653,
@@ -5402,7 +5426,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "саиси", "джи"],
-    "concepts": []
+    "concepts": ["mouse", "lizard", "elephant", "dragon", "devil"]
   },
   {
     "cp": 5659,
@@ -5412,7 +5436,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "джа"],
-    "concepts": []
+    "concepts": ["mouse", "lizard", "cow", "elephant", "goat", "dragon", "devil"]
   },
   {
     "cp": 5660,
@@ -5422,7 +5446,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель"],
-    "concepts": []
+    "concepts": ["mouse", "cow", "goat"]
   },
   {
     "cp": 5661,
@@ -5432,7 +5456,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель"],
-    "concepts": []
+    "concepts": ["mouse"]
   },
   {
     "cp": 5662,
@@ -5792,7 +5816,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "зо"],
-    "concepts": []
+    "concepts": ["rook", "castle"]
   },
   {
     "cp": 5698,
@@ -5802,7 +5826,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "зе"],
-    "concepts": []
+    "concepts": ["rook", "castle"]
   },
   {
     "cp": 5699,
@@ -5812,7 +5836,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "зии"],
-    "concepts": []
+    "concepts": ["rook", "castle"]
   },
   {
     "cp": 5700,
@@ -6112,7 +6136,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "чу"],
-    "concepts": []
+    "concepts": ["crown"]
   },
   {
     "cp": 5730,
@@ -6122,7 +6146,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["канадский", "слоговое письмо", "носитель", "чо"],
-    "concepts": []
+    "concepts": ["crown", "zigzag"]
   },
   {
     "cp": 5731,

@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["монгольский", "многоточие"],
-    "concepts": []
+    "concepts": ["ellipsis"]
   },
   {
     "cp": 6146,
@@ -147,7 +147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["монгольский", "гласная", "разделитель"],
-    "concepts": []
+    "concepts": ["invisible"]
   },
   {
     "cp": 6159,
@@ -167,7 +167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["монгольский", "цифра", "ноль"],
-    "concepts": []
+    "concepts": ["circle"]
   },
   {
     "cp": 6161,
@@ -447,7 +447,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["монгольский", "буква", "та"],
-    "concepts": []
+    "concepts": ["question"]
   },
   {
     "cp": 6195,

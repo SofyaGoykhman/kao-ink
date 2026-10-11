@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "пустой (пробел)"],
-    "concepts": []
+    "concepts": ["braille", "invisible"]
   },
   {
     "cp": 10241,
@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["dot", "braille"]
   },
   {
     "cp": 10242,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["dot", "braille"]
   },
   {
     "cp": 10243,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10244,
@@ -47,7 +47,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["dot", "braille"]
   },
   {
     "cp": 10245,
@@ -57,7 +57,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10246,
@@ -67,7 +67,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10247,
@@ -77,7 +77,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10248,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["dot", "braille"]
   },
   {
     "cp": 10249,
@@ -97,7 +97,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block", "braille"]
   },
   {
     "cp": 10250,
@@ -107,7 +107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10251,
@@ -117,7 +117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10252,
@@ -127,7 +127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10253,
@@ -137,7 +137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10254,
@@ -147,7 +147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10255,
@@ -157,7 +157,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10256,
@@ -167,7 +167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["dot", "braille"]
   },
   {
     "cp": 10257,
@@ -177,7 +177,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10258,
@@ -187,7 +187,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block", "braille", "ellipsis"]
   },
   {
     "cp": 10259,
@@ -197,7 +197,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10260,
@@ -207,7 +207,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10261,
@@ -217,7 +217,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10262,
@@ -227,7 +227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10263,
@@ -237,7 +237,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10264,
@@ -247,7 +247,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10265,
@@ -257,7 +257,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10266,
@@ -267,7 +267,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10267,
@@ -277,7 +277,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block", "braille"]
   },
   {
     "cp": 10268,
@@ -287,7 +287,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10269,
@@ -297,7 +297,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10270,
@@ -307,7 +307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10271,
@@ -317,7 +317,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10272,
@@ -327,7 +327,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["dot", "braille"]
   },
   {
     "cp": 10273,
@@ -337,7 +337,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10274,
@@ -347,7 +347,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10275,
@@ -357,7 +357,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10276,
@@ -367,7 +367,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block", "braille", "ellipsis"]
   },
   {
     "cp": 10277,
@@ -377,7 +377,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10278,
@@ -387,7 +387,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10279,
@@ -397,7 +397,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10280,
@@ -407,7 +407,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10281,
@@ -417,7 +417,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10282,
@@ -427,7 +427,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10283,
@@ -437,7 +437,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10284,
@@ -447,7 +447,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10285,
@@ -457,7 +457,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10286,
@@ -467,7 +467,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10287,
@@ -477,7 +477,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10288,
@@ -487,7 +487,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10289,
@@ -497,7 +497,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10290,
@@ -507,7 +507,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10291,
@@ -517,7 +517,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10292,
@@ -527,7 +527,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10293,
@@ -537,7 +537,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10294,
@@ -547,7 +547,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10295,
@@ -557,7 +557,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10296,
@@ -567,7 +567,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10297,
@@ -577,7 +577,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10298,
@@ -587,7 +587,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10299,
@@ -597,7 +597,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10300,
@@ -607,7 +607,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10301,
@@ -617,7 +617,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10302,
@@ -627,7 +627,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 10303,
@@ -637,7 +637,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["paw", "dot", "block", "braille", "dice", "ellipsis", "accessibility"]
   },
   {
     "cp": 10304,
@@ -647,7 +647,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["dot", "braille"]
   },
   {
     "cp": 10305,
@@ -687,7 +687,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 10309,
@@ -717,7 +717,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 10312,
@@ -1197,7 +1197,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["paw"]
   },
   {
     "cp": 10360,
@@ -1277,7 +1277,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block", "braille"]
   },
   {
     "cp": 10368,
@@ -1287,7 +1287,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["dot", "braille"]
   },
   {
     "cp": 10369,
@@ -1607,7 +1607,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 10401,
@@ -1847,7 +1847,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 10425,
@@ -1907,7 +1907,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["paw"]
   },
   {
     "cp": 10431,
@@ -1917,7 +1917,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block", "braille"]
   },
   {
     "cp": 10432,
@@ -1927,7 +1927,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block", "braille"]
   },
   {
     "cp": 10433,
@@ -1987,7 +1987,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 10439,
@@ -2237,7 +2237,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 10464,
@@ -2287,7 +2287,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block", "braille"]
   },
   {
     "cp": 10469,
@@ -2307,7 +2307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["paw"]
   },
   {
     "cp": 10471,
@@ -2317,7 +2317,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 10472,
@@ -2397,7 +2397,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 10480,
@@ -2407,7 +2407,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 10481,
@@ -2447,7 +2447,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["paw"]
   },
   {
     "cp": 10485,
@@ -2467,7 +2467,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["paw", "block", "braille"]
   },
   {
     "cp": 10487,
@@ -2477,7 +2477,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block", "braille"]
   },
   {
     "cp": 10488,
@@ -2517,7 +2517,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 10492,
@@ -2527,7 +2527,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 10493,
@@ -2537,7 +2537,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block"]
   },
   {
     "cp": 10494,
@@ -2547,7 +2547,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["block", "braille"]
   },
   {
     "cp": 10495,
@@ -2557,6 +2557,6 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шрифт Брайля", "узор", "точки"],
-    "concepts": []
+    "concepts": ["paw", "dot", "block", "braille", "dice"]
   }
 ]

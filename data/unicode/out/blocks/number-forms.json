@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["простая", "дробь", "один", "седьмая"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 8529,
@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["простая", "дробь", "один", "девятая"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 8530,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["простая", "дробь", "один", "десятая"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 8531,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["простая", "дробь", "один", "третий (треть)"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 8532,
@@ -47,7 +47,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["простая", "дробь", "два", "трети"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 8533,
@@ -57,7 +57,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["простая", "дробь", "один", "пятая"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 8534,
@@ -67,7 +67,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["простая", "дробь", "два", "пятые"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 8535,
@@ -77,7 +77,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["простая", "дробь", "три", "пятые"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 8536,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["простая", "дробь", "четыре", "пятые"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 8537,
@@ -97,7 +97,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["простая", "дробь", "один", "шестая"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 8538,
@@ -107,7 +107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["простая", "дробь", "пять", "шестые"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 8539,
@@ -117,7 +117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["простая", "дробь", "один", "восьмая"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 8540,
@@ -127,7 +127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["простая", "дробь", "три", "восьмые"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 8541,
@@ -137,7 +137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["простая", "дробь", "пять", "восьмые"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 8542,
@@ -147,7 +147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["простая", "дробь", "семь", "восьмые"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 8543,
@@ -157,7 +157,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["дробь", "числитель", "один"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 8544,
@@ -167,7 +167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "один"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8545,
@@ -177,7 +177,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "два"],
-    "concepts": []
+    "concepts": ["roman-numerals", "zodiac", "gemini"]
   },
   {
     "cp": 8546,
@@ -187,7 +187,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "три"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8547,
@@ -197,7 +197,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "четыре"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8548,
@@ -207,7 +207,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "пять"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8549,
@@ -217,7 +217,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "шесть"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8550,
@@ -227,7 +227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "семь"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8551,
@@ -237,7 +237,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "восемь"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8552,
@@ -247,7 +247,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "девять"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8553,
@@ -257,7 +257,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "десять"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8554,
@@ -267,7 +267,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "одиннадцать"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8555,
@@ -277,7 +277,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "двенадцать"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8556,
@@ -287,7 +287,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "пятьдесят"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8557,
@@ -297,7 +297,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "один", "сто"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8558,
@@ -307,7 +307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "пять", "сто"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8559,
@@ -317,7 +317,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "один", "тысяча"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8560,
@@ -327,7 +327,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["маленький (строчный)", "римский", "цифра (число)", "один"],
-    "concepts": []
+    "concepts": ["roman-numerals", "information"]
   },
   {
     "cp": 8561,
@@ -337,7 +337,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["маленький (строчный)", "римский", "цифра (число)", "два"],
-    "concepts": []
+    "concepts": ["roman-numerals", "gemini"]
   },
   {
     "cp": 8562,
@@ -347,7 +347,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["маленький (строчный)", "римский", "цифра (число)", "три"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8563,
@@ -357,7 +357,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["маленький (строчный)", "римский", "цифра (число)", "четыре"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8564,
@@ -367,7 +367,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["маленький (строчный)", "римский", "цифра (число)", "пять"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8565,
@@ -377,7 +377,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["маленький (строчный)", "римский", "цифра (число)", "шесть"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8566,
@@ -387,7 +387,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["маленький (строчный)", "римский", "цифра (число)", "семь"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8567,
@@ -397,7 +397,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["маленький (строчный)", "римский", "цифра (число)", "восемь"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8568,
@@ -407,7 +407,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["маленький (строчный)", "римский", "цифра (число)", "девять"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8569,
@@ -417,7 +417,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["маленький (строчный)", "римский", "цифра (число)", "десять"],
-    "concepts": []
+    "concepts": ["math", "roman-numerals"]
   },
   {
     "cp": 8570,
@@ -427,7 +427,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["маленький (строчный)", "римский", "цифра (число)", "одиннадцать"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8571,
@@ -437,7 +437,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["маленький (строчный)", "римский", "цифра (число)", "двенадцать"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8572,
@@ -447,7 +447,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["маленький (строчный)", "римский", "цифра (число)", "пятьдесят"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8573,
@@ -457,7 +457,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["маленький (строчный)", "римский", "цифра (число)", "один", "сто"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8574,
@@ -467,7 +467,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["маленький (строчный)", "римский", "цифра (число)", "пять", "сто"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8575,
@@ -477,7 +477,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["маленький (строчный)", "римский", "цифра (число)", "один", "тысяча"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8576,
@@ -487,7 +487,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "один", "тысяча"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8577,
@@ -497,7 +497,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "пять", "тысяча"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8578,
@@ -507,7 +507,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "десять", "тысяча"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8579,
@@ -517,7 +517,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "зеркальный (обратный)", "один", "сто"],
-    "concepts": ["moon"]
+    "concepts": ["moon", "roman-numerals", "font-upside-down"]
   },
   {
     "cp": 8580,
@@ -527,7 +527,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "маленький (строчный)", "буква", "зеркальный (обратный)"],
-    "concepts": ["moon"]
+    "concepts": ["moon", "roman-numerals", "font-upside-down"]
   },
   {
     "cp": 8581,
@@ -537,7 +537,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "шесть", "поздний", "форма"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8582,
@@ -547,7 +547,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "пятьдесят", "ранний", "форма"],
-    "concepts": []
+    "concepts": ["bow-arrow", "roman-numerals"]
   },
   {
     "cp": 8583,
@@ -557,7 +557,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "пятьдесят", "тысяча"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8584,
@@ -567,7 +567,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["римский", "цифра (число)", "один", "сто", "тысяча"],
-    "concepts": []
+    "concepts": ["roman-numerals"]
   },
   {
     "cp": 8585,
@@ -577,7 +577,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["простая", "дробь", "ноль", "трети"],
-    "concepts": []
+    "concepts": ["fraction"]
   },
   {
     "cp": 8586,

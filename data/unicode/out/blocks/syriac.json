@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["сирийский", "надстрочный", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["dot", "ellipsis"]
   },
   {
     "cp": 1794,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["сирийский", "подстрочный", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["dot", "ellipsis"]
   },
   {
     "cp": 1795,

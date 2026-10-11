@@ -717,7 +717,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["бенгальский", "цифра", "ноль"],
-    "concepts": []
+    "concepts": ["circle"]
   },
   {
     "cp": 2535,
@@ -747,7 +747,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["бенгальский", "цифра", "три"],
-    "concepts": ["heart"]
+    "concepts": ["heart", "valentine"]
   },
   {
     "cp": 2538,
@@ -837,7 +837,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["бенгальский", "рупия", "метка (знак)"],
-    "concepts": []
+    "concepts": ["money"]
   },
   {
     "cp": 2547,
@@ -847,7 +847,7 @@
     "en": "Bangladeshi Taka",
     "keywords": { "ru": [], "en": [] },
     "desc": ["бенгальский", "рупия", "знак"],
-    "concepts": ["fruit"]
+    "concepts": ["money"]
   },
   {
     "cp": 2548,

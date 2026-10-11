@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["треугольник", "с", "скруглённый", "углы"],
-    "concepts": []
+    "concepts": ["triangle"]
   },
   {
     "cp": 128711,
@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["запрещено", "знак"],
-    "concepts": []
+    "concepts": ["warning", "prohibited"]
   },
   {
     "cp": 128712,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "информация", "источник"],
-    "concepts": []
+    "concepts": ["shield", "information"]
   },
   {
     "cp": 128713,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["мальчики", "символ"],
-    "concepts": ["male"]
+    "concepts": ["male", "toilet"]
   },
   {
     "cp": 128714,
@@ -47,7 +47,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["девочки", "символ"],
-    "concepts": ["female"]
+    "concepts": ["female", "toilet"]
   },
   {
     "cp": 128723,
@@ -57,7 +57,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ступа"],
-    "concepts": []
+    "concepts": ["religion", "om"]
   },
   {
     "cp": 128724,
@@ -67,7 +67,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["пагода"],
-    "concepts": []
+    "concepts": ["religion", "om"]
   },
   {
     "cp": 128742,
@@ -77,7 +77,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["вверх", "указывающий", "военный", "самолёт"],
-    "concepts": []
+    "concepts": ["weapon", "transport", "airplane"]
   },
   {
     "cp": 128743,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["вверх", "указывающий", "самолёт"],
-    "concepts": []
+    "concepts": ["transport", "airplane"]
   },
   {
     "cp": 128744,
@@ -97,7 +97,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["вверх", "указывающий", "маленький (строчный)", "самолёт"],
-    "concepts": []
+    "concepts": ["transport", "airplane"]
   },
   {
     "cp": 128746,
@@ -107,7 +107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["северо-восток", "указывающий", "самолёт"],
-    "concepts": []
+    "concepts": ["transport", "airplane"]
   },
   {
     "cp": 128753,
@@ -117,7 +117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["встречный", "огонь", "машина (двигатель)"],
-    "concepts": []
+    "concepts": ["transport"]
   },
   {
     "cp": 128754,
@@ -127,6 +127,6 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["дизельный", "паровоз"],
-    "concepts": []
+    "concepts": ["transport"]
   }
 ]

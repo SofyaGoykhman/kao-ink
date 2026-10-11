@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["представление", "форма", "для", "вертикальный", "два", "точка", "отточие"],
-    "concepts": []
+    "concepts": ["ellipsis"]
   },
   {
     "cp": 65073,
@@ -57,7 +57,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["представление", "форма", "для", "вертикальный", "левый (влево)", "круглая скобка"],
-    "concepts": []
+    "concepts": ["sad", "wink", "brackets", "frame-nick", "ornament-nick", "divider", "table-flip"]
   },
   {
     "cp": 65078,
@@ -67,7 +67,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["представление", "форма", "для", "вертикальный", "правый (вправо)", "круглая скобка"],
-    "concepts": []
+    "concepts": ["wink", "shy", "brackets", "frame-nick", "ornament-nick", "divider"]
   },
   {
     "cp": 65079,
@@ -85,7 +85,7 @@
       "фигурный",
       "скобка"
     ],
-    "concepts": []
+    "concepts": ["brackets"]
   },
   {
     "cp": 65080,
@@ -103,7 +103,7 @@
       "фигурный",
       "скобка"
     ],
-    "concepts": []
+    "concepts": ["brackets"]
   },
   {
     "cp": 65081,
@@ -122,7 +122,7 @@
       "ракушка (оболочка)",
       "скобка"
     ],
-    "concepts": []
+    "concepts": ["brackets"]
   },
   {
     "cp": 65082,
@@ -141,7 +141,7 @@
       "ракушка (оболочка)",
       "скобка"
     ],
-    "concepts": []
+    "concepts": ["brackets"]
   },
   {
     "cp": 65083,
@@ -160,7 +160,7 @@
       "линзовидная (скобка)",
       "скобка"
     ],
-    "concepts": []
+    "concepts": ["weapon", "gun", "brackets"]
   },
   {
     "cp": 65084,
@@ -179,7 +179,7 @@
       "линзовидная (скобка)",
       "скобка"
     ],
-    "concepts": []
+    "concepts": ["weapon", "gun", "brackets"]
   },
   {
     "cp": 65085,
@@ -198,7 +198,7 @@
       "угол",
       "скобка"
     ],
-    "concepts": []
+    "concepts": ["brackets"]
   },
   {
     "cp": 65086,
@@ -217,7 +217,7 @@
       "угол",
       "скобка"
     ],
-    "concepts": []
+    "concepts": ["brackets"]
   },
   {
     "cp": 65087,
@@ -227,7 +227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["представление", "форма", "для", "вертикальный", "левый (влево)", "угол", "скобка"],
-    "concepts": []
+    "concepts": ["shrug", "sad", "brackets", "mouth"]
   },
   {
     "cp": 65088,
@@ -237,7 +237,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["представление", "форма", "для", "вертикальный", "правый (вправо)", "угол", "скобка"],
-    "concepts": []
+    "concepts": ["shrug", "wink", "brackets", "mouth"]
   },
   {
     "cp": 65089,
@@ -255,7 +255,7 @@
       "угол (уголок)",
       "скобка"
     ],
-    "concepts": []
+    "concepts": ["brackets", "border"]
   },
   {
     "cp": 65090,
@@ -273,7 +273,7 @@
       "угол (уголок)",
       "скобка"
     ],
-    "concepts": []
+    "concepts": ["brackets", "border"]
   },
   {
     "cp": 65091,
@@ -292,7 +292,7 @@
       "угол (уголок)",
       "скобка"
     ],
-    "concepts": []
+    "concepts": ["shrug", "brackets", "border", "mouth"]
   },
   {
     "cp": 65092,
@@ -311,7 +311,7 @@
       "угол (уголок)",
       "скобка"
     ],
-    "concepts": []
+    "concepts": ["shrug", "brackets", "border"]
   },
   {
     "cp": 65093,
@@ -341,7 +341,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["представление", "форма", "для", "вертикальный", "левый (влево)", "квадрат", "скобка"],
-    "concepts": []
+    "concepts": ["brackets"]
   },
   {
     "cp": 65096,
@@ -359,7 +359,7 @@
       "квадрат",
       "скобка"
     ],
-    "concepts": []
+    "concepts": ["brackets"]
   },
   {
     "cp": 65097,
@@ -389,7 +389,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["волнистый", "надчёркивание"],
-    "concepts": ["water", "wave"]
+    "concepts": ["water", "wave", "wave-line", "divider"]
   },
   {
     "cp": 65100,
@@ -399,7 +399,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "волнистый", "надчёркивание"],
-    "concepts": ["water", "wave"]
+    "concepts": ["water", "wave", "wave-line", "divider"]
   },
   {
     "cp": 65101,
@@ -429,6 +429,16 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["волнистый", "низкий", "линия"],
-    "concepts": ["water", "wave"]
+    "concepts": [
+      "water",
+      "wave",
+      "sad",
+      "face",
+      "shy",
+      "wave-line",
+      "ornament-nick",
+      "divider",
+      "mouth"
+    ]
   }
 ]

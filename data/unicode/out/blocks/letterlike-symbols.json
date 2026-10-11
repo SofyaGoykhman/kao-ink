@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["счёт", "из"],
-    "concepts": []
+    "concepts": ["percent", "copyright", "numero"]
   },
   {
     "cp": 8449,
@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["адресовано", "к", "субъект"],
-    "concepts": []
+    "concepts": ["copyright", "numero"]
   },
   {
     "cp": 8450,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "ажурный (двойной штрих)", "заглавный"],
-    "concepts": ["moon"]
+    "concepts": ["moon", "math", "font-double-struck"]
   },
   {
     "cp": 8451,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["градус", "Цельсия"],
-    "concepts": ["thermometer"]
+    "concepts": ["thermometer", "degree"]
   },
   {
     "cp": 8452,
@@ -57,7 +57,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["для передачи (c/o)", "из"],
-    "concepts": []
+    "concepts": ["percent", "copyright", "numero"]
   },
   {
     "cp": 8454,
@@ -67,7 +67,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["каждый (cada)", "одна (una)"],
-    "concepts": []
+    "concepts": ["percent", "copyright", "numero"]
   },
   {
     "cp": 8455,
@@ -77,7 +77,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["Эйлера", "постоянная"],
-    "concepts": []
+    "concepts": ["euro", "sum-integral"]
   },
   {
     "cp": 8456,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["скрупул"],
-    "concepts": []
+    "concepts": ["numero"]
   },
   {
     "cp": 8457,
@@ -97,7 +97,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["градус", "Фаренгейта"],
-    "concepts": ["thermometer"]
+    "concepts": ["thermometer", "degree"]
   },
   {
     "cp": 8458,
@@ -107,7 +107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рукописный", "маленький (строчный)"],
-    "concepts": []
+    "concepts": ["font-script"]
   },
   {
     "cp": 8459,
@@ -117,7 +117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рукописный", "заглавный"],
-    "concepts": []
+    "concepts": ["font-script"]
   },
   {
     "cp": 8460,
@@ -127,7 +127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["чёрный (закрашенный)", "буква", "заглавный"],
-    "concepts": []
+    "concepts": ["font-gothic"]
   },
   {
     "cp": 8461,
@@ -137,7 +137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "ажурный (двойной штрих)", "заглавный"],
-    "concepts": []
+    "concepts": ["font-double-struck"]
   },
   {
     "cp": 8462,
@@ -167,7 +167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рукописный", "заглавный"],
-    "concepts": []
+    "concepts": ["music", "font-script"]
   },
   {
     "cp": 8465,
@@ -177,7 +177,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["чёрный (закрашенный)", "буква", "заглавный"],
-    "concepts": []
+    "concepts": ["font-gothic"]
   },
   {
     "cp": 8466,
@@ -187,7 +187,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рукописный", "заглавный"],
-    "concepts": []
+    "concepts": ["font-script"]
   },
   {
     "cp": 8467,
@@ -197,7 +197,17 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рукописный", "маленький (строчный)"],
-    "concepts": ["leaf", "spiral"]
+    "concepts": [
+      "leaf",
+      "spiral",
+      "writing",
+      "line",
+      "music",
+      "note",
+      "clef",
+      "numero",
+      "font-script"
+    ]
   },
   {
     "cp": 8468,
@@ -207,7 +217,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["черта", "символ"],
-    "concepts": []
+    "concepts": ["numero"]
   },
   {
     "cp": 8469,
@@ -217,7 +227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "ажурный (двойной штрих)", "заглавный"],
-    "concepts": []
+    "concepts": ["math", "font-double-struck"]
   },
   {
     "cp": 8470,
@@ -227,7 +237,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["номер (№)", "знак"],
-    "concepts": []
+    "concepts": ["punctuation-fancy", "numero"]
   },
   {
     "cp": 8471,
@@ -247,7 +257,7 @@
       "en": ["copyright", "recording", "sound"]
     },
     "desc": ["звук", "звукозапись", "копирайт (авторское право)"],
-    "concepts": []
+    "concepts": ["ruble", "copyright"]
   },
   {
     "cp": 8472,
@@ -257,7 +267,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рукописный", "заглавный"],
-    "concepts": []
+    "concepts": ["sets-logic", "font-script"]
   },
   {
     "cp": 8473,
@@ -267,7 +277,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "ажурный (двойной штрих)", "заглавный"],
-    "concepts": []
+    "concepts": ["ruble", "font-double-struck"]
   },
   {
     "cp": 8474,
@@ -277,7 +287,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "ажурный (двойной штрих)", "заглавный"],
-    "concepts": []
+    "concepts": ["math", "font-double-struck"]
   },
   {
     "cp": 8475,
@@ -287,7 +297,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рукописный", "заглавный"],
-    "concepts": []
+    "concepts": ["font-script"]
   },
   {
     "cp": 8476,
@@ -297,7 +307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["чёрный (закрашенный)", "буква", "заглавный"],
-    "concepts": []
+    "concepts": ["font-gothic"]
   },
   {
     "cp": 8477,
@@ -307,7 +317,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "ажурный (двойной штрих)", "заглавный"],
-    "concepts": []
+    "concepts": ["math", "font-double-struck"]
   },
   {
     "cp": 8478,
@@ -317,7 +327,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рецепт", "принимать"],
-    "concepts": []
+    "concepts": ["numero", "medical"]
   },
   {
     "cp": 8479,
@@ -327,7 +337,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ответ"],
-    "concepts": []
+    "concepts": ["numero"]
   },
   {
     "cp": 8480,
@@ -337,7 +347,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["сервисный", "метка (знак)"],
-    "concepts": []
+    "concepts": ["copyright"]
   },
   {
     "cp": 8481,
@@ -347,7 +357,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["телефон", "знак"],
-    "concepts": []
+    "concepts": ["copyright", "numero", "phone"]
   },
   {
     "cp": 8482,
@@ -360,7 +370,7 @@
       "en": ["mark", "TM", "trade", "trademark"]
     },
     "desc": ["торговый", "метка (знак)", "знак"],
-    "concepts": []
+    "concepts": ["copyright"]
   },
   {
     "cp": 8483,
@@ -370,7 +380,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["версикул"],
-    "concepts": []
+    "concepts": ["numero"]
   },
   {
     "cp": 8484,
@@ -380,7 +390,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "ажурный (двойной штрих)", "заглавный"],
-    "concepts": ["night", "sleep"]
+    "concepts": ["night", "sleep", "math", "font-double-struck"]
   },
   {
     "cp": 8485,
@@ -390,7 +400,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["унция", "знак"],
-    "concepts": []
+    "concepts": ["numero"]
   },
   {
     "cp": 8486,
@@ -410,7 +420,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["перевёрнутый", "ом", "знак"],
-    "concepts": []
+    "concepts": ["devil", "greek", "omega"]
   },
   {
     "cp": 8488,
@@ -420,7 +430,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["чёрный (закрашенный)", "буква", "заглавный"],
-    "concepts": ["lightning"]
+    "concepts": ["lightning", "font-gothic"]
   },
   {
     "cp": 8489,
@@ -460,7 +470,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рукописный", "заглавный"],
-    "concepts": []
+    "concepts": ["font-script"]
   },
   {
     "cp": 8493,
@@ -470,7 +480,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["чёрный (закрашенный)", "буква", "заглавный"],
-    "concepts": []
+    "concepts": ["font-gothic"]
   },
   {
     "cp": 8494,
@@ -490,7 +500,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рукописный", "маленький (строчный)"],
-    "concepts": []
+    "concepts": ["math", "font-script"]
   },
   {
     "cp": 8496,
@@ -500,7 +510,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рукописный", "заглавный"],
-    "concepts": ["snowman"]
+    "concepts": ["snowman", "clef", "sum-integral", "ampersand", "font-script"]
   },
   {
     "cp": 8497,
@@ -510,7 +520,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рукописный", "заглавный"],
-    "concepts": []
+    "concepts": ["font-script"]
   },
   {
     "cp": 8498,
@@ -520,7 +530,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["перевёрнутый", "заглавный"],
-    "concepts": []
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 8499,
@@ -530,7 +540,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рукописный", "заглавный"],
-    "concepts": []
+    "concepts": ["font-script"]
   },
   {
     "cp": 8500,
@@ -540,7 +550,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рукописный", "маленький (строчный)"],
-    "concepts": []
+    "concepts": ["font-script"]
   },
   {
     "cp": 8501,
@@ -550,7 +560,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["алеф", "символ"],
-    "concepts": []
+    "concepts": ["math", "infinity-math", "sets-logic", "alpha", "judaism"]
   },
   {
     "cp": 8502,
@@ -560,7 +570,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["бет", "символ"],
-    "concepts": []
+    "concepts": ["infinity-math", "judaism"]
   },
   {
     "cp": 8503,
@@ -570,7 +580,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гимель", "символ"],
-    "concepts": []
+    "concepts": ["infinity-math", "judaism"]
   },
   {
     "cp": 8504,
@@ -580,7 +590,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["далет", "символ"],
-    "concepts": []
+    "concepts": ["infinity-math", "judaism"]
   },
   {
     "cp": 8505,
@@ -602,7 +612,7 @@
       "en": ["I", "information"]
     },
     "desc": ["информация", "источник"],
-    "concepts": []
+    "concepts": ["information"]
   },
   {
     "cp": 8506,
@@ -622,7 +632,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["факсимиле", "знак"],
-    "concepts": []
+    "concepts": ["copyright", "numero"]
   },
   {
     "cp": 8508,
@@ -632,7 +642,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "ажурный (двойной штрих)", "маленький (строчный)", "пи"],
-    "concepts": []
+    "concepts": ["pi"]
   },
   {
     "cp": 8509,
@@ -662,7 +672,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "ажурный (двойной штрих)", "заглавный", "пи"],
-    "concepts": []
+    "concepts": ["pi"]
   },
   {
     "cp": 8512,
@@ -672,7 +682,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "ажурный (двойной штрих)", "арный", "сумма"],
-    "concepts": []
+    "concepts": ["math", "sum-integral"]
   },
   {
     "cp": 8513,
@@ -682,7 +692,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["перевёрнутый", "без засечек", "засечки", "заглавный"],
-    "concepts": []
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 8514,
@@ -692,7 +702,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["перевёрнутый", "без засечек", "засечки", "заглавный"],
-    "concepts": []
+    "concepts": ["corner", "font-upside-down"]
   },
   {
     "cp": 8515,
@@ -702,7 +712,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["зеркальный (обратный)", "без засечек", "засечки", "заглавный"],
-    "concepts": []
+    "concepts": ["corner"]
   },
   {
     "cp": 8516,
@@ -712,7 +722,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["перевёрнутый", "без засечек", "засечки", "заглавный"],
-    "concepts": []
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 8517,
@@ -742,7 +752,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "ажурный (двойной штрих)", "курсив", "маленький (строчный)"],
-    "concepts": []
+    "concepts": ["math"]
   },
   {
     "cp": 8520,
@@ -752,7 +762,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "ажурный (двойной штрих)", "курсив", "маленький (строчный)"],
-    "concepts": []
+    "concepts": ["math", "information"]
   },
   {
     "cp": 8521,
@@ -762,7 +772,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "ажурный (двойной штрих)", "курсив", "маленький (строчный)"],
-    "concepts": []
+    "concepts": ["math"]
   },
   {
     "cp": 8522,
@@ -782,7 +792,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["перевёрнутый", "амперсанд (&)"],
-    "concepts": []
+    "concepts": ["ampersand", "font-upside-down", "scissors"]
   },
   {
     "cp": 8524,
@@ -802,7 +812,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["акционерное общество"],
-    "concepts": []
+    "concepts": ["percent", "copyright", "numero"]
   },
   {
     "cp": 8526,

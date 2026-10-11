@@ -127,7 +127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["современный", "пятиборье"],
-    "concepts": []
+    "concepts": ["sport"]
   },
   {
     "cp": 129350,
@@ -137,6 +137,6 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["винтовка"],
-    "concepts": []
+    "concepts": ["weapon", "gun"]
   }
 ]

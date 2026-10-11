@@ -149,7 +149,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "вопрос", "метка (знак)"],
-    "concepts": []
+    "concepts": ["question"]
   },
   {
     "cp": 895,
@@ -288,7 +288,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "альфа"],
-    "concepts": []
+    "concepts": ["greek", "alpha"]
   },
   {
     "cp": 914,
@@ -298,7 +298,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "бета"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 915,
@@ -308,7 +308,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "гамма"],
-    "concepts": []
+    "concepts": ["corner", "greek"]
   },
   {
     "cp": 916,
@@ -318,7 +318,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "дельта"],
-    "concepts": []
+    "concepts": ["triangle", "greek"]
   },
   {
     "cp": 917,
@@ -328,7 +328,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "эпсилон"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 918,
@@ -338,7 +338,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "дзета"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 919,
@@ -348,7 +348,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "эта"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 920,
@@ -358,7 +358,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "тета"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 921,
@@ -368,7 +368,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "йота"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 922,
@@ -378,7 +378,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "каппа"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 923,
@@ -388,7 +388,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "лямбда"],
-    "concepts": ["mountain"]
+    "concepts": ["mountain", "triangle", "greek"]
   },
   {
     "cp": 924,
@@ -398,7 +398,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "мю"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 925,
@@ -408,7 +408,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "ню"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 926,
@@ -418,7 +418,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "кси"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 927,
@@ -428,7 +428,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "омикрон"],
-    "concepts": []
+    "concepts": ["circle", "greek"]
   },
   {
     "cp": 928,
@@ -438,7 +438,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "пи"],
-    "concepts": []
+    "concepts": ["pi", "greek", "gemini"]
   },
   {
     "cp": 929,
@@ -448,7 +448,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "ро"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 931,
@@ -458,7 +458,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "сигма"],
-    "concepts": []
+    "concepts": ["sum-integral", "greek"]
   },
   {
     "cp": 932,
@@ -468,7 +468,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "тау"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 933,
@@ -478,7 +478,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "ипсилон"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 934,
@@ -488,7 +488,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "фи"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 935,
@@ -498,7 +498,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "хи"],
-    "concepts": []
+    "concepts": ["cross-mark", "greek"]
   },
   {
     "cp": 936,
@@ -508,7 +508,21 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "пси"],
-    "concepts": ["tulip", "lily", "plant", "cactus"]
+    "concepts": [
+      "tulip",
+      "lily",
+      "plant",
+      "cactus",
+      "crown",
+      "hand",
+      "devil",
+      "peace",
+      "anchor",
+      "food",
+      "greek",
+      "runes",
+      "halloween"
+    ]
   },
   {
     "cp": 937,
@@ -518,7 +532,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "заглавный", "буква", "омега"],
-    "concepts": []
+    "concepts": ["greek", "omega", "zodiac", "libra", "lucky", "bell"]
   },
   {
     "cp": 938,
@@ -607,7 +621,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "альфа"],
-    "concepts": []
+    "concepts": ["fish", "greek", "alpha"]
   },
   {
     "cp": 946,
@@ -617,7 +631,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "бета"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 947,
@@ -627,7 +641,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "гамма"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 948,
@@ -637,7 +651,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "дельта"],
-    "concepts": []
+    "concepts": ["triangle", "greek"]
   },
   {
     "cp": 949,
@@ -647,7 +661,19 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "эпсилон"],
-    "concepts": ["kiss", "wings"]
+    "concepts": [
+      "kiss",
+      "wings",
+      "bird",
+      "butterfly",
+      "face",
+      "angel",
+      "sum-integral",
+      "bow-ribbon",
+      "greek",
+      "mouth",
+      "valentine"
+    ]
   },
   {
     "cp": 950,
@@ -657,7 +683,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "дзета"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 951,
@@ -667,7 +693,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "эта"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 952,
@@ -677,7 +703,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "тета"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 953,
@@ -687,7 +713,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "йота"],
-    "concepts": []
+    "concepts": ["greek", "information"]
   },
   {
     "cp": 954,
@@ -697,7 +723,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "каппа"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 955,
@@ -707,7 +733,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "лямбда"],
-    "concepts": ["mountain"]
+    "concepts": ["mountain", "triangle", "greek"]
   },
   {
     "cp": 956,
@@ -717,7 +743,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "мю"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 957,
@@ -727,7 +753,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "ню"],
-    "concepts": []
+    "concepts": ["check", "victory", "root", "greek"]
   },
   {
     "cp": 958,
@@ -737,7 +763,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "кси"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 959,
@@ -747,7 +773,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "омикрон"],
-    "concepts": []
+    "concepts": ["circle", "greek"]
   },
   {
     "cp": 960,
@@ -757,7 +783,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "пи"],
-    "concepts": []
+    "concepts": ["math", "pi", "greek", "school"]
   },
   {
     "cp": 961,
@@ -767,7 +793,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "ро"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 962,
@@ -777,7 +803,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "конечный", "сигма"],
-    "concepts": []
+    "concepts": ["sum-integral", "greek"]
   },
   {
     "cp": 963,
@@ -787,7 +813,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "сигма"],
-    "concepts": []
+    "concepts": ["sum-integral", "greek"]
   },
   {
     "cp": 964,
@@ -797,7 +823,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "тау"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 965,
@@ -807,7 +833,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "ипсилон"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 966,
@@ -817,7 +843,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "фи"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 967,
@@ -827,7 +853,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "хи"],
-    "concepts": []
+    "concepts": ["cross-mark", "greek"]
   },
   {
     "cp": 968,
@@ -837,7 +863,25 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "пси"],
-    "concepts": ["tulip", "lily", "lotus", "plant", "cactus"]
+    "concepts": [
+      "tulip",
+      "lily",
+      "lotus",
+      "plant",
+      "cactus",
+      "crown",
+      "king",
+      "queen",
+      "hand",
+      "devil",
+      "peace",
+      "anchor",
+      "food",
+      "trophy",
+      "greek",
+      "runes",
+      "halloween"
+    ]
   },
   {
     "cp": 969,
@@ -847,7 +891,18 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "омега"],
-    "concepts": ["wave"]
+    "concepts": [
+      "wave",
+      "cat",
+      "smile",
+      "face",
+      "shy",
+      "uwu",
+      "wave-line",
+      "greek",
+      "omega",
+      "mouth"
+    ]
   },
   {
     "cp": 970,
@@ -917,7 +972,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "бета", "символ"],
-    "concepts": ["wave", "spiral"]
+    "concepts": ["wave", "spiral", "duck", "music", "clef", "sharp-flat", "greek"]
   },
   {
     "cp": 977,
@@ -927,7 +982,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "тета", "символ"],
-    "concepts": ["leaf", "spiral"]
+    "concepts": ["leaf", "spiral", "duck", "clef", "greek"]
   },
   {
     "cp": 978,
@@ -937,7 +992,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "ипсилон", "с", "крючок", "символ"],
-    "concepts": ["plant"]
+    "concepts": ["plant", "devil", "zodiac"]
   },
   {
     "cp": 979,
@@ -967,7 +1022,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "фи", "символ"],
-    "concepts": []
+    "concepts": ["clef", "greek"]
   },
   {
     "cp": 982,
@@ -977,7 +1032,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "пи", "символ"],
-    "concepts": ["wave"]
+    "concepts": ["wave", "wave-line", "pi", "greek", "omega"]
   },
   {
     "cp": 983,
@@ -997,7 +1052,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "буква", "архаичный", "коппа"],
-    "concepts": []
+    "concepts": ["ankh"]
   },
   {
     "cp": 985,
@@ -1007,7 +1062,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "архаичный", "коппа"],
-    "concepts": []
+    "concepts": ["ankh"]
   },
   {
     "cp": 986,
@@ -1017,7 +1072,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "буква", "стигма"],
-    "concepts": []
+    "concepts": ["money", "dollar", "greek"]
   },
   {
     "cp": 987,
@@ -1027,7 +1082,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "стигма"],
-    "concepts": []
+    "concepts": ["snake", "money", "dollar", "greek"]
   },
   {
     "cp": 988,
@@ -1037,7 +1092,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "буква", "дигамма"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 989,
@@ -1047,7 +1102,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "дигамма"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 990,
@@ -1057,7 +1112,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "буква", "коппа"],
-    "concepts": ["lightning"]
+    "concepts": ["lightning", "greek"]
   },
   {
     "cp": 991,
@@ -1067,7 +1122,16 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "коппа"],
-    "concepts": ["heart-broken", "weather", "lightning"]
+    "concepts": [
+      "heart-broken",
+      "weather",
+      "lightning",
+      "snake",
+      "dragon",
+      "arrow-zigzag",
+      "medical",
+      "greek"
+    ]
   },
   {
     "cp": 992,
@@ -1077,7 +1141,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "буква", "сампи"],
-    "concepts": []
+    "concepts": ["lizard", "dragon", "greek"]
   },
   {
     "cp": 993,
@@ -1087,7 +1151,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "маленький (строчный)", "буква", "сампи"],
-    "concepts": []
+    "concepts": ["snake", "lizard", "dragon", "devil", "greek", "halloween"]
   },
   {
     "cp": 994,
@@ -1097,7 +1161,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["коптский", "заглавный", "буква", "шеи"],
-    "concepts": []
+    "concepts": ["crown"]
   },
   {
     "cp": 995,
@@ -1107,7 +1171,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["коптский", "маленький (строчный)", "буква", "шеи"],
-    "concepts": []
+    "concepts": ["crown"]
   },
   {
     "cp": 996,
@@ -1237,7 +1301,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "каппа", "символ"],
-    "concepts": []
+    "concepts": ["fish", "greek"]
   },
   {
     "cp": 1009,
@@ -1247,7 +1311,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "ро", "символ"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 1010,
@@ -1287,7 +1351,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "лунообразный", "эпсилон", "символ"],
-    "concepts": []
+    "concepts": ["sum-integral", "greek"]
   },
   {
     "cp": 1014,
@@ -1297,7 +1361,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["греческий", "зеркальный (обратный)", "лунообразный", "эпсилон", "символ"],
-    "concepts": []
+    "concepts": ["sum-integral"]
   },
   {
     "cp": 1015,

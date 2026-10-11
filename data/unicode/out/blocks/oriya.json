@@ -137,7 +137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ория", "буква"],
-    "concepts": ["spiral"]
+    "concepts": ["spiral", "ornament-nick"]
   },
   {
     "cp": 2836,
@@ -767,7 +767,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ория", "цифра", "один"],
-    "concepts": ["leaf"]
+    "concepts": ["leaf", "brackets", "frame-nick", "ornament-nick", "divider"]
   },
   {
     "cp": 2920,
@@ -777,7 +777,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ория", "цифра", "два"],
-    "concepts": ["rose", "leaf"]
+    "concepts": ["rose", "leaf", "brackets", "frame-nick", "ornament-nick", "divider"]
   },
   {
     "cp": 2921,
@@ -807,7 +807,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ория", "цифра", "пять"],
-    "concepts": []
+    "concepts": ["ampersand"]
   },
   {
     "cp": 2924,
@@ -817,7 +817,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ория", "цифра", "шесть"],
-    "concepts": []
+    "concepts": ["ampersand"]
   },
   {
     "cp": 2925,
@@ -827,7 +827,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ория", "цифра", "семь"],
-    "concepts": ["rose", "spiral"]
+    "concepts": ["rose", "spiral", "goat", "frame-nick", "ornament-nick"]
   },
   {
     "cp": 2926,

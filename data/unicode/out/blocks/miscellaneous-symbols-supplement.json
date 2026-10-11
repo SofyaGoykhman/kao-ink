@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["Геба"],
-    "concepts": []
+    "concepts": ["planets"]
   },
   {
     "cp": 118465,
@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["Ирида (ирис)"],
-    "concepts": []
+    "concepts": ["planets"]
   },
   {
     "cp": 118466,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["Флора"],
-    "concepts": []
+    "concepts": ["planets"]
   },
   {
     "cp": 118467,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["Метида"],
-    "concepts": []
+    "concepts": ["planets"]
   },
   {
     "cp": 118468,
@@ -47,7 +47,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["Партенопа"],
-    "concepts": []
+    "concepts": ["planets"]
   },
   {
     "cp": 118469,
@@ -57,7 +57,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["Виктория"],
-    "concepts": []
+    "concepts": ["planets"]
   },
   {
     "cp": 118470,
@@ -67,7 +67,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["Эгерия"],
-    "concepts": []
+    "concepts": ["planets"]
   },
   {
     "cp": 118471,
@@ -77,7 +77,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["Ирена"],
-    "concepts": []
+    "concepts": ["planets"]
   },
   {
     "cp": 118472,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["Эвномия"],
-    "concepts": []
+    "concepts": ["planets"]
   },
   {
     "cp": 118473,
@@ -97,7 +97,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["Психея"],
-    "concepts": []
+    "concepts": ["planets"]
   },
   {
     "cp": 118474,
@@ -107,7 +107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["Фетида"],
-    "concepts": []
+    "concepts": ["planets"]
   },
   {
     "cp": 118475,
@@ -117,7 +117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["Мельпомена"],
-    "concepts": []
+    "concepts": ["planets"]
   },
   {
     "cp": 118476,
@@ -127,7 +127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["фортуна"],
-    "concepts": []
+    "concepts": ["planets"]
   },
   {
     "cp": 118477,
@@ -137,7 +137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["астрономический", "символ", "для", "астероид", "Прозерпина"],
-    "concepts": []
+    "concepts": ["planets"]
   },
   {
     "cp": 118478,
@@ -147,7 +147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["Беллона"],
-    "concepts": []
+    "concepts": ["planets"]
   },
   {
     "cp": 118479,
@@ -157,7 +157,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["Амфитрита"],
-    "concepts": []
+    "concepts": ["planets"]
   },
   {
     "cp": 118480,
@@ -167,7 +167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["Левкотея"],
-    "concepts": []
+    "concepts": ["planets"]
   },
   {
     "cp": 118482,
@@ -207,7 +207,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["квадрат", "корень", "из"],
-    "concepts": []
+    "concepts": ["root"]
   },
   {
     "cp": 118494,
@@ -217,7 +217,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["квадрат", "корень", "из"],
-    "concepts": []
+    "concepts": ["root"]
   },
   {
     "cp": 118495,
@@ -227,7 +227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["квадрат", "корень", "из"],
-    "concepts": []
+    "concepts": ["root"]
   },
   {
     "cp": 118496,
@@ -465,7 +465,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["сектор", "с", "хорда (аккорд)"],
-    "concepts": []
+    "concepts": ["angle-geometry"]
   },
   {
     "cp": 118519,
@@ -475,7 +475,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["сектор", "с", "двойной", "дуга"],
-    "concepts": []
+    "concepts": ["angle-geometry"]
   },
   {
     "cp": 118520,
@@ -485,7 +485,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["сектор", "с", "хорда (аккорд)", "и", "пунктирный (с точкой)", "дуга"],
-    "concepts": []
+    "concepts": ["angle-geometry"]
   },
   {
     "cp": 118521,
@@ -495,7 +495,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["измеренный", "угол", "с", "двойной", "дуга"],
-    "concepts": []
+    "concepts": ["angle-geometry"]
   },
   {
     "cp": 118522,
@@ -505,7 +505,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["измеренный", "угол", "с", "вогнутый", "дуга"],
-    "concepts": []
+    "concepts": ["angle-geometry"]
   },
   {
     "cp": 118523,
@@ -515,7 +515,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["измеренный", "угол", "с", "двойной", "вогнутый", "дуга"],
-    "concepts": []
+    "concepts": ["angle-geometry"]
   },
   {
     "cp": 118524,
@@ -525,7 +525,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["угол", "открывающая", "вверх"],
-    "concepts": []
+    "concepts": ["angle-geometry"]
   },
   {
     "cp": 118525,

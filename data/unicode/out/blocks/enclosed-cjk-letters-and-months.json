@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "хангыль (корейский)", "киёк (ㄱ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12801,
@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "хангыль (корейский)", "ниын (ㄴ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12802,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "хангыль (корейский)", "тигыт (ㄷ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12803,
@@ -147,7 +147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "хангыль (корейский)", "киёк (ㄱ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12815,
@@ -157,7 +157,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "хангыль (корейский)", "ниын (ㄴ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12816,
@@ -807,7 +807,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "двадцать", "один"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12882,
@@ -817,7 +817,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "двадцать", "два"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12883,
@@ -827,7 +827,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "двадцать", "три"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12884,
@@ -837,7 +837,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "двадцать", "четыре"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12885,
@@ -847,7 +847,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "двадцать", "пять"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12886,
@@ -857,7 +857,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "двадцать", "шесть"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12887,
@@ -867,7 +867,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "двадцать", "семь"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12888,
@@ -877,7 +877,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "двадцать", "восемь"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12889,
@@ -887,7 +887,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "двадцать", "девять"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12890,
@@ -897,7 +897,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "тридцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12891,
@@ -907,7 +907,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "тридцать", "один"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12892,
@@ -917,7 +917,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "тридцать", "два"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12893,
@@ -927,7 +927,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "тридцать", "три"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12894,
@@ -937,7 +937,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "тридцать", "четыре"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12895,
@@ -947,7 +947,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "тридцать", "пять"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12896,
@@ -957,7 +957,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "киёк (ㄱ)"],
-    "concepts": []
+    "concepts": ["letters-circled", "korean"]
   },
   {
     "cp": 12897,
@@ -967,7 +967,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "ниын (ㄴ)"],
-    "concepts": []
+    "concepts": ["letters-circled", "korean"]
   },
   {
     "cp": 12898,
@@ -977,7 +977,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "тигыт (ㄷ)"],
-    "concepts": []
+    "concepts": ["letters-circled", "korean"]
   },
   {
     "cp": 12899,
@@ -987,7 +987,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "риыль (ㄹ)"],
-    "concepts": []
+    "concepts": ["letters-circled", "korean"]
   },
   {
     "cp": 12900,
@@ -997,7 +997,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "миым (ㅁ)"],
-    "concepts": []
+    "concepts": ["letters-circled", "korean"]
   },
   {
     "cp": 12901,
@@ -1007,7 +1007,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "пиып (ㅂ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12902,
@@ -1017,7 +1017,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "сиос (ㅅ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12903,
@@ -1027,7 +1027,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "иын (ㅇ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12904,
@@ -1037,7 +1037,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "чиыт (ㅈ)"],
-    "concepts": ["cloud", "spiral"]
+    "concepts": ["spiral", "korean"]
   },
   {
     "cp": 12905,
@@ -1047,7 +1047,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "чхиыт (ㅊ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12906,
@@ -1057,7 +1057,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "кхиык (ㅋ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12907,
@@ -1067,7 +1067,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "тхиыт (ㅌ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12908,
@@ -1077,7 +1077,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "пхиып (ㅍ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12909,
@@ -1087,7 +1087,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "хиыт (ㅎ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12910,
@@ -1097,7 +1097,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "киёк (ㄱ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12911,
@@ -1107,7 +1107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "ниын (ㄴ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12912,
@@ -1117,7 +1117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "тигыт (ㄷ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12913,
@@ -1127,7 +1127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "риыль (ㄹ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12914,
@@ -1137,7 +1137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "миым (ㅁ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12915,
@@ -1147,7 +1147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "пиып (ㅂ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12916,
@@ -1157,7 +1157,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "сиос (ㅅ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12917,
@@ -1167,7 +1167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "иын (ㅇ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12918,
@@ -1177,7 +1177,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "чиыт (ㅈ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12919,
@@ -1187,7 +1187,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "чхиыт (ㅊ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12920,
@@ -1197,7 +1197,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "кхиык (ㅋ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12921,
@@ -1207,7 +1207,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "тхиыт (ㅌ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12922,
@@ -1217,7 +1217,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "пхиып (ㅍ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12923,
@@ -1227,7 +1227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "хиыт (ㅎ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12924,
@@ -1237,7 +1237,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "корейский", "символ"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12925,
@@ -1247,7 +1247,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "корейский", "символ"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12926,
@@ -1257,7 +1257,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "хангыль (корейский)", "иын (ㅇ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12927,
@@ -1277,7 +1277,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "иероглиф", "один"],
-    "concepts": []
+    "concepts": ["letters-circled", "chinese"]
   },
   {
     "cp": 12929,
@@ -1287,7 +1287,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "иероглиф", "два"],
-    "concepts": []
+    "concepts": ["letters-circled", "chinese"]
   },
   {
     "cp": 12930,
@@ -1297,7 +1297,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "иероглиф", "три"],
-    "concepts": []
+    "concepts": ["letters-circled", "chinese"]
   },
   {
     "cp": 12931,
@@ -1307,7 +1307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "иероглиф", "четыре"],
-    "concepts": []
+    "concepts": ["chinese"]
   },
   {
     "cp": 12932,
@@ -1317,7 +1317,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "иероглиф", "пять"],
-    "concepts": []
+    "concepts": ["chinese"]
   },
   {
     "cp": 12933,
@@ -1327,7 +1327,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "иероглиф", "шесть"],
-    "concepts": []
+    "concepts": ["chinese"]
   },
   {
     "cp": 12934,
@@ -1337,7 +1337,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "иероглиф", "семь"],
-    "concepts": []
+    "concepts": ["chinese"]
   },
   {
     "cp": 12935,
@@ -1347,7 +1347,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "иероглиф", "восемь"],
-    "concepts": []
+    "concepts": ["chinese"]
   },
   {
     "cp": 12936,
@@ -1357,7 +1357,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "иероглиф", "девять"],
-    "concepts": []
+    "concepts": ["chinese"]
   },
   {
     "cp": 12937,
@@ -1367,7 +1367,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "иероглиф", "десять"],
-    "concepts": []
+    "concepts": ["chinese"]
   },
   {
     "cp": 12938,
@@ -1377,7 +1377,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "иероглиф", "луна"],
-    "concepts": []
+    "concepts": ["chinese"]
   },
   {
     "cp": 12939,
@@ -1387,7 +1387,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "иероглиф", "огонь"],
-    "concepts": []
+    "concepts": ["chinese"]
   },
   {
     "cp": 12940,
@@ -1397,7 +1397,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "иероглиф", "вода"],
-    "concepts": []
+    "concepts": ["chinese"]
   },
   {
     "cp": 12941,
@@ -1407,7 +1407,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "иероглиф", "дерево (древесина)"],
-    "concepts": []
+    "concepts": ["chinese"]
   },
   {
     "cp": 12942,
@@ -1417,7 +1417,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "иероглиф"],
-    "concepts": []
+    "concepts": ["chinese"]
   },
   {
     "cp": 12943,
@@ -1427,7 +1427,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "иероглиф", "земля"],
-    "concepts": []
+    "concepts": ["chinese"]
   },
   {
     "cp": 12944,
@@ -1437,7 +1437,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "иероглиф", "солнце"],
-    "concepts": []
+    "concepts": ["chinese"]
   },
   {
     "cp": 12945,
@@ -1510,7 +1510,7 @@
       "en": ["button", "congratulations", "ideograph", "Japanese"]
     },
     "desc": ["в кружке", "иероглиф"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12952,
@@ -1533,7 +1533,7 @@
       "en": ["button", "ideograph", "Japanese", "secret"]
     },
     "desc": ["в кружке", "иероглиф"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12954,
@@ -1773,7 +1773,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "тридцать", "шесть"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12978,
@@ -1783,7 +1783,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "тридцать", "семь"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12979,
@@ -1793,7 +1793,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "тридцать", "восемь"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12980,
@@ -1803,7 +1803,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "тридцать", "девять"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12981,
@@ -1813,7 +1813,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "сорок"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12982,
@@ -1823,7 +1823,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "сорок", "один"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12983,
@@ -1833,7 +1833,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "сорок", "два"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12984,
@@ -1843,7 +1843,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "сорок", "три"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12985,
@@ -1853,7 +1853,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "сорок", "четыре"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12986,
@@ -1863,7 +1863,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "сорок", "пять"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12987,
@@ -1873,7 +1873,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "сорок", "шесть"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12988,
@@ -1883,7 +1883,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "сорок", "семь"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12989,
@@ -1893,7 +1893,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "сорок", "восемь"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12990,
@@ -1903,7 +1903,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "сорок", "девять"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12991,
@@ -1913,7 +1913,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "пятьдесят"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 12992,
@@ -1923,7 +1923,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иероглифический", "телеграфный", "символ", "для"],
-    "concepts": []
+    "concepts": ["calendar"]
   },
   {
     "cp": 12993,
@@ -1933,7 +1933,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иероглифический", "телеграфный", "символ", "для"],
-    "concepts": []
+    "concepts": ["calendar"]
   },
   {
     "cp": 12994,
@@ -1943,7 +1943,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иероглифический", "телеграфный", "символ", "для"],
-    "concepts": []
+    "concepts": ["calendar"]
   },
   {
     "cp": 12995,
@@ -1953,7 +1953,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иероглифический", "телеграфный", "символ", "для"],
-    "concepts": []
+    "concepts": ["calendar"]
   },
   {
     "cp": 12996,
@@ -1963,7 +1963,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иероглифический", "телеграфный", "символ", "для"],
-    "concepts": []
+    "concepts": ["calendar"]
   },
   {
     "cp": 12997,
@@ -1973,7 +1973,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иероглифический", "телеграфный", "символ", "для"],
-    "concepts": []
+    "concepts": ["calendar"]
   },
   {
     "cp": 12998,
@@ -1983,7 +1983,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иероглифический", "телеграфный", "символ", "для"],
-    "concepts": []
+    "concepts": ["calendar"]
   },
   {
     "cp": 12999,
@@ -1993,7 +1993,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иероглифический", "телеграфный", "символ", "для"],
-    "concepts": []
+    "concepts": ["calendar"]
   },
   {
     "cp": 13000,
@@ -2003,7 +2003,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иероглифический", "телеграфный", "символ", "для"],
-    "concepts": []
+    "concepts": ["calendar"]
   },
   {
     "cp": 13001,
@@ -2013,7 +2013,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иероглифический", "телеграфный", "символ", "для"],
-    "concepts": []
+    "concepts": ["calendar"]
   },
   {
     "cp": 13002,
@@ -2023,7 +2023,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иероглифический", "телеграфный", "символ", "для"],
-    "concepts": []
+    "concepts": ["calendar"]
   },
   {
     "cp": 13003,
@@ -2033,7 +2033,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иероглифический", "телеграфный", "символ", "для"],
-    "concepts": []
+    "concepts": ["calendar"]
   },
   {
     "cp": 13004,
@@ -2083,7 +2083,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "катакана"],
-    "concepts": []
+    "concepts": ["letters-circled", "japanese"]
   },
   {
     "cp": 13009,
@@ -2093,7 +2093,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "катакана"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 13010,
@@ -2103,7 +2103,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "катакана"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 13011,
@@ -2113,7 +2113,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "катакана"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 13012,
@@ -2123,7 +2123,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "катакана"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 13013,
@@ -2193,7 +2193,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "катакана", "си"],
-    "concepts": []
+    "concepts": ["smile"]
   },
   {
     "cp": 13020,
@@ -2253,7 +2253,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "катакана", "ту"],
-    "concepts": []
+    "concepts": ["shrug", "smile", "face", "japanese"]
   },
   {
     "cp": 13026,

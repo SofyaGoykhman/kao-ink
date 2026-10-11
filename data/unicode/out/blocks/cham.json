@@ -47,7 +47,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тямский", "буква", "аи"],
-    "concepts": ["heart"]
+    "concepts": ["heart", "valentine"]
   },
   {
     "cp": 43525,
@@ -797,7 +797,27 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тямский", "пунктуация", "спираль"],
-    "concepts": ["rose", "cloud", "wind", "water", "fire", "wave", "spiral"]
+    "concepts": [
+      "rose",
+      "cloud",
+      "wind",
+      "water",
+      "fire",
+      "wave",
+      "spiral",
+      "snake",
+      "goat",
+      "arrow-circle",
+      "wave-line",
+      "frame-nick",
+      "ornament-nick",
+      "divider",
+      "at-hash",
+      "religion",
+      "om",
+      "celtic",
+      "dizzy"
+    ]
   },
   {
     "cp": 43613,
@@ -807,7 +827,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тямский", "пунктуация", "данда"],
-    "concepts": ["wind", "spiral"]
+    "concepts": ["wind", "spiral", "arrow-circle", "ornament-nick", "at-hash", "celtic", "dizzy"]
   },
   {
     "cp": 43614,

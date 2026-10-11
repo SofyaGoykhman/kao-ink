@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "хирагана", "двойной", "дефис"],
-    "concepts": []
+    "concepts": ["equals"]
   },
   {
     "cp": 12449,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12451,
@@ -47,7 +47,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12453,
@@ -67,7 +67,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12455,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12457,
@@ -107,7 +107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12459,
@@ -117,7 +117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ка"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12460,
@@ -137,7 +137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ки"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12462,
@@ -157,7 +157,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ку"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12464,
@@ -177,7 +177,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ке"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12466,
@@ -197,7 +197,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ко"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12468,
@@ -217,7 +217,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "са"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12470,
@@ -237,7 +237,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "си"],
-    "concepts": []
+    "concepts": ["shrug", "smile", "face", "japanese"]
   },
   {
     "cp": 12472,
@@ -247,7 +247,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "зи"],
-    "concepts": []
+    "concepts": ["shrug", "smile"]
   },
   {
     "cp": 12473,
@@ -257,7 +257,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "су"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12474,
@@ -277,7 +277,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "се"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12476,
@@ -297,7 +297,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "со"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12478,
@@ -317,7 +317,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "та"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12480,
@@ -337,7 +337,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ти"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12482,
@@ -357,7 +357,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "маленький (строчный)", "ту"],
-    "concepts": []
+    "concepts": ["shrug", "smile", "face"]
   },
   {
     "cp": 12484,
@@ -367,7 +367,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ту"],
-    "concepts": []
+    "concepts": ["shrug", "smile", "face", "japanese"]
   },
   {
     "cp": 12485,
@@ -377,7 +377,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ду"],
-    "concepts": []
+    "concepts": ["shrug", "smile"]
   },
   {
     "cp": 12486,
@@ -387,7 +387,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "те"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12487,
@@ -407,7 +407,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "к"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12489,
@@ -427,7 +427,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "на"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12491,
@@ -437,7 +437,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ни"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12492,
@@ -447,7 +447,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ню"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12493,
@@ -457,7 +457,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "не"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12494,
@@ -467,7 +467,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "нет"],
-    "concepts": []
+    "concepts": ["hand", "arms-raised", "shrug", "face", "japanese", "table-flip"]
   },
   {
     "cp": 12495,
@@ -477,7 +477,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ха"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12496,
@@ -507,7 +507,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "хай (HI)"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12499,
@@ -537,7 +537,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ху"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12502,
@@ -567,7 +567,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "хе"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12505,
@@ -597,7 +597,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "хо"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12508,
@@ -627,7 +627,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ма"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12511,
@@ -637,7 +637,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ми"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12512,
@@ -647,7 +647,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "мю"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12513,
@@ -657,7 +657,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "мне"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12514,
@@ -667,7 +667,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "мо"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12515,
@@ -687,7 +687,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "я"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12517,
@@ -707,7 +707,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ю"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12519,
@@ -727,7 +727,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "йо"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12521,
@@ -737,7 +737,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ра"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12522,
@@ -747,7 +747,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ри"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12523,
@@ -757,7 +757,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ру"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12524,
@@ -767,7 +767,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ре"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12525,
@@ -777,7 +777,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ро"],
-    "concepts": []
+    "concepts": ["square", "japanese"]
   },
   {
     "cp": 12526,
@@ -797,7 +797,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "ва"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12528,
@@ -827,7 +827,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква", "во"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12531,
@@ -837,7 +837,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "буква"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12532,
@@ -920,7 +920,7 @@
       "en": ["dot", "dots", "interpunct", "katakana", "middle", "middot"]
     },
     "desc": ["катакана", "средний", "точка"],
-    "concepts": []
+    "concepts": ["circle", "dot", "bullet"]
   },
   {
     "cp": 12540,
@@ -940,7 +940,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "повтор", "метка (знак)"],
-    "concepts": []
+    "concepts": ["hand", "arms-raised", "shrug", "face", "japanese", "table-flip"]
   },
   {
     "cp": 12542,
@@ -950,7 +950,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "звонкий", "повтор", "метка (знак)"],
-    "concepts": []
+    "concepts": ["hand", "japanese"]
   },
   {
     "cp": 12543,

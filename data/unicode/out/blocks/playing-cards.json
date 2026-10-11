@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "назад (обратная сторона)"],
-    "concepts": []
+    "concepts": ["cards"]
   },
   {
     "cp": 127137,
@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "туз", "из", "пики"],
-    "concepts": []
+    "concepts": ["cards", "spades", "game"]
   },
   {
     "cp": 127138,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "два", "из", "пики"],
-    "concepts": []
+    "concepts": ["spades"]
   },
   {
     "cp": 127139,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "три", "из", "пики"],
-    "concepts": []
+    "concepts": ["spades"]
   },
   {
     "cp": 127140,
@@ -47,7 +47,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "четыре", "из", "пики"],
-    "concepts": []
+    "concepts": ["spades"]
   },
   {
     "cp": 127141,
@@ -57,7 +57,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "пять", "из", "пики"],
-    "concepts": []
+    "concepts": ["spades"]
   },
   {
     "cp": 127142,
@@ -67,7 +67,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "шесть", "из", "пики"],
-    "concepts": []
+    "concepts": ["spades"]
   },
   {
     "cp": 127143,
@@ -77,7 +77,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "семь", "из", "пики"],
-    "concepts": []
+    "concepts": ["spades"]
   },
   {
     "cp": 127144,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "восемь", "из", "пики"],
-    "concepts": []
+    "concepts": ["spades"]
   },
   {
     "cp": 127145,
@@ -97,7 +97,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "девять", "из", "пики"],
-    "concepts": []
+    "concepts": ["spades"]
   },
   {
     "cp": 127146,
@@ -107,7 +107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "десять", "из", "пики"],
-    "concepts": []
+    "concepts": ["spades"]
   },
   {
     "cp": 127147,
@@ -117,7 +117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "валет", "из", "пики"],
-    "concepts": []
+    "concepts": ["cards", "spades"]
   },
   {
     "cp": 127148,
@@ -127,7 +127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "конь", "из", "пики"],
-    "concepts": []
+    "concepts": ["knight", "spades"]
   },
   {
     "cp": 127149,
@@ -137,7 +137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "ферзь (королева)", "из", "пики"],
-    "concepts": []
+    "concepts": ["queen", "cards", "spades"]
   },
   {
     "cp": 127150,
@@ -147,7 +147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "король", "из", "пики"],
-    "concepts": []
+    "concepts": ["cards", "spades"]
   },
   {
     "cp": 127153,
@@ -157,7 +157,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "туз", "из", "черви (сердца)"],
-    "concepts": []
+    "concepts": ["cards", "hearts-suit"]
   },
   {
     "cp": 127154,
@@ -167,7 +167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "два", "из", "черви (сердца)"],
-    "concepts": []
+    "concepts": ["hearts-suit"]
   },
   {
     "cp": 127155,
@@ -177,7 +177,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "три", "из", "черви (сердца)"],
-    "concepts": []
+    "concepts": ["hearts-suit"]
   },
   {
     "cp": 127156,
@@ -187,7 +187,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "четыре", "из", "черви (сердца)"],
-    "concepts": []
+    "concepts": ["hearts-suit"]
   },
   {
     "cp": 127157,
@@ -197,7 +197,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "пять", "из", "черви (сердца)"],
-    "concepts": []
+    "concepts": ["hearts-suit"]
   },
   {
     "cp": 127158,
@@ -207,7 +207,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "шесть", "из", "черви (сердца)"],
-    "concepts": []
+    "concepts": ["hearts-suit"]
   },
   {
     "cp": 127159,
@@ -217,7 +217,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "семь", "из", "черви (сердца)"],
-    "concepts": []
+    "concepts": ["hearts-suit"]
   },
   {
     "cp": 127160,
@@ -227,7 +227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "восемь", "из", "черви (сердца)"],
-    "concepts": []
+    "concepts": ["hearts-suit"]
   },
   {
     "cp": 127161,
@@ -237,7 +237,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "девять", "из", "черви (сердца)"],
-    "concepts": []
+    "concepts": ["hearts-suit"]
   },
   {
     "cp": 127162,
@@ -247,7 +247,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "десять", "из", "черви (сердца)"],
-    "concepts": []
+    "concepts": ["hearts-suit"]
   },
   {
     "cp": 127163,
@@ -257,7 +257,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "валет", "из", "черви (сердца)"],
-    "concepts": []
+    "concepts": ["cards", "hearts-suit"]
   },
   {
     "cp": 127164,
@@ -267,7 +267,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "конь", "из", "черви (сердца)"],
-    "concepts": []
+    "concepts": ["knight", "hearts-suit"]
   },
   {
     "cp": 127165,
@@ -277,7 +277,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "ферзь (королева)", "из", "черви (сердца)"],
-    "concepts": []
+    "concepts": ["queen", "cards", "hearts-suit"]
   },
   {
     "cp": 127166,
@@ -287,7 +287,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "король", "из", "черви (сердца)"],
-    "concepts": []
+    "concepts": ["cards", "hearts-suit"]
   },
   {
     "cp": 127167,
@@ -297,7 +297,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "красный", "джокер"],
-    "concepts": []
+    "concepts": ["cards"]
   },
   {
     "cp": 127169,
@@ -307,7 +307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "туз", "из", "бубны"],
-    "concepts": []
+    "concepts": ["cards", "diamonds-suit"]
   },
   {
     "cp": 127170,
@@ -317,7 +317,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "два", "из", "бубны"],
-    "concepts": []
+    "concepts": ["diamonds-suit"]
   },
   {
     "cp": 127171,
@@ -327,7 +327,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "три", "из", "бубны"],
-    "concepts": []
+    "concepts": ["diamonds-suit"]
   },
   {
     "cp": 127172,
@@ -337,7 +337,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "четыре", "из", "бубны"],
-    "concepts": []
+    "concepts": ["diamonds-suit"]
   },
   {
     "cp": 127173,
@@ -347,7 +347,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "пять", "из", "бубны"],
-    "concepts": []
+    "concepts": ["diamonds-suit"]
   },
   {
     "cp": 127174,
@@ -357,7 +357,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "шесть", "из", "бубны"],
-    "concepts": []
+    "concepts": ["diamonds-suit"]
   },
   {
     "cp": 127175,
@@ -367,7 +367,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "семь", "из", "бубны"],
-    "concepts": []
+    "concepts": ["diamonds-suit"]
   },
   {
     "cp": 127176,
@@ -377,7 +377,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "восемь", "из", "бубны"],
-    "concepts": []
+    "concepts": ["diamonds-suit"]
   },
   {
     "cp": 127177,
@@ -387,7 +387,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "девять", "из", "бубны"],
-    "concepts": []
+    "concepts": ["diamonds-suit"]
   },
   {
     "cp": 127178,
@@ -397,7 +397,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "десять", "из", "бубны"],
-    "concepts": []
+    "concepts": ["diamonds-suit"]
   },
   {
     "cp": 127179,
@@ -407,7 +407,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "валет", "из", "бубны"],
-    "concepts": []
+    "concepts": ["cards", "diamonds-suit"]
   },
   {
     "cp": 127180,
@@ -417,7 +417,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "конь", "из", "бубны"],
-    "concepts": []
+    "concepts": ["knight", "diamonds-suit"]
   },
   {
     "cp": 127181,
@@ -427,7 +427,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "ферзь (королева)", "из", "бубны"],
-    "concepts": []
+    "concepts": ["queen", "cards", "diamonds-suit"]
   },
   {
     "cp": 127182,
@@ -437,7 +437,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "король", "из", "бубны"],
-    "concepts": []
+    "concepts": ["cards", "diamonds-suit"]
   },
   {
     "cp": 127185,
@@ -447,7 +447,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "туз", "из", "трефы (крести)"],
-    "concepts": []
+    "concepts": ["cards", "clubs"]
   },
   {
     "cp": 127186,
@@ -457,7 +457,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "два", "из", "трефы (крести)"],
-    "concepts": []
+    "concepts": ["clubs"]
   },
   {
     "cp": 127187,
@@ -467,7 +467,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "три", "из", "трефы (крести)"],
-    "concepts": []
+    "concepts": ["clubs"]
   },
   {
     "cp": 127188,
@@ -477,7 +477,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "четыре", "из", "трефы (крести)"],
-    "concepts": []
+    "concepts": ["clubs"]
   },
   {
     "cp": 127189,
@@ -487,7 +487,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "пять", "из", "трефы (крести)"],
-    "concepts": []
+    "concepts": ["clubs"]
   },
   {
     "cp": 127190,
@@ -497,7 +497,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "шесть", "из", "трефы (крести)"],
-    "concepts": []
+    "concepts": ["clubs"]
   },
   {
     "cp": 127191,
@@ -507,7 +507,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "семь", "из", "трефы (крести)"],
-    "concepts": []
+    "concepts": ["clubs"]
   },
   {
     "cp": 127192,
@@ -517,7 +517,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "восемь", "из", "трефы (крести)"],
-    "concepts": []
+    "concepts": ["clubs"]
   },
   {
     "cp": 127193,
@@ -527,7 +527,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "девять", "из", "трефы (крести)"],
-    "concepts": []
+    "concepts": ["clubs"]
   },
   {
     "cp": 127194,
@@ -537,7 +537,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "десять", "из", "трефы (крести)"],
-    "concepts": []
+    "concepts": ["clubs"]
   },
   {
     "cp": 127195,
@@ -547,7 +547,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "валет", "из", "трефы (крести)"],
-    "concepts": []
+    "concepts": ["cards", "clubs"]
   },
   {
     "cp": 127196,
@@ -557,7 +557,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "конь", "из", "трефы (крести)"],
-    "concepts": []
+    "concepts": ["knight", "clubs"]
   },
   {
     "cp": 127197,
@@ -567,7 +567,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "ферзь (королева)", "из", "трефы (крести)"],
-    "concepts": []
+    "concepts": ["queen", "cards", "clubs"]
   },
   {
     "cp": 127198,
@@ -577,7 +577,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "король", "из", "трефы (крести)"],
-    "concepts": []
+    "concepts": ["cards", "clubs"]
   },
   {
     "cp": 127199,
@@ -587,7 +587,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "белый (контурный)", "джокер"],
-    "concepts": []
+    "concepts": ["cards"]
   },
   {
     "cp": 127200,
@@ -597,7 +597,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "шут (дурак)"],
-    "concepts": []
+    "concepts": ["cards", "magic"]
   },
   {
     "cp": 127201,
@@ -607,7 +607,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "козырь"],
-    "concepts": []
+    "concepts": ["magic"]
   },
   {
     "cp": 127202,
@@ -617,7 +617,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "козырь"],
-    "concepts": []
+    "concepts": ["magic"]
   },
   {
     "cp": 127203,
@@ -627,7 +627,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "козырь"],
-    "concepts": []
+    "concepts": ["magic"]
   },
   {
     "cp": 127204,
@@ -637,7 +637,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "козырь"],
-    "concepts": []
+    "concepts": ["magic"]
   },
   {
     "cp": 127205,
@@ -647,7 +647,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "козырь"],
-    "concepts": []
+    "concepts": ["magic"]
   },
   {
     "cp": 127206,
@@ -657,7 +657,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "козырь"],
-    "concepts": []
+    "concepts": ["magic"]
   },
   {
     "cp": 127207,
@@ -667,7 +667,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "козырь"],
-    "concepts": []
+    "concepts": ["magic"]
   },
   {
     "cp": 127208,
@@ -677,7 +677,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "козырь"],
-    "concepts": []
+    "concepts": ["magic"]
   },
   {
     "cp": 127209,
@@ -687,7 +687,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["игральный", "карта", "козырь"],
-    "concepts": []
+    "concepts": ["magic"]
   },
   {
     "cp": 127210,

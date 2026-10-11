@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "творчество", "небо"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19905,
@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "исполнение", "земля"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19906,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "трудность", "при (собачка)", "начало"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19907,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "юношеский", "недоразвитость"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19908,
@@ -47,7 +47,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "ожидание"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19909,
@@ -57,7 +57,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "тяжба (конфликт)"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19910,
@@ -67,7 +67,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "войско"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19911,
@@ -77,7 +77,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "держащий", "вместе"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19912,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "маленький (строчный)", "укрощение"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19913,
@@ -97,7 +97,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "наступление"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19914,
@@ -107,7 +107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "мир (пацифик)"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19915,
@@ -117,7 +117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "упадок (застой)"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19916,
@@ -127,7 +127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "единомышленники"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19917,
@@ -137,7 +137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "великий", "обладание"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19918,
@@ -147,7 +147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "смирение"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19919,
@@ -157,7 +157,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "вольность (воодушевление)"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19920,
@@ -167,7 +167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "следование"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19921,
@@ -177,7 +177,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "работа", "на", "исправление порчи"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19922,
@@ -187,7 +187,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "посещение"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19923,
@@ -197,7 +197,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "созерцание"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19924,
@@ -207,7 +207,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "кусание", "сквозь"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19925,
@@ -217,7 +217,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "изящество (форшлаг)"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19926,
@@ -227,7 +227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "разорение", "на части"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19927,
@@ -237,7 +237,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "возврат (ввод)"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19928,
@@ -247,7 +247,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "беспорочность"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19929,
@@ -257,7 +257,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "великий", "укрощение"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19930,
@@ -267,7 +267,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "рот", "углы"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19931,
@@ -277,7 +277,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "великий", "перевес"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19932,
@@ -287,7 +287,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "бездна", "вода"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19933,
@@ -297,7 +297,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "сияние", "огонь"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19934,
@@ -307,7 +307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "взаимодействие"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19935,
@@ -317,7 +317,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "постоянство"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19936,
@@ -327,7 +327,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "бегство"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19937,
@@ -337,7 +337,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "великий", "питание (степень)"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19938,
@@ -347,7 +347,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "восход (прогресс)"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19939,
@@ -357,7 +357,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "помрачение", "из", "тонкий (светлый)"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19940,
@@ -367,7 +367,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "семья"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19941,
@@ -377,7 +377,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "противостояние"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19942,
@@ -387,7 +387,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "препятствие"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19943,
@@ -397,7 +397,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "разрешение"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19944,
@@ -407,7 +407,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "уменьшение"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19945,
@@ -417,7 +417,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "увеличение"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19946,
@@ -427,7 +427,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "выход (прорыв)"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19947,
@@ -437,7 +437,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "приход", "к", "встреча"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19948,
@@ -447,7 +447,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "собирание", "вместе"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19949,
@@ -457,7 +457,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "толкание", "вверх"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19950,
@@ -467,7 +467,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "истощение"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19951,
@@ -477,7 +477,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "колодец"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19952,
@@ -487,7 +487,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "смена (переворот)"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19953,
@@ -497,7 +497,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "котёл (жертвенник)"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19954,
@@ -507,7 +507,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "возбуждение", "гром"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19955,
@@ -517,7 +517,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "сохранение", "неподвижный", "гора"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19956,
@@ -527,7 +527,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "течение (развитие)"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19957,
@@ -537,7 +537,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "замужество", "дева"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19958,
@@ -547,7 +547,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "изобилие"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19959,
@@ -557,7 +557,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "странник"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19960,
@@ -567,7 +567,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "мягкий", "ветер"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19961,
@@ -577,7 +577,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "радостный", "озеро"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19962,
@@ -587,7 +587,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "раздробление"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19963,
@@ -597,7 +597,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "ограничение"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19964,
@@ -607,7 +607,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "внутренний", "истина"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19965,
@@ -617,7 +617,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "маленький (строчный)", "перевес"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19966,
@@ -627,7 +627,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "после", "завершение"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 19967,
@@ -637,6 +637,6 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гексаграмма", "для", "до", "завершение"],
-    "concepts": []
+    "concepts": ["trigram"]
   }
 ]

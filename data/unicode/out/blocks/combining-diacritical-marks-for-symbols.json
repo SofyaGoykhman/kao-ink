@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "длинный", "вертикальный", "линия", "наложение"],
-    "concepts": []
+    "concepts": ["strikethrough"]
   },
   {
     "cp": 8403,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "короткий", "вертикальный", "линия", "наложение"],
-    "concepts": []
+    "concepts": ["strikethrough"]
   },
   {
     "cp": 8404,
@@ -137,7 +137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "обрамляющий", "круг"],
-    "concepts": []
+    "concepts": ["zalgo", "enclosing"]
   },
   {
     "cp": 8414,
@@ -147,7 +147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "обрамляющий", "квадрат"],
-    "concepts": []
+    "concepts": ["zalgo", "enclosing"]
   },
   {
     "cp": 8415,
@@ -157,7 +157,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "обрамляющий", "ромб"],
-    "concepts": []
+    "concepts": ["zalgo", "enclosing"]
   },
   {
     "cp": 8416,
@@ -167,7 +167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "обрамляющий", "круг", "обратный слэш"],
-    "concepts": []
+    "concepts": ["warning", "prohibited", "zalgo", "enclosing"]
   },
   {
     "cp": 8417,
@@ -187,7 +187,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "обрамляющий", "экран"],
-    "concepts": []
+    "concepts": ["enclosing"]
   },
   {
     "cp": 8419,
@@ -197,7 +197,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "обрамляющий", "клавиша"],
-    "concepts": []
+    "concepts": ["enclosing"]
   },
   {
     "cp": 8420,
@@ -207,7 +207,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "обрамляющий", "вверх", "указывающий", "треугольник"],
-    "concepts": []
+    "concepts": ["warning", "enclosing"]
   },
   {
     "cp": 8421,
@@ -217,7 +217,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "обратный", "косая черта (слэш)", "наложение"],
-    "concepts": []
+    "concepts": ["strikethrough"]
   },
   {
     "cp": 8422,
@@ -227,7 +227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "двойной", "вертикальный", "черта (штрих)", "наложение"],
-    "concepts": []
+    "concepts": ["strikethrough"]
   },
   {
     "cp": 8423,
@@ -277,7 +277,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "длинный", "двойной", "косая черта (слэш)", "наложение"],
-    "concepts": []
+    "concepts": ["strikethrough"]
   },
   {
     "cp": 8428,
@@ -307,7 +307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "левый (влево)", "стрелка", "снизу"],
-    "concepts": []
+    "concepts": ["strikethrough"]
   },
   {
     "cp": 8431,
@@ -317,7 +317,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "правый (вправо)", "стрелка", "снизу"],
-    "concepts": []
+    "concepts": ["strikethrough"]
   },
   {
     "cp": 8432,

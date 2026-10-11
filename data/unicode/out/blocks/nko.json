@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нко", "цифра", "ноль"],
-    "concepts": []
+    "concepts": ["circle"]
   },
   {
     "cp": 1985,
@@ -107,7 +107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нко", "буква"],
-    "concepts": []
+    "concepts": ["line"]
   },
   {
     "cp": 1995,
@@ -567,7 +567,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нко", "запятая"],
-    "concepts": []
+    "concepts": ["line"]
   },
   {
     "cp": 2041,
@@ -577,7 +577,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нко", "восклицательный", "метка (знак)"],
-    "concepts": []
+    "concepts": ["line"]
   },
   {
     "cp": 2042,

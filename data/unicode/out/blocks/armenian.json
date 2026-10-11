@@ -137,7 +137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["армянский", "заглавный", "буква", "ча"],
-    "concepts": []
+    "concepts": ["cow"]
   },
   {
     "cp": 1343,
@@ -237,7 +237,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["армянский", "заглавный", "буква", "во"],
-    "concepts": ["rainbow"]
+    "concepts": ["rainbow", "lucky", "bell"]
   },
   {
     "cp": 1353,
@@ -607,7 +607,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["армянский", "маленький (строчный)", "буква", "ча"],
-    "concepts": []
+    "concepts": ["cow"]
   },
   {
     "cp": 1391,
@@ -917,7 +917,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "обращённый", "армянский", "вечность", "знак"],
-    "concepts": ["rose", "spiral"]
+    "concepts": ["rose", "spiral", "arrow-circle", "ornament-nick", "at-hash", "celtic", "dizzy"]
   },
   {
     "cp": 1422,
@@ -927,7 +927,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "обращённый", "армянский", "вечность", "знак"],
-    "concepts": ["rose", "spiral"]
+    "concepts": ["rose", "spiral", "arrow-circle", "ornament-nick", "at-hash", "celtic", "dizzy"]
   },
   {
     "cp": 1423,
@@ -937,6 +937,6 @@
     "en": "Armenian Dram",
     "keywords": { "ru": [], "en": [] },
     "desc": ["армянский", "драм", "знак"],
-    "concepts": ["wave"]
+    "concepts": ["wave", "money"]
   }
 ]

@@ -167,7 +167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "буква", "маленький (строчный)", "заглавный"],
-    "concepts": []
+    "concepts": ["degree", "font-small-caps"]
   },
   {
     "cp": 42801,
@@ -177,7 +177,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "буква", "маленький (строчный)", "заглавный"],
-    "concepts": []
+    "concepts": ["font-small-caps"]
   },
   {
     "cp": 42802,
@@ -453,7 +453,7 @@
       "черта (штрих)",
       "наложение"
     ],
-    "concepts": ["fruit", "cherry"]
+    "concepts": ["fruit", "cherry", "fist", "circle"]
   },
   {
     "cp": 42828,
@@ -473,7 +473,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "маленький (строчный)", "буква", "с", "петля"],
-    "concepts": ["cherry", "apple"]
+    "concepts": ["cherry", "apple", "goat"]
   },
   {
     "cp": 42830,
@@ -493,7 +493,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "маленький (строчный)", "буква", "оо"],
-    "concepts": ["infinity", "forever"]
+    "concepts": ["infinity", "forever", "infinity-math", "celtic", "pin"]
   },
   {
     "cp": 42832,
@@ -511,7 +511,7 @@
       "сквозь",
       "с хвостиком (нижний выносной)"
     ],
-    "concepts": []
+    "concepts": ["ruble"]
   },
   {
     "cp": 42833,
@@ -529,7 +529,7 @@
       "сквозь",
       "с хвостиком (нижний выносной)"
     ],
-    "concepts": []
+    "concepts": ["ruble"]
   },
   {
     "cp": 42834,
@@ -539,7 +539,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "заглавный", "буква", "с", "росчерк"],
-    "concepts": []
+    "concepts": ["ruble"]
   },
   {
     "cp": 42835,
@@ -549,7 +549,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "маленький (строчный)", "буква", "с", "росчерк"],
-    "concepts": []
+    "concepts": ["ruble"]
   },
   {
     "cp": 42836,
@@ -569,7 +569,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "маленький (строчный)", "буква", "с", "хвост"],
-    "concepts": []
+    "concepts": ["ruble"]
   },
   {
     "cp": 42838,
@@ -587,7 +587,7 @@
       "сквозь",
       "с хвостиком (нижний выносной)"
     ],
-    "concepts": []
+    "concepts": ["ankh"]
   },
   {
     "cp": 42839,
@@ -605,7 +605,7 @@
       "сквозь",
       "с хвостиком (нижний выносной)"
     ],
-    "concepts": []
+    "concepts": ["ankh"]
   },
   {
     "cp": 42840,
@@ -863,7 +863,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "маленький (строчный)", "буква"],
-    "concepts": ["female"]
+    "concepts": ["female", "punctuation-fancy"]
   },
   {
     "cp": 42864,
@@ -1003,7 +1003,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "заглавный", "буква", "островной"],
-    "concepts": []
+    "concepts": ["pound-yen"]
   },
   {
     "cp": 42878,
@@ -1033,7 +1033,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "заглавный", "буква", "перевёрнутый"],
-    "concepts": []
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 42881,
@@ -1043,7 +1043,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "маленький (строчный)", "буква", "перевёрнутый"],
-    "concepts": []
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 42882,
@@ -1103,7 +1103,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "маленький (строчный)", "буква", "островной"],
-    "concepts": []
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 42888,
@@ -1113,7 +1113,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "низкий", "циркумфлекс (крышечка)", "ударение (акцент)"],
-    "concepts": []
+    "concepts": ["cat"]
   },
   {
     "cp": 42889,
@@ -1123,7 +1123,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "двоеточие"],
-    "concepts": []
+    "concepts": ["punctuation-fancy"]
   },
   {
     "cp": 42890,
@@ -1133,7 +1133,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "короткий", "равно", "знак"],
-    "concepts": []
+    "concepts": ["equals", "punctuation-fancy"]
   },
   {
     "cp": 42891,
@@ -1143,7 +1143,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["quote"]
   },
   {
     "cp": 42892,
@@ -1153,7 +1153,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["quote"]
   },
   {
     "cp": 42893,
@@ -1163,7 +1163,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "заглавный", "буква", "перевёрнутый"],
-    "concepts": []
+    "concepts": ["pound-yen"]
   },
   {
     "cp": 42894,
@@ -1182,7 +1182,7 @@
       "и",
       "пояс (ремень)"
     ],
-    "concepts": []
+    "concepts": ["font-script"]
   },
   {
     "cp": 42895,
@@ -1192,7 +1192,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "буква", "точка"],
-    "concepts": []
+    "concepts": ["dot", "ellipsis"]
   },
   {
     "cp": 42896,
@@ -1222,7 +1222,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "заглавный", "буква", "с", "черта"],
-    "concepts": []
+    "concepts": ["euro"]
   },
   {
     "cp": 42899,
@@ -1232,7 +1232,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "маленький (строчный)", "буква", "с", "черта"],
-    "concepts": []
+    "concepts": ["euro"]
   },
   {
     "cp": 42900,
@@ -1302,7 +1302,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "заглавный", "буква", "волапюк", "ae (лигатура)"],
-    "concepts": []
+    "concepts": ["money"]
   },
   {
     "cp": 42907,
@@ -1442,7 +1442,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "заглавный", "буква", "с", "косой", "черта (штрих)"],
-    "concepts": ["lightning"]
+    "concepts": ["lightning", "money", "dollar"]
   },
   {
     "cp": 42921,
@@ -1452,7 +1452,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "маленький (строчный)", "буква", "с", "косой", "черта (штрих)"],
-    "concepts": []
+    "concepts": ["money", "dollar"]
   },
   {
     "cp": 42922,
@@ -1512,7 +1512,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "буква", "маленький (строчный)", "заглавный"],
-    "concepts": []
+    "concepts": ["font-small-caps"]
   },
   {
     "cp": 42928,
@@ -1562,7 +1562,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "заглавный", "буква", "бета"],
-    "concepts": []
+    "concepts": ["money", "dollar", "pound-yen"]
   },
   {
     "cp": 42933,
@@ -1572,7 +1572,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "маленький (строчный)", "буква", "бета"],
-    "concepts": []
+    "concepts": ["goat", "money", "dollar"]
   },
   {
     "cp": 42934,
@@ -1582,7 +1582,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "заглавный", "буква", "омега"],
-    "concepts": []
+    "concepts": ["dog", "bunny", "uwu", "omega"]
   },
   {
     "cp": 42935,
@@ -1592,7 +1592,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "маленький (строчный)", "буква", "омега"],
-    "concepts": []
+    "concepts": ["goat", "uwu", "omega"]
   },
   {
     "cp": 42936,
@@ -2125,7 +2125,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "эпиграфический", "буква", "зеркальный (обратный)"],
-    "concepts": []
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 43005,
@@ -2135,7 +2135,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "эпиграфический", "буква", "перевёрнутый"],
-    "concepts": []
+    "concepts": ["crown"]
   },
   {
     "cp": 43006,
@@ -2145,7 +2145,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["латинский", "эпиграфический", "буква", "лонга"],
-    "concepts": []
+    "concepts": ["paw", "writing", "line", "information"]
   },
   {
     "cp": 43007,

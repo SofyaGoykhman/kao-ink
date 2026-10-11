@@ -217,7 +217,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гуджарати", "буква", "нга"],
-    "concepts": []
+    "concepts": ["om"]
   },
   {
     "cp": 2714,
@@ -287,7 +287,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гуджарати", "буква", "ттха"],
-    "concepts": ["fruit"]
+    "concepts": []
   },
   {
     "cp": 2721,
@@ -527,7 +527,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гуджарати", "знак", "аваграха"],
-    "concepts": ["infinity"]
+    "concepts": ["infinity", "fish", "snake"]
   },
   {
     "cp": 2750,
@@ -677,7 +677,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гуджарати", "ом (ॐ)"],
-    "concepts": []
+    "concepts": ["om"]
   },
   {
     "cp": 2784,
@@ -837,7 +837,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["гуджарати", "рупия", "знак"],
-    "concepts": []
+    "concepts": ["money"]
   },
   {
     "cp": 2809,

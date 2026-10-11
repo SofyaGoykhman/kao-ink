@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12355,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12357,
@@ -57,7 +57,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12359,
@@ -77,7 +77,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12361,
@@ -97,7 +97,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12363,
@@ -107,7 +107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ка"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12364,
@@ -127,7 +127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ки"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12366,
@@ -147,7 +147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ку"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12368,
@@ -167,7 +167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ке"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12370,
@@ -187,7 +187,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ко"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12372,
@@ -207,7 +207,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "са"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12374,
@@ -227,7 +227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "си"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12376,
@@ -247,7 +247,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "су"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12378,
@@ -267,7 +267,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "се"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12380,
@@ -287,7 +287,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "со"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12382,
@@ -307,7 +307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "та"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12384,
@@ -327,7 +327,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ти"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12386,
@@ -357,7 +357,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ту"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12389,
@@ -377,7 +377,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "те"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12391,
@@ -397,7 +397,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "к"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12393,
@@ -417,7 +417,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "на"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12395,
@@ -427,7 +427,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ни"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12396,
@@ -437,7 +437,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ню"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12397,
@@ -447,7 +447,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "не"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12398,
@@ -457,7 +457,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "нет"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12399,
@@ -467,7 +467,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ха"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12400,
@@ -497,7 +497,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "хай (HI)"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12403,
@@ -527,7 +527,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ху"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12406,
@@ -557,7 +557,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "хе"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12409,
@@ -587,7 +587,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "хо"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12412,
@@ -617,7 +617,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ма"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12415,
@@ -627,7 +627,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ми"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12416,
@@ -637,7 +637,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "мю"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12417,
@@ -647,7 +647,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "мне"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12418,
@@ -657,7 +657,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "мо"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12419,
@@ -677,7 +677,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "я"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12421,
@@ -697,7 +697,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ю"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12423,
@@ -717,7 +717,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "йо"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12425,
@@ -727,7 +727,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ра"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12426,
@@ -737,7 +737,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ри"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12427,
@@ -747,7 +747,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ру"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12428,
@@ -757,7 +757,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ре"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12429,
@@ -767,7 +767,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ро"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12430,
@@ -787,7 +787,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "ва"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12432,
@@ -817,7 +817,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква", "во"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12435,
@@ -827,7 +827,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "буква"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12436,
@@ -877,7 +877,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "катакана", "хирагана", "полу", "звонкий", "звук", "метка (знак)"],
-    "concepts": ["sparkle"]
+    "concepts": ["sparkle", "arms-raised", "bubble"]
   },
   {
     "cp": 12443,
@@ -897,7 +897,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["катакана", "хирагана", "полу", "звонкий", "звук", "метка (знак)"],
-    "concepts": []
+    "concepts": ["cheeks", "table-flip"]
   },
   {
     "cp": 12445,
@@ -907,7 +907,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "повтор", "метка (знак)"],
-    "concepts": []
+    "concepts": ["shrug", "face", "japanese"]
   },
   {
     "cp": 12446,
@@ -917,7 +917,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хирагана", "звонкий", "повтор", "метка (знак)"],
-    "concepts": []
+    "concepts": ["hand", "japanese"]
   },
   {
     "cp": 12447,

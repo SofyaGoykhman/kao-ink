@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иероглифический", "пробел"],
-    "concepts": []
+    "concepts": ["invisible"]
   },
   {
     "cp": 12289,
@@ -30,7 +30,7 @@
       "en": ["full", "ideographic", "period", "stop"]
     },
     "desc": ["иероглифический", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["dot", "bubble"]
   },
   {
     "cp": 12291,
@@ -50,7 +50,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["японский", "символ"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12293,
@@ -70,7 +70,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иероглифический", "закрывающий", "метка (знак)"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12295,
@@ -80,7 +80,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иероглифический", "число", "ноль"],
-    "concepts": []
+    "concepts": ["circle"]
   },
   {
     "cp": 12296,
@@ -93,7 +93,7 @@
       "en": ["angle", "bracket", "brackets", "chevron", "diamond", "open", "pointy", "tuple"]
     },
     "desc": ["левый (влево)", "угол", "скобка"],
-    "concepts": []
+    "concepts": ["arrow-left", "arrowhead", "compare", "angle-geometry", "brackets"]
   },
   {
     "cp": 12297,
@@ -106,7 +106,7 @@
       "en": ["angle", "bracket", "brackets", "chevron", "close", "diamond", "pointy", "tuple"]
     },
     "desc": ["правый (вправо)", "угол", "скобка"],
-    "concepts": []
+    "concepts": ["arrow-right", "arrowhead", "compare", "brackets"]
   },
   {
     "cp": 12298,
@@ -125,7 +125,7 @@
       "en": ["angle", "bracket", "double", "open"]
     },
     "desc": ["левый (влево)", "двойной", "угол", "скобка"],
-    "concepts": []
+    "concepts": ["arrowhead", "brackets"]
   },
   {
     "cp": 12299,
@@ -144,7 +144,7 @@
       "en": ["angle", "bracket", "close", "double"]
     },
     "desc": ["правый (вправо)", "двойной", "угол", "скобка"],
-    "concepts": []
+    "concepts": ["arrowhead", "brackets"]
   },
   {
     "cp": 12300,
@@ -162,7 +162,7 @@
       "en": ["bracket", "corner", "open"]
     },
     "desc": ["левый (влево)", "угол (уголок)", "скобка"],
-    "concepts": []
+    "concepts": ["brackets", "frame-nick", "border", "corner", "quote"]
   },
   {
     "cp": 12301,
@@ -180,7 +180,7 @@
       "en": ["bracket", "close", "corner"]
     },
     "desc": ["правый (вправо)", "угол (уголок)", "скобка"],
-    "concepts": []
+    "concepts": ["brackets", "frame-nick", "border", "corner", "quote"]
   },
   {
     "cp": 12302,
@@ -198,7 +198,7 @@
       "en": ["bracket", "corner", "hollow", "open"]
     },
     "desc": ["левый (влево)", "белый (контурный)", "угол (уголок)", "скобка"],
-    "concepts": []
+    "concepts": ["brackets", "frame-nick", "border", "corner", "quote"]
   },
   {
     "cp": 12303,
@@ -216,7 +216,7 @@
       "en": ["bracket", "close", "corner", "hollow"]
     },
     "desc": ["правый (вправо)", "белый (контурный)", "угол (уголок)", "скобка"],
-    "concepts": []
+    "concepts": ["brackets", "frame-nick", "border", "corner", "quote"]
   },
   {
     "cp": 12304,
@@ -235,7 +235,7 @@
       "en": ["black", "bracket", "lens", "lenticular", "open"]
     },
     "desc": ["левый (влево)", "чёрный (закрашенный)", "линзовидная (скобка)", "скобка"],
-    "concepts": []
+    "concepts": ["brackets", "frame-nick", "border"]
   },
   {
     "cp": 12305,
@@ -254,7 +254,7 @@
       "en": ["black", "bracket", "close", "lens", "lenticular"]
     },
     "desc": ["правый (вправо)", "чёрный (закрашенный)", "линзовидная (скобка)", "скобка"],
-    "concepts": []
+    "concepts": ["brackets", "frame-nick", "border"]
   },
   {
     "cp": 12306,
@@ -264,7 +264,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["почтовый", "метка (знак)"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12307,
@@ -287,7 +287,7 @@
       "en": ["bracket", "open", "shell", "tortoise"]
     },
     "desc": ["левый (влево)", "черепаха (черепаховая скобка)", "ракушка (оболочка)", "скобка"],
-    "concepts": []
+    "concepts": ["turtle", "brackets"]
   },
   {
     "cp": 12309,
@@ -300,7 +300,7 @@
       "en": ["bracket", "close", "shell", "tortoise"]
     },
     "desc": ["правый (вправо)", "черепаха (черепаховая скобка)", "ракушка (оболочка)", "скобка"],
-    "concepts": []
+    "concepts": ["turtle", "speaker", "brackets"]
   },
   {
     "cp": 12310,
@@ -319,7 +319,7 @@
       "en": ["bracket", "hollow", "lens", "lenticular", "open"]
     },
     "desc": ["левый (влево)", "белый (контурный)", "линзовидная (скобка)", "скобка"],
-    "concepts": []
+    "concepts": ["brackets", "frame-nick"]
   },
   {
     "cp": 12311,
@@ -338,7 +338,7 @@
       "en": ["bracket", "close", "hollow", "lens", "lenticular"]
     },
     "desc": ["правый (вправо)", "белый (контурный)", "линзовидная (скобка)", "скобка"],
-    "concepts": []
+    "concepts": ["brackets", "frame-nick"]
   },
   {
     "cp": 12312,
@@ -354,7 +354,7 @@
       "ракушка (оболочка)",
       "скобка"
     ],
-    "concepts": []
+    "concepts": ["turtle", "brackets"]
   },
   {
     "cp": 12313,
@@ -370,7 +370,7 @@
       "ракушка (оболочка)",
       "скобка"
     ],
-    "concepts": []
+    "concepts": ["turtle", "brackets"]
   },
   {
     "cp": 12314,
@@ -380,7 +380,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "белый (контурный)", "квадрат", "скобка"],
-    "concepts": []
+    "concepts": ["brackets"]
   },
   {
     "cp": 12315,
@@ -390,7 +390,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "белый (контурный)", "квадрат", "скобка"],
-    "concepts": []
+    "concepts": ["brackets"]
   },
   {
     "cp": 12316,
@@ -400,7 +400,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["волна", "тире"],
-    "concepts": ["wind", "fog", "water", "wave"]
+    "concepts": ["wind", "fog", "water", "wave", "wave-line"]
   },
   {
     "cp": 12317,
@@ -410,7 +410,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["зеркальный (обратный)", "двойной", "штрих", "кавычка", "метка (знак)"],
-    "concepts": []
+    "concepts": ["quote"]
   },
   {
     "cp": 12318,
@@ -420,7 +420,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "штрих", "кавычка", "метка (знак)"],
-    "concepts": []
+    "concepts": ["quote"]
   },
   {
     "cp": 12319,
@@ -430,7 +430,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["низкий", "двойной", "штрих", "кавычка", "метка (знак)"],
-    "concepts": []
+    "concepts": ["quote"]
   },
   {
     "cp": 12320,
@@ -440,7 +440,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["почтовый", "метка (знак)", "лицо (смайлик)"],
-    "concepts": []
+    "concepts": ["japanese"]
   },
   {
     "cp": 12321,
@@ -603,7 +603,16 @@
       "en": ["dash", "punctuation", "wavy"]
     },
     "desc": ["волнистый", "тире"],
-    "concepts": ["fog", "water", "wave"]
+    "concepts": [
+      "fog",
+      "water",
+      "wave",
+      "snake",
+      "arrow-zigzag",
+      "wave-line",
+      "divider",
+      "aquarius"
+    ]
   },
   {
     "cp": 12337,
@@ -633,7 +642,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["вертикальный", "кана", "повтор", "метка (знак)", "верхний", "половина"],
-    "concepts": []
+    "concepts": ["shrug"]
   },
   {
     "cp": 12340,
@@ -653,7 +662,7 @@
       "верхний",
       "половина"
     ],
-    "concepts": []
+    "concepts": ["shrug"]
   },
   {
     "cp": 12341,
@@ -663,7 +672,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["вертикальный", "кана", "повтор", "метка (знак)", "нижний", "половина"],
-    "concepts": []
+    "concepts": ["shrug"]
   },
   {
     "cp": 12342,
@@ -700,7 +709,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ханчжоуский", "цифра (число)", "десять"],
-    "concepts": []
+    "concepts": ["cross"]
   },
   {
     "cp": 12345,

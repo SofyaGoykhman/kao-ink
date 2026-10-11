@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["грузинский", "заглавный", "буква", "ган"],
-    "concepts": []
+    "concepts": ["rook"]
   },
   {
     "cp": 4259,
@@ -367,7 +367,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["грузинский", "заглавный", "буква", "хар"],
-    "concepts": ["plant"]
+    "concepts": ["plant", "zodiac"]
   },
   {
     "cp": 4293,
@@ -407,7 +407,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["грузинский", "буква", "ан"],
-    "concepts": []
+    "concepts": ["frame-nick"]
   },
   {
     "cp": 4305,
@@ -437,7 +437,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["грузинский", "буква", "дон"],
-    "concepts": ["heart", "heart-white"]
+    "concepts": ["heart", "heart-white", "valentine"]
   },
   {
     "cp": 4308,
@@ -507,7 +507,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["грузинский", "буква", "лас"],
-    "concepts": []
+    "concepts": ["hand"]
   },
   {
     "cp": 4315,
@@ -627,7 +627,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["грузинский", "буква", "ган"],
-    "concepts": ["heart", "heart-black", "heart-broken"]
+    "concepts": ["heart", "heart-black", "heart-broken", "hearts-suit", "frame-nick", "valentine"]
   },
   {
     "cp": 4327,

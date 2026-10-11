@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["чёрный (закрашенный)", "капелька"],
-    "concepts": ["weather", "rain", "water", "drop"]
+    "concepts": ["weather", "rain", "water", "drop", "sweat"]
   },
   {
     "cp": 127779,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["сердце", "с", "кончик", "на", "левый (влево)"],
-    "concepts": ["heart", "heart-black"]
+    "concepts": ["heart", "heart-black", "valentine"]
   },
   {
     "cp": 127893,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["букет", "из", "цветы"],
-    "concepts": ["flower"]
+    "concepts": ["flower", "sakura"]
   },
   {
     "cp": 127896,
@@ -47,7 +47,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["музыкальный", "клавиатура", "с", "разъёмы"],
-    "concepts": []
+    "concepts": ["music", "instrument"]
   },
   {
     "cp": 127900,
@@ -57,7 +57,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["связанные (ноты)", "восходящий", "музыкальный", "ноты"],
-    "concepts": []
+    "concepts": ["music", "note"]
   },
   {
     "cp": 127901,
@@ -67,7 +67,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["связанные (ноты)", "нисходящий", "музыкальный", "ноты"],
-    "concepts": []
+    "concepts": ["music", "note"]
   },
   {
     "cp": 127985,
@@ -77,7 +77,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["белый (контурный)", "вымпел"],
-    "concepts": []
+    "concepts": ["flag"]
   },
   {
     "cp": 127986,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["чёрный (закрашенный)", "вымпел"],
-    "concepts": []
+    "concepts": ["flag"]
   },
   {
     "cp": 127990,
@@ -97,7 +97,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["чёрный (закрашенный)", "розетка (розочка)"],
-    "concepts": ["flower", "rose"]
+    "concepts": ["flower", "rose", "sakura"]
   },
   {
     "cp": 128254,
@@ -117,7 +117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний", "правый (вправо)", "с тенью", "белый (контурный)", "круг"],
-    "concepts": []
+    "concepts": ["circle"]
   },
   {
     "cp": 128319,
@@ -127,7 +127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верхний", "правый (вправо)", "с тенью", "белый (контурный)", "круг"],
-    "concepts": []
+    "concepts": ["circle"]
   },
   {
     "cp": 128320,
@@ -137,7 +137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "крест", "помме (с шариками)"],
-    "concepts": []
+    "concepts": ["cross", "religion"]
   },
   {
     "cp": 128321,
@@ -147,7 +147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["крест", "помме (с шариками)", "с", "половина", "круг", "снизу"],
-    "concepts": []
+    "concepts": ["cross", "religion"]
   },
   {
     "cp": 128322,
@@ -157,7 +157,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["крест", "помме (с шариками)"],
-    "concepts": []
+    "concepts": ["cross", "religion"]
   },
   {
     "cp": 128323,
@@ -197,7 +197,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["белый (контурный)", "латинский", "крест"],
-    "concepts": []
+    "concepts": ["cross", "religion"]
   },
   {
     "cp": 128327,
@@ -207,7 +207,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["жирный (толстый)", "латинский", "крест"],
-    "concepts": []
+    "concepts": ["cross", "religion"]
   },
   {
     "cp": 128328,
@@ -217,7 +217,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кельтский", "крест"],
-    "concepts": []
+    "concepts": ["cross", "religion", "celtic"]
   },
   {
     "cp": 128335,
@@ -227,7 +227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["миска", "из", "Гигиеи"],
-    "concepts": []
+    "concepts": ["medical"]
   },
   {
     "cp": 128360,
@@ -237,7 +237,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "динамик"],
-    "concepts": []
+    "concepts": ["speaker"]
   },
   {
     "cp": 128361,
@@ -247,7 +247,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "динамик", "с", "один", "звук", "волна"],
-    "concepts": []
+    "concepts": ["speaker"]
   },
   {
     "cp": 128362,
@@ -257,7 +257,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "динамик", "с", "три", "звук", "волны"],
-    "concepts": []
+    "concepts": ["speaker"]
   },
   {
     "cp": 128363,
@@ -267,7 +267,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["мегафон (рупор)"],
-    "concepts": []
+    "concepts": ["instrument", "speaker", "bell"]
   },
   {
     "cp": 128364,
@@ -277,7 +277,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["мегафон (рупор)", "с", "звук", "волны"],
-    "concepts": []
+    "concepts": ["instrument", "speaker", "bell"]
   },
   {
     "cp": 128365,
@@ -287,7 +287,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["звенящий", "колокол (колокольчик)"],
-    "concepts": []
+    "concepts": ["speaker", "bell"]
   },
   {
     "cp": 128366,
@@ -297,7 +297,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["книга"],
-    "concepts": []
+    "concepts": ["book", "school"]
   },
   {
     "cp": 128369,
@@ -307,7 +307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["чёрный (закрашенный)", "череп", "и", "скрещённые кости"],
-    "concepts": []
+    "concepts": ["skull", "warning", "halloween"]
   },
   {
     "cp": 128370,
@@ -317,7 +317,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нет", "пиратство"],
-    "concepts": []
+    "concepts": ["skull", "prohibited"]
   },
   {
     "cp": 128379,
@@ -327,7 +327,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "рука", "телефон", "трубка"],
-    "concepts": []
+    "concepts": ["phone"]
   },
   {
     "cp": 128380,
@@ -337,7 +337,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["телефон", "трубка", "с", "страница"],
-    "concepts": []
+    "concepts": ["phone"]
   },
   {
     "cp": 128381,
@@ -347,7 +347,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "рука", "телефон", "трубка"],
-    "concepts": []
+    "concepts": ["phone"]
   },
   {
     "cp": 128382,
@@ -357,7 +357,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["белый (контурный)", "кнопочный", "телефон"],
-    "concepts": []
+    "concepts": ["phone"]
   },
   {
     "cp": 128383,
@@ -367,7 +367,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["чёрный (закрашенный)", "кнопочный", "телефон"],
-    "concepts": []
+    "concepts": ["phone"]
   },
   {
     "cp": 128384,
@@ -377,7 +377,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["телефон", "на", "верх", "из", "модем"],
-    "concepts": []
+    "concepts": ["phone"]
   },
   {
     "cp": 128385,
@@ -387,7 +387,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["раскладушка", "мобильный", "телефон"],
-    "concepts": []
+    "concepts": ["phone"]
   },
   {
     "cp": 128386,
@@ -397,7 +397,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["назад (обратная сторона)", "из", "конверт"],
-    "concepts": []
+    "concepts": ["mail"]
   },
   {
     "cp": 128387,
@@ -407,7 +407,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["с маркой", "конверт"],
-    "concepts": []
+    "concepts": ["mail"]
   },
   {
     "cp": 128388,
@@ -417,7 +417,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["конверт", "с", "молния"],
-    "concepts": ["lightning"]
+    "concepts": ["lightning", "mail"]
   },
   {
     "cp": 128389,
@@ -427,7 +427,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["летящий", "конверт"],
-    "concepts": []
+    "concepts": ["mail", "airplane"]
   },
   {
     "cp": 128390,
@@ -437,7 +437,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ручка (перо)", "над", "с маркой", "конверт"],
-    "concepts": []
+    "concepts": ["writing", "mail"]
   },
   {
     "cp": 128392,
@@ -447,7 +447,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["чёрный (закрашенный)", "кнопка (булавка)"],
-    "concepts": []
+    "concepts": ["pin"]
   },
   {
     "cp": 128393,
@@ -457,7 +457,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нижний", "левый (влево)", "карандаш"],
-    "concepts": []
+    "concepts": ["writing"]
   },
   {
     "cp": 128398,
@@ -467,7 +467,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "пишущий", "рука"],
-    "concepts": []
+    "concepts": ["hand", "writing"]
   },
   {
     "cp": 128399,
@@ -477,7 +477,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["перевёрнутый", "ок", "рука", "знак"],
-    "concepts": []
+    "concepts": ["hand"]
   },
   {
     "cp": 128401,
@@ -487,7 +487,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["зеркальный (обратный)", "поднятый", "рука", "с", "пальцы", "растопыренные"],
-    "concepts": []
+    "concepts": ["hand"]
   },
   {
     "cp": 128402,
@@ -497,7 +497,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["зеркальный (обратный)", "большие пальцы", "вверх", "знак"],
-    "concepts": []
+    "concepts": ["hand", "thumbs-up"]
   },
   {
     "cp": 128403,
@@ -507,7 +507,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["зеркальный (обратный)", "большие пальцы", "вниз", "знак"],
-    "concepts": []
+    "concepts": ["hand", "thumbs-up"]
   },
   {
     "cp": 128404,
@@ -517,7 +517,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["зеркальный (обратный)", "победа", "рука"],
-    "concepts": []
+    "concepts": ["hand", "victory", "peace"]
   },
   {
     "cp": 128407,
@@ -527,7 +527,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["белый (контурный)", "вниз", "указывающий", "левый (влево)", "рука", "указательный"],
-    "concepts": []
+    "concepts": ["hand", "pointing-hand"]
   },
   {
     "cp": 128408,
@@ -537,7 +537,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["боком", "белый (контурный)", "левый (влево)", "указывающий", "указательный"],
-    "concepts": []
+    "concepts": ["hand", "pointing-hand"]
   },
   {
     "cp": 128409,
@@ -547,7 +547,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["боком", "белый (контурный)", "правый (вправо)", "указывающий", "указательный"],
-    "concepts": []
+    "concepts": ["hand", "pointing-hand"]
   },
   {
     "cp": 128410,
@@ -557,7 +557,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["боком", "чёрный (закрашенный)", "левый (влево)", "указывающий", "указательный"],
-    "concepts": []
+    "concepts": ["hand", "pointing-hand"]
   },
   {
     "cp": 128411,
@@ -567,7 +567,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["боком", "чёрный (закрашенный)", "правый (вправо)", "указывающий", "указательный"],
-    "concepts": []
+    "concepts": ["hand", "pointing-hand"]
   },
   {
     "cp": 128412,
@@ -583,7 +583,7 @@
       "тыльная сторона руки",
       "указательный"
     ],
-    "concepts": []
+    "concepts": ["hand", "pointing-hand"]
   },
   {
     "cp": 128413,
@@ -599,7 +599,7 @@
       "тыльная сторона руки",
       "указательный"
     ],
-    "concepts": []
+    "concepts": ["hand", "pointing-hand"]
   },
   {
     "cp": 128414,
@@ -609,7 +609,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["боком", "белый (контурный)", "вверх", "указывающий", "указательный"],
-    "concepts": []
+    "concepts": ["hand", "pointing-hand"]
   },
   {
     "cp": 128415,
@@ -619,7 +619,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["боком", "белый (контурный)", "вниз", "указывающий", "указательный"],
-    "concepts": []
+    "concepts": ["hand", "pointing-hand"]
   },
   {
     "cp": 128416,
@@ -629,7 +629,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["боком", "чёрный (закрашенный)", "вверх", "указывающий", "указательный"],
-    "concepts": []
+    "concepts": ["hand", "pointing-hand"]
   },
   {
     "cp": 128417,
@@ -639,7 +639,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["боком", "чёрный (закрашенный)", "вниз", "указывающий", "указательный"],
-    "concepts": []
+    "concepts": ["hand", "pointing-hand"]
   },
   {
     "cp": 128418,
@@ -655,7 +655,7 @@
       "тыльная сторона руки",
       "указательный"
     ],
-    "concepts": []
+    "concepts": ["hand", "pointing-hand"]
   },
   {
     "cp": 128419,
@@ -665,7 +665,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["чёрный (закрашенный)", "вниз", "указывающий", "тыльная сторона руки", "указательный"],
-    "concepts": []
+    "concepts": ["hand", "pointing-hand"]
   },
   {
     "cp": 128422,
@@ -675,7 +675,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["клавиатура", "и", "мышь"],
-    "concepts": []
+    "concepts": ["keyboard"]
   },
   {
     "cp": 128423,
@@ -685,7 +685,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["три", "сетевые", "компьютеры"],
-    "concepts": []
+    "concepts": ["computer", "wifi"]
   },
   {
     "cp": 128425,
@@ -695,7 +695,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["карманный", "калькулятор"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128426,
@@ -705,7 +705,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["чёрный (закрашенный)", "твёрдый", "ракушка (оболочка)", "дискета", "диск"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128427,
@@ -715,7 +715,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["белый (контурный)", "твёрдый", "ракушка (оболочка)", "дискета", "диск"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128428,
@@ -725,7 +725,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["мягкий", "ракушка (оболочка)", "дискета", "диск"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128429,
@@ -735,7 +735,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["лента (кассета)", "картридж"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128430,
@@ -745,7 +745,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["проводной", "клавиатура"],
-    "concepts": []
+    "concepts": ["keyboard"]
   },
   {
     "cp": 128431,
@@ -755,7 +755,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["один", "кнопка", "мышь"],
-    "concepts": []
+    "concepts": ["mouse", "computer"]
   },
   {
     "cp": 128432,
@@ -765,7 +765,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["два", "кнопка", "мышь"],
-    "concepts": []
+    "concepts": ["mouse", "computer"]
   },
   {
     "cp": 128435,
@@ -775,7 +775,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["старый", "персональный", "компьютер"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128436,
@@ -785,7 +785,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["твёрдый", "диск"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128437,
@@ -795,7 +795,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["экран"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128438,
@@ -805,7 +805,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["принтер", "значок (иконка)"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128439,
@@ -815,7 +815,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["факс", "значок (иконка)"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128440,
@@ -825,7 +825,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["оптический", "диск", "значок (иконка)"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128441,
@@ -835,7 +835,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["документ", "с", "текст"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128442,
@@ -845,7 +845,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["документ", "с", "текст", "и", "картинка"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128443,
@@ -855,7 +855,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["документ", "с", "картинка"],
-    "concepts": []
+    "concepts": ["computer", "camera"]
   },
   {
     "cp": 128445,
@@ -875,7 +875,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка", "с", "ан"],
-    "concepts": []
+    "concepts": ["camera"]
   },
   {
     "cp": 128447,
@@ -885,7 +885,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["чёрный (закрашенный)", "папка"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128448,
@@ -895,7 +895,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["папка"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128449,
@@ -905,7 +905,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["открытый", "папка"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128453,
@@ -915,7 +915,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["пустой", "нота"],
-    "concepts": []
+    "concepts": ["computer", "book"]
   },
   {
     "cp": 128454,
@@ -925,7 +925,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["пустой", "нота", "страница"],
-    "concepts": []
+    "concepts": ["computer", "book"]
   },
   {
     "cp": 128455,
@@ -935,7 +935,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["пустой", "нота", "блокнот (подушечка)"],
-    "concepts": []
+    "concepts": ["computer", "book"]
   },
   {
     "cp": 128456,
@@ -945,7 +945,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нота"],
-    "concepts": []
+    "concepts": ["computer", "book"]
   },
   {
     "cp": 128457,
@@ -955,7 +955,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нота", "страница"],
-    "concepts": []
+    "concepts": ["computer", "book"]
   },
   {
     "cp": 128458,
@@ -965,7 +965,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["нота", "блокнот (подушечка)"],
-    "concepts": []
+    "concepts": ["computer", "book"]
   },
   {
     "cp": 128459,
@@ -975,7 +975,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["пустой", "документ"],
-    "concepts": []
+    "concepts": ["computer", "book"]
   },
   {
     "cp": 128460,
@@ -1005,7 +1005,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["документ"],
-    "concepts": []
+    "concepts": ["computer", "book"]
   },
   {
     "cp": 128463,
@@ -1015,7 +1015,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["страница"],
-    "concepts": []
+    "concepts": ["computer", "book"]
   },
   {
     "cp": 128464,
@@ -1025,7 +1025,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["страницы"],
-    "concepts": []
+    "concepts": ["computer", "book"]
   },
   {
     "cp": 128468,
@@ -1035,7 +1035,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["настольный (рабочий стол)", "окно"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128469,
@@ -1045,7 +1045,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["свернуть"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128470,
@@ -1055,7 +1055,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["развернуть"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128471,
@@ -1065,7 +1065,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["перекрытие"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128472,
@@ -1075,7 +1075,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["по часовой стрелке", "правый (вправо)", "и", "левый (влево)", "полукруг", "стрелки"],
-    "concepts": []
+    "concepts": ["arrow-circle"]
   },
   {
     "cp": 128473,
@@ -1085,7 +1085,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["отмена"],
-    "concepts": []
+    "concepts": ["cross-mark"]
   },
   {
     "cp": 128474,
@@ -1115,7 +1115,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["страница", "с", "в кружке", "текст"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128480,
@@ -1125,7 +1125,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["акции", "график"],
-    "concepts": []
+    "concepts": ["computer"]
   },
   {
     "cp": 128482,
@@ -1135,7 +1135,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["губы"],
-    "concepts": ["kiss"]
+    "concepts": ["kiss", "face", "mouth"]
   },
   {
     "cp": 128484,
@@ -1145,7 +1145,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["три", "лучи", "сверху"],
-    "concepts": []
+    "concepts": ["light"]
   },
   {
     "cp": 128485,
@@ -1155,7 +1155,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["три", "лучи", "снизу"],
-    "concepts": []
+    "concepts": ["light"]
   },
   {
     "cp": 128486,
@@ -1165,7 +1165,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["три", "лучи", "левый (влево)"],
-    "concepts": []
+    "concepts": ["light"]
   },
   {
     "cp": 128487,
@@ -1175,7 +1175,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["три", "лучи", "правый (вправо)"],
-    "concepts": []
+    "concepts": ["light"]
   },
   {
     "cp": 128489,
@@ -1185,7 +1185,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "речь", "пузырь (облачко)"],
-    "concepts": ["cloud"]
+    "concepts": ["cloud", "chat"]
   },
   {
     "cp": 128490,
@@ -1195,7 +1195,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["два", "речь", "пузыри (облачка)"],
-    "concepts": ["cloud"]
+    "concepts": ["cloud", "chat"]
   },
   {
     "cp": 128491,
@@ -1205,7 +1205,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["три", "речь", "пузыри (облачка)"],
-    "concepts": ["cloud"]
+    "concepts": ["cloud", "chat"]
   },
   {
     "cp": 128492,
@@ -1215,7 +1215,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "мысль", "пузырь (облачко)"],
-    "concepts": ["cloud"]
+    "concepts": ["cloud", "chat"]
   },
   {
     "cp": 128493,
@@ -1225,7 +1225,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "мысль", "пузырь (облачко)"],
-    "concepts": ["cloud"]
+    "concepts": ["cloud", "chat"]
   },
   {
     "cp": 128494,
@@ -1235,7 +1235,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "гнев (злость)", "пузырь (облачко)"],
-    "concepts": []
+    "concepts": ["angry", "chat"]
   },
   {
     "cp": 128496,
@@ -1245,7 +1245,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["настроение", "пузырь (облачко)"],
-    "concepts": ["cloud"]
+    "concepts": ["cloud", "chat"]
   },
   {
     "cp": 128497,
@@ -1255,7 +1255,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["молния", "настроение", "пузырь (облачко)"],
-    "concepts": ["lightning"]
+    "concepts": ["lightning", "chat"]
   },
   {
     "cp": 128498,
@@ -1275,7 +1275,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["бюллетень (галочка)", "рукописный"],
-    "concepts": []
+    "concepts": ["cross-mark"]
   },
   {
     "cp": 128501,
@@ -1285,7 +1285,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["бюллетень (галочка)", "рамка (псевдографика)", "с", "рукописный"],
-    "concepts": []
+    "concepts": ["checkbox", "cross-mark"]
   },
   {
     "cp": 128502,
@@ -1295,7 +1295,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["бюллетень (галочка)", "жирный", "рукописный"],
-    "concepts": []
+    "concepts": ["cross-mark"]
   },
   {
     "cp": 128503,
@@ -1305,7 +1305,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["бюллетень (галочка)", "рамка (псевдографика)", "с", "жирный", "рукописный"],
-    "concepts": []
+    "concepts": ["checkbox", "cross-mark"]
   },
   {
     "cp": 128504,
@@ -1315,7 +1315,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тонкий (светлый)", "галочка (проверка)", "метка (знак)"],
-    "concepts": []
+    "concepts": ["check"]
   },
   {
     "cp": 128505,
@@ -1325,6 +1325,6 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["бюллетень (галочка)", "рамка (псевдографика)", "с", "жирный", "галочка (проверка)"],
-    "concepts": []
+    "concepts": ["check", "checkbox"]
   }
 ]

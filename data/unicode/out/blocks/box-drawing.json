@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "тонкий (светлый)", "горизонтальный"],
-    "concepts": []
+    "concepts": ["shrug", "rectangle", "line", "divider", "border", "table-flip"]
   },
   {
     "cp": 9473,
@@ -17,7 +17,17 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "жирный (толстый)", "горизонтальный"],
-    "concepts": []
+    "concepts": [
+      "sword",
+      "weapon",
+      "gun",
+      "shrug",
+      "rectangle",
+      "line",
+      "divider",
+      "border",
+      "table-flip"
+    ]
   },
   {
     "cp": 9474,
@@ -27,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "тонкий (светлый)", "вертикальный"],
-    "concepts": []
+    "concepts": ["line", "border"]
   },
   {
     "cp": 9475,
@@ -37,7 +47,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "жирный (толстый)", "вертикальный"],
-    "concepts": []
+    "concepts": ["rectangle", "line", "instrument", "border", "table-flip"]
   },
   {
     "cp": 9476,
@@ -54,7 +64,7 @@
       "тире",
       "горизонтальный"
     ],
-    "concepts": []
+    "concepts": ["gun", "line", "divider", "border", "scissors"]
   },
   {
     "cp": 9477,
@@ -71,7 +81,7 @@
       "тире",
       "горизонтальный"
     ],
-    "concepts": []
+    "concepts": ["gun", "line", "divider", "border"]
   },
   {
     "cp": 9478,
@@ -88,7 +98,7 @@
       "тире",
       "вертикальный"
     ],
-    "concepts": ["rain"]
+    "concepts": ["rain", "line", "border", "tears"]
   },
   {
     "cp": 9479,
@@ -105,7 +115,7 @@
       "тире",
       "вертикальный"
     ],
-    "concepts": []
+    "concepts": ["line", "border"]
   },
   {
     "cp": 9480,
@@ -122,7 +132,7 @@
       "тире",
       "горизонтальный"
     ],
-    "concepts": []
+    "concepts": ["line", "divider", "border", "scissors"]
   },
   {
     "cp": 9481,
@@ -139,7 +149,7 @@
       "тире",
       "горизонтальный"
     ],
-    "concepts": []
+    "concepts": ["line", "divider", "border"]
   },
   {
     "cp": 9482,
@@ -156,7 +166,7 @@
       "тире",
       "вертикальный"
     ],
-    "concepts": ["rain"]
+    "concepts": ["rain", "line", "border", "tears"]
   },
   {
     "cp": 9483,
@@ -173,7 +183,7 @@
       "тире",
       "вертикальный"
     ],
-    "concepts": []
+    "concepts": ["line", "border"]
   },
   {
     "cp": 9484,
@@ -190,7 +200,16 @@
       "и",
       "правый (вправо)"
     ],
-    "concepts": []
+    "concepts": [
+      "hand",
+      "arms-raised",
+      "shrug",
+      "arrow-curved",
+      "angle-geometry",
+      "brackets",
+      "border",
+      "corner"
+    ]
   },
   {
     "cp": 9485,
@@ -208,7 +227,7 @@
       "правый (вправо)",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9486,
@@ -226,7 +245,7 @@
       "правый (вправо)",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 9487,
@@ -243,7 +262,7 @@
       "и",
       "правый (вправо)"
     ],
-    "concepts": []
+    "concepts": ["arms-raised", "border", "corner"]
   },
   {
     "cp": 9488,
@@ -260,7 +279,18 @@
       "и",
       "левый (влево)"
     ],
-    "concepts": []
+    "concepts": [
+      "weapon",
+      "gun",
+      "hand",
+      "arms-raised",
+      "shrug",
+      "arrow-curved",
+      "angle-geometry",
+      "brackets",
+      "border",
+      "corner"
+    ]
   },
   {
     "cp": 9489,
@@ -278,7 +308,7 @@
       "левый (влево)",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9490,
@@ -296,7 +326,7 @@
       "левый (влево)",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 9491,
@@ -313,7 +343,7 @@
       "и",
       "левый (влево)"
     ],
-    "concepts": []
+    "concepts": ["arms-raised", "border", "corner"]
   },
   {
     "cp": 9492,
@@ -330,7 +360,15 @@
       "и",
       "правый (вправо)"
     ],
-    "concepts": []
+    "concepts": [
+      "arms-raised",
+      "shrug",
+      "arrow-curved",
+      "angle-geometry",
+      "brackets",
+      "border",
+      "corner"
+    ]
   },
   {
     "cp": 9493,
@@ -348,7 +386,7 @@
       "правый (вправо)",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9494,
@@ -366,7 +404,7 @@
       "правый (вправо)",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 9495,
@@ -383,7 +421,7 @@
       "и",
       "правый (вправо)"
     ],
-    "concepts": []
+    "concepts": ["arms-raised", "border", "corner"]
   },
   {
     "cp": 9496,
@@ -400,7 +438,15 @@
       "и",
       "левый (влево)"
     ],
-    "concepts": []
+    "concepts": [
+      "arms-raised",
+      "shrug",
+      "arrow-curved",
+      "angle-geometry",
+      "brackets",
+      "border",
+      "corner"
+    ]
   },
   {
     "cp": 9497,
@@ -418,7 +464,7 @@
       "левый (влево)",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9498,
@@ -436,7 +482,7 @@
       "левый (влево)",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 9499,
@@ -453,7 +499,7 @@
       "и",
       "левый (влево)"
     ],
-    "concepts": []
+    "concepts": ["arms-raised", "border", "corner"]
   },
   {
     "cp": 9500,
@@ -470,7 +516,7 @@
       "и",
       "правый (вправо)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9501,
@@ -488,7 +534,7 @@
       "правый (вправо)",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9502,
@@ -507,7 +553,7 @@
       "вниз",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9503,
@@ -526,7 +572,7 @@
       "вверх",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9504,
@@ -544,7 +590,7 @@
       "правый (вправо)",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9505,
@@ -563,7 +609,7 @@
       "вверх",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9506,
@@ -582,7 +628,7 @@
       "вниз",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9507,
@@ -599,7 +645,7 @@
       "и",
       "правый (вправо)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9508,
@@ -616,7 +662,7 @@
       "и",
       "левый (влево)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9509,
@@ -634,7 +680,7 @@
       "левый (влево)",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9510,
@@ -653,7 +699,7 @@
       "вниз",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9511,
@@ -672,7 +718,7 @@
       "вверх",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9512,
@@ -690,7 +736,7 @@
       "левый (влево)",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9513,
@@ -709,7 +755,7 @@
       "вверх",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9514,
@@ -728,7 +774,7 @@
       "вниз",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9515,
@@ -745,7 +791,7 @@
       "и",
       "левый (влево)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9516,
@@ -762,7 +808,7 @@
       "и",
       "горизонтальный"
     ],
-    "concepts": []
+    "concepts": ["weapon", "gun", "border", "table-flip"]
   },
   {
     "cp": 9517,
@@ -781,7 +827,7 @@
       "вниз",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9518,
@@ -800,7 +846,7 @@
       "вниз",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9519,
@@ -818,7 +864,7 @@
       "горизонтальный",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["hammer", "border"]
   },
   {
     "cp": 9520,
@@ -836,7 +882,7 @@
       "горизонтальный",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9521,
@@ -855,7 +901,7 @@
       "вниз",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9522,
@@ -874,7 +920,7 @@
       "вниз",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9523,
@@ -891,7 +937,18 @@
       "и",
       "горизонтальный"
     ],
-    "concepts": ["mushroom"]
+    "concepts": [
+      "mushroom",
+      "weapon",
+      "gun",
+      "hammer",
+      "rook",
+      "border",
+      "castle",
+      "cake",
+      "table-flip",
+      "birthday"
+    ]
   },
   {
     "cp": 9524,
@@ -908,7 +965,7 @@
       "и",
       "горизонтальный"
     ],
-    "concepts": []
+    "concepts": ["border", "table-flip"]
   },
   {
     "cp": 9525,
@@ -927,7 +984,7 @@
       "вверх",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9526,
@@ -946,7 +1003,7 @@
       "вверх",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9527,
@@ -964,7 +1021,7 @@
       "горизонтальный",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["hammer", "border"]
   },
   {
     "cp": 9528,
@@ -982,7 +1039,7 @@
       "горизонтальный",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9529,
@@ -1001,7 +1058,7 @@
       "вверх",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9530,
@@ -1020,7 +1077,7 @@
       "вверх",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9531,
@@ -1037,7 +1094,7 @@
       "и",
       "горизонтальный"
     ],
-    "concepts": []
+    "concepts": ["gun", "hammer", "border", "table-flip"]
   },
   {
     "cp": 9532,
@@ -1054,7 +1111,7 @@
       "и",
       "горизонтальный"
     ],
-    "concepts": []
+    "concepts": ["cross", "dagger", "plus-minus", "border", "medical", "target"]
   },
   {
     "cp": 9533,
@@ -1073,7 +1130,7 @@
       "вертикальный",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9534,
@@ -1092,7 +1149,7 @@
       "вертикальный",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9535,
@@ -1110,7 +1167,7 @@
       "горизонтальный",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9536,
@@ -1129,7 +1186,7 @@
       "горизонтальный",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9537,
@@ -1148,7 +1205,7 @@
       "горизонтальный",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9538,
@@ -1166,7 +1223,7 @@
       "горизонтальный",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9539,
@@ -1186,7 +1243,7 @@
       "вниз",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9540,
@@ -1206,7 +1263,7 @@
       "вниз",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9541,
@@ -1226,7 +1283,7 @@
       "вверх",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9542,
@@ -1246,7 +1303,7 @@
       "вверх",
       "тонкий (светлый)"
     ],
-    "concepts": []
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9543,
@@ -1265,7 +1322,7 @@
       "горизонтальный",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9544,
@@ -1284,7 +1341,7 @@
       "горизонтальный",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9545,
@@ -1303,7 +1360,7 @@
       "вертикальный",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9546,
@@ -1322,7 +1379,7 @@
       "вертикальный",
       "жирный (толстый)"
     ],
-    "concepts": []
+    "concepts": ["cross", "border"]
   },
   {
     "cp": 9547,
@@ -1339,7 +1396,7 @@
       "и",
       "горизонтальный"
     ],
-    "concepts": []
+    "concepts": ["cross", "plus-minus", "border", "medical", "target"]
   },
   {
     "cp": 9548,
@@ -1356,7 +1413,7 @@
       "тире",
       "горизонтальный"
     ],
-    "concepts": []
+    "concepts": ["line", "divider", "border", "scissors"]
   },
   {
     "cp": 9549,
@@ -1373,7 +1430,7 @@
       "тире",
       "горизонтальный"
     ],
-    "concepts": []
+    "concepts": ["line", "divider", "border"]
   },
   {
     "cp": 9550,
@@ -1390,7 +1447,7 @@
       "тире",
       "вертикальный"
     ],
-    "concepts": ["rain"]
+    "concepts": ["rain", "line", "border"]
   },
   {
     "cp": 9551,
@@ -1407,7 +1464,7 @@
       "тире",
       "вертикальный"
     ],
-    "concepts": ["rain"]
+    "concepts": ["rain", "line", "border"]
   },
   {
     "cp": 9552,
@@ -1417,7 +1474,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "двойной", "горизонтальный"],
-    "concepts": []
+    "concepts": ["sword", "weapon", "gun", "rectangle", "line", "equals", "divider", "border"]
   },
   {
     "cp": 9553,
@@ -1427,7 +1484,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "двойной", "вертикальный"],
-    "concepts": ["fog"]
+    "concepts": ["fog", "rectangle", "line", "instrument", "border", "tears", "book"]
   },
   {
     "cp": 9554,
@@ -1445,7 +1502,7 @@
       "правый (вправо)",
       "двойной"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9555,
@@ -1463,7 +1520,7 @@
       "правый (вправо)",
       "одинарный"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9556,
@@ -1473,7 +1530,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "двойной", "вниз", "и", "правый (вправо)"],
-    "concepts": []
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 9557,
@@ -1491,7 +1548,7 @@
       "левый (влево)",
       "двойной"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9558,
@@ -1509,7 +1566,7 @@
       "левый (влево)",
       "одинарный"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9559,
@@ -1519,7 +1576,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "двойной", "вниз", "и", "левый (влево)"],
-    "concepts": []
+    "concepts": ["weapon", "gun", "border", "corner"]
   },
   {
     "cp": 9560,
@@ -1537,7 +1594,7 @@
       "правый (вправо)",
       "двойной"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9561,
@@ -1555,7 +1612,7 @@
       "правый (вправо)",
       "одинарный"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9562,
@@ -1565,7 +1622,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "двойной", "вверх", "и", "правый (вправо)"],
-    "concepts": []
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 9563,
@@ -1583,7 +1640,7 @@
       "левый (влево)",
       "двойной"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9564,
@@ -1601,7 +1658,7 @@
       "левый (влево)",
       "одинарный"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9565,
@@ -1611,7 +1668,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "двойной", "вверх", "и", "левый (влево)"],
-    "concepts": []
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 9566,
@@ -1629,7 +1686,7 @@
       "правый (вправо)",
       "двойной"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9567,
@@ -1647,7 +1704,7 @@
       "правый (вправо)",
       "одинарный"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9568,
@@ -1664,7 +1721,7 @@
       "и",
       "правый (вправо)"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9569,
@@ -1682,7 +1739,7 @@
       "левый (влево)",
       "двойной"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9570,
@@ -1700,7 +1757,7 @@
       "левый (влево)",
       "одинарный"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9571,
@@ -1710,7 +1767,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "двойной", "вертикальный", "и", "левый (влево)"],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9572,
@@ -1728,7 +1785,7 @@
       "горизонтальный",
       "двойной"
     ],
-    "concepts": []
+    "concepts": ["weapon", "gun", "hammer", "border"]
   },
   {
     "cp": 9573,
@@ -1746,7 +1803,7 @@
       "горизонтальный",
       "одинарный"
     ],
-    "concepts": []
+    "concepts": ["sad", "rook", "border", "castle", "tears"]
   },
   {
     "cp": 9574,
@@ -1756,7 +1813,17 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "двойной", "вниз", "и", "горизонтальный"],
-    "concepts": ["mushroom"]
+    "concepts": [
+      "mushroom",
+      "weapon",
+      "gun",
+      "hammer",
+      "rook",
+      "border",
+      "castle",
+      "cake",
+      "birthday"
+    ]
   },
   {
     "cp": 9575,
@@ -1774,7 +1841,7 @@
       "горизонтальный",
       "двойной"
     ],
-    "concepts": []
+    "concepts": ["hammer", "border"]
   },
   {
     "cp": 9576,
@@ -1792,7 +1859,7 @@
       "горизонтальный",
       "одинарный"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9577,
@@ -1802,7 +1869,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "двойной", "вверх", "и", "горизонтальный"],
-    "concepts": []
+    "concepts": ["hammer", "border"]
   },
   {
     "cp": 9578,
@@ -1820,7 +1887,7 @@
       "горизонтальный",
       "двойной"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9579,
@@ -1838,7 +1905,7 @@
       "горизонтальный",
       "одинарный"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9580,
@@ -1855,7 +1922,7 @@
       "и",
       "горизонтальный"
     ],
-    "concepts": []
+    "concepts": ["cross", "angry", "border"]
   },
   {
     "cp": 9581,
@@ -1873,7 +1940,7 @@
       "и",
       "правый (вправо)"
     ],
-    "concepts": []
+    "concepts": ["hand", "sad", "arrow-curved", "brackets", "frame-nick", "border", "corner"]
   },
   {
     "cp": 9582,
@@ -1891,7 +1958,7 @@
       "и",
       "левый (влево)"
     ],
-    "concepts": []
+    "concepts": ["hand", "sad", "arrow-curved", "brackets", "frame-nick", "border", "corner"]
   },
   {
     "cp": 9583,
@@ -1909,7 +1976,16 @@
       "и",
       "левый (влево)"
     ],
-    "concepts": []
+    "concepts": [
+      "hand",
+      "sad",
+      "arrow-curved",
+      "brackets",
+      "frame-nick",
+      "border",
+      "corner",
+      "table-flip"
+    ]
   },
   {
     "cp": 9584,
@@ -1927,7 +2003,16 @@
       "и",
       "правый (вправо)"
     ],
-    "concepts": []
+    "concepts": [
+      "hand",
+      "sad",
+      "arrow-curved",
+      "brackets",
+      "frame-nick",
+      "border",
+      "corner",
+      "table-flip"
+    ]
   },
   {
     "cp": 9585,
@@ -1947,7 +2032,7 @@
       "нижний",
       "левый (влево)"
     ],
-    "concepts": []
+    "concepts": ["arrow-diagonal", "border"]
   },
   {
     "cp": 9586,
@@ -1967,7 +2052,7 @@
       "нижний",
       "правый (вправо)"
     ],
-    "concepts": []
+    "concepts": ["arrow-diagonal", "border"]
   },
   {
     "cp": 9587,
@@ -1977,7 +2062,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "тонкий (светлый)", "диагональный", "крест"],
-    "concepts": []
+    "concepts": ["sword", "border"]
   },
   {
     "cp": 9588,
@@ -1987,7 +2072,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "тонкий (светлый)", "левый (влево)"],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9589,
@@ -1997,7 +2082,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "тонкий (светлый)", "вверх"],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9590,
@@ -2007,7 +2092,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "тонкий (светлый)", "правый (вправо)"],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9591,
@@ -2017,7 +2102,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "тонкий (светлый)", "вниз"],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9592,
@@ -2027,7 +2112,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "жирный (толстый)", "левый (влево)"],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9593,
@@ -2037,7 +2122,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "жирный (толстый)", "вверх"],
-    "concepts": []
+    "concepts": ["smile", "border"]
   },
   {
     "cp": 9594,
@@ -2047,7 +2132,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "жирный (толстый)", "правый (вправо)"],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9595,
@@ -2057,7 +2142,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рамка (псевдографика)", "рисование", "жирный (толстый)", "вниз"],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9596,
@@ -2075,7 +2160,7 @@
       "жирный (толстый)",
       "правый (вправо)"
     ],
-    "concepts": []
+    "concepts": ["weapon", "gun", "border"]
   },
   {
     "cp": 9597,
@@ -2093,7 +2178,7 @@
       "жирный (толстый)",
       "вниз"
     ],
-    "concepts": []
+    "concepts": ["border"]
   },
   {
     "cp": 9598,
@@ -2111,7 +2196,7 @@
       "тонкий (светлый)",
       "правый (вправо)"
     ],
-    "concepts": []
+    "concepts": ["weapon", "gun", "border"]
   },
   {
     "cp": 9599,
@@ -2129,6 +2214,6 @@
       "тонкий (светлый)",
       "вниз"
     ],
-    "concepts": []
+    "concepts": ["border"]
   }
 ]

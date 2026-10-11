@@ -497,7 +497,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тамильский", "ом (ॐ)"],
-    "concepts": []
+    "concepts": ["om"]
   },
   {
     "cp": 3031,
@@ -517,7 +517,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тамильский", "цифра", "ноль"],
-    "concepts": []
+    "concepts": ["circle"]
   },
   {
     "cp": 3047,
@@ -617,7 +617,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тамильский", "число", "десять"],
-    "concepts": []
+    "concepts": ["crown"]
   },
   {
     "cp": 3057,
@@ -707,7 +707,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тамильский", "рупия", "знак"],
-    "concepts": []
+    "concepts": ["money"]
   },
   {
     "cp": 3066,

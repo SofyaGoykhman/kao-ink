@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "маленький (строчный)"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 689,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "маленький (строчный)"],
-    "concepts": []
+    "concepts": ["superscript", "information"]
   },
   {
     "cp": 691,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "маленький (строчный)"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 692,
@@ -77,7 +77,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "маленький (строчный)"],
-    "concepts": []
+    "concepts": ["crown", "uwu", "wave-line", "superscript"]
   },
   {
     "cp": 696,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "маленький (строчный)"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 697,
@@ -97,7 +97,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "штрих"],
-    "concepts": ["rain"]
+    "concepts": ["rain", "quote"]
   },
   {
     "cp": 698,
@@ -107,7 +107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "двойной", "штрих"],
-    "concepts": []
+    "concepts": ["quote"]
   },
   {
     "cp": 699,
@@ -117,7 +117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "перевёрнутый", "запятая"],
-    "concepts": ["rain"]
+    "concepts": ["rain", "quote"]
   },
   {
     "cp": 700,
@@ -127,7 +127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "апостроф"],
-    "concepts": []
+    "concepts": ["quote"]
   },
   {
     "cp": 701,
@@ -137,7 +137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "зеркальный (обратный)", "запятая"],
-    "concepts": []
+    "concepts": ["quote"]
   },
   {
     "cp": 702,
@@ -147,7 +147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "правый (вправо)", "половина", "кольцо"],
-    "concepts": ["rain"]
+    "concepts": ["rain", "bunny", "frame-nick"]
   },
   {
     "cp": 703,
@@ -157,7 +157,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "левый (влево)", "половина", "кольцо"],
-    "concepts": []
+    "concepts": ["bunny"]
   },
   {
     "cp": 704,
@@ -167,7 +167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "гортанный", "стоп"],
-    "concepts": []
+    "concepts": ["punctuation-fancy", "question"]
   },
   {
     "cp": 705,
@@ -177,7 +177,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "зеркальный (обратный)", "гортанный", "стоп"],
-    "concepts": []
+    "concepts": ["punctuation-fancy"]
   },
   {
     "cp": 706,
@@ -187,7 +187,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "левый (влево)", "наконечник стрелки"],
-    "concepts": []
+    "concepts": ["shy", "arrow", "arrow-left", "arrowhead", "compare"]
   },
   {
     "cp": 707,
@@ -197,7 +197,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "правый (вправо)", "наконечник стрелки"],
-    "concepts": []
+    "concepts": ["shy", "arrow", "arrow-right", "arrowhead", "compare"]
   },
   {
     "cp": 708,
@@ -207,7 +207,17 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "вверх", "наконечник стрелки"],
-    "concepts": ["mountain"]
+    "concepts": [
+      "mountain",
+      "cat",
+      "cat-ears",
+      "fox",
+      "devil",
+      "arrow",
+      "arrow-up",
+      "arrowhead",
+      "zigzag"
+    ]
   },
   {
     "cp": 709,
@@ -217,7 +227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "вниз", "наконечник стрелки"],
-    "concepts": []
+    "concepts": ["fox", "arrow", "arrow-down", "arrowhead", "zigzag", "nose"]
   },
   {
     "cp": 710,
@@ -257,7 +267,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "макрон (черта сверху)"],
-    "concepts": []
+    "concepts": ["shrug", "wink"]
   },
   {
     "cp": 714,
@@ -267,7 +277,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "акут (ударение)", "ударение (акцент)"],
-    "concepts": []
+    "concepts": ["shy", "sweat"]
   },
   {
     "cp": 715,
@@ -277,7 +287,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "гравис", "ударение (акцент)"],
-    "concepts": []
+    "concepts": ["shy", "sweat"]
   },
   {
     "cp": 716,
@@ -297,7 +307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "низкий", "макрон (черта сверху)"],
-    "concepts": []
+    "concepts": ["shrug"]
   },
   {
     "cp": 718,
@@ -387,7 +397,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "плюс", "знак"],
-    "concepts": ["star-small"]
+    "concepts": ["star-small", "angel", "plus-minus", "frame-nick"]
   },
   {
     "cp": 727,
@@ -397,7 +407,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "минус", "знак"],
-    "concepts": []
+    "concepts": ["plus-minus"]
   },
   {
     "cp": 728,
@@ -407,7 +417,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["бреве (кратка)"],
-    "concepts": ["kiss"]
+    "concepts": ["kiss", "smile", "face", "wink", "cheeks"]
   },
   {
     "cp": 729,
@@ -417,7 +427,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["точка", "сверху"],
-    "concepts": []
+    "concepts": ["dog", "arms-raised", "smile", "wink", "dot", "font-upside-down"]
   },
   {
     "cp": 730,
@@ -427,7 +437,25 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кольцо", "сверху"],
-    "concepts": ["star-small", "sparkle", "constellation", "night", "drop"]
+    "concepts": [
+      "star-small",
+      "sparkle",
+      "constellation",
+      "night",
+      "drop",
+      "face",
+      "shy",
+      "angel",
+      "dot",
+      "frame-nick",
+      "ornament-nick",
+      "divider",
+      "degree",
+      "chat",
+      "magic",
+      "sweat",
+      "bubble"
+    ]
   },
   {
     "cp": 731,
@@ -447,7 +475,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["маленький (строчный)", "тильда"],
-    "concepts": []
+    "concepts": ["wave-line"]
   },
   {
     "cp": 733,
@@ -457,7 +485,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "акут (ударение)", "ударение (акцент)"],
-    "concepts": []
+    "concepts": ["quote"]
   },
   {
     "cp": 734,
@@ -497,7 +525,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "маленький (строчный)"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 738,
@@ -507,7 +535,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "маленький (строчный)"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 739,
@@ -517,7 +545,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "маленький (строчный)"],
-    "concepts": []
+    "concepts": ["superscript"]
   },
   {
     "cp": 740,
@@ -544,7 +572,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "сверх", "высокий", "тон", "черта"],
-    "concepts": []
+    "concepts": ["corner"]
   },
   {
     "cp": 742,
@@ -584,7 +612,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "сверх", "низкий", "тон", "черта"],
-    "concepts": []
+    "concepts": ["corner"]
   },
   {
     "cp": 746,
@@ -634,7 +662,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "двойной", "апостроф"],
-    "concepts": []
+    "concepts": ["quote"]
   },
   {
     "cp": 751,
@@ -704,7 +732,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "средний", "двойной", "гравис", "ударение (акцент)"],
-    "concepts": []
+    "concepts": ["quote", "cheeks"]
   },
   {
     "cp": 758,
@@ -714,7 +742,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "средний", "двойной", "акут (ударение)", "ударение (акцент)"],
-    "concepts": []
+    "concepts": ["bear", "bunny", "shy", "uwu", "quote", "cheeks"]
   },
   {
     "cp": 759,
@@ -724,7 +752,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["модификатор", "буква", "низкий", "тильда"],
-    "concepts": []
+    "concepts": ["wave-line"]
   },
   {
     "cp": 760,

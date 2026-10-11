@@ -57,7 +57,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["лису", "буква", "тха"],
-    "concepts": []
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 42198,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["лису", "буква", "кха"],
-    "concepts": []
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 42201,
@@ -207,7 +207,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["лису", "буква", "за"],
-    "concepts": []
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 42213,
@@ -297,7 +297,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["лису", "буква", "гха"],
-    "concepts": []
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 42222,
@@ -397,7 +397,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["лису", "буква", "oe (лигатура)"],
-    "concepts": []
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 42232,
@@ -407,7 +407,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["лису", "буква", "тон", "мья", "ти"],
-    "concepts": []
+    "concepts": ["dot"]
   },
   {
     "cp": 42233,

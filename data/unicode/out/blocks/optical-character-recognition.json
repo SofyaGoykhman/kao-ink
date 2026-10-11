@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["OCR (распознавание)", "крючок"],
-    "concepts": []
+    "concepts": ["money", "dollar"]
   },
   {
     "cp": 9281,
@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["OCR (распознавание)", "стул (кресло)"],
-    "concepts": []
+    "concepts": ["money"]
   },
   {
     "cp": 9282,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["OCR (распознавание)", "вилка"],
-    "concepts": []
+    "concepts": ["victory", "money"]
   },
   {
     "cp": 9283,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["OCR (распознавание)", "перевёрнутый", "вилка"],
-    "concepts": []
+    "concepts": ["victory", "money"]
   },
   {
     "cp": 9284,
@@ -47,7 +47,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["OCR (распознавание)", "пояс (ремень)", "пряжка"],
-    "concepts": []
+    "concepts": ["victory"]
   },
   {
     "cp": 9285,
@@ -57,7 +57,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["OCR (распознавание)", "лук (бант)", "лига (галстук)"],
-    "concepts": ["wave"]
+    "concepts": ["bunny", "victory", "shy", "frame-nick", "bow-ribbon", "cheeks"]
   },
   {
     "cp": 9286,
@@ -67,7 +67,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["OCR (распознавание)", "ветка (филиал)", "банк", "идентификация"],
-    "concepts": []
+    "concepts": ["victory"]
   },
   {
     "cp": 9287,
@@ -77,7 +77,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["OCR (распознавание)", "сумма", "из", "галочка (проверка)"],
-    "concepts": []
+    "concepts": ["victory"]
   },
   {
     "cp": 9288,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["OCR (распознавание)", "тире"],
-    "concepts": []
+    "concepts": ["victory"]
   },
   {
     "cp": 9289,
@@ -97,7 +97,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["OCR (распознавание)", "клиент", "счёт", "число"],
-    "concepts": []
+    "concepts": ["victory", "shy"]
   },
   {
     "cp": 9290,
@@ -107,6 +107,6 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["OCR (распознавание)", "двойной", "обратный слэш"],
-    "concepts": []
+    "concepts": ["victory"]
   }
 ]

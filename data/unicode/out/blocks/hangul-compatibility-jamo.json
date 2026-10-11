@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "киёк (ㄱ)"],
-    "concepts": []
+    "concepts": ["corner", "korean"]
   },
   {
     "cp": 12594,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "ниын (ㄴ)"],
-    "concepts": []
+    "concepts": ["corner", "korean"]
   },
   {
     "cp": 12597,
@@ -67,7 +67,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "тигыт (ㄷ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12600,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "риыль (ㄹ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12602,
@@ -167,7 +167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "миым (ㅁ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12610,
@@ -177,7 +177,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "пиып (ㅂ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12611,
@@ -207,7 +207,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "сиос (ㅅ)"],
-    "concepts": []
+    "concepts": ["cat", "korean", "mouth", "nose"]
   },
   {
     "cp": 12614,
@@ -227,7 +227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "иын (ㅇ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12616,
@@ -237,7 +237,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "чиыт (ㅈ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12617,
@@ -257,7 +257,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "чхиыт (ㅊ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12619,
@@ -267,7 +267,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "кхиык (ㅋ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12620,
@@ -277,7 +277,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "тхиыт (ㅌ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12621,
@@ -287,7 +287,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "пхиып (ㅍ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12622,
@@ -297,7 +297,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "хиыт (ㅎ)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12623,
@@ -307,7 +307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12624,
@@ -327,7 +327,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "я"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12626,
@@ -347,7 +347,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "о (eo)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12628,
@@ -367,7 +367,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "ё (yeo)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12630,
@@ -387,7 +387,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12632,
@@ -397,7 +397,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "ва"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12633,
@@ -417,7 +417,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "oe (лигатура)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12635,
@@ -427,7 +427,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "йо"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12636,
@@ -437,7 +437,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква"],
-    "concepts": []
+    "concepts": ["korean", "tears"]
   },
   {
     "cp": 12637,
@@ -447,7 +447,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "вео"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12638,
@@ -467,7 +467,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "ви"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12640,
@@ -477,7 +477,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "ю"],
-    "concepts": []
+    "concepts": ["korean", "tears"]
   },
   {
     "cp": 12641,
@@ -487,7 +487,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "ы (eu)"],
-    "concepts": []
+    "concepts": ["line", "korean"]
   },
   {
     "cp": 12642,
@@ -497,7 +497,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква", "и (письмо и)"],
-    "concepts": []
+    "concepts": ["korean"]
   },
   {
     "cp": 12643,
@@ -507,7 +507,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "буква"],
-    "concepts": []
+    "concepts": ["line", "korean"]
   },
   {
     "cp": 12644,
@@ -517,7 +517,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хангыль (корейский)", "заполнитель"],
-    "concepts": []
+    "concepts": ["invisible"]
   },
   {
     "cp": 12645,

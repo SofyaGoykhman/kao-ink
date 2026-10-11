@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "фе"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5793,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "ур"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5795,
@@ -67,7 +67,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "торн (þ)"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5799,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5801,
@@ -127,7 +127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "длинный", "ветка (филиал)"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5805,
@@ -137,7 +137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "короткий", "ветка"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5806,
@@ -147,7 +147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5807,
@@ -157,7 +157,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "oe (лигатура)"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5808,
@@ -167,7 +167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "на"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5809,
@@ -177,7 +177,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "рад"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5810,
@@ -187,7 +187,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5811,
@@ -207,7 +207,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": ["plant"]
+    "concepts": ["plant", "runes"]
   },
   {
     "cp": 5813,
@@ -237,7 +237,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["cross-mark", "runes"]
   },
   {
     "cp": 5816,
@@ -257,7 +257,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "винн (ƿ)"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5818,
@@ -267,7 +267,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5819,
@@ -287,7 +287,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "длинный", "ветка (филиал)"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5821,
@@ -307,7 +307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5823,
@@ -337,7 +337,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "ис"],
-    "concepts": []
+    "concepts": ["line", "runes"]
   },
   {
     "cp": 5826,
@@ -357,7 +357,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5828,
@@ -377,7 +377,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "длинный", "ветка (филиал)", "ар", "ae (лигатура)"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5830,
@@ -387,7 +387,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "короткий", "ветка", "ар"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5831,
@@ -397,7 +397,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5832,
@@ -407,7 +407,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5833,
@@ -417,7 +417,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": ["female", "plant"]
+    "concepts": ["female", "plant", "crown", "peace", "runes"]
   },
   {
     "cp": 5834,
@@ -427,7 +427,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5835,
@@ -437,7 +437,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "длинный", "ветка (филиал)"],
-    "concepts": ["lightning"]
+    "concepts": ["lightning", "snake", "runes"]
   },
   {
     "cp": 5836,
@@ -447,7 +447,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "короткий", "ветка"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5837,
@@ -457,7 +457,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": ["thermometer"]
+    "concepts": ["runes"]
   },
   {
     "cp": 5838,
@@ -467,7 +467,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5839,
@@ -477,7 +477,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "тир"],
-    "concepts": ["tree"]
+    "concepts": ["tree", "runes"]
   },
   {
     "cp": 5840,
@@ -487,7 +487,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "короткий", "ветка"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5841,
@@ -497,7 +497,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5842,
@@ -507,7 +507,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5843,
@@ -517,7 +517,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "короткий", "ветка"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5844,
@@ -527,7 +527,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "пунктирный (с точкой)"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5845,
@@ -537,7 +537,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "открытый"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5846,
@@ -547,7 +547,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "э"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5847,
@@ -557,7 +557,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "мужчина"],
-    "concepts": []
+    "concepts": ["crown", "runes"]
   },
   {
     "cp": 5848,
@@ -567,7 +567,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "длинный", "ветка (филиал)"],
-    "concepts": ["tulip", "lily", "plant", "cactus"]
+    "concepts": ["tulip", "lily", "plant", "cactus", "crown", "devil", "peace", "anchor", "runes"]
   },
   {
     "cp": 5849,
@@ -577,7 +577,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "короткий", "ветка"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5850,
@@ -587,7 +587,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5851,
@@ -597,7 +597,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "пунктирный (с точкой)"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5852,
@@ -607,7 +607,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5853,
@@ -617,7 +617,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "инг"],
-    "concepts": []
+    "concepts": ["runes", "celtic"]
   },
   {
     "cp": 5854,
@@ -627,7 +627,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5855,
@@ -637,7 +637,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5856,
@@ -647,7 +647,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "ухо"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5857,
@@ -657,7 +657,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["cross", "runes"]
   },
   {
     "cp": 5858,
@@ -667,7 +667,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5859,
@@ -677,7 +677,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5860,
@@ -687,7 +687,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5861,
@@ -697,7 +697,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5862,
@@ -707,7 +707,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "длинный", "ветка (филиал)", "йр"],
-    "concepts": ["plant"]
+    "concepts": ["plant", "peace", "runes"]
   },
   {
     "cp": 5863,
@@ -717,7 +717,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "короткий", "ветка", "йр"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5864,
@@ -727,7 +727,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква", "йр"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5865,
@@ -737,7 +737,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5866,
@@ -747,7 +747,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "буква"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5867,
@@ -757,7 +757,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "одинарный", "пунктуация"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5868,
@@ -767,7 +767,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "множественный", "пунктуация"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5869,
@@ -777,7 +777,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "крест", "пунктуация"],
-    "concepts": []
+    "concepts": ["cross", "runes"]
   },
   {
     "cp": 5870,
@@ -787,7 +787,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "символ"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5871,
@@ -797,7 +797,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "символ"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5872,
@@ -807,7 +807,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рунический (руны)", "символ"],
-    "concepts": []
+    "concepts": ["runes"]
   },
   {
     "cp": 5873,

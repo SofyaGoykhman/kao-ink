@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["север", "запад", "указывающий", "лист"],
-    "concepts": ["heart-floral", "leaf"]
+    "concepts": ["heart-floral", "leaf", "ornament-nick"]
   },
   {
     "cp": 128593,
@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["юг", "запад", "указывающий", "лист"],
-    "concepts": ["heart-floral", "leaf"]
+    "concepts": ["heart-floral", "leaf", "ornament-nick"]
   },
   {
     "cp": 128594,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["север", "восток", "указывающий", "лист"],
-    "concepts": ["heart-floral", "leaf"]
+    "concepts": ["heart-floral", "leaf", "ornament-nick"]
   },
   {
     "cp": 128595,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["юг", "восток", "указывающий", "лист"],
-    "concepts": ["heart-floral", "leaf"]
+    "concepts": ["heart-floral", "leaf", "ornament-nick"]
   },
   {
     "cp": 128596,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["север", "запад", "указывающий", "лоза", "лист"],
-    "concepts": ["leaf"]
+    "concepts": ["leaf", "ornament-nick"]
   },
   {
     "cp": 128601,
@@ -97,7 +97,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["юг", "запад", "указывающий", "лоза", "лист"],
-    "concepts": ["leaf"]
+    "concepts": ["leaf", "ornament-nick"]
   },
   {
     "cp": 128602,
@@ -107,7 +107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["север", "восток", "указывающий", "лоза", "лист"],
-    "concepts": ["leaf"]
+    "concepts": ["leaf", "ornament-nick"]
   },
   {
     "cp": 128603,
@@ -117,7 +117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["юг", "восток", "указывающий", "лоза", "лист"],
-    "concepts": ["leaf"]
+    "concepts": ["leaf", "ornament-nick"]
   },
   {
     "cp": 128604,
@@ -167,7 +167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["север", "запад", "указывающий", "бутон"],
-    "concepts": ["plant"]
+    "concepts": ["plant", "ornament-nick"]
   },
   {
     "cp": 128609,
@@ -177,7 +177,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["юг", "запад", "указывающий", "бутон"],
-    "concepts": ["plant"]
+    "concepts": ["plant", "ornament-nick"]
   },
   {
     "cp": 128610,
@@ -187,7 +187,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["север", "восток", "указывающий", "бутон"],
-    "concepts": ["plant"]
+    "concepts": ["plant", "ornament-nick"]
   },
   {
     "cp": 128611,
@@ -197,7 +197,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["юг", "восток", "указывающий", "бутон"],
-    "concepts": ["plant"]
+    "concepts": ["plant", "ornament-nick"]
   },
   {
     "cp": 128612,
@@ -247,7 +247,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["полый (пустой)", "стёганый", "квадрат", "орнамент (украшение)"],
-    "concepts": []
+    "concepts": ["ornament-nick"]
   },
   {
     "cp": 128617,
@@ -274,7 +274,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["сплошной", "стёганый", "квадрат", "орнамент (украшение)"],
-    "concepts": []
+    "concepts": ["ornament-nick"]
   },
   {
     "cp": 128619,
@@ -301,7 +301,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["влево", "ракета"],
-    "concepts": []
+    "concepts": ["transport", "airplane", "rocket"]
   },
   {
     "cp": 128621,
@@ -311,7 +311,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["вверх", "ракета"],
-    "concepts": []
+    "concepts": ["transport", "airplane", "rocket"]
   },
   {
     "cp": 128622,
@@ -321,7 +321,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["вправо", "ракета"],
-    "concepts": []
+    "concepts": ["transport", "airplane", "rocket"]
   },
   {
     "cp": 128623,
@@ -331,7 +331,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["вниз", "ракета"],
-    "concepts": []
+    "concepts": ["transport", "airplane", "rocket"]
   },
   {
     "cp": 128624,
@@ -341,7 +341,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["рукописный", "лигатура", "и (et)", "орнамент (украшение)"],
-    "concepts": []
+    "concepts": ["ampersand"]
   },
   {
     "cp": 128625,
@@ -351,7 +351,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["жирный (толстый)", "рукописный", "лигатура", "и (et)", "орнамент (украшение)"],
-    "concepts": []
+    "concepts": ["ampersand"]
   },
   {
     "cp": 128626,
@@ -361,7 +361,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["лигатура", "открытый", "и (et)", "орнамент (украшение)"],
-    "concepts": []
+    "concepts": ["ampersand"]
   },
   {
     "cp": 128627,
@@ -371,7 +371,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["жирный (толстый)", "лигатура", "открытый", "и (et)", "орнамент (украшение)"],
-    "concepts": []
+    "concepts": ["ampersand"]
   },
   {
     "cp": 128628,
@@ -381,7 +381,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["жирный (толстый)", "амперсанд (&)", "орнамент (украшение)"],
-    "concepts": []
+    "concepts": ["ampersand"]
   },
   {
     "cp": 128629,
@@ -391,7 +391,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["росчерк", "амперсанд (&)", "орнамент (украшение)"],
-    "concepts": []
+    "concepts": ["ampersand"]
   },
   {
     "cp": 128630,
@@ -411,7 +411,7 @@
       "метка (знак)",
       "орнамент (украшение)"
     ],
-    "concepts": []
+    "concepts": ["quote"]
   },
   {
     "cp": 128631,
@@ -430,7 +430,7 @@
       "метка (знак)",
       "орнамент (украшение)"
     ],
-    "concepts": []
+    "concepts": ["quote"]
   },
   {
     "cp": 128632,
@@ -450,7 +450,7 @@
       "метка (знак)",
       "орнамент (украшение)"
     ],
-    "concepts": []
+    "concepts": ["quote"]
   },
   {
     "cp": 128633,
@@ -460,7 +460,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["жирный (толстый)", "интерробанг (?!)", "орнамент (украшение)"],
-    "concepts": []
+    "concepts": ["punctuation-fancy", "question", "exclamation"]
   },
   {
     "cp": 128634,
@@ -470,7 +470,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["без засечек", "засечки", "интерробанг (?!)", "орнамент (украшение)"],
-    "concepts": []
+    "concepts": ["punctuation-fancy", "question", "exclamation"]
   },
   {
     "cp": 128635,
@@ -486,7 +486,7 @@
       "интерробанг (?!)",
       "орнамент (украшение)"
     ],
-    "concepts": []
+    "concepts": ["punctuation-fancy", "question", "exclamation"]
   },
   {
     "cp": 128636,
@@ -516,7 +516,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["шашка (клетка)", "доска"],
-    "concepts": []
+    "concepts": ["chess", "checkers"]
   },
   {
     "cp": 128639,
@@ -526,6 +526,6 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["обратный", "шашка (клетка)", "доска"],
-    "concepts": []
+    "concepts": ["fish", "chess", "checkers"]
   }
 ]

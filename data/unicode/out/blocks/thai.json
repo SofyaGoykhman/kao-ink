@@ -47,7 +47,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тайский", "символ", "кхо"],
-    "concepts": []
+    "concepts": ["cat", "paw", "lion"]
   },
   {
     "cp": 3590,
@@ -587,7 +587,7 @@
     "en": "Thai Baht",
     "keywords": { "ru": [], "en": [] },
     "desc": ["тайский", "валюта", "символ"],
-    "concepts": []
+    "concepts": ["money"]
   },
   {
     "cp": 3648,
@@ -757,7 +757,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тайский", "цифра", "ноль"],
-    "concepts": []
+    "concepts": ["circle"]
   },
   {
     "cp": 3665,
@@ -767,7 +767,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тайский", "цифра", "один"],
-    "concepts": ["rose", "spiral"]
+    "concepts": ["rose", "spiral", "smile", "shy", "cheeks"]
   },
   {
     "cp": 3666,

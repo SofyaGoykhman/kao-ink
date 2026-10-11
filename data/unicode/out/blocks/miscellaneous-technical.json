@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["диаметр", "знак"],
-    "concepts": []
+    "concepts": ["circle", "percent", "angle-geometry", "time", "warning", "prohibited"]
   },
   {
     "cp": 8961,
@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["электрический", "стрелка"],
-    "concepts": ["lightning", "drop"]
+    "concepts": ["lightning", "drop", "arrow-zigzag", "power", "medical"]
   },
   {
     "cp": 8962,
@@ -27,7 +27,17 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["дом"],
-    "concepts": ["mushroom", "umbrella", "mountain"]
+    "concepts": [
+      "mushroom",
+      "umbrella",
+      "mountain",
+      "turtle",
+      "triangle",
+      "rook",
+      "keyboard",
+      "home",
+      "castle"
+    ]
   },
   {
     "cp": 8963,
@@ -37,7 +47,20 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["вверх", "наконечник стрелки"],
-    "concepts": ["drop", "mountain"]
+    "concepts": [
+      "drop",
+      "mountain",
+      "cat",
+      "cat-ears",
+      "bird",
+      "fox",
+      "devil",
+      "arrow",
+      "arrow-up",
+      "arrowhead",
+      "zigzag",
+      "keyboard"
+    ]
   },
   {
     "cp": 8964,
@@ -47,7 +70,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["вниз", "наконечник стрелки"],
-    "concepts": []
+    "concepts": ["cat", "bird", "fox", "arrow", "arrow-down", "arrowhead", "zigzag", "nose"]
   },
   {
     "cp": 8965,
@@ -57,7 +80,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["проективный"],
-    "concepts": []
+    "concepts": ["keyboard"]
   },
   {
     "cp": 8966,
@@ -67,7 +90,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["перспектива"],
-    "concepts": []
+    "concepts": ["keyboard"]
   },
   {
     "cp": 8967,
@@ -77,7 +100,23 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["волнистый", "линия"],
-    "concepts": ["fog", "water", "drop", "wave"]
+    "concepts": [
+      "fog",
+      "water",
+      "drop",
+      "wave",
+      "snake",
+      "elephant",
+      "dragon",
+      "writing",
+      "arrow-zigzag",
+      "wave-line",
+      "zigzag",
+      "instrument",
+      "medical",
+      "candle",
+      "hot-spring"
+    ]
   },
   {
     "cp": 8968,
@@ -87,7 +126,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "потолок (округление вверх)"],
-    "concepts": []
+    "concepts": ["arrow-curved", "brackets", "border", "corner"]
   },
   {
     "cp": 8969,
@@ -97,7 +136,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "потолок (округление вверх)"],
-    "concepts": []
+    "concepts": ["arrow-curved", "brackets", "border", "corner"]
   },
   {
     "cp": 8970,
@@ -107,7 +146,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "пол (округление вниз)"],
-    "concepts": []
+    "concepts": ["arrow-curved", "brackets", "border", "corner"]
   },
   {
     "cp": 8971,
@@ -117,7 +156,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "пол (округление вниз)"],
-    "concepts": []
+    "concepts": ["arrow-curved", "brackets", "border", "corner"]
   },
   {
     "cp": 8972,
@@ -127,7 +166,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["низ", "правый (вправо)", "обрезка"],
-    "concepts": []
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 8973,
@@ -137,7 +176,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["низ", "левый (влево)", "обрезка"],
-    "concepts": []
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 8974,
@@ -147,7 +186,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верх", "правый (вправо)", "обрезка"],
-    "concepts": []
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 8975,
@@ -157,7 +196,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верх", "левый (влево)", "обрезка"],
-    "concepts": []
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 8976,
@@ -167,7 +206,18 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["зеркальный (обратный)", "не", "знак"],
-    "concepts": []
+    "concepts": [
+      "weapon",
+      "gun",
+      "shrug",
+      "wink",
+      "arrow-curved",
+      "arrow-harpoon",
+      "sets-logic",
+      "angle-geometry",
+      "border",
+      "corner"
+    ]
   },
   {
     "cp": 8977,
@@ -177,7 +227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["квадрат", "ромб"],
-    "concepts": []
+    "concepts": ["square", "diamond"]
   },
   {
     "cp": 8978,
@@ -187,7 +237,26 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["дуга"],
-    "concepts": ["moon", "cloud", "rainbow", "wave"]
+    "concepts": [
+      "moon",
+      "cloud",
+      "rainbow",
+      "wave",
+      "cat",
+      "dog",
+      "bunny",
+      "bird",
+      "turtle",
+      "bow-arrow",
+      "shrug",
+      "sad",
+      "wink",
+      "angel",
+      "angle-geometry",
+      "phone",
+      "wifi",
+      "libra"
+    ]
   },
   {
     "cp": 8979,
@@ -197,7 +266,24 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["отрезок"],
-    "concepts": ["moon", "cloud", "rainbow", "drop"]
+    "concepts": [
+      "moon",
+      "cloud",
+      "rainbow",
+      "drop",
+      "turtle",
+      "ghost",
+      "bow-arrow",
+      "smile",
+      "sad",
+      "angle-geometry",
+      "phone",
+      "food",
+      "libra",
+      "mouth",
+      "bell",
+      "halloween"
+    ]
   },
   {
     "cp": 8980,
@@ -207,7 +293,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["сектор"],
-    "concepts": ["drop"]
+    "concepts": ["drop", "angle-geometry", "chat", "wifi"]
   },
   {
     "cp": 8981,
@@ -217,7 +303,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["телефон", "автоответчик (рекордер)"],
-    "concepts": []
+    "concepts": ["phone"]
   },
   {
     "cp": 8982,
@@ -227,7 +313,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["позиция", "индикатор"],
-    "concepts": []
+    "concepts": ["cross", "weapon", "gun", "settings", "transport", "pin", "target"]
   },
   {
     "cp": 8983,
@@ -237,7 +323,16 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["видеотекс", "квадрат"],
-    "concepts": []
+    "concepts": [
+      "square",
+      "music",
+      "sharp-flat",
+      "frame-nick",
+      "at-hash",
+      "numero",
+      "keyboard",
+      "computer"
+    ]
   },
   {
     "cp": 8984,
@@ -247,7 +342,19 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["место", "из", "интерес (достопримечательность)", "знак"],
-    "concepts": ["flower", "clover", "snow"]
+    "concepts": [
+      "flower",
+      "clover",
+      "snow",
+      "spider",
+      "clubs",
+      "ornament-nick",
+      "keyboard",
+      "computer",
+      "celtic",
+      "explosion",
+      "valentine"
+    ]
   },
   {
     "cp": 8985,
@@ -257,7 +364,16 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["перевёрнутый", "не", "знак"],
-    "concepts": []
+    "concepts": [
+      "weapon",
+      "gun",
+      "shrug",
+      "arrow-curved",
+      "arrow-harpoon",
+      "angle-geometry",
+      "border",
+      "corner"
+    ]
   },
   {
     "cp": 8988,
@@ -267,7 +383,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верх", "левый (влево)", "угол (уголок)"],
-    "concepts": []
+    "concepts": ["arrow-curved", "angle-geometry", "brackets", "border", "corner"]
   },
   {
     "cp": 8989,
@@ -277,7 +393,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верх", "правый (вправо)", "угол (уголок)"],
-    "concepts": []
+    "concepts": ["arrow-curved", "angle-geometry", "brackets", "border", "corner"]
   },
   {
     "cp": 8990,
@@ -287,7 +403,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["низ", "левый (влево)", "угол (уголок)"],
-    "concepts": []
+    "concepts": ["arrow-curved", "angle-geometry", "brackets", "border", "corner"]
   },
   {
     "cp": 8991,
@@ -297,7 +413,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["низ", "правый (вправо)", "угол (уголок)"],
-    "concepts": []
+    "concepts": ["arrow-curved", "angle-geometry", "brackets", "border", "corner"]
   },
   {
     "cp": 8992,
@@ -307,7 +423,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верх", "половина", "интеграл"],
-    "concepts": ["umbrella"]
+    "concepts": ["umbrella", "snake", "sum-integral", "hot-spring"]
   },
   {
     "cp": 8993,
@@ -317,7 +433,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["низ", "половина", "интеграл"],
-    "concepts": ["umbrella"]
+    "concepts": ["umbrella", "snake", "sum-integral", "hot-spring"]
   },
   {
     "cp": 8994,
@@ -327,7 +443,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["хмурость (дуга вниз)"],
-    "concepts": ["rainbow"]
+    "concepts": ["rainbow", "shrug", "sad", "face", "phone", "mouth"]
   },
   {
     "cp": 8995,
@@ -337,7 +453,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["улыбка"],
-    "concepts": []
+    "concepts": ["frog", "shrug", "smile", "face", "wink", "phone", "coffee", "trophy", "mouth"]
   },
   {
     "cp": 8996,
@@ -347,7 +463,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["вверх", "наконечник стрелки", "между", "два", "горизонтальный", "черты (полоски)"],
-    "concepts": []
+    "concepts": ["arrowhead", "keyboard"]
   },
   {
     "cp": 8997,
@@ -357,7 +473,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["опция (option)", "ключ (клавиша)"],
-    "concepts": []
+    "concepts": ["keyboard"]
   },
   {
     "cp": 8998,
@@ -367,7 +483,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["стереть", "к", "правый (вправо)"],
-    "concepts": []
+    "concepts": ["keyboard"]
   },
   {
     "cp": 8999,
@@ -377,7 +493,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в", "прямоугольник", "рамка (псевдографика)"],
-    "concepts": []
+    "concepts": ["checkbox", "cross-mark", "square", "keyboard", "mail", "gift"]
   },
   {
     "cp": 9000,
@@ -387,7 +503,7 @@
     "en": "keyboard",
     "keywords": { "ru": ["клавиатура", "клавиши", "периферия"], "en": ["computer", "keyboard"] },
     "desc": ["клавиатура"],
-    "concepts": []
+    "concepts": ["keyboard", "computer"]
   },
   {
     "cp": 9001,
@@ -417,7 +533,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["стереть", "к", "левый (влево)"],
-    "concepts": []
+    "concepts": ["keyboard"]
   },
   {
     "cp": 9004,
@@ -427,7 +543,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["бензол", "кольцо"],
-    "concepts": []
+    "concepts": ["turtle", "alien", "hexagon", "settings", "atom"]
   },
   {
     "cp": 9005,
@@ -457,7 +573,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["симметрия"],
-    "concepts": []
+    "concepts": ["frame-nick", "at-hash"]
   },
   {
     "cp": 9008,
@@ -507,7 +623,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цековка"],
-    "concepts": []
+    "concepts": ["ship"]
   },
   {
     "cp": 9013,
@@ -517,7 +633,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["зенковка"],
-    "concepts": []
+    "concepts": ["arrow-down", "ship"]
   },
   {
     "cp": 9014,
@@ -537,7 +653,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "сжатый", "четверной"],
-    "concepts": []
+    "concepts": ["robot", "square", "rectangle", "computer"]
   },
   {
     "cp": 9016,
@@ -547,7 +663,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "равно"],
-    "concepts": []
+    "concepts": ["robot", "square", "computer", "calendar", "key"]
   },
   {
     "cp": 9017,
@@ -557,7 +673,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "делит"],
-    "concepts": []
+    "concepts": ["robot", "square", "multiply-divide", "calendar"]
   },
   {
     "cp": 9018,
@@ -567,7 +683,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "ромб"],
-    "concepts": []
+    "concepts": ["robot", "square", "diamond", "hexagon"]
   },
   {
     "cp": 9019,
@@ -577,7 +693,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "кружок (jot)"],
-    "concepts": ["snowman"]
+    "concepts": ["snowman", "frog", "robot", "square", "camera"]
   },
   {
     "cp": 9020,
@@ -587,7 +703,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "круг"],
-    "concepts": []
+    "concepts": ["robot", "square", "camera"]
   },
   {
     "cp": 9021,
@@ -597,7 +713,20 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "круг", "черта (stile)"],
-    "concepts": ["planet", "earth"]
+    "concepts": [
+      "planet",
+      "earth",
+      "eye",
+      "peace",
+      "yin-yang",
+      "arrow-circle",
+      "circle",
+      "power",
+      "time",
+      "warning",
+      "prohibited",
+      "planets"
+    ]
   },
   {
     "cp": 9022,
@@ -607,7 +736,24 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "круг", "кружок (jot)"],
-    "concepts": ["sun", "plant", "earth"]
+    "concepts": [
+      "sun",
+      "plant",
+      "earth",
+      "owl",
+      "weapon",
+      "gun",
+      "eye",
+      "peace",
+      "arrow-circle",
+      "circle",
+      "spiral-shapes",
+      "time",
+      "atom",
+      "camera",
+      "sport",
+      "target"
+    ]
   },
   {
     "cp": 9023,
@@ -637,7 +783,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "слэш (косая черта)"],
-    "concepts": []
+    "concepts": ["square", "computer", "mail", "calendar", "gift"]
   },
   {
     "cp": 9026,
@@ -647,7 +793,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "обратный слэш"],
-    "concepts": []
+    "concepts": ["square", "computer", "mail", "calendar", "gift"]
   },
   {
     "cp": 9027,
@@ -657,7 +803,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "меньше", "чем"],
-    "concepts": []
+    "concepts": ["robot", "arrowhead", "keyboard", "mail"]
   },
   {
     "cp": 9028,
@@ -667,7 +813,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "больше", "чем"],
-    "concepts": []
+    "concepts": ["robot", "arrowhead", "keyboard", "mail"]
   },
   {
     "cp": 9029,
@@ -697,7 +843,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "влево", "стрелка"],
-    "concepts": []
+    "concepts": ["keyboard"]
   },
   {
     "cp": 9032,
@@ -707,7 +853,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "вправо", "стрелка"],
-    "concepts": []
+    "concepts": ["keyboard"]
   },
   {
     "cp": 9033,
@@ -717,7 +863,22 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "круг", "обратный слэш"],
-    "concepts": ["planet", "moon", "earth"]
+    "concepts": [
+      "planet",
+      "moon",
+      "earth",
+      "eye",
+      "peace",
+      "yin-yang",
+      "arrow-circle",
+      "circle",
+      "percent",
+      "power",
+      "time",
+      "warning",
+      "prohibited",
+      "planets"
+    ]
   },
   {
     "cp": 9034,
@@ -727,7 +888,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "вниз", "кнопка (упор)", "подчёркивание"],
-    "concepts": ["tree"]
+    "concepts": ["tree", "dagger", "hammer"]
   },
   {
     "cp": 9035,
@@ -737,7 +898,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "дельта", "черта (stile)"],
-    "concepts": ["tree"]
+    "concepts": ["tree", "shield", "arrow-up", "triangle", "spades", "rocket", "christmas"]
   },
   {
     "cp": 9036,
@@ -747,7 +908,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "вниз", "каретка"],
-    "concepts": []
+    "concepts": ["robot", "arrow-down", "arrowhead", "square", "keyboard", "home"]
   },
   {
     "cp": 9037,
@@ -757,7 +918,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "дельта"],
-    "concepts": []
+    "concepts": ["robot", "square", "triangle", "keyboard"]
   },
   {
     "cp": 9038,
@@ -767,7 +928,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "вниз", "кнопка (упор)", "кружок (jot)"],
-    "concepts": []
+    "concepts": ["hammer", "rook", "castle"]
   },
   {
     "cp": 9039,
@@ -777,7 +938,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "вверх", "флюгер (лопасть)"],
-    "concepts": ["tree"]
+    "concepts": ["tree", "arrow-up", "rocket"]
   },
   {
     "cp": 9040,
@@ -787,7 +948,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "вверх", "стрелка"],
-    "concepts": []
+    "concepts": ["arrow-up", "rook", "keyboard", "home", "castle", "rocket"]
   },
   {
     "cp": 9041,
@@ -797,7 +958,19 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "вверх", "кнопка (упор)", "черта сверху"],
-    "concepts": ["mushroom", "umbrella", "fire"]
+    "concepts": [
+      "mushroom",
+      "umbrella",
+      "fire",
+      "horse",
+      "dagger",
+      "hammer",
+      "wifi",
+      "cake",
+      "candle",
+      "bell",
+      "birthday"
+    ]
   },
   {
     "cp": 9042,
@@ -807,7 +980,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "дель", "черта (stile)"],
-    "concepts": []
+    "concepts": ["shield", "arrow-down", "triangle", "spades"]
   },
   {
     "cp": 9043,
@@ -817,7 +990,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "вверх", "каретка"],
-    "concepts": []
+    "concepts": ["robot", "arrowhead", "square", "triangle", "keyboard", "mail", "home", "school"]
   },
   {
     "cp": 9044,
@@ -827,7 +1000,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "дель"],
-    "concepts": []
+    "concepts": ["robot", "shield", "square", "triangle"]
   },
   {
     "cp": 9045,
@@ -837,7 +1010,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "вверх", "кнопка (упор)", "кружок (jot)"],
-    "concepts": []
+    "concepts": ["hammer", "cake", "birthday"]
   },
   {
     "cp": 9046,
@@ -847,7 +1020,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "вниз", "флюгер (лопасть)"],
-    "concepts": []
+    "concepts": ["arrow-down"]
   },
   {
     "cp": 9047,
@@ -857,7 +1030,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "вниз", "стрелка"],
-    "concepts": ["umbrella"]
+    "concepts": ["umbrella", "arrow-down", "keyboard"]
   },
   {
     "cp": 9048,
@@ -877,7 +1050,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "дельта", "подчёркивание"],
-    "concepts": []
+    "concepts": ["shield", "triangle", "diamond", "key"]
   },
   {
     "cp": 9050,
@@ -887,7 +1060,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "ромб", "подчёркивание"],
-    "concepts": []
+    "concepts": ["shield", "diamond"]
   },
   {
     "cp": 9051,
@@ -907,7 +1080,27 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "круг", "подчёркивание"],
-    "concepts": ["snowman", "drop", "earth"]
+    "concepts": [
+      "snowman",
+      "drop",
+      "earth",
+      "frog",
+      "smile",
+      "eye",
+      "yin-yang",
+      "circle",
+      "pawn",
+      "atom",
+      "key",
+      "ankh",
+      "light",
+      "camera",
+      "pin",
+      "bell",
+      "sport",
+      "accessibility",
+      "birthday"
+    ]
   },
   {
     "cp": 9053,
@@ -917,7 +1110,20 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "вверх", "ботинок (подкова)", "кружок (jot)"],
-    "concepts": ["rainbow", "drop"]
+    "concepts": [
+      "rainbow",
+      "drop",
+      "turtle",
+      "ghost",
+      "pawn",
+      "phone",
+      "chat",
+      "light",
+      "pin",
+      "bell",
+      "halloween",
+      "birthday"
+    ]
   },
   {
     "cp": 9054,
@@ -927,7 +1133,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "кавычка", "четверной"],
-    "concepts": []
+    "concepts": ["horse", "square", "phone", "school"]
   },
   {
     "cp": 9055,
@@ -937,7 +1143,30 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "круг", "звезда"],
-    "concepts": ["star", "star-five", "asterisk", "sun", "flower", "earth"]
+    "concepts": [
+      "star",
+      "star-five",
+      "asterisk",
+      "sun",
+      "flower",
+      "earth",
+      "lion",
+      "eye",
+      "peace",
+      "yin-yang",
+      "circle",
+      "hexagon",
+      "settings",
+      "atom",
+      "pentagram",
+      "magic",
+      "explosion",
+      "dizzy",
+      "light",
+      "camera",
+      "sport",
+      "target"
+    ]
   },
   {
     "cp": 9056,
@@ -947,7 +1176,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "двоеточие"],
-    "concepts": []
+    "concepts": ["robot", "square"]
   },
   {
     "cp": 9057,
@@ -964,7 +1193,7 @@
       "кнопка (упор)",
       "диерезис (две точки сверху)"
     ],
-    "concepts": ["mushroom"]
+    "concepts": ["mushroom", "dagger", "cake", "bell", "birthday"]
   },
   {
     "cp": 9058,
@@ -974,7 +1203,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "дель", "диерезис (две точки сверху)"],
-    "concepts": []
+    "concepts": ["smile", "skull", "tears"]
   },
   {
     "cp": 9059,
@@ -984,7 +1213,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "звезда", "диерезис (две точки сверху)"],
-    "concepts": ["star"]
+    "concepts": ["star", "smile", "skull", "frame-nick", "at-hash"]
   },
   {
     "cp": 9060,
@@ -994,7 +1223,24 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "кружок (jot)", "диерезис (две точки сверху)"],
-    "concepts": ["fruit", "apple"]
+    "concepts": [
+      "fruit",
+      "apple",
+      "cat",
+      "dog",
+      "bear",
+      "mouse",
+      "owl",
+      "frog",
+      "monkey",
+      "pig",
+      "fist",
+      "smile",
+      "face",
+      "uwu",
+      "eye",
+      "skull"
+    ]
   },
   {
     "cp": 9061,
@@ -1004,7 +1250,35 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "круг", "диерезис (две точки сверху)"],
-    "concepts": ["planet", "moon", "apple", "earth", "spiral"]
+    "concepts": [
+      "planet",
+      "moon",
+      "apple",
+      "earth",
+      "spiral",
+      "cat",
+      "bear",
+      "mouse",
+      "frog",
+      "monkey",
+      "pig",
+      "alien",
+      "smile",
+      "face",
+      "uwu",
+      "eye",
+      "skull",
+      "peace",
+      "yin-yang",
+      "arrow-circle",
+      "circle",
+      "spiral-shapes",
+      "at-hash",
+      "planets",
+      "celtic",
+      "dizzy",
+      "sport"
+    ]
   },
   {
     "cp": 9062,
@@ -1014,7 +1288,23 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "вниз", "ботинок (подкова)", "черта (stile)"],
-    "concepts": ["tulip", "lily", "lotus"]
+    "concepts": [
+      "tulip",
+      "lily",
+      "lotus",
+      "crown",
+      "skull",
+      "devil",
+      "peace",
+      "pawn",
+      "ship",
+      "anchor",
+      "trophy",
+      "runes",
+      "ankh",
+      "pin",
+      "halloween"
+    ]
   },
   {
     "cp": 9063,
@@ -1041,7 +1331,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "тильда", "диерезис (две точки сверху)"],
-    "concepts": ["fog", "water", "wave"]
+    "concepts": ["fog", "water", "wave", "smile", "face", "skull", "wave-line", "tears"]
   },
   {
     "cp": 9065,
@@ -1051,7 +1341,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "больше", "чем", "диерезис (две точки сверху)"],
-    "concepts": []
+    "concepts": ["smile", "skull"]
   },
   {
     "cp": 9066,
@@ -1071,7 +1361,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "дель", "тильда"],
-    "concepts": []
+    "concepts": ["lizard"]
   },
   {
     "cp": 9068,
@@ -1091,7 +1381,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "черта (stile)", "тильда"],
-    "concepts": ["wave"]
+    "concepts": ["wave", "lizard", "wave-line"]
   },
   {
     "cp": 9070,
@@ -1111,7 +1401,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "не", "равно"],
-    "concepts": []
+    "concepts": ["robot", "square"]
   },
   {
     "cp": 9072,
@@ -1121,7 +1411,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной", "вопрос"],
-    "concepts": []
+    "concepts": ["ghost", "robot", "square", "information", "question", "halloween"]
   },
   {
     "cp": 9073,
@@ -1131,7 +1421,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "вниз", "каретка", "тильда"],
-    "concepts": ["wave"]
+    "concepts": ["wave", "bird", "fox", "triangle", "wave-line"]
   },
   {
     "cp": 9074,
@@ -1141,7 +1431,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "вверх", "каретка", "тильда"],
-    "concepts": ["wave"]
+    "concepts": ["wave", "cat-ears", "bird", "fox", "triangle", "wave-line"]
   },
   {
     "cp": 9075,
@@ -1151,7 +1441,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "йота"],
-    "concepts": []
+    "concepts": ["greek", "information"]
   },
   {
     "cp": 9076,
@@ -1161,7 +1451,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "ро"],
-    "concepts": []
+    "concepts": ["greek"]
   },
   {
     "cp": 9077,
@@ -1171,7 +1461,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "омега"],
-    "concepts": []
+    "concepts": ["uwu", "greek", "omega"]
   },
   {
     "cp": 9078,
@@ -1181,7 +1471,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "альфа", "подчёркивание"],
-    "concepts": []
+    "concepts": ["alpha"]
   },
   {
     "cp": 9079,
@@ -1191,7 +1481,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "эпсилон", "подчёркивание"],
-    "concepts": []
+    "concepts": ["euro"]
   },
   {
     "cp": 9080,
@@ -1201,7 +1491,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "йота", "подчёркивание"],
-    "concepts": []
+    "concepts": ["information"]
   },
   {
     "cp": 9081,
@@ -1211,7 +1501,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "омега", "подчёркивание"],
-    "concepts": []
+    "concepts": ["omega"]
   },
   {
     "cp": 9082,
@@ -1221,7 +1511,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "альфа"],
-    "concepts": []
+    "concepts": ["fish", "greek", "alpha"]
   },
   {
     "cp": 9083,
@@ -1231,7 +1521,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["не", "галочка (проверка)", "метка (знак)"],
-    "concepts": []
+    "concepts": ["check", "checkbox", "root"]
   },
   {
     "cp": 9084,
@@ -1241,7 +1531,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "угол", "с", "вниз", "зигзаг", "стрелка"],
-    "concepts": ["lightning"]
+    "concepts": ["lightning", "fish", "lizard", "horse", "arrow-zigzag", "zigzag", "medical"]
   },
   {
     "cp": 9085,
@@ -1251,7 +1541,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["с плечиками", "открытый", "рамка (псевдографика)"],
-    "concepts": []
+    "concepts": ["keyboard"]
   },
   {
     "cp": 9086,
@@ -1261,7 +1551,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["колокол (колокольчик)", "символ"],
-    "concepts": ["mushroom"]
+    "concepts": ["mushroom", "alien", "arms-raised", "instrument", "speaker", "bell"]
   },
   {
     "cp": 9087,
@@ -1271,7 +1561,20 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["вертикальный", "линия", "с", "средний", "точка"],
-    "concepts": ["thermometer"]
+    "concepts": [
+      "thermometer",
+      "dagger",
+      "rectangle",
+      "line",
+      "medical",
+      "airplane",
+      "candle",
+      "flag",
+      "runes",
+      "pin",
+      "exclamation",
+      "birthday"
+    ]
   },
   {
     "cp": 9088,
@@ -1281,7 +1584,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["вставка", "символ"],
-    "concepts": []
+    "concepts": ["keyboard"]
   },
   {
     "cp": 9089,
@@ -1331,7 +1634,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["белый (контурный)", "квадрат", "с", "центр", "вертикальный", "линия"],
-    "concepts": []
+    "concepts": ["square", "instrument", "computer"]
   },
   {
     "cp": 9094,
@@ -1341,7 +1644,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["ввод (enter)", "символ"],
-    "concepts": []
+    "concepts": ["arrow-curved", "keyboard"]
   },
   {
     "cp": 9095,
@@ -1351,7 +1654,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["альтернативный (alt)", "ключ (клавиша)", "символ"],
-    "concepts": []
+    "concepts": ["keyboard"]
   },
   {
     "cp": 9096,
@@ -1361,7 +1664,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["штурвал", "символ"],
-    "concepts": []
+    "concepts": ["settings", "ship"]
   },
   {
     "cp": 9097,
@@ -1381,7 +1684,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "треугольник", "вниз"],
-    "concepts": []
+    "concepts": ["camera"]
   },
   {
     "cp": 9099,
@@ -1391,7 +1694,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["прерывистый", "круг", "с", "северо-запад", "стрелка"],
-    "concepts": []
+    "concepts": ["arrow-circle", "keyboard"]
   },
   {
     "cp": 9100,
@@ -1401,7 +1704,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["отменить", "символ"],
-    "concepts": []
+    "concepts": ["arrow-circle", "keyboard"]
   },
   {
     "cp": 9101,
@@ -1411,7 +1714,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["моностабильный", "символ"],
-    "concepts": ["lightning"]
+    "concepts": ["lightning", "instrument"]
   },
   {
     "cp": 9102,
@@ -1471,7 +1774,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["постоянный (прямой)", "ток", "символ", "форма", "два"],
-    "concepts": []
+    "concepts": ["power"]
   },
   {
     "cp": 9108,
@@ -1481,7 +1784,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["программный", "функция", "символ"],
-    "concepts": ["apple"]
+    "concepts": ["apple", "turtle", "square", "hexagon", "keyboard", "computer", "atom"]
   },
   {
     "cp": 9109,
@@ -1491,7 +1794,19 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["APL", "функциональный", "символ", "четверной"],
-    "concepts": []
+    "concepts": [
+      "robot",
+      "checkbox",
+      "square",
+      "rectangle",
+      "mahjong",
+      "keyboard",
+      "computer",
+      "phone",
+      "mail",
+      "calendar",
+      "book"
+    ]
   },
   {
     "cp": 9110,
@@ -1511,7 +1826,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["предыдущий", "страница"],
-    "concepts": []
+    "concepts": ["keyboard", "book"]
   },
   {
     "cp": 9112,
@@ -1521,7 +1836,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["следующий", "страница"],
-    "concepts": []
+    "concepts": ["keyboard", "book"]
   },
   {
     "cp": 9113,
@@ -1531,7 +1846,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["печать", "экран", "символ"],
-    "concepts": []
+    "concepts": ["keyboard", "computer", "camera"]
   },
   {
     "cp": 9114,
@@ -1541,7 +1856,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["очистить", "экран", "символ"],
-    "concepts": []
+    "concepts": ["keyboard", "computer", "camera"]
   },
   {
     "cp": 9115,
@@ -1551,7 +1866,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "круглая скобка", "верхний", "крючок"],
-    "concepts": []
+    "concepts": ["arrow-curved", "brackets"]
   },
   {
     "cp": 9116,
@@ -1561,7 +1876,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "круглая скобка", "удлинитель (расширение)"],
-    "concepts": []
+    "concepts": ["line"]
   },
   {
     "cp": 9117,
@@ -1571,7 +1886,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "круглая скобка", "нижний", "крючок"],
-    "concepts": []
+    "concepts": ["arrow-curved", "brackets"]
   },
   {
     "cp": 9118,
@@ -1581,7 +1896,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "круглая скобка", "верхний", "крючок"],
-    "concepts": []
+    "concepts": ["arrow-curved", "brackets"]
   },
   {
     "cp": 9119,
@@ -1591,7 +1906,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "круглая скобка", "удлинитель (расширение)"],
-    "concepts": []
+    "concepts": ["line"]
   },
   {
     "cp": 9120,
@@ -1601,7 +1916,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "круглая скобка", "нижний", "крючок"],
-    "concepts": []
+    "concepts": ["arrow-curved", "brackets"]
   },
   {
     "cp": 9121,
@@ -1611,7 +1926,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "квадрат", "скобка", "верхний", "угол (уголок)"],
-    "concepts": []
+    "concepts": ["arrow-curved", "brackets"]
   },
   {
     "cp": 9122,
@@ -1621,7 +1936,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "квадрат", "скобка", "удлинитель (расширение)"],
-    "concepts": []
+    "concepts": ["line"]
   },
   {
     "cp": 9123,
@@ -1631,7 +1946,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "квадрат", "скобка", "нижний", "угол (уголок)"],
-    "concepts": []
+    "concepts": ["arrow-curved", "brackets"]
   },
   {
     "cp": 9124,
@@ -1641,7 +1956,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "квадрат", "скобка", "верхний", "угол (уголок)"],
-    "concepts": []
+    "concepts": ["arrow-curved", "brackets"]
   },
   {
     "cp": 9125,
@@ -1651,7 +1966,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "квадрат", "скобка", "удлинитель (расширение)"],
-    "concepts": []
+    "concepts": ["line"]
   },
   {
     "cp": 9126,
@@ -1661,7 +1976,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "квадрат", "скобка", "нижний", "угол (уголок)"],
-    "concepts": []
+    "concepts": ["arrow-curved", "brackets"]
   },
   {
     "cp": 9127,
@@ -1671,7 +1986,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "фигурный", "скобка", "верхний", "крючок"],
-    "concepts": []
+    "concepts": ["brackets"]
   },
   {
     "cp": 9128,
@@ -1681,7 +1996,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "фигурный", "скобка", "средний", "фигура (деталь)"],
-    "concepts": []
+    "concepts": ["brackets"]
   },
   {
     "cp": 9129,
@@ -1691,7 +2006,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "фигурный", "скобка", "нижний", "крючок"],
-    "concepts": []
+    "concepts": ["brackets"]
   },
   {
     "cp": 9130,
@@ -1701,7 +2016,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["фигурный", "скобка", "удлинитель (расширение)"],
-    "concepts": []
+    "concepts": ["line"]
   },
   {
     "cp": 9131,
@@ -1711,7 +2026,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "фигурный", "скобка", "верхний", "крючок"],
-    "concepts": []
+    "concepts": ["brackets"]
   },
   {
     "cp": 9132,
@@ -1721,7 +2036,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "фигурный", "скобка", "средний", "фигура (деталь)"],
-    "concepts": []
+    "concepts": ["brackets"]
   },
   {
     "cp": 9133,
@@ -1731,7 +2046,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "фигурный", "скобка", "нижний", "крючок"],
-    "concepts": []
+    "concepts": ["brackets"]
   },
   {
     "cp": 9134,
@@ -1741,7 +2056,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["интеграл", "удлинитель (расширение)"],
-    "concepts": []
+    "concepts": ["line", "sum-integral"]
   },
   {
     "cp": 9135,
@@ -1751,7 +2066,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["горизонтальный", "линия", "удлинитель (расширение)"],
-    "concepts": []
+    "concepts": ["line", "divider"]
   },
   {
     "cp": 9136,
@@ -1799,7 +2114,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["сумма", "верх"],
-    "concepts": []
+    "concepts": ["sum-integral"]
   },
   {
     "cp": 9139,
@@ -1809,7 +2124,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["сумма", "низ"],
-    "concepts": []
+    "concepts": ["sum-integral"]
   },
   {
     "cp": 9140,
@@ -1819,7 +2134,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верх", "квадрат", "скобка"],
-    "concepts": []
+    "concepts": ["sad"]
   },
   {
     "cp": 9141,
@@ -1839,7 +2154,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["низ", "квадрат", "скобка", "над", "верх"],
-    "concepts": []
+    "concepts": ["instrument"]
   },
   {
     "cp": 9143,
@@ -1849,7 +2164,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["радикал (корень)", "символ", "низ"],
-    "concepts": []
+    "concepts": ["check", "root"]
   },
   {
     "cp": 9144,
@@ -1859,7 +2174,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "вертикальный", "рамка (псевдографика)", "линия"],
-    "concepts": []
+    "concepts": ["rectangle", "line"]
   },
   {
     "cp": 9145,
@@ -1869,7 +2184,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "вертикальный", "рамка (псевдографика)", "линия"],
-    "concepts": []
+    "concepts": ["rectangle", "line"]
   },
   {
     "cp": 9146,
@@ -1879,7 +2194,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["горизонтальный", "развёртка", "линия"],
-    "concepts": []
+    "concepts": ["line"]
   },
   {
     "cp": 9147,
@@ -1889,7 +2204,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["горизонтальный", "развёртка", "линия"],
-    "concepts": []
+    "concepts": ["line"]
   },
   {
     "cp": 9148,
@@ -1899,7 +2214,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["горизонтальный", "развёртка", "линия"],
-    "concepts": []
+    "concepts": ["line"]
   },
   {
     "cp": 9149,
@@ -1909,7 +2224,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["горизонтальный", "развёртка", "линия"],
-    "concepts": []
+    "concepts": ["line"]
   },
   {
     "cp": 9150,
@@ -1927,7 +2242,7 @@
       "верх",
       "правый (вправо)"
     ],
-    "concepts": []
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 9151,
@@ -1945,7 +2260,7 @@
       "низ",
       "правый (вправо)"
     ],
-    "concepts": []
+    "concepts": ["border", "corner"]
   },
   {
     "cp": 9152,
@@ -1955,7 +2270,22 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["стоматология", "символ", "тонкий (светлый)", "вертикальный", "с", "круг"],
-    "concepts": ["planet", "thermometer", "earth"]
+    "concepts": [
+      "planet",
+      "thermometer",
+      "earth",
+      "owl",
+      "frog",
+      "alien",
+      "eye",
+      "peace",
+      "arrow-circle",
+      "circle",
+      "hexagon",
+      "power",
+      "time",
+      "prohibited"
+    ]
   },
   {
     "cp": 9153,
@@ -1974,7 +2304,7 @@
       "с",
       "круг"
     ],
-    "concepts": ["leaf", "earth"]
+    "concepts": ["leaf", "earth", "arrow-circle", "hexagon", "power", "time"]
   },
   {
     "cp": 9154,
@@ -1993,7 +2323,7 @@
       "с",
       "круг"
     ],
-    "concepts": ["earth"]
+    "concepts": ["earth", "arrow-circle", "hexagon", "power", "time"]
   },
   {
     "cp": 9155,
@@ -2003,7 +2333,24 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["стоматология", "символ", "тонкий (светлый)", "вертикальный", "с", "треугольник"],
-    "concepts": ["tree", "fire", "air", "elements", "mountain"]
+    "concepts": [
+      "tree",
+      "fire",
+      "air",
+      "elements",
+      "mountain",
+      "shield",
+      "arrow-up",
+      "triangle",
+      "hexagon",
+      "warning",
+      "recycling",
+      "home",
+      "rocket",
+      "hieroglyphs",
+      "alchemy",
+      "christmas"
+    ]
   },
   {
     "cp": 9156,
@@ -2022,7 +2369,21 @@
       "с",
       "треугольник"
     ],
-    "concepts": ["tree", "fire", "air", "elements", "mountain"]
+    "concepts": [
+      "tree",
+      "fire",
+      "air",
+      "elements",
+      "mountain",
+      "shield",
+      "arrow-up",
+      "triangle",
+      "hexagon",
+      "warning",
+      "recycling",
+      "rocket",
+      "alchemy"
+    ]
   },
   {
     "cp": 9157,
@@ -2041,7 +2402,18 @@
       "с",
       "треугольник"
     ],
-    "concepts": ["tree", "air", "elements"]
+    "concepts": [
+      "tree",
+      "air",
+      "elements",
+      "shield",
+      "arrow-up",
+      "triangle",
+      "hexagon",
+      "warning",
+      "recycling",
+      "rocket"
+    ]
   },
   {
     "cp": 9158,
@@ -2051,7 +2423,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["стоматология", "символ", "тонкий (светлый)", "вертикальный", "и", "волна"],
-    "concepts": ["snowman"]
+    "concepts": ["snowman", "hexagon"]
   },
   {
     "cp": 9159,
@@ -2070,7 +2442,7 @@
       "с",
       "волна"
     ],
-    "concepts": []
+    "concepts": ["hexagon"]
   },
   {
     "cp": 9160,
@@ -2089,7 +2461,7 @@
       "с",
       "волна"
     ],
-    "concepts": []
+    "concepts": ["hexagon"]
   },
   {
     "cp": 9161,
@@ -2099,7 +2471,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["стоматология", "символ", "тонкий (светлый)", "вниз", "и", "горизонтальный"],
-    "concepts": ["mushroom", "umbrella"]
+    "concepts": ["mushroom", "umbrella", "hammer", "hexagon", "wifi", "cake", "birthday"]
   },
   {
     "cp": 9162,
@@ -2109,7 +2481,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["стоматология", "символ", "тонкий (светлый)", "вверх", "и", "горизонтальный"],
-    "concepts": []
+    "concepts": ["hammer", "hexagon"]
   },
   {
     "cp": 9163,
@@ -2127,7 +2499,7 @@
       "верх",
       "левый (влево)"
     ],
-    "concepts": []
+    "concepts": ["hexagon", "border", "corner"]
   },
   {
     "cp": 9164,
@@ -2145,7 +2517,7 @@
       "низ",
       "левый (влево)"
     ],
-    "concepts": []
+    "concepts": ["hexagon", "border", "corner"]
   },
   {
     "cp": 9165,
@@ -2155,7 +2527,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["квадрат", "фут (стопа)"],
-    "concepts": []
+    "concepts": ["robot", "square", "rook", "computer", "home", "castle", "book", "school"]
   },
   {
     "cp": 9166,
@@ -2165,7 +2537,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["возврат (ввод)", "символ"],
-    "concepts": []
+    "concepts": ["arrow-curved", "keyboard"]
   },
   {
     "cp": 9167,
@@ -2175,7 +2547,7 @@
     "en": "eject button",
     "keywords": { "ru": ["выброс", "кнопка"], "en": ["button", "eject"] },
     "desc": ["извлечь", "символ"],
-    "concepts": []
+    "concepts": ["arrow-curved", "play-pause", "keyboard", "home", "rocket"]
   },
   {
     "cp": 9168,
@@ -2185,7 +2557,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["вертикальный", "линия", "удлинитель (расширение)"],
-    "concepts": []
+    "concepts": ["line", "play-pause"]
   },
   {
     "cp": 9169,
@@ -2195,7 +2567,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["метрический", "бреве (кратка)"],
-    "concepts": []
+    "concepts": ["smile"]
   },
   {
     "cp": 9170,
@@ -2245,7 +2617,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["метрический", "два", "краткие", "соединённый"],
-    "concepts": []
+    "concepts": ["smile"]
   },
   {
     "cp": 9175,
@@ -2285,7 +2657,20 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["земля", "заземление (земля)"],
-    "concepts": ["mushroom", "umbrella"]
+    "concepts": [
+      "mushroom",
+      "umbrella",
+      "shield",
+      "skull",
+      "pawn",
+      "instrument",
+      "power",
+      "transport",
+      "runes",
+      "ankh",
+      "libra",
+      "pin"
+    ]
   },
   {
     "cp": 9179,
@@ -2295,7 +2680,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["предохранитель"],
-    "concepts": []
+    "concepts": ["instrument", "atom"]
   },
   {
     "cp": 9180,
@@ -2305,7 +2690,29 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верх", "круглая скобка"],
-    "concepts": ["cloud", "rainbow", "wave"]
+    "concepts": [
+      "cloud",
+      "rainbow",
+      "wave",
+      "bird",
+      "turtle",
+      "elephant",
+      "goat",
+      "smile",
+      "sad",
+      "wink",
+      "brackets",
+      "frame-nick",
+      "ornament-nick",
+      "divider",
+      "phone",
+      "chat",
+      "wifi",
+      "libra",
+      "lucky",
+      "mouth",
+      "bell"
+    ]
   },
   {
     "cp": 9181,
@@ -2315,7 +2722,26 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["низ", "круглая скобка"],
-    "concepts": ["moon", "cloud", "wave"]
+    "concepts": [
+      "moon",
+      "cloud",
+      "wave",
+      "bird",
+      "frog",
+      "smile",
+      "wink",
+      "brackets",
+      "frame-nick",
+      "ornament-nick",
+      "divider",
+      "phone",
+      "chat",
+      "food",
+      "coffee",
+      "trophy",
+      "omega",
+      "mouth"
+    ]
   },
   {
     "cp": 9182,
@@ -2325,7 +2751,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верх", "фигурный", "скобка"],
-    "concepts": ["cloud", "rainbow"]
+    "concepts": ["cloud", "rainbow", "turtle", "sad", "brackets", "ornament-nick", "divider"]
   },
   {
     "cp": 9183,
@@ -2335,7 +2761,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["низ", "фигурный", "скобка"],
-    "concepts": ["cloud"]
+    "concepts": ["cloud", "brackets", "ornament-nick", "divider"]
   },
   {
     "cp": 9184,
@@ -2345,7 +2771,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["верх", "черепаха (черепаховая скобка)", "ракушка (оболочка)", "скобка"],
-    "concepts": ["wave"]
+    "concepts": ["wave", "turtle", "sad", "brackets", "ornament-nick", "divider"]
   },
   {
     "cp": 9185,
@@ -2355,7 +2781,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["низ", "черепаха (черепаховая скобка)", "ракушка (оболочка)", "скобка"],
-    "concepts": ["wave"]
+    "concepts": ["wave", "turtle", "brackets", "ornament-nick", "divider"]
   },
   {
     "cp": 9186,
@@ -2365,7 +2791,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["белый (контурный)", "трапеция"],
-    "concepts": []
+    "concepts": ["turtle", "hexagon", "atom", "home"]
   },
   {
     "cp": 9187,
@@ -2375,7 +2801,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["бензол", "кольцо", "с", "круг"],
-    "concepts": ["cloud"]
+    "concepts": ["cloud", "turtle", "alien", "eye", "hexagon", "settings", "atom"]
   },
   {
     "cp": 9188,
@@ -2385,7 +2811,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["прямолинейность"],
-    "concepts": []
+    "concepts": ["line", "divider"]
   },
   {
     "cp": 9189,
@@ -2395,7 +2821,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["плоскостность"],
-    "concepts": ["fog"]
+    "concepts": ["fog", "rectangle", "hexagon"]
   },
   {
     "cp": 9190,
@@ -2405,7 +2831,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["переменный ток", "ток"],
-    "concepts": ["wind", "fog", "water", "wave"]
+    "concepts": ["wind", "fog", "water", "wave", "wave-line", "power", "medical", "hot-spring"]
   },
   {
     "cp": 9191,
@@ -2462,7 +2888,7 @@
       "вертикальный",
       "черта"
     ],
-    "concepts": []
+    "concepts": ["play-pause"]
   },
   {
     "cp": 9198,
@@ -2493,7 +2919,7 @@
       "вертикальный",
       "черта"
     ],
-    "concepts": []
+    "concepts": ["play-pause"]
   },
   {
     "cp": 9199,
@@ -2526,7 +2952,7 @@
       "вертикальный",
       "черта"
     ],
-    "concepts": []
+    "concepts": ["game", "play-pause"]
   },
   {
     "cp": 9201,
@@ -2539,7 +2965,7 @@
       "en": ["clock", "stopwatch", "time"]
     },
     "desc": ["секундомер"],
-    "concepts": []
+    "concepts": ["time"]
   },
   {
     "cp": 9202,
@@ -2549,7 +2975,7 @@
     "en": "timer clock",
     "keywords": { "ru": ["время", "отсчет", "сигнал", "таймер", "часы"], "en": ["clock", "timer"] },
     "desc": ["таймер", "часы"],
-    "concepts": []
+    "concepts": ["time"]
   },
   {
     "cp": 9204,
@@ -2559,7 +2985,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["чёрный (закрашенный)", "средний", "левый (влево)", "указывающий", "треугольник"],
-    "concepts": []
+    "concepts": ["arrow-left", "arrowhead", "triangle", "speaker", "play-pause"]
   },
   {
     "cp": 9205,
@@ -2569,7 +2995,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["чёрный (закрашенный)", "средний", "правый (вправо)", "указывающий", "треугольник"],
-    "concepts": []
+    "concepts": ["arrow-right", "arrowhead", "triangle", "game", "play-pause"]
   },
   {
     "cp": 9206,
@@ -2579,7 +3005,16 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["чёрный (закрашенный)", "средний", "вверх", "указывающий", "треугольник"],
-    "concepts": ["fire", "mountain"]
+    "concepts": [
+      "fire",
+      "mountain",
+      "cat-ears",
+      "arrow-up",
+      "arrowhead",
+      "triangle",
+      "play-pause",
+      "rocket"
+    ]
   },
   {
     "cp": 9207,
@@ -2589,7 +3024,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["чёрный (закрашенный)", "средний", "вниз", "указывающий", "треугольник"],
-    "concepts": []
+    "concepts": ["fox", "arrow-down", "arrowhead", "triangle", "play-pause"]
   },
   {
     "cp": 9208,
@@ -2602,7 +3037,7 @@
       "en": ["bar", "button", "double", "pause", "vertical"]
     },
     "desc": ["двойной", "вертикальный", "черта"],
-    "concepts": []
+    "concepts": ["line", "play-pause", "gemini"]
   },
   {
     "cp": 9209,
@@ -2615,7 +3050,7 @@
       "en": ["button", "square", "stop"]
     },
     "desc": ["чёрный (закрашенный)", "квадрат", "для", "стоп"],
-    "concepts": []
+    "concepts": ["play-pause"]
   },
   {
     "cp": 9210,
@@ -2628,7 +3063,7 @@
       "en": ["button", "circle", "record"]
     },
     "desc": ["чёрный (закрашенный)", "круг", "для", "запись"],
-    "concepts": ["sun"]
+    "concepts": ["sun", "circle", "circle-black", "play-pause"]
   },
   {
     "cp": 9211,
@@ -2638,7 +3073,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["питание (степень)", "символ"],
-    "concepts": []
+    "concepts": ["game", "keyboard", "power"]
   },
   {
     "cp": 9212,
@@ -2648,7 +3083,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["питание (степень)", "на", "выкл", "символ"],
-    "concepts": []
+    "concepts": ["power"]
   },
   {
     "cp": 9213,
@@ -2658,7 +3093,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["питание (степень)", "на", "символ"],
-    "concepts": []
+    "concepts": ["line", "play-pause", "power"]
   },
   {
     "cp": 9214,
@@ -2668,7 +3103,17 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["питание (степень)", "сон", "символ"],
-    "concepts": ["moon", "eclipse", "night", "sleep"]
+    "concepts": [
+      "moon",
+      "eclipse",
+      "night",
+      "sleep",
+      "yin-yang",
+      "power",
+      "islam",
+      "magic",
+      "halloween"
+    ]
   },
   {
     "cp": 9215,
@@ -2678,6 +3123,6 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["наблюдатель", "глаз", "символ"],
-    "concepts": []
+    "concepts": ["eye"]
   }
 ]

@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 42561,
@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 42562,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "дзело"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 42563,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "дзело"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 42564,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "дервь"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 42569,
@@ -97,7 +97,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "дервь"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 42570,
@@ -107,7 +107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "монограф", "ук"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 42571,
@@ -117,7 +117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "монограф", "ук"],
-    "concepts": []
+    "concepts": ["omega", "cyrillic-old"]
   },
   {
     "cp": 42572,
@@ -127,7 +127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "омега"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 42573,
@@ -137,7 +137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "омега"],
-    "concepts": []
+    "concepts": ["omega", "cyrillic-old"]
   },
   {
     "cp": 42574,
@@ -235,7 +235,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "йотированный"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 42583,
@@ -245,7 +245,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "йотированный"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 42584,
@@ -423,7 +423,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "монокулярный"],
-    "concepts": []
+    "concepts": ["pig", "cyrillic-old"]
   },
   {
     "cp": 42601,
@@ -433,7 +433,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "монокулярный"],
-    "concepts": []
+    "concepts": ["bear", "owl", "alien", "eye", "circle", "cyrillic-old", "lucky", "bubble"]
   },
   {
     "cp": 42602,
@@ -443,7 +443,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["cyrillic-old", "bell"]
   },
   {
     "cp": 42603,
@@ -453,7 +453,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква"],
-    "concepts": ["fruit"]
+    "concepts": ["fruit", "owl", "pig", "alien", "smile", "eye", "circle", "cyrillic-old", "bubble"]
   },
   {
     "cp": 42604,
@@ -463,7 +463,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "двойной", "монокулярный"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 42605,
@@ -473,7 +473,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "двойной", "монокулярный"],
-    "concepts": ["apple"]
+    "concepts": ["apple", "owl", "pig", "goat", "alien", "smile", "eye", "circle", "cyrillic-old"]
   },
   {
     "cp": 42606,
@@ -483,7 +483,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "буква"],
-    "concepts": []
+    "concepts": ["owl", "alien", "eye", "circle", "cyrillic-old"]
   },
   {
     "cp": 42607,
@@ -493,7 +493,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "кириллица"],
-    "concepts": []
+    "concepts": ["cyrillic-old"]
   },
   {
     "cp": 42608,
@@ -503,7 +503,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "кириллица", "десять", "миллионы", "знак"],
-    "concepts": []
+    "concepts": ["zalgo", "enclosing"]
   },
   {
     "cp": 42609,
@@ -513,7 +513,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "кириллица", "сто", "миллионы", "знак"],
-    "concepts": []
+    "concepts": ["zalgo", "enclosing"]
   },
   {
     "cp": 42610,
@@ -523,7 +523,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["комбинируемый", "кириллица", "тысяча", "миллионы", "знак"],
-    "concepts": []
+    "concepts": ["zalgo", "enclosing"]
   },
   {
     "cp": 42611,
@@ -533,7 +533,21 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["звёздочка (астериск)"],
-    "concepts": ["star", "star-small", "sparkle", "asterisk", "flower", "snow"]
+    "concepts": [
+      "star",
+      "star-small",
+      "sparkle",
+      "asterisk",
+      "flower",
+      "snow",
+      "frame-nick",
+      "ornament-nick",
+      "cyrillic-old",
+      "magic",
+      "dizzy",
+      "sakura",
+      "christmas"
+    ]
   },
   {
     "cp": 42612,
@@ -903,7 +917,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "заглавный", "буква", "двойной"],
-    "concepts": ["cherry"]
+    "concepts": []
   },
   {
     "cp": 42649,
@@ -913,7 +927,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["кириллица", "маленький (строчный)", "буква", "двойной"],
-    "concepts": ["infinity"]
+    "concepts": ["infinity", "infinity-math"]
   },
   {
     "cp": 42650,

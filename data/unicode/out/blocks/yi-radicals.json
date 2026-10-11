@@ -217,7 +217,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "радикал (корень)", "бур"],
-    "concepts": []
+    "concepts": ["shy"]
   },
   {
     "cp": 42150,
@@ -227,7 +227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "радикал (корень)"],
-    "concepts": []
+    "concepts": ["shy", "frame-nick", "ornament-nick", "divider", "sweat"]
   },
   {
     "cp": 42151,
@@ -267,7 +267,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "радикал (корень)"],
-    "concepts": []
+    "concepts": ["shy"]
   },
   {
     "cp": 42155,
@@ -277,7 +277,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "радикал (корень)"],
-    "concepts": []
+    "concepts": ["shy"]
   },
   {
     "cp": 42156,
@@ -327,7 +327,23 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "радикал (корень)"],
-    "concepts": ["cloud"]
+    "concepts": [
+      "cloud",
+      "cat",
+      "dog",
+      "bunny",
+      "bird",
+      "pig",
+      "lion",
+      "smile",
+      "face",
+      "shy",
+      "angel",
+      "brackets",
+      "frame-nick",
+      "bow-ribbon",
+      "cheeks"
+    ]
   },
   {
     "cp": 42161,
@@ -337,7 +353,23 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "радикал (корень)"],
-    "concepts": ["cloud"]
+    "concepts": [
+      "cloud",
+      "cat",
+      "dog",
+      "bunny",
+      "bird",
+      "pig",
+      "lion",
+      "smile",
+      "face",
+      "shy",
+      "angel",
+      "brackets",
+      "frame-nick",
+      "bow-ribbon",
+      "cheeks"
+    ]
   },
   {
     "cp": 42162,
@@ -357,7 +389,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "радикал (корень)", "джо"],
-    "concepts": ["kiss"]
+    "concepts": ["kiss", "smile", "face", "shy", "uwu", "mouth", "nose"]
   },
   {
     "cp": 42164,
@@ -397,7 +429,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "радикал (корень)"],
-    "concepts": []
+    "concepts": ["shy", "frame-nick", "ornament-nick", "divider", "sweat"]
   },
   {
     "cp": 42168,
@@ -437,7 +469,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "радикал (корень)"],
-    "concepts": []
+    "concepts": ["shy"]
   },
   {
     "cp": 42172,
@@ -447,7 +479,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "радикал (корень)"],
-    "concepts": []
+    "concepts": ["shy"]
   },
   {
     "cp": 42173,
@@ -457,7 +489,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "радикал (корень)"],
-    "concepts": []
+    "concepts": ["shy"]
   },
   {
     "cp": 42174,
@@ -467,7 +499,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "радикал (корень)"],
-    "concepts": []
+    "concepts": ["shy"]
   },
   {
     "cp": 42175,
@@ -477,7 +509,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["и (письмо и)", "радикал (корень)"],
-    "concepts": []
+    "concepts": ["shy"]
   },
   {
     "cp": 42176,

@@ -5520,7 +5520,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "круглая скобка"],
-    "concepts": []
+    "concepts": ["brackets", "islam"]
   },
   {
     "cp": 64831,
@@ -5530,7 +5530,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "круглая скобка"],
-    "concepts": []
+    "concepts": ["brackets", "islam"]
   },
   {
     "cp": 64832,
@@ -7744,7 +7744,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["арабский", "лигатура", "изолированный", "форма"],
-    "concepts": []
+    "concepts": ["islam"]
   },
   {
     "cp": 65011,
@@ -7824,7 +7824,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["арабский", "лигатура", "саллаллахоу", "алайхе"],
-    "concepts": []
+    "concepts": ["islam"]
   },
   {
     "cp": 65019,
@@ -7834,7 +7834,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["арабский", "лигатура"],
-    "concepts": []
+    "concepts": ["islam"]
   },
   {
     "cp": 65020,
@@ -7844,7 +7844,7 @@
     "en": "rial",
     "keywords": { "ru": ["валюта", "риал"], "en": ["currency", "rial"] },
     "desc": ["риал", "знак"],
-    "concepts": []
+    "concepts": ["money"]
   },
   {
     "cp": 65021,
@@ -7854,7 +7854,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["арабский", "лигатура", "ар"],
-    "concepts": []
+    "concepts": ["islam"]
   },
   {
     "cp": 65022,

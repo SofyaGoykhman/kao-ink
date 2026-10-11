@@ -477,7 +477,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иврит (еврейский)", "пунктуация"],
-    "concepts": []
+    "concepts": ["line"]
   },
   {
     "cp": 1473,
@@ -577,7 +577,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иврит (еврейский)", "буква", "алеф"],
-    "concepts": []
+    "concepts": ["judaism"]
   },
   {
     "cp": 1489,
@@ -587,7 +587,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иврит (еврейский)", "буква", "бет"],
-    "concepts": []
+    "concepts": ["judaism"]
   },
   {
     "cp": 1490,
@@ -597,7 +597,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иврит (еврейский)", "буква", "гимель"],
-    "concepts": []
+    "concepts": ["judaism"]
   },
   {
     "cp": 1491,
@@ -607,7 +607,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иврит (еврейский)", "буква", "далет"],
-    "concepts": []
+    "concepts": ["judaism"]
   },
   {
     "cp": 1492,
@@ -727,7 +727,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иврит (еврейский)", "буква", "конечный", "нун"],
-    "concepts": []
+    "concepts": ["font-upside-down"]
   },
   {
     "cp": 1504,
@@ -827,7 +827,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иврит (еврейский)", "буква", "шин"],
-    "concepts": []
+    "concepts": ["judaism"]
   },
   {
     "cp": 1514,
@@ -837,7 +837,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["иврит (еврейский)", "буква", "тав"],
-    "concepts": []
+    "concepts": ["judaism"]
   },
   {
     "cp": 1519,

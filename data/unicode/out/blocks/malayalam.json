@@ -467,7 +467,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "буква", "ра"],
-    "concepts": ["heart", "wind"]
+    "concepts": ["heart", "wind", "goat"]
   },
   {
     "cp": 3377,
@@ -697,7 +697,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "гласная", "знак", "аи"],
-    "concepts": ["cloud"]
+    "concepts": []
   },
   {
     "cp": 3402,
@@ -887,7 +887,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "буква", "слоговой (вокалический)", "рр"],
-    "concepts": ["heart", "cloud", "wind", "water", "wave", "spiral"]
+    "concepts": ["heart", "wind", "water", "wave", "spiral", "goat", "shy", "wave-line"]
   },
   {
     "cp": 3425,
@@ -897,7 +897,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "буква", "слоговой (вокалический)", "лл"],
-    "concepts": ["wave"]
+    "concepts": []
   },
   {
     "cp": 3426,
@@ -907,7 +907,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "гласная", "знак", "слоговой (вокалический)"],
-    "concepts": ["wave"]
+    "concepts": []
   },
   {
     "cp": 3427,
@@ -917,7 +917,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "гласная", "знак", "слоговой (вокалический)", "лл"],
-    "concepts": ["wave"]
+    "concepts": []
   },
   {
     "cp": 3430,
@@ -927,7 +927,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "цифра", "ноль"],
-    "concepts": []
+    "concepts": ["fish", "circle"]
   },
   {
     "cp": 3431,
@@ -947,7 +947,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "цифра", "два"],
-    "concepts": ["wind"]
+    "concepts": ["wind", "goat"]
   },
   {
     "cp": 3433,
@@ -977,7 +977,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "цифра", "пять"],
-    "concepts": ["wave"]
+    "concepts": []
   },
   {
     "cp": 3436,
@@ -987,7 +987,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "цифра", "шесть"],
-    "concepts": ["wind", "wave"]
+    "concepts": ["wind"]
   },
   {
     "cp": 3437,
@@ -997,7 +997,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "цифра", "семь"],
-    "concepts": ["wind", "wave", "spiral"]
+    "concepts": ["wind", "spiral"]
   },
   {
     "cp": 3438,
@@ -1007,7 +1007,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "цифра", "восемь"],
-    "concepts": ["wave"]
+    "concepts": []
   },
   {
     "cp": 3439,
@@ -1017,7 +1017,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "цифра", "девять"],
-    "concepts": ["wave"]
+    "concepts": []
   },
   {
     "cp": 3440,
@@ -1027,7 +1027,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "число", "десять"],
-    "concepts": ["wave"]
+    "concepts": []
   },
   {
     "cp": 3441,
@@ -1037,7 +1037,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "число", "один", "сто"],
-    "concepts": ["wave"]
+    "concepts": []
   },
   {
     "cp": 3442,
@@ -1047,7 +1047,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "число", "один", "тысяча"],
-    "concepts": ["wave"]
+    "concepts": []
   },
   {
     "cp": 3443,
@@ -1057,7 +1057,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "дробь", "один", "четверть"],
-    "concepts": ["wave"]
+    "concepts": []
   },
   {
     "cp": 3444,
@@ -1067,7 +1067,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "дробь", "один", "половина"],
-    "concepts": ["wave"]
+    "concepts": []
   },
   {
     "cp": 3445,
@@ -1077,7 +1077,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "дробь", "три", "четверти"],
-    "concepts": ["wave"]
+    "concepts": []
   },
   {
     "cp": 3446,
@@ -1087,7 +1087,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "дробь", "один", "шестнадцатая"],
-    "concepts": ["wave"]
+    "concepts": []
   },
   {
     "cp": 3447,
@@ -1097,7 +1097,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "дробь", "один", "восьмая"],
-    "concepts": ["wave"]
+    "concepts": []
   },
   {
     "cp": 3448,
@@ -1107,7 +1107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "дробь", "три", "шестнадцатые"],
-    "concepts": ["wave"]
+    "concepts": []
   },
   {
     "cp": 3449,
@@ -1117,7 +1117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "дата", "метка (знак)"],
-    "concepts": ["wave"]
+    "concepts": []
   },
   {
     "cp": 3450,
@@ -1177,6 +1177,6 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["малаялам", "буква", "чилу"],
-    "concepts": ["cloud"]
+    "concepts": ["goat"]
   }
 ]

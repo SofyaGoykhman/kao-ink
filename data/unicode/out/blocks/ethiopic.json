@@ -1107,7 +1107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["эфиопский", "слог", "те"],
-    "concepts": []
+    "concepts": ["cross"]
   },
   {
     "cp": 4726,
@@ -1117,7 +1117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["эфиопский", "слог", "к"],
-    "concepts": []
+    "concepts": ["cross"]
   },
   {
     "cp": 4727,
@@ -1137,7 +1137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["эфиопский", "слог", "ча"],
-    "concepts": []
+    "concepts": ["cross"]
   },
   {
     "cp": 4729,
@@ -3307,7 +3307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["эфиопский"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 4962,
@@ -3327,7 +3327,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["эфиопский", "запятая"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 4964,
@@ -3377,7 +3377,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["эфиопский", "абзац", "разделитель"],
-    "concepts": []
+    "concepts": ["braille"]
   },
   {
     "cp": 4969,

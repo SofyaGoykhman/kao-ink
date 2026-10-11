@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "слог", "ом (ॐ)"],
-    "concepts": ["fire"]
+    "concepts": ["fire", "om"]
   },
   {
     "cp": 3841,
@@ -47,7 +47,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "метка (знак)", "начальный", "йиг", "мго", "ма"],
-    "concepts": ["sparkle", "wind", "fire", "spiral"]
+    "concepts": ["sparkle", "wind", "fire", "spiral", "frame-nick", "ornament-nick", "religion"]
   },
   {
     "cp": 3845,
@@ -57,7 +57,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "метка (знак)", "закрывающий", "йиг", "мго", "ма"],
-    "concepts": ["fire"]
+    "concepts": ["fire", "ornament-nick"]
   },
   {
     "cp": 3846,
@@ -67,7 +67,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "метка (знак)", "каретка", "йиг", "мго", "шад", "ма"],
-    "concepts": ["fire"]
+    "concepts": ["fire", "ornament-nick"]
   },
   {
     "cp": 3847,
@@ -77,7 +77,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "метка (знак)", "йиг", "мго", "цхег", "шад", "ма"],
-    "concepts": ["fire"]
+    "concepts": ["fire", "ornament-nick"]
   },
   {
     "cp": 3848,
@@ -117,7 +117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "метка (знак)", "цхег"],
-    "concepts": []
+    "concepts": ["ellipsis"]
   },
   {
     "cp": 3852,
@@ -127,7 +127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "метка (знак)", "разделитель", "цхег"],
-    "concepts": []
+    "concepts": ["ellipsis"]
   },
   {
     "cp": 3853,
@@ -147,7 +147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "метка (знак)", "нйис", "шад"],
-    "concepts": []
+    "concepts": ["sad", "tears"]
   },
   {
     "cp": 3855,
@@ -157,7 +157,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "метка (знак)", "цхег", "шад"],
-    "concepts": []
+    "concepts": ["sad", "tears"]
   },
   {
     "cp": 3856,
@@ -187,7 +187,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "метка (знак)", "шад"],
-    "concepts": ["star", "fire"]
+    "concepts": ["star", "fire", "crown", "ornament-nick"]
   },
   {
     "cp": 3859,
@@ -197,7 +197,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "метка (знак)", "каретка", "ртаг", "мне", "длинный", "чан"],
-    "concepts": ["fire"]
+    "concepts": ["fire", "ornament-nick"]
   },
   {
     "cp": 3860,
@@ -207,7 +207,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "метка (знак)", "гтер", "цхег"],
-    "concepts": []
+    "concepts": ["ornament-nick"]
   },
   {
     "cp": 3861,
@@ -237,7 +237,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "астрологический", "знак", "чар", "ртаг"],
-    "concepts": []
+    "concepts": ["sweat"]
   },
   {
     "cp": 3864,
@@ -547,7 +547,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "метка (знак)", "каретка", "ртаг", "бжи", "чан"],
-    "concepts": []
+    "concepts": ["cheeks"]
   },
   {
     "cp": 3895,
@@ -587,7 +587,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "метка (знак)", "ртаг"],
-    "concepts": []
+    "concepts": ["brackets", "frame-nick", "ornament-nick", "divider"]
   },
   {
     "cp": 3899,
@@ -597,7 +597,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "метка (знак)", "ртаг"],
-    "concepts": []
+    "concepts": ["brackets", "frame-nick", "ornament-nick", "divider"]
   },
   {
     "cp": 3900,
@@ -607,7 +607,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "метка (знак)", "анг"],
-    "concepts": []
+    "concepts": ["hand", "arms-raised", "angry", "face", "brackets"]
   },
   {
     "cp": 3901,
@@ -617,7 +617,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "метка (знак)", "анг"],
-    "concepts": []
+    "concepts": ["hand", "arms-raised", "angry", "face", "brackets"]
   },
   {
     "cp": 3902,
@@ -647,7 +647,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "буква", "ка"],
-    "concepts": []
+    "concepts": ["sad"]
   },
   {
     "cp": 3905,
@@ -1267,7 +1267,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "знак"],
-    "concepts": []
+    "concepts": ["ampersand"]
   },
   {
     "cp": 3972,
@@ -1927,7 +1927,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "символ"],
-    "concepts": []
+    "concepts": ["ornament-nick"]
   },
   {
     "cp": 4040,
@@ -1937,7 +1937,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "символ", "па"],
-    "concepts": []
+    "concepts": ["ornament-nick"]
   },
   {
     "cp": 4041,
@@ -1947,7 +1947,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "символ", "ни", "бу"],
-    "concepts": []
+    "concepts": ["ornament-nick"]
   },
   {
     "cp": 4042,
@@ -1957,7 +1957,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "символ", "ни", "бу", "нйис", "хйил"],
-    "concepts": ["spiral"]
+    "concepts": ["spiral", "ornament-nick", "religion", "om"]
   },
   {
     "cp": 4043,
@@ -1967,7 +1967,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "символ", "ни", "бу", "гсум", "хйил"],
-    "concepts": ["spiral"]
+    "concepts": ["spiral", "ornament-nick", "religion", "om"]
   },
   {
     "cp": 4044,
@@ -1977,7 +1977,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "символ", "ни", "бу", "бжи", "хйил"],
-    "concepts": ["spiral"]
+    "concepts": ["spiral", "ornament-nick", "religion", "om"]
   },
   {
     "cp": 4046,
@@ -1987,7 +1987,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "знак", "рдел", "наг", "дкар"],
-    "concepts": []
+    "concepts": ["ornament-nick"]
   },
   {
     "cp": 4047,
@@ -1997,7 +1997,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "знак", "рдел", "наг", "гсум"],
-    "concepts": []
+    "concepts": ["ornament-nick"]
   },
   {
     "cp": 4048,
@@ -2007,7 +2007,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "метка (знак)", "ги", "мго"],
-    "concepts": ["wave"]
+    "concepts": ["wave", "frame-nick", "ornament-nick"]
   },
   {
     "cp": 4049,
@@ -2047,7 +2047,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тибетский", "метка (знак)", "закрывающий", "йиг", "мго", "ма"],
-    "concepts": []
+    "concepts": ["ornament-nick"]
   },
   {
     "cp": 4053,
@@ -2057,7 +2057,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "обращённый", "свасти", "знак"],
-    "concepts": []
+    "concepts": ["religion", "om"]
   },
   {
     "cp": 4054,
@@ -2067,7 +2067,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "обращённый", "свасти", "знак"],
-    "concepts": []
+    "concepts": ["religion", "om"]
   },
   {
     "cp": 4055,
@@ -2077,7 +2077,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "обращённый", "свасти", "знак", "с", "точки"],
-    "concepts": []
+    "concepts": ["religion", "om"]
   },
   {
     "cp": 4056,
@@ -2087,7 +2087,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["левый (влево)", "обращённый", "свасти", "знак", "с", "точки"],
-    "concepts": []
+    "concepts": ["religion", "om"]
   },
   {
     "cp": 4057,

@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["вверх", "четверной", "стрелка"],
-    "concepts": ["tree"]
+    "concepts": ["tree", "arrow-up", "rocket"]
   },
   {
     "cp": 10225,
@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["вниз", "четверной", "стрелка"],
-    "concepts": []
+    "concepts": ["arrow-down"]
   },
   {
     "cp": 10226,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["против часовой стрелки", "с разрывом", "круг", "стрелка"],
-    "concepts": ["spiral"]
+    "concepts": ["spiral", "arrow-circle", "recycling", "dizzy"]
   },
   {
     "cp": 10227,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["по часовой стрелке", "с разрывом", "круг", "стрелка"],
-    "concepts": ["spiral"]
+    "concepts": ["spiral", "arrow-circle", "recycling", "dizzy"]
   },
   {
     "cp": 10228,
@@ -47,7 +47,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["правый (вправо)", "стрелка", "с", "в кружке", "плюс"],
-    "concepts": []
+    "concepts": ["fish", "arrow-feathered", "airplane"]
   },
   {
     "cp": 10229,
@@ -57,7 +57,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["длинный", "влево", "стрелка"],
-    "concepts": []
+    "concepts": ["arrow", "arrow-left"]
   },
   {
     "cp": 10230,
@@ -67,7 +67,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["длинный", "вправо", "стрелка"],
-    "concepts": []
+    "concepts": ["bow-arrow", "arrow", "arrow-right"]
   },
   {
     "cp": 10231,
@@ -77,7 +77,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["длинный", "левый (влево)", "правый (вправо)", "стрелка"],
-    "concepts": []
+    "concepts": ["arrow", "arrow-double"]
   },
   {
     "cp": 10232,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["длинный", "влево", "двойной", "стрелка"],
-    "concepts": []
+    "concepts": ["arrow-left"]
   },
   {
     "cp": 10233,
@@ -97,7 +97,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["длинный", "вправо", "двойной", "стрелка"],
-    "concepts": []
+    "concepts": ["arrow-right"]
   },
   {
     "cp": 10234,
@@ -107,7 +107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["длинный", "левый (влево)", "правый (вправо)", "двойной", "стрелка"],
-    "concepts": []
+    "concepts": ["arrow-double"]
   },
   {
     "cp": 10235,
@@ -117,7 +117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["длинный", "влево", "стрелка", "от", "черта"],
-    "concepts": []
+    "concepts": ["arrow-left"]
   },
   {
     "cp": 10236,
@@ -127,7 +127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["длинный", "вправо", "стрелка", "от", "черта"],
-    "concepts": []
+    "concepts": ["arrow-right"]
   },
   {
     "cp": 10237,
@@ -137,7 +137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["длинный", "влево", "двойной", "стрелка", "от", "черта"],
-    "concepts": []
+    "concepts": ["arrow-left", "arrow-feathered"]
   },
   {
     "cp": 10238,
@@ -147,7 +147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["длинный", "вправо", "двойной", "стрелка", "от", "черта"],
-    "concepts": []
+    "concepts": ["arrow-right", "arrow-feathered"]
   },
   {
     "cp": 10239,
@@ -157,6 +157,6 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["длинный", "вправо", "волнистая (закорючка)", "стрелка"],
-    "concepts": ["shooting-star", "wind"]
+    "concepts": ["shooting-star", "wind", "arrow-right", "arrow-zigzag", "arrow-feathered"]
   }
 ]

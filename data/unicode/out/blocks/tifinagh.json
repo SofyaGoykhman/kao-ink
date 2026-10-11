@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "я"],
-    "concepts": ["apple", "spiral"]
+    "concepts": ["spiral", "dog", "duck", "triangle", "ankh"]
   },
   {
     "cp": 11569,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": []
+    "concepts": ["cross-mark", "runes"]
   },
   {
     "cp": 11572,
@@ -77,7 +77,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": []
+    "concepts": ["triangle", "zigzag"]
   },
   {
     "cp": 11576,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": []
+    "concepts": ["victory", "triangle", "zigzag"]
   },
   {
     "cp": 11577,
@@ -117,7 +117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": ["spiral"]
+    "concepts": ["zigzag"]
   },
   {
     "cp": 11580,
@@ -147,7 +147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "туарегский", "як"],
-    "concepts": []
+    "concepts": ["crown", "paw", "diamond"]
   },
   {
     "cp": 11583,
@@ -157,7 +157,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": []
+    "concepts": ["zigzag"]
   },
   {
     "cp": 11584,
@@ -167,7 +167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "ях"],
-    "concepts": ["spiral"]
+    "concepts": ["spiral", "eye", "yin-yang", "circle", "spiral-shapes"]
   },
   {
     "cp": 11585,
@@ -177,7 +177,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "ях"],
-    "concepts": []
+    "concepts": ["eye", "yin-yang", "circle", "spiral-shapes"]
   },
   {
     "cp": 11586,
@@ -187,7 +187,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "туарегский", "ях"],
-    "concepts": []
+    "concepts": ["zigzag"]
   },
   {
     "cp": 11587,
@@ -197,7 +197,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": []
+    "concepts": ["zigzag"]
   },
   {
     "cp": 11588,
@@ -207,7 +207,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "яа"],
-    "concepts": []
+    "concepts": ["zigzag"]
   },
   {
     "cp": 11589,
@@ -217,7 +217,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": []
+    "concepts": ["cross-mark", "zigzag", "multiply-divide", "hourglass", "runes"]
   },
   {
     "cp": 11590,
@@ -227,7 +227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "туарегский"],
-    "concepts": []
+    "concepts": ["zigzag"]
   },
   {
     "cp": 11591,
@@ -237,7 +237,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": []
+    "concepts": ["zigzag"]
   },
   {
     "cp": 11592,
@@ -247,7 +247,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "туарегский"],
-    "concepts": []
+    "concepts": ["diamond", "zigzag"]
   },
   {
     "cp": 11593,
@@ -257,7 +257,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "и (письмо и)"],
-    "concepts": []
+    "concepts": ["diamond", "zigzag", "sum-integral"]
   },
   {
     "cp": 11594,
@@ -267,7 +267,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "яж"],
-    "concepts": []
+    "concepts": ["diamond", "zigzag"]
   },
   {
     "cp": 11595,
@@ -277,7 +277,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "яж"],
-    "concepts": []
+    "concepts": ["cross-mark", "diamond", "zigzag"]
   },
   {
     "cp": 11596,
@@ -287,7 +287,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "туарегский", "яж"],
-    "concepts": ["spiral"]
+    "concepts": ["spiral", "circle", "diamond"]
   },
   {
     "cp": 11597,
@@ -297,7 +297,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": []
+    "concepts": ["diamond", "zigzag"]
   },
   {
     "cp": 11598,
@@ -307,7 +307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": ["moon"]
+    "concepts": ["moon", "elephant", "diamond", "sum-integral", "castle"]
   },
   {
     "cp": 11599,
@@ -317,7 +317,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": ["spiral"]
+    "concepts": ["spiral", "diamond", "line", "exclamation"]
   },
   {
     "cp": 11600,
@@ -327,7 +327,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "туарегский"],
-    "concepts": []
+    "concepts": ["castle"]
   },
   {
     "cp": 11601,
@@ -337,7 +337,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "туарегский", "ян"],
-    "concepts": []
+    "concepts": ["line", "punctuation-fancy", "warning", "candle", "exclamation"]
   },
   {
     "cp": 11602,
@@ -347,7 +347,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": ["spiral"]
+    "concepts": []
   },
   {
     "cp": 11603,
@@ -357,7 +357,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "ю"],
-    "concepts": ["cloud", "spiral"]
+    "concepts": ["cloud", "spiral", "duck", "goat", "dot", "frame-nick", "ankh"]
   },
   {
     "cp": 11604,
@@ -367,7 +367,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": ["spiral"]
+    "concepts": ["duck", "pig", "eye", "yin-yang", "circle", "spiral-shapes", "bubble"]
   },
   {
     "cp": 11605,
@@ -387,7 +387,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "яг"],
-    "concepts": []
+    "concepts": ["sum-integral"]
   },
   {
     "cp": 11607,
@@ -397,7 +397,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "туарегский", "яг"],
-    "concepts": []
+    "concepts": ["paw", "circle", "dot", "ellipsis"]
   },
   {
     "cp": 11608,
@@ -407,7 +407,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "яг"],
-    "concepts": ["spiral"]
+    "concepts": ["paw", "circle", "dot"]
   },
   {
     "cp": 11609,
@@ -417,7 +417,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": ["spiral"]
+    "concepts": ["spiral", "paw", "pig", "eye", "yin-yang", "circle", "dot", "om"]
   },
   {
     "cp": 11610,
@@ -427,7 +427,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": ["spiral"]
+    "concepts": ["circle"]
   },
   {
     "cp": 11611,
@@ -437,7 +437,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": ["spiral"]
+    "concepts": ["paw"]
   },
   {
     "cp": 11612,
@@ -447,7 +447,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "ять"],
-    "concepts": []
+    "concepts": ["cross-mark", "triangle", "runes"]
   },
   {
     "cp": 11613,
@@ -457,7 +457,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": ["spiral"]
+    "concepts": ["cross-mark"]
   },
   {
     "cp": 11614,
@@ -467,7 +467,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": []
+    "concepts": ["zigzag"]
   },
   {
     "cp": 11615,
@@ -477,7 +477,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": []
+    "concepts": ["zigzag"]
   },
   {
     "cp": 11616,
@@ -487,7 +487,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": []
+    "concepts": ["triangle", "zigzag"]
   },
   {
     "cp": 11617,
@@ -497,7 +497,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": []
+    "concepts": ["zigzag"]
   },
   {
     "cp": 11618,
@@ -507,7 +507,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": ["spiral"]
+    "concepts": ["zigzag"]
   },
   {
     "cp": 11619,
@@ -517,7 +517,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": []
+    "concepts": ["butterfly", "bee", "spider", "zigzag", "runes", "halloween"]
   },
   {
     "cp": 11620,
@@ -527,7 +527,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": []
+    "concepts": ["zigzag"]
   },
   {
     "cp": 11621,
@@ -537,7 +537,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква"],
-    "concepts": []
+    "concepts": ["butterfly", "spider", "zigzag", "halloween"]
   },
   {
     "cp": 11622,
@@ -547,7 +547,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "буква", "йе"],
-    "concepts": []
+    "concepts": ["zigzag"]
   },
   {
     "cp": 11623,
@@ -567,7 +567,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тифинаг", "модификатор", "буква", "метка (знак)"],
-    "concepts": []
+    "concepts": ["zigzag", "question"]
   },
   {
     "cp": 11632,

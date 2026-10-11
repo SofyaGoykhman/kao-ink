@@ -67,7 +67,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "центр"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119559,
@@ -77,7 +77,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "полный", "круг"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119560,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "увязание"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119561,
@@ -97,7 +97,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "преграда"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119562,
@@ -107,7 +107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "сохранение", "маленький (строчный)"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119563,
@@ -117,7 +117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "противоречие"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119564,
@@ -127,7 +127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "восхождение"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119565,
@@ -137,7 +137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "противостояние"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119566,
@@ -147,7 +147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "ветвление", "наружу"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119567,
@@ -157,7 +157,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "ущербность", "или", "искажение"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119568,
@@ -167,7 +167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "расхождение"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119569,
@@ -177,7 +177,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "юность"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119570,
@@ -187,7 +187,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "увеличение"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119571,
@@ -197,7 +197,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "проникновение"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119572,
@@ -207,7 +207,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "достижение"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119573,
@@ -217,7 +217,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "контакт"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119574,
@@ -227,7 +227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "держащий", "назад (обратная сторона)"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119575,
@@ -237,7 +237,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "ожидание"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119576,
@@ -247,7 +247,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "следование"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119577,
@@ -257,7 +257,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "продвижение"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119578,
@@ -267,7 +267,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "освобождение"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119579,
@@ -277,7 +277,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "сопротивление"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119580,
@@ -287,7 +287,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "лёгкость"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119581,
@@ -297,7 +297,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "радость"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119582,
@@ -307,7 +307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "спор"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119583,
@@ -317,7 +317,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "старание"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119584,
@@ -327,7 +327,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "обязанности"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119585,
@@ -337,7 +337,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["тетраграмма", "для", "перемена"],
-    "concepts": []
+    "concepts": ["trigram"]
   },
   {
     "cp": 119586,

@@ -7,7 +7,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "цифра", "один"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9313,
@@ -17,7 +17,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "цифра", "два"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9314,
@@ -27,7 +27,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "цифра", "три"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9315,
@@ -37,7 +37,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "цифра", "четыре"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9316,
@@ -47,7 +47,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "цифра", "пять"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9317,
@@ -57,7 +57,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "цифра", "шесть"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9318,
@@ -67,7 +67,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "цифра", "семь"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9319,
@@ -77,7 +77,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "цифра", "восемь"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9320,
@@ -87,7 +87,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "цифра", "девять"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9321,
@@ -97,7 +97,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "десять"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9322,
@@ -107,7 +107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "одиннадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9323,
@@ -117,7 +117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "двенадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9324,
@@ -127,7 +127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "тринадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9325,
@@ -137,7 +137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "четырнадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9326,
@@ -147,7 +147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "пятнадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9327,
@@ -157,7 +157,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "шестнадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9328,
@@ -167,7 +167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "семнадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9329,
@@ -177,7 +177,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "восемнадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9330,
@@ -187,7 +187,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "девятнадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9331,
@@ -197,7 +197,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "число", "двадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9332,
@@ -207,7 +207,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "цифра", "один"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9333,
@@ -217,7 +217,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "цифра", "два"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9334,
@@ -227,7 +227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "цифра", "три"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9335,
@@ -237,7 +237,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "цифра", "четыре"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9336,
@@ -247,7 +247,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "цифра", "пять"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9337,
@@ -257,7 +257,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "цифра", "шесть"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9338,
@@ -267,7 +267,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "цифра", "семь"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9339,
@@ -277,7 +277,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "цифра", "восемь"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9340,
@@ -287,7 +287,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "цифра", "девять"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9341,
@@ -297,7 +297,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "число", "десять"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9342,
@@ -307,7 +307,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "число", "одиннадцать"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9343,
@@ -317,7 +317,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "число", "двенадцать"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9344,
@@ -327,7 +327,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "число", "тринадцать"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9345,
@@ -337,7 +337,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "число", "четырнадцать"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9346,
@@ -347,7 +347,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "число", "пятнадцать"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9347,
@@ -357,7 +357,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "число", "шестнадцать"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9348,
@@ -367,7 +367,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "число", "семнадцать"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9349,
@@ -377,7 +377,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "число", "восемнадцать"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9350,
@@ -387,7 +387,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "число", "девятнадцать"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9351,
@@ -397,7 +397,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "число", "двадцать"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9352,
@@ -407,7 +407,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "один", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9353,
@@ -417,7 +417,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "два", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9354,
@@ -427,7 +427,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "три", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9355,
@@ -437,7 +437,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "четыре", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9356,
@@ -447,7 +447,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "пять", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9357,
@@ -457,7 +457,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "шесть", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9358,
@@ -467,7 +467,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "семь", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9359,
@@ -477,7 +477,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "восемь", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9360,
@@ -487,7 +487,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["цифра", "девять", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9361,
@@ -497,7 +497,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["число", "десять", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-circled", "numbers-parenthesized"]
   },
   {
     "cp": 9362,
@@ -507,7 +507,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["число", "одиннадцать", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9363,
@@ -517,7 +517,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["число", "двенадцать", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9364,
@@ -527,7 +527,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["число", "тринадцать", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9365,
@@ -537,7 +537,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["число", "четырнадцать", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9366,
@@ -547,7 +547,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["число", "пятнадцать", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9367,
@@ -557,7 +557,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["число", "шестнадцать", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9368,
@@ -567,7 +567,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["число", "семнадцать", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9369,
@@ -577,7 +577,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["число", "восемнадцать", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9370,
@@ -587,7 +587,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["число", "девятнадцать", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9371,
@@ -597,7 +597,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["число", "двадцать", "полный", "стоп"],
-    "concepts": []
+    "concepts": ["numbers-parenthesized"]
   },
   {
     "cp": 9372,
@@ -607,7 +607,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "at-hash"]
   },
   {
     "cp": 9373,
@@ -617,7 +617,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9374,
@@ -627,7 +627,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "copyright"]
   },
   {
     "cp": 9375,
@@ -637,7 +637,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9376,
@@ -647,7 +647,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9377,
@@ -657,7 +657,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9378,
@@ -667,7 +667,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9379,
@@ -677,7 +677,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9380,
@@ -687,7 +687,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "information"]
   },
   {
     "cp": 9381,
@@ -697,7 +697,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9382,
@@ -707,7 +707,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9383,
@@ -717,7 +717,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9384,
@@ -727,7 +727,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9385,
@@ -737,7 +737,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9386,
@@ -747,7 +747,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9387,
@@ -757,7 +757,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9388,
@@ -767,7 +767,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9389,
@@ -777,7 +777,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "copyright"]
   },
   {
     "cp": 9390,
@@ -787,7 +787,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9391,
@@ -797,7 +797,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "copyright"]
   },
   {
     "cp": 9392,
@@ -807,7 +807,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9393,
@@ -817,7 +817,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9394,
@@ -827,7 +827,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9395,
@@ -837,7 +837,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9396,
@@ -847,7 +847,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9397,
@@ -857,7 +857,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в скобках", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9398,
@@ -867,7 +867,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9399,
@@ -877,7 +877,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9400,
@@ -887,7 +887,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "copyright"]
   },
   {
     "cp": 9401,
@@ -897,7 +897,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9402,
@@ -907,7 +907,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9403,
@@ -917,7 +917,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9404,
@@ -927,7 +927,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9405,
@@ -937,7 +937,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9406,
@@ -947,7 +947,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "information"]
   },
   {
     "cp": 9407,
@@ -957,7 +957,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9408,
@@ -967,7 +967,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9409,
@@ -977,7 +977,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9410,
@@ -997,7 +997,7 @@
       "en": ["circle", "circled", "M"]
     },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "copyright"]
   },
   {
     "cp": 9411,
@@ -1007,7 +1007,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9412,
@@ -1017,7 +1017,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9413,
@@ -1027,7 +1027,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "copyright"]
   },
   {
     "cp": 9414,
@@ -1037,7 +1037,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9415,
@@ -1047,7 +1047,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "copyright"]
   },
   {
     "cp": 9416,
@@ -1057,7 +1057,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9417,
@@ -1067,7 +1067,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "copyright"]
   },
   {
     "cp": 9418,
@@ -1077,7 +1077,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9419,
@@ -1087,7 +1087,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9420,
@@ -1097,7 +1097,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9421,
@@ -1107,7 +1107,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9422,
@@ -1117,7 +1117,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9423,
@@ -1127,7 +1127,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "заглавный", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9424,
@@ -1137,7 +1137,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "at-hash"]
   },
   {
     "cp": 9425,
@@ -1147,7 +1147,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "accessibility"]
   },
   {
     "cp": 9426,
@@ -1157,7 +1157,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "copyright", "accessibility"]
   },
   {
     "cp": 9427,
@@ -1167,7 +1167,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9428,
@@ -1177,7 +1177,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": ["spiral"]
+    "concepts": ["spiral", "letters-circled"]
   },
   {
     "cp": 9429,
@@ -1187,7 +1187,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9430,
@@ -1197,7 +1197,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": ["spiral"]
+    "concepts": ["spiral", "letters-circled"]
   },
   {
     "cp": 9431,
@@ -1207,7 +1207,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9432,
@@ -1217,7 +1217,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "information"]
   },
   {
     "cp": 9433,
@@ -1227,7 +1227,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9434,
@@ -1237,7 +1237,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9435,
@@ -1247,7 +1247,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9436,
@@ -1257,7 +1257,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "copyright"]
   },
   {
     "cp": 9437,
@@ -1267,7 +1267,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9438,
@@ -1277,7 +1277,16 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": [
+      "bear",
+      "owl",
+      "uwu",
+      "eye",
+      "circle",
+      "spiral-shapes",
+      "letters-circled",
+      "bubble"
+    ]
   },
   {
     "cp": 9439,
@@ -1287,7 +1296,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "copyright"]
   },
   {
     "cp": 9440,
@@ -1297,7 +1306,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9441,
@@ -1307,7 +1316,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "copyright"]
   },
   {
     "cp": 9442,
@@ -1317,7 +1326,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9443,
@@ -1327,7 +1336,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled", "copyright"]
   },
   {
     "cp": 9444,
@@ -1337,7 +1346,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["uwu", "letters-circled"]
   },
   {
     "cp": 9445,
@@ -1347,7 +1356,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9446,
@@ -1357,7 +1366,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["uwu", "letters-circled"]
   },
   {
     "cp": 9447,
@@ -1367,7 +1376,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9448,
@@ -1377,7 +1386,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9449,
@@ -1387,7 +1396,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "латинский", "маленький (строчный)", "буква"],
-    "concepts": []
+    "concepts": ["letters-circled"]
   },
   {
     "cp": 9450,
@@ -1397,7 +1406,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["в кружке", "цифра", "ноль"],
-    "concepts": []
+    "concepts": ["eye", "circle", "numbers-circled"]
   },
   {
     "cp": 9451,
@@ -1407,7 +1416,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["негатив (инверсный)", "в кружке", "число", "одиннадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9452,
@@ -1417,7 +1426,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["негатив (инверсный)", "в кружке", "число", "двенадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9453,
@@ -1427,7 +1436,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["негатив (инверсный)", "в кружке", "число", "тринадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9454,
@@ -1437,7 +1446,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["негатив (инверсный)", "в кружке", "число", "четырнадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9455,
@@ -1447,7 +1456,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["негатив (инверсный)", "в кружке", "число", "пятнадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9456,
@@ -1457,7 +1466,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["негатив (инверсный)", "в кружке", "число", "шестнадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9457,
@@ -1467,7 +1476,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["негатив (инверсный)", "в кружке", "число", "семнадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9458,
@@ -1477,7 +1486,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["негатив (инверсный)", "в кружке", "число", "восемнадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9459,
@@ -1487,7 +1496,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["негатив (инверсный)", "в кружке", "число", "девятнадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9460,
@@ -1497,7 +1506,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["негатив (инверсный)", "в кружке", "число", "двадцать"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9461,
@@ -1507,7 +1516,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "в кружке", "цифра", "один"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9462,
@@ -1517,7 +1526,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "в кружке", "цифра", "два"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9463,
@@ -1527,7 +1536,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "в кружке", "цифра", "три"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9464,
@@ -1537,7 +1546,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "в кружке", "цифра", "четыре"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9465,
@@ -1547,7 +1556,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "в кружке", "цифра", "пять"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9466,
@@ -1557,7 +1566,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "в кружке", "цифра", "шесть"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9467,
@@ -1567,7 +1576,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "в кружке", "цифра", "семь"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9468,
@@ -1577,7 +1586,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "в кружке", "цифра", "восемь"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9469,
@@ -1587,7 +1596,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "в кружке", "цифра", "девять"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9470,
@@ -1597,7 +1606,7 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["двойной", "в кружке", "число", "десять"],
-    "concepts": []
+    "concepts": ["numbers-circled"]
   },
   {
     "cp": 9471,
@@ -1607,6 +1616,6 @@
     "en": null,
     "keywords": { "ru": [], "en": [] },
     "desc": ["негатив (инверсный)", "в кружке", "цифра", "ноль"],
-    "concepts": []
+    "concepts": ["circle", "numbers-circled"]
   }
 ]
