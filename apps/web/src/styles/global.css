@@ -250,3 +250,142 @@ h2 {
   font-size: 2.2rem;
   line-height: 1;
 }
+
+/* Generator */
+.tabs {
+  display: flex;
+  gap: var(--space-1);
+  margin: var(--space-4) 0 var(--space-3);
+  border-bottom: 1px solid var(--line);
+}
+.tabs button {
+  padding: var(--space-2) var(--space-3);
+  background: none;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  color: var(--muted);
+  font: inherit;
+  cursor: pointer;
+}
+.tabs button[aria-selected='true'] {
+  color: var(--fg);
+  border-bottom-color: var(--fg);
+}
+.generator {
+  display: grid;
+  gap: var(--space-3);
+}
+.generator .field {
+  display: grid;
+  gap: var(--space-1);
+  min-width: 0;
+}
+.generator textarea,
+.generator select,
+.generator input[type='text'] {
+  width: 100%;
+  padding: var(--space-2);
+  background: var(--surface);
+  color: var(--fg);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  font-size: 1rem;
+}
+.generator textarea {
+  font-family: var(--font-mono);
+  resize: vertical;
+}
+.generator .controls {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: var(--space-3);
+  align-items: end;
+}
+.generator .row {
+  display: flex;
+  gap: var(--space-1);
+}
+.generator .row button,
+.art-actions button {
+  padding: var(--space-2) var(--space-3);
+  background: var(--surface);
+  color: var(--fg);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  cursor: pointer;
+}
+.generator .segmented {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2) var(--space-3);
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+.generator .segmented legend {
+  margin-bottom: var(--space-1);
+}
+.generator .segmented label,
+.generator .check {
+  display: flex;
+  align-items: center;
+  gap: var(--space-1);
+}
+.generator .hint {
+  margin: 0;
+  padding: var(--space-2) var(--space-3);
+  border-left: 3px solid var(--accent);
+  background: var(--surface);
+}
+.dropzone {
+  display: grid;
+  place-items: center;
+  gap: var(--space-1);
+  padding: var(--space-5) var(--space-3);
+  border: 2px dashed var(--line);
+  border-radius: var(--radius);
+  text-align: center;
+  cursor: pointer;
+}
+.dropzone.dragging {
+  border-color: var(--accent);
+}
+.dropzone input {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  opacity: 0;
+}
+.dropzone .link {
+  color: var(--accent);
+}
+.art-output {
+  display: grid;
+  gap: var(--space-2);
+}
+.art-frame {
+  container-type: inline-size;
+  padding: var(--space-3);
+  background: var(--surface);
+  border-radius: var(--radius);
+  overflow-x: auto;
+}
+.art {
+  margin: 0;
+  /* Monospace glyphs are about 0.6em wide: fit the widest line, between 6px and 16px. */
+  font-size: clamp(6px, calc(100cqw / (var(--cols) * 0.6)), 16px);
+  line-height: 1.25;
+  white-space: pre;
+}
+.art.solid {
+  line-height: 1;
+}
+.art-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: var(--space-2);
+}
+.art-actions span {
+  margin-right: auto;
+}

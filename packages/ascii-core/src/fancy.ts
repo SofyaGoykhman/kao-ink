@@ -78,7 +78,7 @@ const DOUBLE_STRUCK_HOLES = pairs('CℂHℍNℕPℙQℚRℝZℤ');
 
 /** Fullwidth Forms: U+FF01..FF5E mirror ASCII U+0021..007E; space becomes U+3000. */
 function fullwidth(): Map<string, string> {
-  const map = new Map<string, string>([[' ', '　']]);
+  const map = new Map<string, string>([[' ', '\u3000']]);
   for (let code = 0x21; code <= 0x7e; code++) map.set(cp(code), cp(code + 0xfee0));
   return map;
 }

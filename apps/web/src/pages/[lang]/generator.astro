@@ -1,0 +1,73 @@
+---
+import Base from '../../layouts/Base.astro';
+import GeneratorTabs from '../../components/generator/GeneratorTabs';
+import { langs, useTranslations, type Lang } from '../../i18n/ui';
+
+export function getStaticPaths() {
+  return langs.map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as Lang;
+const t = useTranslations(lang);
+const output = {
+  copy: t('copy.copy'),
+  download: t('gen.download'),
+  size: t('gen.size'),
+  columns: t('width.columns'),
+  lines: t('width.lines'),
+};
+const modes = {
+  braille: t('gen.mode.braille'),
+  blocks: t('gen.mode.blocks'),
+  quadrants: t('gen.mode.quadrants'),
+  ramp: t('gen.mode.ramp'),
+  edges: t('gen.mode.edges'),
+};
+---
+
+<Base lang={lang} title={t('nav.generator')} description={t('generator.lead')}>
+  <h1>{t('nav.generator')}</h1>
+  <p class="muted">{t('generator.lead')}</p>
+  <GeneratorTabs
+    client:load
+    tabs={{ text: t('gen.tab.text'), image: t('gen.tab.image') }}
+    textLabels={{
+      ...output,
+      text: t('gen.text'),
+      sample: t('gen.sample'),
+      style: t('gen.style'),
+      figlet: t('gen.figlet'),
+      raster: t('gen.raster'),
+      font: t('gen.font'),
+      cyrillicFonts: t('gen.cyrillicFonts'),
+      otherFonts: t('gen.otherFonts'),
+      noCyrillic: t('gen.noCyrillic'),
+      rasterFont: t('gen.rasterFont'),
+      rasterMode: t('gen.rasterMode'),
+      modes,
+      width: t('gen.width'),
+      prev: t('gen.prev'),
+      next: t('gen.next'),
+    }}
+    imageLabels={{
+      ...output,
+      drop: t('gen.drop'),
+      choose: t('gen.choose'),
+      notImage: t('gen.notImage'),
+      mode: t('gen.mode'),
+      modes,
+      width: t('gen.width'),
+      invert: t('gen.invert'),
+      contrast: t('gen.contrast'),
+      brightness: t('gen.brightness'),
+      threshold: t('gen.threshold'),
+      dither: t('gen.dither'),
+      dithers: {
+        none: t('gen.dither.none'),
+        'floyd-steinberg': t('gen.dither.floyd-steinberg'),
+        atkinson: t('gen.dither.atkinson'),
+      },
+      ramp: t('gen.ramp'),
+    }}
+  />
+</Base>

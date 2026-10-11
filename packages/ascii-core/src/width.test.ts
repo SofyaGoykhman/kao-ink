@@ -32,7 +32,7 @@ describe('graphemeWidth', () => {
   });
 
   it('gives zero width to controls and invisible format characters', () => {
-    expect(graphemeWidth('​')).toBe(0);
+    expect(graphemeWidth('\u200b')).toBe(0);
     expect(graphemeWidth('\u0007')).toBe(0);
   });
 
@@ -43,7 +43,7 @@ describe('graphemeWidth', () => {
 
   it('counts braille and block elements as one column', () => {
     expect(graphemeWidth('⣿')).toBe(1);
-    expect(graphemeWidth('⠀')).toBe(1);
+    expect(graphemeWidth('\u2800')).toBe(1);
     expect(graphemeWidth('█')).toBe(1);
   });
 });

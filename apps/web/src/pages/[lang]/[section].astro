@@ -5,7 +5,7 @@ import { langs, sections, useTranslations, type Lang, type Section } from '../..
 export function getStaticPaths() {
   return langs.flatMap((lang) =>
     sections
-      .filter((section) => section !== 'library')
+      .filter((section) => section !== 'library' && section !== 'generator')
       .map((section) => ({ params: { lang, section } })),
   );
 }
