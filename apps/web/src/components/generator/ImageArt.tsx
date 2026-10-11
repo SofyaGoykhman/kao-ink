@@ -193,7 +193,7 @@ export default function ImageArt({ labels }: { labels: ImageArtLabels }) {
         </label>
       </div>
 
-      {bitmap && <ArtOutput art={art} labels={labels} filename="kao-ink-art.txt" />}
+      {bitmap && <ArtOutput art={art} labels={labels} filename="kao-ink-art.txt" solid={binary} />}
     </div>
   );
 }

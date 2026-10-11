@@ -374,8 +374,11 @@ h2 {
   margin: 0;
   /* Monospace glyphs are about 0.6em wide: fit the widest line, between 6px and 16px. */
   font-size: clamp(6px, calc(100cqw / (var(--cols) * 0.6)), 16px);
-  line-height: 1.1;
+  line-height: 1.25;
   white-space: pre;
+}
+.art.solid {
+  line-height: 1;
 }
 .art-actions {
   display: flex;

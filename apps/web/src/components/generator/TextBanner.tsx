@@ -166,7 +166,12 @@ export default function TextBanner({ labels }: { labels: TextBannerLabels }) {
         <p class="hint">{labels.noCyrillic}</p>
       )}
 
-      <ArtOutput art={art} labels={labels} filename="kao-ink-banner.txt" />
+      <ArtOutput
+        art={art}
+        labels={labels}
+        filename="kao-ink-banner.txt"
+        solid={kind === 'raster' && rasterMode !== 'ramp'}
+      />
     </div>
   );
 }
