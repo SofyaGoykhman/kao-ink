@@ -1,0 +1,138 @@
+---
+// Test drawings for measuring how Telegram, Instagram and Threads lay out text art.
+// Not linked from the navigation; shared with testers directly.
+import Base from '../../../layouts/Base.astro';
+import { imageToAscii, trimArt, type Bitmap } from '@kaomoji/ascii-core';
+import { langs, type Lang } from '../../../i18n/ui';
+
+export function getStaticPaths() {
+  return langs.map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as Lang;
+const ru = lang === 'ru';
+
+/** A filled heart, black on white. */
+function heart(size: number): Bitmap {
+  const data = new Uint8ClampedArray(size * size * 4);
+  for (let py = 0; py < size; py++) {
+    for (let px = 0; px < size; px++) {
+      const x = ((px + 0.5) / size) * 3 - 1.5;
+      const y = 1.3 - ((py + 0.5) / size) * 2.8;
+      const inside = (x * x + y * y - 1) ** 3 - x * x * y ** 3 <= 0;
+      const v = inside ? 0 : 255;
+      data.set([v, v, v, 255], (py * size + px) * 4);
+    }
+  }
+  return { width: size, height: size, data };
+}
+
+const BLANK = '\u2800';
+const braille = trimArt(imageToAscii(heart(240), { columns: 22, mode: 'braille' }).text);
+const blocks = trimArt(imageToAscii(heart(240), { columns: 22, mode: 'blocks' }).text);
+const ruler = Array.from({ length: 15 }, (_, i) => 16 + i * 2)
+  .map((n) => `${n} ${'⣿'.repeat(n)}`)
+  .join('\n');
+
+const tests = [
+  {
+    id: 'T1',
+    title: ru ? 'Линейка ширины' : 'Width ruler',
+    note: ru
+      ? 'Строки из 16…44 знаков Брайля. Покажет, с какой длины строка переносится.'
+      : 'Rows of 16…44 Braille cells. Shows the length at which a row wraps.',
+    art: ruler,
+  },
+  {
+    id: 'T2',
+    title: ru ? 'Брайль с пустым Брайлем' : 'Braille with blank Braille',
+    note: ru
+      ? 'Пустые места — невидимый символ U+2800. Сердце должно остаться ровным.'
+      : 'Empty cells use the invisible U+2800. The heart should stay intact.',
+    art: braille,
+  },
+  {
+    id: 'T3',
+    title: ru ? 'Брайль с пробелами' : 'Braille with spaces',
+    note: ru
+      ? 'То же сердце, но пустоты — обычные пробелы. Скорее всего, разъедется.'
+      : 'The same heart with ordinary spaces. It will probably fall apart.',
+    art: braille.replaceAll(BLANK, ' '),
+  },
+  {
+    id: 'T4',
+    title: ru ? 'Блоки' : 'Blocks',
+    note: ru ? 'Сердце из ▀▄█ и пробелов.' : 'A heart made of ▀▄█ and spaces.',
+    art: blocks,
+  },
+  {
+    id: 'T5',
+    title: ru ? 'Обычный ASCII' : 'Plain ASCII',
+    note: ru ? 'Классический ASCII-рисунок с пробелами.' : 'Classic ASCII art with spaces.',
+    art: [' /\\_/\\ ', '( o.o )', ' > ^ < ', '/|   |\\', ' |___| '].join('\n'),
+  },
+];
+---
+
+<Base lang={lang} title={ru ? 'Калибровка форматтера' : 'Formatter calibration'} noindex>
+  <h1>{ru ? 'Калибровка форматтера' : 'Formatter calibration'}</h1>
+  <ol class="steps">
+    {ru ? (
+      <>
+        <li>Откройте эту страницу на телефоне.</li>
+        <li>
+          Нажмите «Копировать» у теста и вставьте его в Telegram (сообщение себе в «Избранное»),
+          подпись к посту в Instagram, текст сторис и пост в Threads. Отправлять публично не нужно —
+          хватит черновика или превью.
+        </li>
+        <li>Сделайте скриншоты. Подпишите, где какое приложение и телефон (iPhone / Android).</li>
+      </>
+    ) : (
+      <>
+        <li>Open this page on your phone.</li>
+        <li>
+          Tap “Copy” on a test and paste it into Telegram (a message to Saved Messages), an
+          Instagram caption, a story text and a Threads post. Drafts or previews are enough.
+        </li>
+        <li>Take screenshots, noting the app and the phone (iPhone / Android).</li>
+      </>
+    )}
+  </ol>
+  {tests.map((test) => (
+    <section class="test">
+      <h2>
+        {test.id}. {test.title}
+      </h2>
+      <p class="muted">{test.note}</p>
+      <pre class="art">{test.art}</pre>
+      <button type="button" data-copy={test.art}>
+        {ru ? 'Копировать' : 'Copy'} {test.id}
+      </button>
+    </section>
+  ))}
+</Base>
+
+<style>
+  .steps {
+    padding-left: var(--space-4);
+  }
+  .test {
+    margin-top: var(--space-5);
+  }
+  .art {
+    padding: var(--space-3);
+    background: var(--surface);
+    border-radius: var(--radius);
+    overflow-x: auto;
+    line-height: 1.1;
+  }
+  button {
+    padding: var(--space-2) var(--space-4);
+    background: var(--fg);
+    color: var(--bg);
+    border: 0;
+    border-radius: var(--radius);
+    font-size: 1rem;
+    cursor: pointer;
+  }
+</style>

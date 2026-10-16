@@ -7,9 +7,11 @@ interface Props {
   lang: Lang;
   title?: string;
   description?: string;
+  /** Keep the page out of search engines (service pages). */
+  noindex?: boolean;
 }
 
-const { lang, title, description } = Astro.props;
+const { lang, title, description, noindex = false } = Astro.props;
 const t = useTranslations(lang);
 const pageTitle = title ? `${title} · ${SITE_NAME}` : `${SITE_NAME} — ${t('site.tagline')}`;
 const path = Astro.url.pathname;
@@ -23,6 +25,7 @@ const path = Astro.url.pathname;
     <title>{pageTitle}</title>
     <meta name="description" content={description ?? t('site.tagline')} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    {noindex && <meta name="robots" content="noindex" />}
     {langs.map((l) => (
       <link
         rel="alternate"

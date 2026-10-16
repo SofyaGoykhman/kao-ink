@@ -3,3 +3,4 @@ export * from './fancy.ts';
 export * from './search.ts';
 export * from './image.ts';
 export * from './trim.ts';
+export * from './format.ts';
