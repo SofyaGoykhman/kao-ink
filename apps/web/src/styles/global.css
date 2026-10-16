@@ -389,3 +389,31 @@ h2 {
 .art-actions span {
   margin-right: auto;
 }
+
+/* Formatter */
+.generator button.primary {
+  padding: var(--space-2) var(--space-4);
+  background: var(--fg);
+  color: var(--bg);
+  border: 0;
+  border-radius: var(--radius);
+  font-size: 1rem;
+  cursor: pointer;
+}
+.app-preview h2 {
+  font-size: 1.1rem;
+  margin: var(--space-3) 0 var(--space-1);
+}
+.app-preview .bubble {
+  display: inline-block;
+  max-width: 100%;
+  padding: var(--space-2) var(--space-3);
+  background: var(--surface);
+  border-radius: 14px;
+  /* What chat apps use: the platform's proportional UI font. */
+  font-family: -apple-system, 'SF Pro Text', Roboto, 'Segoe UI', sans-serif;
+  font-size: 15px;
+  line-height: 1.25;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}

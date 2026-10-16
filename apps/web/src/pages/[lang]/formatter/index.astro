@@ -1,0 +1,53 @@
+---
+import Base from '../../../layouts/Base.astro';
+import Formatter from '../../../components/formatter/Formatter';
+import { langs, useTranslations, type Lang } from '../../../i18n/ui';
+
+export function getStaticPaths() {
+  return langs.map((lang) => ({ params: { lang } }));
+}
+
+const lang = Astro.params.lang as Lang;
+const t = useTranslations(lang);
+---
+
+<Base lang={lang} title={t('nav.formatter')} description={t('formatter.lead')}>
+  <h1>{t('nav.formatter')}</h1>
+  <p class="muted">{t('formatter.lead')}</p>
+  <!-- Client-only: the formatter draws on a canvas, which does not exist at build time. -->
+  <Formatter
+    client:only="preact"
+    labels={{
+      copy: t('copy.copy'),
+      download: t('gen.download'),
+      size: t('gen.size'),
+      columns: t('width.columns'),
+      lines: t('width.lines'),
+      input: t('fmt.input'),
+      placeholder: t('fmt.placeholder'),
+      platform: t('fmt.platform'),
+      platforms: {
+        telegram: t('fmt.platform.telegram'),
+        'instagram-post': t('fmt.platform.instagram-post'),
+        threads: t('fmt.platform.threads'),
+        story: t('fmt.platform.story'),
+      },
+      method: t('fmt.method'),
+      braille: t('fmt.braille'),
+      asIs: t('fmt.asIs'),
+      width: t('gen.width'),
+      threshold: t('gen.threshold'),
+      invert: t('gen.invert'),
+      chars: t('fmt.chars'),
+      tooLong: t('fmt.tooLong'),
+      asIsWarning: t('fmt.asIsWarning'),
+      preview: t('fmt.preview'),
+      previewNote: t('fmt.previewNote'),
+      storyColors: t('fmt.storyColors'),
+      storyDark: t('fmt.storyDark'),
+      storyLight: t('fmt.storyLight'),
+      storyDownload: t('fmt.storyDownload'),
+      empty: t('fmt.empty'),
+    }}
+  />
+</Base>
